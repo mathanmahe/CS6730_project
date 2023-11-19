@@ -1,4 +1,6 @@
-scripts/
+scripts/*
+!scripts/parsed
+
 config.py
 metadata/
 
