@@ -1,0 +1,15 @@
+.vis {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+}
+
+.step {
+  position: relative;
+  z-index: 100;
+  width: 100vw;
+  height: 100vh;
+  padding: 50px;
+}
