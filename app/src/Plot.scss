@@ -1,0 +1,27 @@
+.axis {
+  path,
+  line {
+    stroke: #cbcbcb;
+  }
+  text {
+    fill: #cecdcd;
+  }
+}
+
+.dialogue-container {
+  position: absolute;
+  padding: inherit;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  opacity: 0;
+  display: flex;
+
+  .dialogue {
+    height: fit-content;
+    p {
+      display: inline;
+    }
+  }
+}

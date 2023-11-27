@@ -27,5 +27,6 @@ export const useResponsiveChart = () => {
     width,
     height,
     svgRef,
+    getContainerSize,
   };
 };
