@@ -300,12 +300,10 @@ const Plot = ({ activeStep }: { activeStep: number }) => {
             .attr("stroke", "#fff")
             .attr("stroke-width", 0.2)
             .attr("fill-opacity", 0)
-            .attr("fill", (d) =>
-              d.femalePercentage > 0.5 ? "#ff8018" : "none"
-            )
+            .attr("fill", "#ff8018")
             .transition()
             .duration(1000)
-            .delay(1000)
+            .delay(500)
             .attr("width", scriptBoxWidth + pad * 2);
         });
     };
@@ -324,7 +322,7 @@ const Plot = ({ activeStep }: { activeStep: number }) => {
           .selectAll("rect")
           .transition()
           .duration(1000)
-          .attr("fill-opacity", 1)
+          .attr("fill-opacity", (d) => d.femalePercentage.toFixed(2))
           .transition()
           .duration(1000)
           .delay((d, i) => {
