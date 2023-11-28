@@ -151,6 +151,7 @@ const Plot = ({ activeStep }: { activeStep: number }) => {
 
     // Step0: title
     const showTitle = () => {
+      resetDialoguePlot();
       xAxisGroup.transition().duration(200).attr("opacity", 0);
       yAxisGroup.transition().duration(200).attr("opacity", 0);
 
@@ -183,6 +184,7 @@ const Plot = ({ activeStep }: { activeStep: number }) => {
 
     // Step1: Scatter plot
     const showStep1 = () => {
+      resetDialoguePlot();
       xAxisGroup.transition().duration(1600).attr("opacity", 1);
       yAxisGroup.transition().duration(1600).attr("opacity", 1);
 
@@ -202,6 +204,8 @@ const Plot = ({ activeStep }: { activeStep: number }) => {
 
     // Step2: Select 2 movies.
     const showStep2 = () => {
+      resetDialoguePlot();
+
       dialogueDiv.transition().duration(600).style("opacity", 0);
 
       xAxisGroup.transition().duration(600).attr("opacity", 0);
@@ -231,10 +235,11 @@ const Plot = ({ activeStep }: { activeStep: number }) => {
     // Step2: Explain dialog analysis.
     const showStep3 = () => {
       resetDialoguePlot();
+
       dialogueDiv
-        .style("color", "#fff")
         .selectAll("p")
-        .style("background-color", "transparent");
+        .style("background-color", "transparent")
+        .style("color", "#fff");
 
       dialogueDiv.style("gap", scriptBoxGap + "px");
       dialogueDiv
@@ -262,15 +267,7 @@ const Plot = ({ activeStep }: { activeStep: number }) => {
         })
         .transition()
         .duration(400)
-        .attr("opacity", 0)
-        .on("end", () => {
-          dialogueDiv
-            .selectAll("p.female")
-            .transition()
-            .duration(1000)
-            .delay(100)
-            .style("background", "#ff8018");
-        });
+        .attr("opacity", 0);
     };
 
     const showStep4 = () => {
@@ -284,42 +281,53 @@ const Plot = ({ activeStep }: { activeStep: number }) => {
         .duration(1000)
         .style("font-size", 2.5 + "px")
         .on("end", (_, idx, nodes) => {
-          dialogueDiv.transition().duration(1000).style("color", "transparent");
-          const boxHeight = nodes[idx]?.clientHeight;
-          const chunkHeight = boxHeight / chunkSize;
-          const dialoguePlot = dialoguePlotGroup.select(
-            `g.dialogue-plot.movie-${idx}`
-          );
-          const pad = 10;
-          dialoguePlot
-            .selectAll("rect")
-            .attr("x", idx * scriptBoxWidth + idx * scriptBoxGap - pad)
-            .attr("y", (d, i) => i * chunkHeight)
-            .attr("width", 0)
-            .attr("height", chunkHeight)
-            .attr("stroke", "#fff")
-            .attr("stroke-width", 0.2)
-            .attr("fill-opacity", 0)
-            .attr("fill", "#ff8018")
+          dialogueDiv
+            .selectAll("p.female")
             .transition()
-            .duration(1000)
-            .delay(500)
-            .attr("width", scriptBoxWidth + pad * 2);
+            .delay(200)
+            .duration(3000)
+            .style("color", "#ff8018")
+            .style("background-color", "#ff8018");
+
+          dialogueDiv
+            .selectAll("p.male")
+            .transition()
+            .duration(3000)
+            .style("color", "#000");
         });
     };
 
     const showStep5 = () => {
-      dialogueDiv.transition().duration(1000).style("opacity", 0);
-      const plots = dialoguePlotGroup.selectAll(".dialogue-plot").nodes();
+      dialogueDiv.transition().delay(1000).duration(1000).style("opacity", 0);
 
-      const binSize = 30;
-      const binPad = 0;
-      const numPerRow = Math.sqrt(chunkSize);
+      const divs = dialogueDiv.selectAll(`.dialogue`).nodes();
 
-      plots.forEach((plot, i) => {
-        const boxPosX = i * scriptBoxWidth + i * scriptBoxGap;
-        d3.select(plot)
+      divs.forEach((div, idx) => {
+        const boxHeight = div?.clientHeight;
+        const chunkHeight = boxHeight / chunkSize;
+        const dialoguePlot = dialoguePlotGroup.select(
+          `g.dialogue-plot.movie-${idx}`
+        );
+
+        const binSize = 30;
+        const binPad = 0;
+        const numPerRow = Math.sqrt(chunkSize);
+        const boxPosX = idx * scriptBoxWidth + idx * scriptBoxGap;
+
+        const pad = 10;
+        dialoguePlot
           .selectAll("rect")
+          .attr("x", idx * scriptBoxWidth + idx * scriptBoxGap - pad)
+          .attr("y", (d, i) => i * chunkHeight)
+          .attr("width", 0)
+          .attr("height", chunkHeight)
+          .attr("stroke", "#fff")
+          .attr("stroke-width", 0.2)
+          .attr("fill-opacity", 0)
+          .attr("fill", "#ff8018")
+          .transition()
+          .duration(1000)
+          .attr("width", scriptBoxWidth + pad * 2)
           .transition()
           .duration(1000)
           .attr("fill-opacity", (d) => d.femalePercentage.toFixed(2))
@@ -385,6 +393,7 @@ const Plot = ({ activeStep }: { activeStep: number }) => {
                 key={d.id}
                 className={classNames({
                   female: d.gender === "F",
+                  male: d.gender === "M",
                 })}
               >
                 {d.line + " "}
