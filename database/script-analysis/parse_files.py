@@ -601,19 +601,31 @@ if __name__ == "__main__":
     f.close()
 
     # for script in tqdm(meta):
-    for script in ["10-Things-I-Hate-About-You","12-and-Holding"]:
+    # for script in ["10-Things-I-Hate-About-You","12-and-Holding"]:
 
-        # file = meta[script]["file"]
-        file_orig = join(DIR_FINAL, script + ".txt")
+    #     # file = meta[script]["file"]
+    #     file_orig = join(DIR_FINAL, script + ".txt")
+    #     save_dir = DIR_OUT
+    #     abr_flag = "on"
+    #     tag_flag = "off"
+    #     char_flag = "on"
+    #     off_flag = "off"
+    #     save_name = script + "_parsed.txt"
+    #     abridged_name = script + "_dialogue.txt"
+    #     tag_name = None
+    #     charinfo_name = script + "_charinfo.txt"
+    for script in tqdm(meta):
+        file = meta[script]["file"]
+        file_orig = join(DIR_FINAL, file["file_name"] + ".txt")
         save_dir = DIR_OUT
         abr_flag = "on"
         tag_flag = "off"
         char_flag = "on"
         off_flag = "off"
-        save_name = script + "_parsed.txt"
-        abridged_name = script + "_dialogue.txt"
+        save_name = file["file_name"] + "_parsed.txt"
+        abridged_name = file["file_name"] + "_dialogue.txt"
         tag_name = None
-        charinfo_name = script + "_charinfo.txt"
+        charinfo_name = file["file_name"] + "_charinfo.txt"
 
         try:
             parse(file_orig, save_dir, abr_flag, tag_flag, char_flag,
