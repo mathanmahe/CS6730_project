@@ -1,4 +1,4 @@
-import cv2, os
+import cv2, os, json
 import numpy as np
 
 
@@ -146,19 +146,7 @@ class Mouse_Click_Correspondence(object):
         #np.save('p1.npy', points_1)
         #np.save('p2.npy', points_2)
 
-    def driver2(self,img):
-        # reading the image
-        # path = r'D:\GaTech\TA - CV\ps05\ps05\ps5-1-b-1.png'
-        #path1 = r'1a_notredame.jpg'
-        #path2 = r'1b_notredame.jpg'
-
-
-        #path1 = self.path1
-        #path2 = self.path2
-
-        # path1 = r'crop1.jpg'
-        # path2 = r'crop2.jpg'
-
+    def driver2(self,img, imgname):
         self.img = img
 
 
@@ -177,50 +165,30 @@ class Mouse_Click_Correspondence(object):
         # close the window
         cv2.destroyAllWindows()
 
-        #print('sx1 sy1', self.sx1, self.sy1)
-        #print('sx2 sy2', self.sx2, self.sy2)
-
         points1 = []
+        genders = []
+        i = 0
         for x, y in zip(self.sx1, self.sy1):
+            i += 1
+            if i%2 == 0:
+                genders.append(input('Gender: '))
             points1.append((x, y))
-
-        points_1 = np.array(points1)
-
-        """for x, y in zip(self.sx2, self.sy2):
-            points2.append((x, y))
-
-        points_2 = np.array(points2)"""
-        #print(points_1)
-
         
+        v = {}
+        filename = '126_250.json' #Put 1_125.json here
+        with open(filename, 'r') as fp:
+            v = json.load(fp)
+        v[imgname.split('_')[1]] = {'points': points1, 'genders': genders}
+        with open(filename, 'w+') as fp:
+            fp.write(json.dumps(v, indent=4))
+        
+        return points1, genders
 
-
-        #np.save('p1.npy', points_1)
-        #np.save('p2.npy', points_2)
-
-
-
-
-test_image = cv2.imread("231_tt1028532.jpg")
-#cv2.imshow("idiot stupid mf", test_image)
-#cv2.waitKey(0)
-
-
-Mouse_Click_Correspondence().driver2(test_image)
-
-
-#for i in sorted(os.listdir('.')):
-
-    
-"""
+# run `echo {} > 1_125.json` before running your script
+for i in sorted(os.listdir('.')):
         if i[-3:] == 'jpg':
-        if int(i.split('_')[0]) < 126:
-            continue
+            if int(i.split('_')[0]) < 126: # You can make it >125
+                continue
+            image = cv2.imread(i)
+            Mouse_Click_Correspondence().driver2(image, i)
 
-        image = cv2.imread(i)
-        #img = cv2.imread(path1, 1)
-
-        print(i)
-        cv2.imshow(i, image)
-        cv2.waitKey(-1)
-"""
