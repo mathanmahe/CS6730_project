@@ -9,6 +9,7 @@
 }
 
 .dialogue-container {
+  pointer-events: none;
   position: absolute;
   padding: inherit;
   top: 0;
@@ -24,4 +25,11 @@
       display: inline;
     }
   }
+}
+
+.tooltip {
+  position: absolute;
+  // pointer-events: none;
+  background: white;
+  color: black;
 }
