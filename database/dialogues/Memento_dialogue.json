@@ -1,0 +1,5324 @@
+{
+  "fileName": "Memento_dialogue.txt",
+  "title": "Memento",
+  "data": [
+    {
+      "id": 0,
+      "index": 0,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "So where are you?",
+      "wordCount": 4
+    },
+    {
+      "id": 1,
+      "index": 1,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Looks like somebody's home.",
+      "wordCount": 4
+    },
+    {
+      "id": 2,
+      "index": 2,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "That thing's been here for years.",
+      "wordCount": 6
+    },
+    {
+      "id": 3,
+      "index": 3,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "I think you're wrong. These tracks aren't * more than a few days old.",
+      "wordCount": 14
+    },
+    {
+      "id": 4,
+      "index": 4,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "Find anything? Didn't think so, let's go, yeah?",
+      "wordCount": 8
+    },
+    {
+      "id": 5,
+      "index": 5,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "YOU PAY FOR WHAT YOU DID! YOU BEG FORGIVENESS, THEN YOU PAY!",
+      "wordCount": 12
+    },
+    {
+      "id": 6,
+      "index": 6,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "You don't have a clue, you freak.",
+      "wordCount": 7
+    },
+    {
+      "id": 7,
+      "index": 7,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Beg my forgiveness! Beg my wife's forgiveness before I blow your brains out!",
+      "wordCount": 13
+    },
+    {
+      "id": 8,
+      "index": 8,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "Leonard, you don't have a clue what's going on. You don't even know my name.",
+      "wordCount": 15
+    },
+    {
+      "id": 9,
+      "index": 9,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Teddy!",
+      "wordCount": 1
+    },
+    {
+      "id": 10,
+      "index": 10,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "You read it off your fucking photo. You don't know me, you don't even know who you are.",
+      "wordCount": 18
+    },
+    {
+      "id": 11,
+      "index": 11,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "I'm Leonard Shelby, I'm from San Francisco and I'm -",
+      "wordCount": 10
+    },
+    {
+      "id": 12,
+      "index": 12,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "That's who you were, you don't know who you are.",
+      "wordCount": 10
+    },
+    {
+      "id": 13,
+      "index": 13,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Shut your mouth!",
+      "wordCount": 3
+    },
+    {
+      "id": 14,
+      "index": 14,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "Lemme take you down in the basement and show you what you've become.",
+      "wordCount": 13
+    },
+    {
+      "id": 15,
+      "index": 15,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "So you're in some motel room...",
+      "wordCount": 6
+    },
+    {
+      "id": 16,
+      "index": 16,
+      "character": "BURT",
+      "gender": "Male",
+      "line": "That guy's here already.",
+      "wordCount": 4
+    },
+    {
+      "id": 17,
+      "index": 17,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "Lenny!",
+      "wordCount": 1
+    },
+    {
+      "id": 18,
+      "index": 18,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "It's Leonard... like I told you before.",
+      "wordCount": 7
+    },
+    {
+      "id": 19,
+      "index": 19,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "Did you? I musta forgot. I'm Teddy. *",
+      "wordCount": 8
+    },
+    {
+      "id": 20,
+      "index": 20,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "I guess I've told you about my condition.",
+      "wordCount": 8
+    },
+    {
+      "id": 21,
+      "index": 21,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "Only every time I see ya!",
+      "wordCount": 6
+    },
+    {
+      "id": 22,
+      "index": 22,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "My car.",
+      "wordCount": 2
+    },
+    {
+      "id": 23,
+      "index": 23,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "This is your car.",
+      "wordCount": 4
+    },
+    {
+      "id": 24,
+      "index": 24,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "You're in a playful mood.",
+      "wordCount": 5
+    },
+    {
+      "id": 25,
+      "index": 25,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "Just trying to have a little fun.",
+      "wordCount": 7
+    },
+    {
+      "id": 26,
+      "index": 26,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "Roll your window up, will ya?",
+      "wordCount": 6
+    },
+    {
+      "id": 27,
+      "index": 27,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "It's broken.",
+      "wordCount": 2
+    },
+    {
+      "id": 28,
+      "index": 28,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "I can get that fixed for you.",
+      "wordCount": 7
+    },
+    {
+      "id": 29,
+      "index": 29,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "I got a lead on a place.",
+      "wordCount": 7
+    },
+    {
+      "id": 30,
+      "index": 30,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "What the hell you want to go there for?",
+      "wordCount": 9
+    },
+    {
+      "id": 31,
+      "index": 31,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "You know it?",
+      "wordCount": 3
+    },
+    {
+      "id": 32,
+      "index": 32,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "Yeah, it's just this fucked-up building. * Why are we going there?",
+      "wordCount": 12
+    },
+    {
+      "id": 33,
+      "index": 33,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "I don't remember.",
+      "wordCount": 3
+    },
+    {
+      "id": 34,
+      "index": 34,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Looks like somebody's home.",
+      "wordCount": 4
+    },
+    {
+      "id": 35,
+      "index": 35,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Nothing except the Gideon Bible.",
+      "wordCount": 5
+    },
+    {
+      "id": 36,
+      "index": 36,
+      "character": "BURT",
+      "gender": "Male",
+      "line": "Hiya.",
+      "wordCount": 1
+    },
+    {
+      "id": 37,
+      "index": 37,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "I'm Mr. Shelby from 304.",
+      "wordCount": 5
+    },
+    {
+      "id": 38,
+      "index": 38,
+      "character": "BURT",
+      "gender": "Male",
+      "line": "What can I do for you, Leonard?",
+      "wordCount": 7
+    },
+    {
+      "id": 39,
+      "index": 39,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "I'm sorry... um... ?",
+      "wordCount": 4
+    },
+    {
+      "id": 40,
+      "index": 40,
+      "character": "BURT",
+      "gender": "Male",
+      "line": "Burt.",
+      "wordCount": 1
+    },
+    {
+      "id": 41,
+      "index": 41,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Burt, I'm not sure, but I may have asked you to hold my calls - MEMENTO Blue Revisions - 8/27/99",
+      "wordCount": 20
+    },
+    {
+      "id": 42,
+      "index": 42,
+      "character": "BURT",
+      "gender": "Male",
+      "line": "You don't know?",
+      "wordCount": 3
+    },
+    {
+      "id": 43,
+      "index": 43,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "I think I may have. I'm not good on the phone.",
+      "wordCount": 11
+    },
+    {
+      "id": 44,
+      "index": 44,
+      "character": "BURT",
+      "gender": "Male",
+      "line": "You said you like to look people in the eye when you talk to them. Don't you remember?",
+      "wordCount": 18
+    },
+    {
+      "id": 45,
+      "index": 45,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "That's the thing. I have this condition.",
+      "wordCount": 7
+    },
+    {
+      "id": 46,
+      "index": 46,
+      "character": "BURT",
+      "gender": "Male",
+      "line": "Condition?",
+      "wordCount": 1
+    },
+    {
+      "id": 47,
+      "index": 47,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "I have no memory.",
+      "wordCount": 4
+    },
+    {
+      "id": 48,
+      "index": 48,
+      "character": "BURT",
+      "gender": "Male",
+      "line": "Amnesia?",
+      "wordCount": 1
+    },
+    {
+      "id": 49,
+      "index": 49,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "No. It's different. I have no short-term memory. I know who I am and all about myself, but since my injury I can't make any new memories. Everything fades. If we talk for too long, I'll forget how we started. I don't know if we've ever met before, and the next time I see you I won't remember this conversation. So if I seem strange or rude, that's probably...",
+      "wordCount": 69
+    },
+    {
+      "id": 50,
+      "index": 50,
+      "character": "BURT",
+      "gender": "Male",
+      "line": "I don't mean to mess with you. It's just so weird. You don't remember me at all, and we talked a bunch of times.",
+      "wordCount": 24
+    },
+    {
+      "id": 51,
+      "index": 51,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "My wife.",
+      "wordCount": 2
+    },
+    {
+      "id": 52,
+      "index": 52,
+      "character": "BURT",
+      "gender": "Male",
+      "line": "What's it like?",
+      "wordCount": 3
+    },
+    {
+      "id": 53,
+      "index": 53,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Like waking. Like you always just woke up. *",
+      "wordCount": 9
+    },
+    {
+      "id": 54,
+      "index": 54,
+      "character": "BURT",
+      "gender": "Male",
+      "line": "That must suck. All... backwards. *",
+      "wordCount": 6
+    },
+    {
+      "id": 55,
+      "index": 55,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "How long have I been here?",
+      "wordCount": 6
+    },
+    {
+      "id": 56,
+      "index": 56,
+      "character": "BURT",
+      "gender": "Male",
+      "line": "Couple days.",
+      "wordCount": 2
+    },
+    {
+      "id": 57,
+      "index": 57,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "So you're holding my calls?",
+      "wordCount": 5
+    },
+    {
+      "id": 58,
+      "index": 58,
+      "character": "BURT",
+      "gender": "Male",
+      "line": "As requested.",
+      "wordCount": 2
+    },
+    {
+      "id": 59,
+      "index": 59,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Okay, but this guy's an exception.",
+      "wordCount": 6
+    },
+    {
+      "id": 60,
+      "index": 60,
+      "character": "BURT",
+      "gender": "Male",
+      "line": "Your friend, right?",
+      "wordCount": 3
+    },
+    {
+      "id": 61,
+      "index": 61,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "What makes you think he's my friend?",
+      "wordCount": 7
+    },
+    {
+      "id": 62,
+      "index": 62,
+      "character": "BURT",
+      "gender": "Male",
+      "line": "Seen you together, that's all.",
+      "wordCount": 5
+    },
+    {
+      "id": 63,
+      "index": 63,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "He's not my friend, Burt. But if he calls, or if he turns up here, then you give me a call in my room, okay?",
+      "wordCount": 25
+    },
+    {
+      "id": 64,
+      "index": 64,
+      "character": "BURT",
+      "gender": "Male",
+      "line": "Sure. But nobody else, right?",
+      "wordCount": 5
+    },
+    {
+      "id": 65,
+      "index": 65,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Just this guy.",
+      "wordCount": 3
+    },
+    {
+      "id": 66,
+      "index": 66,
+      "character": "BURT",
+      "gender": "Male",
+      "line": "Not if you remember to pay your bill.",
+      "wordCount": 8
+    },
+    {
+      "id": 67,
+      "index": 67,
+      "character": "WAITER",
+      "gender": "Male",
+      "line": "Sir? You left these at your table.",
+      "wordCount": 7
+    },
+    {
+      "id": 68,
+      "index": 68,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Thanks. Lincoln Street?",
+      "wordCount": 3
+    },
+    {
+      "id": 69,
+      "index": 69,
+      "character": "WAITER",
+      "gender": "Male",
+      "line": "You wanna go east on sixth. Just keep straight, all the way out of town, then take a right.",
+      "wordCount": 19
+    },
+    {
+      "id": 70,
+      "index": 70,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "This guy told me his name was Teddy.",
+      "wordCount": 8
+    },
+    {
+      "id": 71,
+      "index": 71,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "Yup?",
+      "wordCount": 1
+    },
+    {
+      "id": 72,
+      "index": 72,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Mr Gammell?",
+      "wordCount": 2
+    },
+    {
+      "id": 73,
+      "index": 73,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "Lenny, is that you?",
+      "wordCount": 4
+    },
+    {
+      "id": 74,
+      "index": 74,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "John Gammell?",
+      "wordCount": 2
+    },
+    {
+      "id": 75,
+      "index": 75,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "Lenny, it's Teddy. Look, stay there, okay? I'm gonna be right over.",
+      "wordCount": 12
+    },
+    {
+      "id": 76,
+      "index": 76,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "I'll be waiting. *",
+      "wordCount": 4
+    },
+    {
+      "id": 77,
+      "index": 77,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Who is this? *",
+      "wordCount": 4
+    },
+    {
+      "id": 78,
+      "index": 78,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Natalie.",
+      "wordCount": 1
+    },
+    {
+      "id": 79,
+      "index": 79,
+      "character": "NATALIE",
+      "gender": "Female",
+      "line": "You don't remember me.",
+      "wordCount": 4
+    },
+    {
+      "id": 80,
+      "index": 80,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Sorry, I should have explained. You see, I have this condition -",
+      "wordCount": 12
+    },
+    {
+      "id": 81,
+      "index": 81,
+      "character": "NATALIE",
+      "gender": "Female",
+      "line": "You did explain, Lenny.",
+      "wordCount": 4
+    },
+    {
+      "id": 82,
+      "index": 82,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Please call me Leonard. My wife called me Lenny.",
+      "wordCount": 9
+    },
+    {
+      "id": 83,
+      "index": 83,
+      "character": "NATALIE",
+      "gender": "Female",
+      "line": "You told me.",
+      "wordCount": 3
+    },
+    {
+      "id": 84,
+      "index": 84,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Then I probably told you how much I hated it. Could you take off your sunglasses? * It's just hard for me - *",
+      "wordCount": 24
+    },
+    {
+      "id": 85,
+      "index": 85,
+      "character": "NATALIE",
+      "gender": "Female",
+      "line": "Yeah.",
+      "wordCount": 1
+    },
+    {
+      "id": 86,
+      "index": 86,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "So you have information for me?",
+      "wordCount": 6
+    },
+    {
+      "id": 87,
+      "index": 87,
+      "character": "NATALIE",
+      "gender": "Female",
+      "line": "Is that what your little note says?",
+      "wordCount": 7
+    },
+    {
+      "id": 88,
+      "index": 88,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Yes.",
+      "wordCount": 1
+    },
+    {
+      "id": 89,
+      "index": 89,
+      "character": "NATALIE",
+      "gender": "Female",
+      "line": "Must be tough living life according to a few scraps of paper. Mix up your laundry list and your grocery list, you'll be eating your underwear.",
+      "wordCount": 26
+    },
+    {
+      "id": 90,
+      "index": 90,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "It is tough. Almost impossible. I'm sorry I can't remember you. It's not personal.",
+      "wordCount": 14
+    },
+    {
+      "id": 91,
+      "index": 91,
+      "character": "NATALIE",
+      "gender": "Female",
+      "line": "I'm sorry.",
+      "wordCount": 2
+    },
+    {
+      "id": 92,
+      "index": 92,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "You know him?",
+      "wordCount": 3
+    },
+    {
+      "id": 93,
+      "index": 93,
+      "character": "NATALIE",
+      "gender": "Female",
+      "line": "No. But the photo on his license looked familiar. I think he's been in the bar before",
+      "wordCount": 17
+    },
+    {
+      "id": 94,
+      "index": 94,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Have I told you what this man did? *",
+      "wordCount": 9
+    },
+    {
+      "id": 95,
+      "index": 95,
+      "character": "NATALIE",
+      "gender": "Female",
+      "line": "Yes.",
+      "wordCount": 1
+    },
+    {
+      "id": 96,
+      "index": 96,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Then you shouldn't have to ask.",
+      "wordCount": 6
+    },
+    {
+      "id": 97,
+      "index": 97,
+      "character": "NATALIE",
+      "gender": "Female",
+      "line": "But even if you get your revenge, you won't remember it. You won't even know it's happened.",
+      "wordCount": 17
+    },
+    {
+      "id": 98,
+      "index": 98,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "* So I'll take a picture, get a tattoo. * * The world doesn't disappear when you * close your eyes, does it? My actions * still have meaning, even if I can't * remember them. My wife deserves * vengeance, and it doesn't make any * difference whether I know about it. *",
+      "wordCount": 54
+    },
+    {
+      "id": 99,
+      "index": 99,
+      "character": "NATALIE",
+      "gender": "Female",
+      "line": "Tell me about her again.",
+      "wordCount": 5
+    },
+    {
+      "id": 100,
+      "index": 100,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Why?",
+      "wordCount": 1
+    },
+    {
+      "id": 101,
+      "index": 101,
+      "character": "NATALIE",
+      "gender": "Female",
+      "line": "Because you like to remember her. I want to see you enjoy yourself.",
+      "wordCount": 13
+    },
+    {
+      "id": 102,
+      "index": 102,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "She was beautiful. Perfect to me - *",
+      "wordCount": 8
+    },
+    {
+      "id": 103,
+      "index": 103,
+      "character": "NATALIE",
+      "gender": "Female",
+      "line": "Don't just recite the words. Close your eyes, remember her.",
+      "wordCount": 10
+    },
+    {
+      "id": 104,
+      "index": 104,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "You can only feel details. Bits and pieces which you didn't bother to put into words. And extreme moments you feel even if you don't want to. Put it together and you get the feel of the person, enough to know how much you miss them, and how much you hate the person who took them away.",
+      "wordCount": 57
+    },
+    {
+      "id": 105,
+      "index": 105,
+      "character": "NATALIE",
+      "gender": "Female",
+      "line": "I wrote an address in there, too. Might be useful. It's this abandoned place outside of town. I guy I know used to use it for his bigger deals.",
+      "wordCount": 29
+    },
+    {
+      "id": 106,
+      "index": 106,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Deals?",
+      "wordCount": 1
+    },
+    {
+      "id": 107,
+      "index": 107,
+      "character": "NATALIE",
+      "gender": "Female",
+      "line": "It's isolated.",
+      "wordCount": 2
+    },
+    {
+      "id": 108,
+      "index": 108,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Sounds perfect? What do I owe you?",
+      "wordCount": 7
+    },
+    {
+      "id": 109,
+      "index": 109,
+      "character": "NATALIE",
+      "gender": "Female",
+      "line": "I wasn't helping you for money.",
+      "wordCount": 6
+    },
+    {
+      "id": 110,
+      "index": 110,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Sorry.",
+      "wordCount": 1
+    },
+    {
+      "id": 111,
+      "index": 111,
+      "character": "NATALIE",
+      "gender": "Female",
+      "line": "It's not your fault. See, you have this condition...",
+      "wordCount": 9
+    },
+    {
+      "id": 112,
+      "index": 112,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "The Discount Inn, yeah. *",
+      "wordCount": 5
+    },
+    {
+      "id": 113,
+      "index": 113,
+      "character": "NATALIE",
+      "gender": "Female",
+      "line": "They treating you alright?",
+      "wordCount": 4
+    },
+    {
+      "id": 114,
+      "index": 114,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Don't remember.",
+      "wordCount": 2
+    },
+    {
+      "id": 115,
+      "index": 115,
+      "character": "NATALIE",
+      "gender": "Female",
+      "line": "You know what we have in common?",
+      "wordCount": 7
+    },
+    {
+      "id": 116,
+      "index": 116,
+      "character": "\"THE FACTS:\"",
+      "gender": "NA",
+      "line": "MEMENTO Blue Revisions - 8/27/99",
+      "wordCount": 5
+    },
+    {
+      "id": 117,
+      "index": 117,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "I met Sammy through work. Insurance. I was an investigator. I'd * investigate claims to see which ones * were phony. *",
+      "wordCount": 22
+    },
+    {
+      "id": 118,
+      "index": 118,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Throw in the occasional \"why?\" but just listen. And watch the eyes, the body * language.",
+      "wordCount": 16
+    },
+    {
+      "id": 119,
+      "index": 119,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "I'm sorry, I think I'm checked in here, But I've misplaced my key.",
+      "wordCount": 13
+    },
+    {
+      "id": 120,
+      "index": 120,
+      "character": "BURT",
+      "gender": "Male",
+      "line": "Hi, Leonard.",
+      "wordCount": 2
+    },
+    {
+      "id": 121,
+      "index": 121,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "I don't see my key.",
+      "wordCount": 5
+    },
+    {
+      "id": 122,
+      "index": 122,
+      "character": "BURT",
+      "gender": "Male",
+      "line": "Shit. Wrong room.",
+      "wordCount": 3
+    },
+    {
+      "id": 123,
+      "index": 123,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "What?",
+      "wordCount": 1
+    },
+    {
+      "id": 124,
+      "index": 124,
+      "character": "BURT",
+      "gender": "Male",
+      "line": "This isn't your room. You're in 304. I Fucked up.",
+      "wordCount": 10
+    },
+    {
+      "id": 125,
+      "index": 125,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "This isn't my room?",
+      "wordCount": 4
+    },
+    {
+      "id": 126,
+      "index": 126,
+      "character": "BURT",
+      "gender": "Male",
+      "line": "No, let's go.",
+      "wordCount": 3
+    },
+    {
+      "id": 127,
+      "index": 127,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Then why is this my handwriting?",
+      "wordCount": 6
+    },
+    {
+      "id": 128,
+      "index": 128,
+      "character": "BURT",
+      "gender": "Male",
+      "line": "This was your room. You're up in 304 now.",
+      "wordCount": 9
+    },
+    {
+      "id": 129,
+      "index": 129,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "When was I in here?",
+      "wordCount": 5
+    },
+    {
+      "id": 130,
+      "index": 130,
+      "character": "BURT",
+      "gender": "Male",
+      "line": "Last week. Then I rented you another one On top of this.",
+      "wordCount": 12
+    },
+    {
+      "id": 131,
+      "index": 131,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Why?",
+      "wordCount": 1
+    },
+    {
+      "id": 132,
+      "index": 132,
+      "character": "BURT",
+      "gender": "Male",
+      "line": "Business is slow. I told my boss about You, about your condition. He told me to Try and rent you another room.",
+      "wordCount": 22
+    },
+    {
+      "id": 133,
+      "index": 133,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Why didn't you clean it out? *",
+      "wordCount": 7
+    },
+    {
+      "id": 134,
+      "index": 134,
+      "character": "BURT",
+      "gender": "Male",
+      "line": "You're still paying for it. It's still Your room.",
+      "wordCount": 9
+    },
+    {
+      "id": 135,
+      "index": 135,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "So how many rooms am I checked into in this dump?",
+      "wordCount": 11
+    },
+    {
+      "id": 136,
+      "index": 136,
+      "character": "BURT",
+      "gender": "Male",
+      "line": "Just two. So far. *",
+      "wordCount": 5
+    },
+    {
+      "id": 137,
+      "index": 137,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Well, at least you're being honest about cheating me.",
+      "wordCount": 9
+    },
+    {
+      "id": 138,
+      "index": 138,
+      "character": "BURT",
+      "gender": "Male",
+      "line": "Yeah, well you're not gonna remember, anyway.",
+      "wordCount": 7
+    },
+    {
+      "id": 139,
+      "index": 139,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "You don't have to be that honest, Burt.",
+      "wordCount": 8
+    },
+    {
+      "id": 140,
+      "index": 140,
+      "character": "BURT",
+      "gender": "Male",
+      "line": "Leonard.",
+      "wordCount": 1
+    },
+    {
+      "id": 141,
+      "index": 141,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "I'm gonna write that down.",
+      "wordCount": 5
+    },
+    {
+      "id": 142,
+      "index": 142,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "I'd just become an investigator when I came across Sammy. Mr Samuel R. Jankis - strangest case ever. Guy's 58, semi- retired accountant. He and his wife had been in this car accident... nothing too serious, but he's acting funny - he can't get a handle on what's going on.",
+      "wordCount": 50
+    },
+    {
+      "id": 143,
+      "index": 143,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "The doctors find some possible damaqe to the hippocampus, nothing conclusive. But Sammy can't remember anything for more than a couple minutes. He can't work, can't do shit, medical bills pile up, his wife calls the insurance company and I get sent in.",
+      "wordCount": 43
+    },
+    {
+      "id": 144,
+      "index": 144,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "My first big claims investigation - I really check into it. Sammy can think just fine, but he can't make any new memories, he can only remember things for a few minutes.",
+      "wordCount": 32
+    },
+    {
+      "id": 145,
+      "index": 145,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "He'd watch T.V., but anything longer than a couple of minutes was too confusing, he couldn't remember how it began. He liked commercials. They were short.",
+      "wordCount": 26
+    },
+    {
+      "id": 146,
+      "index": 146,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "... and as long as he kept his mind on what he was doing.",
+      "wordCount": 14
+    },
+    {
+      "id": 147,
+      "index": 147,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "The doctors assure me that there's a real condition called Korsokoff's syndrome; short-term memory loss, rare but legit. But every time I see him I catch a look of recognition. Just a slight look, but he says he can't remember me at all.",
+      "wordCount": 43
+    },
+    {
+      "id": 148,
+      "index": 148,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "His wife has to do everything. Sammy can only do simple stuff. He couldn't pick up any new skills at all, and that's how I got him.",
+      "wordCount": 27
+    },
+    {
+      "id": 149,
+      "index": 149,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "Lenny! I thought you'd gone for good. What brings you back?",
+      "wordCount": 11
+    },
+    {
+      "id": 150,
+      "index": 150,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Unfinished business. What made you think I wasn't coming back?",
+      "wordCount": 10
+    },
+    {
+      "id": 151,
+      "index": 151,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "You said you were leaving town.",
+      "wordCount": 6
+    },
+    {
+      "id": 152,
+      "index": 152,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Things change.",
+      "wordCount": 2
+    },
+    {
+      "id": 153,
+      "index": 153,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "So I see. It's good to see you. My name's Teddy.",
+      "wordCount": 11
+    },
+    {
+      "id": 154,
+      "index": 154,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Guess I've told you about my condition.",
+      "wordCount": 7
+    },
+    {
+      "id": 155,
+      "index": 155,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "Only every time I see ya! Come on, I'll buy you lunch.",
+      "wordCount": 12
+    },
+    {
+      "id": 156,
+      "index": 156,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "Not hungry?",
+      "wordCount": 2
+    },
+    {
+      "id": 157,
+      "index": 157,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "It's my condition. I never know if I've already eaten, so I always just eat small amounts.",
+      "wordCount": 17
+    },
+    {
+      "id": 158,
+      "index": 158,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "You don't have to remember to be hungry.",
+      "wordCount": 8
+    },
+    {
+      "id": 159,
+      "index": 159,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "It's weird, but if you don't eat for a while then your body stops being hungry. You get sort of shaky but you don't realize you haven't eaten. Have I told you about Sammy Jankis?",
+      "wordCount": 35
+    },
+    {
+      "id": 160,
+      "index": 160,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "Yeah, yeah. I heard enough about him. Tell me about John G. You still think he's here, right?",
+      "wordCount": 18
+    },
+    {
+      "id": 161,
+      "index": 161,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Who?",
+      "wordCount": 1
+    },
+    {
+      "id": 162,
+      "index": 162,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "The guy you're looking for, Johnny G. That's why you haven't left. Am I right?",
+      "wordCount": 15
+    },
+    {
+      "id": 163,
+      "index": 163,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Why?",
+      "wordCount": 1
+    },
+    {
+      "id": 164,
+      "index": 164,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "Well, the other day you made it sound like you thought somebody might be trying to set you up. Get you to kill the wrong guy.",
+      "wordCount": 26
+    },
+    {
+      "id": 165,
+      "index": 165,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Yeah, well I go on facts, not recommendations, okay?",
+      "wordCount": 9
+    },
+    {
+      "id": 166,
+      "index": 166,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "Lenny, you can't trust a man's life to your little notes and pictures.",
+      "wordCount": 13
+    },
+    {
+      "id": 167,
+      "index": 167,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Why?",
+      "wordCount": 1
+    },
+    {
+      "id": 168,
+      "index": 168,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "Because you're relying on them alone. You Don't remember what you've discovered or how. Your notes might be unreliable.",
+      "wordCount": 19
+    },
+    {
+      "id": 169,
+      "index": 169,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Memory's unreliable.",
+      "wordCount": 2
+    },
+    {
+      "id": 170,
+      "index": 170,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "You really want to find this guy?",
+      "wordCount": 7
+    },
+    {
+      "id": 171,
+      "index": 171,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "He took away the woman I love and he took away my memory. He destroyed everything; my life and my ability to live.",
+      "wordCount": 23
+    },
+    {
+      "id": 172,
+      "index": 172,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "You're living.",
+      "wordCount": 2
+    },
+    {
+      "id": 173,
+      "index": 173,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Just for revenge. That's what keeps me going. It's all I have.",
+      "wordCount": 12
+    },
+    {
+      "id": 174,
+      "index": 174,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "We'll find him. Where are you staying?",
+      "wordCount": 7
+    },
+    {
+      "id": 175,
+      "index": 175,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Discount Inn. Don't know what room; haven't got my key.",
+      "wordCount": 10
+    },
+    {
+      "id": 176,
+      "index": 176,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "Probably left it in your room.",
+      "wordCount": 6
+    },
+    {
+      "id": 177,
+      "index": 177,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "I'm sorry, I think I'm checked in here, but I've misplaced my key.",
+      "wordCount": 13
+    },
+    {
+      "id": 178,
+      "index": 178,
+      "character": "BURT",
+      "gender": "Male",
+      "line": "Hi, Leonard.",
+      "wordCount": 2
+    },
+    {
+      "id": 179,
+      "index": 179,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "So Sammy can't learn any new skills. But I find something in my research: Conditioning. Sammy should still be able to learn through repetition. It's how you learn stuff like riding a bike, things you don't think about, you just get better through practice. Call it muscle memory, whatever, but it's a completely different part of the brain from the short-term memory. So I have the doctors test Sammy's response to conditioning...",
+      "wordCount": 72
+    },
+    {
+      "id": 180,
+      "index": 180,
+      "character": "DOCTOR",
+      "gender": "Male",
+      "line": "Just pick up any three objects.",
+      "wordCount": 6
+    },
+    {
+      "id": 181,
+      "index": 181,
+      "character": "SAMMY",
+      "gender": "Male",
+      "line": "That's a test? Where were you guys when I did my CPA?",
+      "wordCount": 12
+    },
+    {
+      "id": 182,
+      "index": 182,
+      "character": "DOCTOR",
+      "gender": "Male",
+      "line": "It's a test, Sammy.",
+      "wordCount": 4
+    },
+    {
+      "id": 183,
+      "index": 183,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Some of the objects were electrified, They'd give him a small shock.",
+      "wordCount": 12
+    },
+    {
+      "id": 184,
+      "index": 184,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "They kept repeating the test, always with the same objects electrified. The point was to see if he could learn to avoid the electrified objects. Not by memory, but by instinct.",
+      "wordCount": 31
+    },
+    {
+      "id": 185,
+      "index": 185,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Sorry. It's only me.",
+      "wordCount": 4
+    },
+    {
+      "id": 186,
+      "index": 186,
+      "character": "NATALIE",
+      "gender": "Female",
+      "line": "Sleep okay?",
+      "wordCount": 2
+    },
+    {
+      "id": 187,
+      "index": 187,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Yeah. You?",
+      "wordCount": 2
+    },
+    {
+      "id": 188,
+      "index": 188,
+      "character": "NATALIE",
+      "gender": "Female",
+      "line": "I gotta be someplace.",
+      "wordCount": 4
+    },
+    {
+      "id": 189,
+      "index": 189,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Useful. You never write a phone number on your hand?",
+      "wordCount": 10
+    },
+    {
+      "id": 190,
+      "index": 190,
+      "character": "NATALIE",
+      "gender": "Female",
+      "line": "If it's registered in this state it'll * just take seconds to pull up his license and registration. I'll call when I've spoken to him.",
+      "wordCount": 25
+    },
+    {
+      "id": 191,
+      "index": 191,
+      "character": "NATALIE",
+      "gender": "Female",
+      "line": "I'm helping you because you helped me.",
+      "wordCount": 7
+    },
+    {
+      "id": 192,
+      "index": 192,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "I'm sorry.",
+      "wordCount": 2
+    },
+    {
+      "id": 193,
+      "index": 193,
+      "character": "NATALIE",
+      "gender": "Female",
+      "line": "Lenny, before you go, can I have my shirt back please?",
+      "wordCount": 11
+    },
+    {
+      "id": 194,
+      "index": 194,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "Lenny! I thought you'd gone for good. What brings you back?",
+      "wordCount": 11
+    },
+    {
+      "id": 195,
+      "index": 195,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "They kept testing Sammy for months, always with the same objects carrying the electrical charge...",
+      "wordCount": 15
+    },
+    {
+      "id": 196,
+      "index": 196,
+      "character": "SAMMY",
+      "gender": "Male",
+      "line": "Ah! What the fuck?!",
+      "wordCount": 4
+    },
+    {
+      "id": 197,
+      "index": 197,
+      "character": "DOCTOR",
+      "gender": "Male",
+      "line": "It's a test, Sammy.",
+      "wordCount": 4
+    },
+    {
+      "id": 198,
+      "index": 198,
+      "character": "SAMMY",
+      "gender": "Male",
+      "line": "Ah! What the fuck?!",
+      "wordCount": 4
+    },
+    {
+      "id": 199,
+      "index": 199,
+      "character": "DOCTOR",
+      "gender": "Male",
+      "line": "It's a test, Sammy.",
+      "wordCount": 4
+    },
+    {
+      "id": 200,
+      "index": 200,
+      "character": "SAMMY",
+      "gender": "Male",
+      "line": "Yeah? Test this you fucking quack.",
+      "wordCount": 6
+    },
+    {
+      "id": 201,
+      "index": 201,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Even with total short-term memory loss, Sammy should've learned to instinctively stop picking up the wrong objects. All previous cases of short-term memory loss had responded to conditioning in some way. Sammy didn't respond at all.",
+      "wordCount": 36
+    },
+    {
+      "id": 202,
+      "index": 202,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "It was enough to suggest his condition was psychological not physical.",
+      "wordCount": 11
+    },
+    {
+      "id": 203,
+      "index": 203,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Natalie, right?",
+      "wordCount": 2
+    },
+    {
+      "id": 204,
+      "index": 204,
+      "character": "NATALIE",
+      "gender": "Female",
+      "line": "Guess I don't have to worry about him anymore.",
+      "wordCount": 9
+    },
+    {
+      "id": 205,
+      "index": 205,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Who is he? What have you got me into?",
+      "wordCount": 9
+    },
+    {
+      "id": 206,
+      "index": 206,
+      "character": "NATALIE",
+      "gender": "Female",
+      "line": "Come inside.",
+      "wordCount": 2
+    },
+    {
+      "id": 207,
+      "index": 207,
+      "character": "NATALIE",
+      "gender": "Female",
+      "line": "Calm down. You're not into anything. It was my problem, you offered no help. It's got nothing to do with your investigation.",
+      "wordCount": 22
+    },
+    {
+      "id": 208,
+      "index": 208,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "That's the problem! How can I find John G. when I don't know what's going on?! How did you get me into this?!",
+      "wordCount": 23
+    },
+    {
+      "id": 209,
+      "index": 209,
+      "character": "NATALIE",
+      "gender": "Female",
+      "line": "Leonard, you offered to help when you saw what this guy did to me.",
+      "wordCount": 14
+    },
+    {
+      "id": 210,
+      "index": 210,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "How do I know he did that to you?",
+      "wordCount": 9
+    },
+    {
+      "id": 211,
+      "index": 211,
+      "character": "NATALIE",
+      "gender": "Female",
+      "line": "I came to you straight after he did it. I showed you what he'd done and asked for your help.",
+      "wordCount": 20
+    },
+    {
+      "id": 212,
+      "index": 212,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "So I just take your word?",
+      "wordCount": 6
+    },
+    {
+      "id": 213,
+      "index": 213,
+      "character": "NATALIE",
+      "gender": "Female",
+      "line": "Yes.",
+      "wordCount": 1
+    },
+    {
+      "id": 214,
+      "index": 214,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Something feels wrong. I think someone's fucking with me. Trying to get me to kill the wrong guy.",
+      "wordCount": 18
+    },
+    {
+      "id": 215,
+      "index": 215,
+      "character": "NATALIE",
+      "gender": "Female",
+      "line": "Did you?",
+      "wordCount": 2
+    },
+    {
+      "id": 216,
+      "index": 216,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "What?",
+      "wordCount": 1
+    },
+    {
+      "id": 217,
+      "index": 217,
+      "character": "NATALIE",
+      "gender": "Female",
+      "line": "Kill him.",
+      "wordCount": 2
+    },
+    {
+      "id": 218,
+      "index": 218,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Course not.",
+      "wordCount": 2
+    },
+    {
+      "id": 219,
+      "index": 219,
+      "character": "NATALIE",
+      "gender": "Female",
+      "line": "This has nothing to do with you. You helped me out, and I'm grateful.",
+      "wordCount": 14
+    },
+    {
+      "id": 220,
+      "index": 220,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "You have to burn them.",
+      "wordCount": 5
+    },
+    {
+      "id": 221,
+      "index": 221,
+      "character": "NATALIE",
+      "gender": "Female",
+      "line": "You decided to help me. Trust yourself. Trust your own judgment. You can question everything, you can never know anything for sure.",
+      "wordCount": 22
+    },
+    {
+      "id": 222,
+      "index": 222,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "There are things you know for sure.",
+      "wordCount": 7
+    },
+    {
+      "id": 223,
+      "index": 223,
+      "character": "NATALIE",
+      "gender": "Female",
+      "line": "Such as?",
+      "wordCount": 2
+    },
+    {
+      "id": 224,
+      "index": 224,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "I know the feel of the world. I know how this wood will sound when I knock. I know how this glass will feel when I pick it up. Certainties. You think it's knowledge, but it's a kind of memory, a kind you take for granted. I can remember so much. I know the feel of the world, and I know her.",
+      "wordCount": 62
+    },
+    {
+      "id": 225,
+      "index": 225,
+      "character": "NATALIE",
+      "gender": "Female",
+      "line": "Your wife?",
+      "wordCount": 2
+    },
+    {
+      "id": 226,
+      "index": 226,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "She's gone and the present is trivia, which I can scribble down as notes.",
+      "wordCount": 14
+    },
+    {
+      "id": 227,
+      "index": 227,
+      "character": "NATALIE",
+      "gender": "Female",
+      "line": "Relax a little, okay? Take off your jacket.",
+      "wordCount": 8
+    },
+    {
+      "id": 228,
+      "index": 228,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "It's not easy to be calm when -",
+      "wordCount": 8
+    },
+    {
+      "id": 229,
+      "index": 229,
+      "character": "NATALIE",
+      "gender": "Female",
+      "line": "Just relax.",
+      "wordCount": 2
+    },
+    {
+      "id": 230,
+      "index": 230,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "I'm sorry.",
+      "wordCount": 2
+    },
+    {
+      "id": 231,
+      "index": 231,
+      "character": "NATALIE",
+      "gender": "Female",
+      "line": "His name was Jimmy.",
+      "wordCount": 4
+    },
+    {
+      "id": 232,
+      "index": 232,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "What happened?",
+      "wordCount": 2
+    },
+    {
+      "id": 233,
+      "index": 233,
+      "character": "NATALIE",
+      "gender": "Female",
+      "line": "He went to meet somebody and didn't come back.",
+      "wordCount": 9
+    },
+    {
+      "id": 234,
+      "index": 234,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Who did he go to meet?",
+      "wordCount": 6
+    },
+    {
+      "id": 235,
+      "index": 235,
+      "character": "NATALIE",
+      "gender": "Female",
+      "line": "A guy called Teddy.",
+      "wordCount": 4
+    },
+    {
+      "id": 236,
+      "index": 236,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "What do the police think?",
+      "wordCount": 5
+    },
+    {
+      "id": 237,
+      "index": 237,
+      "character": "NATALIE",
+      "gender": "Female",
+      "line": "They don't look too hard for guys like Jimmy.",
+      "wordCount": 9
+    },
+    {
+      "id": 238,
+      "index": 238,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Kill him.",
+      "wordCount": 2
+    },
+    {
+      "id": 239,
+      "index": 239,
+      "character": "NATALIE",
+      "gender": "Female",
+      "line": "Maybe I can help you find him. I know a * lot of people.",
+      "wordCount": 14
+    },
+    {
+      "id": 240,
+      "index": 240,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "I don't even know how long she's been * gone. It's like I've woken up in bed and she's not here because she's gone to the bathroom or something. But somehow I just * know that she'll never come back to bed. * I lie here, not knowing how long I've been alone. If I could just reach out and * touch her side of the bed I could know * that it was cold, but I can't. I have no * idea when she left. *",
+      "wordCount": 87
+    },
+    {
+      "id": 241,
+      "index": 241,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Sammy's wife was crippled by the cost of supporting him and fighting the company's decision - but it wasn't the money that got to her.",
+      "wordCount": 25
+    },
+    {
+      "id": 242,
+      "index": 242,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "I never said that Sammy was faking. Just that his problem was mental, not physical. But she... she couldn't understand. She looks into his eyes and sees the same person. And if it's not a physical problem...",
+      "wordCount": 37
+    },
+    {
+      "id": 243,
+      "index": 243,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "... he should just... snap out of it.",
+      "wordCount": 8
+    },
+    {
+      "id": 244,
+      "index": 244,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Awake.",
+      "wordCount": 1
+    },
+    {
+      "id": 245,
+      "index": 245,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "Finished playing with yourself, Lenny?",
+      "wordCount": 5
+    },
+    {
+      "id": 246,
+      "index": 246,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Why are you here?",
+      "wordCount": 4
+    },
+    {
+      "id": 247,
+      "index": 247,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "You called me. You wanted my help. You know, Lenny, I've had more rewarding friendships than this one. Although I do get to keep using the same jokes.",
+      "wordCount": 28
+    },
+    {
+      "id": 248,
+      "index": 248,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "You don't know him?",
+      "wordCount": 4
+    },
+    {
+      "id": 249,
+      "index": 249,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "No! Should I?",
+      "wordCount": 3
+    },
+    {
+      "id": 250,
+      "index": 250,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "I don't think so.",
+      "wordCount": 4
+    },
+    {
+      "id": 251,
+      "index": 251,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "Think so? You don't know? Didn't you write it down?",
+      "wordCount": 10
+    },
+    {
+      "id": 252,
+      "index": 252,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "I might have fallen asleep before I did.",
+      "wordCount": 8
+    },
+    {
+      "id": 253,
+      "index": 253,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "Ask him.",
+      "wordCount": 2
+    },
+    {
+      "id": 254,
+      "index": 254,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "What's your name?",
+      "wordCount": 3
+    },
+    {
+      "id": 255,
+      "index": 255,
+      "character": "MAN",
+      "gender": "NA",
+      "line": "Dodd.",
+      "wordCount": 1
+    },
+    {
+      "id": 256,
+      "index": 256,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Who did this to you?",
+      "wordCount": 5
+    },
+    {
+      "id": 257,
+      "index": 257,
+      "character": "DODD",
+      "gender": "Male",
+      "line": "What?",
+      "wordCount": 1
+    },
+    {
+      "id": 258,
+      "index": 258,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Who did this to you?",
+      "wordCount": 5
+    },
+    {
+      "id": 259,
+      "index": 259,
+      "character": "DODD",
+      "gender": "Male",
+      "line": "You did.",
+      "wordCount": 2
+    },
+    {
+      "id": 260,
+      "index": 260,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "I'm not gonna help you kill this guy, if that's what -",
+      "wordCount": 12
+    },
+    {
+      "id": 261,
+      "index": 261,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "No. No, just let me think for a minute.",
+      "wordCount": 9
+    },
+    {
+      "id": 262,
+      "index": 262,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "Natalie? Natalie who?",
+      "wordCount": 3
+    },
+    {
+      "id": 263,
+      "index": 263,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Why?",
+      "wordCount": 1
+    },
+    {
+      "id": 264,
+      "index": 264,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "I think I know her.",
+      "wordCount": 5
+    },
+    {
+      "id": 265,
+      "index": 265,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "We've got to get him out of here.",
+      "wordCount": 8
+    },
+    {
+      "id": 266,
+      "index": 266,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "He's got to have a car, right? We just take him back to his car and tell him to get the fuck out of town before we kill him.",
+      "wordCount": 29
+    },
+    {
+      "id": 267,
+      "index": 267,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "We can't just walk him out tied up and bleeding.",
+      "wordCount": 10
+    },
+    {
+      "id": 268,
+      "index": 268,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "How'd ya get him in here in the first place?",
+      "wordCount": 10
+    },
+    {
+      "id": 269,
+      "index": 269,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "I don't know.",
+      "wordCount": 3
+    },
+    {
+      "id": 270,
+      "index": 270,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "Why would I have a gun?",
+      "wordCount": 6
+    },
+    {
+      "id": 271,
+      "index": 271,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "It must be his. I don't think they'd let someone like me carry a gun.",
+      "wordCount": 15
+    },
+    {
+      "id": 272,
+      "index": 272,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "Fucking hope not.",
+      "wordCount": 3
+    },
+    {
+      "id": 273,
+      "index": 273,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Which one?",
+      "wordCount": 2
+    },
+    {
+      "id": 274,
+      "index": 274,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "We probably ought to take his car, you know, teach him a lesson.",
+      "wordCount": 13
+    },
+    {
+      "id": 275,
+      "index": 275,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Shut it, Teddy.",
+      "wordCount": 3
+    },
+    {
+      "id": 276,
+      "index": 276,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "Easy for you to say, you've got the Jag.",
+      "wordCount": 9
+    },
+    {
+      "id": 277,
+      "index": 277,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "I'll ride with him. You follow.",
+      "wordCount": 6
+    },
+    {
+      "id": 278,
+      "index": 278,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "Give me your keys.",
+      "wordCount": 4
+    },
+    {
+      "id": 279,
+      "index": 279,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Take your own car.",
+      "wordCount": 4
+    },
+    {
+      "id": 280,
+      "index": 280,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "So was he scared?",
+      "wordCount": 4
+    },
+    {
+      "id": 281,
+      "index": 281,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Yeah. I think it was your sinister mustache that got him.",
+      "wordCount": 11
+    },
+    {
+      "id": 282,
+      "index": 282,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "Fuck you. We shoulda taken his car.",
+      "wordCount": 7
+    },
+    {
+      "id": 283,
+      "index": 283,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "What's wrong with this one?",
+      "wordCount": 5
+    },
+    {
+      "id": 284,
+      "index": 284,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "You like it? Let's trade.",
+      "wordCount": 5
+    },
+    {
+      "id": 285,
+      "index": 285,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "So what are you gonna do now?",
+      "wordCount": 7
+    },
+    {
+      "id": 286,
+      "index": 286,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "I'm gonna ask Natalie what the fuck that was all about.",
+      "wordCount": 11
+    },
+    {
+      "id": 287,
+      "index": 287,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "Natalie who?",
+      "wordCount": 2
+    },
+    {
+      "id": 288,
+      "index": 288,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Natalie, right?",
+      "wordCount": 2
+    },
+    {
+      "id": 289,
+      "index": 289,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "What Mrs. Jankis didn't understand was that you can't bully someone into remembering... the more pressure you're under, the harder it gets. Then call me back.",
+      "wordCount": 26
+    },
+    {
+      "id": 290,
+      "index": 290,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Don't feel drunk.",
+      "wordCount": 3
+    },
+    {
+      "id": 291,
+      "index": 291,
+      "character": "FEMALE VOICE",
+      "gender": "NA",
+      "line": "Housekeeping.",
+      "wordCount": 1
+    },
+    {
+      "id": 292,
+      "index": 292,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Not just now!",
+      "wordCount": 3
+    },
+    {
+      "id": 293,
+      "index": 293,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "You know what to do.",
+      "wordCount": 5
+    },
+    {
+      "id": 294,
+      "index": 294,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Ah, it's a message for Teddy... *",
+      "wordCount": 7
+    },
+    {
+      "id": 295,
+      "index": 295,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "I'll get the jump on you, fucker.",
+      "wordCount": 7
+    },
+    {
+      "id": 296,
+      "index": 296,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Is this the guy?",
+      "wordCount": 4
+    },
+    {
+      "id": 297,
+      "index": 297,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Need a weapon.",
+      "wordCount": 3
+    },
+    {
+      "id": 298,
+      "index": 298,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "What the fuck am I doing?",
+      "wordCount": 6
+    },
+    {
+      "id": 299,
+      "index": 299,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Chasing him!",
+      "wordCount": 2
+    },
+    {
+      "id": 300,
+      "index": 300,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "FUCK! He's chasing me.",
+      "wordCount": 4
+    },
+    {
+      "id": 301,
+      "index": 301,
+      "character": "DODD",
+      "gender": "Male",
+      "line": "I haven't made a strong enough impression.",
+      "wordCount": 7
+    },
+    {
+      "id": 302,
+      "index": 302,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Don't be too hard on yourself.",
+      "wordCount": 6
+    },
+    {
+      "id": 303,
+      "index": 303,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Seat belt.",
+      "wordCount": 2
+    },
+    {
+      "id": 304,
+      "index": 304,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "How can you read that again?",
+      "wordCount": 6
+    },
+    {
+      "id": 305,
+      "index": 305,
+      "character": "LEONARD'S WIFE",
+      "gender": "Female",
+      "line": "It's good.",
+      "wordCount": 2
+    },
+    {
+      "id": 306,
+      "index": 306,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "You've read it a hundred times.",
+      "wordCount": 6
+    },
+    {
+      "id": 307,
+      "index": 307,
+      "character": "LEONARD'S WIFE",
+      "gender": "Female",
+      "line": "I enjoy it.",
+      "wordCount": 3
+    },
+    {
+      "id": 308,
+      "index": 308,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Yeah, but the pleasure of a book is in wanting to know what happens next -",
+      "wordCount": 16
+    },
+    {
+      "id": 309,
+      "index": 309,
+      "character": "LEONARD'S WIFE",
+      "gender": "Female",
+      "line": "Don't be a prick. I'm not reading it to annoy you, I enjoy it. Just let me read, please.",
+      "wordCount": 19
+    },
+    {
+      "id": 310,
+      "index": 310,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Probably tried this before. Probably burned truckloads of your stuff. Can't remember to forget you.",
+      "wordCount": 15
+    },
+    {
+      "id": 311,
+      "index": 311,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Do I know this guy?",
+      "wordCount": 5
+    },
+    {
+      "id": 312,
+      "index": 312,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "He seems to know me.",
+      "wordCount": 5
+    },
+    {
+      "id": 313,
+      "index": 313,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "What the fuck!",
+      "wordCount": 3
+    },
+    {
+      "id": 314,
+      "index": 314,
+      "character": "DODD",
+      "gender": "Male",
+      "line": "I like your car.",
+      "wordCount": 4
+    },
+    {
+      "id": 315,
+      "index": 315,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Thanks.",
+      "wordCount": 1
+    },
+    {
+      "id": 316,
+      "index": 316,
+      "character": "DODD",
+      "gender": "Male",
+      "line": "Where'd you get it?",
+      "wordCount": 4
+    },
+    {
+      "id": 317,
+      "index": 317,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Interested in buying one?",
+      "wordCount": 4
+    },
+    {
+      "id": 318,
+      "index": 318,
+      "character": "DODD",
+      "gender": "Male",
+      "line": "I just want you to tell me how you came by that car.",
+      "wordCount": 13
+    },
+    {
+      "id": 319,
+      "index": 319,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "I forget.",
+      "wordCount": 2
+    },
+    {
+      "id": 320,
+      "index": 320,
+      "character": "DODD",
+      "gender": "Male",
+      "line": "I haven't made a strong enough impression on you.",
+      "wordCount": 9
+    },
+    {
+      "id": 321,
+      "index": 321,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "I wouldn't be too hard on yourself.",
+      "wordCount": 7
+    },
+    {
+      "id": 322,
+      "index": 322,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Who is this?",
+      "wordCount": 3
+    },
+    {
+      "id": 323,
+      "index": 323,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Honey?",
+      "wordCount": 1
+    },
+    {
+      "id": 324,
+      "index": 324,
+      "character": "BLONDE",
+      "gender": "Female",
+      "line": "Was it good for you?",
+      "wordCount": 5
+    },
+    {
+      "id": 325,
+      "index": 325,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "No. That would have been worse.",
+      "wordCount": 6
+    },
+    {
+      "id": 326,
+      "index": 326,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Well, sir, that would certainly be in keeping with some of my own discoveries. Yeah, I was hoping to get more on the drugs angle. Hang on a second.",
+      "wordCount": 29
+    },
+    {
+      "id": 327,
+      "index": 327,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "None? Okay, blonde. Yeah, blonde is fine. Discount Inn, 304. Leonard. *",
+      "wordCount": 12
+    },
+    {
+      "id": 328,
+      "index": 328,
+      "character": "BLONDE",
+      "gender": "Female",
+      "line": "Well, what then?",
+      "wordCount": 3
+    },
+    {
+      "id": 329,
+      "index": 329,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "It's simple, you just go to the bathroom.",
+      "wordCount": 8
+    },
+    {
+      "id": 330,
+      "index": 330,
+      "character": "BLONDE",
+      "gender": "Female",
+      "line": "Slam it?",
+      "wordCount": 2
+    },
+    {
+      "id": 331,
+      "index": 331,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Just loud enough to wake me up.",
+      "wordCount": 7
+    },
+    {
+      "id": 332,
+      "index": 332,
+      "character": "BLONDE",
+      "gender": "Female",
+      "line": "That's it?",
+      "wordCount": 2
+    },
+    {
+      "id": 333,
+      "index": 333,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "That's it.",
+      "wordCount": 2
+    },
+    {
+      "id": 334,
+      "index": 334,
+      "character": "BLONDE",
+      "gender": "Female",
+      "line": "Should I wear it?",
+      "wordCount": 4
+    },
+    {
+      "id": 335,
+      "index": 335,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "No. Just leave the stuff lying around as if it were yours. Like you just took it off or something.",
+      "wordCount": 20
+    },
+    {
+      "id": 336,
+      "index": 336,
+      "character": "BLONDE",
+      "gender": "Female",
+      "line": "Whatever gets you off.",
+      "wordCount": 4
+    },
+    {
+      "id": 337,
+      "index": 337,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "No! No, don't use it, you, I mean it's... you just have to put it where you would if it were yours.",
+      "wordCount": 22
+    },
+    {
+      "id": 338,
+      "index": 338,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "The drugs stashed in the car doesn't ring true for me.",
+      "wordCount": 11
+    },
+    {
+      "id": 339,
+      "index": 339,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "You should lock a car as nice as this.",
+      "wordCount": 9
+    },
+    {
+      "id": 340,
+      "index": 340,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Who the fuck are you?",
+      "wordCount": 5
+    },
+    {
+      "id": 341,
+      "index": 341,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "Teddy. Your buddy.",
+      "wordCount": 3
+    },
+    {
+      "id": 342,
+      "index": 342,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Prove it.",
+      "wordCount": 2
+    },
+    {
+      "id": 343,
+      "index": 343,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "Sammy. Remember Sammy. You told me about Sammy.",
+      "wordCount": 8
+    },
+    {
+      "id": 344,
+      "index": 344,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "What are you doing in my car?",
+      "wordCount": 7
+    },
+    {
+      "id": 345,
+      "index": 345,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "Sense of humour went with the memory, huh? You know why you're still here, don't you?",
+      "wordCount": 16
+    },
+    {
+      "id": 346,
+      "index": 346,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Unfinished business.",
+      "wordCount": 2
+    },
+    {
+      "id": 347,
+      "index": 347,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "Lenny, as a buddy, let me inform you. Your business here is very much finished. You're still here because of Natalie.",
+      "wordCount": 21
+    },
+    {
+      "id": 348,
+      "index": 348,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Who's she?",
+      "wordCount": 2
+    },
+    {
+      "id": 349,
+      "index": 349,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "Whose house do you think you just walked out of?",
+      "wordCount": 10
+    },
+    {
+      "id": 350,
+      "index": 350,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Why's that?",
+      "wordCount": 2
+    },
+    {
+      "id": 351,
+      "index": 351,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "Because she'll have taken one look at your clothes and your car and started thinking of ways to turn the situation to her advantage. She's already got you staying with her, for fuck's sake.",
+      "wordCount": 34
+    },
+    {
+      "id": 352,
+      "index": 352,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "What do you mean \"bad news\"?",
+      "wordCount": 6
+    },
+    {
+      "id": 353,
+      "index": 353,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "She's involved with these drug dealers.",
+      "wordCount": 6
+    },
+    {
+      "id": 354,
+      "index": 354,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Why should I care?",
+      "wordCount": 4
+    },
+    {
+      "id": 355,
+      "index": 355,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "She's gonna use you. To protect herself.",
+      "wordCount": 7
+    },
+    {
+      "id": 356,
+      "index": 356,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "From who?",
+      "wordCount": 2
+    },
+    {
+      "id": 357,
+      "index": 357,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "Guys who'll come after her. Guys who'll want to know what happened to her boyfriend. They'll want to make somebody pay. Maybe she'll try and make it you.",
+      "wordCount": 28
+    },
+    {
+      "id": 358,
+      "index": 358,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Yeah, well maybe she'll make it you. Is that it? You worried she'll use me against you?",
+      "wordCount": 17
+    },
+    {
+      "id": 359,
+      "index": 359,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "She couldn't.",
+      "wordCount": 2
+    },
+    {
+      "id": 360,
+      "index": 360,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Why not? MEMENTO Blue Revisions - 8/27/99",
+      "wordCount": 7
+    },
+    {
+      "id": 361,
+      "index": 361,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "She has no idea who I am.",
+      "wordCount": 7
+    },
+    {
+      "id": 362,
+      "index": 362,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Why are you following me?",
+      "wordCount": 5
+    },
+    {
+      "id": 363,
+      "index": 363,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "I'm trying to help you. I knew she'd get her claws into you. She doesn't know anything about your investigation, so when she offers to help you, it'll be for her own reasons. Why would I lie? Do not go back to her. Take out a pen, write yourself a note, do not trust her.",
+      "wordCount": 55
+    },
+    {
+      "id": 364,
+      "index": 364,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Happy now?",
+      "wordCount": 2
+    },
+    {
+      "id": 365,
+      "index": 365,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "I won't be happy until you leave town.",
+      "wordCount": 8
+    },
+    {
+      "id": 366,
+      "index": 366,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Why?",
+      "wordCount": 1
+    },
+    {
+      "id": 367,
+      "index": 367,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "How long do you think you can hang around here before people start asking questions?",
+      "wordCount": 15
+    },
+    {
+      "id": 368,
+      "index": 368,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "What sort of questions?",
+      "wordCount": 4
+    },
+    {
+      "id": 369,
+      "index": 369,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "The sort of questions you should be asking yourself.",
+      "wordCount": 9
+    },
+    {
+      "id": 370,
+      "index": 370,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Like what?",
+      "wordCount": 2
+    },
+    {
+      "id": 371,
+      "index": 371,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "Like how'd you get this car? That suit?",
+      "wordCount": 8
+    },
+    {
+      "id": 372,
+      "index": 372,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "I have money.",
+      "wordCount": 3
+    },
+    {
+      "id": 373,
+      "index": 373,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "From what?",
+      "wordCount": 2
+    },
+    {
+      "id": 374,
+      "index": 374,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "My wife's death. I used to work in Insurance, we were well covered.",
+      "wordCount": 13
+    },
+    {
+      "id": 375,
+      "index": 375,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "So in your grief you wandered into a Jaguar dealership?",
+      "wordCount": 10
+    },
+    {
+      "id": 376,
+      "index": 376,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Yes, I do. I don't have amnesia. I remember everything about myself up until the incident. I'm Leonard Shelby, I'm from San Fran -",
+      "wordCount": 24
+    },
+    {
+      "id": 377,
+      "index": 377,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "That's who you were, Lenny. You don't know who you are, who you've become since the incident. You're wandering around, playing detective... and you don't even know how long ago it was.",
+      "wordCount": 32
+    },
+    {
+      "id": 378,
+      "index": 378,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "I didn't sell -",
+      "wordCount": 4
+    },
+    {
+      "id": 379,
+      "index": 379,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "I know, you investigated. Maybe you need to apply some of your investigative skills to yourself.",
+      "wordCount": 16
+    },
+    {
+      "id": 380,
+      "index": 380,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Yeah, well, thanks for the advice.",
+      "wordCount": 6
+    },
+    {
+      "id": 381,
+      "index": 381,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "Don't go back in there. There's a motel out of town.",
+      "wordCount": 11
+    },
+    {
+      "id": 382,
+      "index": 382,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Fuck it. I need my own place.",
+      "wordCount": 7
+    },
+    {
+      "id": 383,
+      "index": 383,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "I can't blame the cops for not taking me seriously. This is a difficult condition for people to understand. I mean look at Sammy Jankis. His own wife couldn't deal with it. MEMENTO Pink Revisions - 9/7/99",
+      "wordCount": 37
+    },
+    {
+      "id": 384,
+      "index": 384,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "She told me about life with Sammy, how she'd treated him. It had got to the point where she'd get Sammy to hide food all around the house, then stop feeding him to see if his hunger would make him remember where he'd hidden the stuff. She wasn't a cruel person, she just wanted her old Sammy back.",
+      "wordCount": 58
+    },
+    {
+      "id": 385,
+      "index": 385,
+      "character": "MRS. JANKIS",
+      "gender": "Female",
+      "line": "Mr. Shelby, you know all about Sammy and you decided that he was faking -",
+      "wordCount": 15
+    },
+    {
+      "id": 386,
+      "index": 386,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Mrs. Jankis, the company's position isn't that Sammy is \"faking\" anything, just that his condition can't be shown -",
+      "wordCount": 19
+    },
+    {
+      "id": 387,
+      "index": 387,
+      "character": "MRS. JANKIS",
+      "gender": "Female",
+      "line": "I'm not interested in the company position, Mr. Shelby. I want to know your honest opinion about Sammy.",
+      "wordCount": 18
+    },
+    {
+      "id": 388,
+      "index": 388,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "We shouldn't even be talking this way while the case is still open to appeal.",
+      "wordCount": 15
+    },
+    {
+      "id": 389,
+      "index": 389,
+      "character": "MRS. JANKIS",
+      "gender": "Female",
+      "line": "I'm not appealing the decision.",
+      "wordCount": 5
+    },
+    {
+      "id": 390,
+      "index": 390,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Then why are you here?",
+      "wordCount": 5
+    },
+    {
+      "id": 391,
+      "index": 391,
+      "character": "MRS. JANKIS",
+      "gender": "Female",
+      "line": "Mr. Shelby, try and understand. When I look into Sammy's eyes, I don't see some vegetable, I see the same old Sammy. What do you think it's like for me to suspect that he's imagining this whole * problem? That if I could just say the right thing he'd snap out of it and be back to normal? If I knew that my old Sammy was truly gone, then I could say goodbye and start loving this new Sammy. * As long as I have doubt, I can't say goodbye and move on.",
+      "wordCount": 93
+    },
+    {
+      "id": 392,
+      "index": 392,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Mrs. Jankis, what do you want from me?",
+      "wordCount": 8
+    },
+    {
+      "id": 393,
+      "index": 393,
+      "character": "MRS. JANKIS",
+      "gender": "Female",
+      "line": "I want you to forget the company you work for for thirty seconds, and tell me if you really think that Sammy is faking his condition.",
+      "wordCount": 26
+    },
+    {
+      "id": 394,
+      "index": 394,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "I believe that Sammy should be physically capable of making new memories.",
+      "wordCount": 12
+    },
+    {
+      "id": 395,
+      "index": 395,
+      "character": "MRS. JANKIS",
+      "gender": "Female",
+      "line": "Thank you.",
+      "wordCount": 2
+    },
+    {
+      "id": 396,
+      "index": 396,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "She seemed to leave happy. I thought I'd helped her.",
+      "wordCount": 10
+    },
+    {
+      "id": 397,
+      "index": 397,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "What happened?",
+      "wordCount": 2
+    },
+    {
+      "id": 398,
+      "index": 398,
+      "character": "NATALIE",
+      "gender": "Female",
+      "line": "What does it look like?!",
+      "wordCount": 5
+    },
+    {
+      "id": 399,
+      "index": 399,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Who?",
+      "wordCount": 1
+    },
+    {
+      "id": 400,
+      "index": 400,
+      "character": "NATALIE",
+      "gender": "Female",
+      "line": "Who?! Fuck, Leonard! Dodd! Dodd beat the shit out of me.",
+      "wordCount": 11
+    },
+    {
+      "id": 401,
+      "index": 401,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Why?",
+      "wordCount": 1
+    },
+    {
+      "id": 402,
+      "index": 402,
+      "character": "NATALIE",
+      "gender": "Female",
+      "line": "Because of you, you fucking idiot! Because I did what you told me! MEMENTO Pink Revisions - 9/7/99",
+      "wordCount": 18
+    },
+    {
+      "id": 403,
+      "index": 403,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Calm down.",
+      "wordCount": 2
+    },
+    {
+      "id": 404,
+      "index": 404,
+      "character": "NATALIE",
+      "gender": "Female",
+      "line": "I did exactly what you told me. I went to * Dodd and I said that I didn't have * Jimmy's money, or any drugs, that this Teddy must have taken everything.",
+      "wordCount": 32
+    },
+    {
+      "id": 405,
+      "index": 405,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "And what did he say?",
+      "wordCount": 5
+    },
+    {
+      "id": 406,
+      "index": 406,
+      "character": "NATALIE",
+      "gender": "Female",
+      "line": "He didn't believe me. He said that if I don't get him the money tomorrow he's gonna kill me. Then he started hitting me.",
+      "wordCount": 24
+    },
+    {
+      "id": 407,
+      "index": 407,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Where is he?",
+      "wordCount": 3
+    },
+    {
+      "id": 408,
+      "index": 408,
+      "character": "NATALIE",
+      "gender": "Female",
+      "line": "What are you gonna do?",
+      "wordCount": 5
+    },
+    {
+      "id": 409,
+      "index": 409,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "I'll go see him.",
+      "wordCount": 4
+    },
+    {
+      "id": 410,
+      "index": 410,
+      "character": "NATALIE",
+      "gender": "Female",
+      "line": "And?",
+      "wordCount": 1
+    },
+    {
+      "id": 411,
+      "index": 411,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Give him some bruises of his own and tell him to look for a guy called Teddy.",
+      "wordCount": 17
+    },
+    {
+      "id": 412,
+      "index": 412,
+      "character": "NATALIE",
+      "gender": "Female",
+      "line": "He'll kill you, Lenny.",
+      "wordCount": 4
+    },
+    {
+      "id": 413,
+      "index": 413,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "My wife used to call me Lenny.",
+      "wordCount": 7
+    },
+    {
+      "id": 414,
+      "index": 414,
+      "character": "NATALIE",
+      "gender": "Female",
+      "line": "Yeah?",
+      "wordCount": 1
+    },
+    {
+      "id": 415,
+      "index": 415,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Yeah, I hated it.",
+      "wordCount": 4
+    },
+    {
+      "id": 416,
+      "index": 416,
+      "character": "NATALIE",
+      "gender": "Female",
+      "line": "This guy's dangerous, let's think of something else.",
+      "wordCount": 8
+    },
+    {
+      "id": 417,
+      "index": 417,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "I'll take care of it. Just tell me what he looks like, and where I can find him. Do you have a pen?",
+      "wordCount": 23
+    },
+    {
+      "id": 418,
+      "index": 418,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Me? Why would he be interested in me?",
+      "wordCount": 8
+    },
+    {
+      "id": 419,
+      "index": 419,
+      "character": "NATALIE",
+      "gender": "Female",
+      "line": "I told him about your car.",
+      "wordCount": 6
+    },
+    {
+      "id": 420,
+      "index": 420,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Why would you do that?",
+      "wordCount": 5
+    },
+    {
+      "id": 421,
+      "index": 421,
+      "character": "NATALIE",
+      "gender": "Female",
+      "line": "He was beating the crap out of me! I had to tell him something!",
+      "wordCount": 14
+    },
+    {
+      "id": 422,
+      "index": 422,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Just write it all down. What he looks * like, where I find him. *",
+      "wordCount": 15
+    },
+    {
+      "id": 423,
+      "index": 423,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "You should lock a car as nice as this.",
+      "wordCount": 9
+    },
+    {
+      "id": 424,
+      "index": 424,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "No, she shouldn't have given me that responsibility. Shit, I'm not a doctor, I'm a claims investigator.",
+      "wordCount": 17
+    },
+    {
+      "id": 425,
+      "index": 425,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "What's wrong?",
+      "wordCount": 2
+    },
+    {
+      "id": 426,
+      "index": 426,
+      "character": "NATALIE",
+      "gender": "Female",
+      "line": "Somebody's come. Already.",
+      "wordCount": 3
+    },
+    {
+      "id": 427,
+      "index": 427,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Who?",
+      "wordCount": 1
+    },
+    {
+      "id": 428,
+      "index": 428,
+      "character": "NATALIE",
+      "gender": "Female",
+      "line": "Calls himself Dodd.",
+      "wordCount": 3
+    },
+    {
+      "id": 429,
+      "index": 429,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "What does he want?",
+      "wordCount": 4
+    },
+    {
+      "id": 430,
+      "index": 430,
+      "character": "NATALIE",
+      "gender": "Female",
+      "line": "Wants to know what happened to Jimmy. And his money. He thinks I have it. He thinks I took it.",
+      "wordCount": 20
+    },
+    {
+      "id": 431,
+      "index": 431,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Did you?",
+      "wordCount": 2
+    },
+    {
+      "id": 432,
+      "index": 432,
+      "character": "NATALIE",
+      "gender": "Female",
+      "line": "No!",
+      "wordCount": 1
+    },
+    {
+      "id": 433,
+      "index": 433,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "What's this all about?",
+      "wordCount": 4
+    },
+    {
+      "id": 434,
+      "index": 434,
+      "character": "NATALIE",
+      "gender": "Female",
+      "line": "You don't know, do you? You're blissfully ignorant, aren't you?",
+      "wordCount": 10
+    },
+    {
+      "id": 435,
+      "index": 435,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "I have this condition -",
+      "wordCount": 5
+    },
+    {
+      "id": 436,
+      "index": 436,
+      "character": "NATALIE",
+      "gender": "Female",
+      "line": "I know about your fucking condition, Leonard! I probably know more about it than you do! You don't have a fucking clue about anything else!",
+      "wordCount": 25
+    },
+    {
+      "id": 437,
+      "index": 437,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "What happened?",
+      "wordCount": 2
+    },
+    {
+      "id": 438,
+      "index": 438,
+      "character": "NATALIE",
+      "gender": "Female",
+      "line": "What happened is that Jimmy went to meet a guy called Teddy. He took a lot of money with him and he didn't come back. Jimmy's partners think I set him up. I don't know whether you know this Teddy or how well -",
+      "wordCount": 44
+    },
+    {
+      "id": 439,
+      "index": 439,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Neither do I.",
+      "wordCount": 3
+    },
+    {
+      "id": 440,
+      "index": 440,
+      "character": "NATALIE",
+      "gender": "Female",
+      "line": "Don't protect him.",
+      "wordCount": 3
+    },
+    {
+      "id": 441,
+      "index": 441,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "I'm not.",
+      "wordCount": 2
+    },
+    {
+      "id": 442,
+      "index": 442,
+      "character": "NATALIE",
+      "gender": "Female",
+      "line": "Help me.",
+      "wordCount": 2
+    },
+    {
+      "id": 443,
+      "index": 443,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "How?",
+      "wordCount": 1
+    },
+    {
+      "id": 444,
+      "index": 444,
+      "character": "NATALIE",
+      "gender": "Female",
+      "line": "Get rid of Dodd for me.",
+      "wordCount": 6
+    },
+    {
+      "id": 445,
+      "index": 445,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "What?",
+      "wordCount": 1
+    },
+    {
+      "id": 446,
+      "index": 446,
+      "character": "NATALIE",
+      "gender": "Female",
+      "line": "Kill him. I'll pay you.",
+      "wordCount": 5
+    },
+    {
+      "id": 447,
+      "index": 447,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "What do you think I am?! I'm not gonna kill someone for money.",
+      "wordCount": 13
+    },
+    {
+      "id": 448,
+      "index": 448,
+      "character": "NATALIE",
+      "gender": "Female",
+      "line": "What then? Love? What would you kill for? For your wife, right?",
+      "wordCount": 12
+    },
+    {
+      "id": 449,
+      "index": 449,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "That's different.",
+      "wordCount": 2
+    },
+    {
+      "id": 450,
+      "index": 450,
+      "character": "NATALIE",
+      "gender": "Female",
+      "line": "Not to me! I wasn't fucking married to her!",
+      "wordCount": 9
+    },
+    {
+      "id": 451,
+      "index": 451,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Don't talk about my wife.",
+      "wordCount": 5
+    },
+    {
+      "id": 452,
+      "index": 452,
+      "character": "NATALIE",
+      "gender": "Female",
+      "line": "I can talk about whoever the fuck I want! You won't even remember what I say! I can tell you that your wife was a fucking whore and we can still be friends!",
+      "wordCount": 33
+    },
+    {
+      "id": 453,
+      "index": 453,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Calm down.",
+      "wordCount": 2
+    },
+    {
+      "id": 454,
+      "index": 454,
+      "character": "NATALIE",
+      "gender": "Female",
+      "line": "That's easy for you to say! You can't get scared, you don't remember how, you fucking idiot!",
+      "wordCount": 17
+    },
+    {
+      "id": 455,
+      "index": 455,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Just take it easy, this isn't my fault.",
+      "wordCount": 8
+    },
+    {
+      "id": 456,
+      "index": 456,
+      "character": "NATALIE",
+      "gender": "Female",
+      "line": "Maybe it is! How the fuck would you know?! You don't know a fucking thing! You can't get scared, can you get angry?!",
+      "wordCount": 23
+    },
+    {
+      "id": 457,
+      "index": 457,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Yes.",
+      "wordCount": 1
+    },
+    {
+      "id": 458,
+      "index": 458,
+      "character": "NATALIE",
+      "gender": "Female",
+      "line": "You pathetic piece of shit. I can say whatever the fuck I want and you won't have a clue, you fucking retard.",
+      "wordCount": 22
+    },
+    {
+      "id": 459,
+      "index": 459,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Shut the fuck up!",
+      "wordCount": 4
+    },
+    {
+      "id": 460,
+      "index": 460,
+      "character": "NATALIE",
+      "gender": "Female",
+      "line": "I'm gonna use you, you stupid fuck. I'm telling you now because I'll enjoy it more if I know that you could stop me if you weren't a freak.",
+      "wordCount": 29
+    },
+    {
+      "id": 461,
+      "index": 461,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Don't say another fucking word!",
+      "wordCount": 5
+    },
+    {
+      "id": 462,
+      "index": 462,
+      "character": "NATALIE",
+      "gender": "Female",
+      "line": "About your whore of a wife?",
+      "wordCount": 6
+    },
+    {
+      "id": 463,
+      "index": 463,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "What happened?",
+      "wordCount": 2
+    },
+    {
+      "id": 464,
+      "index": 464,
+      "character": "NATALIE",
+      "gender": "Female",
+      "line": "What does it look like?",
+      "wordCount": 5
+    },
+    {
+      "id": 465,
+      "index": 465,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Front desk? Burt, right. Well, this is Mr. Shelby in Room 21. I don't want any * calls, none at all, got it? Thanks. *",
+      "wordCount": 25
+    },
+    {
+      "id": 466,
+      "index": 466,
+      "character": "NATALIE",
+      "gender": "Female",
+      "line": "You can just crash out on the couch. You'll be comfortable.",
+      "wordCount": 11
+    },
+    {
+      "id": 467,
+      "index": 467,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "* Depends on if he's here in town. Or if he's moved on. See, I've got all this - *",
+      "wordCount": 20
+    },
+    {
+      "id": 468,
+      "index": 468,
+      "character": "NATALIE",
+      "gender": "Female",
+      "line": "Can I ask you something?",
+      "wordCount": 5
+    },
+    {
+      "id": 469,
+      "index": 469,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "They're not looking for him.",
+      "wordCount": 5
+    },
+    {
+      "id": 470,
+      "index": 470,
+      "character": "NATALIE",
+      "gender": "Female",
+      "line": "Why not?",
+      "wordCount": 2
+    },
+    {
+      "id": 471,
+      "index": 471,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "They don't think he exists.",
+      "wordCount": 5
+    },
+    {
+      "id": 472,
+      "index": 472,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Her side of the bed was cold. She'd been * out of bed for a while.",
+      "wordCount": 16
+    },
+    {
+      "id": 473,
+      "index": 473,
+      "character": "NATALIE",
+      "gender": "Female",
+      "line": "How did they explain what you remembered? The gun and stuff?",
+      "wordCount": 11
+    },
+    {
+      "id": 474,
+      "index": 474,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "* John G. was clever. He took the dead man's gun and replaced it with the sap that he'd hit me with. He left my gun and left the getaway car. He gave the police a complete package. They found a sap with my blood on it in the dead man's hand, and they only found my gun. They didn't need to look for anyone else. I was the only guy who disagreed with the facts, and I had brain damage. *",
+      "wordCount": 82
+    },
+    {
+      "id": 475,
+      "index": 475,
+      "character": "NATALIE",
+      "gender": "Female",
+      "line": "You can stay here for a couple of days if it'll help.",
+      "wordCount": 12
+    },
+    {
+      "id": 476,
+      "index": 476,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Thank you.",
+      "wordCount": 2
+    },
+    {
+      "id": 477,
+      "index": 477,
+      "character": "NATALIE",
+      "gender": "Female",
+      "line": "I've got to get back for the evening shift, so make yourself at home, watch T.V., whatever. Just grab a blanket and pillow off the bed. I never need them all anyway.",
+      "wordCount": 32
+    },
+    {
+      "id": 478,
+      "index": 478,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Oh, one thing.",
+      "wordCount": 3
+    },
+    {
+      "id": 479,
+      "index": 479,
+      "character": "NATALIE",
+      "gender": "Female",
+      "line": "Somebody's come. Already.",
+      "wordCount": 3
+    },
+    {
+      "id": 480,
+      "index": 480,
+      "character": "BURT",
+      "gender": "Male",
+      "line": "Leonard, it's Burt from the front desk.",
+      "wordCount": 7
+    },
+    {
+      "id": 481,
+      "index": 481,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Yeah?",
+      "wordCount": 1
+    },
+    {
+      "id": 482,
+      "index": 482,
+      "character": "BURT",
+      "gender": "Male",
+      "line": "I know you said you didn't want any calls...",
+      "wordCount": 9
+    },
+    {
+      "id": 483,
+      "index": 483,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "That's right I did, didn't I?",
+      "wordCount": 6
+    },
+    {
+      "id": 484,
+      "index": 484,
+      "character": "BURT",
+      "gender": "Male",
+      "line": "Yeah, but there's a call for you from this guy. He's a cop.",
+      "wordCount": 13
+    },
+    {
+      "id": 485,
+      "index": 485,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "A cop?",
+      "wordCount": 2
+    },
+    {
+      "id": 486,
+      "index": 486,
+      "character": "BURT",
+      "gender": "Male",
+      "line": "And he says you're gonna wanna hear what he's got to say. *",
+      "wordCount": 13
+    },
+    {
+      "id": 487,
+      "index": 487,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "* I'm not too good on the phone. I need to * look people in the eye when I talk to * them. *",
+      "wordCount": 24
+    },
+    {
+      "id": 488,
+      "index": 488,
+      "character": "NATALIE",
+      "gender": "Female",
+      "line": "On the house.",
+      "wordCount": 3
+    },
+    {
+      "id": 489,
+      "index": 489,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Thanks.",
+      "wordCount": 1
+    },
+    {
+      "id": 490,
+      "index": 490,
+      "character": "NATALIE",
+      "gender": "Female",
+      "line": "You really do have a problem. Just like that cop said.",
+      "wordCount": 11
+    },
+    {
+      "id": 491,
+      "index": 491,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Nobody's perfect.",
+      "wordCount": 2
+    },
+    {
+      "id": 492,
+      "index": 492,
+      "character": "NATALIE",
+      "gender": "Female",
+      "line": "What's the last thing you remember? Leonard looks at her.",
+      "wordCount": 10
+    },
+    {
+      "id": 493,
+      "index": 493,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "My wife.",
+      "wordCount": 2
+    },
+    {
+      "id": 494,
+      "index": 494,
+      "character": "NATALIE",
+      "gender": "Female",
+      "line": "Sweet.",
+      "wordCount": 1
+    },
+    {
+      "id": 495,
+      "index": 495,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Dying.",
+      "wordCount": 1
+    },
+    {
+      "id": 496,
+      "index": 496,
+      "character": "NATALIE",
+      "gender": "Female",
+      "line": "What?",
+      "wordCount": 1
+    },
+    {
+      "id": 497,
+      "index": 497,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "I remember my wife dying.",
+      "wordCount": 5
+    },
+    {
+      "id": 498,
+      "index": 498,
+      "character": "NATALIE",
+      "gender": "Female",
+      "line": "Let me get you a fresh glass. I think this one was dusty.",
+      "wordCount": 13
+    },
+    {
+      "id": 499,
+      "index": 499,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Beer, please.",
+      "wordCount": 2
+    },
+    {
+      "id": 500,
+      "index": 500,
+      "character": "NATALIE",
+      "gender": "Female",
+      "line": "What do you want?",
+      "wordCount": 4
+    },
+    {
+      "id": 501,
+      "index": 501,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "A BEER, please.",
+      "wordCount": 3
+    },
+    {
+      "id": 502,
+      "index": 502,
+      "character": "NATALIE",
+      "gender": "Female",
+      "line": "Don't just waltz in here dressed like * that and order a beer. *",
+      "wordCount": 14
+    },
+    {
+      "id": 503,
+      "index": 503,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "There's a dress code?",
+      "wordCount": 4
+    },
+    {
+      "id": 504,
+      "index": 504,
+      "character": "NATALIE",
+      "gender": "Female",
+      "line": "What are you here for?",
+      "wordCount": 5
+    },
+    {
+      "id": 505,
+      "index": 505,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "I'm meeting someone called Natalie.",
+      "wordCount": 5
+    },
+    {
+      "id": 506,
+      "index": 506,
+      "character": "NATALIE",
+      "gender": "Female",
+      "line": "Well, that's me.",
+      "wordCount": 3
+    },
+    {
+      "id": 507,
+      "index": 507,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Oh. But haven't we met before?",
+      "wordCount": 6
+    },
+    {
+      "id": 508,
+      "index": 508,
+      "character": "NATALIE",
+      "gender": "Female",
+      "line": "You tell me.",
+      "wordCount": 3
+    },
+    {
+      "id": 509,
+      "index": 509,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "I don't remember. See, I have no short- * term memory. It's not amnesia - *",
+      "wordCount": 16
+    },
+    {
+      "id": 510,
+      "index": 510,
+      "character": "NATALIE",
+      "gender": "Female",
+      "line": "You're the memory guy?",
+      "wordCount": 4
+    },
+    {
+      "id": 511,
+      "index": 511,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "How do you know about me?",
+      "wordCount": 6
+    },
+    {
+      "id": 512,
+      "index": 512,
+      "character": "NATALIE",
+      "gender": "Female",
+      "line": "My boyfriend told me about you.",
+      "wordCount": 6
+    },
+    {
+      "id": 513,
+      "index": 513,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Who's your boyfriend?",
+      "wordCount": 3
+    },
+    {
+      "id": 514,
+      "index": 514,
+      "character": "NATALIE",
+      "gender": "Female",
+      "line": "Jimmy Grantz. Know him?",
+      "wordCount": 4
+    },
+    {
+      "id": 515,
+      "index": 515,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Chronic alcoholism ~ one cause of short term memory loss.",
+      "wordCount": 10
+    },
+    {
+      "id": 516,
+      "index": 516,
+      "character": "NATALIE",
+      "gender": "Female",
+      "line": "Are you Teddy?",
+      "wordCount": 3
+    },
+    {
+      "id": 517,
+      "index": 517,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "My name's Leonard. *",
+      "wordCount": 4
+    },
+    {
+      "id": 518,
+      "index": 518,
+      "character": "NATALIE",
+      "gender": "Female",
+      "line": "Did Teddy send you?",
+      "wordCount": 4
+    },
+    {
+      "id": 519,
+      "index": 519,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "I don't know.",
+      "wordCount": 3
+    },
+    {
+      "id": 520,
+      "index": 520,
+      "character": "NATALIE",
+      "gender": "Female",
+      "line": "What's happened to Jimmy?",
+      "wordCount": 4
+    },
+    {
+      "id": 521,
+      "index": 521,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "I don't know. I'm sorry.",
+      "wordCount": 5
+    },
+    {
+      "id": 522,
+      "index": 522,
+      "character": "NATALIE",
+      "gender": "Female",
+      "line": "You have no idea where you've just come from? What you've just done?",
+      "wordCount": 13
+    },
+    {
+      "id": 523,
+      "index": 523,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "I can't make new memories. Everything * fades, nothing sticks. By the time we finish this conversation I won't remember how it started, and the next time I see you I won't know that I've ever met you before.",
+      "wordCount": 39
+    },
+    {
+      "id": 524,
+      "index": 524,
+      "character": "NATALIE",
+      "gender": "Female",
+      "line": "So why did you come here?",
+      "wordCount": 6
+    },
+    {
+      "id": 525,
+      "index": 525,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Found it in my pocket.",
+      "wordCount": 5
+    },
+    {
+      "id": 526,
+      "index": 526,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Thank-you.",
+      "wordCount": 1
+    },
+    {
+      "id": 527,
+      "index": 527,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "I never said he was faking. Just that his condition was mental, not physical. She seemed satisfied, she just said \"thanks\" and got up to leave. I found out later that she went home and gave Sammy his final exam.",
+      "wordCount": 40
+    },
+    {
+      "id": 528,
+      "index": 528,
+      "character": "MRS. JANKIS",
+      "gender": "Female",
+      "line": "Sammy, it's time for my shot.",
+      "wordCount": 6
+    },
+    {
+      "id": 529,
+      "index": 529,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "She knew beyond doubt that he loved her, so she found a way to test him.",
+      "wordCount": 16
+    },
+    {
+      "id": 530,
+      "index": 530,
+      "character": "MRS. JANKIS",
+      "gender": "Female",
+      "line": "Sammy, it's time for my shot.",
+      "wordCount": 6
+    },
+    {
+      "id": 531,
+      "index": 531,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "She really thought she would call his bluff...",
+      "wordCount": 8
+    },
+    {
+      "id": 532,
+      "index": 532,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "She went into a coma and never recovered.",
+      "wordCount": 8
+    },
+    {
+      "id": 533,
+      "index": 533,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "He's been in a home ever since. He doesn't even know his wife is dead.",
+      "wordCount": 15
+    },
+    {
+      "id": 534,
+      "index": 534,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Didn't know this town had a parlor.",
+      "wordCount": 7
+    },
+    {
+      "id": 535,
+      "index": 535,
+      "character": "TATTOOIST",
+      "gender": "Female",
+      "line": "Every town's got a parlor.",
+      "wordCount": 5
+    },
+    {
+      "id": 536,
+      "index": 536,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "I'd like this on my thigh please.",
+      "wordCount": 7
+    },
+    {
+      "id": 537,
+      "index": 537,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Promise you won't call me an idiot.",
+      "wordCount": 7
+    },
+    {
+      "id": 538,
+      "index": 538,
+      "character": "TATTOOIST",
+      "gender": "Female",
+      "line": "Idiot.",
+      "wordCount": 1
+    },
+    {
+      "id": 539,
+      "index": 539,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "Hi, Lenny.",
+      "wordCount": 2
+    },
+    {
+      "id": 540,
+      "index": 540,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "It's alright, we know each other, right, Lenny?",
+      "wordCount": 8
+    },
+    {
+      "id": 541,
+      "index": 541,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "How'd you know I was in here?",
+      "wordCount": 7
+    },
+    {
+      "id": 542,
+      "index": 542,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "The Jaguar's out front. You didn't even Bother to put it around back.",
+      "wordCount": 13
+    },
+    {
+      "id": 543,
+      "index": 543,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Guess I wanted to get something down before it slipped my mind.",
+      "wordCount": 12
+    },
+    {
+      "id": 544,
+      "index": 544,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "Gimme the keys, I'll move the car.",
+      "wordCount": 7
+    },
+    {
+      "id": 545,
+      "index": 545,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "It'll be alright for a minute.",
+      "wordCount": 6
+    },
+    {
+      "id": 546,
+      "index": 546,
+      "character": "TATTOOIST",
+      "gender": "Female",
+      "line": "Wait out there.",
+      "wordCount": 3
+    },
+    {
+      "id": 547,
+      "index": 547,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "Lenny, I'll be back in a minute. I've got to get you some stuff.",
+      "wordCount": 14
+    },
+    {
+      "id": 548,
+      "index": 548,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "Give us a minute, will ya?",
+      "wordCount": 6
+    },
+    {
+      "id": 549,
+      "index": 549,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Why?",
+      "wordCount": 1
+    },
+    {
+      "id": 550,
+      "index": 550,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "Why? Come on, Leonard, we talked about this. It's not safe f or you to be walking around like this.",
+      "wordCount": 20
+    },
+    {
+      "id": 551,
+      "index": 551,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Why not?",
+      "wordCount": 2
+    },
+    {
+      "id": 552,
+      "index": 552,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "Because that cop's looking for you. We * need to get you a change of identity. Some new clothes and a different car should do for now. Put these on. *",
+      "wordCount": 31
+    },
+    {
+      "id": 553,
+      "index": 553,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "This bad cop. He checked you into the * Discount Inn. Then he's been calling you * for days, sticking envelopes under your * door, telling you shit. *",
+      "wordCount": 29
+    },
+    {
+      "id": 554,
+      "index": 554,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Envelopes? *",
+      "wordCount": 2
+    },
+    {
+      "id": 555,
+      "index": 555,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "He knows you're no good on the phone, so * he calls you up to bullshit you. * Sometimes you stop taking his calls, so * he slips something under your door to * frighten you into answering your phone * again. He's been pretending to help you. * Feeding you a line of crap about John G. * being some local drug dealer. *",
+      "wordCount": 65
+    },
+    {
+      "id": 556,
+      "index": 556,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "How do you know this?",
+      "wordCount": 5
+    },
+    {
+      "id": 557,
+      "index": 557,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "'Cos he fucking told me. He thinks it's funny. He's laughing at you.",
+      "wordCount": 13
+    },
+    {
+      "id": 558,
+      "index": 558,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "How do you know him?",
+      "wordCount": 5
+    },
+    {
+      "id": 559,
+      "index": 559,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "I'm a snitch. He's a cop from out of town looking for information. The local boys put us in touch.",
+      "wordCount": 20
+    },
+    {
+      "id": 560,
+      "index": 560,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Who?",
+      "wordCount": 1
+    },
+    {
+      "id": 561,
+      "index": 561,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "Jimmy's a drug dealer. This cop wanted to know all about how he sets up deals, shit like that. He's got some score in mind * and you're involved. Come on, there's no * time to argue - if he knew I was helping * you he'd find a way to kill me. Just get * these clothes on. You're gonna take my * car and get the fuck out of here. *",
+      "wordCount": 73
+    },
+    {
+      "id": 562,
+      "index": 562,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Sneaky fuck. \"Bad Cop\". Had me going.",
+      "wordCount": 7
+    },
+    {
+      "id": 563,
+      "index": 563,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "So this Jimmy Grantz deals drugs out of * the bar where his girlfriend works. But * he'll come to the meet alone. *",
+      "wordCount": 24
+    },
+    {
+      "id": 564,
+      "index": 564,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "Lenny!",
+      "wordCount": 1
+    },
+    {
+      "id": 565,
+      "index": 565,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Officer Gammell.",
+      "wordCount": 2
+    },
+    {
+      "id": 566,
+      "index": 566,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Something to remember you by.",
+      "wordCount": 5
+    },
+    {
+      "id": 567,
+      "index": 567,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "Just Teddy. Don't write Gammell please.",
+      "wordCount": 6
+    },
+    {
+      "id": 568,
+      "index": 568,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "You're not coming?",
+      "wordCount": 3
+    },
+    {
+      "id": 569,
+      "index": 569,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "Wouldn't be appropriate. *",
+      "wordCount": 4
+    },
+    {
+      "id": 570,
+      "index": 570,
+      "character": "JIMMY",
+      "gender": "Male",
+      "line": "Teddy?!",
+      "wordCount": 1
+    },
+    {
+      "id": 571,
+      "index": 571,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Jimmy?",
+      "wordCount": 1
+    },
+    {
+      "id": 572,
+      "index": 572,
+      "character": "JIMMY",
+      "gender": "Male",
+      "line": "What the fuck are you doing here?",
+      "wordCount": 7
+    },
+    {
+      "id": 573,
+      "index": 573,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Do you remember me?",
+      "wordCount": 4
+    },
+    {
+      "id": 574,
+      "index": 574,
+      "character": "JIMMY",
+      "gender": "Male",
+      "line": "Yeah, I remember you.",
+      "wordCount": 4
+    },
+    {
+      "id": 575,
+      "index": 575,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "You Jimmy Grantz? *",
+      "wordCount": 4
+    },
+    {
+      "id": 576,
+      "index": 576,
+      "character": "JIMMY",
+      "gender": "Male",
+      "line": "Expecting any other Jimmy's out here, Memory Man? Where the fuck's Teddy?",
+      "wordCount": 12
+    },
+    {
+      "id": 577,
+      "index": 577,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Strip!",
+      "wordCount": 1
+    },
+    {
+      "id": 578,
+      "index": 578,
+      "character": "JIMMY",
+      "gender": "Male",
+      "line": "You're making a big fucking mistake. My associates are not people you want -",
+      "wordCount": 14
+    },
+    {
+      "id": 579,
+      "index": 579,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Don't say anything else.",
+      "wordCount": 4
+    },
+    {
+      "id": 580,
+      "index": 580,
+      "character": "JIMMY",
+      "gender": "Male",
+      "line": "I knew I couldn't trust that fuck -",
+      "wordCount": 8
+    },
+    {
+      "id": 581,
+      "index": 581,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Quiet!",
+      "wordCount": 1
+    },
+    {
+      "id": 582,
+      "index": 582,
+      "character": "JIMMY",
+      "gender": "Male",
+      "line": "Why?",
+      "wordCount": 1
+    },
+    {
+      "id": 583,
+      "index": 583,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "I don't want blood on them.",
+      "wordCount": 6
+    },
+    {
+      "id": 584,
+      "index": 584,
+      "character": "JIMMY",
+      "gender": "Male",
+      "line": "Wait! Did he tell you what I was bringing?",
+      "wordCount": 9
+    },
+    {
+      "id": 585,
+      "index": 585,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Strip!",
+      "wordCount": 1
+    },
+    {
+      "id": 586,
+      "index": 586,
+      "character": "JIMMY",
+      "gender": "Male",
+      "line": "Look, there's two hundred grand stashed in the car. Just take it!",
+      "wordCount": 12
+    },
+    {
+      "id": 587,
+      "index": 587,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "You think you can bargain with me?!",
+      "wordCount": 7
+    },
+    {
+      "id": 588,
+      "index": 588,
+      "character": "JIMMY",
+      "gender": "Male",
+      "line": "Take the money and walk away!",
+      "wordCount": 6
+    },
+    {
+      "id": 589,
+      "index": 589,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "I don't want your fucking money!",
+      "wordCount": 6
+    },
+    {
+      "id": 590,
+      "index": 590,
+      "character": "JIMMY",
+      "gender": "Male",
+      "line": "What?! What do you want from me?!",
+      "wordCount": 7
+    },
+    {
+      "id": 591,
+      "index": 591,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "I want my fucking life back!",
+      "wordCount": 6
+    },
+    {
+      "id": 592,
+      "index": 592,
+      "character": "JIMMY",
+      "gender": "Male",
+      "line": "Sammy... remember Sammy...",
+      "wordCount": 3
+    },
+    {
+      "id": 593,
+      "index": 593,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Hey! Mister! I need help!",
+      "wordCount": 5
+    },
+    {
+      "id": 594,
+      "index": 594,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "What's wrong?",
+      "wordCount": 2
+    },
+    {
+      "id": 595,
+      "index": 595,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "There's a guy in here, hurt bad! We gotta get him to a doctor!",
+      "wordCount": 14
+    },
+    {
+      "id": 596,
+      "index": 596,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "He might have fallen down the stairs, I don't know, I don't know what's going on, I'm confused. I have this memory thing - do I know you?",
+      "wordCount": 28
+    },
+    {
+      "id": 597,
+      "index": 597,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "No. Don't worry, I'm a cop. Everything'll be okay. Is he still breathing?",
+      "wordCount": 13
+    },
+    {
+      "id": 598,
+      "index": 598,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Maybe. Maybe just.",
+      "wordCount": 3
+    },
+    {
+      "id": 599,
+      "index": 599,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "So what were you doing here?",
+      "wordCount": 6
+    },
+    {
+      "id": 600,
+      "index": 600,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "I don't know. See, I have this condition.",
+      "wordCount": 8
+    },
+    {
+      "id": 601,
+      "index": 601,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "Well, I hope it's not as serious as his, 'cos this guy's dead.",
+      "wordCount": 13
+    },
+    {
+      "id": 602,
+      "index": 602,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Remember me again, huh?",
+      "wordCount": 4
+    },
+    {
+      "id": 603,
+      "index": 603,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "I think you've got the wrong idea -",
+      "wordCount": 8
+    },
+    {
+      "id": 604,
+      "index": 604,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Who was that? He's not the guy. He knew * me. *",
+      "wordCount": 12
+    },
+    {
+      "id": 605,
+      "index": 605,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "His name's James F. Grantz, John G. Check * your tattoos. *",
+      "wordCount": 12
+    },
+    {
+      "id": 606,
+      "index": 606,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "So what was he bringing the two hundred * grand for? *",
+      "wordCount": 12
+    },
+    {
+      "id": 607,
+      "index": 607,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "A load of amphetamine I told him I had.",
+      "wordCount": 9
+    },
+    {
+      "id": 608,
+      "index": 608,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "This is a drug deal?!",
+      "wordCount": 5
+    },
+    {
+      "id": 609,
+      "index": 609,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "That, and your thing. *",
+      "wordCount": 5
+    },
+    {
+      "id": 610,
+      "index": 610,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "You're using me!",
+      "wordCount": 3
+    },
+    {
+      "id": 611,
+      "index": 611,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "No! You get half. *",
+      "wordCount": 5
+    },
+    {
+      "id": 612,
+      "index": 612,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "He knew about Sammy. Why would I tell him about Sammy? *",
+      "wordCount": 12
+    },
+    {
+      "id": 613,
+      "index": 613,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "You tell everyone about Sammy. Everyone who'll listen. \"Remember Sammy Jankis, remember Sammy Jankis\". Great story. Gets better every time you tell it. So you lie to yourself to be happy. Nothing wrong with that - we all do. Who cares if there's a few little things you'd rather not remember?",
+      "wordCount": 51
+    },
+    {
+      "id": 614,
+      "index": 614,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "What the fuck are you talking about?",
+      "wordCount": 7
+    },
+    {
+      "id": 615,
+      "index": 615,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "I dunno... your wife surviving the assault... her not believing about your condition... the doubt tearing her up inside.., the insulin -",
+      "wordCount": 22
+    },
+    {
+      "id": 616,
+      "index": 616,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "That's Sammy, not me! I told you about Sammy -",
+      "wordCount": 10
+    },
+    {
+      "id": 617,
+      "index": 617,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "Like you've told yourself. Over and over. Conditioning yourself to believe. \"learning through repetition\" -",
+      "wordCount": 15
+    },
+    {
+      "id": 618,
+      "index": 618,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Sammy let his wife kill herself! Sammy ended up in an institution - ! *",
+      "wordCount": 15
+    },
+    {
+      "id": 619,
+      "index": 619,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "Sammy was a con man. A faker.",
+      "wordCount": 7
+    },
+    {
+      "id": 620,
+      "index": 620,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "I never said he was faking! I never said that!",
+      "wordCount": 10
+    },
+    {
+      "id": 621,
+      "index": 621,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "You exposed him for what he was: a fraud.",
+      "wordCount": 9
+    },
+    {
+      "id": 622,
+      "index": 622,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "I was wrong! That's the whole point! Sammy's wife came to me and -",
+      "wordCount": 14
+    },
+    {
+      "id": 623,
+      "index": 623,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "Sammy didn't have a wife.",
+      "wordCount": 5
+    },
+    {
+      "id": 624,
+      "index": 624,
+      "character": "LEONARD'S WIFE",
+      "gender": "Female",
+      "line": "Gentle.",
+      "wordCount": 1
+    },
+    {
+      "id": 625,
+      "index": 625,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "My wife wasn't diabetic.",
+      "wordCount": 4
+    },
+    {
+      "id": 626,
+      "index": 626,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "Are you sure?",
+      "wordCount": 3
+    },
+    {
+      "id": 627,
+      "index": 627,
+      "character": "LEONARD'S WIFE",
+      "gender": "Female",
+      "line": "Gentle.",
+      "wordCount": 1
+    },
+    {
+      "id": 628,
+      "index": 628,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "She wasn't diabetic. You think I don't * know my own wife? What the fuck is wrong * with you? *",
+      "wordCount": 21
+    },
+    {
+      "id": 629,
+      "index": 629,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "I guess I can only make you believe the things you want to be true, huh? Like ol' * Jimmy down there.",
+      "wordCount": 22
+    },
+    {
+      "id": 630,
+      "index": 630,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "But he's not the right guy! *",
+      "wordCount": 7
+    },
+    {
+      "id": 631,
+      "index": 631,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "What difference does it make whether he * was your guy or not? *",
+      "wordCount": 14
+    },
+    {
+      "id": 632,
+      "index": 632,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "It makes all the difference. *",
+      "wordCount": 6
+    },
+    {
+      "id": 633,
+      "index": 633,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "Why? You're never going to know. *",
+      "wordCount": 7
+    },
+    {
+      "id": 634,
+      "index": 634,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Yes, I will.",
+      "wordCount": 3
+    },
+    {
+      "id": 635,
+      "index": 635,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "No, you won't.",
+      "wordCount": 3
+    },
+    {
+      "id": 636,
+      "index": 636,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Somehow, I'll know!",
+      "wordCount": 3
+    },
+    {
+      "id": 637,
+      "index": 637,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "You won't remember!",
+      "wordCount": 3
+    },
+    {
+      "id": 638,
+      "index": 638,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "When it's done, I'll know! It'll be different!",
+      "wordCount": 8
+    },
+    {
+      "id": 639,
+      "index": 639,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "I thought so too! I was sure you'd * remember. But you didn't. *",
+      "wordCount": 14
+    },
+    {
+      "id": 640,
+      "index": 640,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "You know, when we found your guy and * killed him. That's right, the real John G. Over a * year ago. I helped you find him. He's * already dead. *",
+      "wordCount": 32
+    },
+    {
+      "id": 641,
+      "index": 641,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Why do you keep lying to me? *",
+      "wordCount": 8
+    },
+    {
+      "id": 642,
+      "index": 642,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "I'm not. I was the cop assigned to your * wife's death. I believed you, I thought * you deserved the chance for revenge. I helped you find the other guy who was in your bathroom that night. The guy who cracked your skull and fucked your wife. * We found him and you killed him. * MEMENTO - Green Revisions 10-4-99 115A.",
+      "wordCount": 63
+    },
+    {
+      "id": 643,
+      "index": 643,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "So who are you saying he was? *",
+      "wordCount": 8
+    },
+    {
+      "id": 644,
+      "index": 644,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "Just some guy. Does it even matter who? I stopped asking myself why a long time ago. No reason, no conspiracy; just bad fucking luck. A couple of junkies, too * strung out to realize that your wife didn't live alone. When you killed him, * I've never seen you so happy - I was convinced you'd remember. But it didn't stick, like nothing ever sticks. Like this won't stick.",
+      "wordCount": 70
+    },
+    {
+      "id": 645,
+      "index": 645,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "Fuck you; I gave you a reason to live and * you were more than happy to help. You lie * to yourself! You don't want the truth, * the truth is a fucking coward. So you * make up your own truth. *",
+      "wordCount": 44
+    },
+    {
+      "id": 646,
+      "index": 646,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "You probably. *",
+      "wordCount": 3
+    },
+    {
+      "id": 647,
+      "index": 647,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "No. You took them out. *",
+      "wordCount": 6
+    },
+    {
+      "id": 648,
+      "index": 648,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Why would I do that? *",
+      "wordCount": 6
+    },
+    {
+      "id": 649,
+      "index": 649,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "To set yourself a puzzle you won't ever solve. You know how many towns, how many * guys called James G? Or John G? Shit, Leonard, I'm a John G.",
+      "wordCount": 30
+    },
+    {
+      "id": 650,
+      "index": 650,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Your name's Teddy.",
+      "wordCount": 3
+    },
+    {
+      "id": 651,
+      "index": 651,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "My mother calls me Teddy. I'm John Edward Gammell. Cheer up, there's a lot of John * G's for us to find. All you do is moan. * I'm the one that has to live with what * you've done. I'm the one that has to put * it all together. You just wander around * playing detective. You're living a dream, * kid. A dead wife to pine for and a sense * of purpose to your life. A romantic quest * which you wouldn't end even if I wasn't * in the picture. *",
+      "wordCount": 96
+    },
+    {
+      "id": 652,
+      "index": 652,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "I should kill you. *",
+      "wordCount": 5
+    },
+    {
+      "id": 653,
+      "index": 653,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "Quit it! * * You're not a killer, Lenny. That's why * you're so good at it. *",
+      "wordCount": 18
+    },
+    {
+      "id": 654,
+      "index": 654,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "I'm not a killer...",
+      "wordCount": 4
+    },
+    {
+      "id": 655,
+      "index": 655,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "... but right now I need to be.",
+      "wordCount": 8
+    },
+    {
+      "id": 656,
+      "index": 656,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "Hey! Hey, that's not your car!",
+      "wordCount": 6
+    },
+    {
+      "id": 657,
+      "index": 657,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "It is now.",
+      "wordCount": 3
+    },
+    {
+      "id": 658,
+      "index": 658,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "You can't just take it!",
+      "wordCount": 5
+    },
+    {
+      "id": 659,
+      "index": 659,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "Why not?",
+      "wordCount": 2
+    },
+    {
+      "id": 660,
+      "index": 660,
+      "character": "TEDDY",
+      "gender": "Male",
+      "line": "You just killed the guy who owned it! Somebody'll recognize it!",
+      "wordCount": 11
+    },
+    {
+      "id": 661,
+      "index": 661,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "I'd rather be mistaken for a dead guy than a murderer. I'm gonna hang on to this.",
+      "wordCount": 17
+    },
+    {
+      "id": 662,
+      "index": 662,
+      "character": "LEONARD",
+      "gender": "Male",
+      "line": "I have to believe in the world outside my own mind. I have to believe that my actions still have meaning, even if I can't remember them. I have to believe that when my eyes are closed, the world's still there.",
+      "wordCount": 41
+    },
+    {
+      "id": 663,
+      "index": 663,
+      "character": "MEMENTO MORI",
+      "gender": "NA",
+      "line": "by Jonathan Nolan",
+      "wordCount": 3
+    },
+    {
+      "id": 664,
+      "index": 664,
+      "character": "",
+      "gender": "Male"
+    }
+  ]
+}

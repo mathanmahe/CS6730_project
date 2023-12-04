@@ -1,0 +1,5692 @@
+{
+  "fileName": "Taxi-Driver_dialogue.txt",
+  "title": "Taxi Driver",
+  "data": [
+    {
+      "id": 0,
+      "index": 0,
+      "character": "PERSONNEL OFFICER",
+      "gender": "NA",
+      "line": "No trouble with the Hack Bureau?",
+      "wordCount": 6
+    },
+    {
+      "id": 1,
+      "index": 1,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "No Sir.",
+      "wordCount": 2
+    },
+    {
+      "id": 2,
+      "index": 2,
+      "character": "PERSONNEL OFFICER",
+      "gender": "NA",
+      "line": "Got your license?",
+      "wordCount": 3
+    },
+    {
+      "id": 3,
+      "index": 3,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Yes.",
+      "wordCount": 1
+    },
+    {
+      "id": 4,
+      "index": 4,
+      "character": "PERSONNEL OFFICER",
+      "gender": "NA",
+      "line": "So why do you want to be a taxi driver?",
+      "wordCount": 10
+    },
+    {
+      "id": 5,
+      "index": 5,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "I can't sleep nights.",
+      "wordCount": 4
+    },
+    {
+      "id": 6,
+      "index": 6,
+      "character": "PERSONNEL OFFICER",
+      "gender": "NA",
+      "line": "There's porno theatres for that.",
+      "wordCount": 5
+    },
+    {
+      "id": 7,
+      "index": 7,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "I know. I tried that.",
+      "wordCount": 5
+    },
+    {
+      "id": 8,
+      "index": 8,
+      "character": "PERSONNEL OFFICER",
+      "gender": "NA",
+      "line": "So whatja do now?",
+      "wordCount": 4
+    },
+    {
+      "id": 9,
+      "index": 9,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "I ride around nights mostly. Subways, buses. See things. Figur'd I might as well get paid for it.",
+      "wordCount": 18
+    },
+    {
+      "id": 10,
+      "index": 10,
+      "character": "PERSONNEL OFFICER",
+      "gender": "NA",
+      "line": "We don't need any misfits around here, son.",
+      "wordCount": 8
+    },
+    {
+      "id": 11,
+      "index": 11,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "You kiddin? Who else would hack through South Bronx or Harlem at night?",
+      "wordCount": 13
+    },
+    {
+      "id": 12,
+      "index": 12,
+      "character": "PERSONNEL OFFICER",
+      "gender": "NA",
+      "line": "You want to work uptown nights?",
+      "wordCount": 6
+    },
+    {
+      "id": 13,
+      "index": 13,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "I'll work anywhere, anytime. I know I can't be choosy.",
+      "wordCount": 10
+    },
+    {
+      "id": 14,
+      "index": 14,
+      "character": "PERSONNEL OFFICER",
+      "gender": "NA",
+      "line": "How's your driving record?",
+      "wordCount": 4
+    },
+    {
+      "id": 15,
+      "index": 15,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Clean. Real clean. As clean as my conscience.",
+      "wordCount": 8
+    },
+    {
+      "id": 16,
+      "index": 16,
+      "character": "PERSONNEL OFFICER",
+      "gender": "NA",
+      "line": "Listen, son, you gonna get smart, you can leave right now.",
+      "wordCount": 11
+    },
+    {
+      "id": 17,
+      "index": 17,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Sorry, sir. I didn't mean that.",
+      "wordCount": 6
+    },
+    {
+      "id": 18,
+      "index": 18,
+      "character": "PERSONNEL OFFICER",
+      "gender": "NA",
+      "line": "Physical? Criminal?",
+      "wordCount": 2
+    },
+    {
+      "id": 19,
+      "index": 19,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Also clean.",
+      "wordCount": 2
+    },
+    {
+      "id": 20,
+      "index": 20,
+      "character": "PERSONNEL OFFICER",
+      "gender": "NA",
+      "line": "Age?",
+      "wordCount": 1
+    },
+    {
+      "id": 21,
+      "index": 21,
+      "character": "PERSONNEL OFFICER",
+      "gender": "NA",
+      "line": "Twenty-six.",
+      "wordCount": 1
+    },
+    {
+      "id": 22,
+      "index": 22,
+      "character": "PERSONNEL OFFICER",
+      "gender": "NA",
+      "line": "Education?",
+      "wordCount": 1
+    },
+    {
+      "id": 23,
+      "index": 23,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Some. Here and there.",
+      "wordCount": 4
+    },
+    {
+      "id": 24,
+      "index": 24,
+      "character": "PERSONNEL OFFICER",
+      "gender": "NA",
+      "line": "Military record?",
+      "wordCount": 2
+    },
+    {
+      "id": 25,
+      "index": 25,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Honorable discharge. May 1971.",
+      "wordCount": 4
+    },
+    {
+      "id": 26,
+      "index": 26,
+      "character": "PERSONNEL OFFICER",
+      "gender": "NA",
+      "line": "You moonlightin?",
+      "wordCount": 2
+    },
+    {
+      "id": 27,
+      "index": 27,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "No, I want long shifts.",
+      "wordCount": 5
+    },
+    {
+      "id": 28,
+      "index": 28,
+      "character": "PERSONNEL OFFICER",
+      "gender": "NA",
+      "line": "We hire a lot of moonlighters here.",
+      "wordCount": 7
+    },
+    {
+      "id": 29,
+      "index": 29,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "So I hear.",
+      "wordCount": 3
+    },
+    {
+      "id": 30,
+      "index": 30,
+      "character": "PERSONNEL OFFICER",
+      "gender": "NA",
+      "line": "Hell, we ain't that much fussy anyway. There's always opening on one fleet or another. Fill out these forms and give them to the girl at the desk, and leave your phone number. You gotta phone?",
+      "wordCount": 36
+    },
+    {
+      "id": 31,
+      "index": 31,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "No.",
+      "wordCount": 1
+    },
+    {
+      "id": 32,
+      "index": 32,
+      "character": "PERSONNEL OFFICER",
+      "gender": "NA",
+      "line": "Well then check back tomorrow.",
+      "wordCount": 5
+    },
+    {
+      "id": 33,
+      "index": 33,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Yes, Sir.",
+      "wordCount": 2
+    },
+    {
+      "id": 34,
+      "index": 34,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "April 10, 1972. Thank God for the rain which has helped wash the garbage and trash off the sidewalks.",
+      "wordCount": 19
+    },
+    {
+      "id": 35,
+      "index": 35,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "I'm working a single now, which means stretch-shifts, six to six, sometimes six to eight in the a.m., six days a week.",
+      "wordCount": 22
+    },
+    {
+      "id": 36,
+      "index": 36,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "It's a hustle, but it keeps me busy. I can take in three to three-fifty a week, more with skims.",
+      "wordCount": 20
+    },
+    {
+      "id": 37,
+      "index": 37,
+      "character": "MAN IN BUSINESS SUIT",
+      "gender": "NA",
+      "line": "Is Kennedy operating, cabbie? Is it grounded?",
+      "wordCount": 7
+    },
+    {
+      "id": 38,
+      "index": 38,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Why should it be grounded?",
+      "wordCount": 5
+    },
+    {
+      "id": 39,
+      "index": 39,
+      "character": "MAN IN BUSINESS SUIT",
+      "gender": "NA",
+      "line": "Listen - I mean I just saw the needle of the Empire State Building. You can't see it for the fog!",
+      "wordCount": 21
+    },
+    {
+      "id": 40,
+      "index": 40,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Then it's a good guess it's grounded.",
+      "wordCount": 7
+    },
+    {
+      "id": 41,
+      "index": 41,
+      "character": "MAN IN BUSINESS SUIT",
+      "gender": "NA",
+      "line": "The Empire State in fog means something, don't it? Do you know, or don't you? What is your number, cabbie?",
+      "wordCount": 20
+    },
+    {
+      "id": 42,
+      "index": 42,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Have you tried the telephone?",
+      "wordCount": 5
+    },
+    {
+      "id": 43,
+      "index": 43,
+      "character": "MAN IN BUSINESS SUIT",
+      "gender": "NA",
+      "line": "There isn't time for that. In other words, you don't know.",
+      "wordCount": 11
+    },
+    {
+      "id": 44,
+      "index": 44,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "No.",
+      "wordCount": 1
+    },
+    {
+      "id": 45,
+      "index": 45,
+      "character": "MAN IN BUSINESS SUIT",
+      "gender": "NA",
+      "line": "Well, you should know, damn it, or who else would know? Pull over right here. Why don't you stick your goddamn head out of the goddamn window once in a while and find out about the goddamn fog!",
+      "wordCount": 38
+    },
+    {
+      "id": 46,
+      "index": 46,
+      "character": "MAN IN BUSINESS SUIT",
+      "gender": "NA",
+      "line": "Taxi! Taxi!",
+      "wordCount": 2
+    },
+    {
+      "id": 47,
+      "index": 47,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "I work the whole city, up, down, don't make no difference to me - does to some.",
+      "wordCount": 17
+    },
+    {
+      "id": 48,
+      "index": 48,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Some won't take spooks - Hell, don't make no difference tom me.",
+      "wordCount": 12
+    },
+    {
+      "id": 49,
+      "index": 49,
+      "character": "JOHN",
+      "gender": "NA",
+      "line": "Oh baby, baby.",
+      "wordCount": 3
+    },
+    {
+      "id": 50,
+      "index": 50,
+      "character": "PROSTITUTE",
+      "gender": "NA",
+      "line": "Come on.",
+      "wordCount": 2
+    },
+    {
+      "id": 51,
+      "index": 51,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "They're all animals anyway. All the animals come out at night: Whores, skunk pussies, buggers, queens, fairies, dopers, junkies, sick, venal. Someday a real rain will come and wash all this scum off the streets.",
+      "wordCount": 35
+    },
+    {
+      "id": 52,
+      "index": 52,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Each night when I return the cab to the garage I have to clean the come off the back seat. Some nights I clean off the blood.",
+      "wordCount": 27
+    },
+    {
+      "id": 53,
+      "index": 53,
+      "character": "BE ALERT!! THE SAFE DRIVER IS ALWAYS READY",
+      "gender": "NA",
+      "line": "FOR THE UNEXPECTED",
+      "wordCount": 3
+    },
+    {
+      "id": 54,
+      "index": 54,
+      "character": "SLOW DOWN AND GAUGE SPEED TO ROAD CONDITIONS YOU CAN'T STOP",
+      "gender": "NA",
+      "line": "ON A DIME!",
+      "wordCount": 3
+    },
+    {
+      "id": 55,
+      "index": 55,
+      "character": "ALL NIGHT DRIVERS HAVING PERSONAL INJURY ACCIDENTS",
+      "gender": "NA",
+      "line": "MUST PHONE IN AT ONCE TO JUDSON 2-3410 AND MUST FILE A REPORT Promptly AT 9 AM THE FOLLOWING MORNING AT 43 W. 61st.",
+      "wordCount": 24
+    },
+    {
+      "id": 56,
+      "index": 56,
+      "character": "1ST CABBIE",
+      "gender": "NA",
+      "line": "... hadda piss like a bull steer, so I pull over on 10th Ave, yank up the hood and do the engine job. There I am with my dong in my hand when a guy come up and asks if I need any help. Just checking the battery, I says, and, meanwhile...",
+      "wordCount": 52
+    },
+    {
+      "id": 57,
+      "index": 57,
+      "character": "2ND CABBIE",
+      "gender": "NA",
+      "line": "If he thinks I'm going up into The Jungle this time of night, he can shove it.",
+      "wordCount": 17
+    },
+    {
+      "id": 58,
+      "index": 58,
+      "character": "3RD CABBIE",
+      "gender": "NA",
+      "line": "Fuck that Violets First. Fucking saddle horse. No, no, the OTB. Fuck them. No, it was TKR. TCR and I'da made seven fucking grand. Fuck them too. Alright, what about the second race?",
+      "wordCount": 33
+    },
+    {
+      "id": 59,
+      "index": 59,
+      "character": "4TH CABBIE",
+      "gender": "NA",
+      "line": "Over at Love, this hooker took on the whole garage. Blew the whole fucking joint and they wouldn't even let her use the drinking fountain.",
+      "wordCount": 25
+    },
+    {
+      "id": 60,
+      "index": 60,
+      "character": "CONCESSION GIRL",
+      "gender": "Female",
+      "line": "Kin I help ya?",
+      "wordCount": 4
+    },
+    {
+      "id": 61,
+      "index": 61,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "What is your name? My name is Travis.",
+      "wordCount": 8
+    },
+    {
+      "id": 62,
+      "index": 62,
+      "character": "CONCESSION GIRL",
+      "gender": "Female",
+      "line": "Awh, come off it, Pal.",
+      "wordCount": 5
+    },
+    {
+      "id": 63,
+      "index": 63,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "No, I'm serious, really...",
+      "wordCount": 4
+    },
+    {
+      "id": 64,
+      "index": 64,
+      "character": "CONCESSION GIRL",
+      "gender": "Female",
+      "line": "Ya want me to call da boss? Huh? That what you want?",
+      "wordCount": 12
+    },
+    {
+      "id": 65,
+      "index": 65,
+      "character": "CONCESSION GIRL",
+      "gender": "Female",
+      "line": "No, no, it's alright. I'll have a big Coca-Cola - without ice - and a large buttered popcorn, and... ... some of them chocolate covered malted milk balls... and ju-jukes, a box. They last.",
+      "wordCount": 34
+    },
+    {
+      "id": 66,
+      "index": 66,
+      "character": "CONCESSION GIRL",
+      "gender": "Female",
+      "line": "We don't have ju-jukes. We don't have Coca-Cola. We only got Royal Crown Cola.",
+      "wordCount": 14
+    },
+    {
+      "id": 67,
+      "index": 67,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "That's fine.",
+      "wordCount": 2
+    },
+    {
+      "id": 68,
+      "index": 68,
+      "character": "CONCESSION GIRL",
+      "gender": "Female",
+      "line": "That's a dollar forty-seven.",
+      "wordCount": 4
+    },
+    {
+      "id": 69,
+      "index": 69,
+      "character": "MALE MOVIE VOICE",
+      "gender": "NA",
+      "line": "Come here, bitch. I'm gonna split you in half.",
+      "wordCount": 9
+    },
+    {
+      "id": 70,
+      "index": 70,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Twelve hours of work and I still cannot sleep. The days dwindle on forever and do not end.",
+      "wordCount": 18
+    },
+    {
+      "id": 71,
+      "index": 71,
+      "character": "BETSY",
+      "gender": "Female",
+      "line": "Tom.",
+      "wordCount": 1
+    },
+    {
+      "id": 72,
+      "index": 72,
+      "character": "BETSY",
+      "gender": "Female",
+      "line": "Tom, come here a moment. I think this canvas report is about ready to go out. Check it out with Andy, and if he okays if, have a copy made for the campaign headquarters in every county. And don't forget to add the new photo releases.",
+      "wordCount": 46
+    },
+    {
+      "id": 73,
+      "index": 73,
+      "character": "TOM",
+      "gender": "Male",
+      "line": "The senator's white paper is almost ready, Bets. Should we wait for that?",
+      "wordCount": 13
+    },
+    {
+      "id": 74,
+      "index": 74,
+      "character": "BETSY",
+      "gender": "Female",
+      "line": "Andy usually just sends those to the national media. The local press doesn't know what to do with a position paper until UPI and AP tell them anyway.",
+      "wordCount": 28
+    },
+    {
+      "id": 75,
+      "index": 75,
+      "character": "TOM",
+      "gender": "Male",
+      "line": "I think we should try to get maximum coverage for this new mandatory welfare program. Push the issues.",
+      "wordCount": 18
+    },
+    {
+      "id": 76,
+      "index": 76,
+      "character": "BETSY",
+      "gender": "Female",
+      "line": "First push the man, then the issue. Senator Palantine is first of all a dynamic man, an intelligent, interesting, fascinating man.",
+      "wordCount": 21
+    },
+    {
+      "id": 77,
+      "index": 77,
+      "character": "TOM",
+      "gender": "Male",
+      "line": "You forgot \"sexy\".",
+      "wordCount": 3
+    },
+    {
+      "id": 78,
+      "index": 78,
+      "character": "BETSY",
+      "gender": "Female",
+      "line": "No, I didn't forget \"sexy\".",
+      "wordCount": 5
+    },
+    {
+      "id": 79,
+      "index": 79,
+      "character": "TOM",
+      "gender": "Male",
+      "line": "Just didn't get around to it, huh?",
+      "wordCount": 7
+    },
+    {
+      "id": 80,
+      "index": 80,
+      "character": "BETSY",
+      "gender": "Female",
+      "line": "Oh, Tom, please.",
+      "wordCount": 3
+    },
+    {
+      "id": 81,
+      "index": 81,
+      "character": "TOM",
+      "gender": "Male",
+      "line": "Well, for Christsakes, you sound like you're selling... I don't know what... cars... not issues.",
+      "wordCount": 15
+    },
+    {
+      "id": 82,
+      "index": 82,
+      "character": "BETSY",
+      "gender": "Female",
+      "line": "Have you ever wondered why CBS News has the highest ratings?",
+      "wordCount": 11
+    },
+    {
+      "id": 83,
+      "index": 83,
+      "character": "TOM",
+      "gender": "Male",
+      "line": "More people watch it.",
+      "wordCount": 4
+    },
+    {
+      "id": 84,
+      "index": 84,
+      "character": "BETSY",
+      "gender": "Female",
+      "line": "Alright, forget it if you're not going to be serious,",
+      "wordCount": 10
+    },
+    {
+      "id": 85,
+      "index": 85,
+      "character": "TOM",
+      "gender": "Male",
+      "line": "No, c'mon, I'm listening. I was just...",
+      "wordCount": 7
+    },
+    {
+      "id": 86,
+      "index": 86,
+      "character": "BETSY",
+      "gender": "Female",
+      "line": "Just what?",
+      "wordCount": 2
+    },
+    {
+      "id": 87,
+      "index": 87,
+      "character": "TOM",
+      "gender": "Male",
+      "line": "Kidding around... you know, fun.",
+      "wordCount": 5
+    },
+    {
+      "id": 88,
+      "index": 88,
+      "character": "BETSY",
+      "gender": "Female",
+      "line": "Maybe if you'd try thinking once in a while, you'd get somewhere.",
+      "wordCount": 12
+    },
+    {
+      "id": 89,
+      "index": 89,
+      "character": "TOM",
+      "gender": "Male",
+      "line": "With who?",
+      "wordCount": 2
+    },
+    {
+      "id": 90,
+      "index": 90,
+      "character": "BETSY",
+      "gender": "Female",
+      "line": "Alright, now. You want to know why CBS has the highest ratings? You their news is any different from NBC, ABC? It's all the same news. Same stories. Same order usually. What, you thought they had good news for people, right? You thought that's why people watched CBS? I'll tell you why people watch CBS. Cronkite. The man. You got it? Not the news, not the issues, the man. If Walter Cronkite told people to eat soap, they'd do it. We are selling cars, goddamn it.",
+      "wordCount": 86
+    },
+    {
+      "id": 91,
+      "index": 91,
+      "character": "TOM",
+      "gender": "Male",
+      "line": "Well, if Cronkite's so great, why don't we run him instead?",
+      "wordCount": 11
+    },
+    {
+      "id": 92,
+      "index": 92,
+      "character": "BETSY",
+      "gender": "Female",
+      "line": "That's the last. The finish. Period. Some pople can learn. Some people can't. And you wonder why we never get serious----",
+      "wordCount": 21
+    },
+    {
+      "id": 93,
+      "index": 93,
+      "character": "TOM",
+      "gender": "Male",
+      "line": "Sure we could run him. You realize he's already of his block association.",
+      "wordCount": 13
+    },
+    {
+      "id": 94,
+      "index": 94,
+      "character": "BETSY",
+      "gender": "Female",
+      "line": "Have you been noticing anything strange?",
+      "wordCount": 6
+    },
+    {
+      "id": 95,
+      "index": 95,
+      "character": "TOM",
+      "gender": "Male",
+      "line": "No, why?",
+      "wordCount": 2
+    },
+    {
+      "id": 96,
+      "index": 96,
+      "character": "BETSY",
+      "gender": "Female",
+      "line": "Why's that taxi driver across the street been staring at us?",
+      "wordCount": 11
+    },
+    {
+      "id": 97,
+      "index": 97,
+      "character": "TOM",
+      "gender": "Male",
+      "line": "What taxi driver?",
+      "wordCount": 3
+    },
+    {
+      "id": 98,
+      "index": 98,
+      "character": "BETSY",
+      "gender": "Female",
+      "line": "That taxi driver. The one that's been sitting here.",
+      "wordCount": 9
+    },
+    {
+      "id": 99,
+      "index": 99,
+      "character": "TOM",
+      "gender": "Male",
+      "line": "How long has he been there?",
+      "wordCount": 6
+    },
+    {
+      "id": 100,
+      "index": 100,
+      "character": "BETSY",
+      "gender": "Female",
+      "line": "I don't know - but it feels like a long time.",
+      "wordCount": 11
+    },
+    {
+      "id": 101,
+      "index": 101,
+      "character": "TOM",
+      "gender": "Male",
+      "line": "Well, I'll go out and ask him.",
+      "wordCount": 7
+    },
+    {
+      "id": 102,
+      "index": 102,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "All my life needed was a sense of direction, a sense of someplace to go. I do not believe one should devote his life to morbid self- attention, but should become a person like other people.",
+      "wordCount": 36
+    },
+    {
+      "id": 103,
+      "index": 103,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "I first saw her at Palantine Campaign Headquarters at 58th and Broadway. She was wearing a yellow dress, answering the phone at her desk.",
+      "wordCount": 24
+    },
+    {
+      "id": 104,
+      "index": 104,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "She appeared like an angel out of this open sewer. Out of this filthy mass. She is alone: They cannot touch her.",
+      "wordCount": 22
+    },
+    {
+      "id": 105,
+      "index": 105,
+      "character": "WIZARD",
+      "gender": "Male",
+      "line": "First she did her make-up. You know, I hate it when they do that. I mean she does the whole works, the mascara, the eye-shadow, the lipstick, the rouge...",
+      "wordCount": 29
+    },
+    {
+      "id": 106,
+      "index": 106,
+      "character": "DOUGH-BOY",
+      "gender": "NA",
+      "line": "Not rouge. Blush-On, they call it.",
+      "wordCount": 6
+    },
+    {
+      "id": 107,
+      "index": 107,
+      "character": "WIZARD",
+      "gender": "Male",
+      "line": "The kind with a brush.",
+      "wordCount": 5
+    },
+    {
+      "id": 108,
+      "index": 108,
+      "character": "WIZARD",
+      "gender": "Male",
+      "line": "Travis.",
+      "wordCount": 1
+    },
+    {
+      "id": 109,
+      "index": 109,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Hey Wizard.",
+      "wordCount": 2
+    },
+    {
+      "id": 110,
+      "index": 110,
+      "character": "DOUGH-BOY",
+      "gender": "NA",
+      "line": "Yeah, that's Blush-On. My wife uses it,",
+      "wordCount": 7
+    },
+    {
+      "id": 111,
+      "index": 111,
+      "character": "WIZARD",
+      "gender": "Male",
+      "line": "Ask Travis. He's the ladies man.",
+      "wordCount": 6
+    },
+    {
+      "id": 112,
+      "index": 112,
+      "character": "WIZARD",
+      "gender": "Male",
+      "line": "Well, whatever the fuck it is, she used it. And then the spray perfume. You know, the real sweat kind - and, on top of that, get this, right when we're crossing the Tri- boro bridge - she changes her pantyhose!",
+      "wordCount": 41
+    },
+    {
+      "id": 113,
+      "index": 113,
+      "character": "DOUGH-BOY",
+      "gender": "NA",
+      "line": "No.",
+      "wordCount": 1
+    },
+    {
+      "id": 114,
+      "index": 114,
+      "character": "WIZARD",
+      "gender": "Male",
+      "line": "Yeah.",
+      "wordCount": 1
+    },
+    {
+      "id": 115,
+      "index": 115,
+      "character": "DOUGH-BOY",
+      "gender": "NA",
+      "line": "Could you see anything?",
+      "wordCount": 4
+    },
+    {
+      "id": 116,
+      "index": 116,
+      "character": "WIZARD",
+      "gender": "Male",
+      "line": "Well, she was trying to keep her skirt down, sort of, you know. But it was pretty obvious what she was doing. I mean, Christ, it was rush hour and the traffic's practically standing still.",
+      "wordCount": 35
+    },
+    {
+      "id": 117,
+      "index": 117,
+      "character": "DOUGH-BOY",
+      "gender": "NA",
+      "line": "What did you do?",
+      "wordCount": 4
+    },
+    {
+      "id": 118,
+      "index": 118,
+      "character": "WIZARD",
+      "gender": "Male",
+      "line": "Threw on the emergency, jumped the seat and fucked her brains out - What do you think! What do I have to do? Draw you a picture?",
+      "wordCount": 27
+    },
+    {
+      "id": 119,
+      "index": 119,
+      "character": "DOUGH-BOY",
+      "gender": "NA",
+      "line": "Yeah.",
+      "wordCount": 1
+    },
+    {
+      "id": 120,
+      "index": 120,
+      "character": "WIZARD",
+      "gender": "Male",
+      "line": "What was I supposed to do? I was watching in the rear view. You know, just checkin' traffic. So howsit?",
+      "wordCount": 20
+    },
+    {
+      "id": 121,
+      "index": 121,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Some fleet driver for Bell just cut up. Just heard it on the radio.",
+      "wordCount": 14
+    },
+    {
+      "id": 122,
+      "index": 122,
+      "character": "DOUGH-BOY",
+      "gender": "NA",
+      "line": "Stick up?",
+      "wordCount": 2
+    },
+    {
+      "id": 123,
+      "index": 123,
+      "character": "WIZARD",
+      "gender": "Male",
+      "line": "Sure. What do you think? She wanted to get out of the cab. I said \"Look, you're in the middle of the fucking bridge...\"",
+      "wordCount": 24
+    },
+    {
+      "id": 124,
+      "index": 124,
+      "character": "DOUGH-BOY",
+      "gender": "NA",
+      "line": "You said that?",
+      "wordCount": 3
+    },
+    {
+      "id": 125,
+      "index": 125,
+      "character": "WIZARD",
+      "gender": "Male",
+      "line": "Well, I said, \"Lady, please, we're on a bridge...\"",
+      "wordCount": 9
+    },
+    {
+      "id": 126,
+      "index": 126,
+      "character": "DOUGH-BOY",
+      "gender": "NA",
+      "line": "And what happened?",
+      "wordCount": 3
+    },
+    {
+      "id": 127,
+      "index": 127,
+      "character": "WIZARD",
+      "gender": "Male",
+      "line": "She stayed in the cab, what's she gonna do? but she stiffed me. A real skunk.",
+      "wordCount": 16
+    },
+    {
+      "id": 128,
+      "index": 128,
+      "character": "DOUGH-BOY",
+      "gender": "NA",
+      "line": "A real skunk.",
+      "wordCount": 3
+    },
+    {
+      "id": 129,
+      "index": 129,
+      "character": "WIZARD",
+      "gender": "Male",
+      "line": "Travis, you know Dough-Boy, Charlie T.?",
+      "wordCount": 6
+    },
+    {
+      "id": 130,
+      "index": 130,
+      "character": "DOUGH-BOY",
+      "gender": "NA",
+      "line": "Yeah. We went to Harvard together.",
+      "wordCount": 6
+    },
+    {
+      "id": 131,
+      "index": 131,
+      "character": "WIZARD",
+      "gender": "Male",
+      "line": "We call him Dough-Boy cause he likes the dollars. He'll chase a buck straight into Jersey.",
+      "wordCount": 16
+    },
+    {
+      "id": 132,
+      "index": 132,
+      "character": "DOUGH-BOY",
+      "gender": "NA",
+      "line": "Look who's talking? Who else would stay up all night to catch the morning rush hour?",
+      "wordCount": 16
+    },
+    {
+      "id": 133,
+      "index": 133,
+      "character": "WIZARD",
+      "gender": "Male",
+      "line": "So howsit?",
+      "wordCount": 2
+    },
+    {
+      "id": 134,
+      "index": 134,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Some fleet driver for Bell just got cut up. Just heard it on the radio.",
+      "wordCount": 15
+    },
+    {
+      "id": 135,
+      "index": 135,
+      "character": "DOUGH-BOY",
+      "gender": "NA",
+      "line": "Stick up?",
+      "wordCount": 2
+    },
+    {
+      "id": 136,
+      "index": 136,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "No, just some crazy fucker. Cut have his ear off.",
+      "wordCount": 10
+    },
+    {
+      "id": 137,
+      "index": 137,
+      "character": "DOUGH-BOY",
+      "gender": "NA",
+      "line": "Where.",
+      "wordCount": 1
+    },
+    {
+      "id": 138,
+      "index": 138,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "In the jungle. 122nd.",
+      "wordCount": 4
+    },
+    {
+      "id": 139,
+      "index": 139,
+      "character": "DOUGH-BOY",
+      "gender": "NA",
+      "line": "You run all over town, don't you, Travis?",
+      "wordCount": 8
+    },
+    {
+      "id": 140,
+      "index": 140,
+      "character": "WIZARD",
+      "gender": "Male",
+      "line": "Fuckin' Mau Mau land, that's what it is.",
+      "wordCount": 8
+    },
+    {
+      "id": 141,
+      "index": 141,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Huh?",
+      "wordCount": 1
+    },
+    {
+      "id": 142,
+      "index": 142,
+      "character": "DOUGH-BOY",
+      "gender": "NA",
+      "line": "I mean, you handle some pretty rough traffic, huh?",
+      "wordCount": 9
+    },
+    {
+      "id": 143,
+      "index": 143,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "I have.",
+      "wordCount": 2
+    },
+    {
+      "id": 144,
+      "index": 144,
+      "character": "DOUGH-BOY",
+      "gender": "NA",
+      "line": "You carry a piece? You need one?",
+      "wordCount": 7
+    },
+    {
+      "id": 145,
+      "index": 145,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Nah. I suppose not.",
+      "wordCount": 4
+    },
+    {
+      "id": 146,
+      "index": 146,
+      "character": "DOUGH-BOY",
+      "gender": "NA",
+      "line": "Well, you ever need one, I know a feller that kin getcha a real nice deal. Lotsa shit around.",
+      "wordCount": 19
+    },
+    {
+      "id": 147,
+      "index": 147,
+      "character": "WIZARD",
+      "gender": "Male",
+      "line": "The cops and company raise hell they find out.",
+      "wordCount": 9
+    },
+    {
+      "id": 148,
+      "index": 148,
+      "character": "DOUGH-BOY",
+      "gender": "NA",
+      "line": "Truck drivers bring up Harlem Specials that blow up in your hand. But this guy don't deal no shit. Just quality. If you ever need anything, I can put you in touch.",
+      "wordCount": 32
+    },
+    {
+      "id": 149,
+      "index": 149,
+      "character": "WIZARD",
+      "gender": "Male",
+      "line": "For a fee.",
+      "wordCount": 3
+    },
+    {
+      "id": 150,
+      "index": 150,
+      "character": "DOUGH-BOY",
+      "gender": "NA",
+      "line": "For a fee.",
+      "wordCount": 3
+    },
+    {
+      "id": 151,
+      "index": 151,
+      "character": "WIZARD",
+      "gender": "Male",
+      "line": "I never use mine. But it's a good thing to have. Just as a threat.",
+      "wordCount": 15
+    },
+    {
+      "id": 152,
+      "index": 152,
+      "character": "DOUGH-BOY",
+      "gender": "NA",
+      "line": "well, if there's this many hackies inside, there must be lots of hares outside. And I'm gonna hustle 'em.",
+      "wordCount": 19
+    },
+    {
+      "id": 153,
+      "index": 153,
+      "character": "WIZARD",
+      "gender": "Male",
+      "line": "What ya gonna do with all that money, Dough-Boy?",
+      "wordCount": 9
+    },
+    {
+      "id": 154,
+      "index": 154,
+      "character": "DOUGH-BOY",
+      "gender": "NA",
+      "line": "Support my kids. Can you dig it? nice to meet ya, Travis. So long, Wizard. Say hello to Malcolm X for me.",
+      "wordCount": 22
+    },
+    {
+      "id": 155,
+      "index": 155,
+      "character": "BETSY",
+      "gender": "Female",
+      "line": "Try holding the match like this.",
+      "wordCount": 6
+    },
+    {
+      "id": 156,
+      "index": 156,
+      "character": "TOM",
+      "gender": "Male",
+      "line": "This is gotta be a game, right?",
+      "wordCount": 7
+    },
+    {
+      "id": 157,
+      "index": 157,
+      "character": "BETSY",
+      "gender": "Female",
+      "line": "This I gotta see.",
+      "wordCount": 4
+    },
+    {
+      "id": 158,
+      "index": 158,
+      "character": "TOM",
+      "gender": "Male",
+      "line": "Ouch!",
+      "wordCount": 1
+    },
+    {
+      "id": 159,
+      "index": 159,
+      "character": "BETSY",
+      "gender": "Female",
+      "line": "Oh, are you all right?",
+      "wordCount": 5
+    },
+    {
+      "id": 160,
+      "index": 160,
+      "character": "TOM",
+      "gender": "Male",
+      "line": "I'm great. Always set my fingers on fire. If you want to see another trick. I do this thing with my nose.",
+      "wordCount": 22
+    },
+    {
+      "id": 161,
+      "index": 161,
+      "character": "BETSY",
+      "gender": "Female",
+      "line": "No. I just wanted to see if you could light it that way. The guy at the newsstand can.",
+      "wordCount": 19
+    },
+    {
+      "id": 162,
+      "index": 162,
+      "character": "TOM",
+      "gender": "Male",
+      "line": "Ah, yes, the guy at the newsstand, Mr. Asbestos...",
+      "wordCount": 9
+    },
+    {
+      "id": 163,
+      "index": 163,
+      "character": "BETSY",
+      "gender": "Female",
+      "line": "He happens to be missing fingers. I first noticed when -",
+      "wordCount": 11
+    },
+    {
+      "id": 164,
+      "index": 164,
+      "character": "TOM",
+      "gender": "Male",
+      "line": "Is he Italian?",
+      "wordCount": 3
+    },
+    {
+      "id": 165,
+      "index": 165,
+      "character": "BETSY",
+      "gender": "Female",
+      "line": "No, why?",
+      "wordCount": 2
+    },
+    {
+      "id": 166,
+      "index": 166,
+      "character": "TOM",
+      "gender": "Male",
+      "line": "You sure he's not Italian?",
+      "wordCount": 5
+    },
+    {
+      "id": 167,
+      "index": 167,
+      "character": "BETSY",
+      "gender": "Female",
+      "line": "He's Black, OK?",
+      "wordCount": 3
+    },
+    {
+      "id": 168,
+      "index": 168,
+      "character": "TOM",
+      "gender": "Male",
+      "line": "Well, If he had been Italian, they could have been shot off. Sometimes the mob does that to teach guys a lesson, If they blow a job or something.",
+      "wordCount": 29
+    },
+    {
+      "id": 169,
+      "index": 169,
+      "character": "BETSY",
+      "gender": "Female",
+      "line": "As I said, he isn't Italian. Besides, I thought they just killed them.",
+      "wordCount": 13
+    },
+    {
+      "id": 170,
+      "index": 170,
+      "character": "TOM",
+      "gender": "Male",
+      "line": "Don't be naive. They can't kill everybody. They have different punishments for different things. Like, if they kill a stool pidgeon, they leave a canary on the body. It's symbolic.",
+      "wordCount": 30
+    },
+    {
+      "id": 171,
+      "index": 171,
+      "character": "BETSY",
+      "gender": "Female",
+      "line": "Why don't they leave a pidgeon instead of a canary?",
+      "wordCount": 10
+    },
+    {
+      "id": 172,
+      "index": 172,
+      "character": "TOM",
+      "gender": "Male",
+      "line": "I don't know. Maybe they don't leave a canary. Don't be technical. What I'm saying is if this newsstand guy's Italian and his fingers are gone, maybe he's a thief.",
+      "wordCount": 30
+    },
+    {
+      "id": 173,
+      "index": 173,
+      "character": "BETSY",
+      "gender": "Female",
+      "line": "First, he's not Italian. Second he's not a thief. I noticed the fingers when he was getting my change - the right change. Two of his fingers are missing. Just stubs. Like they were blown away. I was putting my change in my purse when I saw him get out a cigarette. I couldn't help watching. I was dying to see how he'd light it.",
+      "wordCount": 65
+    },
+    {
+      "id": 174,
+      "index": 174,
+      "character": "TOM",
+      "gender": "Male",
+      "line": "With the other hand, right?",
+      "wordCount": 5
+    },
+    {
+      "id": 175,
+      "index": 175,
+      "character": "BETSY",
+      "gender": "Female",
+      "line": "No, stupid. With the stubs. That's the whole point.",
+      "wordCount": 9
+    },
+    {
+      "id": 176,
+      "index": 176,
+      "character": "TOM",
+      "gender": "Male",
+      "line": "I know that guy. His hand looks like a paw. An old Black guy, the newsstand at -",
+      "wordCount": 18
+    },
+    {
+      "id": 177,
+      "index": 177,
+      "character": "BETSY",
+      "gender": "Female",
+      "line": "No, this is young - well, I'm never sure how old Black people are - but, anyway, he isn't old. That's for sure.",
+      "wordCount": 23
+    },
+    {
+      "id": 178,
+      "index": 178,
+      "character": "TOM",
+      "gender": "Male",
+      "line": "Show me how he did that again.",
+      "wordCount": 7
+    },
+    {
+      "id": 179,
+      "index": 179,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "I want to volunteer.",
+      "wordCount": 4
+    },
+    {
+      "id": 180,
+      "index": 180,
+      "character": "TOM",
+      "gender": "Male",
+      "line": "If you'll come this way.",
+      "wordCount": 5
+    },
+    {
+      "id": 181,
+      "index": 181,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "No. I want to volunteer to you.",
+      "wordCount": 7
+    },
+    {
+      "id": 182,
+      "index": 182,
+      "character": "TOM",
+      "gender": "Male",
+      "line": "Bets.",
+      "wordCount": 1
+    },
+    {
+      "id": 183,
+      "index": 183,
+      "character": "BETSY",
+      "gender": "Female",
+      "line": "And why is that?",
+      "wordCount": 4
+    },
+    {
+      "id": 184,
+      "index": 184,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Because you are the most beautiful woman I have ever seen.",
+      "wordCount": 11
+    },
+    {
+      "id": 185,
+      "index": 185,
+      "character": "BETSY",
+      "gender": "Female",
+      "line": "Is that so? But what do you think of Charles Palantine?",
+      "wordCount": 11
+    },
+    {
+      "id": 186,
+      "index": 186,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Who mam?",
+      "wordCount": 2
+    },
+    {
+      "id": 187,
+      "index": 187,
+      "character": "BETSY",
+      "gender": "Female",
+      "line": "Charles Palantine. The man you want to volunteer to help elect president.",
+      "wordCount": 12
+    },
+    {
+      "id": 188,
+      "index": 188,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Oh, I think he's a wonderful man. Make a great, great President.",
+      "wordCount": 12
+    },
+    {
+      "id": 189,
+      "index": 189,
+      "character": "BETSY",
+      "gender": "Female",
+      "line": "You want to canvass?",
+      "wordCount": 4
+    },
+    {
+      "id": 190,
+      "index": 190,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Yes, mam.",
+      "wordCount": 2
+    },
+    {
+      "id": 191,
+      "index": 191,
+      "character": "BETSY",
+      "gender": "Female",
+      "line": "How do you feel about Senator Palantine's stand on welfare?",
+      "wordCount": 10
+    },
+    {
+      "id": 192,
+      "index": 192,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Welfare, mam? I think the Senator's right. People should work for a living. I do. I like to work. Every day. Get those old coots off welfare and make 'em work for a change.",
+      "wordCount": 34
+    },
+    {
+      "id": 193,
+      "index": 193,
+      "character": "BETSY",
+      "gender": "Female",
+      "line": "Well, that's not exactly what the Senator has proposed. You might not want to canvass, but there is plenty more other work we need done: Office work, filing, poster hanging.",
+      "wordCount": 30
+    },
+    {
+      "id": 194,
+      "index": 194,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "I'm a good worker, Betsy mam, a real good worker.",
+      "wordCount": 10
+    },
+    {
+      "id": 195,
+      "index": 195,
+      "character": "BETSY",
+      "gender": "Female",
+      "line": "if you talk to Tom, he'll assign you to something.",
+      "wordCount": 10
+    },
+    {
+      "id": 196,
+      "index": 196,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "If you don't mind, mam, I'd rather work for you.",
+      "wordCount": 10
+    },
+    {
+      "id": 197,
+      "index": 197,
+      "character": "BETSY",
+      "gender": "Female",
+      "line": "Well, we're all working tonight.",
+      "wordCount": 5
+    },
+    {
+      "id": 198,
+      "index": 198,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Well, Betsy mam, I drive a taxi at night.",
+      "wordCount": 9
+    },
+    {
+      "id": 199,
+      "index": 199,
+      "character": "BETSY",
+      "gender": "Female",
+      "line": "Well, then, what is it you exactly want to do?",
+      "wordCount": 10
+    },
+    {
+      "id": 200,
+      "index": 200,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "If you don't mind, mam, I'd be mighty pleased if you'd go out and have some coffee and pie with me.",
+      "wordCount": 21
+    },
+    {
+      "id": 201,
+      "index": 201,
+      "character": "BETSY",
+      "gender": "Female",
+      "line": "Why?",
+      "wordCount": 1
+    },
+    {
+      "id": 202,
+      "index": 202,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Well, Betsy mam, I drive by this place here in my taxi many times a day. And I watch you sitting here at this big long desk with these telephones, and I say to myself, that's a lonely girl. She needs a friend. And I'm gonna be her friend.",
+      "wordCount": 49
+    },
+    {
+      "id": 203,
+      "index": 203,
+      "character": "BETSY",
+      "gender": "Female",
+      "line": "I don't know...",
+      "wordCount": 3
+    },
+    {
+      "id": 204,
+      "index": 204,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "It's just to the corner, mam. In broad daytime. Nothing can happen. I'll be there to protect you.",
+      "wordCount": 18
+    },
+    {
+      "id": 205,
+      "index": 205,
+      "character": "BETSY",
+      "gender": "Female",
+      "line": "All right. All right. I'm taking a break at four o'clock. If you're here then we'll go to the corner and have some coffee and pie.",
+      "wordCount": 26
+    },
+    {
+      "id": 206,
+      "index": 206,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Oh, I appreciate that, Betsy mam. I'll be here at four o'clock exactly. And... ah... Betsy...",
+      "wordCount": 16
+    },
+    {
+      "id": 207,
+      "index": 207,
+      "character": "BETSY",
+      "gender": "Female",
+      "line": "Yes?",
+      "wordCount": 1
+    },
+    {
+      "id": 208,
+      "index": 208,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "My name is Travis.",
+      "wordCount": 4
+    },
+    {
+      "id": 209,
+      "index": 209,
+      "character": "BETSY",
+      "gender": "Female",
+      "line": "Thank you, Travis.",
+      "wordCount": 3
+    },
+    {
+      "id": 210,
+      "index": 210,
+      "character": "BETSY",
+      "gender": "Female",
+      "line": "I'm just going to find out what the cabbies are thinking.",
+      "wordCount": 11
+    },
+    {
+      "id": 211,
+      "index": 211,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "April 26, 1972. Four o'clock p.m. I took Betsy to the Mayfair Coffee Shop on Broadway...",
+      "wordCount": 16
+    },
+    {
+      "id": 212,
+      "index": 212,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "I had black coffee and apple pie with a slice of melted yellow cheese. I think that was a good selection. Betsy had coffee and a fruit salad dish. She could have had anything she wanted.",
+      "wordCount": 36
+    },
+    {
+      "id": 213,
+      "index": 213,
+      "character": "BETSY",
+      "gender": "Female",
+      "line": "We've signed up 15.000 Palantine volunteers in New York so far. The organizational problems are becoming just staggering.",
+      "wordCount": 18
+    },
+    {
+      "id": 214,
+      "index": 214,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "I know what you mean. I've got the same problems. I just can't get things organized. Little things, I mean. Like my room, my possessions. I should get one of those signs that says, \"One of these days I'm Gonna Organezizied\".",
+      "wordCount": 41
+    },
+    {
+      "id": 215,
+      "index": 215,
+      "character": "BETSY",
+      "gender": "Female",
+      "line": "Travis, I never ever met anybody like you before.",
+      "wordCount": 9
+    },
+    {
+      "id": 216,
+      "index": 216,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "I can believe that.",
+      "wordCount": 4
+    },
+    {
+      "id": 217,
+      "index": 217,
+      "character": "BETSY",
+      "gender": "Female",
+      "line": "Where do you live?",
+      "wordCount": 4
+    },
+    {
+      "id": 218,
+      "index": 218,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Oh, uptown. You know. Some joint. It ain't much.",
+      "wordCount": 9
+    },
+    {
+      "id": 219,
+      "index": 219,
+      "character": "BETSY",
+      "gender": "Female",
+      "line": "So why did you decide to drive a taxi at night?",
+      "wordCount": 11
+    },
+    {
+      "id": 220,
+      "index": 220,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "I had a regular job for a while, days. You know, doin' this, doin' that. But I didn't have anything to do at night. I got kinda lonely, you know, just wandering around. So I decided to works nights. It ain't good to be alone, you know.",
+      "wordCount": 47
+    },
+    {
+      "id": 221,
+      "index": 221,
+      "character": "BETSY",
+      "gender": "Female",
+      "line": "After this job, I'm looking forward to being alone for a while.",
+      "wordCount": 12
+    },
+    {
+      "id": 222,
+      "index": 222,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Yeah, well... In a cab you get to meet people. You meet lotsa people. It's good for you.",
+      "wordCount": 18
+    },
+    {
+      "id": 223,
+      "index": 223,
+      "character": "BETSY",
+      "gender": "Female",
+      "line": "What kind of people?",
+      "wordCount": 4
+    },
+    {
+      "id": 224,
+      "index": 224,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Just people people, you know. Just people. Had a dead man once.",
+      "wordCount": 12
+    },
+    {
+      "id": 225,
+      "index": 225,
+      "character": "BETSY",
+      "gender": "Female",
+      "line": "Really?",
+      "wordCount": 1
+    },
+    {
+      "id": 226,
+      "index": 226,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "He'd been shot. I didn't know that. He just crawled into the back seat, said \"West 45th Street\" and conked out.",
+      "wordCount": 21
+    },
+    {
+      "id": 227,
+      "index": 227,
+      "character": "BETSY",
+      "gender": "Female",
+      "line": "What did you do?",
+      "wordCount": 4
+    },
+    {
+      "id": 228,
+      "index": 228,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "I shot the meter off, for one thing. I knew I wasn't goimg to get paid. Then I dropped him off at the cop shop. They took him.",
+      "wordCount": 28
+    },
+    {
+      "id": 229,
+      "index": 229,
+      "character": "BETSY",
+      "gender": "Female",
+      "line": "That's really something.",
+      "wordCount": 3
+    },
+    {
+      "id": 230,
+      "index": 230,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Oh, you see lots of freaky stuff in a cab. Especially when the moon's out.",
+      "wordCount": 15
+    },
+    {
+      "id": 231,
+      "index": 231,
+      "character": "BETSY",
+      "gender": "Female",
+      "line": "The moon?",
+      "wordCount": 2
+    },
+    {
+      "id": 232,
+      "index": 232,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "The full moon. One night I had three or four weirdoes in a row and I looked up and, sure enough, there it was - the full moon.",
+      "wordCount": 28
+    },
+    {
+      "id": 233,
+      "index": 233,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Oh, yeah. People will do anything in front of a taxi driver. I mean anything. People too cheap to rent a hotel room, people scoring dope, people shooting up, people who want to embarrass you. It's like you're not even there, not even a person. Nobody knows you.",
+      "wordCount": 48
+    },
+    {
+      "id": 234,
+      "index": 234,
+      "character": "BETSY",
+      "gender": "Female",
+      "line": "Com'on, Travis. It's not that bad. I take lots of taxis.",
+      "wordCount": 11
+    },
+    {
+      "id": 235,
+      "index": 235,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "I know. I could have picked you up.",
+      "wordCount": 8
+    },
+    {
+      "id": 236,
+      "index": 236,
+      "character": "BETSY",
+      "gender": "Female",
+      "line": "Huh?",
+      "wordCount": 1
+    },
+    {
+      "id": 237,
+      "index": 237,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Late one night. About three. At the plaza.",
+      "wordCount": 8
+    },
+    {
+      "id": 238,
+      "index": 238,
+      "character": "BETSY",
+      "gender": "Female",
+      "line": "Three in the morning? I don't think so. I have to go to bed early. I work days. It must have been somebody else.",
+      "wordCount": 24
+    },
+    {
+      "id": 239,
+      "index": 239,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "No. It was you. You had some manila folders and a pink bag from Saks.",
+      "wordCount": 15
+    },
+    {
+      "id": 240,
+      "index": 240,
+      "character": "BETSY",
+      "gender": "Female",
+      "line": "You're right! Now I remember! It was after the Western regional planners were in town and the meeting went late. The next day I was completely bushed. It was unbelievable.",
+      "wordCount": 30
+    },
+    {
+      "id": 241,
+      "index": 241,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "If it wasn't for a drunk I would have picked you up. He wanted to go to the DMZ.",
+      "wordCount": 19
+    },
+    {
+      "id": 242,
+      "index": 242,
+      "character": "BETSY",
+      "gender": "Female",
+      "line": "The DMZ?",
+      "wordCount": 2
+    },
+    {
+      "id": 243,
+      "index": 243,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "South Bronx. The worst. I tried to ditch him, but he was already in the cab, so I had to take him. That's the law. Otherwise I would have picked you up.",
+      "wordCount": 32
+    },
+    {
+      "id": 244,
+      "index": 244,
+      "character": "BETSY",
+      "gender": "Female",
+      "line": "That would have been quite a coincidence.",
+      "wordCount": 7
+    },
+    {
+      "id": 245,
+      "index": 245,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "You'd be surprised how often you see the same people, get the same fare. People have patterns. They do more or less the same things every day. I can tell.",
+      "wordCount": 30
+    },
+    {
+      "id": 246,
+      "index": 246,
+      "character": "BETSY",
+      "gender": "Female",
+      "line": "Well, I don't go to the Plaza every night.",
+      "wordCount": 9
+    },
+    {
+      "id": 247,
+      "index": 247,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "I didn't mean you. But just ordinary people. A guy I know - Dough-Boy - met his wife that way. They got to talking. She said she usually caught the bus so he started picking her up at the bus stop, taking her home with the flag up.",
+      "wordCount": 48
+    },
+    {
+      "id": 248,
+      "index": 248,
+      "character": "BETSY",
+      "gender": "Female",
+      "line": "That's very romantic. Some of your fares must be interesting. See any stars, politicians, deliver any babies yet?",
+      "wordCount": 18
+    },
+    {
+      "id": 249,
+      "index": 249,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Well, no... not really... had some famous people in the cab. I got this guy who makes lasers. Not regular lasers, not the big kind. Little lasers, pocket sized, small enough to clip your belt like a transistor radio, like a gun, you know. Like a ray gun. Zap.",
+      "wordCount": 49
+    },
+    {
+      "id": 250,
+      "index": 250,
+      "character": "BETSY",
+      "gender": "Female",
+      "line": "What hours do you work?",
+      "wordCount": 5
+    },
+    {
+      "id": 251,
+      "index": 251,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "I work a single, which means there's no replacement - no second man on the cab. Six to six, sometimes eight. Seventy-two hours a week.",
+      "wordCount": 25
+    },
+    {
+      "id": 252,
+      "index": 252,
+      "character": "BETSY",
+      "gender": "Female",
+      "line": "You mean you work seventy-two hours a week.",
+      "wordCount": 8
+    },
+    {
+      "id": 253,
+      "index": 253,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Sometimes 76 or 80. Sometimes I squeeze a few more hours in the morning. Eighty miles a day, a hundred miles a night.",
+      "wordCount": 23
+    },
+    {
+      "id": 254,
+      "index": 254,
+      "character": "BETSY",
+      "gender": "Female",
+      "line": "You must be rich.",
+      "wordCount": 4
+    },
+    {
+      "id": 255,
+      "index": 255,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "it keeps ya busy.",
+      "wordCount": 4
+    },
+    {
+      "id": 256,
+      "index": 256,
+      "character": "BETSY",
+      "gender": "Female",
+      "line": "You know what you remind me of?",
+      "wordCount": 7
+    },
+    {
+      "id": 257,
+      "index": 257,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "What?",
+      "wordCount": 1
+    },
+    {
+      "id": 258,
+      "index": 258,
+      "character": "BETSY",
+      "gender": "Female",
+      "line": "That song by Kris Kristofferson, where it's said \"Like a pusher, party truth, partly ficition, a walking contradiction\".",
+      "wordCount": 18
+    },
+    {
+      "id": 259,
+      "index": 259,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "I'm no pusher, Betsy. Honest. I never have pushed.",
+      "wordCount": 9
+    },
+    {
+      "id": 260,
+      "index": 260,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "I didn't mean that, Travis. Just the part about the contradiction.",
+      "wordCount": 11
+    },
+    {
+      "id": 261,
+      "index": 261,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Oh. Who was that again?",
+      "wordCount": 5
+    },
+    {
+      "id": 262,
+      "index": 262,
+      "character": "BETSY",
+      "gender": "Female",
+      "line": "The singer?",
+      "wordCount": 2
+    },
+    {
+      "id": 263,
+      "index": 263,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Yeah. Yes. I don't follow music too much.",
+      "wordCount": 8
+    },
+    {
+      "id": 264,
+      "index": 264,
+      "character": "BETSY",
+      "gender": "Female",
+      "line": "Kris Kristofferson.",
+      "wordCount": 2
+    },
+    {
+      "id": 265,
+      "index": 265,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "You work at night, you get an instinct. You can smell them. The big tippers, the stiffs, the trouble makers. Quarter is good tip for Manhattan. Queens is better, Brooklyn is best. go for the guys with suitcases. The rich are the worst tippers, hooks are lousy. Spooks are okay, but they don't live at Park Ave after all.",
+      "wordCount": 59
+    },
+    {
+      "id": 266,
+      "index": 266,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "I called Betsy again at her office, and she said maybe we could go to a movie together after she gets off work tomorrow. That's my day off. At first she hesitated, but I called her again and she agreed. Betsy. Betsy what? I forgot to ask her last name again. Damn. I've got to remember stuff like that.",
+      "wordCount": 59
+    },
+    {
+      "id": 267,
+      "index": 267,
+      "character": "MAN'S VOICE",
+      "gender": "NA",
+      "line": "St. Regis Hotel.",
+      "wordCount": 3
+    },
+    {
+      "id": 268,
+      "index": 268,
+      "character": "TOM",
+      "gender": "Male",
+      "line": "It's 12:30 now. You'll have fifteen minutes before the actual luncheon begins.",
+      "wordCount": 12
+    },
+    {
+      "id": 269,
+      "index": 269,
+      "character": "ASSISTANT",
+      "gender": "NA",
+      "line": "I don't think we have to worry about anybody here committing themselves until things start coming in from California.",
+      "wordCount": 19
+    },
+    {
+      "id": 270,
+      "index": 270,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Say, aren't you Charles Palantine, the candidate?",
+      "wordCount": 7
+    },
+    {
+      "id": 271,
+      "index": 271,
+      "character": "PALANTINE",
+      "gender": "Male",
+      "line": "Yes I am.",
+      "wordCount": 3
+    },
+    {
+      "id": 272,
+      "index": 272,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Well, I'm one of your biggest supporters. I tell everybody that comes in this cab that they should vote for you.",
+      "wordCount": 21
+    },
+    {
+      "id": 273,
+      "index": 273,
+      "character": "PALANTINE",
+      "gender": "Male",
+      "line": "Why, thank you Travis.",
+      "wordCount": 4
+    },
+    {
+      "id": 274,
+      "index": 274,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "I'm sure you'll win, sir. Everybody I know is going to vote for you. I was going to put one of your stickers on my taxi but the company said it was against their policy.",
+      "wordCount": 35
+    },
+    {
+      "id": 275,
+      "index": 275,
+      "character": "PALANTINE",
+      "gender": "Male",
+      "line": "I'll tell you, Travis, I've learned more about this country sitting in taxi cabs than in the board room of General Motors.",
+      "wordCount": 22
+    },
+    {
+      "id": 276,
+      "index": 276,
+      "character": "TOM",
+      "gender": "Male",
+      "line": "And in some other places too...",
+      "wordCount": 6
+    },
+    {
+      "id": 277,
+      "index": 277,
+      "character": "PALANTINE",
+      "gender": "Male",
+      "line": "Travis, what single thing would you want the next President of this country to do most?",
+      "wordCount": 16
+    },
+    {
+      "id": 278,
+      "index": 278,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "I don't know, sir. I don't follow political issues much.",
+      "wordCount": 10
+    },
+    {
+      "id": 279,
+      "index": 279,
+      "character": "PALANTINE",
+      "gender": "Male",
+      "line": "There must be something...",
+      "wordCount": 4
+    },
+    {
+      "id": 280,
+      "index": 280,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Well, he should clean up this city here. It's full of filth and scum. Scum and filth. It's like an open sewer. I can hardly take it.",
+      "wordCount": 27
+    },
+    {
+      "id": 281,
+      "index": 281,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Some days I go out and smell it then I get headaches that just stay and never go away. We need a President that would clean up this whole mess. Flush it out.",
+      "wordCount": 33
+    },
+    {
+      "id": 282,
+      "index": 282,
+      "character": "PALANTINE",
+      "gender": "Male",
+      "line": "I know what you mean, Travis, and it's not going to be easy. We're going to have to make some radical changes.",
+      "wordCount": 22
+    },
+    {
+      "id": 283,
+      "index": 283,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Damn straight.",
+      "wordCount": 2
+    },
+    {
+      "id": 284,
+      "index": 284,
+      "character": "PALANTINE",
+      "gender": "Male",
+      "line": "Nice talking to you, Travis.",
+      "wordCount": 5
+    },
+    {
+      "id": 285,
+      "index": 285,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Thank you, sir. You're a good man, sir.",
+      "wordCount": 8
+    },
+    {
+      "id": 286,
+      "index": 286,
+      "character": "BETSY",
+      "gender": "Female",
+      "line": "You didn't have to spend your money - ?",
+      "wordCount": 9
+    },
+    {
+      "id": 287,
+      "index": 287,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "He'll, what else can I do with it all?",
+      "wordCount": 9
+    },
+    {
+      "id": 288,
+      "index": 288,
+      "character": "BETSY",
+      "gender": "Female",
+      "line": "Travis, you haven't even played the record?",
+      "wordCount": 7
+    },
+    {
+      "id": 289,
+      "index": 289,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Yeah, well my stereo player is broke. But I'm sure the record is OK.",
+      "wordCount": 14
+    },
+    {
+      "id": 290,
+      "index": 290,
+      "character": "BETSY",
+      "gender": "Female",
+      "line": "Your stereo broke? God, I could hardly stand that. I live on music.",
+      "wordCount": 13
+    },
+    {
+      "id": 291,
+      "index": 291,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "I don't follow music much. I'd like to though. Honest.",
+      "wordCount": 10
+    },
+    {
+      "id": 292,
+      "index": 292,
+      "character": "BETSY",
+      "gender": "Female",
+      "line": "So you haven't heard this record yet?",
+      "wordCount": 7
+    },
+    {
+      "id": 293,
+      "index": 293,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "No. I thought maybe you could play it for me on your player.",
+      "wordCount": 13
+    },
+    {
+      "id": 294,
+      "index": 294,
+      "character": "BETSY",
+      "gender": "Female",
+      "line": "What are you doing?",
+      "wordCount": 4
+    },
+    {
+      "id": 295,
+      "index": 295,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "I bought a couple of tickets.",
+      "wordCount": 6
+    },
+    {
+      "id": 296,
+      "index": 296,
+      "character": "BETSY",
+      "gender": "Female",
+      "line": "But this is a porno movie.",
+      "wordCount": 6
+    },
+    {
+      "id": 297,
+      "index": 297,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "No, these are the kind that couples go to. They're not like the other movies. All kinds of couples go. Honest. I've seen them.",
+      "wordCount": 24
+    },
+    {
+      "id": 298,
+      "index": 298,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Damn.",
+      "wordCount": 1
+    },
+    {
+      "id": 299,
+      "index": 299,
+      "character": "BETSY",
+      "gender": "Female",
+      "line": "What's wrong?",
+      "wordCount": 2
+    },
+    {
+      "id": 300,
+      "index": 300,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "I forgot to get the Coca-Cola.",
+      "wordCount": 6
+    },
+    {
+      "id": 301,
+      "index": 301,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Where are you going?",
+      "wordCount": 4
+    },
+    {
+      "id": 302,
+      "index": 302,
+      "character": "BETSY",
+      "gender": "Female",
+      "line": "I'm leaving.",
+      "wordCount": 2
+    },
+    {
+      "id": 303,
+      "index": 303,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "What do you mean?",
+      "wordCount": 4
+    },
+    {
+      "id": 304,
+      "index": 304,
+      "character": "BETSY",
+      "gender": "Female",
+      "line": "These are not the kind of movies I go to.",
+      "wordCount": 10
+    },
+    {
+      "id": 305,
+      "index": 305,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Well, I don't follow movies too much...",
+      "wordCount": 7
+    },
+    {
+      "id": 306,
+      "index": 306,
+      "character": "BETSY",
+      "gender": "Female",
+      "line": "You mean these are the only kind of movies you go to?",
+      "wordCount": 12
+    },
+    {
+      "id": 307,
+      "index": 307,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "This is sort of high class...",
+      "wordCount": 6
+    },
+    {
+      "id": 308,
+      "index": 308,
+      "character": "BETSY",
+      "gender": "Female",
+      "line": "I mean porno movies.",
+      "wordCount": 4
+    },
+    {
+      "id": 309,
+      "index": 309,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Well... mostly...",
+      "wordCount": 2
+    },
+    {
+      "id": 310,
+      "index": 310,
+      "character": "BETSY",
+      "gender": "Female",
+      "line": "My God!",
+      "wordCount": 2
+    },
+    {
+      "id": 311,
+      "index": 311,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "We can go to another movie if you like, I don't care. I got money. There's plenty...",
+      "wordCount": 17
+    },
+    {
+      "id": 312,
+      "index": 312,
+      "character": "BETSY",
+      "gender": "Female",
+      "line": "If you just wanted to fuck, why didn't you just come right out and say it?",
+      "wordCount": 16
+    },
+    {
+      "id": 313,
+      "index": 313,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "... there's plenty of movies around here. I haven't seen any of them, but I'm sure they're good.",
+      "wordCount": 18
+    },
+    {
+      "id": 314,
+      "index": 314,
+      "character": "BETSY",
+      "gender": "Female",
+      "line": "No, Travis. You're a sweet guy and all that, but I think this is it. I'm going home.",
+      "wordCount": 18
+    },
+    {
+      "id": 315,
+      "index": 315,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "You mean you don't want to go to a movie? There's plenty of movies around here.",
+      "wordCount": 16
+    },
+    {
+      "id": 316,
+      "index": 316,
+      "character": "BETSY",
+      "gender": "Female",
+      "line": "No, I don't feel so good. We're just two very different kinds of people, that's all.",
+      "wordCount": 16
+    },
+    {
+      "id": 317,
+      "index": 317,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Huh?",
+      "wordCount": 1
+    },
+    {
+      "id": 318,
+      "index": 318,
+      "character": "BETSY",
+      "gender": "Female",
+      "line": "It's very simple. You go your way, I'll go mine. Thanks anyway, Travis.",
+      "wordCount": 13
+    },
+    {
+      "id": 319,
+      "index": 319,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "But... Betsy...",
+      "wordCount": 2
+    },
+    {
+      "id": 320,
+      "index": 320,
+      "character": "BETSY",
+      "gender": "Female",
+      "line": "I'm getting a taxi.",
+      "wordCount": 4
+    },
+    {
+      "id": 321,
+      "index": 321,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "What about the record?",
+      "wordCount": 4
+    },
+    {
+      "id": 322,
+      "index": 322,
+      "character": "BETSY",
+      "gender": "Female",
+      "line": "Keep it.",
+      "wordCount": 2
+    },
+    {
+      "id": 323,
+      "index": 323,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Can I call you?",
+      "wordCount": 4
+    },
+    {
+      "id": 324,
+      "index": 324,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Please, Betsy, I bought it for you.",
+      "wordCount": 7
+    },
+    {
+      "id": 325,
+      "index": 325,
+      "character": "BETSY",
+      "gender": "Female",
+      "line": "All right, I'll accept the record.",
+      "wordCount": 6
+    },
+    {
+      "id": 326,
+      "index": 326,
+      "character": "BETSY",
+      "gender": "Female",
+      "line": "Taxi!",
+      "wordCount": 1
+    },
+    {
+      "id": 327,
+      "index": 327,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "But I got a taxi.",
+      "wordCount": 5
+    },
+    {
+      "id": 328,
+      "index": 328,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "May 8, 1972. My life has taken another turn again. The days move along with regularity...",
+      "wordCount": 16
+    },
+    {
+      "id": 329,
+      "index": 329,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "... one day indistinguishable from the next, a long continuous chain, then suddenly - there is a change.",
+      "wordCount": 18
+    },
+    {
+      "id": 330,
+      "index": 330,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "I tried to call her several times.",
+      "wordCount": 7
+    },
+    {
+      "id": 331,
+      "index": 331,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "you feeling better? You said you didn't feel so good...",
+      "wordCount": 10
+    },
+    {
+      "id": 332,
+      "index": 332,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "But after the first call, she would no longer come to the phone.",
+      "wordCount": 13
+    },
+    {
+      "id": 333,
+      "index": 333,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "I also sent flowers with no luck. I should not dwell on such things, but set them behind me. The smell of the flowers only made me sicker. The headaches got worse I think I've got stomach cancer. I should not complain so. \"You're only as healthy as you feel.\"",
+      "wordCount": 50
+    },
+    {
+      "id": 334,
+      "index": 334,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "I realize now how much she is like the others, so cold and distant. Many people are like that. They're like a union.",
+      "wordCount": 23
+    },
+    {
+      "id": 335,
+      "index": 335,
+      "character": "PROFESSIONAL PASSENGER",
+      "gender": "NA",
+      "line": "Jackson Heights.",
+      "wordCount": 2
+    },
+    {
+      "id": 336,
+      "index": 336,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "I'm off duty.",
+      "wordCount": 3
+    },
+    {
+      "id": 337,
+      "index": 337,
+      "character": "PROFESSIONAL PASSENGER",
+      "gender": "NA",
+      "line": "You mean you don't want to go out to Jackson Heights?",
+      "wordCount": 11
+    },
+    {
+      "id": 338,
+      "index": 338,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "No, I'm off duty.",
+      "wordCount": 4
+    },
+    {
+      "id": 339,
+      "index": 339,
+      "character": "PROFESSIONAL PASSENGER",
+      "gender": "NA",
+      "line": "Then how come your \"Off Duty\" light wasn't on.",
+      "wordCount": 9
+    },
+    {
+      "id": 340,
+      "index": 340,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "It was on. it just takes a while to warm up. Like a TV.",
+      "wordCount": 14
+    },
+    {
+      "id": 341,
+      "index": 341,
+      "character": "YOUNG PASSENGER",
+      "gender": "NA",
+      "line": "471 Central Park West.",
+      "wordCount": 4
+    },
+    {
+      "id": 342,
+      "index": 342,
+      "character": "YOUNG PASSENGER",
+      "gender": "NA",
+      "line": "Just pull over to the curb a moment.",
+      "wordCount": 8
+    },
+    {
+      "id": 343,
+      "index": 343,
+      "character": "YOUNG PASSENGER",
+      "gender": "NA",
+      "line": "Yeah, that's fine. Just sit here.",
+      "wordCount": 6
+    },
+    {
+      "id": 344,
+      "index": 344,
+      "character": "YOUNG PASSENGER",
+      "gender": "NA",
+      "line": "Cabbie, ya see that light up there on the seventh floor, three windows from this side of the building?",
+      "wordCount": 19
+    },
+    {
+      "id": 345,
+      "index": 345,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Yeah.",
+      "wordCount": 1
+    },
+    {
+      "id": 346,
+      "index": 346,
+      "character": "YOUNG PASSENGER",
+      "gender": "NA",
+      "line": "Ya see that woman there?",
+      "wordCount": 5
+    },
+    {
+      "id": 347,
+      "index": 347,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Yeah.",
+      "wordCount": 1
+    },
+    {
+      "id": 348,
+      "index": 348,
+      "character": "YOUNG PASSENGER",
+      "gender": "NA",
+      "line": "That's my wife. But it ain't my apartment. A nigger lives there. She left me two weeks ago. It took me this long to find out where she went. I'm gonna kill her.",
+      "wordCount": 33
+    },
+    {
+      "id": 349,
+      "index": 349,
+      "character": "YOUNG PASSENGER",
+      "gender": "NA",
+      "line": "What do you think of that, cabbie?",
+      "wordCount": 7
+    },
+    {
+      "id": 350,
+      "index": 350,
+      "character": "YOUNG PASSENGER",
+      "gender": "NA",
+      "line": "Huh? What do you think of that, huh?",
+      "wordCount": 8
+    },
+    {
+      "id": 351,
+      "index": 351,
+      "character": "YOUNG PASSENGER",
+      "gender": "NA",
+      "line": "I'm gonna kill her with a .44 Magnum pistol.",
+      "wordCount": 9
+    },
+    {
+      "id": 352,
+      "index": 352,
+      "character": "YOUNG PASSENGER",
+      "gender": "NA",
+      "line": "Did you ever see what a .44 can do to a woman's face, cabbie? Did you ever see what it can do to a woman's pussy, cabbie?",
+      "wordCount": 27
+    },
+    {
+      "id": 353,
+      "index": 353,
+      "character": "YOUNG PASSENGER",
+      "gender": "NA",
+      "line": "I'm going to put it right up to her, cabbie. Right in her, cabbie. You must think I'm real sick, huh? A real pervert. Sitting here and talking about a woman's pussy and a .44, huh?",
+      "wordCount": 36
+    },
+    {
+      "id": 354,
+      "index": 354,
+      "character": "DOUGH-BOY",
+      "gender": "NA",
+      "line": "Hey Travis. This here's Easy Andy. He's a travelling salesman.",
+      "wordCount": 10
+    },
+    {
+      "id": 355,
+      "index": 355,
+      "character": "ANDY",
+      "gender": "NA",
+      "line": "Hello Travis.",
+      "wordCount": 2
+    },
+    {
+      "id": 356,
+      "index": 356,
+      "character": "ANDY",
+      "gender": "NA",
+      "line": "This is fine, Dough-Boy Pay Dough-Boy here.",
+      "wordCount": 7
+    },
+    {
+      "id": 357,
+      "index": 357,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "20 bucks?",
+      "wordCount": 2
+    },
+    {
+      "id": 358,
+      "index": 358,
+      "character": "DOUGH-BOY",
+      "gender": "NA",
+      "line": "Yeah. Hey thanks. That's real nice, Travis.",
+      "wordCount": 7
+    },
+    {
+      "id": 359,
+      "index": 359,
+      "character": "ANDY",
+      "gender": "NA",
+      "line": "Dough-Boy probably told you I don't carry any Saturday Night Specials or crap like that. It's all out of State, clean, brand new, top-of- the-line stuff.",
+      "wordCount": 26
+    },
+    {
+      "id": 360,
+      "index": 360,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "You got a .44 Magnum?",
+      "wordCount": 5
+    },
+    {
+      "id": 361,
+      "index": 361,
+      "character": "ANDY",
+      "gender": "NA",
+      "line": "That's an expensive gun.",
+      "wordCount": 4
+    },
+    {
+      "id": 362,
+      "index": 362,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "I got money.",
+      "wordCount": 3
+    },
+    {
+      "id": 363,
+      "index": 363,
+      "character": "ANDY",
+      "gender": "NA",
+      "line": "It's a monster. Can stop a car -- put a bullet right into the block. A premium high resale gun. $350 -- that's only a hundred over list.",
+      "wordCount": 28
+    },
+    {
+      "id": 364,
+      "index": 364,
+      "character": "ANDY",
+      "gender": "NA",
+      "line": "I could sell this gun in Harlem for $500 today - but I just deal high quality goods to high quality people. Now this may be a little big for practical use, in which case I'd recommend the .38 Smith and Wesson Special. Fine solid gun - nickel plated. Snub-nosed, otherwise the same as the service revolver. Now that'll stop anything that moves and it's handy, flexible.",
+      "wordCount": 67
+    },
+    {
+      "id": 365,
+      "index": 365,
+      "character": "ANDY",
+      "gender": "NA",
+      "line": "The Magnum, you know, that's only if you want to splatter it against the wall. The movies have driven up the price of the Magnum anyway. Everybody wants them now. But the Wesson .38 - only $250 - and worth every dime of it. Throw in a holster for $10.",
+      "wordCount": 50
+    },
+    {
+      "id": 366,
+      "index": 366,
+      "character": "ANDY",
+      "gender": "NA",
+      "line": "Some of these guns are like toys, but a Smith and Wesson, man, you can hit somebody over the head with it and it will still come back dead on. Nothing beats quality. You interested in an automatic?",
+      "wordCount": 38
+    },
+    {
+      "id": 367,
+      "index": 367,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "I want a .32. Revolver. And a palm gun. That .22 there.",
+      "wordCount": 12
+    },
+    {
+      "id": 368,
+      "index": 368,
+      "character": "ANDY",
+      "gender": "NA",
+      "line": "That's the Colt .25 - a fine little gun. Don't do a lot of damage, but it's as fast as the Devil. Handy little gun, you can carry it almost anywhere. I'll throw it in for another $125.",
+      "wordCount": 38
+    },
+    {
+      "id": 369,
+      "index": 369,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "How much for everything.",
+      "wordCount": 4
+    },
+    {
+      "id": 370,
+      "index": 370,
+      "character": "ANDY",
+      "gender": "NA",
+      "line": "The .32's $150 - and you're really getting a good deal now - and all together it comes to, ah, seven eighty-five for four pieces and a holster. He'll, I'll give you the holster, we'll make it seventy-five and you've got a deal - a good one.",
+      "wordCount": 47
+    },
+    {
+      "id": 371,
+      "index": 371,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "How much to get a permit to carry?",
+      "wordCount": 8
+    },
+    {
+      "id": 372,
+      "index": 372,
+      "character": "ANDY",
+      "gender": "NA",
+      "line": "Well, you're talking big money now. I'd say at least five grand, maybe more, and it would take a while to check it out. The way things are going now $5.000 is probably low. You see, I try not to fool with the small-time crap. Too risky, too little bread. Say 6 G's, but if I get the permit it'll be as solid as the Empire State Building.",
+      "wordCount": 68
+    },
+    {
+      "id": 373,
+      "index": 373,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Nah, this'll be fine.",
+      "wordCount": 4
+    },
+    {
+      "id": 374,
+      "index": 374,
+      "character": "ANDY",
+      "gender": "NA",
+      "line": "You can't carry in a cab even with a permit - so why bother?",
+      "wordCount": 14
+    },
+    {
+      "id": 375,
+      "index": 375,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Is there a firing range around?",
+      "wordCount": 6
+    },
+    {
+      "id": 376,
+      "index": 376,
+      "character": "ANDY",
+      "gender": "NA",
+      "line": "Sure, here, take this card, go to this place and give 'em the card. They'll charge you, but there won't be any hassle.",
+      "wordCount": 23
+    },
+    {
+      "id": 377,
+      "index": 377,
+      "character": "ANDY",
+      "gender": "NA",
+      "line": "You in Nam? Can't help but notice your jacket?",
+      "wordCount": 9
+    },
+    {
+      "id": 378,
+      "index": 378,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Huh?",
+      "wordCount": 1
+    },
+    {
+      "id": 379,
+      "index": 379,
+      "character": "ANDY",
+      "gender": "NA",
+      "line": "Vietnam? I saw it on your jacket. Where were you? Bet you got to handle a lot of weapons out there.",
+      "wordCount": 21
+    },
+    {
+      "id": 380,
+      "index": 380,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Yeah. I was all around. One hospital, then the next.",
+      "wordCount": 10
+    },
+    {
+      "id": 381,
+      "index": 381,
+      "character": "ANDY",
+      "gender": "NA",
+      "line": "It's he'll out there all right. A real shit-eatin' war. I'll say this, though: It's bringing a lot of fantastic guns. The market's flooded. Colt automatics are all over.",
+      "wordCount": 29
+    },
+    {
+      "id": 382,
+      "index": 382,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "They'd never get me to go back. They'd have to shoot me first. You got anything to carry these in?",
+      "wordCount": 20
+    },
+    {
+      "id": 383,
+      "index": 383,
+      "character": "ANDY",
+      "gender": "NA",
+      "line": "Sure.",
+      "wordCount": 1
+    },
+    {
+      "id": 384,
+      "index": 384,
+      "character": "ANDY",
+      "gender": "NA",
+      "line": "You like ball games?",
+      "wordCount": 4
+    },
+    {
+      "id": 385,
+      "index": 385,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Huh?",
+      "wordCount": 1
+    },
+    {
+      "id": 386,
+      "index": 386,
+      "character": "ANDY",
+      "gender": "NA",
+      "line": "I can get you front and center. What do you like? I can get you Mets, Knicks, Rangers? Hell, I can get you the Mayor's box.",
+      "wordCount": 26
+    },
+    {
+      "id": 387,
+      "index": 387,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Nah. I ain't interested.",
+      "wordCount": 4
+    },
+    {
+      "id": 388,
+      "index": 388,
+      "character": "ANDY",
+      "gender": "NA",
+      "line": "Okay, okay.",
+      "wordCount": 2
+    },
+    {
+      "id": 389,
+      "index": 389,
+      "character": "ANDY",
+      "gender": "NA",
+      "line": "Wait a second, Travis. I'll walk you out.",
+      "wordCount": 8
+    },
+    {
+      "id": 390,
+      "index": 390,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "May 29, 1972. I must get in shape. Too much sitting has ruined my body. Twenty-five push-ups each morning, one hundred sit-ups, one hundred knee-bends. I have quit smoking.",
+      "wordCount": 29
+    },
+    {
+      "id": 391,
+      "index": 391,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Total organization is necessary. Every muscle must be tight.",
+      "wordCount": 9
+    },
+    {
+      "id": 392,
+      "index": 392,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "My body fights me always. It won't work, it won't sleep, it won't shit, it won't eat.",
+      "wordCount": 17
+    },
+    {
+      "id": 393,
+      "index": 393,
+      "character": "TV DISC JOCKEY",
+      "gender": "NA",
+      "line": "Freshingly, fantastic, freaked-out dance time. Can you dig it? Dig on it. You got it, flaunt it.",
+      "wordCount": 17
+    },
+    {
+      "id": 394,
+      "index": 394,
+      "character": "IRIS",
+      "gender": "Female",
+      "line": "Come on, mister, let's get outta here -- quick.",
+      "wordCount": 9
+    },
+    {
+      "id": 395,
+      "index": 395,
+      "character": "SPORT",
+      "gender": "NA",
+      "line": "Come on, baby, let's go. This is all a real drag.",
+      "wordCount": 11
+    },
+    {
+      "id": 396,
+      "index": 396,
+      "character": "SPORT",
+      "gender": "NA",
+      "line": "Just forget all about this, cabbie. It's nothing.",
+      "wordCount": 8
+    },
+    {
+      "id": 397,
+      "index": 397,
+      "character": "FEMALE MOVIE VOICE",
+      "gender": "NA",
+      "line": "Oh, come on, now, down, lick it, come on... Mmm, that's good. Ahh, ahh, more ...",
+      "wordCount": 16
+    },
+    {
+      "id": 398,
+      "index": 398,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "The idea had been growing in my brain ...",
+      "wordCount": 9
+    },
+    {
+      "id": 399,
+      "index": 399,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "... for some time. True Force. All the king's men cannot put it back together again.",
+      "wordCount": 16
+    },
+    {
+      "id": 400,
+      "index": 400,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Listen you screwheads: Here is a man ...",
+      "wordCount": 8
+    },
+    {
+      "id": 401,
+      "index": 401,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "... who wouldn't take it any more, a man who stood up against the scum, the cunts, the dogs, the filth. Here is ...",
+      "wordCount": 24
+    },
+    {
+      "id": 402,
+      "index": 402,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Hey 'Melio.",
+      "wordCount": 2
+    },
+    {
+      "id": 403,
+      "index": 403,
+      "character": "STICK-UP MAN",
+      "gender": "Male",
+      "line": "Come on, man. Quick, quick, quick. Hand over that bread.",
+      "wordCount": 10
+    },
+    {
+      "id": 404,
+      "index": 404,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Hey dude!",
+      "wordCount": 2
+    },
+    {
+      "id": 405,
+      "index": 405,
+      "character": "'MELIO",
+      "gender": "NA",
+      "line": "Thanks, man. Figured I'd get him on the way out.",
+      "wordCount": 10
+    },
+    {
+      "id": 406,
+      "index": 406,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "You're gonna have to cover me on this one, 'Melio. I can't stay for the cop show.",
+      "wordCount": 17
+    },
+    {
+      "id": 407,
+      "index": 407,
+      "character": "'MELIO",
+      "gender": "NA",
+      "line": "You can't do that, Travis. You're my witness.",
+      "wordCount": 8
+    },
+    {
+      "id": 408,
+      "index": 408,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "The hell I can't. It's no sweat for you. What is this for you, number five?",
+      "wordCount": 16
+    },
+    {
+      "id": 409,
+      "index": 409,
+      "character": "'MELIO",
+      "gender": "NA",
+      "line": "No, only four. Alright, Travis, I'll do what I can.",
+      "wordCount": 10
+    },
+    {
+      "id": 410,
+      "index": 410,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Thanks a lot.",
+      "wordCount": 3
+    },
+    {
+      "id": 411,
+      "index": 411,
+      "character": "SOAP OPERA BOY",
+      "gender": "NA",
+      "line": "Is it that she just doesn't -- like me?",
+      "wordCount": 9
+    },
+    {
+      "id": 412,
+      "index": 412,
+      "character": "SOAP OPERA GIRL",
+      "gender": "NA",
+      "line": "Well, Jim, it's just that -- I don't know how to say this -- it's that she thinks your parents aren't... good enough, I guess.",
+      "wordCount": 25
+    },
+    {
+      "id": 413,
+      "index": 413,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Damn, damn.",
+      "wordCount": 2
+    },
+    {
+      "id": 414,
+      "index": 414,
+      "character": "WIZARD",
+      "gender": "Male",
+      "line": "You know Eddie, he's the new hippie kid in our group, long hair...",
+      "wordCount": 13
+    },
+    {
+      "id": 415,
+      "index": 415,
+      "character": "WIZARD",
+      "gender": "Male",
+      "line": "...he called up the Dispatcher last night. Charlie McCall, our dispatcher...",
+      "wordCount": 11
+    },
+    {
+      "id": 416,
+      "index": 416,
+      "character": "DOUGH-BOY",
+      "gender": "NA",
+      "line": "One-Ball McCall?",
+      "wordCount": 2
+    },
+    {
+      "id": 417,
+      "index": 417,
+      "character": "WIZARD",
+      "gender": "Male",
+      "line": "That's the guy. Eddie calls him up and says, \"Hey, what do you want me to do. I'm over here at Poly Prep. I got a girl in the back and she doesn't have the fare. She wants me to come in back and collect. What should I do?",
+      "wordCount": 49
+    },
+    {
+      "id": 418,
+      "index": 418,
+      "character": "CHARLIE T",
+      "gender": "NA",
+      "line": "This is on the two-way with about a hundred and fifty cars listenin in.",
+      "wordCount": 14
+    },
+    {
+      "id": 419,
+      "index": 419,
+      "character": "WIZARD",
+      "gender": "Male",
+      "line": "McCall says. \"How much on the meter?\" Eddie comes back and says \"Two-fifty.\" McCall says, \"Is she worth it\".",
+      "wordCount": 19
+    },
+    {
+      "id": 420,
+      "index": 420,
+      "character": "DOUGH-BOY",
+      "gender": "NA",
+      "line": "Fuckin One-Ball.",
+      "wordCount": 2
+    },
+    {
+      "id": 421,
+      "index": 421,
+      "character": "WIZARD",
+      "gender": "Male",
+      "line": "And the kid says, \"Yeah. She's about 19, good-lookin.\" McCall says, \"What can I tell you?\"",
+      "wordCount": 16
+    },
+    {
+      "id": 422,
+      "index": 422,
+      "character": "FOURTH CABBIE",
+      "gender": "NA",
+      "line": "She should have told him to get an OK from the front office.",
+      "wordCount": 13
+    },
+    {
+      "id": 423,
+      "index": 423,
+      "character": "WIZARD",
+      "gender": "Male",
+      "line": "McCall says, \"Well, if you want some help I'll see if I can send some units out.\"",
+      "wordCount": 17
+    },
+    {
+      "id": 424,
+      "index": 424,
+      "character": "CHARLIE T",
+      "gender": "NA",
+      "line": "Yeah. About a hundred and fifty.",
+      "wordCount": 6
+    },
+    {
+      "id": 425,
+      "index": 425,
+      "character": "DOUGH-BOY",
+      "gender": "NA",
+      "line": "I hope he had a checker.",
+      "wordCount": 6
+    },
+    {
+      "id": 426,
+      "index": 426,
+      "character": "WIZARD",
+      "gender": "Male",
+      "line": "She was just a kid. Stoned, you know.",
+      "wordCount": 8
+    },
+    {
+      "id": 427,
+      "index": 427,
+      "character": "CHARLIE T",
+      "gender": "NA",
+      "line": "Hiya Killer.",
+      "wordCount": 2
+    },
+    {
+      "id": 428,
+      "index": 428,
+      "character": "WIZARD",
+      "gender": "Male",
+      "line": "You're getting a rep, Travis.",
+      "wordCount": 5
+    },
+    {
+      "id": 429,
+      "index": 429,
+      "character": "CHARLIE T",
+      "gender": "NA",
+      "line": "Got the five you owe me, Killer?",
+      "wordCount": 7
+    },
+    {
+      "id": 430,
+      "index": 430,
+      "character": "WIZARD",
+      "gender": "Male",
+      "line": "What's the action around?",
+      "wordCount": 4
+    },
+    {
+      "id": 431,
+      "index": 431,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Slow.",
+      "wordCount": 1
+    },
+    {
+      "id": 432,
+      "index": 432,
+      "character": "CHARLIE T",
+      "gender": "NA",
+      "line": "Shit yes. Night woulda been dead if I hadn't grabbed an outatowner at Kennedy. Took him roun the horn and got a five dollar tip to boot.",
+      "wordCount": 27
+    },
+    {
+      "id": 433,
+      "index": 433,
+      "character": "WIZARD",
+      "gender": "Male",
+      "line": "One of these days we're gonna turn you in, Charlie T. Fleecin the hicks like that.",
+      "wordCount": 16
+    },
+    {
+      "id": 434,
+      "index": 434,
+      "character": "DOUGH-BOY",
+      "gender": "NA",
+      "line": "Remember the time this cat picks up four dudes from the other side, Pakastanis I think they were, holds up their passports, to the toll booth collector on the bridge and charges em ten bucks each for 'crossing the border?",
+      "wordCount": 40
+    },
+    {
+      "id": 435,
+      "index": 435,
+      "character": "CHARLIE T",
+      "gender": "NA",
+      "line": "Hell, I know'd you to do worse.",
+      "wordCount": 7
+    },
+    {
+      "id": 436,
+      "index": 436,
+      "character": "DOUGH-BOY",
+      "gender": "NA",
+      "line": "Least I'm no airport rat. I work the whole town.",
+      "wordCount": 10
+    },
+    {
+      "id": 437,
+      "index": 437,
+      "character": "CHARLIE T",
+      "gender": "NA",
+      "line": "It's a living.",
+      "wordCount": 3
+    },
+    {
+      "id": 438,
+      "index": 438,
+      "character": "WIZARD",
+      "gender": "Male",
+      "line": "Well, I'm shovin' on.",
+      "wordCount": 4
+    },
+    {
+      "id": 439,
+      "index": 439,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Hey Wiz, just a second. I wanna talk to you.",
+      "wordCount": 10
+    },
+    {
+      "id": 440,
+      "index": 440,
+      "character": "CHARLIE T",
+      "gender": "NA",
+      "line": "See ya, Killer. Don't forget your pea shooter.",
+      "wordCount": 8
+    },
+    {
+      "id": 441,
+      "index": 441,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Hey Wiz.",
+      "wordCount": 2
+    },
+    {
+      "id": 442,
+      "index": 442,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Wiz?",
+      "wordCount": 1
+    },
+    {
+      "id": 443,
+      "index": 443,
+      "character": "WIZARD",
+      "gender": "Male",
+      "line": "Yeah?",
+      "wordCount": 1
+    },
+    {
+      "id": 444,
+      "index": 444,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Look, ah, we never talked much, you and me...",
+      "wordCount": 9
+    },
+    {
+      "id": 445,
+      "index": 445,
+      "character": "WIZARD",
+      "gender": "Male",
+      "line": "Yeah?",
+      "wordCount": 1
+    },
+    {
+      "id": 446,
+      "index": 446,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "I wanted to ask you something, on account you've been around so long.",
+      "wordCount": 13
+    },
+    {
+      "id": 447,
+      "index": 447,
+      "character": "WIZARD",
+      "gender": "Male",
+      "line": "Shoot. They don't call me the Wizard for nothing.",
+      "wordCount": 9
+    },
+    {
+      "id": 448,
+      "index": 448,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Well, I just, you know...",
+      "wordCount": 5
+    },
+    {
+      "id": 449,
+      "index": 449,
+      "character": "WIZARD",
+      "gender": "Male",
+      "line": "Things got ya down?",
+      "wordCount": 4
+    },
+    {
+      "id": 450,
+      "index": 450,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Real down.",
+      "wordCount": 2
+    },
+    {
+      "id": 451,
+      "index": 451,
+      "character": "WIZARD",
+      "gender": "Male",
+      "line": "It happens.",
+      "wordCount": 2
+    },
+    {
+      "id": 452,
+      "index": 452,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Sometimes it gets so I just don't know what I'm gonna do. I get some real crazy ideas, you know? Just go out and do somethin.",
+      "wordCount": 26
+    },
+    {
+      "id": 453,
+      "index": 453,
+      "character": "WIZARD",
+      "gender": "Male",
+      "line": "The taxi life, you mean.",
+      "wordCount": 5
+    },
+    {
+      "id": 454,
+      "index": 454,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Yeah.",
+      "wordCount": 1
+    },
+    {
+      "id": 455,
+      "index": 455,
+      "character": "WIZARD",
+      "gender": "Male",
+      "line": "I know.",
+      "wordCount": 2
+    },
+    {
+      "id": 456,
+      "index": 456,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Like do anything, you know.",
+      "wordCount": 5
+    },
+    {
+      "id": 457,
+      "index": 457,
+      "character": "WIZARD",
+      "gender": "Male",
+      "line": "Travis, look, I dig it. Let me explain. You choose a certain way of life. You live it. It becomes what you are. I've been a hack 27 years, the last ten at night. Still don't own my own cab. I guess that's the way I want it. You see, that must be what I am.",
+      "wordCount": 56
+    },
+    {
+      "id": 458,
+      "index": 458,
+      "character": "WIZARD",
+      "gender": "Male",
+      "line": "Look, a person does a certain thing and that's all there is to it. It becomes what he is. Why fight it? What do you know? How long you been a hack, a couple months? You're like a peg and you get dropped into a slot and you got to squirm and wiggle around a while until you fit in.",
+      "wordCount": 60
+    },
+    {
+      "id": 459,
+      "index": 459,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "That's just about the dumbest thing I ever heard, Wizard.",
+      "wordCount": 10
+    },
+    {
+      "id": 460,
+      "index": 460,
+      "character": "WIZARD",
+      "gender": "Male",
+      "line": "What do you expect, Bertrand Russell? I've been a cabbie all my life, what do I know? I don't even know what you're talking about.",
+      "wordCount": 25
+    },
+    {
+      "id": 461,
+      "index": 461,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Neither do I, I guess.",
+      "wordCount": 5
+    },
+    {
+      "id": 462,
+      "index": 462,
+      "character": "WIZARD",
+      "gender": "Male",
+      "line": "You fit in. It's lonely, it's rough at first. But you fit in. You got no choice.",
+      "wordCount": 17
+    },
+    {
+      "id": 463,
+      "index": 463,
+      "character": "WIZARD",
+      "gender": "Male",
+      "line": "Yeah. Sorry, Wizard.",
+      "wordCount": 3
+    },
+    {
+      "id": 464,
+      "index": 464,
+      "character": "WIZARD",
+      "gender": "Male",
+      "line": "Don't worry, Killer. You'll be all right. I seen enough to know.",
+      "wordCount": 12
+    },
+    {
+      "id": 465,
+      "index": 465,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Thanks.",
+      "wordCount": 1
+    },
+    {
+      "id": 466,
+      "index": 466,
+      "character": "TOM",
+      "gender": "Male",
+      "line": "Betsy, come over here a moment.",
+      "wordCount": 6
+    },
+    {
+      "id": 467,
+      "index": 467,
+      "character": "BETSY",
+      "gender": "Female",
+      "line": "What is it? I'm busy.",
+      "wordCount": 5
+    },
+    {
+      "id": 468,
+      "index": 468,
+      "character": "TOM",
+      "gender": "Male",
+      "line": "Just follow me.",
+      "wordCount": 3
+    },
+    {
+      "id": 469,
+      "index": 469,
+      "character": "TOM",
+      "gender": "Male",
+      "line": "Look there. No, over further - get your glasses - yes, over there. Isn't that little guy the same guy that was bugging you around the office about a month ago?",
+      "wordCount": 31
+    },
+    {
+      "id": 470,
+      "index": 470,
+      "character": "BETSY",
+      "gender": "Female",
+      "line": "No, I don't think so. That's someone else.",
+      "wordCount": 8
+    },
+    {
+      "id": 471,
+      "index": 471,
+      "character": "TOM",
+      "gender": "Male",
+      "line": "Now look more closely. Look around the eyes and chin. See? See there?",
+      "wordCount": 13
+    },
+    {
+      "id": 472,
+      "index": 472,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Are you a Secret Service Man?",
+      "wordCount": 6
+    },
+    {
+      "id": 473,
+      "index": 473,
+      "character": "SECRET SERVICE MAN",
+      "gender": "Male",
+      "line": "Why do you ask?",
+      "wordCount": 4
+    },
+    {
+      "id": 474,
+      "index": 474,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "I've seen a lot of suspicious- looking people around here today.",
+      "wordCount": 11
+    },
+    {
+      "id": 475,
+      "index": 475,
+      "character": "SECRET SERVICE MAN",
+      "gender": "Male",
+      "line": "Who?",
+      "wordCount": 1
+    },
+    {
+      "id": 476,
+      "index": 476,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Oh, lots. I don't know where they all are now. There used to be one standing over there.",
+      "wordCount": 18
+    },
+    {
+      "id": 477,
+      "index": 477,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Is it hard to get to be a Secret Service Man?",
+      "wordCount": 11
+    },
+    {
+      "id": 478,
+      "index": 478,
+      "character": "SECRET SERVICE MAN",
+      "gender": "Male",
+      "line": "Why?",
+      "wordCount": 1
+    },
+    {
+      "id": 479,
+      "index": 479,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "I kinda thought I might make a good one. I'm very observant.",
+      "wordCount": 12
+    },
+    {
+      "id": 480,
+      "index": 480,
+      "character": "SECRET SERVICE MAN",
+      "gender": "Male",
+      "line": "Oh?",
+      "wordCount": 1
+    },
+    {
+      "id": 481,
+      "index": 481,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "I was in the Army too. And I'm good with crowds.",
+      "wordCount": 11
+    },
+    {
+      "id": 482,
+      "index": 482,
+      "character": "SECRET SERVICE MAN",
+      "gender": "Male",
+      "line": "Is that so?",
+      "wordCount": 3
+    },
+    {
+      "id": 483,
+      "index": 483,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "What kind of guns do you guys use? .38's?",
+      "wordCount": 9
+    },
+    {
+      "id": 484,
+      "index": 484,
+      "character": "SECRET SERVICE MAN",
+      "gender": "Male",
+      "line": "Look, um, if you give me your name and address, we'll send you the information on how to apply.",
+      "wordCount": 19
+    },
+    {
+      "id": 485,
+      "index": 485,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "You would, huh?",
+      "wordCount": 3
+    },
+    {
+      "id": 486,
+      "index": 486,
+      "character": "SECRET SERVICE MAN",
+      "gender": "Male",
+      "line": "Sure.",
+      "wordCount": 1
+    },
+    {
+      "id": 487,
+      "index": 487,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "My name is Henry Krinkle -- that's with a \"K.\" K-R-I-N-K-L-E. I live at 13 1/2 Hopper Avenue, Fair Lawn, New Jersey. Zip code 07410. Got that?",
+      "wordCount": 27
+    },
+    {
+      "id": 488,
+      "index": 488,
+      "character": "SECRET SERVICE MAN",
+      "gender": "Male",
+      "line": "Sure, Henry. I got it all. We'll send you all the stuff all right.",
+      "wordCount": 14
+    },
+    {
+      "id": 489,
+      "index": 489,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Great, hey. Thanks a lot.",
+      "wordCount": 5
+    },
+    {
+      "id": 490,
+      "index": 490,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "June 11. Eight rallies in six more days. The time is coming.",
+      "wordCount": 12
+    },
+    {
+      "id": 491,
+      "index": 491,
+      "character": "HIPPIE HOOKER",
+      "gender": "NA",
+      "line": "Hey cabbie! You comin' or goin'?",
+      "wordCount": 6
+    },
+    {
+      "id": 492,
+      "index": 492,
+      "character": "PALANTINE",
+      "gender": "Male",
+      "line": "The time has come to put an end to the things that divide us: racism, poverty, way -- and to those persons who seek to divide us. Never have I seen such a group of high officials from the President to Senate leaders to Cabinet members...",
+      "wordCount": 46
+    },
+    {
+      "id": 493,
+      "index": 493,
+      "character": "PALANTINE",
+      "gender": "Male",
+      "line": "... pit black against white, young against old, sow anger, disunity and suspicion -- and all in the name of the \"good of the country.\" Well, their game is over. All their games are over. Now is the time to stand up against such foolishness, propaganda and demagoguery. Now is the time for one man to stand up and accept his neighbor, for one man to give in order that all might receive. Is unity and love of common good such a lost thing?",
+      "wordCount": 84
+    },
+    {
+      "id": 494,
+      "index": 494,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Dear Father and Mother, June is the month, I remember, which brings not only your wedding anniversary, but also Father's Day and Mother's birthday. I'm sorry I can't remember the exact dates, but I hope this card will take care of all of them. I'm sorry I again can not send you my address like I promised to last year, but the sensitive nature of my work for the Army demands utmost secrecy. I know you will understand. I am healthy and well and making lots of money. I have been going with a girl for several months and I know you would be proud if you could see her.",
+      "wordCount": 110
+    },
+    {
+      "id": 495,
+      "index": 495,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Her name is Betsy, but I can tell you no more than that.",
+      "wordCount": 13
+    },
+    {
+      "id": 496,
+      "index": 496,
+      "character": "POLICEMAN",
+      "gender": "Male",
+      "line": "Hey, cabbie, you can't park here.",
+      "wordCount": 6
+    },
+    {
+      "id": 497,
+      "index": 497,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Sorry, officer.",
+      "wordCount": 2
+    },
+    {
+      "id": 498,
+      "index": 498,
+      "character": "POLICEMAN",
+      "gender": "Male",
+      "line": "You waiting for a fare?",
+      "wordCount": 5
+    },
+    {
+      "id": 499,
+      "index": 499,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "No, officer.",
+      "wordCount": 2
+    },
+    {
+      "id": 500,
+      "index": 500,
+      "character": "POLICEMAN",
+      "gender": "Male",
+      "line": "All right, move it.",
+      "wordCount": 4
+    },
+    {
+      "id": 501,
+      "index": 501,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "I hope this card finds you all well, as it does me. I hope no one has died. Don't worry about me. One day there will be a knock on the door and it will be me.",
+      "wordCount": 37
+    },
+    {
+      "id": 502,
+      "index": 502,
+      "character": "HAPPY ANNIVERSARY",
+      "gender": "NA",
+      "line": "To a Couple Who Have Found the Perfect Combination For Marriage...",
+      "wordCount": 11
+    },
+    {
+      "id": 503,
+      "index": 503,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Hello.",
+      "wordCount": 1
+    },
+    {
+      "id": 504,
+      "index": 504,
+      "character": "IRIS",
+      "gender": "Female",
+      "line": "You looking for some action?",
+      "wordCount": 5
+    },
+    {
+      "id": 505,
+      "index": 505,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Well...I guess so.",
+      "wordCount": 3
+    },
+    {
+      "id": 506,
+      "index": 506,
+      "character": "IRIS",
+      "gender": "Female",
+      "line": "All right. You see that guy over there? His name is Sport. Go talk to him. I'll wait here.",
+      "wordCount": 19
+    },
+    {
+      "id": 507,
+      "index": 507,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "You name Sport?",
+      "wordCount": 3
+    },
+    {
+      "id": 508,
+      "index": 508,
+      "character": "SPORT",
+      "gender": "NA",
+      "line": "Here, officer, take me in. I'm clean. I didn't do it. Got a ticket once in Jersey. That's all. Honest, officer.",
+      "wordCount": 21
+    },
+    {
+      "id": 509,
+      "index": 509,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Your name Sport?",
+      "wordCount": 3
+    },
+    {
+      "id": 510,
+      "index": 510,
+      "character": "SPORT",
+      "gender": "NA",
+      "line": "Anything you say, officer.",
+      "wordCount": 4
+    },
+    {
+      "id": 511,
+      "index": 511,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "I'm no cop. I want some action.",
+      "wordCount": 7
+    },
+    {
+      "id": 512,
+      "index": 512,
+      "character": "SPORT",
+      "gender": "NA",
+      "line": "I saw. $20 fifteen minutes. $30 half hour.",
+      "wordCount": 8
+    },
+    {
+      "id": 513,
+      "index": 513,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Shit.",
+      "wordCount": 1
+    },
+    {
+      "id": 514,
+      "index": 514,
+      "character": "SPORT",
+      "gender": "NA",
+      "line": "Take it or leave it.",
+      "wordCount": 5
+    },
+    {
+      "id": 515,
+      "index": 515,
+      "character": "SPORT",
+      "gender": "NA",
+      "line": "No, not me. There'll be an elderly gent to take the bread.",
+      "wordCount": 12
+    },
+    {
+      "id": 516,
+      "index": 516,
+      "character": "SPORT",
+      "gender": "NA",
+      "line": "Catch you later, Copper.",
+      "wordCount": 4
+    },
+    {
+      "id": 517,
+      "index": 517,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "I'm no cop.",
+      "wordCount": 3
+    },
+    {
+      "id": 518,
+      "index": 518,
+      "character": "SPORT",
+      "gender": "NA",
+      "line": "Well, if you are, it's entrapment already.",
+      "wordCount": 7
+    },
+    {
+      "id": 519,
+      "index": 519,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "I'm hip.",
+      "wordCount": 2
+    },
+    {
+      "id": 520,
+      "index": 520,
+      "character": "SPORT",
+      "gender": "NA",
+      "line": "Funny, you don't look hip.",
+      "wordCount": 5
+    },
+    {
+      "id": 521,
+      "index": 521,
+      "character": "IRIS",
+      "gender": "Female",
+      "line": "This is my room.",
+      "wordCount": 4
+    },
+    {
+      "id": 522,
+      "index": 522,
+      "character": "OLD MAN",
+      "gender": "NA",
+      "line": "Hey cowboy!",
+      "wordCount": 2
+    },
+    {
+      "id": 523,
+      "index": 523,
+      "character": "OLD MAN",
+      "gender": "NA",
+      "line": "The rod. Gimme the rod, cowboy.",
+      "wordCount": 6
+    },
+    {
+      "id": 524,
+      "index": 524,
+      "character": "OLD MAN",
+      "gender": "NA",
+      "line": "This ain't Dodge City, cowboy. You don't need no piece. I'm keepin' time.",
+      "wordCount": 13
+    },
+    {
+      "id": 525,
+      "index": 525,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Why you hang around with them greasers?",
+      "wordCount": 7
+    },
+    {
+      "id": 526,
+      "index": 526,
+      "character": "IRIS",
+      "gender": "Female",
+      "line": "A girl needs protection.",
+      "wordCount": 4
+    },
+    {
+      "id": 527,
+      "index": 527,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Yeah. From the likes of them.",
+      "wordCount": 6
+    },
+    {
+      "id": 528,
+      "index": 528,
+      "character": "IRIS",
+      "gender": "Female",
+      "line": "It's your time mister. Fifteen minutes ain't long. That cigarette burns out, your time is up.",
+      "wordCount": 16
+    },
+    {
+      "id": 529,
+      "index": 529,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "What's your name?",
+      "wordCount": 3
+    },
+    {
+      "id": 530,
+      "index": 530,
+      "character": "IRIS",
+      "gender": "Female",
+      "line": "Easy.",
+      "wordCount": 1
+    },
+    {
+      "id": 531,
+      "index": 531,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "That ain't much of a name.",
+      "wordCount": 6
+    },
+    {
+      "id": 532,
+      "index": 532,
+      "character": "IRIS",
+      "gender": "Female",
+      "line": "It's easy to remember. Easy Lay.",
+      "wordCount": 6
+    },
+    {
+      "id": 533,
+      "index": 533,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "What's your real name?",
+      "wordCount": 4
+    },
+    {
+      "id": 534,
+      "index": 534,
+      "character": "IRIS",
+      "gender": "Female",
+      "line": "I don't like my real name.",
+      "wordCount": 6
+    },
+    {
+      "id": 535,
+      "index": 535,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "What's your real name?",
+      "wordCount": 4
+    },
+    {
+      "id": 536,
+      "index": 536,
+      "character": "IRIS",
+      "gender": "Female",
+      "line": "Iris.",
+      "wordCount": 1
+    },
+    {
+      "id": 537,
+      "index": 537,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "That's a nice name.",
+      "wordCount": 4
+    },
+    {
+      "id": 538,
+      "index": 538,
+      "character": "IRIS",
+      "gender": "Female",
+      "line": "That's what you think.",
+      "wordCount": 4
+    },
+    {
+      "id": 539,
+      "index": 539,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Don't you remember me? Button your shirt.",
+      "wordCount": 7
+    },
+    {
+      "id": 540,
+      "index": 540,
+      "character": "IRIS",
+      "gender": "Female",
+      "line": "Why? Who are you?",
+      "wordCount": 4
+    },
+    {
+      "id": 541,
+      "index": 541,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "I drive a taxi. You tried to get away one night. Remember?",
+      "wordCount": 12
+    },
+    {
+      "id": 542,
+      "index": 542,
+      "character": "IRIS",
+      "gender": "Female",
+      "line": "No.",
+      "wordCount": 1
+    },
+    {
+      "id": 543,
+      "index": 543,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "You tried to run away in my taxi but your friend -- Sport -- wouldn't let you.",
+      "wordCount": 17
+    },
+    {
+      "id": 544,
+      "index": 544,
+      "character": "IRIS",
+      "gender": "Female",
+      "line": "I don't remember.",
+      "wordCount": 3
+    },
+    {
+      "id": 545,
+      "index": 545,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "It don't matter. I'm gonna get you outta here.",
+      "wordCount": 9
+    },
+    {
+      "id": 546,
+      "index": 546,
+      "character": "IRIS",
+      "gender": "Female",
+      "line": "We better make it, or Sport'll get mad. How do you want to make it?",
+      "wordCount": 15
+    },
+    {
+      "id": 547,
+      "index": 547,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "I don't want to make it. I came here to get you out.",
+      "wordCount": 13
+    },
+    {
+      "id": 548,
+      "index": 548,
+      "character": "IRIS",
+      "gender": "Female",
+      "line": "You want to make it like this?",
+      "wordCount": 7
+    },
+    {
+      "id": 549,
+      "index": 549,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Can't you listen to me? Don't you want to get out of here?",
+      "wordCount": 13
+    },
+    {
+      "id": 550,
+      "index": 550,
+      "character": "IRIS",
+      "gender": "Female",
+      "line": "Why should I want to get out of here? This is where I live.",
+      "wordCount": 14
+    },
+    {
+      "id": 551,
+      "index": 551,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "But you're the one that wanted to get away. You're the one that came into my cab.",
+      "wordCount": 17
+    },
+    {
+      "id": 552,
+      "index": 552,
+      "character": "IRIS",
+      "gender": "Female",
+      "line": "I musta been stoned.",
+      "wordCount": 4
+    },
+    {
+      "id": 553,
+      "index": 553,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Do they drug you?",
+      "wordCount": 4
+    },
+    {
+      "id": 554,
+      "index": 554,
+      "character": "IRIS",
+      "gender": "Female",
+      "line": "Oh, come off it, man.",
+      "wordCount": 5
+    },
+    {
+      "id": 555,
+      "index": 555,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Listen...",
+      "wordCount": 1
+    },
+    {
+      "id": 556,
+      "index": 556,
+      "character": "IRIS",
+      "gender": "Female",
+      "line": "Don't you want to make it? Can't you make it?",
+      "wordCount": 10
+    },
+    {
+      "id": 557,
+      "index": 557,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "I want to help you.",
+      "wordCount": 5
+    },
+    {
+      "id": 558,
+      "index": 558,
+      "character": "IRIS",
+      "gender": "Female",
+      "line": "You can't make it, can you? I can help you.",
+      "wordCount": 10
+    },
+    {
+      "id": 559,
+      "index": 559,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Fuck it! Fuck it! Fuck it! Fuck it! Fuck it! Fuck it! Fuck it!",
+      "wordCount": 14
+    },
+    {
+      "id": 560,
+      "index": 560,
+      "character": "IRIS",
+      "gender": "Female",
+      "line": "You can do it in my mouth.",
+      "wordCount": 7
+    },
+    {
+      "id": 561,
+      "index": 561,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Don't you understand anything?",
+      "wordCount": 4
+    },
+    {
+      "id": 562,
+      "index": 562,
+      "character": "IRIS",
+      "gender": "Female",
+      "line": "You don't have to make it, mister.",
+      "wordCount": 7
+    },
+    {
+      "id": 563,
+      "index": 563,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Do you understand why I came here?",
+      "wordCount": 7
+    },
+    {
+      "id": 564,
+      "index": 564,
+      "character": "IRIS",
+      "gender": "Female",
+      "line": "I think so. I tried to get into your cab one night, and now you want to come and take me away.",
+      "wordCount": 22
+    },
+    {
+      "id": 565,
+      "index": 565,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Don't you want to go?",
+      "wordCount": 5
+    },
+    {
+      "id": 566,
+      "index": 566,
+      "character": "IRIS",
+      "gender": "Female",
+      "line": "I can leave anytime I want.",
+      "wordCount": 6
+    },
+    {
+      "id": 567,
+      "index": 567,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "But that one night?",
+      "wordCount": 4
+    },
+    {
+      "id": 568,
+      "index": 568,
+      "character": "IRIS",
+      "gender": "Female",
+      "line": "I was stoned. That's why they stopped me. When I'm not stoned, I got no place else to go. They just protect me from myself.",
+      "wordCount": 25
+    },
+    {
+      "id": 569,
+      "index": 569,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Well, I tried.",
+      "wordCount": 3
+    },
+    {
+      "id": 570,
+      "index": 570,
+      "character": "IRIS",
+      "gender": "Female",
+      "line": "I understand, mister. It means something, really.",
+      "wordCount": 7
+    },
+    {
+      "id": 571,
+      "index": 571,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Can I see you again?",
+      "wordCount": 5
+    },
+    {
+      "id": 572,
+      "index": 572,
+      "character": "IRIS",
+      "gender": "Female",
+      "line": "That's not hard to do.",
+      "wordCount": 5
+    },
+    {
+      "id": 573,
+      "index": 573,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "No, I mean really. This is nothing for a person to do.",
+      "wordCount": 12
+    },
+    {
+      "id": 574,
+      "index": 574,
+      "character": "IRIS",
+      "gender": "Female",
+      "line": "Sure. All right. We'll have breakfast. I get up about one o'clock. Tomorrow.",
+      "wordCount": 13
+    },
+    {
+      "id": 575,
+      "index": 575,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Well tomorrow noon there's a... I got a...",
+      "wordCount": 8
+    },
+    {
+      "id": 576,
+      "index": 576,
+      "character": "IRIS",
+      "gender": "Female",
+      "line": "Well, you want to or not?",
+      "wordCount": 6
+    },
+    {
+      "id": 577,
+      "index": 577,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "O.K. It's a date. I'll see you here, then.",
+      "wordCount": 9
+    },
+    {
+      "id": 578,
+      "index": 578,
+      "character": "TOM",
+      "gender": "Male",
+      "line": "Oh, Iris?",
+      "wordCount": 2
+    },
+    {
+      "id": 579,
+      "index": 579,
+      "character": "IRIS",
+      "gender": "Female",
+      "line": "Yes?",
+      "wordCount": 1
+    },
+    {
+      "id": 580,
+      "index": 580,
+      "character": "TOM",
+      "gender": "Male",
+      "line": "My name's Travis.",
+      "wordCount": 3
+    },
+    {
+      "id": 581,
+      "index": 581,
+      "character": "IRIS",
+      "gender": "Female",
+      "line": "Thank you, Travis.",
+      "wordCount": 3
+    },
+    {
+      "id": 582,
+      "index": 582,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "So long, Iris. Sweet Iris.",
+      "wordCount": 5
+    },
+    {
+      "id": 583,
+      "index": 583,
+      "character": "OLD MAN",
+      "gender": "NA",
+      "line": "I think this is yours, cowboy.",
+      "wordCount": 6
+    },
+    {
+      "id": 584,
+      "index": 584,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Here's the twenty bucks, old man. You better damn well spend it right.",
+      "wordCount": 13
+    },
+    {
+      "id": 585,
+      "index": 585,
+      "character": "OLD MAN",
+      "gender": "NA",
+      "line": "Come back anytime you want, cowboy. But without the rod -- please.",
+      "wordCount": 12
+    },
+    {
+      "id": 586,
+      "index": 586,
+      "character": "ASSISTANT",
+      "gender": "NA",
+      "line": "Well, at least it wasn't chicken.",
+      "wordCount": 6
+    },
+    {
+      "id": 587,
+      "index": 587,
+      "character": "PALANTINE",
+      "gender": "Male",
+      "line": "It wasn't? I thought it was. It tasted like chicken.",
+      "wordCount": 10
+    },
+    {
+      "id": 588,
+      "index": 588,
+      "character": "TOM",
+      "gender": "Male",
+      "line": "C'mon, Senator. That was a class dinner. The St. Regis is a class joint. That was veal.",
+      "wordCount": 17
+    },
+    {
+      "id": 589,
+      "index": 589,
+      "character": "PALANTINE",
+      "gender": "Male",
+      "line": "Was it? It sure tasted like chicken to me. Lately, everything tastes like chicken to me.",
+      "wordCount": 16
+    },
+    {
+      "id": 590,
+      "index": 590,
+      "character": "ASSISTANT",
+      "gender": "NA",
+      "line": "Everything? Got to watch your gut.",
+      "wordCount": 6
+    },
+    {
+      "id": 591,
+      "index": 591,
+      "character": "PALANTINE",
+      "gender": "Male",
+      "line": "What about it? I took 20 off before we started this thing.",
+      "wordCount": 12
+    },
+    {
+      "id": 592,
+      "index": 592,
+      "character": "ASSISTANT",
+      "gender": "NA",
+      "line": "And you've put ten of it back on.",
+      "wordCount": 8
+    },
+    {
+      "id": 593,
+      "index": 593,
+      "character": "PALANTINE",
+      "gender": "Male",
+      "line": "Ten? I don't think so. You really think so? Ten?",
+      "wordCount": 10
+    },
+    {
+      "id": 594,
+      "index": 594,
+      "character": "TOM",
+      "gender": "Male",
+      "line": "Those TV cameras do. I caught the rally on CBS. You looked a little paunchy.",
+      "wordCount": 15
+    },
+    {
+      "id": 595,
+      "index": 595,
+      "character": "PALANTINE",
+      "gender": "Male",
+      "line": "I don't think I gained ten pounds.",
+      "wordCount": 7
+    },
+    {
+      "id": 596,
+      "index": 596,
+      "character": "PALANTINE",
+      "gender": "Male",
+      "line": "Jesus Christ.",
+      "wordCount": 2
+    },
+    {
+      "id": 597,
+      "index": 597,
+      "character": "IRIS",
+      "gender": "Female",
+      "line": "... and after that Sport and I just started hanging out...",
+      "wordCount": 11
+    },
+    {
+      "id": 598,
+      "index": 598,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Where is home?",
+      "wordCount": 3
+    },
+    {
+      "id": 599,
+      "index": 599,
+      "character": "IRIS",
+      "gender": "Female",
+      "line": "I got so many sunglasses. I couldn't live without my shades, man. I must have twelve pair of shades.",
+      "wordCount": 19
+    },
+    {
+      "id": 600,
+      "index": 600,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Where?",
+      "wordCount": 1
+    },
+    {
+      "id": 601,
+      "index": 601,
+      "character": "IRIS",
+      "gender": "Female",
+      "line": "Pittsburgh.",
+      "wordCount": 1
+    },
+    {
+      "id": 602,
+      "index": 602,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "I ain't ever been there, but it don't seem like such a bad place.",
+      "wordCount": 14
+    },
+    {
+      "id": 603,
+      "index": 603,
+      "character": "IRIS",
+      "gender": "Female",
+      "line": "Why do you want me to go back to my parents? They hate me. Why do you think I split? There ain't nothin there.",
+      "wordCount": 24
+    },
+    {
+      "id": 604,
+      "index": 604,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "But you can't live like this. It's hell. Girls should live at home.",
+      "wordCount": 13
+    },
+    {
+      "id": 605,
+      "index": 605,
+      "character": "IRIS",
+      "gender": "Female",
+      "line": "Didn't you ever hear of women's lib?",
+      "wordCount": 7
+    },
+    {
+      "id": 606,
+      "index": 606,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Young girls are supposed to dress up, go to school, play with boys, you know, that kinda stuff.",
+      "wordCount": 18
+    },
+    {
+      "id": 607,
+      "index": 607,
+      "character": "IRIS",
+      "gender": "Female",
+      "line": "God, you are square.",
+      "wordCount": 4
+    },
+    {
+      "id": 608,
+      "index": 608,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "At least I don't walk the streets like a skunk pussy. I don't screw and fuck with killers and junkies.",
+      "wordCount": 20
+    },
+    {
+      "id": 609,
+      "index": 609,
+      "character": "IRIS",
+      "gender": "Female",
+      "line": "Who's a killer?",
+      "wordCount": 3
+    },
+    {
+      "id": 610,
+      "index": 610,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "That fella \"Sport\" looks like a killer to me.",
+      "wordCount": 9
+    },
+    {
+      "id": 611,
+      "index": 611,
+      "character": "IRIS",
+      "gender": "Female",
+      "line": "He never killed nobody. He's a Libra.",
+      "wordCount": 7
+    },
+    {
+      "id": 612,
+      "index": 612,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Huh?",
+      "wordCount": 1
+    },
+    {
+      "id": 613,
+      "index": 613,
+      "character": "IRIS",
+      "gender": "Female",
+      "line": "I'm a Libra too. That's why we get along so well.",
+      "wordCount": 11
+    },
+    {
+      "id": 614,
+      "index": 614,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "He looks like a killer.",
+      "wordCount": 5
+    },
+    {
+      "id": 615,
+      "index": 615,
+      "character": "IRIS",
+      "gender": "Female",
+      "line": "I think Cancer's make the best lovers. My whole family are air signs.",
+      "wordCount": 13
+    },
+    {
+      "id": 616,
+      "index": 616,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "He shoots dope too.",
+      "wordCount": 4
+    },
+    {
+      "id": 617,
+      "index": 617,
+      "character": "IRIS",
+      "gender": "Female",
+      "line": "What makes you so high and mighty? Did you ever look at your own eyeballs in a mirror. You don't get eyes like that from...",
+      "wordCount": 25
+    },
+    {
+      "id": 618,
+      "index": 618,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "He's worse than an animal. Jail's too good for scum like that.",
+      "wordCount": 12
+    },
+    {
+      "id": 619,
+      "index": 619,
+      "character": "IRIS",
+      "gender": "Female",
+      "line": "Rock music died in 1970, that's what I think. Before that it was fantastic. I can tell you that. Everybody was crashing, hanging out at the Fillmore. Me and my girlfriend Ann used to go up the fire escape, you know? It was unbelievable. Rock Stars everywhere. That Airplane--that's my group, man. All Libras. But now everybody's split or got sick or busted. I think I'll move to one of those communes in Vermont, you know? That's where all the smart ones went. I stayed here.",
+      "wordCount": 86
+    },
+    {
+      "id": 620,
+      "index": 620,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "I never been to a commune. I don't know. I saw pictures in a magazine, and it didn't look very clean to me.",
+      "wordCount": 23
+    },
+    {
+      "id": 621,
+      "index": 621,
+      "character": "IRIS",
+      "gender": "Female",
+      "line": "Why don't you come to a commune with me?",
+      "wordCount": 9
+    },
+    {
+      "id": 622,
+      "index": 622,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Me? I could never go to a place like that.",
+      "wordCount": 10
+    },
+    {
+      "id": 623,
+      "index": 623,
+      "character": "IRIS",
+      "gender": "Female",
+      "line": "Why not?",
+      "wordCount": 2
+    },
+    {
+      "id": 624,
+      "index": 624,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "I... I don't get along with people like that.",
+      "wordCount": 9
+    },
+    {
+      "id": 625,
+      "index": 625,
+      "character": "IRIS",
+      "gender": "Female",
+      "line": "You a scorpion? That's it. You're a scorpion. I can tell.",
+      "wordCount": 11
+    },
+    {
+      "id": 626,
+      "index": 626,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Besides, I've got to stay here.",
+      "wordCount": 6
+    },
+    {
+      "id": 627,
+      "index": 627,
+      "character": "IRIS",
+      "gender": "Female",
+      "line": "Why?",
+      "wordCount": 1
+    },
+    {
+      "id": 628,
+      "index": 628,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "I've got something important to do. I can't leave.",
+      "wordCount": 9
+    },
+    {
+      "id": 629,
+      "index": 629,
+      "character": "IRIS",
+      "gender": "Female",
+      "line": "What's so important?",
+      "wordCount": 3
+    },
+    {
+      "id": 630,
+      "index": 630,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "I can't say -- it's top secret. I'm doing something for the Army. The cab thing is just part time.",
+      "wordCount": 20
+    },
+    {
+      "id": 631,
+      "index": 631,
+      "character": "IRIS",
+      "gender": "Female",
+      "line": "You a narc?",
+      "wordCount": 3
+    },
+    {
+      "id": 632,
+      "index": 632,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Do I look like a narc?",
+      "wordCount": 6
+    },
+    {
+      "id": 633,
+      "index": 633,
+      "character": "IRIS",
+      "gender": "Female",
+      "line": "Yeah.",
+      "wordCount": 1
+    },
+    {
+      "id": 634,
+      "index": 634,
+      "character": "IRIS",
+      "gender": "Female",
+      "line": "God, I don't know who's weirder, you or me.",
+      "wordCount": 9
+    },
+    {
+      "id": 635,
+      "index": 635,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "What are you going to do about Sport and that old bastard?",
+      "wordCount": 12
+    },
+    {
+      "id": 636,
+      "index": 636,
+      "character": "IRIS",
+      "gender": "Female",
+      "line": "Just leave'em. There's plenty of other girls.",
+      "wordCount": 7
+    },
+    {
+      "id": 637,
+      "index": 637,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "You just gonna leave 'em?",
+      "wordCount": 5
+    },
+    {
+      "id": 638,
+      "index": 638,
+      "character": "IRIS",
+      "gender": "Female",
+      "line": "What should I do? Call the cops?",
+      "wordCount": 7
+    },
+    {
+      "id": 639,
+      "index": 639,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Cops don't do nothin.",
+      "wordCount": 4
+    },
+    {
+      "id": 640,
+      "index": 640,
+      "character": "IRIS",
+      "gender": "Female",
+      "line": "Sport never treated me bad, honest. Never beat me up once.",
+      "wordCount": 11
+    },
+    {
+      "id": 641,
+      "index": 641,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "You can't leave 'em to do the same to other girls. You should get rid of them.",
+      "wordCount": 17
+    },
+    {
+      "id": 642,
+      "index": 642,
+      "character": "IRIS",
+      "gender": "Female",
+      "line": "How?",
+      "wordCount": 1
+    },
+    {
+      "id": 643,
+      "index": 643,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "I don't know. Just should, though. Somebody should kill 'em. Nobody'd miss 'em.",
+      "wordCount": 13
+    },
+    {
+      "id": 644,
+      "index": 644,
+      "character": "IRIS",
+      "gender": "Female",
+      "line": "God. I know where they should have a commune for you. They should have a commune for you at Bellevue.",
+      "wordCount": 20
+    },
+    {
+      "id": 645,
+      "index": 645,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "I'm sorry, Iris. I didn't mean that.",
+      "wordCount": 7
+    },
+    {
+      "id": 646,
+      "index": 646,
+      "character": "IRIS",
+      "gender": "Female",
+      "line": "You're not much with girls, are you?",
+      "wordCount": 7
+    },
+    {
+      "id": 647,
+      "index": 647,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Well, Iris, I look at it this way. A lot of girls come into my cab, some of them very beautiful. And I figure all day long men have been after them: trying to touch them, talk to them, ask them out. And they hate it. So I figure the best I can do for them is not bother them at all. So I don't say a thing. I pretend I'm not even there. I figure they'll understand that and appreciate me for it.",
+      "wordCount": 84
+    },
+    {
+      "id": 648,
+      "index": 648,
+      "character": "IRIS",
+      "gender": "Female",
+      "line": "Do you really think I should go to the commune?",
+      "wordCount": 10
+    },
+    {
+      "id": 649,
+      "index": 649,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "I think you should go home, but otherwise I think you should go. It would be great for you. You have to get away from here. The city's a sewer, you gotta get out of it.",
+      "wordCount": 36
+    },
+    {
+      "id": 650,
+      "index": 650,
+      "character": "IRIS",
+      "gender": "Female",
+      "line": "Sure you don't want to come with me?",
+      "wordCount": 8
+    },
+    {
+      "id": 651,
+      "index": 651,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "I can't. Otherwise, I would.",
+      "wordCount": 5
+    },
+    {
+      "id": 652,
+      "index": 652,
+      "character": "IRIS",
+      "gender": "Female",
+      "line": "I sure hate to go alone...",
+      "wordCount": 6
+    },
+    {
+      "id": 653,
+      "index": 653,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "I'll give you the money to go. I don't want you to take any from those guys.",
+      "wordCount": 17
+    },
+    {
+      "id": 654,
+      "index": 654,
+      "character": "IRIS",
+      "gender": "Female",
+      "line": "You don't have to.",
+      "wordCount": 4
+    },
+    {
+      "id": 655,
+      "index": 655,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "I want to -- what else can I do with my money? You may not see me again--for a while.",
+      "wordCount": 20
+    },
+    {
+      "id": 656,
+      "index": 656,
+      "character": "IRIS",
+      "gender": "Female",
+      "line": "What do you mean?",
+      "wordCount": 4
+    },
+    {
+      "id": 657,
+      "index": 657,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "My work may take me out of New York.",
+      "wordCount": 9
+    },
+    {
+      "id": 658,
+      "index": 658,
+      "character": "SPORT",
+      "gender": "NA",
+      "line": "What's the matter, baby, don't you feel right?",
+      "wordCount": 8
+    },
+    {
+      "id": 659,
+      "index": 659,
+      "character": "IRIS",
+      "gender": "Female",
+      "line": "It's my stomach. I got the flu.",
+      "wordCount": 7
+    },
+    {
+      "id": 660,
+      "index": 660,
+      "character": "SPORT",
+      "gender": "NA",
+      "line": "Oh, baby, there ain't no flu. You know that, baby.",
+      "wordCount": 10
+    },
+    {
+      "id": 661,
+      "index": 661,
+      "character": "IRIS",
+      "gender": "Female",
+      "line": "Honest, Sport.",
+      "wordCount": 2
+    },
+    {
+      "id": 662,
+      "index": 662,
+      "character": "SPORT",
+      "gender": "NA",
+      "line": "You're just tired, baby. You just need your man. I am your man, you know. You are my woman. I wouldn't be nothing without you.",
+      "wordCount": 25
+    },
+    {
+      "id": 663,
+      "index": 663,
+      "character": "SPORT",
+      "gender": "NA",
+      "line": "I know this may not mean anything to you, baby, but sometimes I get so emotional, sometimes I think, I wish every man could have what I have now, that every woman could be loved the way I love you. I go home and I think what it would be without you, and then I thank God for you. I think to myself, man, you are so lucky. You got a woman who loves you, who needs you, a woman who keeps you strong. It's just you and me. I'm nothing without you. I can go like this for ever and ever. We can do it, baby. You and me. Just you and me.",
+      "wordCount": 114
+    },
+    {
+      "id": 664,
+      "index": 664,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "My whole life has pointed in one direction. I see that now. There never has been any choice for me.",
+      "wordCount": 20
+    },
+    {
+      "id": 665,
+      "index": 665,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Loneliness has followed me all my life. The life of loneliness pursues me wherever I go: in bars, cars, coffee shops, theaters, stores, sidewalks. There is no escape. I am God's lonely man.",
+      "wordCount": 33
+    },
+    {
+      "id": 666,
+      "index": 666,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "I am not a fool. I will no longer fool myself. I will no longer let myself fall apart, become a joke and object of ridicule. I know there is no longer any hope. I cannot continue this hollow, empty fight. I must sleep. What hope is there for me?",
+      "wordCount": 50
+    },
+    {
+      "id": 667,
+      "index": 667,
+      "character": "PALANTINE",
+      "gender": "Male",
+      "line": "... and with your help we will go on to victry at the polls Tuesday.",
+      "wordCount": 15
+    },
+    {
+      "id": 668,
+      "index": 668,
+      "character": "PALANTINE",
+      "gender": "Male",
+      "line": "On to victory in Miami Beach next month and on to victory next November!",
+      "wordCount": 14
+    },
+    {
+      "id": 669,
+      "index": 669,
+      "character": "SECRET SERVICE MAN",
+      "gender": "Male",
+      "line": "Detain that man!",
+      "wordCount": 3
+    },
+    {
+      "id": 670,
+      "index": 670,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Hey, Sport. How are things?",
+      "wordCount": 5
+    },
+    {
+      "id": 671,
+      "index": 671,
+      "character": "SPORT",
+      "gender": "NA",
+      "line": "O.K., cowboy.",
+      "wordCount": 2
+    },
+    {
+      "id": 672,
+      "index": 672,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "How are things in the pimp business, hey Sport?",
+      "wordCount": 9
+    },
+    {
+      "id": 673,
+      "index": 673,
+      "character": "SPORT",
+      "gender": "NA",
+      "line": "What's going on?",
+      "wordCount": 3
+    },
+    {
+      "id": 674,
+      "index": 674,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "I'm here to see Iris.",
+      "wordCount": 5
+    },
+    {
+      "id": 675,
+      "index": 675,
+      "character": "SPORT",
+      "gender": "NA",
+      "line": "Iris?",
+      "wordCount": 1
+    },
+    {
+      "id": 676,
+      "index": 676,
+      "character": "SPORT",
+      "gender": "NA",
+      "line": "Wha -- ?",
+      "wordCount": 3
+    },
+    {
+      "id": 677,
+      "index": 677,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Yeah, Iris. You know anybody by that name?",
+      "wordCount": 8
+    },
+    {
+      "id": 678,
+      "index": 678,
+      "character": "SPORT",
+      "gender": "NA",
+      "line": "No. Hillbilly, you'd better get your wise ass outa here and quick, or you're gonna be in trouble.",
+      "wordCount": 18
+    },
+    {
+      "id": 679,
+      "index": 679,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "You carry a gun?",
+      "wordCount": 4
+    },
+    {
+      "id": 680,
+      "index": 680,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Get it.",
+      "wordCount": 2
+    },
+    {
+      "id": 681,
+      "index": 681,
+      "character": "SPORT",
+      "gender": "NA",
+      "line": "Hey, mister, I don't know what's going on here. This don't make any sense.",
+      "wordCount": 14
+    },
+    {
+      "id": 682,
+      "index": 682,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Show it to me.",
+      "wordCount": 4
+    },
+    {
+      "id": 683,
+      "index": 683,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Now suck on that.",
+      "wordCount": 4
+    },
+    {
+      "id": 684,
+      "index": 684,
+      "character": "OLD MAN",
+      "gender": "NA",
+      "line": "Don't kill me! Don't kill me!",
+      "wordCount": 6
+    },
+    {
+      "id": 685,
+      "index": 685,
+      "character": "IRIS",
+      "gender": "Female",
+      "line": "Don't kill him, Travis! Don't kill him!",
+      "wordCount": 7
+    },
+    {
+      "id": 686,
+      "index": 686,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Pgghew! Pgghew!",
+      "wordCount": 2
+    },
+    {
+      "id": 687,
+      "index": 687,
+      "character": "IRIS' FATHER",
+      "gender": "NA",
+      "line": "Dear Mr. Bickle,",
+      "wordCount": 3
+    },
+    {
+      "id": 688,
+      "index": 688,
+      "character": "WIZARD",
+      "gender": "Male",
+      "line": "A private-owner wanted to swap wheels. Now my tires were brand new. \"Give me a couple days,\" I says.",
+      "wordCount": 19
+    },
+    {
+      "id": 689,
+      "index": 689,
+      "character": "CHARLIE T",
+      "gender": "NA",
+      "line": "Howdy Wizard, Killer.",
+      "wordCount": 3
+    },
+    {
+      "id": 690,
+      "index": 690,
+      "character": "CHARLIE T",
+      "gender": "NA",
+      "line": "Don't mess with the Killer.",
+      "wordCount": 5
+    },
+    {
+      "id": 691,
+      "index": 691,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Hey Charlie T.",
+      "wordCount": 3
+    },
+    {
+      "id": 692,
+      "index": 692,
+      "character": "WIZARD",
+      "gender": "Male",
+      "line": "Howsit, Charlie? Hey Travis, I think you gota fare.",
+      "wordCount": 9
+    },
+    {
+      "id": 693,
+      "index": 693,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Shit.",
+      "wordCount": 1
+    },
+    {
+      "id": 694,
+      "index": 694,
+      "character": "CHARLIE T",
+      "gender": "NA",
+      "line": "Take it slow, Killer.",
+      "wordCount": 4
+    },
+    {
+      "id": 695,
+      "index": 695,
+      "character": "FEMALE VOICE",
+      "gender": "NA",
+      "line": "34 East 56th Street.",
+      "wordCount": 4
+    },
+    {
+      "id": 696,
+      "index": 696,
+      "character": "BETSY",
+      "gender": "Female",
+      "line": "Hello, Travis.",
+      "wordCount": 2
+    },
+    {
+      "id": 697,
+      "index": 697,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Hello, Betsy.",
+      "wordCount": 2
+    },
+    {
+      "id": 698,
+      "index": 698,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "I see where Palantine got the nomination.",
+      "wordCount": 7
+    },
+    {
+      "id": 699,
+      "index": 699,
+      "character": "BETSY",
+      "gender": "Female",
+      "line": "Yes. It won't be long now. Seventeen days.",
+      "wordCount": 8
+    },
+    {
+      "id": 700,
+      "index": 700,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Well, I hope he wins.",
+      "wordCount": 5
+    },
+    {
+      "id": 701,
+      "index": 701,
+      "character": "BETSY",
+      "gender": "Female",
+      "line": "How are you, Travis? I read about you in the papers.",
+      "wordCount": 11
+    },
+    {
+      "id": 702,
+      "index": 702,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Oh, I got over that. It was nothing, really. The papers always blow these things up. A little stiffness. That'll go away. I just sleep more, that's all.",
+      "wordCount": 28
+    },
+    {
+      "id": 703,
+      "index": 703,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Here we are.",
+      "wordCount": 3
+    },
+    {
+      "id": 704,
+      "index": 704,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "No, no, please. This fare's on me. Please.",
+      "wordCount": 8
+    },
+    {
+      "id": 705,
+      "index": 705,
+      "character": "BETSY",
+      "gender": "Female",
+      "line": "Thank you, Travis.",
+      "wordCount": 3
+    },
+    {
+      "id": 706,
+      "index": 706,
+      "character": "BETSY",
+      "gender": "Female",
+      "line": "Travis?",
+      "wordCount": 1
+    },
+    {
+      "id": 707,
+      "index": 707,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Yeah.",
+      "wordCount": 1
+    },
+    {
+      "id": 708,
+      "index": 708,
+      "character": "BETSY",
+      "gender": "Female",
+      "line": "Maybe I'll see you again sometime, huh?",
+      "wordCount": 7
+    },
+    {
+      "id": 709,
+      "index": 709,
+      "character": "TRAVIS",
+      "gender": "Male",
+      "line": "Sure.",
+      "wordCount": 1
+    },
+    {
+      "id": 710,
+      "index": 710,
+      "character": "",
+      "gender": "Male"
+    }
+  ]
+}

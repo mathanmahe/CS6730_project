@@ -1,0 +1,5004 @@
+{
+  "fileName": "Dances-with-Wolves_dialogue.txt",
+  "title": "Dances with Wolves",
+  "data": [
+    {
+      "id": 0,
+      "index": 0,
+      "character": "PEPPER",
+      "gender": "Male",
+      "line": "Lieutenant... izat you?",
+      "wordCount": 3
+    },
+    {
+      "id": 1,
+      "index": 1,
+      "character": "PEPPER",
+      "gender": "Male",
+      "line": "What're you doing here lieutenant?",
+      "wordCount": 5
+    },
+    {
+      "id": 2,
+      "index": 2,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "This is where I belong... this is my outfit.",
+      "wordCount": 9
+    },
+    {
+      "id": 3,
+      "index": 3,
+      "character": "PEPPER",
+      "gender": "Male",
+      "line": "You went to hospital?",
+      "wordCount": 4
+    },
+    {
+      "id": 4,
+      "index": 4,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "It was no good... what's going on here?",
+      "wordCount": 8
+    },
+    {
+      "id": 5,
+      "index": 5,
+      "character": "PEPPER",
+      "gender": "Male",
+      "line": "Better come to cover lieutenant... those boys are shooters.",
+      "wordCount": 9
+    },
+    {
+      "id": 6,
+      "index": 6,
+      "character": "PEPPER",
+      "gender": "Male",
+      "line": "What's goin' on here... seems to be the question alright... you could ask the major but he don't know. He's busy tryin' to figger out how come the officer's mess run outta peach ice cream...",
+      "wordCount": 35
+    },
+    {
+      "id": 7,
+      "index": 7,
+      "character": "PEPPER",
+      "gender": "Male",
+      "line": "General's come up to see the show but all he knows is there ain't no show...",
+      "wordCount": 16
+    },
+    {
+      "id": 8,
+      "index": 8,
+      "character": "PEPPER",
+      "gender": "Male",
+      "line": "We started a balloon up but they shot her down fore she was ten feet off the ground... so nobody's made a run either way. It's been a stand- off all damn day... and now... the major, he's lookin' at the general and he's thinkin' I better do somethin', and you know what that means...",
+      "wordCount": 55
+    },
+    {
+      "id": 9,
+      "index": 9,
+      "character": "PEPPER",
+      "gender": "Male",
+      "line": "They're 'sposed to be beat up just like us but everybody knows that Tucker's men are tough as cobs. I sure don't wanna die out there with them cows.",
+      "wordCount": 29
+    },
+    {
+      "id": 10,
+      "index": 10,
+      "character": "PEPPER",
+      "gender": "Male",
+      "line": "Some of the boys are sayin' that if we ain't gonna fight we could just settle the whole business with a little high stakes poker. Wouldn't that be a sight... a bunch of fellas sittin' in the middle of this field drawin' cards...",
+      "wordCount": 43
+    },
+    {
+      "id": 11,
+      "index": 11,
+      "character": "RAY",
+      "gender": "NA",
+      "line": "Tucker!",
+      "wordCount": 1
+    },
+    {
+      "id": 12,
+      "index": 12,
+      "character": "AIDE",
+      "gender": "NA",
+      "line": "What is it sir?",
+      "wordCount": 4
+    },
+    {
+      "id": 13,
+      "index": 13,
+      "character": "TIDE",
+      "gender": "NA",
+      "line": "Looks like a suicide.",
+      "wordCount": 4
+    },
+    {
+      "id": 14,
+      "index": 14,
+      "character": "CONFEDERATE",
+      "gender": "NA",
+      "line": "Come on you son of a bitch -- you won't make it a second time...",
+      "wordCount": 15
+    },
+    {
+      "id": 15,
+      "index": 15,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "Alright by me.",
+      "wordCount": 3
+    },
+    {
+      "id": 16,
+      "index": 16,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "Forgive me Father.",
+      "wordCount": 3
+    },
+    {
+      "id": 17,
+      "index": 17,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "Don't take off my foot.",
+      "wordCount": 5
+    },
+    {
+      "id": 18,
+      "index": 18,
+      "character": "GENERAL TIDE",
+      "gender": "NA",
+      "line": "You rest easy son... you'll keep you're foot. As God is my judge, you'll keep it.",
+      "wordCount": 16
+    },
+    {
+      "id": 19,
+      "index": 19,
+      "character": "GENERAL TIDE",
+      "gender": "NA",
+      "line": "Bring up my ambulance...",
+      "wordCount": 4
+    },
+    {
+      "id": 20,
+      "index": 20,
+      "character": "AIDE",
+      "gender": "NA",
+      "line": "Sir?",
+      "wordCount": 1
+    },
+    {
+      "id": 21,
+      "index": 21,
+      "character": "GENERAL TIDE",
+      "gender": "NA",
+      "line": "Bring up my ambulance. And bring my surgeon with it. We've got an officer who's worth something lying here.",
+      "wordCount": 19
+    },
+    {
+      "id": 22,
+      "index": 22,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "The strangeness of this life cannot be measured. In trying to produce my own death, I was elevated to the status of a living hero.",
+      "wordCount": 25
+    },
+    {
+      "id": 23,
+      "index": 23,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "Where can I find Major... Fambrough?",
+      "wordCount": 6
+    },
+    {
+      "id": 24,
+      "index": 24,
+      "character": "ELGIN",
+      "gender": "Male",
+      "line": "Turn right... all the way to the end of the hall.",
+      "wordCount": 11
+    },
+    {
+      "id": 25,
+      "index": 25,
+      "character": "FAMBROUGH",
+      "gender": "Male",
+      "line": "Lt. John J. Dunbar.",
+      "wordCount": 4
+    },
+    {
+      "id": 26,
+      "index": 26,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "Sir?",
+      "wordCount": 1
+    },
+    {
+      "id": 27,
+      "index": 27,
+      "character": "FAMBROUGH",
+      "gender": "Male",
+      "line": "Lt. John J. Dunbar.",
+      "wordCount": 4
+    },
+    {
+      "id": 28,
+      "index": 28,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "Yes sir?",
+      "wordCount": 2
+    },
+    {
+      "id": 29,
+      "index": 29,
+      "character": "FAMBROUGH",
+      "gender": "Male",
+      "line": "Indian fighter, huh?",
+      "wordCount": 3
+    },
+    {
+      "id": 30,
+      "index": 30,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "Excuse me?",
+      "wordCount": 2
+    },
+    {
+      "id": 31,
+      "index": 31,
+      "character": "FAMBROUGH",
+      "gender": "Male",
+      "line": "Your orders say you are to be posted on the frontier. The frontier is Indian country. I quickly deduced that you are an Indian fighter.",
+      "wordCount": 25
+    },
+    {
+      "id": 32,
+      "index": 32,
+      "character": "FAMBROUGH",
+      "gender": "Male",
+      "line": "I did not ascend to this position by being stupid.",
+      "wordCount": 10
+    },
+    {
+      "id": 33,
+      "index": 33,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "No sir.",
+      "wordCount": 2
+    },
+    {
+      "id": 34,
+      "index": 34,
+      "character": "FAMBROUGH",
+      "gender": "Male",
+      "line": "It says here you've been decorated.",
+      "wordCount": 6
+    },
+    {
+      "id": 35,
+      "index": 35,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "Yes sir.",
+      "wordCount": 2
+    },
+    {
+      "id": 36,
+      "index": 36,
+      "character": "FAMBROUGH",
+      "gender": "Male",
+      "line": "And they sent you out here to be posted?",
+      "wordCount": 9
+    },
+    {
+      "id": 37,
+      "index": 37,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "Actually sir, I'm here at my own request... I want to see the frontier.",
+      "wordCount": 14
+    },
+    {
+      "id": 38,
+      "index": 38,
+      "character": "FAMBROUGH",
+      "gender": "Male",
+      "line": "You want to see the frontier?",
+      "wordCount": 6
+    },
+    {
+      "id": 39,
+      "index": 39,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "Yes sir... before it's gone.",
+      "wordCount": 5
+    },
+    {
+      "id": 40,
+      "index": 40,
+      "character": "FAMBROUGH",
+      "gender": "Male",
+      "line": "Such a smart lad coming straight to me.",
+      "wordCount": 8
+    },
+    {
+      "id": 41,
+      "index": 41,
+      "character": "FAMBROUGH",
+      "gender": "Male",
+      "line": "Sir Knight, I am sending you on a knight's errand. You will report to Captain Cargill at the furthermost outpost of the realm... Fort Sedgewick.",
+      "wordCount": 25
+    },
+    {
+      "id": 42,
+      "index": 42,
+      "character": "FAMBROUGH",
+      "gender": "Male",
+      "line": "My personal seal will assure you safe passage through many miles of wild hostile country.",
+      "wordCount": 15
+    },
+    {
+      "id": 43,
+      "index": 43,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "I'm wondering sir, how will I be getting there?",
+      "wordCount": 9
+    },
+    {
+      "id": 44,
+      "index": 44,
+      "character": "FAMBROUGH",
+      "gender": "Male",
+      "line": "You think I don't know?",
+      "wordCount": 5
+    },
+    {
+      "id": 45,
+      "index": 45,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "No sir, it's just that I don't know.",
+      "wordCount": 8
+    },
+    {
+      "id": 46,
+      "index": 46,
+      "character": "FAMBROUGH",
+      "gender": "Male",
+      "line": "Hold your tongue.",
+      "wordCount": 3
+    },
+    {
+      "id": 47,
+      "index": 47,
+      "character": "FAMBROUGH",
+      "gender": "Male",
+      "line": "I'm in a generous mood and will grant your boon. You see that peasant... he calls himself Timmons... he leaves this very afternoon for your Fort Sedgewick. Ride with him if you like... he knows the way. That is all.",
+      "wordCount": 40
+    },
+    {
+      "id": 48,
+      "index": 48,
+      "character": "FAMBROUGH",
+      "gender": "Male",
+      "line": "Sir Knight...",
+      "wordCount": 2
+    },
+    {
+      "id": 49,
+      "index": 49,
+      "character": "FAMBROUGH",
+      "gender": "Male",
+      "line": "I just pissed in my pants... and nobody can do anything about it.",
+      "wordCount": 13
+    },
+    {
+      "id": 50,
+      "index": 50,
+      "character": "FAMBROUGH",
+      "gender": "Male",
+      "line": "Noooo, noooo...",
+      "wordCount": 2
+    },
+    {
+      "id": 51,
+      "index": 51,
+      "character": "ELGIN",
+      "gender": "Male",
+      "line": "It's alright Major.",
+      "wordCount": 3
+    },
+    {
+      "id": 52,
+      "index": 52,
+      "character": "SERGEANT",
+      "gender": "Male",
+      "line": "Leave him alone lieutenant... he's cracked.",
+      "wordCount": 6
+    },
+    {
+      "id": 53,
+      "index": 53,
+      "character": "FAMBROUGH",
+      "gender": "Male",
+      "line": "Nooo, nooo...",
+      "wordCount": 2
+    },
+    {
+      "id": 54,
+      "index": 54,
+      "character": "ELGIN",
+      "gender": "Male",
+      "line": "Don't sergeant.",
+      "wordCount": 2
+    },
+    {
+      "id": 55,
+      "index": 55,
+      "character": "FAMBROUGH",
+      "gender": "Male",
+      "line": "Are you deaf fool. I said I'll have my crown this instant... this instant!",
+      "wordCount": 14
+    },
+    {
+      "id": 56,
+      "index": 56,
+      "character": "ELGIN",
+      "gender": "Male",
+      "line": "Let's have the pistol.",
+      "wordCount": 4
+    },
+    {
+      "id": 57,
+      "index": 57,
+      "character": "SERGEANT",
+      "gender": "Male",
+      "line": "Don't do it.",
+      "wordCount": 3
+    },
+    {
+      "id": 58,
+      "index": 58,
+      "character": "FAMBROUGH",
+      "gender": "Male",
+      "line": "The king is dead... long live the king.",
+      "wordCount": 8
+    },
+    {
+      "id": 59,
+      "index": 59,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "Were it not for my companion I believe I would be having the time of my life. He is quite possibly the foulest person I have ever met.",
+      "wordCount": 28
+    },
+    {
+      "id": 60,
+      "index": 60,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "We have been gone four days now and still we have seen no signs of life. Only earth and sky.",
+      "wordCount": 20
+    },
+    {
+      "id": 61,
+      "index": 61,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "How far do you make the fort?",
+      "wordCount": 7
+    },
+    {
+      "id": 62,
+      "index": 62,
+      "character": "TIMMONS",
+      "gender": "Male",
+      "line": "Far.",
+      "wordCount": 1
+    },
+    {
+      "id": 63,
+      "index": 63,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "How far?",
+      "wordCount": 2
+    },
+    {
+      "id": 64,
+      "index": 64,
+      "character": "TIMMONS",
+      "gender": "Male",
+      "line": "Forty or fifty miles, maybe... what's the big hurry on Sedgewick?",
+      "wordCount": 11
+    },
+    {
+      "id": 65,
+      "index": 65,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "It's going to be my post... my home.",
+      "wordCount": 8
+    },
+    {
+      "id": 66,
+      "index": 66,
+      "character": "TIMMONS",
+      "gender": "Male",
+      "line": "You ain't hard to please, I'll say that.",
+      "wordCount": 8
+    },
+    {
+      "id": 67,
+      "index": 67,
+      "character": "TIMMONS",
+      "gender": "Male",
+      "line": "Look yonder.",
+      "wordCount": 2
+    },
+    {
+      "id": 68,
+      "index": 68,
+      "character": "TIMMONS",
+      "gender": "Male",
+      "line": "Somebody back east is sayin'... \"why don't he write?\" Stupid bastard.",
+      "wordCount": 11
+    },
+    {
+      "id": 69,
+      "index": 69,
+      "character": "CARGILL",
+      "gender": "NA",
+      "line": "Corporal Guest... Corporal Guest... Corporal Guest. Corporal Guest, you don't have to talk to me... just please come out.",
+      "wordCount": 19
+    },
+    {
+      "id": 70,
+      "index": 70,
+      "character": "CARGILL",
+      "gender": "NA",
+      "line": "It's the end... assemble the men in front of my quarters.",
+      "wordCount": 11
+    },
+    {
+      "id": 71,
+      "index": 71,
+      "character": "CARGILL",
+      "gender": "NA",
+      "line": "You hate me... but I feel none of the same for you... you men stayed. You stayed after they took all our horses. You stayed after all the others deserted. You stayed on the promise that the army would resupply us. I've looked for that wagon from Fort Hays just as you have... day after miserable day. All I can say is that I'm proud of you. Get your things men, we're leaving this place. The army... can go to hell.",
+      "wordCount": 81
+    },
+    {
+      "id": 72,
+      "index": 72,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "Timmons... Timmons.",
+      "wordCount": 2
+    },
+    {
+      "id": 73,
+      "index": 73,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "Timmons.",
+      "wordCount": 1
+    },
+    {
+      "id": 74,
+      "index": 74,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "Something's out there...",
+      "wordCount": 3
+    },
+    {
+      "id": 75,
+      "index": 75,
+      "character": "TIMMONS",
+      "gender": "Male",
+      "line": "Somethin' dead.",
+      "wordCount": 2
+    },
+    {
+      "id": 76,
+      "index": 76,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "Might have a look.",
+      "wordCount": 4
+    },
+    {
+      "id": 77,
+      "index": 77,
+      "character": "TIMMONS",
+      "gender": "Male",
+      "line": "Might stay clear of whatever did the killin'.",
+      "wordCount": 8
+    },
+    {
+      "id": 78,
+      "index": 78,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "How come we haven't seen any buffalo?",
+      "wordCount": 7
+    },
+    {
+      "id": 79,
+      "index": 79,
+      "character": "TIMMONS",
+      "gender": "Male",
+      "line": "Can't figger the stinkin' buffalo. Sometimes you don't see 'em for days, sometimes they're thick as curls on a whore.",
+      "wordCount": 20
+    },
+    {
+      "id": 80,
+      "index": 80,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "What about Indians?",
+      "wordCount": 3
+    },
+    {
+      "id": 81,
+      "index": 81,
+      "character": "TIMMONS",
+      "gender": "Male",
+      "line": "Goddamn Indians you'd jus' as soon not see, lessen the bastards're dead. Nothing but thieves and beggars.",
+      "wordCount": 17
+    },
+    {
+      "id": 82,
+      "index": 82,
+      "character": "TIMMONS",
+      "gender": "Male",
+      "line": "Not what you'd call a going concern.",
+      "wordCount": 7
+    },
+    {
+      "id": 83,
+      "index": 83,
+      "character": "TIMMONS",
+      "gender": "Male",
+      "line": "Ain't nothin' here lieutenant.",
+      "wordCount": 4
+    },
+    {
+      "id": 84,
+      "index": 84,
+      "character": "TIMMONS",
+      "gender": "Male",
+      "line": "Everybody's run off... or got kilt.",
+      "wordCount": 6
+    },
+    {
+      "id": 85,
+      "index": 85,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "Alright...lets unload the wagon.",
+      "wordCount": 4
+    },
+    {
+      "id": 86,
+      "index": 86,
+      "character": "TIMMONS",
+      "gender": "Male",
+      "line": "What, and leave it all here?",
+      "wordCount": 6
+    },
+    {
+      "id": 87,
+      "index": 87,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "I'm staying too... we don't know what's happened.",
+      "wordCount": 8
+    },
+    {
+      "id": 88,
+      "index": 88,
+      "character": "TIMMONS",
+      "gender": "Male",
+      "line": "There ain't nothin' here lieutenant.",
+      "wordCount": 5
+    },
+    {
+      "id": 89,
+      "index": 89,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "Not at the moment, no.",
+      "wordCount": 5
+    },
+    {
+      "id": 90,
+      "index": 90,
+      "character": "TIMMONS",
+      "gender": "Male",
+      "line": "So things bein' the way they are we might as well turn around and get started back.",
+      "wordCount": 17
+    },
+    {
+      "id": 91,
+      "index": 91,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "This is my post...",
+      "wordCount": 4
+    },
+    {
+      "id": 92,
+      "index": 92,
+      "character": "TIMMONS",
+      "gender": "Male",
+      "line": "This is my... are you crazy boy?",
+      "wordCount": 7
+    },
+    {
+      "id": 93,
+      "index": 93,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "This is my post! And these are the post's provisions. Now get your ass off that wagon and help me unload.",
+      "wordCount": 21
+    },
+    {
+      "id": 94,
+      "index": 94,
+      "character": "TIMMONS",
+      "gender": "Male",
+      "line": "Well... I'll let 'em know where you are.",
+      "wordCount": 8
+    },
+    {
+      "id": 95,
+      "index": 95,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "Good.",
+      "wordCount": 1
+    },
+    {
+      "id": 96,
+      "index": 96,
+      "character": "TIMMONS",
+      "gender": "Male",
+      "line": "Good luck lieutenant.",
+      "wordCount": 3
+    },
+    {
+      "id": 97,
+      "index": 97,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "Thank you.",
+      "wordCount": 2
+    },
+    {
+      "id": 98,
+      "index": 98,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "Have arrived to find Fort Sedgewick deserted. Am now waiting for the garrison's return or word from headquarters. Post is in exceedingly poor condition. Have decided to assign myself clean-up duty beginning tomorrow. Supplies abundant. The country is everything I dreamed it would be. There can be no place like this on earth.",
+      "wordCount": 53
+    },
+    {
+      "id": 99,
+      "index": 99,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "Damn... damn.",
+      "wordCount": 2
+    },
+    {
+      "id": 100,
+      "index": 100,
+      "character": "THE TOUGHEST",
+      "gender": "NA",
+      "line": "Only a white man would make a fire for everyone to see.",
+      "wordCount": 12
+    },
+    {
+      "id": 101,
+      "index": 101,
+      "character": "1ST PAWNEE",
+      "gender": "NA",
+      "line": "Maybe there's more than one.",
+      "wordCount": 5
+    },
+    {
+      "id": 102,
+      "index": 102,
+      "character": "2ND PAWNEE",
+      "gender": "NA",
+      "line": "We have no rifles. White men are sure to have rifles.",
+      "wordCount": 11
+    },
+    {
+      "id": 103,
+      "index": 103,
+      "character": "3RD PAWNEE",
+      "gender": "NA",
+      "line": "We should forget this and go home.",
+      "wordCount": 7
+    },
+    {
+      "id": 104,
+      "index": 104,
+      "character": "TOUGHEST",
+      "gender": "NA",
+      "line": "Then go. I for one, will not debate the merit of a single line of smoke in my own country.",
+      "wordCount": 20
+    },
+    {
+      "id": 105,
+      "index": 105,
+      "character": "1ST PAWNEE",
+      "gender": "NA",
+      "line": "He will not quit until we are all dead.",
+      "wordCount": 9
+    },
+    {
+      "id": 106,
+      "index": 106,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "No sign of Captain Cargill's command. I don't know what to do. Communication can only take place if I leave and I don't want to abandon my post.",
+      "wordCount": 28
+    },
+    {
+      "id": 107,
+      "index": 107,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "Made a short patrol yesterday p.m... discovered nothing. Will go further tomorrow.",
+      "wordCount": 12
+    },
+    {
+      "id": 108,
+      "index": 108,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "There is a wolf who seems intent on the goings on here. He does not seem inclined to be a nuisance however and aside from Cisco has been my only company. He has appeared each afternoon for the past two days. He has milky white socks on both feet. If he comes calling tomorrow I will name him Two Socks.",
+      "wordCount": 60
+    },
+    {
+      "id": 109,
+      "index": 109,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "Almost a month and no one has come. The longer this condition persists, the less inclined I am to believe that anyone will. Rain has forced me indoors for most of two days. I have begun an awning. The work has ruined my hands, but I am excited about the improvement it will bring to this place.",
+      "wordCount": 57
+    },
+    {
+      "id": 110,
+      "index": 110,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "It is the loneliest of times... but I cannot say that I am unhappy.",
+      "wordCount": 14
+    },
+    {
+      "id": 111,
+      "index": 111,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "You there!",
+      "wordCount": 2
+    },
+    {
+      "id": 112,
+      "index": 112,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "Have made first contact with a wild Indian. One came to the fort and tried to steal my horse. Do not know how many more are in the vicinity but I am taking steps for another visitation. Am burying excess ordnance, lest it fall into enemy hands.",
+      "wordCount": 47
+    },
+    {
+      "id": 113,
+      "index": 113,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "Have made all the preparations I can think of. I cannot mount an adequate defense but will try to make a big impression when they come. Waiting.",
+      "wordCount": 27
+    },
+    {
+      "id": 114,
+      "index": 114,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "The man I encountered was a magnificent looking fellow.",
+      "wordCount": 9
+    },
+    {
+      "id": 115,
+      "index": 115,
+      "character": "TEN BEARS",
+      "gender": "Male",
+      "line": "Kicking Bird has been keeping to himself these last few days. I do not like to see our medicine man walking so alone.",
+      "wordCount": 23
+    },
+    {
+      "id": 116,
+      "index": 116,
+      "character": "TEN BEARS",
+      "gender": "Male",
+      "line": "What does his wife say?",
+      "wordCount": 5
+    },
+    {
+      "id": 117,
+      "index": 117,
+      "character": "PRETTY SHIELD",
+      "gender": "Female",
+      "line": "He is keeping to himself.",
+      "wordCount": 5
+    },
+    {
+      "id": 118,
+      "index": 118,
+      "character": "PRETTY SHIELD",
+      "gender": "Female",
+      "line": "That's what she says.",
+      "wordCount": 4
+    },
+    {
+      "id": 119,
+      "index": 119,
+      "character": "TEN BEARS",
+      "gender": "Male",
+      "line": "Make sure that meat is soft... my teeth hurt.",
+      "wordCount": 9
+    },
+    {
+      "id": 120,
+      "index": 120,
+      "character": "TEN BEARS",
+      "gender": "Male",
+      "line": "May I come in?",
+      "wordCount": 4
+    },
+    {
+      "id": 121,
+      "index": 121,
+      "character": "TEN BEARS",
+      "gender": "Male",
+      "line": "No, no let him sit with me.",
+      "wordCount": 7
+    },
+    {
+      "id": 122,
+      "index": 122,
+      "character": "TEN BEARS",
+      "gender": "Male",
+      "line": "Our country seems good this summer, but I have not been out to see it.",
+      "wordCount": 15
+    },
+    {
+      "id": 123,
+      "index": 123,
+      "character": "KICKING BIRD",
+      "gender": "Male",
+      "line": "Yes... it is good. The grass is rich. The game is plenty and not running away.",
+      "wordCount": 16
+    },
+    {
+      "id": 124,
+      "index": 124,
+      "character": "TEN BEARS",
+      "gender": "Male",
+      "line": "I am glad to hear it. But the buffalo are late. I always worry about the bellies of our children.",
+      "wordCount": 20
+    },
+    {
+      "id": 125,
+      "index": 125,
+      "character": "KICKING BIRD",
+      "gender": "Male",
+      "line": "I was thinking of a dance.",
+      "wordCount": 6
+    },
+    {
+      "id": 126,
+      "index": 126,
+      "character": "TEN BEARS",
+      "gender": "Male",
+      "line": "Yes, a dance is always a good idea. It would be good to have a strong sign.",
+      "wordCount": 17
+    },
+    {
+      "id": 127,
+      "index": 127,
+      "character": "KICKING BIRD",
+      "gender": "Male",
+      "line": "Yes.",
+      "wordCount": 1
+    },
+    {
+      "id": 128,
+      "index": 128,
+      "character": "TEN BEARS",
+      "gender": "Male",
+      "line": "There's a funny thing about signs. They are always flying in our faces. We know when they are bad or good but sometimes they are strange and there is no way to understand them. Sometimes they make people crazy but a smart man will take such a sign into himself and let it run around for two or three days. If he is still confused he will tell somebody. He might come to you or to me and tell it. A smart man always does that.",
+      "wordCount": 86
+    },
+    {
+      "id": 129,
+      "index": 129,
+      "character": "KICKING BIRD",
+      "gender": "Male",
+      "line": "I have seen such a sign.",
+      "wordCount": 6
+    },
+    {
+      "id": 130,
+      "index": 130,
+      "character": "TEN BEARS",
+      "gender": "Male",
+      "line": "Oh?",
+      "wordCount": 1
+    },
+    {
+      "id": 131,
+      "index": 131,
+      "character": "KICKING BIRD",
+      "gender": "Male",
+      "line": "I saw a man, a white man.",
+      "wordCount": 7
+    },
+    {
+      "id": 132,
+      "index": 132,
+      "character": "TEN BEARS",
+      "gender": "Male",
+      "line": "Just one?",
+      "wordCount": 2
+    },
+    {
+      "id": 133,
+      "index": 133,
+      "character": "KICKING BIRD",
+      "gender": "Male",
+      "line": "Just one. He was naked.",
+      "wordCount": 5
+    },
+    {
+      "id": 134,
+      "index": 134,
+      "character": "TEN BEARS",
+      "gender": "Male",
+      "line": "Are you sure it was a man?",
+      "wordCount": 7
+    },
+    {
+      "id": 135,
+      "index": 135,
+      "character": "KICKING BIRD",
+      "gender": "Male",
+      "line": "I saw his sex.",
+      "wordCount": 4
+    },
+    {
+      "id": 136,
+      "index": 136,
+      "character": "TEN BEARS",
+      "gender": "Male",
+      "line": "Did you speak to him?",
+      "wordCount": 5
+    },
+    {
+      "id": 137,
+      "index": 137,
+      "character": "KICKING BIRD",
+      "gender": "Male",
+      "line": "No.",
+      "wordCount": 1
+    },
+    {
+      "id": 138,
+      "index": 138,
+      "character": "TEN BEARS",
+      "gender": "Male",
+      "line": "We will council on this.",
+      "wordCount": 5
+    },
+    {
+      "id": 139,
+      "index": 139,
+      "character": "KICKING BIRD",
+      "gender": "Male",
+      "line": "He might be a god or he might be a special chief -- that's why we are thinking of having a talk with him.",
+      "wordCount": 24
+    },
+    {
+      "id": 140,
+      "index": 140,
+      "character": "WIND IN HIS HAIR",
+      "gender": "Male",
+      "line": "I do not care for this talk about a white man. Whatever kind of white man he is, he is not Sioux and that makes him less. We've camped here for ten days now and each day our scouts find nothing. One old bull with wolves tearing him apart, nothing more. We need meat -- not talk.",
+      "wordCount": 57
+    },
+    {
+      "id": 141,
+      "index": 141,
+      "character": "KICKING BIRD",
+      "gender": "Male",
+      "line": "You are right, we need meat today and tomorrow. But we must also have meat in ten years.",
+      "wordCount": 18
+    },
+    {
+      "id": 142,
+      "index": 142,
+      "character": "KICKING BIRD",
+      "gender": "Male",
+      "line": "But the whites are coming. Our friends the Shoshone and the Kiowa, even our enemies, agree on this -- the whites are coming. More than can be counted.",
+      "wordCount": 28
+    },
+    {
+      "id": 143,
+      "index": 143,
+      "character": "WIND IN HIS HAIR",
+      "gender": "Male",
+      "line": "Kicking Bird is always looking ahead and that is good. But when I hear that more whites are coming -- more than can be counted I want to laugh. We took a hundred horses from these people, there was no honor in it. They don't ride well, they don't shoot well, they're dirty. They have no women, no children. They could not even make it through one winter in our country. And these people are said to flourish? I think they will all be dead in ten years.",
+      "wordCount": 88
+    },
+    {
+      "id": 144,
+      "index": 144,
+      "character": "WIND IN HIS HAIR",
+      "gender": "Male",
+      "line": "I think this white man is probably lost.",
+      "wordCount": 8
+    },
+    {
+      "id": 145,
+      "index": 145,
+      "character": "KICKING BIRD",
+      "gender": "Male",
+      "line": "Wind In His Hair has spoken straight, his words are strong and I have heard them. It's true the whites are a poor race and it's hard to understand them. But when I see one white man alone, without fear in our country, I do not think he is lost. I think he may have medicine. I see someone who might speak for all the white people who are coming. I think this is a person with which treaties might be struck.",
+      "wordCount": 82
+    },
+    {
+      "id": 146,
+      "index": 146,
+      "character": "WIND IN HIS HAIR",
+      "gender": "Male",
+      "line": "This white man cannot cover our lodges, or string our bows, or feed our children. I will take some good men... there are many here tonight. We will ride to the soldier fort, we will shoot some arrows into this white man. If he truly has medicine he will not be hurt. If he has no medicine he will be dead.",
+      "wordCount": 61
+    },
+    {
+      "id": 147,
+      "index": 147,
+      "character": "TEN BEARS",
+      "gender": "Male",
+      "line": "It is easy to become confused by these questions. It is hard to know what to do. No man can tell another how he will be. But I know this... killing a white man is a delicate matter. If you kill one, more are sure to come. We should talk about this some more.",
+      "wordCount": 54
+    },
+    {
+      "id": 148,
+      "index": 148,
+      "character": "SMILES A LOT",
+      "gender": "Male",
+      "line": "What's the matter now?",
+      "wordCount": 4
+    },
+    {
+      "id": 149,
+      "index": 149,
+      "character": "WORM",
+      "gender": "Male",
+      "line": "Otter doesn't want to go.",
+      "wordCount": 5
+    },
+    {
+      "id": 150,
+      "index": 150,
+      "character": "SMILES A LOT",
+      "gender": "Male",
+      "line": "If we take the horse of a white god they will make up songs about us.",
+      "wordCount": 16
+    },
+    {
+      "id": 151,
+      "index": 151,
+      "character": "OTTER",
+      "gender": "Male",
+      "line": "Maybe.",
+      "wordCount": 1
+    },
+    {
+      "id": 152,
+      "index": 152,
+      "character": "SMILES A LOT",
+      "gender": "Male",
+      "line": "They will ask us to go on raids.",
+      "wordCount": 8
+    },
+    {
+      "id": 153,
+      "index": 153,
+      "character": "OTTER",
+      "gender": "Male",
+      "line": "Who gets the white god horse?",
+      "wordCount": 6
+    },
+    {
+      "id": 154,
+      "index": 154,
+      "character": "SMILES A LOT",
+      "gender": "Male",
+      "line": "I do... but we share... you and Worm can ride him too. Who can say this is not a great plan?",
+      "wordCount": 21
+    },
+    {
+      "id": 155,
+      "index": 155,
+      "character": "SMILES A LOT",
+      "gender": "Male",
+      "line": "Let me take him Otter.",
+      "wordCount": 5
+    },
+    {
+      "id": 156,
+      "index": 156,
+      "character": "OTTER",
+      "gender": "Male",
+      "line": "I have him.",
+      "wordCount": 3
+    },
+    {
+      "id": 157,
+      "index": 157,
+      "character": "SMILES A LOT",
+      "gender": "Male",
+      "line": "What happened?",
+      "wordCount": 2
+    },
+    {
+      "id": 158,
+      "index": 158,
+      "character": "OTTER",
+      "gender": "Male",
+      "line": "I don't know. My arm doesn't work.",
+      "wordCount": 7
+    },
+    {
+      "id": 159,
+      "index": 159,
+      "character": "SMILES A LOT",
+      "gender": "Male",
+      "line": "You shouldn't have fallen down... now we'll get in trouble.",
+      "wordCount": 10
+    },
+    {
+      "id": 160,
+      "index": 160,
+      "character": "OTTER",
+      "gender": "Male",
+      "line": "It was your idea.",
+      "wordCount": 4
+    },
+    {
+      "id": 161,
+      "index": 161,
+      "character": "SMILES A LOT",
+      "gender": "Male",
+      "line": "My idea was only to take the horse.",
+      "wordCount": 8
+    },
+    {
+      "id": 162,
+      "index": 162,
+      "character": "SMILES A LOT",
+      "gender": "Male",
+      "line": "Otter hurt himself.",
+      "wordCount": 3
+    },
+    {
+      "id": 163,
+      "index": 163,
+      "character": "OTTER",
+      "gender": "Male",
+      "line": "You're not hurt... I'm hurt.",
+      "wordCount": 5
+    },
+    {
+      "id": 164,
+      "index": 164,
+      "character": "WORM",
+      "gender": "Male",
+      "line": "I will be when my father finds out, his bow will be across my back.",
+      "wordCount": 15
+    },
+    {
+      "id": 165,
+      "index": 165,
+      "character": "WIND IN HIS HAIR",
+      "gender": "Male",
+      "line": "I am Wind In His Hair. Do you not see that I am not afraid of you?... Do you see?",
+      "wordCount": 20
+    },
+    {
+      "id": 166,
+      "index": 166,
+      "character": "COURIER",
+      "gender": "NA",
+      "line": "The party that went against the Pawnee is coming in...",
+      "wordCount": 10
+    },
+    {
+      "id": 167,
+      "index": 167,
+      "character": "COURIER",
+      "gender": "NA",
+      "line": "There are many hearts on the ground.",
+      "wordCount": 7
+    },
+    {
+      "id": 168,
+      "index": 168,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "I realize now that I have been wrong. All this time I have been waiting. Waiting for what? For someone to find me? For Indians to take my horse? To see a buffalo?",
+      "wordCount": 33
+    },
+    {
+      "id": 169,
+      "index": 169,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "Since I arrived at this post I have been walking on eggs. It has become a bad habit and I am sick of it. Tomorrow morning I will ride out to the Indians. I do not know the outcome or the wisdom of this thinking. But I have become a target and a target makes a poor impression. I am through waiting.",
+      "wordCount": 62
+    },
+    {
+      "id": 170,
+      "index": 170,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "Wait...",
+      "wordCount": 1
+    },
+    {
+      "id": 171,
+      "index": 171,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "Wait... you're hurt.",
+      "wordCount": 3
+    },
+    {
+      "id": 172,
+      "index": 172,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "Let me help you.",
+      "wordCount": 4
+    },
+    {
+      "id": 173,
+      "index": 173,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "You're hurt... you need help.",
+      "wordCount": 5
+    },
+    {
+      "id": 174,
+      "index": 174,
+      "character": "STANDS WITH A FIST",
+      "gender": "Female",
+      "line": "Don't...",
+      "wordCount": 1
+    },
+    {
+      "id": 175,
+      "index": 175,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "She's hurt.",
+      "wordCount": 2
+    },
+    {
+      "id": 176,
+      "index": 176,
+      "character": "WIND IN HIS HAIR",
+      "gender": "Male",
+      "line": "You are not welcome here.",
+      "wordCount": 5
+    },
+    {
+      "id": 177,
+      "index": 177,
+      "character": "WIND IN HIS HAIR",
+      "gender": "Male",
+      "line": "Go away from us...",
+      "wordCount": 4
+    },
+    {
+      "id": 178,
+      "index": 178,
+      "character": "WIND IN HIS HAIR",
+      "gender": "Male",
+      "line": "Go away from us... go now.",
+      "wordCount": 6
+    },
+    {
+      "id": 179,
+      "index": 179,
+      "character": "KICKING BIRD",
+      "gender": "Male",
+      "line": "The soldier did not come to fight -- he is going away and we will let him.",
+      "wordCount": 17
+    },
+    {
+      "id": 180,
+      "index": 180,
+      "character": "TEN BEARS",
+      "gender": "Male",
+      "line": "I am in agreement with Kicking Bird. We will go down and talk to the white man and find out what kind of white man he is.",
+      "wordCount": 27
+    },
+    {
+      "id": 181,
+      "index": 181,
+      "character": "WIND IN HIS HAIR",
+      "gender": "Male",
+      "line": "If this council decides to talk with the man at the soldier fort then it will be so. But in my mind it is not right that a Sioux chief, a chief as great as Ten Bears, goes to ask the business of a puny, trespassing white man... a white soldier who has only a smart horse and a few white man clothes.",
+      "wordCount": 63
+    },
+    {
+      "id": 182,
+      "index": 182,
+      "character": "TEN BEARS",
+      "gender": "Male",
+      "line": "I will not go... you will go... you and Kicking Bird. That is all I have to say.",
+      "wordCount": 18
+    },
+    {
+      "id": 183,
+      "index": 183,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "Welcome... Come... please... sit down.",
+      "wordCount": 5
+    },
+    {
+      "id": 184,
+      "index": 184,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "Would you like some coffee? Coffee?",
+      "wordCount": 6
+    },
+    {
+      "id": 185,
+      "index": 185,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "I'll get some cups.",
+      "wordCount": 4
+    },
+    {
+      "id": 186,
+      "index": 186,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "Is the coffee not good? Too strong maybe? Here...",
+      "wordCount": 9
+    },
+    {
+      "id": 187,
+      "index": 187,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "Do you want some?",
+      "wordCount": 4
+    },
+    {
+      "id": 188,
+      "index": 188,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "So what are you guys doing? Looking for buffalo?",
+      "wordCount": 9
+    },
+    {
+      "id": 189,
+      "index": 189,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "He's a good one... good horse. My horse.",
+      "wordCount": 8
+    },
+    {
+      "id": 190,
+      "index": 190,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "Good horse.",
+      "wordCount": 2
+    },
+    {
+      "id": 191,
+      "index": 191,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "My horse. You see any buffalo?",
+      "wordCount": 6
+    },
+    {
+      "id": 192,
+      "index": 192,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "Wait just a bit.",
+      "wordCount": 4
+    },
+    {
+      "id": 193,
+      "index": 193,
+      "character": "WIND IN HIS HAIR",
+      "gender": "Male",
+      "line": "His mind is gone.",
+      "wordCount": 4
+    },
+    {
+      "id": 194,
+      "index": 194,
+      "character": "KICKING BIRD",
+      "gender": "Male",
+      "line": "Buffalo.",
+      "wordCount": 1
+    },
+    {
+      "id": 195,
+      "index": 195,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "Buffalo?",
+      "wordCount": 1
+    },
+    {
+      "id": 196,
+      "index": 196,
+      "character": "KICKING BIRD",
+      "gender": "Male",
+      "line": "Buffalo.",
+      "wordCount": 1
+    },
+    {
+      "id": 197,
+      "index": 197,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "Buffalo.",
+      "wordCount": 1
+    },
+    {
+      "id": 198,
+      "index": 198,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "Buffalo.",
+      "wordCount": 1
+    },
+    {
+      "id": 199,
+      "index": 199,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "The sugar didn't figure to last at that rate any way. I don't believe I'd go too far in saying that a foundation for good relations is being laid.",
+      "wordCount": 29
+    },
+    {
+      "id": 200,
+      "index": 200,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "They have come again, as always the same two with an escort of six.",
+      "wordCount": 14
+    },
+    {
+      "id": 201,
+      "index": 201,
+      "character": "KICKING BIRD",
+      "gender": "Male",
+      "line": "Have you seen any buffalo?",
+      "wordCount": 5
+    },
+    {
+      "id": 202,
+      "index": 202,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "I believe I am dealing with Kiowa Indians as I have heard that word on several occasions.",
+      "wordCount": 17
+    },
+    {
+      "id": 203,
+      "index": 203,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "I am learning the Kiowa words for head, hand, horse, fire, coffee, buffalo, hello and goodbye.",
+      "wordCount": 16
+    },
+    {
+      "id": 204,
+      "index": 204,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "No, I haven't seen any buffalo. Are you hungry? I have food... are you hungry?",
+      "wordCount": 15
+    },
+    {
+      "id": 205,
+      "index": 205,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "Nothing I have been told about these people is correct. They are not beggars and thieves. They are not the bogeymen they have been made out to be.",
+      "wordCount": 28
+    },
+    {
+      "id": 206,
+      "index": 206,
+      "character": "KICKING BIRD",
+      "gender": "Male",
+      "line": "Stands With A Fist.",
+      "wordCount": 4
+    },
+    {
+      "id": 207,
+      "index": 207,
+      "character": "KICKING BIRD",
+      "gender": "Male",
+      "line": "We will talk awhile.",
+      "wordCount": 4
+    },
+    {
+      "id": 208,
+      "index": 208,
+      "character": "KICKING BIRD",
+      "gender": "Male",
+      "line": "Your wounds are healing well?",
+      "wordCount": 5
+    },
+    {
+      "id": 209,
+      "index": 209,
+      "character": "STANDS WITH A FIST",
+      "gender": "Female",
+      "line": "Yes.",
+      "wordCount": 1
+    },
+    {
+      "id": 210,
+      "index": 210,
+      "character": "KICKING BIRD",
+      "gender": "Male",
+      "line": "You are happy here, with my family?",
+      "wordCount": 7
+    },
+    {
+      "id": 211,
+      "index": 211,
+      "character": "STANDS WITH A FIST",
+      "gender": "Female",
+      "line": "I am glad to be here. I am missing my husband.",
+      "wordCount": 11
+    },
+    {
+      "id": 212,
+      "index": 212,
+      "character": "KICKING BIRD",
+      "gender": "Male",
+      "line": "Perhaps you will marry again when the time is right.",
+      "wordCount": 10
+    },
+    {
+      "id": 213,
+      "index": 213,
+      "character": "STANDS WITH A FIST",
+      "gender": "Female",
+      "line": "Perhaps.",
+      "wordCount": 1
+    },
+    {
+      "id": 214,
+      "index": 214,
+      "character": "KICKING BIRD",
+      "gender": "Male",
+      "line": "We have word from many places that the whites are...",
+      "wordCount": 10
+    },
+    {
+      "id": 215,
+      "index": 215,
+      "character": "KICKING BIRD",
+      "gender": "Male",
+      "line": "They are coming into everyone's country. They will soon be in ours I think. This white man who lives at the old soldier fort, the one who calls himself loo ten tant... I have visited him and I believe his heart is a good one. He knows things about the whites which we do not.",
+      "wordCount": 55
+    },
+    {
+      "id": 216,
+      "index": 216,
+      "character": "STANDS WITH A FIST",
+      "gender": "Female",
+      "line": "I am afraid of the man at the fort.",
+      "wordCount": 9
+    },
+    {
+      "id": 217,
+      "index": 217,
+      "character": "KICKING BIRD",
+      "gender": "Male",
+      "line": "He is only one man.",
+      "wordCount": 5
+    },
+    {
+      "id": 218,
+      "index": 218,
+      "character": "STANDS WITH A FIST",
+      "gender": "Female",
+      "line": "I am afraid that he will tell some whites that I am here. I am afraid that they will try to take me away.",
+      "wordCount": 24
+    },
+    {
+      "id": 219,
+      "index": 219,
+      "character": "KICKING BIRD",
+      "gender": "Male",
+      "line": "Every warrior in camp would fight them if they tried.",
+      "wordCount": 10
+    },
+    {
+      "id": 220,
+      "index": 220,
+      "character": "KICKING BIRD",
+      "gender": "Male",
+      "line": "I cannot make the white man talk. Loo ten tant does not know Sioux.",
+      "wordCount": 14
+    },
+    {
+      "id": 221,
+      "index": 221,
+      "character": "KICKING BIRD",
+      "gender": "Male",
+      "line": "You have a certain medicine which no other Sioux -- man or woman -- has.",
+      "wordCount": 15
+    },
+    {
+      "id": 222,
+      "index": 222,
+      "character": "STANDS WITH A FIST",
+      "gender": "Female",
+      "line": "It has been a long time since I made the talk.",
+      "wordCount": 11
+    },
+    {
+      "id": 223,
+      "index": 223,
+      "character": "KICKING BIRD",
+      "gender": "Male",
+      "line": "I do not ask this for myself... I ask this for all our people.",
+      "wordCount": 14
+    },
+    {
+      "id": 224,
+      "index": 224,
+      "character": "STANDS WITH A FIST",
+      "gender": "Female",
+      "line": "It's dead in me.",
+      "wordCount": 4
+    },
+    {
+      "id": 225,
+      "index": 225,
+      "character": "KICKING BIRD",
+      "gender": "Male",
+      "line": "I want you to try and remember the the word.",
+      "wordCount": 10
+    },
+    {
+      "id": 226,
+      "index": 226,
+      "character": "STANDS WITH A FIST",
+      "gender": "Female",
+      "line": "I don't know how.",
+      "wordCount": 4
+    },
+    {
+      "id": 227,
+      "index": 227,
+      "character": "KICKING BIRD",
+      "gender": "Male",
+      "line": "You don't want to know.",
+      "wordCount": 5
+    },
+    {
+      "id": 228,
+      "index": 228,
+      "character": "BLACK SHAWL",
+      "gender": "Female",
+      "line": "Will she make the white words?",
+      "wordCount": 6
+    },
+    {
+      "id": 229,
+      "index": 229,
+      "character": "KICKING BIRD",
+      "gender": "Male",
+      "line": "Perhaps I am asking too much.",
+      "wordCount": 6
+    },
+    {
+      "id": 230,
+      "index": 230,
+      "character": "VOICE",
+      "gender": "NA",
+      "line": "Christine...",
+      "wordCount": 1
+    },
+    {
+      "id": 231,
+      "index": 231,
+      "character": "MOTHER",
+      "gender": "NA",
+      "line": "Christine... where are you?",
+      "wordCount": 4
+    },
+    {
+      "id": 232,
+      "index": 232,
+      "character": "CHRISTINE",
+      "gender": "NA",
+      "line": "I'm right here mother...",
+      "wordCount": 4
+    },
+    {
+      "id": 233,
+      "index": 233,
+      "character": "MOTHER",
+      "gender": "NA",
+      "line": "Get inside both of you.",
+      "wordCount": 5
+    },
+    {
+      "id": 234,
+      "index": 234,
+      "character": "CHRISTINE",
+      "gender": "NA",
+      "line": "Why?",
+      "wordCount": 1
+    },
+    {
+      "id": 235,
+      "index": 235,
+      "character": "MOTHER",
+      "gender": "NA",
+      "line": "Just do what I... oh God! Stay where you are. Keep down do you hear me?",
+      "wordCount": 16
+    },
+    {
+      "id": 236,
+      "index": 236,
+      "character": "CHRISTINE",
+      "gender": "NA",
+      "line": "Who is it Willie?",
+      "wordCount": 4
+    },
+    {
+      "id": 237,
+      "index": 237,
+      "character": "WILLIE",
+      "gender": "NA",
+      "line": "They look like Pawnee... my father and your father are talking to them.",
+      "wordCount": 13
+    },
+    {
+      "id": 238,
+      "index": 238,
+      "character": "WILLIE",
+      "gender": "NA",
+      "line": "Run Christine...",
+      "wordCount": 2
+    },
+    {
+      "id": 239,
+      "index": 239,
+      "character": "CHRISTINE",
+      "gender": "NA",
+      "line": "Why?",
+      "wordCount": 1
+    },
+    {
+      "id": 240,
+      "index": 240,
+      "character": "WILLIE",
+      "gender": "NA",
+      "line": "Just run!",
+      "wordCount": 2
+    },
+    {
+      "id": 241,
+      "index": 241,
+      "character": "WILLIE",
+      "gender": "NA",
+      "line": "Run!",
+      "wordCount": 1
+    },
+    {
+      "id": 242,
+      "index": 242,
+      "character": "CHRISTINE",
+      "gender": "NA",
+      "line": "Now I lay me down to sleep. I pray the lord my soul to keep. If I die before I wake, I pray the lord my soul to take.",
+      "wordCount": 29
+    },
+    {
+      "id": 243,
+      "index": 243,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "Buffalo...",
+      "wordCount": 1
+    },
+    {
+      "id": 244,
+      "index": 244,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "Buffalo... Buffalo.",
+      "wordCount": 2
+    },
+    {
+      "id": 245,
+      "index": 245,
+      "character": "KICKING BIRD",
+      "gender": "Male",
+      "line": "Buffalo?",
+      "wordCount": 1
+    },
+    {
+      "id": 246,
+      "index": 246,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "Yes. Buffalo.",
+      "wordCount": 2
+    },
+    {
+      "id": 247,
+      "index": 247,
+      "character": "KICKING BIRD",
+      "gender": "Male",
+      "line": "The buffalo have come.",
+      "wordCount": 4
+    },
+    {
+      "id": 248,
+      "index": 248,
+      "character": "SMILES A LOT",
+      "gender": "Male",
+      "line": "Loo ten tant...",
+      "wordCount": 3
+    },
+    {
+      "id": 249,
+      "index": 249,
+      "character": "KICKING BIRD",
+      "gender": "Male",
+      "line": "Loo ten tant...",
+      "wordCount": 3
+    },
+    {
+      "id": 250,
+      "index": 250,
+      "character": "CHRISTINE",
+      "gender": "NA",
+      "line": "Help...",
+      "wordCount": 1
+    },
+    {
+      "id": 251,
+      "index": 251,
+      "character": "CHRISTINE",
+      "gender": "NA",
+      "line": "Help me... Please... I need to get out.",
+      "wordCount": 8
+    },
+    {
+      "id": 252,
+      "index": 252,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "I wish I knew what to say.",
+      "wordCount": 7
+    },
+    {
+      "id": 253,
+      "index": 253,
+      "character": "STANDS WITH A FIST",
+      "gender": "Female",
+      "line": "Say... thank you.",
+      "wordCount": 3
+    },
+    {
+      "id": 254,
+      "index": 254,
+      "character": "STANDS WITH A FIST",
+      "gender": "Female",
+      "line": "His speed... his power... you have.",
+      "wordCount": 6
+    },
+    {
+      "id": 255,
+      "index": 255,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "Thank you.",
+      "wordCount": 2
+    },
+    {
+      "id": 256,
+      "index": 256,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "Look I'm full... I can't tell the story again.",
+      "wordCount": 9
+    },
+    {
+      "id": 257,
+      "index": 257,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "Go ahead.",
+      "wordCount": 2
+    },
+    {
+      "id": 258,
+      "index": 258,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "You want to try... put it on.",
+      "wordCount": 7
+    },
+    {
+      "id": 259,
+      "index": 259,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "Here.",
+      "wordCount": 1
+    },
+    {
+      "id": 260,
+      "index": 260,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "This is too much... I can't take this...",
+      "wordCount": 8
+    },
+    {
+      "id": 261,
+      "index": 261,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "I can't... No more...",
+      "wordCount": 4
+    },
+    {
+      "id": 262,
+      "index": 262,
+      "character": "WIND IN HIS HAIR",
+      "gender": "Male",
+      "line": "One more... eat...",
+      "wordCount": 3
+    },
+    {
+      "id": 263,
+      "index": 263,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "I can't, I'm full... very full...",
+      "wordCount": 6
+    },
+    {
+      "id": 264,
+      "index": 264,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "That's my hat.",
+      "wordCount": 3
+    },
+    {
+      "id": 265,
+      "index": 265,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "My hat.",
+      "wordCount": 2
+    },
+    {
+      "id": 266,
+      "index": 266,
+      "character": "BIG WARRIOR",
+      "gender": "NA",
+      "line": "I found it on the prairie. It's mine.",
+      "wordCount": 8
+    },
+    {
+      "id": 267,
+      "index": 267,
+      "character": "WIND IN HIS HAIR",
+      "gender": "Male",
+      "line": "That hat belongs to my friend here.",
+      "wordCount": 7
+    },
+    {
+      "id": 268,
+      "index": 268,
+      "character": "BIG WARRIOR",
+      "gender": "NA",
+      "line": "He left it on the prairie. He didn't want it.",
+      "wordCount": 10
+    },
+    {
+      "id": 269,
+      "index": 269,
+      "character": "WIND IN HIS HAIR",
+      "gender": "Male",
+      "line": "You can see that he wants it now.",
+      "wordCount": 8
+    },
+    {
+      "id": 270,
+      "index": 270,
+      "character": "WIND IN HIS HAIR",
+      "gender": "Male",
+      "line": "We all know that is a soldier hat. We all know who wears it. If you want to keep it that's alright. But give something for it.",
+      "wordCount": 27
+    },
+    {
+      "id": 271,
+      "index": 271,
+      "character": "WIND IN HIS HAIR",
+      "gender": "Male",
+      "line": "Good trade.",
+      "wordCount": 2
+    },
+    {
+      "id": 272,
+      "index": 272,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "Yes, it's good. But, I have to sleep.",
+      "wordCount": 8
+    },
+    {
+      "id": 273,
+      "index": 273,
+      "character": "KICKING BIRD",
+      "gender": "Male",
+      "line": "Where is loo ten tant?",
+      "wordCount": 5
+    },
+    {
+      "id": 274,
+      "index": 274,
+      "character": "WIND IN HIS HAIR",
+      "gender": "Male",
+      "line": "I ate him.",
+      "wordCount": 3
+    },
+    {
+      "id": 275,
+      "index": 275,
+      "character": "WIND IN HIS HAIR",
+      "gender": "Male",
+      "line": "I traded for it.",
+      "wordCount": 4
+    },
+    {
+      "id": 276,
+      "index": 276,
+      "character": "KICKING BIRD",
+      "gender": "Male",
+      "line": "Does it scratch the skin?",
+      "wordCount": 5
+    },
+    {
+      "id": 277,
+      "index": 277,
+      "character": "WIND IN HIS HAIR",
+      "gender": "Male",
+      "line": "A little. But do you see how good it looks. Everyone says it looks good. Everyone.",
+      "wordCount": 16
+    },
+    {
+      "id": 278,
+      "index": 278,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "They asked me to dance...",
+      "wordCount": 5
+    },
+    {
+      "id": 279,
+      "index": 279,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "I was just dancing...",
+      "wordCount": 4
+    },
+    {
+      "id": 280,
+      "index": 280,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "To stay any longer would've been useless. We had all the meat we could possibly carry. We had hunted for three days, losing half a dozen ponies and only three men injured. Many times I have felt alone but until this afternoon, I have never felt completely lonely.",
+      "wordCount": 48
+    },
+    {
+      "id": 281,
+      "index": 281,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "Made a long patrol today. There is nothing to report. The truth is I am bored.",
+      "wordCount": 16
+    },
+    {
+      "id": 282,
+      "index": 282,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "Though only two days it seems like a week. I am missing the company of my new friends. I can see all of their faces, but somehow it is not enough. Tomorrow, I will make an unannounced visit. After all, they are my neighbors, what can it hurt?",
+      "wordCount": 48
+    },
+    {
+      "id": 283,
+      "index": 283,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "Go home.",
+      "wordCount": 2
+    },
+    {
+      "id": 284,
+      "index": 284,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "Damn him.",
+      "wordCount": 2
+    },
+    {
+      "id": 285,
+      "index": 285,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "C'mon Two Socks... you can't go... so go home.",
+      "wordCount": 9
+    },
+    {
+      "id": 286,
+      "index": 286,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "Alright then, don't go home. But stay... stay right here.",
+      "wordCount": 10
+    },
+    {
+      "id": 287,
+      "index": 287,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "You go home.",
+      "wordCount": 3
+    },
+    {
+      "id": 288,
+      "index": 288,
+      "character": "STONE CALF",
+      "gender": "Male",
+      "line": "You were right about loo ten tant -- he is a special white man.",
+      "wordCount": 14
+    },
+    {
+      "id": 289,
+      "index": 289,
+      "character": "KICKING BIRD",
+      "gender": "Male",
+      "line": "Yes, he is special... he should have a real name.",
+      "wordCount": 10
+    },
+    {
+      "id": 290,
+      "index": 290,
+      "character": "WIND IN HIS HAIR",
+      "gender": "Male",
+      "line": "Not everyone thinks it is a good idea that he is here.",
+      "wordCount": 12
+    },
+    {
+      "id": 291,
+      "index": 291,
+      "character": "KICKING BIRD",
+      "gender": "Male",
+      "line": "I know.",
+      "wordCount": 2
+    },
+    {
+      "id": 292,
+      "index": 292,
+      "character": "WIND IN HIS HAIR",
+      "gender": "Male",
+      "line": "Kicking Bird has business with the white man. Let him do it.",
+      "wordCount": 12
+    },
+    {
+      "id": 293,
+      "index": 293,
+      "character": "KICKING BIRD",
+      "gender": "Male",
+      "line": "We were waiting for you.",
+      "wordCount": 5
+    },
+    {
+      "id": 294,
+      "index": 294,
+      "character": "KICKING BIRD",
+      "gender": "Male",
+      "line": "Welcome. It is good that you are here.",
+      "wordCount": 8
+    },
+    {
+      "id": 295,
+      "index": 295,
+      "character": "STANDS WITH A FIST",
+      "gender": "Female",
+      "line": "Hullo. You here... good.",
+      "wordCount": 4
+    },
+    {
+      "id": 296,
+      "index": 296,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "Thank you... I feel good.",
+      "wordCount": 5
+    },
+    {
+      "id": 297,
+      "index": 297,
+      "character": "STANDS WITH A FIST",
+      "gender": "Female",
+      "line": "He thanks you. It is good.",
+      "wordCount": 6
+    },
+    {
+      "id": 298,
+      "index": 298,
+      "character": "KICKING BIRD",
+      "gender": "Male",
+      "line": "Ask him why he is at the soldier fort.",
+      "wordCount": 9
+    },
+    {
+      "id": 299,
+      "index": 299,
+      "character": "STANDS WITH A FIST",
+      "gender": "Female",
+      "line": "Uhh... you... come...",
+      "wordCount": 3
+    },
+    {
+      "id": 300,
+      "index": 300,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "Wait... what is your name?",
+      "wordCount": 5
+    },
+    {
+      "id": 301,
+      "index": 301,
+      "character": "STANDS WITH A FIST",
+      "gender": "Female",
+      "line": "Our... names?",
+      "wordCount": 2
+    },
+    {
+      "id": 302,
+      "index": 302,
+      "character": "KICKING BIRD",
+      "gender": "Male",
+      "line": "What does he say?",
+      "wordCount": 4
+    },
+    {
+      "id": 303,
+      "index": 303,
+      "character": "STANDS WITH A FIST",
+      "gender": "Female",
+      "line": "He wants to know how we are called.",
+      "wordCount": 8
+    },
+    {
+      "id": 304,
+      "index": 304,
+      "character": "KICKING BIRD",
+      "gender": "Male",
+      "line": "Ahhh... He's right. I'm sorry.",
+      "wordCount": 5
+    },
+    {
+      "id": 305,
+      "index": 305,
+      "character": "STANDS WITH A FIST",
+      "gender": "Female",
+      "line": "He... he... Kick...",
+      "wordCount": 3
+    },
+    {
+      "id": 306,
+      "index": 306,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "Kick?",
+      "wordCount": 1
+    },
+    {
+      "id": 307,
+      "index": 307,
+      "character": "STANDS WITH A FIST",
+      "gender": "Female",
+      "line": "More.",
+      "wordCount": 1
+    },
+    {
+      "id": 308,
+      "index": 308,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "Kicking?",
+      "wordCount": 1
+    },
+    {
+      "id": 309,
+      "index": 309,
+      "character": "STANDS WITH A FIST",
+      "gender": "Female",
+      "line": "Kicking... yes... Kicking... Bird.",
+      "wordCount": 4
+    },
+    {
+      "id": 310,
+      "index": 310,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "Kicking Bird... What does he... is he a chief?",
+      "wordCount": 9
+    },
+    {
+      "id": 311,
+      "index": 311,
+      "character": "STANDS WITH A FIST",
+      "gender": "Female",
+      "line": "Hul... hal... ho-lee... holy... holy man.",
+      "wordCount": 6
+    },
+    {
+      "id": 312,
+      "index": 312,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "Oh...",
+      "wordCount": 1
+    },
+    {
+      "id": 313,
+      "index": 313,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "Your name... you.",
+      "wordCount": 3
+    },
+    {
+      "id": 314,
+      "index": 314,
+      "character": "STANDS WITH A FIST",
+      "gender": "Female",
+      "line": "I don't know.",
+      "wordCount": 3
+    },
+    {
+      "id": 315,
+      "index": 315,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "Up? Get up?",
+      "wordCount": 3
+    },
+    {
+      "id": 316,
+      "index": 316,
+      "character": "STANDS WITH A FIST",
+      "gender": "Female",
+      "line": "No.",
+      "wordCount": 1
+    },
+    {
+      "id": 317,
+      "index": 317,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "Stand.",
+      "wordCount": 1
+    },
+    {
+      "id": 318,
+      "index": 318,
+      "character": "STANDS WITH A FIST",
+      "gender": "Female",
+      "line": "Yes... Stands.",
+      "wordCount": 2
+    },
+    {
+      "id": 319,
+      "index": 319,
+      "character": "STANDS WITH A FIST",
+      "gender": "Female",
+      "line": "More... Wiff... With.",
+      "wordCount": 3
+    },
+    {
+      "id": 320,
+      "index": 320,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "Stands With A...",
+      "wordCount": 3
+    },
+    {
+      "id": 321,
+      "index": 321,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "Fist?",
+      "wordCount": 1
+    },
+    {
+      "id": 322,
+      "index": 322,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "Stands With A Fist. I'm John... John Dunbar.",
+      "wordCount": 8
+    },
+    {
+      "id": 323,
+      "index": 323,
+      "character": "STANDS WITH A FIST",
+      "gender": "Female",
+      "line": "John Dunbar.",
+      "wordCount": 2
+    },
+    {
+      "id": 324,
+      "index": 324,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "Yes.",
+      "wordCount": 1
+    },
+    {
+      "id": 325,
+      "index": 325,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "I try to answer all of Kicking Bird's questions but I know he is frustrated with me. He always wants to know how many more white people are coming. I tell him that it is impossible for me to say. When he persists I tell him that the white people will most likely pass through this country and nothing more.",
+      "wordCount": 60
+    },
+    {
+      "id": 326,
+      "index": 326,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "But I am speaking to him in half- truths. One day there will be too many, but I cannot bring myself to tell him that. I am sure that Stands With A Fist knows.",
+      "wordCount": 34
+    },
+    {
+      "id": 327,
+      "index": 327,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "A war party is going against the Pawnee soon and I have asked to go. I sensed that I have made a mistake in doing so but I could not bring myself to take it back. They are my friends and from what little I gather the Pawnee have been very hard on these people. I hope I have not overstepped my bounds.",
+      "wordCount": 63
+    },
+    {
+      "id": 328,
+      "index": 328,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "I'm glad to see you... please sit.",
+      "wordCount": 7
+    },
+    {
+      "id": 329,
+      "index": 329,
+      "character": "STANDS WITH A FIST",
+      "gender": "Female",
+      "line": "Kicking Bird wants to know why you want to make war on the Pawnee. They have done nothing to you.",
+      "wordCount": 20
+    },
+    {
+      "id": 330,
+      "index": 330,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "They are Sioux enemies.",
+      "wordCount": 4
+    },
+    {
+      "id": 331,
+      "index": 331,
+      "character": "STANDS WITH A FIST",
+      "gender": "Female",
+      "line": "Only Sioux warriors will go.",
+      "wordCount": 5
+    },
+    {
+      "id": 332,
+      "index": 332,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "I asked that he would think about my going.",
+      "wordCount": 9
+    },
+    {
+      "id": 333,
+      "index": 333,
+      "character": "STANDS WITH A FIST",
+      "gender": "Female",
+      "line": "He has.",
+      "wordCount": 2
+    },
+    {
+      "id": 334,
+      "index": 334,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "Then tell him this. I have been a warrior for longer than many of the young men that will go on this war party. Tell him.",
+      "wordCount": 26
+    },
+    {
+      "id": 335,
+      "index": 335,
+      "character": "STANDS WITH A FIST",
+      "gender": "Female",
+      "line": "He says that the Sioux way of being a warrior is not the white way. You are not ready.",
+      "wordCount": 19
+    },
+    {
+      "id": 336,
+      "index": 336,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "I know, I understand. But I cannot learn these ways in camp.",
+      "wordCount": 12
+    },
+    {
+      "id": 337,
+      "index": 337,
+      "character": "STANDS WITH A FIST",
+      "gender": "Female",
+      "line": "He asks that you watch over his family while he is gone.",
+      "wordCount": 12
+    },
+    {
+      "id": 338,
+      "index": 338,
+      "character": "STANDS WITH A FIST",
+      "gender": "Female",
+      "line": "This thing he asks you... it is a great honor for you.",
+      "wordCount": 12
+    },
+    {
+      "id": 339,
+      "index": 339,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "I will be happy to watch over your family.",
+      "wordCount": 9
+    },
+    {
+      "id": 340,
+      "index": 340,
+      "character": "STANDS WITH A FIST",
+      "gender": "Female",
+      "line": "He thanks Dances With Wolves for coming.",
+      "wordCount": 7
+    },
+    {
+      "id": 341,
+      "index": 341,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "Who is Dances With Wolves?",
+      "wordCount": 5
+    },
+    {
+      "id": 342,
+      "index": 342,
+      "character": "STANDS WITH A FIST",
+      "gender": "Female",
+      "line": "It is the name which everyone is calling you now.",
+      "wordCount": 10
+    },
+    {
+      "id": 343,
+      "index": 343,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "Dances With Wolves... that's right. How do you say it?",
+      "wordCount": 10
+    },
+    {
+      "id": 344,
+      "index": 344,
+      "character": "STANDS WITH A FIST",
+      "gender": "Female",
+      "line": "Dances With Wolves.",
+      "wordCount": 3
+    },
+    {
+      "id": 345,
+      "index": 345,
+      "character": "DUNBAR",
+      "gender": "Male",
+      "line": "Dances With Wolves.",
+      "wordCount": 3
+    },
+    {
+      "id": 346,
+      "index": 346,
+      "character": "KICKING BIRD",
+      "gender": "Male",
+      "line": "Keep on with the white man talk if it pleases you.",
+      "wordCount": 11
+    },
+    {
+      "id": 347,
+      "index": 347,
+      "character": "STANDS WITH A FIST",
+      "gender": "Female",
+      "line": "I like to make the white man talk.",
+      "wordCount": 8
+    },
+    {
+      "id": 348,
+      "index": 348,
+      "character": "DANCES WITH WOLVES",
+      "gender": "NA",
+      "line": "I'm here.",
+      "wordCount": 2
+    },
+    {
+      "id": 349,
+      "index": 349,
+      "character": "STANDS WITH A FIST",
+      "gender": "Female",
+      "line": "Grass grows on the prairie.",
+      "wordCount": 5
+    },
+    {
+      "id": 350,
+      "index": 350,
+      "character": "DANCES WITH WOLVES",
+      "gender": "NA",
+      "line": "Fire lives on the prairie.",
+      "wordCount": 5
+    },
+    {
+      "id": 351,
+      "index": 351,
+      "character": "STANDS WITH A FIST",
+      "gender": "Female",
+      "line": "Wrong.",
+      "wordCount": 1
+    },
+    {
+      "id": 352,
+      "index": 352,
+      "character": "STANDS WITH A FIST",
+      "gender": "Female",
+      "line": "That man is a fighter.",
+      "wordCount": 5
+    },
+    {
+      "id": 353,
+      "index": 353,
+      "character": "DANCES WITH WOLVES",
+      "gender": "NA",
+      "line": "Again.",
+      "wordCount": 1
+    },
+    {
+      "id": 354,
+      "index": 354,
+      "character": "STANDS WITH A FIST",
+      "gender": "Female",
+      "line": "That man is a fighter.",
+      "wordCount": 5
+    },
+    {
+      "id": 355,
+      "index": 355,
+      "character": "DANCES WITH WOLVES",
+      "gender": "NA",
+      "line": "Alright... I have it... That man...",
+      "wordCount": 6
+    },
+    {
+      "id": 356,
+      "index": 356,
+      "character": "STANDS WITH A FIST",
+      "gender": "Female",
+      "line": "Yes...",
+      "wordCount": 1
+    },
+    {
+      "id": 357,
+      "index": 357,
+      "character": "DANCES WITH WOLVES",
+      "gender": "NA",
+      "line": "Is...",
+      "wordCount": 1
+    },
+    {
+      "id": 358,
+      "index": 358,
+      "character": "DANCES WITH WOLVES",
+      "gender": "NA",
+      "line": "A... bone!",
+      "wordCount": 2
+    },
+    {
+      "id": 359,
+      "index": 359,
+      "character": "DANCES WITH WOLVES",
+      "gender": "NA",
+      "line": "A bone... right?",
+      "wordCount": 3
+    },
+    {
+      "id": 360,
+      "index": 360,
+      "character": "DANCES WITH WOLVES",
+      "gender": "NA",
+      "line": "What is the word for beautiful?",
+      "wordCount": 6
+    },
+    {
+      "id": 361,
+      "index": 361,
+      "character": "LITTLE BOY",
+      "gender": "NA",
+      "line": "What are you doing here?",
+      "wordCount": 5
+    },
+    {
+      "id": 362,
+      "index": 362,
+      "character": "STANDS WITH A FIST",
+      "gender": "Female",
+      "line": "It is hot. We are sitting in the shade.",
+      "wordCount": 9
+    },
+    {
+      "id": 363,
+      "index": 363,
+      "character": "LITTLE BOY",
+      "gender": "NA",
+      "line": "I'm hungry.",
+      "wordCount": 2
+    },
+    {
+      "id": 364,
+      "index": 364,
+      "character": "STANDS WITH A FIST",
+      "gender": "Female",
+      "line": "Alright.",
+      "wordCount": 1
+    },
+    {
+      "id": 365,
+      "index": 365,
+      "character": "SMILES A LOT",
+      "gender": "Male",
+      "line": "...a bone.",
+      "wordCount": 2
+    },
+    {
+      "id": 366,
+      "index": 366,
+      "character": "BLACK SHAWL",
+      "gender": "Female",
+      "line": "How is Dances With Wolves?",
+      "wordCount": 5
+    },
+    {
+      "id": 367,
+      "index": 367,
+      "character": "STANDS WITH A FIST",
+      "gender": "Female",
+      "line": "What do you mean?",
+      "wordCount": 4
+    },
+    {
+      "id": 368,
+      "index": 368,
+      "character": "BLACK SHAWL",
+      "gender": "Female",
+      "line": "How is he learning?",
+      "wordCount": 4
+    },
+    {
+      "id": 369,
+      "index": 369,
+      "character": "STANDS WITH A FIST",
+      "gender": "Female",
+      "line": "He learns well... he is fast.",
+      "wordCount": 6
+    },
+    {
+      "id": 370,
+      "index": 370,
+      "character": "DANCES WITH WOLVES",
+      "gender": "NA",
+      "line": "You go for water?",
+      "wordCount": 4
+    },
+    {
+      "id": 371,
+      "index": 371,
+      "character": "STANDS WITH A FIST",
+      "gender": "Female",
+      "line": "Yes.",
+      "wordCount": 1
+    },
+    {
+      "id": 372,
+      "index": 372,
+      "character": "DANCES WITH WOLVES",
+      "gender": "NA",
+      "line": "Let us take you.",
+      "wordCount": 4
+    },
+    {
+      "id": 373,
+      "index": 373,
+      "character": "DANCES WITH WOLVES",
+      "gender": "NA",
+      "line": "How did you get your name?",
+      "wordCount": 6
+    },
+    {
+      "id": 374,
+      "index": 374,
+      "character": "STANDS WITH A FIST",
+      "gender": "Female",
+      "line": "I was not very old when I came to be with the people... I was made to work.",
+      "wordCount": 18
+    },
+    {
+      "id": 375,
+      "index": 375,
+      "character": "STANDS WITH A FIST",
+      "gender": "Female",
+      "line": "I worked every day... very hard... there was a woman who didn't like me. She called me bad names... sometimes she beat me. One day she was calling me these bad names, her face in my face, and I hit her. I was not very big, but she fell down. She fell hard and didn't move. I stood over her with my fist and asked if any other woman wanted to call me bad names... No one bothered me after that day.",
+      "wordCount": 82
+    },
+    {
+      "id": 376,
+      "index": 376,
+      "character": "DANCES WITH WOLVES",
+      "gender": "NA",
+      "line": "I would not think so.",
+      "wordCount": 5
+    },
+    {
+      "id": 377,
+      "index": 377,
+      "character": "DANCES WITH WOLVES",
+      "gender": "NA",
+      "line": "Show me where you hit her.",
+      "wordCount": 6
+    },
+    {
+      "id": 378,
+      "index": 378,
+      "character": "DANCES WITH WOLVES",
+      "gender": "NA",
+      "line": "Why are you not married?",
+      "wordCount": 5
+    },
+    {
+      "id": 379,
+      "index": 379,
+      "character": "STANDS WITH A FIST",
+      "gender": "Female",
+      "line": "I must go.",
+      "wordCount": 3
+    },
+    {
+      "id": 380,
+      "index": 380,
+      "character": "DANCES WITH WOLVES",
+      "gender": "NA",
+      "line": "I'm sorry. Let me help...",
+      "wordCount": 5
+    },
+    {
+      "id": 381,
+      "index": 381,
+      "character": "STANDS WITH A FIST",
+      "gender": "Female",
+      "line": "No.",
+      "wordCount": 1
+    },
+    {
+      "id": 382,
+      "index": 382,
+      "character": "BLACK SHAWL",
+      "gender": "Female",
+      "line": "You are not talking today?",
+      "wordCount": 5
+    },
+    {
+      "id": 383,
+      "index": 383,
+      "character": "STANDS WITH A FIST",
+      "gender": "Female",
+      "line": "No, I'm not.",
+      "wordCount": 3
+    },
+    {
+      "id": 384,
+      "index": 384,
+      "character": "STONE CALF",
+      "gender": "Male",
+      "line": "Some of your words are wrong... but you are learning fast. That is good. What can I tell you today?",
+      "wordCount": 20
+    },
+    {
+      "id": 385,
+      "index": 385,
+      "character": "DANCES WITH WOLVES",
+      "gender": "NA",
+      "line": "I want to know about Stands With A Fist.",
+      "wordCount": 9
+    },
+    {
+      "id": 386,
+      "index": 386,
+      "character": "STONE CALF",
+      "gender": "Male",
+      "line": "What is your question?",
+      "wordCount": 4
+    },
+    {
+      "id": 387,
+      "index": 387,
+      "character": "DANCES WITH WOLVES",
+      "gender": "NA",
+      "line": "There is no man with her.",
+      "wordCount": 6
+    },
+    {
+      "id": 388,
+      "index": 388,
+      "character": "STONE CALF",
+      "gender": "Male",
+      "line": "She is in mourning.",
+      "wordCount": 4
+    },
+    {
+      "id": 389,
+      "index": 389,
+      "character": "DANCES WITH WOLVES",
+      "gender": "NA",
+      "line": "I do not understand \"mourning\".",
+      "wordCount": 5
+    },
+    {
+      "id": 390,
+      "index": 390,
+      "character": "STONE CALF",
+      "gender": "Male",
+      "line": "She is crying for someone.",
+      "wordCount": 5
+    },
+    {
+      "id": 391,
+      "index": 391,
+      "character": "DANCES WITH WOLVES",
+      "gender": "NA",
+      "line": "Crying for who?",
+      "wordCount": 3
+    },
+    {
+      "id": 392,
+      "index": 392,
+      "character": "STONE CALF",
+      "gender": "Male",
+      "line": "It is not polite to speak of the dead... But I will tell you... you are new. She cries for her husband. He was killed not long ago.",
+      "wordCount": 28
+    },
+    {
+      "id": 393,
+      "index": 393,
+      "character": "DANCES WITH WOLVES",
+      "gender": "NA",
+      "line": "How long will she cry?",
+      "wordCount": 5
+    },
+    {
+      "id": 394,
+      "index": 394,
+      "character": "STONE CALF",
+      "gender": "Male",
+      "line": "It is Kicking Bird's place to say when she is finished.",
+      "wordCount": 11
+    },
+    {
+      "id": 395,
+      "index": 395,
+      "character": "BLACK SHAWL",
+      "gender": "Female",
+      "line": "People are talking about you...",
+      "wordCount": 5
+    },
+    {
+      "id": 396,
+      "index": 396,
+      "character": "STANDS WITH A FIST",
+      "gender": "Female",
+      "line": "What are they saying?",
+      "wordCount": 4
+    },
+    {
+      "id": 397,
+      "index": 397,
+      "character": "BLACK SHAWL",
+      "gender": "Female",
+      "line": "They are proud of the medicine you are making with Dances With Wolves.",
+      "wordCount": 13
+    },
+    {
+      "id": 398,
+      "index": 398,
+      "character": "STANDS WITH A FIST",
+      "gender": "Female",
+      "line": "I have hurt him and I must go talk to him.",
+      "wordCount": 11
+    },
+    {
+      "id": 399,
+      "index": 399,
+      "character": "BLACK SHAWL",
+      "gender": "Female",
+      "line": "You can't, he is gone.",
+      "wordCount": 5
+    },
+    {
+      "id": 400,
+      "index": 400,
+      "character": "STANDS WITH A FIST",
+      "gender": "Female",
+      "line": "I am in mourning.",
+      "wordCount": 4
+    },
+    {
+      "id": 401,
+      "index": 401,
+      "character": "DANCES WITH WOLVES",
+      "gender": "NA",
+      "line": "I know... Stone Calf told me.",
+      "wordCount": 6
+    },
+    {
+      "id": 402,
+      "index": 402,
+      "character": "STANDS WITH A FIST",
+      "gender": "Female",
+      "line": "No one can know... we must be careful.",
+      "wordCount": 8
+    },
+    {
+      "id": 403,
+      "index": 403,
+      "character": "DANCES WITH WOLVES",
+      "gender": "NA",
+      "line": "Yes.",
+      "wordCount": 1
+    },
+    {
+      "id": 404,
+      "index": 404,
+      "character": "STANDS WITH A FIST",
+      "gender": "Female",
+      "line": "We must be careful.",
+      "wordCount": 4
+    },
+    {
+      "id": 405,
+      "index": 405,
+      "character": "SMILES A LOT",
+      "gender": "Male",
+      "line": "What are you doing?",
+      "wordCount": 4
+    },
+    {
+      "id": 406,
+      "index": 406,
+      "character": "DANCES WITH WOLVES",
+      "gender": "NA",
+      "line": "Nothin'.",
+      "wordCount": 1
+    },
+    {
+      "id": 407,
+      "index": 407,
+      "character": "STANDS WITH A FIST",
+      "gender": "Female",
+      "line": "Nothin'.",
+      "wordCount": 1
+    },
+    {
+      "id": 408,
+      "index": 408,
+      "character": "WORM",
+      "gender": "Male",
+      "line": "We got a snake.",
+      "wordCount": 4
+    },
+    {
+      "id": 409,
+      "index": 409,
+      "character": "OTTER",
+      "gender": "Male",
+      "line": "We're gonna see if it can swim the river. You wanna come?",
+      "wordCount": 12
+    },
+    {
+      "id": 410,
+      "index": 410,
+      "character": "DANCES WITH WOLVES",
+      "gender": "NA",
+      "line": "Okay.",
+      "wordCount": 1
+    },
+    {
+      "id": 411,
+      "index": 411,
+      "character": "DANCES WITH WOLVES",
+      "gender": "NA",
+      "line": "Don't do that!",
+      "wordCount": 3
+    },
+    {
+      "id": 412,
+      "index": 412,
+      "character": "STANDS WITH A FIST",
+      "gender": "Female",
+      "line": "Trouble...",
+      "wordCount": 1
+    },
+    {
+      "id": 413,
+      "index": 413,
+      "character": "STANDS WITH A FIST",
+      "gender": "Female",
+      "line": "Pawnee... a big party... thirty or forty men. The Kiowa hunters found them not far to the north. The Pawnee are coming his way. Soon they will find our camp.",
+      "wordCount": 30
+    },
+    {
+      "id": 414,
+      "index": 414,
+      "character": "DANCES WITH WOLVES",
+      "gender": "NA",
+      "line": "Stone Calf... I follow you.",
+      "wordCount": 5
+    },
+    {
+      "id": 415,
+      "index": 415,
+      "character": "STONE CALF",
+      "gender": "Male",
+      "line": "The Pawnee do not come for horses, they come for blood... and with many men gone, we are few.",
+      "wordCount": 19
+    },
+    {
+      "id": 416,
+      "index": 416,
+      "character": "STONE CALF",
+      "gender": "Male",
+      "line": "Get your weapons and come to my lodge.",
+      "wordCount": 8
+    },
+    {
+      "id": 417,
+      "index": 417,
+      "character": "STANDS WITH A FIST",
+      "gender": "Female",
+      "line": "I will go.",
+      "wordCount": 3
+    },
+    {
+      "id": 418,
+      "index": 418,
+      "character": "DANCES WITH WOLVES",
+      "gender": "NA",
+      "line": "Stone Calf... wait...",
+      "wordCount": 3
+    },
+    {
+      "id": 419,
+      "index": 419,
+      "character": "DANCES WITH WOLVES",
+      "gender": "NA",
+      "line": "I have guns... many far-shooting guns.",
+      "wordCount": 6
+    },
+    {
+      "id": 420,
+      "index": 420,
+      "character": "TEN BEARS",
+      "gender": "Male",
+      "line": "No, the ride is long... the weather is bad. We can spare no men.",
+      "wordCount": 14
+    },
+    {
+      "id": 421,
+      "index": 421,
+      "character": "DANCES WITH WOLVES",
+      "gender": "NA",
+      "line": "Guns would make one warrior like two.",
+      "wordCount": 7
+    },
+    {
+      "id": 422,
+      "index": 422,
+      "character": "TEN BEARS",
+      "gender": "Male",
+      "line": "Take one man and go quickly.",
+      "wordCount": 6
+    },
+    {
+      "id": 423,
+      "index": 423,
+      "character": "DANCES WITH WOLVES",
+      "gender": "NA",
+      "line": "I will take Smiles A Lot.",
+      "wordCount": 6
+    },
+    {
+      "id": 424,
+      "index": 424,
+      "character": "SMILES A LOT",
+      "gender": "Male",
+      "line": "Dances With Wolves... Dances With Wolves.",
+      "wordCount": 6
+    },
+    {
+      "id": 425,
+      "index": 425,
+      "character": "DANCES WITH WOLVES",
+      "gender": "NA",
+      "line": "Wait.",
+      "wordCount": 1
+    },
+    {
+      "id": 426,
+      "index": 426,
+      "character": "TEN BEARS",
+      "gender": "Male",
+      "line": "Hear us now. A white soldier with many far-shooting guns... how would he fight the Pawnee?",
+      "wordCount": 16
+    },
+    {
+      "id": 427,
+      "index": 427,
+      "character": "DANCES WITH WOLVES",
+      "gender": "NA",
+      "line": "I would hide in the village.",
+      "wordCount": 6
+    },
+    {
+      "id": 428,
+      "index": 428,
+      "character": "TEN BEARS",
+      "gender": "Male",
+      "line": "Dances With Wolves has not finished.",
+      "wordCount": 6
+    },
+    {
+      "id": 429,
+      "index": 429,
+      "character": "DANCES WITH WOLVES",
+      "gender": "NA",
+      "line": "I would let the enemy think we are asleep... let him come close. Then we would shoot together and run to fight them, drive them into the river and kill so many that they would never trouble us again.",
+      "wordCount": 39
+    },
+    {
+      "id": 430,
+      "index": 430,
+      "character": "TEN BEARS",
+      "gender": "Male",
+      "line": "I am of the same mind as Dances With Wolves... we should kill so many that they never trouble us again.",
+      "wordCount": 21
+    },
+    {
+      "id": 431,
+      "index": 431,
+      "character": "DANCES WITH WOLVES",
+      "gender": "NA",
+      "line": "It was hard to know how to feel. I had never been in a battle like this one. This had not been a fight for territory or riches or to make men free. This battle had no ego. It had been fought to preserve the food stores that would see us through winter, to protect the lives of women and children and loved ones only a few feet away. I felt a pride I had never felt before.",
+      "wordCount": 78
+    },
+    {
+      "id": 432,
+      "index": 432,
+      "character": "DANCES WITH WOLVES",
+      "gender": "NA",
+      "line": "I shot this one.",
+      "wordCount": 4
+    },
+    {
+      "id": 433,
+      "index": 433,
+      "character": "1ST WARRIOR",
+      "gender": "NA",
+      "line": "Yes, I saw you shoot him.",
+      "wordCount": 6
+    },
+    {
+      "id": 434,
+      "index": 434,
+      "character": "2ND WARRIOR",
+      "gender": "NA",
+      "line": "You killed that one too.",
+      "wordCount": 5
+    },
+    {
+      "id": 435,
+      "index": 435,
+      "character": "DANCES WITH WOLVES",
+      "gender": "NA",
+      "line": "I had never really known who John Dunbar was. Perhaps because the name itself had no meaning. But as I heard my Sioux name being called over and over, I knew for the first time who I really was.",
+      "wordCount": 39
+    },
+    {
+      "id": 436,
+      "index": 436,
+      "character": "WIND IN HIS HAIR",
+      "gender": "Male",
+      "line": "There is gambling tonight... at Horse Back's lodge. Horse Back's games are always good.",
+      "wordCount": 14
+    },
+    {
+      "id": 437,
+      "index": 437,
+      "character": "DANCES WITH WOLVES",
+      "gender": "NA",
+      "line": "I am tired... and Horse Back already has a good rifle of mine. thank you... goodnight.",
+      "wordCount": 16
+    },
+    {
+      "id": 438,
+      "index": 438,
+      "character": "BLACK SHAWL",
+      "gender": "Female",
+      "line": "How long will Stands With A Fist mourn?",
+      "wordCount": 8
+    },
+    {
+      "id": 439,
+      "index": 439,
+      "character": "KICKING BIRD",
+      "gender": "Male",
+      "line": "I don't know.",
+      "wordCount": 3
+    },
+    {
+      "id": 440,
+      "index": 440,
+      "character": "BLACK SHAWL",
+      "gender": "Female",
+      "line": "I hope it will not be too long.",
+      "wordCount": 8
+    },
+    {
+      "id": 441,
+      "index": 441,
+      "character": "KICKING BIRD",
+      "gender": "Male",
+      "line": "Something has happened? Well what?",
+      "wordCount": 5
+    },
+    {
+      "id": 442,
+      "index": 442,
+      "character": "BLACK SHAWL",
+      "gender": "Female",
+      "line": "She has found love again.",
+      "wordCount": 5
+    },
+    {
+      "id": 443,
+      "index": 443,
+      "character": "KICKING BIRD",
+      "gender": "Male",
+      "line": "With who?",
+      "wordCount": 2
+    },
+    {
+      "id": 444,
+      "index": 444,
+      "character": "BLACK SHAWL",
+      "gender": "Female",
+      "line": "Dances With Wolves.",
+      "wordCount": 3
+    },
+    {
+      "id": 445,
+      "index": 445,
+      "character": "KICKING BIRD",
+      "gender": "Male",
+      "line": "Are you certain of this?",
+      "wordCount": 5
+    },
+    {
+      "id": 446,
+      "index": 446,
+      "character": "BLACK SHAWL",
+      "gender": "Female",
+      "line": "When you see them together you will know.",
+      "wordCount": 8
+    },
+    {
+      "id": 447,
+      "index": 447,
+      "character": "KICKING BIRD",
+      "gender": "Male",
+      "line": "What are people saying? They're not angry?",
+      "wordCount": 7
+    },
+    {
+      "id": 448,
+      "index": 448,
+      "character": "BLACK SHAWL",
+      "gender": "Female",
+      "line": "No. They like the match. It makes sense. They are both white.",
+      "wordCount": 12
+    },
+    {
+      "id": 449,
+      "index": 449,
+      "character": "KICKING BIRD",
+      "gender": "Male",
+      "line": "I suppose I will be the one to say something.",
+      "wordCount": 10
+    },
+    {
+      "id": 450,
+      "index": 450,
+      "character": "BLACK SHAWL",
+      "gender": "Female",
+      "line": "She's your daughter now.",
+      "wordCount": 4
+    },
+    {
+      "id": 451,
+      "index": 451,
+      "character": "BLACK SHAWL",
+      "gender": "Female",
+      "line": "You can't see everything coming.",
+      "wordCount": 5
+    },
+    {
+      "id": 452,
+      "index": 452,
+      "character": "KICKING BIRD",
+      "gender": "Male",
+      "line": "Stands With A Fist.",
+      "wordCount": 4
+    },
+    {
+      "id": 453,
+      "index": 453,
+      "character": "STANDS WITH A FIST",
+      "gender": "Female",
+      "line": "Yes.",
+      "wordCount": 1
+    },
+    {
+      "id": 454,
+      "index": 454,
+      "character": "KICKING BIRD",
+      "gender": "Male",
+      "line": "You are no longer a widow.",
+      "wordCount": 6
+    },
+    {
+      "id": 455,
+      "index": 455,
+      "character": "WIND IN HIS HAIR",
+      "gender": "Male",
+      "line": "There's talk that you want to get married.",
+      "wordCount": 8
+    },
+    {
+      "id": 456,
+      "index": 456,
+      "character": "DANCES WITH WOLVES",
+      "gender": "NA",
+      "line": "To who?",
+      "wordCount": 2
+    },
+    {
+      "id": 457,
+      "index": 457,
+      "character": "SMILES A LOT",
+      "gender": "Male",
+      "line": "To Stands With A Fist.",
+      "wordCount": 5
+    },
+    {
+      "id": 458,
+      "index": 458,
+      "character": "WIND IN HIS HAIR",
+      "gender": "Male",
+      "line": "That's the one isn't it?",
+      "wordCount": 5
+    },
+    {
+      "id": 459,
+      "index": 459,
+      "character": "DANCES WITH WOLVES",
+      "gender": "NA",
+      "line": "She's in mourning.",
+      "wordCount": 3
+    },
+    {
+      "id": 460,
+      "index": 460,
+      "character": "SMILES A LOT",
+      "gender": "Male",
+      "line": "Not today.",
+      "wordCount": 2
+    },
+    {
+      "id": 461,
+      "index": 461,
+      "character": "WIND IN HIS HAIR",
+      "gender": "Male",
+      "line": "She has been released. Kicking Bird did it.",
+      "wordCount": 8
+    },
+    {
+      "id": 462,
+      "index": 462,
+      "character": "DANCES WITH WOLVES",
+      "gender": "NA",
+      "line": "He did?",
+      "wordCount": 2
+    },
+    {
+      "id": 463,
+      "index": 463,
+      "character": "WIND IN HIS HAIR",
+      "gender": "Male",
+      "line": "What are you doing?",
+      "wordCount": 4
+    },
+    {
+      "id": 464,
+      "index": 464,
+      "character": "DANCES WITH WOLVES",
+      "gender": "NA",
+      "line": "Kicking Bird told me to wait.",
+      "wordCount": 6
+    },
+    {
+      "id": 465,
+      "index": 465,
+      "character": "WIND IN HIS HAIR",
+      "gender": "Male",
+      "line": "You might be waiting a long time. Smiles A Lot says he saw Kicking Bird riding on the prairie...",
+      "wordCount": 19
+    },
+    {
+      "id": 466,
+      "index": 466,
+      "character": "WIND IN HIS HAIR",
+      "gender": "Male",
+      "line": "He says he was talking to himself. When a medicine man is the last to know he can take it pretty hard.",
+      "wordCount": 22
+    },
+    {
+      "id": 467,
+      "index": 467,
+      "character": "DANCES WITH WOLVES",
+      "gender": "NA",
+      "line": "What do I do?",
+      "wordCount": 4
+    },
+    {
+      "id": 468,
+      "index": 468,
+      "character": "WIND IN HIS HAIR",
+      "gender": "Male",
+      "line": "You are pretty poor my friend and a Sioux girl is not for free. I don't know if you can get married.",
+      "wordCount": 22
+    },
+    {
+      "id": 469,
+      "index": 469,
+      "character": "DANCES WITH WOLVES",
+      "gender": "NA",
+      "line": "I have the buckskin...",
+      "wordCount": 4
+    },
+    {
+      "id": 470,
+      "index": 470,
+      "character": "WIND IN HIS HAIR",
+      "gender": "Male",
+      "line": "That's too much medicine.",
+      "wordCount": 4
+    },
+    {
+      "id": 471,
+      "index": 471,
+      "character": "DANCES WITH WOLVES",
+      "gender": "NA",
+      "line": "Do you think the buckskin is too much medicine?",
+      "wordCount": 9
+    },
+    {
+      "id": 472,
+      "index": 472,
+      "character": "SMILES A LOT",
+      "gender": "Male",
+      "line": "For a girl.",
+      "wordCount": 3
+    },
+    {
+      "id": 473,
+      "index": 473,
+      "character": "WIND IN HIS HAIR",
+      "gender": "Male",
+      "line": "Maybe we can help you... wait here for us.",
+      "wordCount": 9
+    },
+    {
+      "id": 474,
+      "index": 474,
+      "character": "DANCES WITH WOLVES",
+      "gender": "NA",
+      "line": "I thought we had been discreet but apparently we fooled no one.",
+      "wordCount": 12
+    },
+    {
+      "id": 475,
+      "index": 475,
+      "character": "DANCES WITH WOLVES",
+      "gender": "NA",
+      "line": "Wind In His Hair said if the match was acccepted the ponies would be gone in the morning.",
+      "wordCount": 18
+    },
+    {
+      "id": 476,
+      "index": 476,
+      "character": "WIND IN HIS HAIR",
+      "gender": "Male",
+      "line": "Turn around...",
+      "wordCount": 2
+    },
+    {
+      "id": 477,
+      "index": 477,
+      "character": "WIND IN HIS HAIR",
+      "gender": "Male",
+      "line": "Pretty good...",
+      "wordCount": 2
+    },
+    {
+      "id": 478,
+      "index": 478,
+      "character": "WIND IN HIS HAIR",
+      "gender": "Male",
+      "line": "You know, the man she mourned for was my best friend.",
+      "wordCount": 11
+    },
+    {
+      "id": 479,
+      "index": 479,
+      "character": "DANCES WITH WOLVES",
+      "gender": "NA",
+      "line": "I didn't know that.",
+      "wordCount": 4
+    },
+    {
+      "id": 480,
+      "index": 480,
+      "character": "WIND IN HIS HAIR",
+      "gender": "Male",
+      "line": "He was a good man. It's been hard for me. I am not the thinker Kicking Bird is. But I think he went away from her because you were coming. That is how I see it now.",
+      "wordCount": 37
+    },
+    {
+      "id": 481,
+      "index": 481,
+      "character": "KICKING BIRD",
+      "gender": "Male",
+      "line": "This is a good day for me.",
+      "wordCount": 7
+    },
+    {
+      "id": 482,
+      "index": 482,
+      "character": "DANCES WITH WOLVES",
+      "gender": "NA",
+      "line": "And for me.",
+      "wordCount": 3
+    },
+    {
+      "id": 483,
+      "index": 483,
+      "character": "KICKING BIRD",
+      "gender": "Male",
+      "line": "Stands With A Fist... if you want this man, take his hand in yours.",
+      "wordCount": 14
+    },
+    {
+      "id": 484,
+      "index": 484,
+      "character": "DANCES WITH WOLVES",
+      "gender": "NA",
+      "line": "I had never been married before. I don't know if all grooms have the same experience. But as Kicking Bird began to speak about what was expected of a Sioux husband, my mind began to swim in a way that shut out everything but her. The tiny details of her costume. The contours of her shape. The light in her eyes. The smallness of her feet. I knew that the love between us would be served.",
+      "wordCount": 76
+    },
+    {
+      "id": 485,
+      "index": 485,
+      "character": "KICKING BIRD",
+      "gender": "Male",
+      "line": "Have you heard all that I have said?",
+      "wordCount": 8
+    },
+    {
+      "id": 486,
+      "index": 486,
+      "character": "DANCES WITH WOLVES",
+      "gender": "NA",
+      "line": "Yes.",
+      "wordCount": 1
+    },
+    {
+      "id": 487,
+      "index": 487,
+      "character": "KICKING BIRD",
+      "gender": "Male",
+      "line": "Good, then take her inside... she is your wife.",
+      "wordCount": 9
+    },
+    {
+      "id": 488,
+      "index": 488,
+      "character": "DANCES WITH WOLVES",
+      "gender": "NA",
+      "line": "Oh... good... thank you... goodbye...",
+      "wordCount": 5
+    },
+    {
+      "id": 489,
+      "index": 489,
+      "character": "WORM",
+      "gender": "Male",
+      "line": "Dances With Wolves' door is closed alot these days.",
+      "wordCount": 9
+    },
+    {
+      "id": 490,
+      "index": 490,
+      "character": "SMILES A LOT",
+      "gender": "Male",
+      "line": "They're trying to make a baby.",
+      "wordCount": 6
+    },
+    {
+      "id": 491,
+      "index": 491,
+      "character": "OTTER",
+      "gender": "Male",
+      "line": "I know that.",
+      "wordCount": 3
+    },
+    {
+      "id": 492,
+      "index": 492,
+      "character": "SMILES A LOT",
+      "gender": "Male",
+      "line": "You would think they could have made a baby by now.",
+      "wordCount": 11
+    },
+    {
+      "id": 493,
+      "index": 493,
+      "character": "WORM",
+      "gender": "Male",
+      "line": "Maybe they're having a hard time. Some people have a hard time.",
+      "wordCount": 12
+    },
+    {
+      "id": 494,
+      "index": 494,
+      "character": "SMILES A LOT",
+      "gender": "Male",
+      "line": "I don't think they're having a hard time.",
+      "wordCount": 8
+    },
+    {
+      "id": 495,
+      "index": 495,
+      "character": "OTTER",
+      "gender": "Male",
+      "line": "Me neither.",
+      "wordCount": 2
+    },
+    {
+      "id": 496,
+      "index": 496,
+      "character": "OTTER",
+      "gender": "Male",
+      "line": "Maybe we should pull the smoke flap closed. Then they would come out.",
+      "wordCount": 13
+    },
+    {
+      "id": 497,
+      "index": 497,
+      "character": "KICKING BIRD",
+      "gender": "Male",
+      "line": "Dances With Wolves, are you in there?",
+      "wordCount": 7
+    },
+    {
+      "id": 498,
+      "index": 498,
+      "character": "KICKING BIRD",
+      "gender": "Male",
+      "line": "I am riding today to a far away place. It is a place I haven't seen for a long time. A sacred place. I would like you to come with me.",
+      "wordCount": 31
+    },
+    {
+      "id": 499,
+      "index": 499,
+      "character": "DANCES WITH WOLVES",
+      "gender": "NA",
+      "line": "It's good to be out.",
+      "wordCount": 5
+    },
+    {
+      "id": 500,
+      "index": 500,
+      "character": "KICKING BIRD",
+      "gender": "Male",
+      "line": "Yes it must be.",
+      "wordCount": 4
+    },
+    {
+      "id": 501,
+      "index": 501,
+      "character": "DANCES WITH WOLVES",
+      "gender": "NA",
+      "line": "We are trying for a baby.",
+      "wordCount": 6
+    },
+    {
+      "id": 502,
+      "index": 502,
+      "character": "KICKING BIRD",
+      "gender": "Male",
+      "line": "No waiting?",
+      "wordCount": 2
+    },
+    {
+      "id": 503,
+      "index": 503,
+      "character": "DANCES WITH WOLVES",
+      "gender": "NA",
+      "line": "No waiting.",
+      "wordCount": 2
+    },
+    {
+      "id": 504,
+      "index": 504,
+      "character": "KICKING BIRD",
+      "gender": "Male",
+      "line": "I was just thinking that of all the trails in this life, there is one that matters more than all the others. It is the trail of a true human being. I think you are on this trail and it is good to see.",
+      "wordCount": 44
+    },
+    {
+      "id": 505,
+      "index": 505,
+      "character": "KICKING BIRD",
+      "gender": "Male",
+      "line": "It is said that all the animals were born here... that from here they spread over the prairies to feed all the people. Even our enemies say this is a sacred place.",
+      "wordCount": 32
+    },
+    {
+      "id": 506,
+      "index": 506,
+      "character": "DANCES WITH WOLVES",
+      "gender": "NA",
+      "line": "It's quiet.",
+      "wordCount": 2
+    },
+    {
+      "id": 507,
+      "index": 507,
+      "character": "DANCES WITH WOLVES",
+      "gender": "NA",
+      "line": "We must wait for these people...",
+      "wordCount": 6
+    },
+    {
+      "id": 508,
+      "index": 508,
+      "character": "KICKING BIRD",
+      "gender": "Male",
+      "line": "No, they've been gone a week maybe more... we will water the horses and go home.",
+      "wordCount": 16
+    },
+    {
+      "id": 509,
+      "index": 509,
+      "character": "DANCES WITH WOLVES",
+      "gender": "NA",
+      "line": "You have asked me many times about the white people... you always ask how many more are coming.",
+      "wordCount": 18
+    },
+    {
+      "id": 510,
+      "index": 510,
+      "character": "DANCES WITH WOLVES",
+      "gender": "NA",
+      "line": "There will be a lot my friend... more than can be counted.",
+      "wordCount": 12
+    },
+    {
+      "id": 511,
+      "index": 511,
+      "character": "KICKING BIRD",
+      "gender": "Male",
+      "line": "Help me to know how many.",
+      "wordCount": 6
+    },
+    {
+      "id": 512,
+      "index": 512,
+      "character": "DANCES WITH WOLVES",
+      "gender": "NA",
+      "line": "Like the stars.",
+      "wordCount": 3
+    },
+    {
+      "id": 513,
+      "index": 513,
+      "character": "DANCES WITH WOLVES",
+      "gender": "NA",
+      "line": "It makes me afraid for all the Sioux.",
+      "wordCount": 8
+    },
+    {
+      "id": 514,
+      "index": 514,
+      "character": "TEN BEARS",
+      "gender": "Male",
+      "line": "It's hard to know what to do.",
+      "wordCount": 7
+    },
+    {
+      "id": 515,
+      "index": 515,
+      "character": "TEN BEARS",
+      "gender": "Male",
+      "line": "The men who wore this came in the time of my grandfather's grandfather. Eventually, we drove them out. Then the Mexicans came. In my own time the whites came... the Texans. They have been like all the others who find something they want in our country. They take it without asking. I have always been a peaceful man, happy to be in my own country and wanting nothing from the white people. Nothing at all. But I think you are right. I think they will keep coming. When I think of that, I look at this bundle. Our country is all that we want. We will fight to keep it.",
+      "wordCount": 110
+    },
+    {
+      "id": 516,
+      "index": 516,
+      "character": "TEN BEARS",
+      "gender": "Male",
+      "line": "Tomorrow morning we will strike the village and go to the winter camp.",
+      "wordCount": 13
+    },
+    {
+      "id": 517,
+      "index": 517,
+      "character": "STANDS WITH A FIST",
+      "gender": "Female",
+      "line": "You have everything from the soldier fort?",
+      "wordCount": 7
+    },
+    {
+      "id": 518,
+      "index": 518,
+      "character": "DANCES WITH WOLVES",
+      "gender": "NA",
+      "line": "No, there is nothing for me there.",
+      "wordCount": 7
+    },
+    {
+      "id": 519,
+      "index": 519,
+      "character": "STANDS WITH A FIST",
+      "gender": "Female",
+      "line": "That's good.",
+      "wordCount": 2
+    },
+    {
+      "id": 520,
+      "index": 520,
+      "character": "DANCES WITH WOLVES",
+      "gender": "NA",
+      "line": "Stands With A Fist... wait...",
+      "wordCount": 5
+    },
+    {
+      "id": 521,
+      "index": 521,
+      "character": "DANCES WITH WOLVES",
+      "gender": "NA",
+      "line": "The words in the book are like a trail for people to follow. It tells everything about my life here. I must get it.",
+      "wordCount": 24
+    },
+    {
+      "id": 522,
+      "index": 522,
+      "character": "KICKING BIRD",
+      "gender": "Male",
+      "line": "We cannot wait for you.",
+      "wordCount": 5
+    },
+    {
+      "id": 523,
+      "index": 523,
+      "character": "DANCES WITH WOLVES",
+      "gender": "NA",
+      "line": "I will catch up.",
+      "wordCount": 4
+    },
+    {
+      "id": 524,
+      "index": 524,
+      "character": "DANCES WITH WOLVES",
+      "gender": "NA",
+      "line": "You killed him...",
+      "wordCount": 3
+    },
+    {
+      "id": 525,
+      "index": 525,
+      "character": "KICKING BIRD",
+      "gender": "Male",
+      "line": "Something has happened... Dances With Wolves is not coming.",
+      "wordCount": 9
+    },
+    {
+      "id": 526,
+      "index": 526,
+      "character": "WIND IN HIS HAIR",
+      "gender": "Male",
+      "line": "He must have trouble.",
+      "wordCount": 4
+    },
+    {
+      "id": 527,
+      "index": 527,
+      "character": "KICKING BIRD",
+      "gender": "Male",
+      "line": "Pick two good men with fast ponies and send them back to the soldier fort.",
+      "wordCount": 15
+    },
+    {
+      "id": 528,
+      "index": 528,
+      "character": "BAUER",
+      "gender": "Male",
+      "line": "Spivey...",
+      "wordCount": 1
+    },
+    {
+      "id": 529,
+      "index": 529,
+      "character": "SPIVEY",
+      "gender": "Male",
+      "line": "Yessir sergeant...",
+      "wordCount": 2
+    },
+    {
+      "id": 530,
+      "index": 530,
+      "character": "SERGEANT BAUER",
+      "gender": "Male",
+      "line": "Tell the major he's wakin' up... and move your worthless ass.",
+      "wordCount": 11
+    },
+    {
+      "id": 531,
+      "index": 531,
+      "character": "SERGEANT BAUER",
+      "gender": "Male",
+      "line": "Got yourself a helluva shiner, didn't ya?",
+      "wordCount": 7
+    },
+    {
+      "id": 532,
+      "index": 532,
+      "character": "MAJOR",
+      "gender": "Male",
+      "line": "Does he speak english?",
+      "wordCount": 4
+    },
+    {
+      "id": 533,
+      "index": 533,
+      "character": "SERGEANT BAUER",
+      "gender": "Male",
+      "line": "Don't know sir... you speak english? Talk english? Talk?",
+      "wordCount": 9
+    },
+    {
+      "id": 534,
+      "index": 534,
+      "character": "DANCES WITH WOLVES",
+      "gender": "NA",
+      "line": "I speak english...",
+      "wordCount": 3
+    },
+    {
+      "id": 535,
+      "index": 535,
+      "character": "MAJOR",
+      "gender": "Male",
+      "line": "Who are you?",
+      "wordCount": 3
+    },
+    {
+      "id": 536,
+      "index": 536,
+      "character": "DANCES WITH WOLVES",
+      "gender": "NA",
+      "line": "Lieutenant John. J. Dunbar. This is my post.",
+      "wordCount": 8
+    },
+    {
+      "id": 537,
+      "index": 537,
+      "character": "MAJOR",
+      "gender": "Male",
+      "line": "Why are you dressed like this?",
+      "wordCount": 6
+    },
+    {
+      "id": 538,
+      "index": 538,
+      "character": "DANCES WITH WOLVES",
+      "gender": "NA",
+      "line": "I came out from Fort Hays last April. But there was no one here.",
+      "wordCount": 14
+    },
+    {
+      "id": 539,
+      "index": 539,
+      "character": "ELGIN",
+      "gender": "Male",
+      "line": "You have proof of that?",
+      "wordCount": 5
+    },
+    {
+      "id": 540,
+      "index": 540,
+      "character": "DANCES WITH WOLVES",
+      "gender": "NA",
+      "line": "My journal is on the bunk in my quarters. My orders are in the journal. It will tell you everything.",
+      "wordCount": 20
+    },
+    {
+      "id": 541,
+      "index": 541,
+      "character": "ELGIN",
+      "gender": "Male",
+      "line": "Spivey, you and Edwards were here first. Did you find anything... a journal.",
+      "wordCount": 13
+    },
+    {
+      "id": 542,
+      "index": 542,
+      "character": "SPIVEY",
+      "gender": "Male",
+      "line": "We didn't see nothin' sir.",
+      "wordCount": 5
+    },
+    {
+      "id": 543,
+      "index": 543,
+      "character": "ELGIN",
+      "gender": "Male",
+      "line": "Where's Edwards?",
+      "wordCount": 2
+    },
+    {
+      "id": 544,
+      "index": 544,
+      "character": "SPIVEY",
+      "gender": "Male",
+      "line": "He's outside. But he didn't see nothin' either.",
+      "wordCount": 8
+    },
+    {
+      "id": 545,
+      "index": 545,
+      "character": "SERGEANT BAUER",
+      "gender": "Male",
+      "line": "You turned Injun, din'cha?",
+      "wordCount": 4
+    },
+    {
+      "id": 546,
+      "index": 546,
+      "character": "SERGEANT BAUER",
+      "gender": "Male",
+      "line": "Din'cha?",
+      "wordCount": 1
+    },
+    {
+      "id": 547,
+      "index": 547,
+      "character": "ELGIN",
+      "gender": "Male",
+      "line": "What is your name?",
+      "wordCount": 4
+    },
+    {
+      "id": 548,
+      "index": 548,
+      "character": "DANCES WITH WOLVES",
+      "gender": "NA",
+      "line": "Dunbar... D.U.N.B.A.R... John.",
+      "wordCount": 3
+    },
+    {
+      "id": 549,
+      "index": 549,
+      "character": "ELGIN",
+      "gender": "Male",
+      "line": "You say you are an officer?",
+      "wordCount": 6
+    },
+    {
+      "id": 550,
+      "index": 550,
+      "character": "DANCES WITH WOLVES",
+      "gender": "NA",
+      "line": "Did you read my orders?",
+      "wordCount": 5
+    },
+    {
+      "id": 551,
+      "index": 551,
+      "character": "ELGIN",
+      "gender": "Male",
+      "line": "No.",
+      "wordCount": 1
+    },
+    {
+      "id": 552,
+      "index": 552,
+      "character": "DANCES WITH WOLVES",
+      "gender": "NA",
+      "line": "It was in my journal.",
+      "wordCount": 5
+    },
+    {
+      "id": 553,
+      "index": 553,
+      "character": "ELGIN",
+      "gender": "Male",
+      "line": "There are no orders and there is no journal.",
+      "wordCount": 9
+    },
+    {
+      "id": 554,
+      "index": 554,
+      "character": "ELGIN",
+      "gender": "Male",
+      "line": "Why are you out of uniform?",
+      "wordCount": 6
+    },
+    {
+      "id": 555,
+      "index": 555,
+      "character": "DANCES WITH WOLVES",
+      "gender": "NA",
+      "line": "I have to relieve myself.",
+      "wordCount": 5
+    },
+    {
+      "id": 556,
+      "index": 556,
+      "character": "GUARD",
+      "gender": "NA",
+      "line": "Here you... eyes front.",
+      "wordCount": 4
+    },
+    {
+      "id": 557,
+      "index": 557,
+      "character": "ELGIN",
+      "gender": "Male",
+      "line": "Why are you out of uniform?",
+      "wordCount": 6
+    },
+    {
+      "id": 558,
+      "index": 558,
+      "character": "DANCES WITH WOLVES",
+      "gender": "NA",
+      "line": "What is the army doing out here?",
+      "wordCount": 7
+    },
+    {
+      "id": 559,
+      "index": 559,
+      "character": "BAUER",
+      "gender": "Male",
+      "line": "Lieutenant's askin' the questions here.",
+      "wordCount": 5
+    },
+    {
+      "id": 560,
+      "index": 560,
+      "character": "ELGIN",
+      "gender": "Male",
+      "line": "We are charged with apprehending hostiles, recovering stolen property and retrieving white captives taken in hostile raidings.",
+      "wordCount": 17
+    },
+    {
+      "id": 561,
+      "index": 561,
+      "character": "DANCES WITH WOLVES",
+      "gender": "NA",
+      "line": "There are no hostiles.",
+      "wordCount": 4
+    },
+    {
+      "id": 562,
+      "index": 562,
+      "character": "MAJOR",
+      "gender": "Male",
+      "line": "We will ascertain that for ourselves. Now if you guide us to these camps and serve as an interpreter, your conduct will be reevaluated.",
+      "wordCount": 24
+    },
+    {
+      "id": 563,
+      "index": 563,
+      "character": "DANCES WITH WOLVES",
+      "gender": "NA",
+      "line": "What conduct?",
+      "wordCount": 2
+    },
+    {
+      "id": 564,
+      "index": 564,
+      "character": "MAJOR",
+      "gender": "Male",
+      "line": "Your status as a traitor might improve should you choose to cooperate with the United States Army.",
+      "wordCount": 17
+    },
+    {
+      "id": 565,
+      "index": 565,
+      "character": "DANCES WITH WOLVES",
+      "gender": "NA",
+      "line": "There is nothing for you to do out here.",
+      "wordCount": 9
+    },
+    {
+      "id": 566,
+      "index": 566,
+      "character": "ELGIN",
+      "gender": "Male",
+      "line": "Are you willing to cooperate or not?",
+      "wordCount": 7
+    },
+    {
+      "id": 567,
+      "index": 567,
+      "character": "MAJOR",
+      "gender": "Male",
+      "line": "Well, speak up...",
+      "wordCount": 3
+    },
+    {
+      "id": 568,
+      "index": 568,
+      "character": "DANCES WITH WOLVES",
+      "gender": "NA",
+      "line": "I am Dances With Wolves...",
+      "wordCount": 5
+    },
+    {
+      "id": 569,
+      "index": 569,
+      "character": "MAJOR",
+      "gender": "Male",
+      "line": "What's that?",
+      "wordCount": 2
+    },
+    {
+      "id": 570,
+      "index": 570,
+      "character": "DANCES WITH WOLVES",
+      "gender": "NA",
+      "line": "I am Dances With Wolves... I have nothing to say to you. You are not worth talking to.",
+      "wordCount": 18
+    },
+    {
+      "id": 571,
+      "index": 571,
+      "character": "ELGIN",
+      "gender": "Male",
+      "line": "Sergeant... have a detail take him down to the river... let him clean up his face.",
+      "wordCount": 16
+    },
+    {
+      "id": 572,
+      "index": 572,
+      "character": "CRAPPER",
+      "gender": "NA",
+      "line": "You got paper over there Spivey?",
+      "wordCount": 6
+    },
+    {
+      "id": 573,
+      "index": 573,
+      "character": "SPIVEY",
+      "gender": "Male",
+      "line": "What's it to you?",
+      "wordCount": 4
+    },
+    {
+      "id": 574,
+      "index": 574,
+      "character": "CRAPPER",
+      "gender": "NA",
+      "line": "Well gimme some shitbird.",
+      "wordCount": 4
+    },
+    {
+      "id": 575,
+      "index": 575,
+      "character": "SPIVEY",
+      "gender": "Male",
+      "line": "Can you read?",
+      "wordCount": 3
+    },
+    {
+      "id": 576,
+      "index": 576,
+      "character": "CRAPPER",
+      "gender": "NA",
+      "line": "Naw, I can't read. What the hell do you care... you can't either.",
+      "wordCount": 13
+    },
+    {
+      "id": 577,
+      "index": 577,
+      "character": "SPIVEY",
+      "gender": "Male",
+      "line": "Alright... hold your horses.",
+      "wordCount": 4
+    },
+    {
+      "id": 578,
+      "index": 578,
+      "character": "SERGEANT BAUER",
+      "gender": "Male",
+      "line": "Lap it up Injun.",
+      "wordCount": 4
+    },
+    {
+      "id": 579,
+      "index": 579,
+      "character": "SERGEANT BAUER",
+      "gender": "Male",
+      "line": "Go on ahead Injun... You'll just get hungrier is all... but mebbe that don't matter. Word is they're gonna ship you back to Hays. And they'll hang you once you get there.",
+      "wordCount": 32
+    },
+    {
+      "id": 580,
+      "index": 580,
+      "character": "WIND IN HIS HAIR",
+      "gender": "Male",
+      "line": "You will hold our horses... nothing more.",
+      "wordCount": 7
+    },
+    {
+      "id": 581,
+      "index": 581,
+      "character": "SPIVEY",
+      "gender": "Male",
+      "line": "I don't see nobody.",
+      "wordCount": 4
+    },
+    {
+      "id": 582,
+      "index": 582,
+      "character": "SPIVEY",
+      "gender": "Male",
+      "line": "Lookit the stupid bastard... he ain't even runnin'.",
+      "wordCount": 8
+    },
+    {
+      "id": 583,
+      "index": 583,
+      "character": "BAUER",
+      "gender": "Male",
+      "line": "Don't shoot, I seen 'em first... it's my shot.",
+      "wordCount": 9
+    },
+    {
+      "id": 584,
+      "index": 584,
+      "character": "DRIVER",
+      "gender": "NA",
+      "line": "It's my shot goddamit.",
+      "wordCount": 4
+    },
+    {
+      "id": 585,
+      "index": 585,
+      "character": "SPIVEY",
+      "gender": "Male",
+      "line": "You dumb sons a bitches.",
+      "wordCount": 5
+    },
+    {
+      "id": 586,
+      "index": 586,
+      "character": "BAUER",
+      "gender": "Male",
+      "line": "He mighta killed you.",
+      "wordCount": 4
+    },
+    {
+      "id": 587,
+      "index": 587,
+      "character": "SPIVEY",
+      "gender": "Male",
+      "line": "You want more?... get up... get up.",
+      "wordCount": 7
+    },
+    {
+      "id": 588,
+      "index": 588,
+      "character": "ELGIN",
+      "gender": "Male",
+      "line": "Spivey!",
+      "wordCount": 1
+    },
+    {
+      "id": 589,
+      "index": 589,
+      "character": "ELGIN",
+      "gender": "Male",
+      "line": "I see you bash the prisoner once more and I'll put those shackles on you...",
+      "wordCount": 15
+    },
+    {
+      "id": 590,
+      "index": 590,
+      "character": "ELGIN",
+      "gender": "Male",
+      "line": "You men! Get back to your places.",
+      "wordCount": 7
+    },
+    {
+      "id": 591,
+      "index": 591,
+      "character": "SOLDIER",
+      "gender": "NA",
+      "line": "All clear lieutenant...",
+      "wordCount": 3
+    },
+    {
+      "id": 592,
+      "index": 592,
+      "character": "SMILES A LOT",
+      "gender": "Male",
+      "line": "Dances With Wolves... look.",
+      "wordCount": 4
+    },
+    {
+      "id": 593,
+      "index": 593,
+      "character": "DANCES WITH WOLVES",
+      "gender": "NA",
+      "line": "We go South?",
+      "wordCount": 3
+    },
+    {
+      "id": 594,
+      "index": 594,
+      "character": "WIND IN HIS HAIR",
+      "gender": "Male",
+      "line": "We will ride South for two days... then turn East. No one must follow.",
+      "wordCount": 14
+    },
+    {
+      "id": 595,
+      "index": 595,
+      "character": "DANCES WITH WOLVES",
+      "gender": "NA",
+      "line": "You have nothing to say?",
+      "wordCount": 5
+    },
+    {
+      "id": 596,
+      "index": 596,
+      "character": "STANDS WITH A FIST",
+      "gender": "Female",
+      "line": "What can I tell you?",
+      "wordCount": 5
+    },
+    {
+      "id": 597,
+      "index": 597,
+      "character": "DANCES WITH WOLVES",
+      "gender": "NA",
+      "line": "What ever is on your mind.",
+      "wordCount": 6
+    },
+    {
+      "id": 598,
+      "index": 598,
+      "character": "STANDS WITH A FIST",
+      "gender": "Female",
+      "line": "We have decided. You are my husband. I am your wife. That is all I know.",
+      "wordCount": 16
+    },
+    {
+      "id": 599,
+      "index": 599,
+      "character": "TEN BEARS",
+      "gender": "Male",
+      "line": "Dances With Wolves is quiet these days.",
+      "wordCount": 7
+    },
+    {
+      "id": 600,
+      "index": 600,
+      "character": "TEN BEARS",
+      "gender": "Male",
+      "line": "Is his heart bad?",
+      "wordCount": 4
+    },
+    {
+      "id": 601,
+      "index": 601,
+      "character": "DANCES WITH WOLVES",
+      "gender": "NA",
+      "line": "Killing the soldiers at the river was a good thing. It made me free and my heart was big to see my friends coming to help me. I did not mind killing those men. I was glad to do it.",
+      "wordCount": 40
+    },
+    {
+      "id": 602,
+      "index": 602,
+      "character": "DANCES WITH WOLVES",
+      "gender": "NA",
+      "line": "But the soldiers hate me now like they hate no other. I am more than an enemy to them, I am a traitor. They will hunt for me. They will not give up. And when they find me they find you and that cannot happen.",
+      "wordCount": 45
+    },
+    {
+      "id": 603,
+      "index": 603,
+      "character": "TEN BEARS",
+      "gender": "Male",
+      "line": "Quiet!... sit down Wind In His Hair. You are hurting an old man's ears with your loud talk.",
+      "wordCount": 18
+    },
+    {
+      "id": 604,
+      "index": 604,
+      "character": "TEN BEARS",
+      "gender": "Male",
+      "line": "Dances With Wolves?",
+      "wordCount": 3
+    },
+    {
+      "id": 605,
+      "index": 605,
+      "character": "TEN BEARS",
+      "gender": "Male",
+      "line": "Ahh... this is a nice fire... at my age a good fire is better than anything.",
+      "wordCount": 16
+    },
+    {
+      "id": 606,
+      "index": 606,
+      "character": "TEN BEARS",
+      "gender": "Male",
+      "line": "I wondered how your bad heart was doing and though I would come by and see for myself. This place doesn't look so bad-hearted.",
+      "wordCount": 24
+    },
+    {
+      "id": 607,
+      "index": 607,
+      "character": "DANCES WITH WOLVES",
+      "gender": "NA",
+      "line": "No, we are happy.",
+      "wordCount": 4
+    },
+    {
+      "id": 608,
+      "index": 608,
+      "character": "TEN BEARS",
+      "gender": "Male",
+      "line": "But you are leaving anyway?",
+      "wordCount": 5
+    },
+    {
+      "id": 609,
+      "index": 609,
+      "character": "DANCES WITH WOLVES",
+      "gender": "NA",
+      "line": "I have talked with Stands With a Fist and we will go together.",
+      "wordCount": 13
+    },
+    {
+      "id": 610,
+      "index": 610,
+      "character": "TEN BEARS",
+      "gender": "Male",
+      "line": "Have you told this to Kicking Bird or to Wind In His Hair.",
+      "wordCount": 13
+    },
+    {
+      "id": 611,
+      "index": 611,
+      "character": "TEN BEARS",
+      "gender": "Male",
+      "line": "You are the only white man I have ever known. I have thought about you alot. More than you know.",
+      "wordCount": 20
+    },
+    {
+      "id": 612,
+      "index": 612,
+      "character": "DANCES WITH WOLVES",
+      "gender": "NA",
+      "line": "That does not surprise me.",
+      "wordCount": 5
+    },
+    {
+      "id": 613,
+      "index": 613,
+      "character": "TEN BEARS",
+      "gender": "Male",
+      "line": "You have always spoken with your heart. And like all of us, you are a free man and can do anything you like. When I look across this fire, I do not see a white soldier. I see only a Sioux named Dances With Wolves. And there is nothing they hate so much as a Sioux.",
+      "wordCount": 56
+    },
+    {
+      "id": 614,
+      "index": 614,
+      "character": "TEN BEARS",
+      "gender": "Male",
+      "line": "You are making a pipe?",
+      "wordCount": 5
+    },
+    {
+      "id": 615,
+      "index": 615,
+      "character": "DANCES WITH WOLVES",
+      "gender": "NA",
+      "line": "Yes?",
+      "wordCount": 1
+    },
+    {
+      "id": 616,
+      "index": 616,
+      "character": "TEN BEARS",
+      "gender": "Male",
+      "line": "This might be a pretty good pipe... how does it smoke?",
+      "wordCount": 11
+    },
+    {
+      "id": 617,
+      "index": 617,
+      "character": "DANCES WITH WOLVES",
+      "gender": "NA",
+      "line": "I don't know, I haven't tried it yet.",
+      "wordCount": 8
+    },
+    {
+      "id": 618,
+      "index": 618,
+      "character": "TEN BEARS",
+      "gender": "Male",
+      "line": "Let's smoke it awhile... it is good to pass the time this way.",
+      "wordCount": 13
+    },
+    {
+      "id": 619,
+      "index": 619,
+      "character": "KICKING BIRD",
+      "gender": "Male",
+      "line": "You've finished your pipe? How does it smoke?",
+      "wordCount": 8
+    },
+    {
+      "id": 620,
+      "index": 620,
+      "character": "DANCES WITH WOLVES",
+      "gender": "NA",
+      "line": "I'm told it smokes well.",
+      "wordCount": 5
+    },
+    {
+      "id": 621,
+      "index": 621,
+      "character": "KICKING BIRD",
+      "gender": "Male",
+      "line": "It doesn't seem possible that we could come this far.",
+      "wordCount": 10
+    },
+    {
+      "id": 622,
+      "index": 622,
+      "character": "DANCES WITH WOLVES",
+      "gender": "NA",
+      "line": "You were the first man I ever wanted to be like. I will not forget you.",
+      "wordCount": 16
+    },
+    {
+      "id": 623,
+      "index": 623,
+      "character": "WIND IN HIS HAIR",
+      "gender": "Male",
+      "line": "I am Wind In His Hair...",
+      "wordCount": 6
+    },
+    {
+      "id": 624,
+      "index": 624,
+      "character": "",
+      "gender": "Male"
+    }
+  ]
+}

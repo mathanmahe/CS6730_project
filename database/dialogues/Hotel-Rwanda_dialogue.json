@@ -1,0 +1,7844 @@
+{
+  "fileName": "Hotel-Rwanda_dialogue.txt",
+  "title": "Hotel Rwanda",
+  "data": [
+    {
+      "id": 0,
+      "index": 0,
+      "character": "POLICEMAN",
+      "gender": "Male",
+      "line": "Mr. Rusesabagina, good morning.",
+      "wordCount": 4
+    },
+    {
+      "id": 1,
+      "index": 1,
+      "character": "HANDLER",
+      "gender": "NA",
+      "line": "Sir, the flight is delayed one more hour.",
+      "wordCount": 8
+    },
+    {
+      "id": 2,
+      "index": 2,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Thank you. He can get the beer.",
+      "wordCount": 7
+    },
+    {
+      "id": 3,
+      "index": 3,
+      "character": "ZOZO",
+      "gender": "NA",
+      "line": "Rutaganda's place?",
+      "wordCount": 2
+    },
+    {
+      "id": 4,
+      "index": 4,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "What's wrong?",
+      "wordCount": 2
+    },
+    {
+      "id": 5,
+      "index": 5,
+      "character": "ZOZO",
+      "gender": "NA",
+      "line": "Beg your pardon sir, you are Hutu. You are safe there.",
+      "wordCount": 11
+    },
+    {
+      "id": 6,
+      "index": 6,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "You are with me, Zozo, don't worry. Zozo throws the van into gear and speeds off.",
+      "wordCount": 16
+    },
+    {
+      "id": 7,
+      "index": 7,
+      "character": "ZOZO",
+      "gender": "NA",
+      "line": "What is it like to fly on a plane, sir?",
+      "wordCount": 10
+    },
+    {
+      "id": 8,
+      "index": 8,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "It depends where you sit Zozo. In coach it is like the bus to Giterama.",
+      "wordCount": 15
+    },
+    {
+      "id": 9,
+      "index": 9,
+      "character": "ZOZO",
+      "gender": "NA",
+      "line": "That is why they call it coach?",
+      "wordCount": 7
+    },
+    {
+      "id": 10,
+      "index": 10,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Maybe. But in business class there are fine wines, linens, Belgian chocolates.",
+      "wordCount": 12
+    },
+    {
+      "id": 11,
+      "index": 11,
+      "character": "ZOZO",
+      "gender": "NA",
+      "line": "You have taken business class?",
+      "wordCount": 5
+    },
+    {
+      "id": 12,
+      "index": 12,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Many times.",
+      "wordCount": 2
+    },
+    {
+      "id": 13,
+      "index": 13,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Turn off.",
+      "wordCount": 2
+    },
+    {
+      "id": 14,
+      "index": 14,
+      "character": "ZOZO",
+      "gender": "NA",
+      "line": "There is nowhere to turn, sir. As the van approaches,",
+      "wordCount": 10
+    },
+    {
+      "id": 15,
+      "index": 15,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Slow down.",
+      "wordCount": 2
+    },
+    {
+      "id": 16,
+      "index": 16,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Boys, do you know the way to Mr. Rutagunda's warehouse?",
+      "wordCount": 10
+    },
+    {
+      "id": 17,
+      "index": 17,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "This is thirsty work, let me treat you to some beers.",
+      "wordCount": 11
+    },
+    {
+      "id": 18,
+      "index": 18,
+      "character": "GEORGE",
+      "gender": "Male",
+      "line": "You will join us at the rally today?",
+      "wordCount": 8
+    },
+    {
+      "id": 19,
+      "index": 19,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "I will try my best George but these days I have no time for rallies or politics.",
+      "wordCount": 17
+    },
+    {
+      "id": 20,
+      "index": 20,
+      "character": "GEORGE",
+      "gender": "Male",
+      "line": "Politics is power, Paul. And money.",
+      "wordCount": 6
+    },
+    {
+      "id": 21,
+      "index": 21,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Time is money, George. We need extra beer today.",
+      "wordCount": 9
+    },
+    {
+      "id": 22,
+      "index": 22,
+      "character": "GEORGE",
+      "gender": "Male",
+      "line": "Business is good at the hotel?",
+      "wordCount": 6
+    },
+    {
+      "id": 23,
+      "index": 23,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Very good.",
+      "wordCount": 2
+    },
+    {
+      "id": 24,
+      "index": 24,
+      "character": "GEORGE",
+      "gender": "Male",
+      "line": "I am always glad to see you Paul.",
+      "wordCount": 8
+    },
+    {
+      "id": 25,
+      "index": 25,
+      "character": "GEORGE",
+      "gender": "Male",
+      "line": "Hell man, that is not beer, put it back!",
+      "wordCount": 9
+    },
+    {
+      "id": 26,
+      "index": 26,
+      "character": "DRIVER",
+      "gender": "NA",
+      "line": "But, sir, the Carlsberg is behind...",
+      "wordCount": 6
+    },
+    {
+      "id": 27,
+      "index": 27,
+      "character": "GEORGE",
+      "gender": "Male",
+      "line": "Forget the Carlsberg, give him Grolsch. I won't charge extra.",
+      "wordCount": 10
+    },
+    {
+      "id": 28,
+      "index": 28,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Thank you.",
+      "wordCount": 2
+    },
+    {
+      "id": 29,
+      "index": 29,
+      "character": "GEORGE",
+      "gender": "Male",
+      "line": "A bargain buy, from China. Ten cents each, I'll get a dollar.",
+      "wordCount": 12
+    },
+    {
+      "id": 30,
+      "index": 30,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "At least.",
+      "wordCount": 2
+    },
+    {
+      "id": 31,
+      "index": 31,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "The ice has melted!",
+      "wordCount": 4
+    },
+    {
+      "id": 32,
+      "index": 32,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Don't. Let's go.",
+      "wordCount": 3
+    },
+    {
+      "id": 33,
+      "index": 33,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Sit up, smile, Zozo, don't attract attention to yourself.",
+      "wordCount": 9
+    },
+    {
+      "id": 34,
+      "index": 34,
+      "character": "ZOZO",
+      "gender": "NA",
+      "line": "Boss, some of those men are my neighbors, they know I'm Tutsi.",
+      "wordCount": 12
+    },
+    {
+      "id": 35,
+      "index": 35,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Here, Zozo, for your trouble.",
+      "wordCount": 5
+    },
+    {
+      "id": 36,
+      "index": 36,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Pull up at the front door.",
+      "wordCount": 6
+    },
+    {
+      "id": 37,
+      "index": 37,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Help Zozo.",
+      "wordCount": 2
+    },
+    {
+      "id": 38,
+      "index": 38,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Gregoire. Take care of this.",
+      "wordCount": 5
+    },
+    {
+      "id": 39,
+      "index": 39,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Gregoire! See to this right away.",
+      "wordCount": 6
+    },
+    {
+      "id": 40,
+      "index": 40,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "It's an emergency, sir. Now Bik sees the wet floor.",
+      "wordCount": 10
+    },
+    {
+      "id": 41,
+      "index": 41,
+      "character": "BIK",
+      "gender": "NA",
+      "line": "Paul!",
+      "wordCount": 1
+    },
+    {
+      "id": 42,
+      "index": 42,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Gregoire will deal with it, excuse me.",
+      "wordCount": 7
+    },
+    {
+      "id": 43,
+      "index": 43,
+      "character": "ZOZO",
+      "gender": "NA",
+      "line": "Any of them make it?",
+      "wordCount": 5
+    },
+    {
+      "id": 44,
+      "index": 44,
+      "character": "HEAD CHEF",
+      "gender": "Male",
+      "line": "Into the sink!",
+      "wordCount": 3
+    },
+    {
+      "id": 45,
+      "index": 45,
+      "character": "ZOZO",
+      "gender": "NA",
+      "line": "Twelve are dead.",
+      "wordCount": 3
+    },
+    {
+      "id": 46,
+      "index": 46,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "How dead?",
+      "wordCount": 2
+    },
+    {
+      "id": 47,
+      "index": 47,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Dump the bad meat, save the shells, fill them will ah, a stuffing, something local.",
+      "wordCount": 15
+    },
+    {
+      "id": 48,
+      "index": 48,
+      "character": "COOK",
+      "gender": "NA",
+      "line": "Cassava, and Tipali.",
+      "wordCount": 3
+    },
+    {
+      "id": 49,
+      "index": 49,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Yes. Call it 'fresh Scottish Lobster in a cassava and Tipali crush'.",
+      "wordCount": 12
+    },
+    {
+      "id": 50,
+      "index": 50,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Mr. Ambassador, please come in.",
+      "wordCount": 5
+    },
+    {
+      "id": 51,
+      "index": 51,
+      "character": "US AMBASSADOR",
+      "gender": "NA",
+      "line": "Thank you, Paul.",
+      "wordCount": 3
+    },
+    {
+      "id": 52,
+      "index": 52,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Colonel Oliver, you are very welcome. The Ambassador shakes the Colonel's hand.",
+      "wordCount": 12
+    },
+    {
+      "id": 53,
+      "index": 53,
+      "character": "US AMBASSADOR",
+      "gender": "NA",
+      "line": "Colonel. I'd like you to meet Mr. Colson, of our Regional Aid Division.",
+      "wordCount": 13
+    },
+    {
+      "id": 54,
+      "index": 54,
+      "character": "US AMBASSADOR",
+      "gender": "NA",
+      "line": "Colonel Oliver is the liason officer for the U.N. peace keeping forces.",
+      "wordCount": 12
+    },
+    {
+      "id": 55,
+      "index": 55,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Please, serve the hors d'ouvres now.",
+      "wordCount": 6
+    },
+    {
+      "id": 56,
+      "index": 56,
+      "character": "WAITER",
+      "gender": "NA",
+      "line": "General Bizimungu wants to see you.",
+      "wordCount": 6
+    },
+    {
+      "id": 57,
+      "index": 57,
+      "character": "GENERAL BIZIMUNGU",
+      "gender": "Male",
+      "line": "Paul, this scotch is exceptional.",
+      "wordCount": 5
+    },
+    {
+      "id": 58,
+      "index": 58,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "It's a single malt, Glenmorangie. I thought you'd like it. Anything you need, gentlemen, let me know.",
+      "wordCount": 17
+    },
+    {
+      "id": 59,
+      "index": 59,
+      "character": "GENERAL BIZIMUNGU",
+      "gender": "Male",
+      "line": "Oh, Paul, talk to the coat check, please.",
+      "wordCount": 8
+    },
+    {
+      "id": 60,
+      "index": 60,
+      "character": "BENEDICT",
+      "gender": "NA",
+      "line": "Paul, Paul, a moment please.",
+      "wordCount": 5
+    },
+    {
+      "id": 61,
+      "index": 61,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Yes, Benedict, what can I do?",
+      "wordCount": 6
+    },
+    {
+      "id": 62,
+      "index": 62,
+      "character": "BENEDICT",
+      "gender": "NA",
+      "line": "Can you get me into the Ambassador's reception?",
+      "wordCount": 8
+    },
+    {
+      "id": 63,
+      "index": 63,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "I'm sorry, it's a private function.",
+      "wordCount": 6
+    },
+    {
+      "id": 64,
+      "index": 64,
+      "character": "BENEDICT",
+      "gender": "NA",
+      "line": "At least tell me who is attending. The newspaper will be grateful.",
+      "wordCount": 12
+    },
+    {
+      "id": 65,
+      "index": 65,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "I will be grateful if you keep my name out of your newspaper. Wait here and you will see who has attended as they leave.",
+      "wordCount": 25
+    },
+    {
+      "id": 66,
+      "index": 66,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Did General Bizimungu bring a briefcase?",
+      "wordCount": 6
+    },
+    {
+      "id": 67,
+      "index": 67,
+      "character": "COAT CHECK",
+      "gender": "NA",
+      "line": "Yes, sir.",
+      "wordCount": 2
+    },
+    {
+      "id": 68,
+      "index": 68,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Take it to the bar storeroom. Put three bottles of Glenmorangie... he writes it down on a pad) ...GLEN-MOR-AN-GIE, into it.",
+      "wordCount": 21
+    },
+    {
+      "id": 69,
+      "index": 69,
+      "character": "ONNIE DENVER",
+      "gender": "NA",
+      "line": "Oh, Paul, Paul",
+      "wordCount": 3
+    },
+    {
+      "id": 70,
+      "index": 70,
+      "character": "CONNIE DENVER",
+      "gender": "NA",
+      "line": "Paul, Paul. Our trip has been cancelled.",
+      "wordCount": 7
+    },
+    {
+      "id": 71,
+      "index": 71,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Yes, I'm sorry Madame Denver, it is because of the rebels.",
+      "wordCount": 11
+    },
+    {
+      "id": 72,
+      "index": 72,
+      "character": "CONNIE DENVER",
+      "gender": "NA",
+      "line": "Rebels? What rebels?",
+      "wordCount": 3
+    },
+    {
+      "id": 73,
+      "index": 73,
+      "character": "BOB",
+      "gender": "NA",
+      "line": "Don't be stupid for Christ sake. The Watusis are invading the country. I told you not to come here.",
+      "wordCount": 19
+    },
+    {
+      "id": 74,
+      "index": 74,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "The Tutsi rebels are far away on the border. And soon there will be peace.",
+      "wordCount": 15
+    },
+    {
+      "id": 75,
+      "index": 75,
+      "character": "BOB",
+      "gender": "NA",
+      "line": "Tutsis, Watutsis they'll still shoot you.",
+      "wordCount": 6
+    },
+    {
+      "id": 76,
+      "index": 76,
+      "character": "CONNIE DENVER",
+      "gender": "NA",
+      "line": "But I came here to see the gorillas?",
+      "wordCount": 8
+    },
+    {
+      "id": 77,
+      "index": 77,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "I will try to arrange something.",
+      "wordCount": 6
+    },
+    {
+      "id": 78,
+      "index": 78,
+      "character": "US AMBASSADOR",
+      "gender": "NA",
+      "line": "Things will calm down when the president signs the peace agreement with the rebels.",
+      "wordCount": 14
+    },
+    {
+      "id": 79,
+      "index": 79,
+      "character": "COLONEL OLIVER",
+      "gender": "Male",
+      "line": "Our intelligence, Mr. Ambassador, is that the Hutu government has been stockpiling weapons and are preparing a massacre.",
+      "wordCount": 18
+    },
+    {
+      "id": 80,
+      "index": 80,
+      "character": "US AMBASSADOR",
+      "gender": "NA",
+      "line": "That's not what I hear. Excuse me. Paul. Paul comes over) Colonel, you know the house manager, Paul Rusesabagina.",
+      "wordCount": 19
+    },
+    {
+      "id": 81,
+      "index": 81,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "How was your meal, sir?",
+      "wordCount": 5
+    },
+    {
+      "id": 82,
+      "index": 82,
+      "character": "US AMBASSADOR",
+      "gender": "NA",
+      "line": "Magnificent. reads) Scottish lobster, in Rwanda. You see General what a genius this man is. You want anything, this man can get it?",
+      "wordCount": 23
+    },
+    {
+      "id": 83,
+      "index": 83,
+      "character": "COLONEL OLIVER",
+      "gender": "Male",
+      "line": "How about a battalion of U.S. Marines.",
+      "wordCount": 7
+    },
+    {
+      "id": 84,
+      "index": 84,
+      "character": "US AMBASSADOR",
+      "gender": "NA",
+      "line": "Now, General, don't ask for the impossible.",
+      "wordCount": 7
+    },
+    {
+      "id": 85,
+      "index": 85,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "I have heard, Mr. Ambassador, that they have discovered oil here, under Lake Kivu.",
+      "wordCount": 14
+    },
+    {
+      "id": 86,
+      "index": 86,
+      "character": "COLONEL OLIVER",
+      "gender": "Male",
+      "line": "You're right, Mr. Ambassador, Paul knows how to get anything, even U.S. troops.",
+      "wordCount": 13
+    },
+    {
+      "id": 87,
+      "index": 87,
+      "character": "US AMBASSADOR",
+      "gender": "NA",
+      "line": "Thank you for a wonderful meal, Paul.",
+      "wordCount": 7
+    },
+    {
+      "id": 88,
+      "index": 88,
+      "character": "GREGOIRE",
+      "gender": "Male",
+      "line": "Come on, Zozo, cockroaches can jump, some of them can fly.",
+      "wordCount": 11
+    },
+    {
+      "id": 89,
+      "index": 89,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "No. You pick it up.",
+      "wordCount": 5
+    },
+    {
+      "id": 90,
+      "index": 90,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "How are your dish-washing skills, Gregoire?",
+      "wordCount": 6
+    },
+    {
+      "id": 91,
+      "index": 91,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Gregoire, there are no cockroaches in this hotel, do you understand?",
+      "wordCount": 11
+    },
+    {
+      "id": 92,
+      "index": 92,
+      "character": "BIK",
+      "gender": "NA",
+      "line": "Cockroaches?",
+      "wordCount": 1
+    },
+    {
+      "id": 93,
+      "index": 93,
+      "character": "BIK",
+      "gender": "NA",
+      "line": "Don't tell me we have cockroaches, Paul? A sly smile breaks on Gregoire's face as he uses Bik's arrival to disappear inside.",
+      "wordCount": 22
+    },
+    {
+      "id": 94,
+      "index": 94,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "No, Bik, it's a code word for Tutsis.",
+      "wordCount": 8
+    },
+    {
+      "id": 95,
+      "index": 95,
+      "character": "BIK",
+      "gender": "NA",
+      "line": "That's what I came to talk to you about.",
+      "wordCount": 9
+    },
+    {
+      "id": 96,
+      "index": 96,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Excuse me?",
+      "wordCount": 2
+    },
+    {
+      "id": 97,
+      "index": 97,
+      "character": "BIK",
+      "gender": "NA",
+      "line": "The Hutu-Tutsi thing. The BBC faxed to say they would be here on the sixth for the peace accords. And the U.N. wants the banquet room for that day, a reception to broadcast the signing ceremony. Can you organize monitors and check the satellite dish?",
+      "wordCount": 45
+    },
+    {
+      "id": 98,
+      "index": 98,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Leave it to me.",
+      "wordCount": 4
+    },
+    {
+      "id": 99,
+      "index": 99,
+      "character": "BIK",
+      "gender": "NA",
+      "line": "Also, could you remember to use the service entrance at all times?",
+      "wordCount": 12
+    },
+    {
+      "id": 100,
+      "index": 100,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Of course.",
+      "wordCount": 2
+    },
+    {
+      "id": 101,
+      "index": 101,
+      "character": "RADIO ANNOUNCER",
+      "gender": "NA",
+      "line": "Good Hutus of Rwanda, beware. The dictatorship of the Tutsi cockroach is near. Watch your neighbor. Identify these cockroaches. Then rise up and stamp out this murderous infestation...",
+      "wordCount": 28
+    },
+    {
+      "id": 102,
+      "index": 102,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Down, Pealiss.",
+      "wordCount": 2
+    },
+    {
+      "id": 103,
+      "index": 103,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Good evening, Odette, who is sick this time?",
+      "wordCount": 8
+    },
+    {
+      "id": 104,
+      "index": 104,
+      "character": "TATIANA",
+      "gender": "Female",
+      "line": "I asked Odette to take a look at little Anais. She has a rash.",
+      "wordCount": 14
+    },
+    {
+      "id": 105,
+      "index": 105,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Your brother's here?",
+      "wordCount": 3
+    },
+    {
+      "id": 106,
+      "index": 106,
+      "character": "TATIANA",
+      "gender": "Female",
+      "line": "Yes, with Fedens and the children. e wants some advice.",
+      "wordCount": 10
+    },
+    {
+      "id": 107,
+      "index": 107,
+      "character": "ODETTE",
+      "gender": "Female",
+      "line": "Good to see you, Paul.",
+      "wordCount": 5
+    },
+    {
+      "id": 108,
+      "index": 108,
+      "character": "ODETTE",
+      "gender": "Female",
+      "line": "I must go, Paul.",
+      "wordCount": 4
+    },
+    {
+      "id": 109,
+      "index": 109,
+      "character": "TATIANA",
+      "gender": "Female",
+      "line": "You will not stay for dinner.",
+      "wordCount": 6
+    },
+    {
+      "id": 110,
+      "index": 110,
+      "character": "ODETTE",
+      "gender": "Female",
+      "line": "No thank you, Tatiana.",
+      "wordCount": 4
+    },
+    {
+      "id": 111,
+      "index": 111,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "My best to Jean Baptiste.",
+      "wordCount": 5
+    },
+    {
+      "id": 112,
+      "index": 112,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Thomas wants advice?",
+      "wordCount": 3
+    },
+    {
+      "id": 113,
+      "index": 113,
+      "character": "TATIANA",
+      "gender": "Female",
+      "line": "He wants your wisdom.",
+      "wordCount": 4
+    },
+    {
+      "id": 114,
+      "index": 114,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Let's have dinner first.",
+      "wordCount": 4
+    },
+    {
+      "id": 115,
+      "index": 115,
+      "character": "TATIANA",
+      "gender": "Female",
+      "line": "Of course.",
+      "wordCount": 2
+    },
+    {
+      "id": 116,
+      "index": 116,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Hello, Anais. She laughs.",
+      "wordCount": 4
+    },
+    {
+      "id": 117,
+      "index": 117,
+      "character": "CARINE",
+      "gender": "Female",
+      "line": "I am Carine.",
+      "wordCount": 3
+    },
+    {
+      "id": 118,
+      "index": 118,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "You are not Anais?",
+      "wordCount": 4
+    },
+    {
+      "id": 119,
+      "index": 119,
+      "character": "ANAIS",
+      "gender": "Female",
+      "line": "I am Anais.",
+      "wordCount": 3
+    },
+    {
+      "id": 120,
+      "index": 120,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Oh, Carine, that is a shame. I have a present for Anais.",
+      "wordCount": 12
+    },
+    {
+      "id": 121,
+      "index": 121,
+      "character": "ANAIS",
+      "gender": "Female",
+      "line": "It is for me.",
+      "wordCount": 4
+    },
+    {
+      "id": 122,
+      "index": 122,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Goodness, I cannot tell. I guess I must find another present.",
+      "wordCount": 11
+    },
+    {
+      "id": 123,
+      "index": 123,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Roger, your turn.",
+      "wordCount": 3
+    },
+    {
+      "id": 124,
+      "index": 124,
+      "character": "ROGER",
+      "gender": "NA",
+      "line": "For food and clothes, and all that grows, etc, etc. Dear Lord, thank you.",
+      "wordCount": 14
+    },
+    {
+      "id": 125,
+      "index": 125,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Thank you, Roger.",
+      "wordCount": 3
+    },
+    {
+      "id": 126,
+      "index": 126,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Why the hurry, Roger?",
+      "wordCount": 4
+    },
+    {
+      "id": 127,
+      "index": 127,
+      "character": "ROGER",
+      "gender": "NA",
+      "line": "Simon has a new pet. Can I go see it?",
+      "wordCount": 10
+    },
+    {
+      "id": 128,
+      "index": 128,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "No, I don't want you going on the street.",
+      "wordCount": 9
+    },
+    {
+      "id": 129,
+      "index": 129,
+      "character": "OGER",
+      "gender": "NA",
+      "line": "Please, papa, I have a secret path.",
+      "wordCount": 7
+    },
+    {
+      "id": 130,
+      "index": 130,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Who is this Simon?",
+      "wordCount": 4
+    },
+    {
+      "id": 131,
+      "index": 131,
+      "character": "TATIANA",
+      "gender": "Female",
+      "line": "Simon, next door, the Charingas' boy.",
+      "wordCount": 6
+    },
+    {
+      "id": 132,
+      "index": 132,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Homework?",
+      "wordCount": 1
+    },
+    {
+      "id": 133,
+      "index": 133,
+      "character": "ROGER",
+      "gender": "NA",
+      "line": "It's done.",
+      "wordCount": 2
+    },
+    {
+      "id": 134,
+      "index": 134,
+      "character": "TATIANA",
+      "gender": "Female",
+      "line": "And he did extra chores.",
+      "wordCount": 5
+    },
+    {
+      "id": 135,
+      "index": 135,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Wash your things, and be back soon.",
+      "wordCount": 7
+    },
+    {
+      "id": 136,
+      "index": 136,
+      "character": "ROGER",
+      "gender": "NA",
+      "line": "Let's feed it.",
+      "wordCount": 3
+    },
+    {
+      "id": 137,
+      "index": 137,
+      "character": "ROGER",
+      "gender": "NA",
+      "line": "Let me.",
+      "wordCount": 2
+    },
+    {
+      "id": 138,
+      "index": 138,
+      "character": "THOMAS",
+      "gender": "Male",
+      "line": "I've heard bad things, Paul. My assistant says we should get out of Rwanda.",
+      "wordCount": 14
+    },
+    {
+      "id": 139,
+      "index": 139,
+      "character": "FEDENS",
+      "gender": "Female",
+      "line": "Why should we leave? I have a new job, things have never been better for us.",
+      "wordCount": 16
+    },
+    {
+      "id": 140,
+      "index": 140,
+      "character": "THOMAS",
+      "gender": "Male",
+      "line": "What good is it if we are murdered in our bed?",
+      "wordCount": 11
+    },
+    {
+      "id": 141,
+      "index": 141,
+      "character": "TATIANA",
+      "gender": "Female",
+      "line": "Your assistant, he is Hutu?",
+      "wordCount": 5
+    },
+    {
+      "id": 142,
+      "index": 142,
+      "character": "THOMAS",
+      "gender": "Male",
+      "line": "Yes, and he is in the Hutu Power Militia.",
+      "wordCount": 9
+    },
+    {
+      "id": 143,
+      "index": 143,
+      "character": "CARINE",
+      "gender": "Female",
+      "line": "He wants your job.",
+      "wordCount": 4
+    },
+    {
+      "id": 144,
+      "index": 144,
+      "character": "THOMAS",
+      "gender": "Male",
+      "line": "No, he is a friend, but he tells me to listen to the radio. All day they talk about the great slaughter.",
+      "wordCount": 22
+    },
+    {
+      "id": 145,
+      "index": 145,
+      "character": "TATIANA",
+      "gender": "Female",
+      "line": "That station is filth.",
+      "wordCount": 4
+    },
+    {
+      "id": 146,
+      "index": 146,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Today I talked to my friend the American Ambassador and Colonel Oliver of the United Nations. They are preparing a banquet for the peace signing. The BBC are flying in their best reporters. The world is watching. There will be peace. Don't listen to this man.",
+      "wordCount": 46
+    },
+    {
+      "id": 147,
+      "index": 147,
+      "character": "OLDIER'S VOICE",
+      "gender": "NA",
+      "line": "That house.",
+      "wordCount": 2
+    },
+    {
+      "id": 148,
+      "index": 148,
+      "character": "ROGER",
+      "gender": "NA",
+      "line": "There are soldiers.",
+      "wordCount": 3
+    },
+    {
+      "id": 149,
+      "index": 149,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Where?",
+      "wordCount": 1
+    },
+    {
+      "id": 150,
+      "index": 150,
+      "character": "ROGER",
+      "gender": "NA",
+      "line": "On the street.",
+      "wordCount": 3
+    },
+    {
+      "id": 151,
+      "index": 151,
+      "character": "TATIANA",
+      "gender": "Female",
+      "line": "What is it?",
+      "wordCount": 3
+    },
+    {
+      "id": 152,
+      "index": 152,
+      "character": "TATIANA",
+      "gender": "Female",
+      "line": "Oh, my God, it's Victor. Why do they want Victor?",
+      "wordCount": 10
+    },
+    {
+      "id": 153,
+      "index": 153,
+      "character": "TATIANA",
+      "gender": "Female",
+      "line": "Do something.",
+      "wordCount": 2
+    },
+    {
+      "id": 154,
+      "index": 154,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "What?",
+      "wordCount": 1
+    },
+    {
+      "id": 155,
+      "index": 155,
+      "character": "TATIANA",
+      "gender": "Female",
+      "line": "Call your friends in the army. Call someone. Victor is harmless. This is a mistake.",
+      "wordCount": 15
+    },
+    {
+      "id": 156,
+      "index": 156,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Please, be quiet.",
+      "wordCount": 3
+    },
+    {
+      "id": 157,
+      "index": 157,
+      "character": "TATIANA",
+      "gender": "Female",
+      "line": "I'm going to talk to them.",
+      "wordCount": 6
+    },
+    {
+      "id": 158,
+      "index": 158,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "No.",
+      "wordCount": 1
+    },
+    {
+      "id": 159,
+      "index": 159,
+      "character": "TATIANA",
+      "gender": "Female",
+      "line": "We must do something.",
+      "wordCount": 4
+    },
+    {
+      "id": 160,
+      "index": 160,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "What would you have us do? Argue with these madmen? We cannot interfere.",
+      "wordCount": 13
+    },
+    {
+      "id": 161,
+      "index": 161,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "You better stay the night, it is too dangerous to be on the streets.",
+      "wordCount": 14
+    },
+    {
+      "id": 162,
+      "index": 162,
+      "character": "TATIANA",
+      "gender": "Female",
+      "line": "I'll fix a bed.",
+      "wordCount": 4
+    },
+    {
+      "id": 163,
+      "index": 163,
+      "character": "TATIANA",
+      "gender": "Female",
+      "line": "Why didn't you call your contacts in the army?",
+      "wordCount": 9
+    },
+    {
+      "id": 164,
+      "index": 164,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "I couldn't help.",
+      "wordCount": 3
+    },
+    {
+      "id": 165,
+      "index": 165,
+      "character": "TATIANA",
+      "gender": "Female",
+      "line": "You could have asked for a favor.",
+      "wordCount": 7
+    },
+    {
+      "id": 166,
+      "index": 166,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "No, I could not. What do you know about favors Tatiana, about barter and deals? All day long I work to please this officer, that diplomat, this tourist. To store up favors so that if there is a time when my family need help I have powerful people I can call upon. Now you would have me waste a precious favor on a stranger.",
+      "wordCount": 64
+    },
+    {
+      "id": 167,
+      "index": 167,
+      "character": "TATIANA",
+      "gender": "Female",
+      "line": "Victor was not a stranger, he was our neighbor.",
+      "wordCount": 9
+    },
+    {
+      "id": 168,
+      "index": 168,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "He was not family. Family is all that matters. Do you think if you or I were being dragged from here, any one of them would lift a finger to help us?",
+      "wordCount": 32
+    },
+    {
+      "id": 169,
+      "index": 169,
+      "character": "TATIANA",
+      "gender": "Female",
+      "line": "They do not have your connections.",
+      "wordCount": 6
+    },
+    {
+      "id": 170,
+      "index": 170,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Connections? I have no connections, only favors. If I call to help Victor, a General will think \"Paul Rusesabagina is a fool. He thinks my favors are so numerous and so insignificant as to waste them on everybody.\" Then my hard work is doubly squandered. I insult the General and I do not get to use my favor at all. Please leave these things to my good judgment.",
+      "wordCount": 68
+    },
+    {
+      "id": 171,
+      "index": 171,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Welcome, gentlemen.",
+      "wordCount": 2
+    },
+    {
+      "id": 172,
+      "index": 172,
+      "character": "GLORIA",
+      "gender": "NA",
+      "line": "We reserved five rooms not two",
+      "wordCount": 6
+    },
+    {
+      "id": 173,
+      "index": 173,
+      "character": "GREGOIRE",
+      "gender": "Male",
+      "line": "I'm sorry, ma'am, but I see only two here in the computer.",
+      "wordCount": 12
+    },
+    {
+      "id": 174,
+      "index": 174,
+      "character": "JOCK",
+      "gender": "NA",
+      "line": "Paul, how the hell are ya'?",
+      "wordCount": 6
+    },
+    {
+      "id": 175,
+      "index": 175,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "I am delighted to see you, Mr. Daglish.",
+      "wordCount": 8
+    },
+    {
+      "id": 176,
+      "index": 176,
+      "character": "JOCK",
+      "gender": "NA",
+      "line": "They moved you from the Diplomat?",
+      "wordCount": 6
+    },
+    {
+      "id": 177,
+      "index": 177,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Promoted. House Manager.",
+      "wordCount": 3
+    },
+    {
+      "id": 178,
+      "index": 178,
+      "character": "JOCK",
+      "gender": "NA",
+      "line": "Good for you.",
+      "wordCount": 3
+    },
+    {
+      "id": 179,
+      "index": 179,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Let me check.",
+      "wordCount": 3
+    },
+    {
+      "id": 180,
+      "index": 180,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Ah, I see the mistake. You were reading CBC - the Canadian broadcasting people instead of BBC Gregoire.",
+      "wordCount": 18
+    },
+    {
+      "id": 181,
+      "index": 181,
+      "character": "GLORIA",
+      "gender": "NA",
+      "line": "Great, I really need a shower.",
+      "wordCount": 6
+    },
+    {
+      "id": 182,
+      "index": 182,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Just give me a moment to get your keys.",
+      "wordCount": 9
+    },
+    {
+      "id": 183,
+      "index": 183,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Excuse me for one second.",
+      "wordCount": 5
+    },
+    {
+      "id": 184,
+      "index": 184,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Benedict, you should meet the BBC people. They could use your expertise.",
+      "wordCount": 12
+    },
+    {
+      "id": 185,
+      "index": 185,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Benedict, General Bizimungu will be here any moment. The BBC should talk to him.",
+      "wordCount": 14
+    },
+    {
+      "id": 186,
+      "index": 186,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Madame, this is Benedict Nangori, one of our best journalists. He covers all the big stories. I thought you should meet.",
+      "wordCount": 21
+    },
+    {
+      "id": 187,
+      "index": 187,
+      "character": "GLORIA",
+      "gender": "NA",
+      "line": "Benedict, beautiful name. I'm Gloria Fleming. BBC.",
+      "wordCount": 7
+    },
+    {
+      "id": 188,
+      "index": 188,
+      "character": "GREGOIRE",
+      "gender": "Male",
+      "line": "There are no more rooms.",
+      "wordCount": 5
+    },
+    {
+      "id": 189,
+      "index": 189,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Give me the phone.",
+      "wordCount": 4
+    },
+    {
+      "id": 190,
+      "index": 190,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Madame Denver. I have very good news. I have a present for you, in return for the cancellation of your gorilla expedition I have arranged a safari at Lake Kivu lodge. A wonderful experience. No, no extra charge. A luxury coach will leave in one hour. I'll send maids up to help you all pack. You're welcome.",
+      "wordCount": 57
+    },
+    {
+      "id": 191,
+      "index": 191,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Call Kivu Lodge, ask for George, tell him I need three rooms. And send a team of maids up to the Americans. I want those rooms turned around in twenty minutes.",
+      "wordCount": 31
+    },
+    {
+      "id": 192,
+      "index": 192,
+      "character": "GLORIA",
+      "gender": "NA",
+      "line": "There are rumors, General, that your army, the Hutu army, consider these peace accords a sellout to the Tutsi rebels.",
+      "wordCount": 20
+    },
+    {
+      "id": 193,
+      "index": 193,
+      "character": "GENERAL BIZIMUNGU",
+      "gender": "Male",
+      "line": "Nonsense. At this moment we are making plans to rehabilitate the dissidents into our armed forces.",
+      "wordCount": 16
+    },
+    {
+      "id": 194,
+      "index": 194,
+      "character": "GLORIA",
+      "gender": "NA",
+      "line": "Then the army fully supports the president as he signs the peace agreement.",
+      "wordCount": 13
+    },
+    {
+      "id": 195,
+      "index": 195,
+      "character": "GENERAL BIZIMUNGU",
+      "gender": "Male",
+      "line": "Of course, the president is a clever man, he knows what he is doing. Thank you for coming to Rwanda. . You will see what a beautiful country this is.",
+      "wordCount": 30
+    },
+    {
+      "id": 196,
+      "index": 196,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Forgive the hurry but I do not want you to miss the lunch buffet on the paddle steamer across the lake. It is the most spectacular sight in all Africa.",
+      "wordCount": 30
+    },
+    {
+      "id": 197,
+      "index": 197,
+      "character": "OB",
+      "gender": "NA",
+      "line": "Lunch? All we do is eat. I thought there was famine in Africa.",
+      "wordCount": 13
+    },
+    {
+      "id": 198,
+      "index": 198,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Exactly, we can't have our guests starving. What would they think of the Mille Collines back in the United States?",
+      "wordCount": 20
+    },
+    {
+      "id": 199,
+      "index": 199,
+      "character": "GENERAL BIZIMUNGU",
+      "gender": "Male",
+      "line": "Keep that cockroach Benedict away from me.",
+      "wordCount": 7
+    },
+    {
+      "id": 200,
+      "index": 200,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Same as last time.",
+      "wordCount": 4
+    },
+    {
+      "id": 201,
+      "index": 201,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "The fifth room is your broadcast room.",
+      "wordCount": 7
+    },
+    {
+      "id": 202,
+      "index": 202,
+      "character": "GLORIA",
+      "gender": "NA",
+      "line": "Good. I'd like to book a massage.",
+      "wordCount": 7
+    },
+    {
+      "id": 203,
+      "index": 203,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Of course.",
+      "wordCount": 2
+    },
+    {
+      "id": 204,
+      "index": 204,
+      "character": "JOCK",
+      "gender": "NA",
+      "line": "Did you bring any of those wee girls who used to sit at the bar in the Diplomat with you? You know?",
+      "wordCount": 22
+    },
+    {
+      "id": 205,
+      "index": 205,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "I'm sorry, Mr. Daglish, this is the Mille Collines. No working girls here.",
+      "wordCount": 13
+    },
+    {
+      "id": 206,
+      "index": 206,
+      "character": "JOCK",
+      "gender": "NA",
+      "line": "Can we phone them in, Paul?",
+      "wordCount": 6
+    },
+    {
+      "id": 207,
+      "index": 207,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "I'm afraid I can't do that, Mr. Daglish. Ah, Zozo.",
+      "wordCount": 10
+    },
+    {
+      "id": 208,
+      "index": 208,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "You remember Zozo, from the Diplomat?",
+      "wordCount": 6
+    },
+    {
+      "id": 209,
+      "index": 209,
+      "character": "JOCK",
+      "gender": "NA",
+      "line": "Zozo! The very man!",
+      "wordCount": 4
+    },
+    {
+      "id": 210,
+      "index": 210,
+      "character": "COMMENTATOR",
+      "gender": "NA",
+      "line": "As president Habyarimana signs a peace accord between the Tutsi rebels and his Hutu army there remains strong doubts that the extremist Hutu Power will abide by the accords. But for now hope has returned to Rwanda for the first time in many years.",
+      "wordCount": 44
+    },
+    {
+      "id": 211,
+      "index": 211,
+      "character": "COLONEL OLIVER",
+      "gender": "Male",
+      "line": "To Peace.",
+      "wordCount": 2
+    },
+    {
+      "id": 212,
+      "index": 212,
+      "character": "GENERAL BIZIMUNGU",
+      "gender": "Male",
+      "line": "Paul, join us.",
+      "wordCount": 3
+    },
+    {
+      "id": 213,
+      "index": 213,
+      "character": "GENERAL BIZIMUNGU",
+      "gender": "Male",
+      "line": "Have a drink.",
+      "wordCount": 3
+    },
+    {
+      "id": 214,
+      "index": 214,
+      "character": "GEORGE",
+      "gender": "Male",
+      "line": "Look at them, they want to see the tribes dance to their tune. Here is our dance.",
+      "wordCount": 17
+    },
+    {
+      "id": 215,
+      "index": 215,
+      "character": "GEORGE",
+      "gender": "Male",
+      "line": "Come on, Paul. Show them our dance.",
+      "wordCount": 7
+    },
+    {
+      "id": 216,
+      "index": 216,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Forgive me, George, my step was off.",
+      "wordCount": 7
+    },
+    {
+      "id": 217,
+      "index": 217,
+      "character": "GEORGE",
+      "gender": "Male",
+      "line": "To our president. May he find peace.",
+      "wordCount": 7
+    },
+    {
+      "id": 218,
+      "index": 218,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Excuse me, gentlemen.",
+      "wordCount": 3
+    },
+    {
+      "id": 219,
+      "index": 219,
+      "character": "THOMAS",
+      "gender": "Male",
+      "line": "Forgive us, Paul. We must talk.",
+      "wordCount": 6
+    },
+    {
+      "id": 220,
+      "index": 220,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "What's wrong?",
+      "wordCount": 2
+    },
+    {
+      "id": 221,
+      "index": 221,
+      "character": "THOMAS",
+      "gender": "Male",
+      "line": "We are leaving Rwanda, Paul.",
+      "wordCount": 5
+    },
+    {
+      "id": 222,
+      "index": 222,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Go to the terrace, I will join you.",
+      "wordCount": 8
+    },
+    {
+      "id": 223,
+      "index": 223,
+      "character": "THOMAS",
+      "gender": "Male",
+      "line": "My assistant, the Hutu Power man, says we should get out now, that soon it will be very bad.",
+      "wordCount": 19
+    },
+    {
+      "id": 224,
+      "index": 224,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Give me this man's name.",
+      "wordCount": 5
+    },
+    {
+      "id": 225,
+      "index": 225,
+      "character": "THOMAS",
+      "gender": "Male",
+      "line": "His name is Naramaranga, but please, Paul, even though he is Hutu Power, he is a friend, he likes me. He told me there is a signal. It is \"Cut the tall trees.\" When they hear the signal, the militia are to go to war.",
+      "wordCount": 45
+    },
+    {
+      "id": 226,
+      "index": 226,
+      "character": "FEDENS",
+      "gender": "Female",
+      "line": "Please, let us take Tatiana with us. You are Hutu, you will be safe.",
+      "wordCount": 14
+    },
+    {
+      "id": 227,
+      "index": 227,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Thomas, Fedens, I am a man who looks after his family. If there were danger I would be the first to leave?",
+      "wordCount": 22
+    },
+    {
+      "id": 228,
+      "index": 228,
+      "character": "FEDENS",
+      "gender": "Female",
+      "line": "What was that?",
+      "wordCount": 3
+    },
+    {
+      "id": 229,
+      "index": 229,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Calm yourself, it is fireworks to celebrate the peace.",
+      "wordCount": 9
+    },
+    {
+      "id": 230,
+      "index": 230,
+      "character": "THOMAS",
+      "gender": "Male",
+      "line": "Please, Paul, tomorrow I will bring you my car. You will sell it for me and get a fair price. We will go to Tanzania until there is real peace.",
+      "wordCount": 30
+    },
+    {
+      "id": 231,
+      "index": 231,
+      "character": "ZOZO",
+      "gender": "NA",
+      "line": "Excuse me, Paul, you have a call.",
+      "wordCount": 7
+    },
+    {
+      "id": 232,
+      "index": 232,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "ello. Tatsi. Yes, they are here. Yes. I know but I want them to calm down.",
+      "wordCount": 16
+    },
+    {
+      "id": 233,
+      "index": 233,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Already the press are packing their bags. The BBC man told me there's no story here. We are boring now. I'll be home soon.",
+      "wordCount": 24
+    },
+    {
+      "id": 234,
+      "index": 234,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Let us all go home and sleep.",
+      "wordCount": 7
+    },
+    {
+      "id": 235,
+      "index": 235,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Call when you get home. And don't worry, Thomas. Good night.",
+      "wordCount": 11
+    },
+    {
+      "id": 236,
+      "index": 236,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Pealiss!",
+      "wordCount": 1
+    },
+    {
+      "id": 237,
+      "index": 237,
+      "character": "TATIANA",
+      "gender": "Female",
+      "line": "Paul!",
+      "wordCount": 1
+    },
+    {
+      "id": 238,
+      "index": 238,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Jean Baptiste!",
+      "wordCount": 2
+    },
+    {
+      "id": 239,
+      "index": 239,
+      "character": "JEAN BAPTISTE",
+      "gender": "NA",
+      "line": "Our house has been burned.",
+      "wordCount": 5
+    },
+    {
+      "id": 240,
+      "index": 240,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "What is going on?",
+      "wordCount": 4
+    },
+    {
+      "id": 241,
+      "index": 241,
+      "character": "TATIANA",
+      "gender": "Female",
+      "line": "The president has been murdered.",
+      "wordCount": 5
+    },
+    {
+      "id": 242,
+      "index": 242,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Murdered! By whom?",
+      "wordCount": 3
+    },
+    {
+      "id": 243,
+      "index": 243,
+      "character": "ODETTE",
+      "gender": "Female",
+      "line": "The radio says Tutsi rebels.",
+      "wordCount": 5
+    },
+    {
+      "id": 244,
+      "index": 244,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Nonsense. Why would the rebels kill the president when he agreed to peace?",
+      "wordCount": 13
+    },
+    {
+      "id": 245,
+      "index": 245,
+      "character": "TATIANA",
+      "gender": "Female",
+      "line": "Where are Thomas and Fedens?",
+      "wordCount": 5
+    },
+    {
+      "id": 246,
+      "index": 246,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "I sent them home. Go and call them.",
+      "wordCount": 8
+    },
+    {
+      "id": 247,
+      "index": 247,
+      "character": "TATIANA",
+      "gender": "Female",
+      "line": "I tried already. The phones do not work.",
+      "wordCount": 8
+    },
+    {
+      "id": 248,
+      "index": 248,
+      "character": "RADIO ANNOUNCER",
+      "gender": "NA",
+      "line": "Our great president is murdered, by the Tutsi cockroaches. They tricked him, then they killed him. We must cleanse this country, Good Hutus of Rwanda. We must clear the brush. Clear the brush of all cockroaches. Clear the brush!!!",
+      "wordCount": 39
+    },
+    {
+      "id": 249,
+      "index": 249,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Come on, everyone out of this room, find a seat in the living room.",
+      "wordCount": 14
+    },
+    {
+      "id": 250,
+      "index": 250,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Is every Tutsi in the neighborhood here?",
+      "wordCount": 7
+    },
+    {
+      "id": 251,
+      "index": 251,
+      "character": "TATIANA",
+      "gender": "Female",
+      "line": "They came through the bushes, over the wall. What could I do?",
+      "wordCount": 12
+    },
+    {
+      "id": 252,
+      "index": 252,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Send them home. We are not the police. What do we have to protect them?",
+      "wordCount": 15
+    },
+    {
+      "id": 253,
+      "index": 253,
+      "character": "TATIANA",
+      "gender": "Female",
+      "line": "Please. Let them stay 'til morning. The militia will not come here, they know you are a Hutu with influence.",
+      "wordCount": 20
+    },
+    {
+      "id": 254,
+      "index": 254,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "They know you are Tutsi!",
+      "wordCount": 5
+    },
+    {
+      "id": 255,
+      "index": 255,
+      "character": "TATIANA",
+      "gender": "Female",
+      "line": "Please, Paul, 'til first light.",
+      "wordCount": 5
+    },
+    {
+      "id": 256,
+      "index": 256,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Dawn. Then they go.",
+      "wordCount": 4
+    },
+    {
+      "id": 257,
+      "index": 257,
+      "character": "ODETTE",
+      "gender": "Female",
+      "line": "Forgive me, Paul. Danielle says that Roger has gone.",
+      "wordCount": 9
+    },
+    {
+      "id": 258,
+      "index": 258,
+      "character": "TATIANA",
+      "gender": "Female",
+      "line": "Gone where? Tell me, Danielle. Their daughter Danielle answers.",
+      "wordCount": 9
+    },
+    {
+      "id": 259,
+      "index": 259,
+      "character": "DANIELLE",
+      "gender": "NA",
+      "line": "Next door, mama. He was afraid for his friend Simon. He went to fetch him.",
+      "wordCount": 15
+    },
+    {
+      "id": 260,
+      "index": 260,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Shhhhh.",
+      "wordCount": 1
+    },
+    {
+      "id": 261,
+      "index": 261,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Ssshh! Paul drags his son through the chainlink fence, whisks him up in his arms and rushes him to the house.",
+      "wordCount": 21
+    },
+    {
+      "id": 262,
+      "index": 262,
+      "character": "TATIANA",
+      "gender": "Female",
+      "line": "Roger!",
+      "wordCount": 1
+    },
+    {
+      "id": 263,
+      "index": 263,
+      "character": "TATIANA",
+      "gender": "Female",
+      "line": "Oh, my God!",
+      "wordCount": 3
+    },
+    {
+      "id": 264,
+      "index": 264,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Where are you hurt, son?",
+      "wordCount": 5
+    },
+    {
+      "id": 265,
+      "index": 265,
+      "character": "ODETTE",
+      "gender": "Female",
+      "line": "Get his clothes off.",
+      "wordCount": 4
+    },
+    {
+      "id": 266,
+      "index": 266,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "What happened, son? Where did you get this blood?",
+      "wordCount": 9
+    },
+    {
+      "id": 267,
+      "index": 267,
+      "character": "ODETTE",
+      "gender": "Female",
+      "line": "He's not injured.",
+      "wordCount": 3
+    },
+    {
+      "id": 268,
+      "index": 268,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Leave us, give us some space.",
+      "wordCount": 6
+    },
+    {
+      "id": 269,
+      "index": 269,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "The neighbors must go at dawn.",
+      "wordCount": 6
+    },
+    {
+      "id": 270,
+      "index": 270,
+      "character": "TATIANA",
+      "gender": "Female",
+      "line": "Will you take a little milk?",
+      "wordCount": 6
+    },
+    {
+      "id": 271,
+      "index": 271,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Let him sleep.",
+      "wordCount": 3
+    },
+    {
+      "id": 272,
+      "index": 272,
+      "character": "OLD GUARD",
+      "gender": "Male",
+      "line": "Mr. Paul.",
+      "wordCount": 2
+    },
+    {
+      "id": 273,
+      "index": 273,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "It is time for the neighbors to leave.",
+      "wordCount": 8
+    },
+    {
+      "id": 274,
+      "index": 274,
+      "character": "JEAN BAPTISTE",
+      "gender": "NA",
+      "line": "It is true.",
+      "wordCount": 3
+    },
+    {
+      "id": 275,
+      "index": 275,
+      "character": "GLORIA THE REPORTER",
+      "gender": "NA",
+      "line": "The Hutu president's plane was struck by a ground-to-air missile as he returned from signing the peace accord with the Tutsi rebels. There were no survivors. The Hutu government has already blamed the Tutsi rebels. The rebels have denied the accusation. Already there are reports of reprisal killings on the streets.",
+      "wordCount": 51
+    },
+    {
+      "id": 276,
+      "index": 276,
+      "character": "WOMEN",
+      "gender": "NA",
+      "line": "They are here.",
+      "wordCount": 3
+    },
+    {
+      "id": 277,
+      "index": 277,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Shut up!",
+      "wordCount": 2
+    },
+    {
+      "id": 278,
+      "index": 278,
+      "character": "TATIANA",
+      "gender": "Female",
+      "line": "What is it, Paul.",
+      "wordCount": 4
+    },
+    {
+      "id": 279,
+      "index": 279,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Stay with the children.",
+      "wordCount": 4
+    },
+    {
+      "id": 280,
+      "index": 280,
+      "character": "SOLDIERS",
+      "gender": "NA",
+      "line": "Out, get out now!",
+      "wordCount": 4
+    },
+    {
+      "id": 281,
+      "index": 281,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Who is in charge?",
+      "wordCount": 4
+    },
+    {
+      "id": 282,
+      "index": 282,
+      "character": "CAPTAIN",
+      "gender": "NA",
+      "line": "Who are you?",
+      "wordCount": 3
+    },
+    {
+      "id": 283,
+      "index": 283,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "I am Paul Rusesabagina, a good friend of General Bizimungu.",
+      "wordCount": 10
+    },
+    {
+      "id": 284,
+      "index": 284,
+      "character": "CAPTAIN",
+      "gender": "NA",
+      "line": "We are looking for you.",
+      "wordCount": 5
+    },
+    {
+      "id": 285,
+      "index": 285,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "What is this about?",
+      "wordCount": 4
+    },
+    {
+      "id": 286,
+      "index": 286,
+      "character": "CAPTAIN",
+      "gender": "NA",
+      "line": "Let me see your identity card.",
+      "wordCount": 6
+    },
+    {
+      "id": 287,
+      "index": 287,
+      "character": "CAPTAIN",
+      "gender": "NA",
+      "line": "You heard the Tutsi cockroaches murdered our president.",
+      "wordCount": 8
+    },
+    {
+      "id": 288,
+      "index": 288,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Yes, it is a calamity for us all.",
+      "wordCount": 8
+    },
+    {
+      "id": 289,
+      "index": 289,
+      "character": "CAPTAIN",
+      "gender": "NA",
+      "line": "You work at the Hotel Diplomat?",
+      "wordCount": 6
+    },
+    {
+      "id": 290,
+      "index": 290,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "No. I work at the Mille Collines.",
+      "wordCount": 7
+    },
+    {
+      "id": 291,
+      "index": 291,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "I used to work at the Diplomat.",
+      "wordCount": 7
+    },
+    {
+      "id": 292,
+      "index": 292,
+      "character": "CAPTAIN",
+      "gender": "NA",
+      "line": "Do you know how to open the safe there? Our government needs to use the hotel and the room keys are in the safe. You must open it.",
+      "wordCount": 28
+    },
+    {
+      "id": 293,
+      "index": 293,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Of course.",
+      "wordCount": 2
+    },
+    {
+      "id": 294,
+      "index": 294,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Captain, I must take my family. It is not safe here.",
+      "wordCount": 11
+    },
+    {
+      "id": 295,
+      "index": 295,
+      "character": "CAPTAIN",
+      "gender": "NA",
+      "line": "Where is your family?",
+      "wordCount": 4
+    },
+    {
+      "id": 296,
+      "index": 296,
+      "character": "TATIANA",
+      "gender": "Female",
+      "line": "This is them.",
+      "wordCount": 3
+    },
+    {
+      "id": 297,
+      "index": 297,
+      "character": "CAPTAIN",
+      "gender": "NA",
+      "line": "All of them! I cannot take them.",
+      "wordCount": 7
+    },
+    {
+      "id": 298,
+      "index": 298,
+      "character": "TATIANA",
+      "gender": "Female",
+      "line": "No, no, good Captain, you do not have to. We have the car and our van.",
+      "wordCount": 16
+    },
+    {
+      "id": 299,
+      "index": 299,
+      "character": "CAPTAIN",
+      "gender": "NA",
+      "line": "Let's go.",
+      "wordCount": 2
+    },
+    {
+      "id": 300,
+      "index": 300,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Don't look.",
+      "wordCount": 2
+    },
+    {
+      "id": 301,
+      "index": 301,
+      "character": "ROBERT",
+      "gender": "NA",
+      "line": "Mr. Paul, sir. Oh, Mr. Paul. We must open every door right now for the government.",
+      "wordCount": 16
+    },
+    {
+      "id": 302,
+      "index": 302,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "The safe is in the manager's office.",
+      "wordCount": 7
+    },
+    {
+      "id": 303,
+      "index": 303,
+      "character": "CAPTAIN",
+      "gender": "NA",
+      "line": "Go with him, get the keys.",
+      "wordCount": 6
+    },
+    {
+      "id": 304,
+      "index": 304,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Gentlemen, you'll find some chocolate, and maybe a few beers in the fridge. Don't let them go to waste.",
+      "wordCount": 19
+    },
+    {
+      "id": 305,
+      "index": 305,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "I've got them.",
+      "wordCount": 3
+    },
+    {
+      "id": 306,
+      "index": 306,
+      "character": "CAPTAIN",
+      "gender": "NA",
+      "line": "Traitor!",
+      "wordCount": 1
+    },
+    {
+      "id": 307,
+      "index": 307,
+      "character": "CAPTAIN",
+      "gender": "NA",
+      "line": "They are all Tutsi cockroaches.",
+      "wordCount": 5
+    },
+    {
+      "id": 308,
+      "index": 308,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Let me explain.",
+      "wordCount": 3
+    },
+    {
+      "id": 309,
+      "index": 309,
+      "character": "CAPTAIN",
+      "gender": "NA",
+      "line": "SHOOT THEM!",
+      "wordCount": 2
+    },
+    {
+      "id": 310,
+      "index": 310,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Please, I don't use guns.",
+      "wordCount": 5
+    },
+    {
+      "id": 311,
+      "index": 311,
+      "character": "CAPTAIN",
+      "gender": "NA",
+      "line": "There is nothing to it.",
+      "wordCount": 5
+    },
+    {
+      "id": 312,
+      "index": 312,
+      "character": "CAPTAIN",
+      "gender": "NA",
+      "line": "Shoot them now or you die first.",
+      "wordCount": 7
+    },
+    {
+      "id": 313,
+      "index": 313,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Captain, what could I pay you not to do this?",
+      "wordCount": 10
+    },
+    {
+      "id": 314,
+      "index": 314,
+      "character": "CAPTAIN",
+      "gender": "NA",
+      "line": "You want to pay me?",
+      "wordCount": 5
+    },
+    {
+      "id": 315,
+      "index": 315,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Why not? These are not rebels, look at them. Soon they will be worthless to you. Why not take some money, for your work?",
+      "wordCount": 24
+    },
+    {
+      "id": 316,
+      "index": 316,
+      "character": "CAPTAIN",
+      "gender": "NA",
+      "line": "How much?",
+      "wordCount": 2
+    },
+    {
+      "id": 317,
+      "index": 317,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Name a price.",
+      "wordCount": 3
+    },
+    {
+      "id": 318,
+      "index": 318,
+      "character": "CAPTAIN",
+      "gender": "NA",
+      "line": "Ten thousand francs for each one.",
+      "wordCount": 6
+    },
+    {
+      "id": 319,
+      "index": 319,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "I don't have that much.",
+      "wordCount": 5
+    },
+    {
+      "id": 320,
+      "index": 320,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Wait! Wait!",
+      "wordCount": 2
+    },
+    {
+      "id": 321,
+      "index": 321,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Here, here, a thousand US dollars - fifty thousand francs for my family. To let us drive off to the Mille Collines.",
+      "wordCount": 22
+    },
+    {
+      "id": 322,
+      "index": 322,
+      "character": "CAPTAIN",
+      "gender": "NA",
+      "line": "How many in your family?",
+      "wordCount": 5
+    },
+    {
+      "id": 323,
+      "index": 323,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Six.",
+      "wordCount": 1
+    },
+    {
+      "id": 324,
+      "index": 324,
+      "character": "APTAIN",
+      "gender": "NA",
+      "line": "Pull your family out.",
+      "wordCount": 4
+    },
+    {
+      "id": 325,
+      "index": 325,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Have you any money?",
+      "wordCount": 4
+    },
+    {
+      "id": 326,
+      "index": 326,
+      "character": "ODETTE",
+      "gender": "Female",
+      "line": "Nothing.",
+      "wordCount": 1
+    },
+    {
+      "id": 327,
+      "index": 327,
+      "character": "TATIANA",
+      "gender": "Female",
+      "line": "Paul, don't let them die.",
+      "wordCount": 5
+    },
+    {
+      "id": 328,
+      "index": 328,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Get in.",
+      "wordCount": 2
+    },
+    {
+      "id": 329,
+      "index": 329,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Captain, let these people give you some money, whatever they have.",
+      "wordCount": 11
+    },
+    {
+      "id": 330,
+      "index": 330,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Give me everything, everything you have.",
+      "wordCount": 6
+    },
+    {
+      "id": 331,
+      "index": 331,
+      "character": "CAPTAIN",
+      "gender": "NA",
+      "line": "There is only enough for one cockroach.",
+      "wordCount": 7
+    },
+    {
+      "id": 332,
+      "index": 332,
+      "character": "CAPTAIN",
+      "gender": "NA",
+      "line": "Pick one to take with you.",
+      "wordCount": 6
+    },
+    {
+      "id": 333,
+      "index": 333,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Wait, wait.",
+      "wordCount": 2
+    },
+    {
+      "id": 334,
+      "index": 334,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Ten.",
+      "wordCount": 1
+    },
+    {
+      "id": 335,
+      "index": 335,
+      "character": "CAPTAIN",
+      "gender": "NA",
+      "line": "And four children?",
+      "wordCount": 3
+    },
+    {
+      "id": 336,
+      "index": 336,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "I'll give you a hundred thousand francs for all of them.",
+      "wordCount": 11
+    },
+    {
+      "id": 337,
+      "index": 337,
+      "character": "CAPTAIN",
+      "gender": "NA",
+      "line": "Give me it.",
+      "wordCount": 3
+    },
+    {
+      "id": 338,
+      "index": 338,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "I don't have it here. At the Mille Collines. I can get it for you.",
+      "wordCount": 15
+    },
+    {
+      "id": 339,
+      "index": 339,
+      "character": "CAPTAIN",
+      "gender": "NA",
+      "line": "You will run into the hotel and hide behind the U.N.",
+      "wordCount": 11
+    },
+    {
+      "id": 340,
+      "index": 340,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "I swear, Captain, one hundred thousand francs, enough for a house. I will get the money, you keep them outside.",
+      "wordCount": 20
+    },
+    {
+      "id": 341,
+      "index": 341,
+      "character": "CAPTAIN",
+      "gender": "NA",
+      "line": "I will keep your family outside. Let's go.",
+      "wordCount": 8
+    },
+    {
+      "id": 342,
+      "index": 342,
+      "character": "CAPTAIN",
+      "gender": "NA",
+      "line": "Go with my soldiers. And hurry back if you want to keep these cockroaches.",
+      "wordCount": 14
+    },
+    {
+      "id": 343,
+      "index": 343,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "I am the manager. Open the gate.",
+      "wordCount": 7
+    },
+    {
+      "id": 344,
+      "index": 344,
+      "character": "BIK",
+      "gender": "NA",
+      "line": "Paul, I have to talk to you ...",
+      "wordCount": 8
+    },
+    {
+      "id": 345,
+      "index": 345,
+      "character": "RECEPTIONIST",
+      "gender": "Female",
+      "line": "Oh, sir, please can you...",
+      "wordCount": 5
+    },
+    {
+      "id": 346,
+      "index": 346,
+      "character": "BIK",
+      "gender": "NA",
+      "line": "Paul... grabs Paul) ...I have to talk to you.",
+      "wordCount": 9
+    },
+    {
+      "id": 347,
+      "index": 347,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "I'll be back.",
+      "wordCount": 3
+    },
+    {
+      "id": 348,
+      "index": 348,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Let's go.",
+      "wordCount": 2
+    },
+    {
+      "id": 349,
+      "index": 349,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Now let them go.",
+      "wordCount": 4
+    },
+    {
+      "id": 350,
+      "index": 350,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Don't be foolish. There's more money to be made here.",
+      "wordCount": 10
+    },
+    {
+      "id": 351,
+      "index": 351,
+      "character": "CAPTAIN",
+      "gender": "NA",
+      "line": "You want to buy anymore cockroaches ask for Captain Naramunju.",
+      "wordCount": 10
+    },
+    {
+      "id": 352,
+      "index": 352,
+      "character": "ODETTE",
+      "gender": "Female",
+      "line": "Thank you, thank you, Paul.",
+      "wordCount": 5
+    },
+    {
+      "id": 353,
+      "index": 353,
+      "character": "BIK",
+      "gender": "NA",
+      "line": "Paul, I have to go. The staff have fled Kivu Lodge. I have to close it.",
+      "wordCount": 16
+    },
+    {
+      "id": 354,
+      "index": 354,
+      "character": "BIK",
+      "gender": "NA",
+      "line": "While I'm away, you're in charge.",
+      "wordCount": 6
+    },
+    {
+      "id": 355,
+      "index": 355,
+      "character": "TOURISTS",
+      "gender": "NA",
+      "line": "Hey, hey, we need our passports, we want to get a flight.",
+      "wordCount": 12
+    },
+    {
+      "id": 356,
+      "index": 356,
+      "character": "TOURIST",
+      "gender": "NA",
+      "line": "They're in your safety boxes. We need them right away.",
+      "wordCount": 10
+    },
+    {
+      "id": 357,
+      "index": 357,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Come inside.",
+      "wordCount": 2
+    },
+    {
+      "id": 358,
+      "index": 358,
+      "character": "TOURIST",
+      "gender": "NA",
+      "line": "He's in charge, that's him.",
+      "wordCount": 5
+    },
+    {
+      "id": 359,
+      "index": 359,
+      "character": "TOURISTS",
+      "gender": "NA",
+      "line": "to the airport...my embassy ...tried to call... the airport is closed ... refund... this is outrageous ...",
+      "wordCount": 17
+    },
+    {
+      "id": 360,
+      "index": 360,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Please, I am the house manager. Return in thirty minutes and we will deal with all your requests, thank you.",
+      "wordCount": 20
+    },
+    {
+      "id": 361,
+      "index": 361,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "What happened to all the rooms?",
+      "wordCount": 6
+    },
+    {
+      "id": 362,
+      "index": 362,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Take this room. Tatiana, bring the children.",
+      "wordCount": 7
+    },
+    {
+      "id": 363,
+      "index": 363,
+      "character": "TATIANA",
+      "gender": "Female",
+      "line": "What about them?",
+      "wordCount": 3
+    },
+    {
+      "id": 364,
+      "index": 364,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Them. They almost got us all killed. I have done enough for them! We cannot look after them anymore.",
+      "wordCount": 19
+    },
+    {
+      "id": 365,
+      "index": 365,
+      "character": "TATIANA",
+      "gender": "Female",
+      "line": "What are you going to do? You cannot drive them out onto the road. They can stay with me.",
+      "wordCount": 19
+    },
+    {
+      "id": 366,
+      "index": 366,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "What!",
+      "wordCount": 1
+    },
+    {
+      "id": 367,
+      "index": 367,
+      "character": "TATIANA",
+      "gender": "Female",
+      "line": "I will not have them on my conscience. They will stay in my room.",
+      "wordCount": 14
+    },
+    {
+      "id": 368,
+      "index": 368,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Zozo, get a key for two staff bedrooms. Put these people in them.",
+      "wordCount": 13
+    },
+    {
+      "id": 369,
+      "index": 369,
+      "character": "ZOZO",
+      "gender": "NA",
+      "line": "Yes, sir.",
+      "wordCount": 2
+    },
+    {
+      "id": 370,
+      "index": 370,
+      "character": "REFUGEE",
+      "gender": "NA",
+      "line": "Moses, Moses Seradungu.",
+      "wordCount": 3
+    },
+    {
+      "id": 371,
+      "index": 371,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Can I help you?",
+      "wordCount": 4
+    },
+    {
+      "id": 372,
+      "index": 372,
+      "character": "REFUGEE",
+      "gender": "NA",
+      "line": "I'm looking for Moses Seradungu's room.",
+      "wordCount": 6
+    },
+    {
+      "id": 373,
+      "index": 373,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "What is his room number?",
+      "wordCount": 5
+    },
+    {
+      "id": 374,
+      "index": 374,
+      "character": "REFUGEE",
+      "gender": "NA",
+      "line": "I don't know.",
+      "wordCount": 3
+    },
+    {
+      "id": 375,
+      "index": 375,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Go downstairs, I will help you.",
+      "wordCount": 6
+    },
+    {
+      "id": 376,
+      "index": 376,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "What are you doing?",
+      "wordCount": 4
+    },
+    {
+      "id": 377,
+      "index": 377,
+      "character": "TATIANA",
+      "gender": "Female",
+      "line": "Trying Thomas and Fedens. We've got to get them here.",
+      "wordCount": 10
+    },
+    {
+      "id": 378,
+      "index": 378,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "This won't do.",
+      "wordCount": 3
+    },
+    {
+      "id": 379,
+      "index": 379,
+      "character": "TATIANA",
+      "gender": "Female",
+      "line": "It will do just fine.",
+      "wordCount": 5
+    },
+    {
+      "id": 380,
+      "index": 380,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Any luck?",
+      "wordCount": 2
+    },
+    {
+      "id": 381,
+      "index": 381,
+      "character": "TATIANA",
+      "gender": "Female",
+      "line": "No answer. Please send someone to get them, please.",
+      "wordCount": 9
+    },
+    {
+      "id": 382,
+      "index": 382,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "I'll try.",
+      "wordCount": 2
+    },
+    {
+      "id": 383,
+      "index": 383,
+      "character": "MR. GARINDI",
+      "gender": "NA",
+      "line": "Terrible times, Paul. There are bodies everywhere. I cannot stay here.",
+      "wordCount": 11
+    },
+    {
+      "id": 384,
+      "index": 384,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "I need a great favor.",
+      "wordCount": 5
+    },
+    {
+      "id": 385,
+      "index": 385,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "I need you to go to this address and bring my brother-in-law and his family.",
+      "wordCount": 15
+    },
+    {
+      "id": 386,
+      "index": 386,
+      "character": "MR. GARINDI",
+      "gender": "NA",
+      "line": "No, no. This is a very dangerous part of town. I cannot do this.",
+      "wordCount": 14
+    },
+    {
+      "id": 387,
+      "index": 387,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "This would be an enormous favor to me. I am a man of means, Mr. Garandi. When this nonsense is over I will be most grateful.",
+      "wordCount": 26
+    },
+    {
+      "id": 388,
+      "index": 388,
+      "character": "MR. GARINDI",
+      "gender": "NA",
+      "line": "I will see what I can do.",
+      "wordCount": 7
+    },
+    {
+      "id": 389,
+      "index": 389,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Thank you for your patience, ladies and gentlemen. Now, how can I help you.",
+      "wordCount": 14
+    },
+    {
+      "id": 390,
+      "index": 390,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Where are the receptionists? Where's Gregoire?",
+      "wordCount": 6
+    },
+    {
+      "id": 391,
+      "index": 391,
+      "character": "ZOZO",
+      "gender": "NA",
+      "line": "He has taken the presidential suite.",
+      "wordCount": 6
+    },
+    {
+      "id": 392,
+      "index": 392,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "What!",
+      "wordCount": 1
+    },
+    {
+      "id": 393,
+      "index": 393,
+      "character": "GREGOIRE",
+      "gender": "Male",
+      "line": "Mr. Manager.",
+      "wordCount": 2
+    },
+    {
+      "id": 394,
+      "index": 394,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Gregoire, what are you doing here?",
+      "wordCount": 6
+    },
+    {
+      "id": 395,
+      "index": 395,
+      "character": "GREGOIRE",
+      "gender": "Male",
+      "line": "What do you want?",
+      "wordCount": 4
+    },
+    {
+      "id": 396,
+      "index": 396,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Get out of this room and get back to work.",
+      "wordCount": 10
+    },
+    {
+      "id": 397,
+      "index": 397,
+      "character": "GREGOIRE",
+      "gender": "Male",
+      "line": "I don't have to listen to you anymore.",
+      "wordCount": 8
+    },
+    {
+      "id": 398,
+      "index": 398,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "I am in charge now. Get back to work or I'll fire you.",
+      "wordCount": 13
+    },
+    {
+      "id": 399,
+      "index": 399,
+      "character": "GREGOIRE",
+      "gender": "Male",
+      "line": "Let me ask you Mr. Manager, do you notice a smell of cockroaches? If I were to leave this room, I'm sure I could find this smell. I know people who could cleanse it. But maybe it doesn't bother you? Why is that? Are used to this smell? Not me, I need a clean room to escape it.",
+      "wordCount": 58
+    },
+    {
+      "id": 400,
+      "index": 400,
+      "character": "COLONEL OLIVER",
+      "gender": "Male",
+      "line": "Paul, you know who this is?",
+      "wordCount": 6
+    },
+    {
+      "id": 401,
+      "index": 401,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Yes, Colonel Monsieur Xavier, the Minister of Finance.",
+      "wordCount": 8
+    },
+    {
+      "id": 402,
+      "index": 402,
+      "character": "COLONEL OLIVER",
+      "gender": "Male",
+      "line": "Get him a room, but tell no one he is here. Paul will look after you.",
+      "wordCount": 16
+    },
+    {
+      "id": 403,
+      "index": 403,
+      "character": "XAVIER",
+      "gender": "NA",
+      "line": "I will need a suite.",
+      "wordCount": 5
+    },
+    {
+      "id": 404,
+      "index": 404,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Of course.",
+      "wordCount": 2
+    },
+    {
+      "id": 405,
+      "index": 405,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Get the key to suite twelve, take these people there right away.",
+      "wordCount": 12
+    },
+    {
+      "id": 406,
+      "index": 406,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "What's going on?",
+      "wordCount": 3
+    },
+    {
+      "id": 407,
+      "index": 407,
+      "character": "VALET",
+      "gender": "NA",
+      "line": "Sir, they have no reservations.",
+      "wordCount": 5
+    },
+    {
+      "id": 408,
+      "index": 408,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Wait over there.",
+      "wordCount": 3
+    },
+    {
+      "id": 409,
+      "index": 409,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "I said everyone go over there.",
+      "wordCount": 6
+    },
+    {
+      "id": 410,
+      "index": 410,
+      "character": "GLORIA",
+      "gender": "NA",
+      "line": "Do we know who fired the missile that killed the president?",
+      "wordCount": 11
+    },
+    {
+      "id": 411,
+      "index": 411,
+      "character": "COLONEL OLIVER",
+      "gender": "Male",
+      "line": "No. But I fear it's intention may have been to kill the peace accords and spark a civil war between the Hutu Militia and the Tutsi rebels.",
+      "wordCount": 27
+    },
+    {
+      "id": 412,
+      "index": 412,
+      "character": "GLORIA",
+      "gender": "NA",
+      "line": "We've heard reports of reprisal killings. Will the UN intervene to stop the bloodshed.?",
+      "wordCount": 14
+    },
+    {
+      "id": 413,
+      "index": 413,
+      "character": "COLONEL OLIVER",
+      "gender": "Male",
+      "line": "Unfortunately we're here as peace-keepers not peace makers, we can't take an aggressive role.",
+      "wordCount": 14
+    },
+    {
+      "id": 414,
+      "index": 414,
+      "character": "GLORIA",
+      "gender": "NA",
+      "line": "If the UN changes your mandate could you stop the bloodshed?",
+      "wordCount": 11
+    },
+    {
+      "id": 415,
+      "index": 415,
+      "character": "COLONEL OLIVER",
+      "gender": "Male",
+      "line": "Yes. With some re-inforcements I'm confident we could impose order.",
+      "wordCount": 10
+    },
+    {
+      "id": 416,
+      "index": 416,
+      "character": "GLORIA",
+      "gender": "NA",
+      "line": "Have you requested re-enforcements?",
+      "wordCount": 4
+    },
+    {
+      "id": 417,
+      "index": 417,
+      "character": "COLONEL OLIVER",
+      "gender": "Male",
+      "line": "Yes we have.",
+      "wordCount": 3
+    },
+    {
+      "id": 418,
+      "index": 418,
+      "character": "GLORIA",
+      "gender": "NA",
+      "line": "What was the response?",
+      "wordCount": 4
+    },
+    {
+      "id": 419,
+      "index": 419,
+      "character": "COLONEL OLIVER",
+      "gender": "Male",
+      "line": "We're awaiting a decision, excuse me.",
+      "wordCount": 6
+    },
+    {
+      "id": 420,
+      "index": 420,
+      "character": "COLONEL OLIVER",
+      "gender": "Male",
+      "line": "Paul, I've sent my soldiers to rescue the Lady Prime Minister, she'll need a room.",
+      "wordCount": 15
+    },
+    {
+      "id": 421,
+      "index": 421,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Yes sir, but these people they cannot stay here. I've heard you have a refugee center at the airport Stadium?",
+      "wordCount": 20
+    },
+    {
+      "id": 422,
+      "index": 422,
+      "character": "COLONEL OLIVER",
+      "gender": "Male",
+      "line": "I'm sorry, I can't possibly take them Paul. I'm overrun with refugees. As soon as we can stabilize the situation we'll take them.",
+      "wordCount": 23
+    },
+    {
+      "id": 423,
+      "index": 423,
+      "character": "JOCK",
+      "gender": "NA",
+      "line": "For fuck's sake, Gloria There's a big news story out there! We need to get out and cover it.",
+      "wordCount": 19
+    },
+    {
+      "id": 424,
+      "index": 424,
+      "character": "GLORIA",
+      "gender": "NA",
+      "line": "We're not going outside the hotel grounds unless we have an armored car. That's the ground rules.",
+      "wordCount": 17
+    },
+    {
+      "id": 425,
+      "index": 425,
+      "character": "JOCK",
+      "gender": "NA",
+      "line": "Ground rules! Where the fuck do you think you are, Wimbledon?",
+      "wordCount": 11
+    },
+    {
+      "id": 426,
+      "index": 426,
+      "character": "GLORIA",
+      "gender": "NA",
+      "line": "We cover the story from here until we can get proper protection.",
+      "wordCount": 12
+    },
+    {
+      "id": 427,
+      "index": 427,
+      "character": "RADIO ANNOUNCER",
+      "gender": "NA",
+      "line": "'Good Hutus, we must destroy an infestation of cockroaches at the technical college.'",
+      "wordCount": 13
+    },
+    {
+      "id": 428,
+      "index": 428,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Turn that off. We have a hotel to run.",
+      "wordCount": 9
+    },
+    {
+      "id": 429,
+      "index": 429,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Where's housekeeping? They won't pick up.",
+      "wordCount": 6
+    },
+    {
+      "id": 430,
+      "index": 430,
+      "character": "ZOZO",
+      "gender": "NA",
+      "line": "Sir, no one wants to work. They say the boss has left.",
+      "wordCount": 12
+    },
+    {
+      "id": 431,
+      "index": 431,
+      "character": "ABENA PRESIDENT",
+      "gender": "NA",
+      "line": "Can I have your name again?",
+      "wordCount": 6
+    },
+    {
+      "id": 432,
+      "index": 432,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Paul Rusesabagina, Mr. Godefroid. The house manager. I met you on your last visit.",
+      "wordCount": 14
+    },
+    {
+      "id": 433,
+      "index": 433,
+      "character": "SABENA PRESIDENT",
+      "gender": "NA",
+      "line": "Yes, Paul, I remember. The Mille Collines is a very important property for Sabena. Our directors believe we should close down, shutter the place until this unrest is over?",
+      "wordCount": 29
+    },
+    {
+      "id": 434,
+      "index": 434,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Sir, that would be very bad for our reputation. We are an oasis of calm for all our loyal customers. What would they think if Sabena deserted them now? I assure you the United Nations has everything under control.",
+      "wordCount": 39
+    },
+    {
+      "id": 435,
+      "index": 435,
+      "character": "SABENA PRESIDENT",
+      "gender": "NA",
+      "line": "Very well. But if this thing gets worse, we must close. If there's anything you need, call anytime.",
+      "wordCount": 18
+    },
+    {
+      "id": 436,
+      "index": 436,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "There is one thing I need right away.",
+      "wordCount": 8
+    },
+    {
+      "id": 437,
+      "index": 437,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "This is my letter of appointment, signed by Mr. Godefroid, the president of Sabena. The Mille Collines is a five star establishment, we will run it that way. If you don't want to work for me, then leave now.",
+      "wordCount": 39
+    },
+    {
+      "id": 438,
+      "index": 438,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "I want the hallways cleaned now, a menu prepared for the dining room. Where's the pianist?",
+      "wordCount": 16
+    },
+    {
+      "id": 439,
+      "index": 439,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "I want you on the piano in the Kigali Room tonight. Back to work.",
+      "wordCount": 14
+    },
+    {
+      "id": 440,
+      "index": 440,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Take these people to the rear car park, they can't stay here.",
+      "wordCount": 12
+    },
+    {
+      "id": 441,
+      "index": 441,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Get Odette!",
+      "wordCount": 2
+    },
+    {
+      "id": 442,
+      "index": 442,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "What happened?",
+      "wordCount": 2
+    },
+    {
+      "id": 443,
+      "index": 443,
+      "character": "BENEDICT",
+      "gender": "NA",
+      "line": "They're killing everyone. The Lady Minister! The UN soldiers. They're at the gate.",
+      "wordCount": 13
+    },
+    {
+      "id": 444,
+      "index": 444,
+      "character": "COLONEL OLIVER",
+      "gender": "Male",
+      "line": "Hold the line here. Do not shoot!",
+      "wordCount": 7
+    },
+    {
+      "id": 445,
+      "index": 445,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "What's happening?",
+      "wordCount": 2
+    },
+    {
+      "id": 446,
+      "index": 446,
+      "character": "COLONEL OLIVER",
+      "gender": "Male",
+      "line": "They murdered my soldiers. Ten Belgians who I sent to get the lady minister.",
+      "wordCount": 14
+    },
+    {
+      "id": 447,
+      "index": 447,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Where is she?",
+      "wordCount": 3
+    },
+    {
+      "id": 448,
+      "index": 448,
+      "character": "REPORTERS",
+      "gender": "NA",
+      "line": "Is it true about the Belgian soldiers... Are all ten dead?",
+      "wordCount": 11
+    },
+    {
+      "id": 449,
+      "index": 449,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Has Roger spoken yet?",
+      "wordCount": 4
+    },
+    {
+      "id": 450,
+      "index": 450,
+      "character": "TATIANA",
+      "gender": "Female",
+      "line": "No, Odette says he's in shock.",
+      "wordCount": 6
+    },
+    {
+      "id": 451,
+      "index": 451,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "How can we help him.",
+      "wordCount": 5
+    },
+    {
+      "id": 452,
+      "index": 452,
+      "character": "TATIANA",
+      "gender": "Female",
+      "line": "He needs to be in a safe place. Have you heard from Mr. Garindi?",
+      "wordCount": 14
+    },
+    {
+      "id": 453,
+      "index": 453,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Give him time.",
+      "wordCount": 3
+    },
+    {
+      "id": 454,
+      "index": 454,
+      "character": "GLORIA",
+      "gender": "NA",
+      "line": "Okay, we're feeding through live now.",
+      "wordCount": 6
+    },
+    {
+      "id": 455,
+      "index": 455,
+      "character": "GLORIA",
+      "gender": "NA",
+      "line": "Okay London .... and five four three two one ...That's correct Tom. Today's gruesome ambush of a ten man Belgian patrol has left the UN peacekeeping force in a state of disarray. Its commander has called for re-enforcements. However, the General Council is deeply divided. The United States, still smarting from the UN's disastrous Somalia mission, has indicated that it will veto any moves to reinforce. Meanwhile, the slaughter goes on. Gloria Brooks in Kigali, Rwanda.",
+      "wordCount": 76
+    },
+    {
+      "id": 456,
+      "index": 456,
+      "character": "GLORIA",
+      "gender": "NA",
+      "line": "And, cut ...good, give me a call guys, let me know you've got it.",
+      "wordCount": 14
+    },
+    {
+      "id": 457,
+      "index": 457,
+      "character": "JOCK",
+      "gender": "NA",
+      "line": "Perfect timing.",
+      "wordCount": 2
+    },
+    {
+      "id": 458,
+      "index": 458,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "This goes out live?",
+      "wordCount": 4
+    },
+    {
+      "id": 459,
+      "index": 459,
+      "character": "JOCK",
+      "gender": "NA",
+      "line": "Satellite feed.",
+      "wordCount": 2
+    },
+    {
+      "id": 460,
+      "index": 460,
+      "character": "GLORIA",
+      "gender": "NA",
+      "line": "Great. No kidding, When will they be here? Excellent. Yes, call then.",
+      "wordCount": 12
+    },
+    {
+      "id": 461,
+      "index": 461,
+      "character": "GLORIA",
+      "gender": "NA",
+      "line": "The news room has heard that the French and the Belgians are putting together an intervention force.",
+      "wordCount": 17
+    },
+    {
+      "id": 462,
+      "index": 462,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "When will they be here?",
+      "wordCount": 5
+    },
+    {
+      "id": 463,
+      "index": 463,
+      "character": "GLORIA",
+      "gender": "NA",
+      "line": "Very soon.",
+      "wordCount": 2
+    },
+    {
+      "id": 464,
+      "index": 464,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Thank God.",
+      "wordCount": 2
+    },
+    {
+      "id": 465,
+      "index": 465,
+      "character": "JOCK",
+      "gender": "NA",
+      "line": "Hey Peter, hook me back into the monitors.",
+      "wordCount": 8
+    },
+    {
+      "id": 466,
+      "index": 466,
+      "character": "JOCK",
+      "gender": "NA",
+      "line": "Holy shit! Holy shit.",
+      "wordCount": 4
+    },
+    {
+      "id": 467,
+      "index": 467,
+      "character": "GLORIA",
+      "gender": "NA",
+      "line": "What is it?",
+      "wordCount": 3
+    },
+    {
+      "id": 468,
+      "index": 468,
+      "character": "JOCK",
+      "gender": "NA",
+      "line": "You fucking see that!",
+      "wordCount": 4
+    },
+    {
+      "id": 469,
+      "index": 469,
+      "character": "GLORIA",
+      "gender": "NA",
+      "line": "Oh my God!",
+      "wordCount": 3
+    },
+    {
+      "id": 470,
+      "index": 470,
+      "character": "GLORIA",
+      "gender": "NA",
+      "line": "It's Gloria. Listen we've footage, unbelievable footage! A massacre! Machetes, murderers, dead bodies. You have to lead with this. We'll send it through right now. Wait 'til you see this.",
+      "wordCount": 30
+    },
+    {
+      "id": 471,
+      "index": 471,
+      "character": "JOCK",
+      "gender": "NA",
+      "line": "Here, have a sandwich.",
+      "wordCount": 4
+    },
+    {
+      "id": 472,
+      "index": 472,
+      "character": "GLORIA",
+      "gender": "NA",
+      "line": "Fuck you.",
+      "wordCount": 2
+    },
+    {
+      "id": 473,
+      "index": 473,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "I'm glad you filmed this. Now the West will have to stop it. Excuse me, gentlemen.",
+      "wordCount": 16
+    },
+    {
+      "id": 474,
+      "index": 474,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Tatsi, come.",
+      "wordCount": 2
+    },
+    {
+      "id": 475,
+      "index": 475,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Go back inside.",
+      "wordCount": 3
+    },
+    {
+      "id": 476,
+      "index": 476,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Did you find the twins?",
+      "wordCount": 5
+    },
+    {
+      "id": 477,
+      "index": 477,
+      "character": "MR. GARINDI",
+      "gender": "NA",
+      "line": "I made it to the house but it was empty. It had been robbed.",
+      "wordCount": 14
+    },
+    {
+      "id": 478,
+      "index": 478,
+      "character": "TATIANA",
+      "gender": "Female",
+      "line": "Oh God.",
+      "wordCount": 2
+    },
+    {
+      "id": 479,
+      "index": 479,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Was there blood?",
+      "wordCount": 3
+    },
+    {
+      "id": 480,
+      "index": 480,
+      "character": "MR. GARINDI",
+      "gender": "NA",
+      "line": "No blood. As I left a neighbor, an old woman, waved to me. I went to her house. She has the little girls. They are safe.",
+      "wordCount": 26
+    },
+    {
+      "id": 481,
+      "index": 481,
+      "character": "TATIANA",
+      "gender": "Female",
+      "line": "My brother, his wife. Did this woman know of them? Did they leave the children with her?",
+      "wordCount": 17
+    },
+    {
+      "id": 482,
+      "index": 482,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "This is not bad news, Tatsi. Perhaps they fled or could not make it home. There is hope.",
+      "wordCount": 18
+    },
+    {
+      "id": 483,
+      "index": 483,
+      "character": "TATIANA",
+      "gender": "Female",
+      "line": "Please go back, bring the children to us.",
+      "wordCount": 8
+    },
+    {
+      "id": 484,
+      "index": 484,
+      "character": "MR. GARINDI",
+      "gender": "NA",
+      "line": "No ma'am, I cannot do that. The roadblocks are everywhere. They are looking for children. They shout, \"Kill the babies to clear the infestation.\" Leave them be, they are safe. I have to go now.",
+      "wordCount": 35
+    },
+    {
+      "id": 485,
+      "index": 485,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Thank you for your help.",
+      "wordCount": 5
+    },
+    {
+      "id": 486,
+      "index": 486,
+      "character": "TATIANA",
+      "gender": "Female",
+      "line": "My sister is dead, Paul. They would not leave the children.",
+      "wordCount": 11
+    },
+    {
+      "id": 487,
+      "index": 487,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "No. They are not dead. Stop this.",
+      "wordCount": 7
+    },
+    {
+      "id": 488,
+      "index": 488,
+      "character": "FRENCH TOURISTS",
+      "gender": "NA",
+      "line": "Mon Dieu, Merci.",
+      "wordCount": 3
+    },
+    {
+      "id": 489,
+      "index": 489,
+      "character": "OLIVER CLOSE ON: COLONEL OLIVER",
+      "gender": "NA",
+      "line": "You have a battalion, you could stop this now. The Hutu army is no match for you.",
+      "wordCount": 17
+    },
+    {
+      "id": 490,
+      "index": 490,
+      "character": "FRENCH COMMANDER",
+      "gender": "NA",
+      "line": "Those are not our orders.",
+      "wordCount": 5
+    },
+    {
+      "id": 491,
+      "index": 491,
+      "character": "COLONEL OLIVER",
+      "gender": "Male",
+      "line": "You will remember this day for the rest of your lives.",
+      "wordCount": 11
+    },
+    {
+      "id": 492,
+      "index": 492,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Colonel, what can I get you? Paul gets behind the bar.",
+      "wordCount": 11
+    },
+    {
+      "id": 493,
+      "index": 493,
+      "character": "COLONEL OLIVER",
+      "gender": "Male",
+      "line": "Anything. Strong.",
+      "wordCount": 2
+    },
+    {
+      "id": 494,
+      "index": 494,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Canadian Club?",
+      "wordCount": 2
+    },
+    {
+      "id": 495,
+      "index": 495,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Congratulations, Colonel. You have saved us all.",
+      "wordCount": 7
+    },
+    {
+      "id": 496,
+      "index": 496,
+      "character": "COLONEL OLIVER",
+      "gender": "Male",
+      "line": "Congratulations. You should spit in my face.",
+      "wordCount": 7
+    },
+    {
+      "id": 497,
+      "index": 497,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Excuse me, Colonel.",
+      "wordCount": 3
+    },
+    {
+      "id": 498,
+      "index": 498,
+      "character": "COLONEL OLIVER",
+      "gender": "Male",
+      "line": "We think you are dirt, less than dirt, worthless.",
+      "wordCount": 9
+    },
+    {
+      "id": 499,
+      "index": 499,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "I don't understand.",
+      "wordCount": 3
+    },
+    {
+      "id": 500,
+      "index": 500,
+      "character": "COLONEL OLIVER",
+      "gender": "Male",
+      "line": "Don't bullshit me, Paul. You're the smartest man here. You have them all eating out of your hand. You'd own this fucking hotel, except for one thing.",
+      "wordCount": 27
+    },
+    {
+      "id": 501,
+      "index": 501,
+      "character": "COLONEL OLIVER",
+      "gender": "Male",
+      "line": "You're fucking black! You're not even a nigger, you're African! They're not staying to stop this thing. They're gonna fly right out of here with their people.",
+      "wordCount": 27
+    },
+    {
+      "id": 502,
+      "index": 502,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Their people?",
+      "wordCount": 2
+    },
+    {
+      "id": 503,
+      "index": 503,
+      "character": "COLONEL OLIVER",
+      "gender": "Male",
+      "line": "They're only taking the whites.",
+      "wordCount": 5
+    },
+    {
+      "id": 504,
+      "index": 504,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Children, go into the hallway.",
+      "wordCount": 5
+    },
+    {
+      "id": 505,
+      "index": 505,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Please, go.",
+      "wordCount": 2
+    },
+    {
+      "id": 506,
+      "index": 506,
+      "character": "TATIANA",
+      "gender": "Female",
+      "line": "What's wrong?",
+      "wordCount": 2
+    },
+    {
+      "id": 507,
+      "index": 507,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "All the whites are leaving.",
+      "wordCount": 5
+    },
+    {
+      "id": 508,
+      "index": 508,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "They are being evacuated.",
+      "wordCount": 4
+    },
+    {
+      "id": 509,
+      "index": 509,
+      "character": "TATIANA",
+      "gender": "Female",
+      "line": "What about us?",
+      "wordCount": 3
+    },
+    {
+      "id": 510,
+      "index": 510,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "We have been abandoned.",
+      "wordCount": 4
+    },
+    {
+      "id": 511,
+      "index": 511,
+      "character": "TATIANA",
+      "gender": "Female",
+      "line": "The soldiers will stop the killers.",
+      "wordCount": 6
+    },
+    {
+      "id": 512,
+      "index": 512,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Listen to me woman. I said all the whites are leaving. The French, the Italians, even the Belgian UN soldiers.",
+      "wordCount": 20
+    },
+    {
+      "id": 513,
+      "index": 513,
+      "character": "TATIANA",
+      "gender": "Female",
+      "line": "But who is left?",
+      "wordCount": 4
+    },
+    {
+      "id": 514,
+      "index": 514,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "I don't know. Colonel Oliver says the UN has three hundred soldiers for the whole country. Black soldiers, Pakistanis.",
+      "wordCount": 19
+    },
+    {
+      "id": 515,
+      "index": 515,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "The most the Colonel can spare for the hotel are four men, and they're not allowed to shoot.",
+      "wordCount": 18
+    },
+    {
+      "id": 516,
+      "index": 516,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "If anything should happen, if the Militia arrive, you must take the children and go to the roof.",
+      "wordCount": 18
+    },
+    {
+      "id": 517,
+      "index": 517,
+      "character": "TATIANA",
+      "gender": "Female",
+      "line": "What for?",
+      "wordCount": 2
+    },
+    {
+      "id": 518,
+      "index": 518,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Do what I say, woman. You hear me? I will meet you there.",
+      "wordCount": 13
+    },
+    {
+      "id": 519,
+      "index": 519,
+      "character": "FRENCH TOURIST",
+      "gender": "NA",
+      "line": "Why should I pay to stay in a, in a holocaust? Tell me.",
+      "wordCount": 13
+    },
+    {
+      "id": 520,
+      "index": 520,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "You are not staying sir, you are leaving.",
+      "wordCount": 8
+    },
+    {
+      "id": 521,
+      "index": 521,
+      "character": "HOOKER",
+      "gender": "NA",
+      "line": "Please, please, they will put me on the street. They will chop me.",
+      "wordCount": 13
+    },
+    {
+      "id": 522,
+      "index": 522,
+      "character": "JOCK",
+      "gender": "NA",
+      "line": "Darlin', believe me, if I could...",
+      "wordCount": 6
+    },
+    {
+      "id": 523,
+      "index": 523,
+      "character": "JOCK",
+      "gender": "NA",
+      "line": "Here. Here.",
+      "wordCount": 2
+    },
+    {
+      "id": 524,
+      "index": 524,
+      "character": "JOCK",
+      "gender": "NA",
+      "line": "Give her what she wants, room, food, anything. Charge it all. Don't you put her out, Paul.",
+      "wordCount": 17
+    },
+    {
+      "id": 525,
+      "index": 525,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "I would never do that.",
+      "wordCount": 5
+    },
+    {
+      "id": 526,
+      "index": 526,
+      "character": "JOCK",
+      "gender": "NA",
+      "line": "I know that, Paul. I'm sorry. Here take this.",
+      "wordCount": 9
+    },
+    {
+      "id": 527,
+      "index": 527,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "This is a Rolex, I can't take it.",
+      "wordCount": 8
+    },
+    {
+      "id": 528,
+      "index": 528,
+      "character": "JOCK",
+      "gender": "NA",
+      "line": "Take it for Christ sake. I wish it was a fucking aeroplane.",
+      "wordCount": 12
+    },
+    {
+      "id": 529,
+      "index": 529,
+      "character": "GLORIA",
+      "gender": "NA",
+      "line": "Let's go, Jock.",
+      "wordCount": 3
+    },
+    {
+      "id": 530,
+      "index": 530,
+      "character": "JOCK",
+      "gender": "NA",
+      "line": "Go! What the fuck sort of journalists are we, running from a war? I'm ashamed. Are you? Well, are ya'?",
+      "wordCount": 20
+    },
+    {
+      "id": 531,
+      "index": 531,
+      "character": "GLORIA",
+      "gender": "NA",
+      "line": "You're drunk.",
+      "wordCount": 2
+    },
+    {
+      "id": 532,
+      "index": 532,
+      "character": "LORIA",
+      "gender": "NA",
+      "line": "What are we waiting for?",
+      "wordCount": 5
+    },
+    {
+      "id": 533,
+      "index": 533,
+      "character": "FRENCH SOLDIER",
+      "gender": "NA",
+      "line": "We have to evacuate some nuns from a convent. They are on their way.",
+      "wordCount": 14
+    },
+    {
+      "id": 534,
+      "index": 534,
+      "character": "ZOZO",
+      "gender": "NA",
+      "line": "What do we do with all these people?",
+      "wordCount": 8
+    },
+    {
+      "id": 535,
+      "index": 535,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Open up the ballroom, we'll put them there. And Zozo tell the kitchen to make rice and beans - a lot of it.",
+      "wordCount": 23
+    },
+    {
+      "id": 536,
+      "index": 536,
+      "character": "TATIANA",
+      "gender": "Female",
+      "line": "You could leave, Paul.",
+      "wordCount": 4
+    },
+    {
+      "id": 537,
+      "index": 537,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "What are you saying, Tatsi?",
+      "wordCount": 5
+    },
+    {
+      "id": 538,
+      "index": 538,
+      "character": "TATIANA",
+      "gender": "Female",
+      "line": "Your card says Hutu. Take our children, go and get the twins, pay money at the roadblocks. Get them out. Please.",
+      "wordCount": 21
+    },
+    {
+      "id": 539,
+      "index": 539,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Enough of this. We stay together. Let me rest, I will feel better then.",
+      "wordCount": 14
+    },
+    {
+      "id": 540,
+      "index": 540,
+      "character": "LIEUTENANT",
+      "gender": "NA",
+      "line": "You are the manager?",
+      "wordCount": 4
+    },
+    {
+      "id": 541,
+      "index": 541,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Yes, sir. What is wrong?",
+      "wordCount": 5
+    },
+    {
+      "id": 542,
+      "index": 542,
+      "character": "LIEUTENANT",
+      "gender": "NA",
+      "line": "Everyone must leave the hotel now.",
+      "wordCount": 6
+    },
+    {
+      "id": 543,
+      "index": 543,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Why sir?",
+      "wordCount": 2
+    },
+    {
+      "id": 544,
+      "index": 544,
+      "character": "LIEUTENANT",
+      "gender": "NA",
+      "line": "It's an order. Get everyone out now.",
+      "wordCount": 7
+    },
+    {
+      "id": 545,
+      "index": 545,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "I...ah...need some time. Please give us twenty, thirty minutes. People are sleeping.",
+      "wordCount": 12
+    },
+    {
+      "id": 546,
+      "index": 546,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Please, have some cold drinks. I will be as quick as I can.",
+      "wordCount": 13
+    },
+    {
+      "id": 547,
+      "index": 547,
+      "character": "LIEUTENANT",
+      "gender": "NA",
+      "line": "We will be outside, ten minutes.",
+      "wordCount": 6
+    },
+    {
+      "id": 548,
+      "index": 548,
+      "character": "TATIANA",
+      "gender": "Female",
+      "line": "Where's Roger?",
+      "wordCount": 2
+    },
+    {
+      "id": 549,
+      "index": 549,
+      "character": "CLOSE ON:",
+      "gender": "NA",
+      "line": "Roger trembling under the bed, as Paul's face appears.",
+      "wordCount": 9
+    },
+    {
+      "id": 550,
+      "index": 550,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Come on son, everything is all right. He slides him out, clutches him in his arms, then turns him over to Tatiana as he phones the front desk.",
+      "wordCount": 28
+    },
+    {
+      "id": 551,
+      "index": 551,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Who is this? Zozo. I know. Get them beer.",
+      "wordCount": 9
+    },
+    {
+      "id": 552,
+      "index": 552,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Go to the roof now.",
+      "wordCount": 5
+    },
+    {
+      "id": 553,
+      "index": 553,
+      "character": "TATIANA",
+      "gender": "Female",
+      "line": "What for Paul.",
+      "wordCount": 3
+    },
+    {
+      "id": 554,
+      "index": 554,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Do as I say. I will be there soon.",
+      "wordCount": 9
+    },
+    {
+      "id": 555,
+      "index": 555,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Are you mad? They will gun us all down.",
+      "wordCount": 9
+    },
+    {
+      "id": 556,
+      "index": 556,
+      "character": "PISTOL MAN",
+      "gender": "NA",
+      "line": "Better to die by the bullet than the machete.",
+      "wordCount": 9
+    },
+    {
+      "id": 557,
+      "index": 557,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Wait here, please.",
+      "wordCount": 3
+    },
+    {
+      "id": 558,
+      "index": 558,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Good day, General Bizimungu please. Do you know where he is? Please ask him to call Paul Rusesabagina. It is urgent.",
+      "wordCount": 21
+    },
+    {
+      "id": 559,
+      "index": 559,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Colonel Bagsora. Where? Can you find him?",
+      "wordCount": 7
+    },
+    {
+      "id": 560,
+      "index": 560,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Who would order such a thing?",
+      "wordCount": 6
+    },
+    {
+      "id": 561,
+      "index": 561,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Did you find the General?",
+      "wordCount": 5
+    },
+    {
+      "id": 562,
+      "index": 562,
+      "character": "PRESIDENT",
+      "gender": "NA",
+      "line": "If British Airways abandons the route we should bid for it.",
+      "wordCount": 11
+    },
+    {
+      "id": 563,
+      "index": 563,
+      "character": "SECRETARY",
+      "gender": "NA",
+      "line": "I'm sorry, sir. I have a call from Paul in Kigali. He says it's urgent.",
+      "wordCount": 15
+    },
+    {
+      "id": 564,
+      "index": 564,
+      "character": "PRESIDENT",
+      "gender": "NA",
+      "line": "Paul. Are you alright?",
+      "wordCount": 4
+    },
+    {
+      "id": 565,
+      "index": 565,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "We have a big problem. The Hutu army have come and ordered us all of us out of the hotel.",
+      "wordCount": 20
+    },
+    {
+      "id": 566,
+      "index": 566,
+      "character": "RESIDENT",
+      "gender": "NA",
+      "line": "Out? Where are you going?",
+      "wordCount": 5
+    },
+    {
+      "id": 567,
+      "index": 567,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "I do not know, sir. I think they will kill us all.",
+      "wordCount": 12
+    },
+    {
+      "id": 568,
+      "index": 568,
+      "character": "PRESIDENT",
+      "gender": "NA",
+      "line": "All. What do you mean all?",
+      "wordCount": 6
+    },
+    {
+      "id": 569,
+      "index": 569,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "The staff, the guests.",
+      "wordCount": 4
+    },
+    {
+      "id": 570,
+      "index": 570,
+      "character": "PRESIDENT",
+      "gender": "NA",
+      "line": "The staff and guests! How many?",
+      "wordCount": 6
+    },
+    {
+      "id": 571,
+      "index": 571,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Now we have eight hundred guests and one hundred staff. I have ten minutes left. I wish I could have done more, sir. Please, thank all my friends at Sabena. You have been good to me and my family.",
+      "wordCount": 39
+    },
+    {
+      "id": 572,
+      "index": 572,
+      "character": "PRESIDENT",
+      "gender": "NA",
+      "line": "Paul, wait, wait, I'm going to put you on hold for one minute, stay on the phone.",
+      "wordCount": 17
+    },
+    {
+      "id": 573,
+      "index": 573,
+      "character": "PRESIDENT",
+      "gender": "NA",
+      "line": "Get the prime minister's office. Call General Chareaux. Louis get the UN. Tell them this is Belgian property.",
+      "wordCount": 18
+    },
+    {
+      "id": 574,
+      "index": 574,
+      "character": "PRESIDENT",
+      "gender": "NA",
+      "line": "Paul, are you there?",
+      "wordCount": 4
+    },
+    {
+      "id": 575,
+      "index": 575,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Yes, thank you Mr. President.",
+      "wordCount": 5
+    },
+    {
+      "id": 576,
+      "index": 576,
+      "character": "PRESIDENT",
+      "gender": "NA",
+      "line": "Paul, if you have one call in all the world to stop this, who would you call?",
+      "wordCount": 17
+    },
+    {
+      "id": 577,
+      "index": 577,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "The French. They supply the Rwandan army.",
+      "wordCount": 7
+    },
+    {
+      "id": 578,
+      "index": 578,
+      "character": "PRESIDENT",
+      "gender": "NA",
+      "line": "Paul, do everything you can to buy time. I will call you back.",
+      "wordCount": 13
+    },
+    {
+      "id": 579,
+      "index": 579,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "What are you doing?",
+      "wordCount": 4
+    },
+    {
+      "id": 580,
+      "index": 580,
+      "character": "ZOZO",
+      "gender": "NA",
+      "line": "The lieutenant wants the register.",
+      "wordCount": 5
+    },
+    {
+      "id": 581,
+      "index": 581,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Go and get more beer.",
+      "wordCount": 5
+    },
+    {
+      "id": 582,
+      "index": 582,
+      "character": "LIEUTENANT",
+      "gender": "NA",
+      "line": "Where's the guest list?",
+      "wordCount": 4
+    },
+    {
+      "id": 583,
+      "index": 583,
+      "character": "LIEUTENANT",
+      "gender": "NA",
+      "line": "Anderson, Arthurs, Boulier. What is this?",
+      "wordCount": 6
+    },
+    {
+      "id": 584,
+      "index": 584,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "The guest list. It hasn't been updated since the murder of the president.",
+      "wordCount": 13
+    },
+    {
+      "id": 585,
+      "index": 585,
+      "character": "LIEUTENANT",
+      "gender": "NA",
+      "line": "Are you trying to make a fool of me? There are no Europeans left in that hotel. Get me the names of all the cockroaches in there.",
+      "wordCount": 27
+    },
+    {
+      "id": 586,
+      "index": 586,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "That will take time.",
+      "wordCount": 4
+    },
+    {
+      "id": 587,
+      "index": 587,
+      "character": "LIEUTENANT",
+      "gender": "NA",
+      "line": "You don't have time. If I do not have the names, so that I can pick out the traitors, then I will kill everyone here in this car park. Get in there now.",
+      "wordCount": 33
+    },
+    {
+      "id": 588,
+      "index": 588,
+      "character": "LIEUTENANT",
+      "gender": "NA",
+      "line": "Hey you, come here.",
+      "wordCount": 4
+    },
+    {
+      "id": 589,
+      "index": 589,
+      "character": "LIEUTENANT",
+      "gender": "NA",
+      "line": "Who did you call?",
+      "wordCount": 4
+    },
+    {
+      "id": 590,
+      "index": 590,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Call, sir?",
+      "wordCount": 2
+    },
+    {
+      "id": 591,
+      "index": 591,
+      "character": "LIEUTENANT",
+      "gender": "NA",
+      "line": "Don't lie to me. What's your name?",
+      "wordCount": 7
+    },
+    {
+      "id": 592,
+      "index": 592,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Rusesabagina. Paul Rusesabagina.",
+      "wordCount": 3
+    },
+    {
+      "id": 593,
+      "index": 593,
+      "character": "LIEUTENANT",
+      "gender": "NA",
+      "line": "I will remember that name. Let's go.",
+      "wordCount": 7
+    },
+    {
+      "id": 594,
+      "index": 594,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "They have gone.",
+      "wordCount": 3
+    },
+    {
+      "id": 595,
+      "index": 595,
+      "character": "ZOZO",
+      "gender": "NA",
+      "line": "Sir. The president of Sabena is on the phone for you.",
+      "wordCount": 11
+    },
+    {
+      "id": 596,
+      "index": 596,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "They are gone. Thank you, sir. What did you do?",
+      "wordCount": 10
+    },
+    {
+      "id": 597,
+      "index": 597,
+      "character": "SABENA PRESIDENT",
+      "gender": "NA",
+      "line": "I managed to get the President of France on the phone.",
+      "wordCount": 11
+    },
+    {
+      "id": 598,
+      "index": 598,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Thank you, sir, you saved our lives.",
+      "wordCount": 7
+    },
+    {
+      "id": 599,
+      "index": 599,
+      "character": "SABENA PRESIDENT",
+      "gender": "NA",
+      "line": "Paul, I pleaded with the president to go in and get you all. He told me it will not happen.",
+      "wordCount": 20
+    },
+    {
+      "id": 600,
+      "index": 600,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Why?",
+      "wordCount": 1
+    },
+    {
+      "id": 601,
+      "index": 601,
+      "character": "SABENA PRESIDENT",
+      "gender": "NA",
+      "line": "I can give you many political answers Paul but the truth is that Africa is not worth a single vote to all of them: French, British, Americans.",
+      "wordCount": 27
+    },
+    {
+      "id": 602,
+      "index": 602,
+      "character": "SABENA PRESIDENT",
+      "gender": "NA",
+      "line": "You have to get out of there, Paul. I will do whatever I can.",
+      "wordCount": 14
+    },
+    {
+      "id": 603,
+      "index": 603,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "There will be no rescue, no intervention force. We can only save ourselves. Call any foreigner you know, tell them what will happen to us. Say goodbye but when you say goodbye, say it as though you're reaching through and shaking their hand. Let them know if they let go of that hand, you will die. We must shame them into sending help.",
+      "wordCount": 63
+    },
+    {
+      "id": 604,
+      "index": 604,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Get on the phones while we still can. At least we can say they heard our cries. Zozo come with me.",
+      "wordCount": 21
+    },
+    {
+      "id": 605,
+      "index": 605,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Send two of the housekeeping carpenters to the lobby.",
+      "wordCount": 9
+    },
+    {
+      "id": 606,
+      "index": 606,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Everyone gather together now. Zozo get them all together.",
+      "wordCount": 9
+    },
+    {
+      "id": 607,
+      "index": 607,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "No one can remain in this lobby any longer. I have rooms available. Who can pay? The rental is six hundred francs per day.",
+      "wordCount": 24
+    },
+    {
+      "id": 608,
+      "index": 608,
+      "character": "TUTSI WOMAN",
+      "gender": "NA",
+      "line": "I cannot pay?",
+      "wordCount": 3
+    },
+    {
+      "id": 609,
+      "index": 609,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Go with Zozo to the ballroom. We will find you bedding. This is a hotel. No one will be allowed to stay in the lobby.",
+      "wordCount": 25
+    },
+    {
+      "id": 610,
+      "index": 610,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Good. I want you to go around and take all the numbers off the doors.",
+      "wordCount": 15
+    },
+    {
+      "id": 611,
+      "index": 611,
+      "character": "CARPENTER",
+      "gender": "NA",
+      "line": "What shall we put in their place.",
+      "wordCount": 7
+    },
+    {
+      "id": 612,
+      "index": 612,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Nothing. I want no numbers on the doors.",
+      "wordCount": 8
+    },
+    {
+      "id": 613,
+      "index": 613,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Good day. Here is your bill for the last week. If you cannot pay, or think you will not be able to pay, go to the ballroom. Zozo will take care of you.",
+      "wordCount": 33
+    },
+    {
+      "id": 614,
+      "index": 614,
+      "character": "XAVIER",
+      "gender": "NA",
+      "line": "Come in Paul.",
+      "wordCount": 3
+    },
+    {
+      "id": 615,
+      "index": 615,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "I'm afraid you will have to move room.",
+      "wordCount": 8
+    },
+    {
+      "id": 616,
+      "index": 616,
+      "character": "XAVIER",
+      "gender": "NA",
+      "line": "Move? Where to?",
+      "wordCount": 3
+    },
+    {
+      "id": 617,
+      "index": 617,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "I'm going to put you on the third floor.",
+      "wordCount": 9
+    },
+    {
+      "id": 618,
+      "index": 618,
+      "character": "XAVIER",
+      "gender": "NA",
+      "line": "The third floor are low class rooms.",
+      "wordCount": 7
+    },
+    {
+      "id": 619,
+      "index": 619,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Yes they are. However if the army return they will expect important people such as yourself to be in these grand rooms.",
+      "wordCount": 22
+    },
+    {
+      "id": 620,
+      "index": 620,
+      "character": "XAVIER",
+      "gender": "NA",
+      "line": "Pack the bags, we have to move.",
+      "wordCount": 7
+    },
+    {
+      "id": 621,
+      "index": 621,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Also, this is your bill for the last week.",
+      "wordCount": 9
+    },
+    {
+      "id": 622,
+      "index": 622,
+      "character": "ODETTE",
+      "gender": "Female",
+      "line": "Yes, that's right. I helped set up the treatment center in Nairobi. I'm in the Mille Collines Hotel right now with my husband, Peter, and my two boys. If you do not help us we will be murdered.",
+      "wordCount": 38
+    },
+    {
+      "id": 623,
+      "index": 623,
+      "character": "ZOZO",
+      "gender": "NA",
+      "line": "Sir, General Bizimungu is here.",
+      "wordCount": 5
+    },
+    {
+      "id": 624,
+      "index": 624,
+      "character": "GENERAL BIZIMUNGU",
+      "gender": "Male",
+      "line": "I am glad you are well.",
+      "wordCount": 6
+    },
+    {
+      "id": 625,
+      "index": 625,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "I'm sorry it is not Glenmorangie.",
+      "wordCount": 6
+    },
+    {
+      "id": 626,
+      "index": 626,
+      "character": "GENERAL BIZIMUNGU",
+      "gender": "Male",
+      "line": "As long as it is scotch. Your white friends have abandoned you, Paul.",
+      "wordCount": 13
+    },
+    {
+      "id": 627,
+      "index": 627,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "The United Nations are still here.",
+      "wordCount": 6
+    },
+    {
+      "id": 628,
+      "index": 628,
+      "character": "GENERAL BIZIMUNGU",
+      "gender": "Male",
+      "line": "The United Nations. Madmen are on the streets, Paul. But I will take care of you. Your cellar is well-stocked, right?",
+      "wordCount": 21
+    },
+    {
+      "id": 629,
+      "index": 629,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Yes, General. I am glad you came by. I overheard something that I think you should know about.",
+      "wordCount": 18
+    },
+    {
+      "id": 630,
+      "index": 630,
+      "character": "GENERAL BIZIMUNGU",
+      "gender": "Male",
+      "line": "What did you overhear?",
+      "wordCount": 4
+    },
+    {
+      "id": 631,
+      "index": 631,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "A discussion between an American Embassy official and a UN Colonel.",
+      "wordCount": 11
+    },
+    {
+      "id": 632,
+      "index": 632,
+      "character": "GENERAL BIZIMUNGU",
+      "gender": "Male",
+      "line": "What did they say?",
+      "wordCount": 4
+    },
+    {
+      "id": 633,
+      "index": 633,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "The American assured the colonel that they would watch everything.",
+      "wordCount": 10
+    },
+    {
+      "id": 634,
+      "index": 634,
+      "character": "GENERAL BIZIMUNGU",
+      "gender": "Male",
+      "line": "Watch everything? How? They are gone.",
+      "wordCount": 6
+    },
+    {
+      "id": 635,
+      "index": 635,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Satellites.",
+      "wordCount": 1
+    },
+    {
+      "id": 636,
+      "index": 636,
+      "character": "GENERAL BIZIMUNGU",
+      "gender": "Male",
+      "line": "Satellites?",
+      "wordCount": 1
+    },
+    {
+      "id": 637,
+      "index": 637,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Yes, they can photograph the epaulets on your shoulder.",
+      "wordCount": 9
+    },
+    {
+      "id": 638,
+      "index": 638,
+      "character": "ENERAL BIZIMUNGU",
+      "gender": "Male",
+      "line": "And what will they do with these satellites?",
+      "wordCount": 8
+    },
+    {
+      "id": 639,
+      "index": 639,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "The American said intervention is too costly, better to get photographic evidence and snatch up the high command.",
+      "wordCount": 18
+    },
+    {
+      "id": 640,
+      "index": 640,
+      "character": "GENERAL BIZIMUNGU",
+      "gender": "Male",
+      "line": "The high command? Our high command?",
+      "wordCount": 6
+    },
+    {
+      "id": 641,
+      "index": 641,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "'Snatch them up and put on a war crimes trial. Lock them all away forever. No political risk, and big publicity.' That's what he said. I thought I'd better tell you.",
+      "wordCount": 31
+    },
+    {
+      "id": 642,
+      "index": 642,
+      "character": "GENERAL BIZIMUNGU",
+      "gender": "Male",
+      "line": "The Americans! Who are they to put us on trial. Let us imagine Paul when their president Kennedy was shot, they said it was a black man. Then their politicians, their radio stations gave orders `we must wipe out these black people before they wipe out us.' What do you think would have happened? No different.",
+      "wordCount": 56
+    },
+    {
+      "id": 643,
+      "index": 643,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Indeed, general. Excuse me momentarily.",
+      "wordCount": 5
+    },
+    {
+      "id": 644,
+      "index": 644,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Where has all our beer gone?",
+      "wordCount": 6
+    },
+    {
+      "id": 645,
+      "index": 645,
+      "character": "ZOZO",
+      "gender": "NA",
+      "line": "Sir, Gregoire has been taking beers.",
+      "wordCount": 6
+    },
+    {
+      "id": 646,
+      "index": 646,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "How much beer?",
+      "wordCount": 3
+    },
+    {
+      "id": 647,
+      "index": 647,
+      "character": "ZOZO",
+      "gender": "NA",
+      "line": "Many beers.",
+      "wordCount": 2
+    },
+    {
+      "id": 648,
+      "index": 648,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "I am worried about thieves and criminals coming into the hotel. Perhaps you could arrange for some police to guard us.",
+      "wordCount": 21
+    },
+    {
+      "id": 649,
+      "index": 649,
+      "character": "GENERAL BIZIMUNGU",
+      "gender": "Male",
+      "line": "The police are very busy.",
+      "wordCount": 5
+    },
+    {
+      "id": 650,
+      "index": 650,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "I understand General, but when I last talked to the president of Sabena he promised me that anyone who helped protect Belgian property would be rewarded.",
+      "wordCount": 26
+    },
+    {
+      "id": 651,
+      "index": 651,
+      "character": "GENERAL BIZIMUNGU",
+      "gender": "Male",
+      "line": "He did.",
+      "wordCount": 2
+    },
+    {
+      "id": 652,
+      "index": 652,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "\"Well rewarded\" Those were his words.",
+      "wordCount": 6
+    },
+    {
+      "id": 653,
+      "index": 653,
+      "character": "GENERAL BIZIMUNGU",
+      "gender": "Male",
+      "line": "If I were to spare a few policemen, where would I station them?",
+      "wordCount": 13
+    },
+    {
+      "id": 654,
+      "index": 654,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "The front gate would be best, General. They could check all guests.",
+      "wordCount": 12
+    },
+    {
+      "id": 655,
+      "index": 655,
+      "character": "GENERAL BIZIMUNGU",
+      "gender": "Male",
+      "line": "I will see what I can do.",
+      "wordCount": 7
+    },
+    {
+      "id": 656,
+      "index": 656,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "I admire you, General. How do you keep command of your men amidst such madness?",
+      "wordCount": 15
+    },
+    {
+      "id": 657,
+      "index": 657,
+      "character": "GENERAL BIZIMUNGU",
+      "gender": "Male",
+      "line": "I am strong, Paul, like a lion.",
+      "wordCount": 7
+    },
+    {
+      "id": 658,
+      "index": 658,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "I wish I were like you. Look at my staff, they won't work, they listen to no one.",
+      "wordCount": 18
+    },
+    {
+      "id": 659,
+      "index": 659,
+      "character": "ENERAL BIZIMUNGU",
+      "gender": "Male",
+      "line": "He is staff?",
+      "wordCount": 3
+    },
+    {
+      "id": 660,
+      "index": 660,
+      "character": "GENERAL BIZIMUNGU",
+      "gender": "Male",
+      "line": "Get to work, you slug.",
+      "wordCount": 5
+    },
+    {
+      "id": 661,
+      "index": 661,
+      "character": "GENERAL BIZIMUNGU",
+      "gender": "Male",
+      "line": "Make sure, Paul, your guests are generous.",
+      "wordCount": 7
+    },
+    {
+      "id": 662,
+      "index": 662,
+      "character": "BENEDICT",
+      "gender": "NA",
+      "line": "Paul, we would like to speak to you in your office.",
+      "wordCount": 11
+    },
+    {
+      "id": 663,
+      "index": 663,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "We, who is we?",
+      "wordCount": 4
+    },
+    {
+      "id": 664,
+      "index": 664,
+      "character": "BENEDICT",
+      "gender": "NA",
+      "line": "A delegation.",
+      "wordCount": 2
+    },
+    {
+      "id": 665,
+      "index": 665,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Yes.",
+      "wordCount": 1
+    },
+    {
+      "id": 666,
+      "index": 666,
+      "character": "BANKER",
+      "gender": "NA",
+      "line": "You have no right to charge us rent.",
+      "wordCount": 8
+    },
+    {
+      "id": 667,
+      "index": 667,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Why not?",
+      "wordCount": 2
+    },
+    {
+      "id": 668,
+      "index": 668,
+      "character": "BANKER",
+      "gender": "NA",
+      "line": "This is no longer a hotel, it is a prison and you are profiteering from our misery.",
+      "wordCount": 17
+    },
+    {
+      "id": 669,
+      "index": 669,
+      "character": "ODETTE",
+      "gender": "Female",
+      "line": "That is not true.",
+      "wordCount": 4
+    },
+    {
+      "id": 670,
+      "index": 670,
+      "character": "TUTSI ACCUSER",
+      "gender": "NA",
+      "line": "Yes it is. He charges for food, for everything. Where is all this money going? We hear he has a deal with Bizimungu.",
+      "wordCount": 23
+    },
+    {
+      "id": 671,
+      "index": 671,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "I confess. It's true I have a deal with General Bizimungu. He was just here. I worked out another money making scheme for him. New arrivals will be taxed at the gate.",
+      "wordCount": 32
+    },
+    {
+      "id": 672,
+      "index": 672,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Do you know what my deal is with Bizimungu. I pay him and he keeps you alive. Anyone want to take their money back?",
+      "wordCount": 24
+    },
+    {
+      "id": 673,
+      "index": 673,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Here, here take it. And you don't have to pay your bill. I will move you into the ballroom or out into the gardens.",
+      "wordCount": 24
+    },
+    {
+      "id": 674,
+      "index": 674,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "And, yes, I work with George Rutagunda. I buy rice and beans, beer and soap. I will have to visit his warehouse soon because we are running out of food. Who wants to come with me?",
+      "wordCount": 36
+    },
+    {
+      "id": 675,
+      "index": 675,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Anyone who wants to come with me stay behind. If not, please leave.",
+      "wordCount": 13
+    },
+    {
+      "id": 676,
+      "index": 676,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "You are most certainly not coming with me. You will get me killed.",
+      "wordCount": 13
+    },
+    {
+      "id": 677,
+      "index": 677,
+      "character": "JEAN BAPTISTE",
+      "gender": "NA",
+      "line": "You can't go to that place, they know what you are doing here.",
+      "wordCount": 13
+    },
+    {
+      "id": 678,
+      "index": 678,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "George will not hurt me, I am too profitable to him.",
+      "wordCount": 11
+    },
+    {
+      "id": 679,
+      "index": 679,
+      "character": "ODETTE",
+      "gender": "Female",
+      "line": "What if he is not there?",
+      "wordCount": 6
+    },
+    {
+      "id": 680,
+      "index": 680,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "As soon as the General left he came running back. Help me, sir, I have been possessed by a witch. A witch you say? Yes, yes, I did not know I was in that room. The president's room, why would I be in the president's room? Indeed, the General asked me the same. Asked you what? Does Gregoire think he is president now?",
+      "wordCount": 63
+    },
+    {
+      "id": 681,
+      "index": 681,
+      "character": "TATIANA",
+      "gender": "Female",
+      "line": "Stop, stop, we will waken the children.",
+      "wordCount": 7
+    },
+    {
+      "id": 682,
+      "index": 682,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Lynch Bages, 84. Perfect with lamb, or fine rare beef.",
+      "wordCount": 10
+    },
+    {
+      "id": 683,
+      "index": 683,
+      "character": "TATIANA",
+      "gender": "Female",
+      "line": "So where is the lamb?",
+      "wordCount": 5
+    },
+    {
+      "id": 684,
+      "index": 684,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Maybe Gregoire and the witch ate it.",
+      "wordCount": 7
+    },
+    {
+      "id": 685,
+      "index": 685,
+      "character": "TATIANA",
+      "gender": "Female",
+      "line": "What's the matter?",
+      "wordCount": 3
+    },
+    {
+      "id": 686,
+      "index": 686,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "We're running out of beer and other supplies.",
+      "wordCount": 8
+    },
+    {
+      "id": 687,
+      "index": 687,
+      "character": "TATIANA",
+      "gender": "Female",
+      "line": "The foreigners abandon us and you do inventory. You are so conscientious.",
+      "wordCount": 12
+    },
+    {
+      "id": 688,
+      "index": 688,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "I have to go out to get food.",
+      "wordCount": 8
+    },
+    {
+      "id": 689,
+      "index": 689,
+      "character": "TATIANA",
+      "gender": "Female",
+      "line": "Go out! Where?",
+      "wordCount": 3
+    },
+    {
+      "id": 690,
+      "index": 690,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "To Rutagunda's place. It is close by.",
+      "wordCount": 7
+    },
+    {
+      "id": 691,
+      "index": 691,
+      "character": "TATIANA",
+      "gender": "Female",
+      "line": "No, no.",
+      "wordCount": 2
+    },
+    {
+      "id": 692,
+      "index": 692,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "I have to, Tatiana, we are only as valuable as the service we provide.",
+      "wordCount": 14
+    },
+    {
+      "id": 693,
+      "index": 693,
+      "character": "TATIANA",
+      "gender": "Female",
+      "line": "You cannot go alone.",
+      "wordCount": 4
+    },
+    {
+      "id": 694,
+      "index": 694,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "I'm not going alone. I'll take Gregoire with me. He's a good Hutu, and he wants to impress me now.",
+      "wordCount": 20
+    },
+    {
+      "id": 695,
+      "index": 695,
+      "character": "G PAUL",
+      "gender": "NA",
+      "line": "regoire it is good to see you back to work.",
+      "wordCount": 10
+    },
+    {
+      "id": 696,
+      "index": 696,
+      "character": "GREGOIRE",
+      "gender": "Male",
+      "line": "Please, except my humblest apologies...",
+      "wordCount": 5
+    },
+    {
+      "id": 697,
+      "index": 697,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Don't worry. I have a job this morning. I must go to visit my good friend George Rutagunda. You know George?",
+      "wordCount": 21
+    },
+    {
+      "id": 698,
+      "index": 698,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Fetch the van.",
+      "wordCount": 3
+    },
+    {
+      "id": 699,
+      "index": 699,
+      "character": "GREGOIRE",
+      "gender": "Male",
+      "line": "Where are we going, sir?",
+      "wordCount": 5
+    },
+    {
+      "id": 700,
+      "index": 700,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "For supplies, you drive.",
+      "wordCount": 4
+    },
+    {
+      "id": 701,
+      "index": 701,
+      "character": "GREGOIRE",
+      "gender": "Male",
+      "line": "The fog is too heavy, sir.",
+      "wordCount": 6
+    },
+    {
+      "id": 702,
+      "index": 702,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Just drive, Gregoire.",
+      "wordCount": 3
+    },
+    {
+      "id": 703,
+      "index": 703,
+      "character": "GREGOIRE",
+      "gender": "Male",
+      "line": "We should go back, sir.",
+      "wordCount": 5
+    },
+    {
+      "id": 704,
+      "index": 704,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Hello?",
+      "wordCount": 1
+    },
+    {
+      "id": 705,
+      "index": 705,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Let's go.",
+      "wordCount": 2
+    },
+    {
+      "id": 706,
+      "index": 706,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "We are to meet Mr. Rutagunda.",
+      "wordCount": 6
+    },
+    {
+      "id": 707,
+      "index": 707,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "He will be here.",
+      "wordCount": 4
+    },
+    {
+      "id": 708,
+      "index": 708,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Excuse me.",
+      "wordCount": 2
+    },
+    {
+      "id": 709,
+      "index": 709,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Our cards, please.",
+      "wordCount": 3
+    },
+    {
+      "id": 710,
+      "index": 710,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "You have our cards.",
+      "wordCount": 4
+    },
+    {
+      "id": 711,
+      "index": 711,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "How much?",
+      "wordCount": 2
+    },
+    {
+      "id": 712,
+      "index": 712,
+      "character": "GEORGE",
+      "gender": "Male",
+      "line": "Paul. My old friend.",
+      "wordCount": 4
+    },
+    {
+      "id": 713,
+      "index": 713,
+      "character": "GEORGE",
+      "gender": "Male",
+      "line": "Everything is double the price now, you do understand that?",
+      "wordCount": 10
+    },
+    {
+      "id": 714,
+      "index": 714,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "I need rice, beans, beer, and your best whiskey. G",
+      "wordCount": 10
+    },
+    {
+      "id": 715,
+      "index": 715,
+      "character": "EORGE",
+      "gender": "Male",
+      "line": "Beer yes, but no whiskey.",
+      "wordCount": 5
+    },
+    {
+      "id": 716,
+      "index": 716,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "You have no whiskey?",
+      "wordCount": 4
+    },
+    {
+      "id": 717,
+      "index": 717,
+      "character": "GEORGE",
+      "gender": "Male",
+      "line": "No whiskey, no spirits. Your rich cockroaches at the hotel, they will have to do without their scotch. Anyway, I have bled that cow enough Paul.",
+      "wordCount": 26
+    },
+    {
+      "id": 718,
+      "index": 718,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "What do you mean George?",
+      "wordCount": 5
+    },
+    {
+      "id": 719,
+      "index": 719,
+      "character": "GEORGE",
+      "gender": "Male",
+      "line": "Their money is no good to them. Soon all the Ineysi will be dead.",
+      "wordCount": 14
+    },
+    {
+      "id": 720,
+      "index": 720,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": ") You cannot kill them all.",
+      "wordCount": 6
+    },
+    {
+      "id": 721,
+      "index": 721,
+      "character": "EORGE",
+      "gender": "Male",
+      "line": "Let me give you a tip my friend, our generals in the army say 'do not go near the Mille Collines or they will send the Belgian soldiers back here'. But the generals are about to leave, and we will be in charge. It is time to butcher your cow for the meat. You can help us Paul. You have some very important traitors at your hotel. The politician Xavier. The liar Benedict. If we were to get them, then maybe we could let one or two cockroaches get away. You understand, Paul.",
+      "wordCount": 93
+    },
+    {
+      "id": 722,
+      "index": 722,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Let's go.",
+      "wordCount": 2
+    },
+    {
+      "id": 723,
+      "index": 723,
+      "character": "GEORGE",
+      "gender": "Male",
+      "line": "Take the river road back. It is clear.",
+      "wordCount": 8
+    },
+    {
+      "id": 724,
+      "index": 724,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Are you sure this is the river road?",
+      "wordCount": 8
+    },
+    {
+      "id": 725,
+      "index": 725,
+      "character": "GREGOIRE",
+      "gender": "Male",
+      "line": "I saw the sign.",
+      "wordCount": 4
+    },
+    {
+      "id": 726,
+      "index": 726,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Stop. You've driven off the road. You'll put us in the river.",
+      "wordCount": 12
+    },
+    {
+      "id": 727,
+      "index": 727,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Go back! Go back!",
+      "wordCount": 4
+    },
+    {
+      "id": 728,
+      "index": 728,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Tell no one what you saw, do you understand?",
+      "wordCount": 9
+    },
+    {
+      "id": 729,
+      "index": 729,
+      "character": "LITTLE BOY",
+      "gender": "NA",
+      "line": "Mr. Manager.",
+      "wordCount": 2
+    },
+    {
+      "id": 730,
+      "index": 730,
+      "character": "LITTLE BOY",
+      "gender": "NA",
+      "line": "Mr. Manager, sir.",
+      "wordCount": 3
+    },
+    {
+      "id": 731,
+      "index": 731,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "That's a big one. Here we go.",
+      "wordCount": 7
+    },
+    {
+      "id": 732,
+      "index": 732,
+      "character": "CHILDREN",
+      "gender": "NA",
+      "line": "Good evening, Papa.",
+      "wordCount": 3
+    },
+    {
+      "id": 733,
+      "index": 733,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Roger, you have no greeting for me.",
+      "wordCount": 7
+    },
+    {
+      "id": 734,
+      "index": 734,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "There, do not worry, no tears.",
+      "wordCount": 6
+    },
+    {
+      "id": 735,
+      "index": 735,
+      "character": "TATIANA",
+      "gender": "Female",
+      "line": "Where are we going?",
+      "wordCount": 4
+    },
+    {
+      "id": 736,
+      "index": 736,
+      "character": "TATIANA",
+      "gender": "Female",
+      "line": "Please, Paul, why do we have to go to the roof?",
+      "wordCount": 11
+    },
+    {
+      "id": 737,
+      "index": 737,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "It's alright. This is the only place I can find some peace.",
+      "wordCount": 12
+    },
+    {
+      "id": 738,
+      "index": 738,
+      "character": "TATIANA",
+      "gender": "Female",
+      "line": "I hear we must pay for everything. How much for this?",
+      "wordCount": 11
+    },
+    {
+      "id": 739,
+      "index": 739,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "A kiss.",
+      "wordCount": 2
+    },
+    {
+      "id": 740,
+      "index": 740,
+      "character": "TATIANA",
+      "gender": "Female",
+      "line": "You are a very good man, Paul Rusesabagina.",
+      "wordCount": 8
+    },
+    {
+      "id": 741,
+      "index": 741,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "I have a confession. When we met...",
+      "wordCount": 7
+    },
+    {
+      "id": 742,
+      "index": 742,
+      "character": "TATIANA",
+      "gender": "Female",
+      "line": "In Ruhengeri?",
+      "wordCount": 2
+    },
+    {
+      "id": 743,
+      "index": 743,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Yes, when you worked as the nurse.",
+      "wordCount": 7
+    },
+    {
+      "id": 744,
+      "index": 744,
+      "character": "TATIANA",
+      "gender": "Female",
+      "line": "Yes.",
+      "wordCount": 1
+    },
+    {
+      "id": 745,
+      "index": 745,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "I had you transferred to Kigali.",
+      "wordCount": 6
+    },
+    {
+      "id": 746,
+      "index": 746,
+      "character": "TATIANA",
+      "gender": "Female",
+      "line": "What?",
+      "wordCount": 1
+    },
+    {
+      "id": 747,
+      "index": 747,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "I bribed the Minister of Health to have you transferred to Kigali.",
+      "wordCount": 12
+    },
+    {
+      "id": 748,
+      "index": 748,
+      "character": "TATIANA",
+      "gender": "Female",
+      "line": "Why?",
+      "wordCount": 1
+    },
+    {
+      "id": 749,
+      "index": 749,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "To be closer. So that I could marry you.",
+      "wordCount": 9
+    },
+    {
+      "id": 750,
+      "index": 750,
+      "character": "TATIANA",
+      "gender": "Female",
+      "line": "What was the bribe? What am I worth to you?",
+      "wordCount": 10
+    },
+    {
+      "id": 751,
+      "index": 751,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "It was substantial.",
+      "wordCount": 3
+    },
+    {
+      "id": 752,
+      "index": 752,
+      "character": "TATIANA",
+      "gender": "Female",
+      "line": "Tell me what it was.",
+      "wordCount": 5
+    },
+    {
+      "id": 753,
+      "index": 753,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "A car.",
+      "wordCount": 2
+    },
+    {
+      "id": 754,
+      "index": 754,
+      "character": "TATIANA",
+      "gender": "Female",
+      "line": "What sort of car?",
+      "wordCount": 4
+    },
+    {
+      "id": 755,
+      "index": 755,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "What does it matter.",
+      "wordCount": 4
+    },
+    {
+      "id": 756,
+      "index": 756,
+      "character": "TATIANA",
+      "gender": "Female",
+      "line": "I want to know.",
+      "wordCount": 4
+    },
+    {
+      "id": 757,
+      "index": 757,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "A Volkswagen.",
+      "wordCount": 2
+    },
+    {
+      "id": 758,
+      "index": 758,
+      "character": "TATIANA",
+      "gender": "Female",
+      "line": "A Volkswagen!",
+      "wordCount": 2
+    },
+    {
+      "id": 759,
+      "index": 759,
+      "character": "TATIANA",
+      "gender": "Female",
+      "line": "I hope it was a new Volkswagen.",
+      "wordCount": 7
+    },
+    {
+      "id": 760,
+      "index": 760,
+      "character": "COLONEL OLIVER",
+      "gender": "Male",
+      "line": "Great news, Paul, we're going to get you out of here.",
+      "wordCount": 11
+    },
+    {
+      "id": 761,
+      "index": 761,
+      "character": "COLONEL OLIVER",
+      "gender": "Male",
+      "line": "The UN has been notified that the following families have received travel visas from the following countries.",
+      "wordCount": 17
+    },
+    {
+      "id": 762,
+      "index": 762,
+      "character": "COLONEL OLIVER",
+      "gender": "Male",
+      "line": "Abukesu - Tanzania, Arumangu -Zambia, Bawroanga - Kenya,",
+      "wordCount": 8
+    },
+    {
+      "id": 763,
+      "index": 763,
+      "character": "COLONEL OLIVER",
+      "gender": "Male",
+      "line": "Gituaranga - Zambi, Horangora - Belguim",
+      "wordCount": 6
+    },
+    {
+      "id": 764,
+      "index": 764,
+      "character": "COLONEL OLIVER",
+      "gender": "Male",
+      "line": "Paramisambi - Zambia, Rusesabagina - Belgium.",
+      "wordCount": 6
+    },
+    {
+      "id": 765,
+      "index": 765,
+      "character": "COLONEL OLIVER",
+      "gender": "Male",
+      "line": "Zamacanga - Ghana. A plane will land at the airport tomorrow and the named families will be flown to Kenya. Two UN trucks will be here at 7 a.m. The named families must be ready to leave then.",
+      "wordCount": 38
+    },
+    {
+      "id": 766,
+      "index": 766,
+      "character": "TUTSI WOMAN",
+      "gender": "NA",
+      "line": "Colonel, sir. Why not take us all to the airport? We can wait there to obtain visas.",
+      "wordCount": 17
+    },
+    {
+      "id": 767,
+      "index": 767,
+      "character": "COLONEL OLIVER",
+      "gender": "Male",
+      "line": "I can't do that. Our camp at the airport is overwhelmed already. We could not defend you there. You are better to stay here and work to get an exit visa.",
+      "wordCount": 31
+    },
+    {
+      "id": 768,
+      "index": 768,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Colonel, Odette Camundu ... she must be on the list.",
+      "wordCount": 10
+    },
+    {
+      "id": 769,
+      "index": 769,
+      "character": "COLONEL OLIVER",
+      "gender": "Male",
+      "line": "Paul, only those I called can get on the trucks. I do not want to have to pull people off, you understand?",
+      "wordCount": 22
+    },
+    {
+      "id": 770,
+      "index": 770,
+      "character": "TATIANA",
+      "gender": "Female",
+      "line": "I will not leave without the twins.",
+      "wordCount": 7
+    },
+    {
+      "id": 771,
+      "index": 771,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "We have to get out of here Tatiana.",
+      "wordCount": 8
+    },
+    {
+      "id": 772,
+      "index": 772,
+      "character": "TATIANA",
+      "gender": "Female",
+      "line": "Please, please try one more time.",
+      "wordCount": 6
+    },
+    {
+      "id": 773,
+      "index": 773,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "I'll try but we have to leave, with or without them. I want you to promise.",
+      "wordCount": 16
+    },
+    {
+      "id": 774,
+      "index": 774,
+      "character": "MR. GARINDI",
+      "gender": "NA",
+      "line": "It is dangerous to be here. The radio says this is a nest of cockroaches.",
+      "wordCount": 15
+    },
+    {
+      "id": 775,
+      "index": 775,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "I need one last favor. Go back and get the twins.",
+      "wordCount": 11
+    },
+    {
+      "id": 776,
+      "index": 776,
+      "character": "MR. GARINDI",
+      "gender": "NA",
+      "line": "No, it is impossible. That side of town has been destroyed in the fighting. The children are dead.",
+      "wordCount": 18
+    },
+    {
+      "id": 777,
+      "index": 777,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "How do you know?",
+      "wordCount": 4
+    },
+    {
+      "id": 778,
+      "index": 778,
+      "character": "MR. GARINDI",
+      "gender": "NA",
+      "line": "Everyone is dead there. The dogs eat the bodies in the street. I have to go.",
+      "wordCount": 16
+    },
+    {
+      "id": 779,
+      "index": 779,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "I will give you my house.",
+      "wordCount": 6
+    },
+    {
+      "id": 780,
+      "index": 780,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "It's a fine house. Here is a paper.",
+      "wordCount": 8
+    },
+    {
+      "id": 781,
+      "index": 781,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Madame Kawunda, please.",
+      "wordCount": 3
+    },
+    {
+      "id": 782,
+      "index": 782,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "I need you to witness this signature. Madame Kawunda is the Minister for Agriculture. She is a very reliable witness.",
+      "wordCount": 20
+    },
+    {
+      "id": 783,
+      "index": 783,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Please witness this deed.",
+      "wordCount": 4
+    },
+    {
+      "id": 784,
+      "index": 784,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "There, now go and find them. They have no papers. No one knows they are Tutsi. They will be alive.",
+      "wordCount": 20
+    },
+    {
+      "id": 785,
+      "index": 785,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "You must be back by 7:00a.m. tomorrow.",
+      "wordCount": 7
+    },
+    {
+      "id": 786,
+      "index": 786,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Seven, remember.",
+      "wordCount": 2
+    },
+    {
+      "id": 787,
+      "index": 787,
+      "character": "DETTE",
+      "gender": "Female",
+      "line": "Don't worry, Paul, we will make the next list.",
+      "wordCount": 9
+    },
+    {
+      "id": 788,
+      "index": 788,
+      "character": "TATIANA",
+      "gender": "Female",
+      "line": "Sit with us Zozo.",
+      "wordCount": 4
+    },
+    {
+      "id": 789,
+      "index": 789,
+      "character": "ZOZO",
+      "gender": "NA",
+      "line": "No ma,am, I am too busy.",
+      "wordCount": 6
+    },
+    {
+      "id": 790,
+      "index": 790,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Zozo you are family, join us. Zozo is shocked by this breach of protocol but sits.",
+      "wordCount": 16
+    },
+    {
+      "id": 791,
+      "index": 791,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "You are my dearest friends. I promise you before God that I will not sleep until I have you out of here. All of you.",
+      "wordCount": 25
+    },
+    {
+      "id": 792,
+      "index": 792,
+      "character": "JEAN BAPTISTE",
+      "gender": "NA",
+      "line": "It is good that you are going, Paul, because now we know we have one person who will save us.",
+      "wordCount": 20
+    },
+    {
+      "id": 793,
+      "index": 793,
+      "character": "ODETTE",
+      "gender": "Female",
+      "line": "We owe you our lives.",
+      "wordCount": 5
+    },
+    {
+      "id": 794,
+      "index": 794,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "You are my family now, Zozo, my brother. I will get you out of here.",
+      "wordCount": 15
+    },
+    {
+      "id": 795,
+      "index": 795,
+      "character": "ZOZO",
+      "gender": "NA",
+      "line": "Thank you, sir.",
+      "wordCount": 3
+    },
+    {
+      "id": 796,
+      "index": 796,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Let us remember this night and tell the world that even in hell there are good people.",
+      "wordCount": 17
+    },
+    {
+      "id": 797,
+      "index": 797,
+      "character": "UN LIEUTENANT",
+      "gender": "NA",
+      "line": "Back. Everyone back. Only those with letters of acceptance in the lobby.",
+      "wordCount": 12
+    },
+    {
+      "id": 798,
+      "index": 798,
+      "character": "TATIANA",
+      "gender": "Female",
+      "line": "A little longer, Paul?",
+      "wordCount": 4
+    },
+    {
+      "id": 799,
+      "index": 799,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "We wait until 7:00. If he is not here with the twins he is not coming. We leave. That was your promise. Go help the children.",
+      "wordCount": 26
+    },
+    {
+      "id": 800,
+      "index": 800,
+      "character": "UN LIEUTENANT",
+      "gender": "NA",
+      "line": "Back, please. Stay back.",
+      "wordCount": 4
+    },
+    {
+      "id": 801,
+      "index": 801,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Zozo, tell those people to get back to the ballroom. They can not be here.",
+      "wordCount": 15
+    },
+    {
+      "id": 802,
+      "index": 802,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "What are we waiting for? Come on.",
+      "wordCount": 7
+    },
+    {
+      "id": 803,
+      "index": 803,
+      "character": "ZOZO",
+      "gender": "NA",
+      "line": "Sir, the others want to speak to you.",
+      "wordCount": 8
+    },
+    {
+      "id": 804,
+      "index": 804,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Yes.",
+      "wordCount": 1
+    },
+    {
+      "id": 805,
+      "index": 805,
+      "character": "TUTSI WOMAN",
+      "gender": "NA",
+      "line": "Good, sir we have letters, please take them for us.",
+      "wordCount": 10
+    },
+    {
+      "id": 806,
+      "index": 806,
+      "character": "ZOZO",
+      "gender": "NA",
+      "line": "I have a letter, sir.",
+      "wordCount": 5
+    },
+    {
+      "id": 807,
+      "index": 807,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "I will get you all visas. I promise. I will get you out of here.",
+      "wordCount": 15
+    },
+    {
+      "id": 808,
+      "index": 808,
+      "character": "TATIANA",
+      "gender": "Female",
+      "line": "Ask them to wait a little longer. For the twins.",
+      "wordCount": 10
+    },
+    {
+      "id": 809,
+      "index": 809,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Get on the truck, Tatiana.",
+      "wordCount": 5
+    },
+    {
+      "id": 810,
+      "index": 810,
+      "character": "TATIANA",
+      "gender": "Female",
+      "line": "No.",
+      "wordCount": 1
+    },
+    {
+      "id": 811,
+      "index": 811,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Look, our children are crying, please get on the truck.",
+      "wordCount": 10
+    },
+    {
+      "id": 812,
+      "index": 812,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "I have to stay.",
+      "wordCount": 4
+    },
+    {
+      "id": 813,
+      "index": 813,
+      "character": "TATIANA",
+      "gender": "Female",
+      "line": "No! Sit down now.",
+      "wordCount": 4
+    },
+    {
+      "id": 814,
+      "index": 814,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "I cannot leave these people. I will wait for the twins.",
+      "wordCount": 11
+    },
+    {
+      "id": 815,
+      "index": 815,
+      "character": "TATIANA",
+      "gender": "Female",
+      "line": "Let go. Let me off this truck.",
+      "wordCount": 7
+    },
+    {
+      "id": 816,
+      "index": 816,
+      "character": "TATIANA",
+      "gender": "Female",
+      "line": "Let me go. Children get off.",
+      "wordCount": 6
+    },
+    {
+      "id": 817,
+      "index": 817,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "I will follow on the next plane. Go.",
+      "wordCount": 8
+    },
+    {
+      "id": 818,
+      "index": 818,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "I love you. Keep the children safe.",
+      "wordCount": 7
+    },
+    {
+      "id": 819,
+      "index": 819,
+      "character": "TATIANA",
+      "gender": "Female",
+      "line": "Paul!",
+      "wordCount": 1
+    },
+    {
+      "id": 820,
+      "index": 820,
+      "character": "ROGER",
+      "gender": "NA",
+      "line": "Papa! Papa!",
+      "wordCount": 2
+    },
+    {
+      "id": 821,
+      "index": 821,
+      "character": "ZOZO",
+      "gender": "NA",
+      "line": "Boss, sir, quick, please, come quick.",
+      "wordCount": 6
+    },
+    {
+      "id": 822,
+      "index": 822,
+      "character": "ZOZO",
+      "gender": "NA",
+      "line": "Sir, the radio, you must hear, it is on the radio.",
+      "wordCount": 11
+    },
+    {
+      "id": 823,
+      "index": 823,
+      "character": "RADIO ANNOUNCER",
+      "gender": "NA",
+      "line": "...Block the roads to the airport! The cockroaches from the Mille Collines are escaping! Xavier. The liar Benedict, the traitor Rusesabagina's cockroaches. Stop them now at Rue Don Bosco. Thirty thousand francs for the head of Xavier!",
+      "wordCount": 37
+    },
+    {
+      "id": 824,
+      "index": 824,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Dear lord, how did they know?",
+      "wordCount": 6
+    },
+    {
+      "id": 825,
+      "index": 825,
+      "character": "ZOZO",
+      "gender": "NA",
+      "line": "I saw Gregoire make a call, sir?",
+      "wordCount": 7
+    },
+    {
+      "id": 826,
+      "index": 826,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "When?",
+      "wordCount": 1
+    },
+    {
+      "id": 827,
+      "index": 827,
+      "character": "ZOZO",
+      "gender": "NA",
+      "line": "As the trucks go.",
+      "wordCount": 4
+    },
+    {
+      "id": 828,
+      "index": 828,
+      "character": "TATIANA",
+      "gender": "Female",
+      "line": "What's happening?",
+      "wordCount": 2
+    },
+    {
+      "id": 829,
+      "index": 829,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Please, General, I will give you money, whiskey.",
+      "wordCount": 8
+    },
+    {
+      "id": 830,
+      "index": 830,
+      "character": "GENERAL BIZIMUNGU",
+      "gender": "Male",
+      "line": "You said you had no whiskey.",
+      "wordCount": 6
+    },
+    {
+      "id": 831,
+      "index": 831,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Please, I have money. They're driving into an ambush, it's on the radio.",
+      "wordCount": 13
+    },
+    {
+      "id": 832,
+      "index": 832,
+      "character": "ROGER",
+      "gender": "NA",
+      "line": "Papa! Papa!",
+      "wordCount": 2
+    },
+    {
+      "id": 833,
+      "index": 833,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Thank God you are safe.",
+      "wordCount": 5
+    },
+    {
+      "id": 834,
+      "index": 834,
+      "character": "TATIANA",
+      "gender": "Female",
+      "line": "Did he bring the twins?",
+      "wordCount": 5
+    },
+    {
+      "id": 835,
+      "index": 835,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "What are you doing?",
+      "wordCount": 4
+    },
+    {
+      "id": 836,
+      "index": 836,
+      "character": "TUTSI WOMAN",
+      "gender": "NA",
+      "line": "P There is no water from the pipes.",
+      "wordCount": 8
+    },
+    {
+      "id": 837,
+      "index": 837,
+      "character": "GENDARME",
+      "gender": "NA",
+      "line": "here is our beer? You promised us beer.",
+      "wordCount": 8
+    },
+    {
+      "id": 838,
+      "index": 838,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Did you explain to the good General that I have temporarily run out of stock?",
+      "wordCount": 15
+    },
+    {
+      "id": 839,
+      "index": 839,
+      "character": "GENDARME",
+      "gender": "NA",
+      "line": "He said to ask Mitterand and the French to send you more.",
+      "wordCount": 12
+    },
+    {
+      "id": 840,
+      "index": 840,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "You will get it in due time. Now, please, get back to the gate.",
+      "wordCount": 14
+    },
+    {
+      "id": 841,
+      "index": 841,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "What is this about no water?",
+      "wordCount": 6
+    },
+    {
+      "id": 842,
+      "index": 842,
+      "character": "ZOZO",
+      "gender": "NA",
+      "line": "It's true, sir, the water has been turned off.",
+      "wordCount": 9
+    },
+    {
+      "id": 843,
+      "index": 843,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "We can still get CNN here in hell.",
+      "wordCount": 8
+    },
+    {
+      "id": 844,
+      "index": 844,
+      "character": "ODETTE",
+      "gender": "Female",
+      "line": "The Americans are talking about us.",
+      "wordCount": 6
+    },
+    {
+      "id": 845,
+      "index": 845,
+      "character": "STATE DEPT. OFFICER",
+      "gender": "NA",
+      "line": "From the reports we have received from Rwanda it appears that acts of genocide have been committed.",
+      "wordCount": 17
+    },
+    {
+      "id": 846,
+      "index": 846,
+      "character": "REPORTER",
+      "gender": "NA",
+      "line": "Excuse me, how many acts of genocide does it take to declare this a genocide?",
+      "wordCount": 15
+    },
+    {
+      "id": 847,
+      "index": 847,
+      "character": "STATE DEPT. OFFICER",
+      "gender": "NA",
+      "line": "I, ahh, there is, ahh we have terminology, that has been.",
+      "wordCount": 11
+    },
+    {
+      "id": 848,
+      "index": 848,
+      "character": "BRIT REPORTER",
+      "gender": "NA",
+      "line": "You haven't answered the question. How many acts of genocide before your government will declare this a genocide?",
+      "wordCount": 18
+    },
+    {
+      "id": 849,
+      "index": 849,
+      "character": "STATE DEPT. OFFICER",
+      "gender": "NA",
+      "line": "I'm not prepared to, nor am I able.",
+      "wordCount": 8
+    },
+    {
+      "id": 850,
+      "index": 850,
+      "character": "BENEDICT",
+      "gender": "NA",
+      "line": "I've got it. I have the answer. Watch.",
+      "wordCount": 8
+    },
+    {
+      "id": 851,
+      "index": 851,
+      "character": "BENEDICT",
+      "gender": "NA",
+      "line": "We must become mountain gorillas. Then they can put us on the endangered species list. Come on, try it. They think we're halfway there already.",
+      "wordCount": 25
+    },
+    {
+      "id": 852,
+      "index": 852,
+      "character": "GENERAL BIZIMUNGU",
+      "gender": "Male",
+      "line": "Come here.",
+      "wordCount": 2
+    },
+    {
+      "id": 853,
+      "index": 853,
+      "character": "GENERAL BIZIMUNGU",
+      "gender": "Male",
+      "line": "Where are my supplies?",
+      "wordCount": 4
+    },
+    {
+      "id": 854,
+      "index": 854,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "I'm sorry, General. The cellar is empty.",
+      "wordCount": 7
+    },
+    {
+      "id": 855,
+      "index": 855,
+      "character": "GENERAL BIZIMUNGU",
+      "gender": "Male",
+      "line": "You have cockroaches dancing on tables and you tell me the cellar is empty? Did they drink my whiskey?",
+      "wordCount": 19
+    },
+    {
+      "id": 856,
+      "index": 856,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "No. We have no way of finding other stock but I have money for you from the guests.",
+      "wordCount": 18
+    },
+    {
+      "id": 857,
+      "index": 857,
+      "character": "GENERAL BIZIMUNGU",
+      "gender": "Male",
+      "line": "Rwandan francs! They are only good now for wiping your ass. There is nothing more I can do for you people. No police. No protection. You're on your own.",
+      "wordCount": 29
+    },
+    {
+      "id": 858,
+      "index": 858,
+      "character": "UN OBSERVER",
+      "gender": "NA",
+      "line": "The policemen have gone. What happened?",
+      "wordCount": 6
+    },
+    {
+      "id": 859,
+      "index": 859,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "I ran out of whiskey. Please go down and guard us.",
+      "wordCount": 11
+    },
+    {
+      "id": 860,
+      "index": 860,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Get down there and stop them, please.",
+      "wordCount": 7
+    },
+    {
+      "id": 861,
+      "index": 861,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Get down and stop them.",
+      "wordCount": 5
+    },
+    {
+      "id": 862,
+      "index": 862,
+      "character": "UN SOLDIER",
+      "gender": "NA",
+      "line": "You know we cannot shoot.",
+      "wordCount": 5
+    },
+    {
+      "id": 863,
+      "index": 863,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "What do you mean you cannot shoot?",
+      "wordCount": 7
+    },
+    {
+      "id": 864,
+      "index": 864,
+      "character": "UN SOLDIER",
+      "gender": "NA",
+      "line": "We are peacekeepers, it is not in our mandate to shoot.",
+      "wordCount": 11
+    },
+    {
+      "id": 865,
+      "index": 865,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Then go and pretend you are soldiers.",
+      "wordCount": 7
+    },
+    {
+      "id": 866,
+      "index": 866,
+      "character": "TATIANA",
+      "gender": "Female",
+      "line": "We are almost out of water.",
+      "wordCount": 6
+    },
+    {
+      "id": 867,
+      "index": 867,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "We are almost out of everything.",
+      "wordCount": 6
+    },
+    {
+      "id": 868,
+      "index": 868,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "We had a good life, you and I. I want to make our peace. To thank God for the time we had.",
+      "wordCount": 22
+    },
+    {
+      "id": 869,
+      "index": 869,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "We have to have a plan.",
+      "wordCount": 6
+    },
+    {
+      "id": 870,
+      "index": 870,
+      "character": "TATIANA",
+      "gender": "Female",
+      "line": "What sort of plan?",
+      "wordCount": 4
+    },
+    {
+      "id": 871,
+      "index": 871,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Our children cannot see us die first. If the Militia comes, you must hurry up to the roof. I will meet you there.",
+      "wordCount": 23
+    },
+    {
+      "id": 872,
+      "index": 872,
+      "character": "TATIANA",
+      "gender": "Female",
+      "line": "Please do not talk like this.",
+      "wordCount": 6
+    },
+    {
+      "id": 873,
+      "index": 873,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "We have to. If I do not come, you must take them all by the hands and jump.",
+      "wordCount": 18
+    },
+    {
+      "id": 874,
+      "index": 874,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "The machete is no way to die. Promise me you will do it.",
+      "wordCount": 13
+    },
+    {
+      "id": 875,
+      "index": 875,
+      "character": "ODETTE",
+      "gender": "Female",
+      "line": "Was anyone hurt?",
+      "wordCount": 3
+    },
+    {
+      "id": 876,
+      "index": 876,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "No. It was only a storeroom.",
+      "wordCount": 6
+    },
+    {
+      "id": 877,
+      "index": 877,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "They fired a rocket at us.",
+      "wordCount": 6
+    },
+    {
+      "id": 878,
+      "index": 878,
+      "character": "COLONEL OLIVER",
+      "gender": "Male",
+      "line": "Yes. Where are the Rwandan police?",
+      "wordCount": 6
+    },
+    {
+      "id": 879,
+      "index": 879,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "I ran out of bribes. Bizimungu took them away.",
+      "wordCount": 9
+    },
+    {
+      "id": 880,
+      "index": 880,
+      "character": "COLONEL OLIVER",
+      "gender": "Male",
+      "line": "That explains it. I'm sorry to tell you this but we've heard rumors the Militia are getting ready to storm the hotel.",
+      "wordCount": 22
+    },
+    {
+      "id": 881,
+      "index": 881,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Will you protect us.",
+      "wordCount": 4
+    },
+    {
+      "id": 882,
+      "index": 882,
+      "character": "COLONEL OLIVER",
+      "gender": "Male",
+      "line": "I can't, I don't have the men.",
+      "wordCount": 7
+    },
+    {
+      "id": 883,
+      "index": 883,
+      "character": "VARIOUS VOICES",
+      "gender": "NA",
+      "line": "We have no one...We will be killed.",
+      "wordCount": 7
+    },
+    {
+      "id": 884,
+      "index": 884,
+      "character": "COLONEL OLIVER",
+      "gender": "Male",
+      "line": "There's one option.",
+      "wordCount": 3
+    },
+    {
+      "id": 885,
+      "index": 885,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "What is it?",
+      "wordCount": 3
+    },
+    {
+      "id": 886,
+      "index": 886,
+      "character": "COLONEL OLIVER",
+      "gender": "Male",
+      "line": "The rebels have fought their way into the city. They have many Hutu prisoners. They're willing to exchange them for you all.",
+      "wordCount": 22
+    },
+    {
+      "id": 887,
+      "index": 887,
+      "character": "ODETTE",
+      "gender": "Female",
+      "line": "Will the Hutu army agree?",
+      "wordCount": 5
+    },
+    {
+      "id": 888,
+      "index": 888,
+      "character": "COLONEL OLIVER",
+      "gender": "Male",
+      "line": "I think so. They are in disarray now. The rebels are winning, and the Hutu high command are anxious to get some of their men back.",
+      "wordCount": 26
+    },
+    {
+      "id": 889,
+      "index": 889,
+      "character": "TUTSI WOMAN",
+      "gender": "NA",
+      "line": "How would we escape?",
+      "wordCount": 4
+    },
+    {
+      "id": 890,
+      "index": 890,
+      "character": "COLONEL OLIVER",
+      "gender": "Male",
+      "line": "By convoy.",
+      "wordCount": 2
+    },
+    {
+      "id": 891,
+      "index": 891,
+      "character": "XAVIER",
+      "gender": "NA",
+      "line": "This time the Militia will kill us.",
+      "wordCount": 7
+    },
+    {
+      "id": 892,
+      "index": 892,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "They will surely kill us here. It's over here. We have to take the chance.",
+      "wordCount": 15
+    },
+    {
+      "id": 893,
+      "index": 893,
+      "character": "TUTSI WOMAN",
+      "gender": "NA",
+      "line": "No, we'll be chopped on the street.",
+      "wordCount": 7
+    },
+    {
+      "id": 894,
+      "index": 894,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "We'll be chopped here.",
+      "wordCount": 4
+    },
+    {
+      "id": 895,
+      "index": 895,
+      "character": "COLONEL OLIVER",
+      "gender": "Male",
+      "line": "A man came to my headquarters, asked that I give you this.",
+      "wordCount": 12
+    },
+    {
+      "id": 896,
+      "index": 896,
+      "character": "COLONEL OLIVER",
+      "gender": "Male",
+      "line": "Paul, I need you to buy me a day or two. I don't have the fuel for this convoy. I will have to scrounge it.",
+      "wordCount": 25
+    },
+    {
+      "id": 897,
+      "index": 897,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "I can't. I have nothing left to bribe with. Can your men at the gate hold out for another day?",
+      "wordCount": 20
+    },
+    {
+      "id": 898,
+      "index": 898,
+      "character": "COLONEL OLIVER",
+      "gender": "Male",
+      "line": "No, Paul, they're afraid. They've demanded to be moved back to headquarters now.",
+      "wordCount": 13
+    },
+    {
+      "id": 899,
+      "index": 899,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Give me their uniforms. I will put people at the gate, in disguise.",
+      "wordCount": 13
+    },
+    {
+      "id": 900,
+      "index": 900,
+      "character": "COLONEL OLIVER",
+      "gender": "Male",
+      "line": "I wish I could, Paul. Try to hold out. One more day.",
+      "wordCount": 12
+    },
+    {
+      "id": 901,
+      "index": 901,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "It's from Garandi. I am sorry. There is no hope for the twins. The old lady's house has been destroyed.",
+      "wordCount": 20
+    },
+    {
+      "id": 902,
+      "index": 902,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "The Diplomat!",
+      "wordCount": 2
+    },
+    {
+      "id": 903,
+      "index": 903,
+      "character": "TATIANA",
+      "gender": "Female",
+      "line": "What's wrong?",
+      "wordCount": 2
+    },
+    {
+      "id": 904,
+      "index": 904,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "I have to go to the Diplomat.",
+      "wordCount": 7
+    },
+    {
+      "id": 905,
+      "index": 905,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "General, sir. I am glad to find you. I have found you some supplies.",
+      "wordCount": 14
+    },
+    {
+      "id": 906,
+      "index": 906,
+      "character": "GENERAL BIZIMUNGU",
+      "gender": "Male",
+      "line": "Whiskey?",
+      "wordCount": 1
+    },
+    {
+      "id": 907,
+      "index": 907,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "The finest, and cognac, champagne. Come and I will get them for you.",
+      "wordCount": 13
+    },
+    {
+      "id": 908,
+      "index": 908,
+      "character": "GENERAL BIZIMUNGU",
+      "gender": "Male",
+      "line": "I'll be over.",
+      "wordCount": 3
+    },
+    {
+      "id": 909,
+      "index": 909,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Bring back your policemen...",
+      "wordCount": 4
+    },
+    {
+      "id": 910,
+      "index": 910,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "We must go to the Diplomat.",
+      "wordCount": 6
+    },
+    {
+      "id": 911,
+      "index": 911,
+      "character": "GENERAL BIZIMUNGU",
+      "gender": "Male",
+      "line": "Get in.",
+      "wordCount": 2
+    },
+    {
+      "id": 912,
+      "index": 912,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Your police are at the gate?",
+      "wordCount": 6
+    },
+    {
+      "id": 913,
+      "index": 913,
+      "character": "GENERAL BIZIMUNGU",
+      "gender": "Male",
+      "line": "After the Diplomat!",
+      "wordCount": 3
+    },
+    {
+      "id": 914,
+      "index": 914,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Where are they going?",
+      "wordCount": 4
+    },
+    {
+      "id": 915,
+      "index": 915,
+      "character": "GENERAL BIZIMUNGU",
+      "gender": "Male",
+      "line": "They can go where they want. They are in charge now.",
+      "wordCount": 11
+    },
+    {
+      "id": 916,
+      "index": 916,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "What do you mean, General?",
+      "wordCount": 5
+    },
+    {
+      "id": 917,
+      "index": 917,
+      "character": "GENERAL BIZIMUNGU",
+      "gender": "Male",
+      "line": "We have decided to move the government to Gitarama.",
+      "wordCount": 9
+    },
+    {
+      "id": 918,
+      "index": 918,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "When?",
+      "wordCount": 1
+    },
+    {
+      "id": 919,
+      "index": 919,
+      "character": "GENERAL BIZIMUNGU",
+      "gender": "Male",
+      "line": "Today.",
+      "wordCount": 1
+    },
+    {
+      "id": 920,
+      "index": 920,
+      "character": "GENERAL BIZIMUNGU",
+      "gender": "Male",
+      "line": "Maggots!",
+      "wordCount": 1
+    },
+    {
+      "id": 921,
+      "index": 921,
+      "character": "GENERAL BIZIMUNGU",
+      "gender": "Male",
+      "line": "Do your work.",
+      "wordCount": 3
+    },
+    {
+      "id": 922,
+      "index": 922,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "It might be damaged, General.",
+      "wordCount": 5
+    },
+    {
+      "id": 923,
+      "index": 923,
+      "character": "GENERAL BIZIMUNGU",
+      "gender": "Male",
+      "line": "Here. To celebrate.",
+      "wordCount": 3
+    },
+    {
+      "id": 924,
+      "index": 924,
+      "character": "GENERAL BIZIMUNGU",
+      "gender": "Male",
+      "line": "You know what the Scottish call it?",
+      "wordCount": 7
+    },
+    {
+      "id": 925,
+      "index": 925,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "No.",
+      "wordCount": 1
+    },
+    {
+      "id": 926,
+      "index": 926,
+      "character": "GENERAL BIZIMUNGU",
+      "gender": "Male",
+      "line": "Ishca Baha - the water of life. I went on a tour once of the finest single malt distillery in the world. Have you ever been to Scotland?",
+      "wordCount": 28
+    },
+    {
+      "id": 927,
+      "index": 927,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "No, sir.",
+      "wordCount": 2
+    },
+    {
+      "id": 928,
+      "index": 928,
+      "character": "GENERAL BIZIMUNGU",
+      "gender": "Male",
+      "line": "Wonderful country, wonderful golf. I wonder - will I ever go back? What do you think?",
+      "wordCount": 16
+    },
+    {
+      "id": 929,
+      "index": 929,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "I hope we all get to do many things. Can we go now?",
+      "wordCount": 13
+    },
+    {
+      "id": 930,
+      "index": 930,
+      "character": "GENERAL BIZIMUNGU",
+      "gender": "Male",
+      "line": "Pack those carefully, put them in my jeep, and guard them.",
+      "wordCount": 11
+    },
+    {
+      "id": 931,
+      "index": 931,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Please, General, call and put your policemen back at the gate.",
+      "wordCount": 11
+    },
+    {
+      "id": 932,
+      "index": 932,
+      "character": "GENERAL BIZIMUNGU",
+      "gender": "Male",
+      "line": "I am going to do you a great favor. I am going to take you with us to Gitarama.",
+      "wordCount": 19
+    },
+    {
+      "id": 933,
+      "index": 933,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "I do not want to go to Gitarama, General.",
+      "wordCount": 9
+    },
+    {
+      "id": 934,
+      "index": 934,
+      "character": "GENERAL BIZIMUNGU",
+      "gender": "Male",
+      "line": "You cannot go back to the hotel. The crazy men are going there now. Better to come with me.",
+      "wordCount": 19
+    },
+    {
+      "id": 935,
+      "index": 935,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "The Militia are at the hotel?! We must go back now, General, please, for my family.",
+      "wordCount": 16
+    },
+    {
+      "id": 936,
+      "index": 936,
+      "character": "GENERAL BIZIMUNGU",
+      "gender": "Male",
+      "line": "We are better here.",
+      "wordCount": 4
+    },
+    {
+      "id": 937,
+      "index": 937,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Listen, you need me.",
+      "wordCount": 4
+    },
+    {
+      "id": 938,
+      "index": 938,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "You are a marked man.",
+      "wordCount": 5
+    },
+    {
+      "id": 939,
+      "index": 939,
+      "character": "GENERAL BIZIMUNGU",
+      "gender": "Male",
+      "line": "How so.",
+      "wordCount": 2
+    },
+    {
+      "id": 940,
+      "index": 940,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "The Americans, and the UN they have you as a war criminal. You are on a list.",
+      "wordCount": 17
+    },
+    {
+      "id": 941,
+      "index": 941,
+      "character": "GENERAL BIZIMUNGU",
+      "gender": "Male",
+      "line": "I am on a list! What list?",
+      "wordCount": 7
+    },
+    {
+      "id": 942,
+      "index": 942,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "When the Europeans left, their soldiers gathered lists.",
+      "wordCount": 8
+    },
+    {
+      "id": 943,
+      "index": 943,
+      "character": "GENERAL BIZIMUNGU",
+      "gender": "Male",
+      "line": "You lie.",
+      "wordCount": 2
+    },
+    {
+      "id": 944,
+      "index": 944,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "If you do not help me, you will stay on that list.",
+      "wordCount": 12
+    },
+    {
+      "id": 945,
+      "index": 945,
+      "character": "GENERAL BIZIMUNGU",
+      "gender": "Male",
+      "line": "I committed no war crimes.",
+      "wordCount": 5
+    },
+    {
+      "id": 946,
+      "index": 946,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Who will tell them? You need me to tell how you helped the hotel. The others who have gone, they blame you for all their misfortune. They say you led the massacres.",
+      "wordCount": 32
+    },
+    {
+      "id": 947,
+      "index": 947,
+      "character": "GENERAL BIZIMUNGU",
+      "gender": "Male",
+      "line": "I led no massacres.",
+      "wordCount": 4
+    },
+    {
+      "id": 948,
+      "index": 948,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "You think they will believe you?",
+      "wordCount": 6
+    },
+    {
+      "id": 949,
+      "index": 949,
+      "character": "ENERAL BIZIMUNGU",
+      "gender": "Male",
+      "line": "You will tell them the truth.",
+      "wordCount": 6
+    },
+    {
+      "id": 950,
+      "index": 950,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "I will do nothing unless you help me now.",
+      "wordCount": 9
+    },
+    {
+      "id": 951,
+      "index": 951,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "What are you going to do, shoot me? It will be a blessing. Go ahead shoot. I will pay you to shoot my family. You can do nothing to me!",
+      "wordCount": 30
+    },
+    {
+      "id": 952,
+      "index": 952,
+      "character": "GENERAL BIZIMUNGU",
+      "gender": "Male",
+      "line": "You will tell them I did nothing.",
+      "wordCount": 7
+    },
+    {
+      "id": 953,
+      "index": 953,
+      "character": "GENERAL BIZIMUNGU",
+      "gender": "Male",
+      "line": "Get back! Get them out of here.",
+      "wordCount": 7
+    },
+    {
+      "id": 954,
+      "index": 954,
+      "character": "MILITIAMEN",
+      "gender": "NA",
+      "line": "Rusesabagina. Show us Rusesabagina.",
+      "wordCount": 4
+    },
+    {
+      "id": 955,
+      "index": 955,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "They have him in the lobby, go quickly.",
+      "wordCount": 8
+    },
+    {
+      "id": 956,
+      "index": 956,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Oh God, please Lord.",
+      "wordCount": 4
+    },
+    {
+      "id": 957,
+      "index": 957,
+      "character": "GREGOIRE",
+      "gender": "Male",
+      "line": "That's him. That's Rusesabagina!",
+      "wordCount": 4
+    },
+    {
+      "id": 958,
+      "index": 958,
+      "character": "HUTU SOLDIER",
+      "gender": "NA",
+      "line": "Get out, or I'll shoot you.",
+      "wordCount": 6
+    },
+    {
+      "id": 959,
+      "index": 959,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Tatiana! Oh God. Have you seen Tatiana?",
+      "wordCount": 7
+    },
+    {
+      "id": 960,
+      "index": 960,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "TATIANA!",
+      "wordCount": 1
+    },
+    {
+      "id": 961,
+      "index": 961,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "It's alright, they're gone.",
+      "wordCount": 4
+    },
+    {
+      "id": 962,
+      "index": 962,
+      "character": "XAVIER",
+      "gender": "NA",
+      "line": "They should go one truck at a time. When the first truck gets through to the airport, then the others will follow.",
+      "wordCount": 22
+    },
+    {
+      "id": 963,
+      "index": 963,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "We can't wait. We all go together or not at all.",
+      "wordCount": 11
+    },
+    {
+      "id": 964,
+      "index": 964,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "It is time to leave. The Mille Collines is closed.",
+      "wordCount": 10
+    },
+    {
+      "id": 965,
+      "index": 965,
+      "character": "COLONEL OLIVER",
+      "gender": "Male",
+      "line": "Don't stop. Push through.",
+      "wordCount": 4
+    },
+    {
+      "id": 966,
+      "index": 966,
+      "character": "COLONEL OLIVER",
+      "gender": "Male",
+      "line": "Keep going.",
+      "wordCount": 2
+    },
+    {
+      "id": 967,
+      "index": 967,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "It's the rebels.",
+      "wordCount": 3
+    },
+    {
+      "id": 968,
+      "index": 968,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "We've made it!",
+      "wordCount": 3
+    },
+    {
+      "id": 969,
+      "index": 969,
+      "character": "TATIANA",
+      "gender": "Female",
+      "line": "Have you seen my sister Fedens?",
+      "wordCount": 6
+    },
+    {
+      "id": 970,
+      "index": 970,
+      "character": "TATIANA",
+      "gender": "Female",
+      "line": "Two little girls, twins, an old woman had them.",
+      "wordCount": 9
+    },
+    {
+      "id": 971,
+      "index": 971,
+      "character": "OGER",
+      "gender": "NA",
+      "line": "Mama, mama.",
+      "wordCount": 2
+    },
+    {
+      "id": 972,
+      "index": 972,
+      "character": "ROGER",
+      "gender": "NA",
+      "line": "Mama, wait.",
+      "wordCount": 2
+    },
+    {
+      "id": 973,
+      "index": 973,
+      "character": "ROGER",
+      "gender": "NA",
+      "line": "No, mama, look.",
+      "wordCount": 3
+    },
+    {
+      "id": 974,
+      "index": 974,
+      "character": "TATIANA",
+      "gender": "Female",
+      "line": "Oh, my babies.",
+      "wordCount": 3
+    },
+    {
+      "id": 975,
+      "index": 975,
+      "character": "PAUL",
+      "gender": "Male",
+      "line": "Anais, it is so good to see you.",
+      "wordCount": 8
+    },
+    {
+      "id": 976,
+      "index": 976,
+      "character": "CARINE",
+      "gender": "Female",
+      "line": "I'm Carine!",
+      "wordCount": 2
+    },
+    {
+      "id": 977,
+      "index": 977,
+      "character": "ANAIS",
+      "gender": "Female",
+      "line": "And I'm Anais!",
+      "wordCount": 3
+    },
+    {
+      "id": 978,
+      "index": 978,
+      "character": "PHOTO OF: GEORGE RUTAGUNDA",
+      "gender": "NA",
+      "line": "George Rutagunda was convicted of crimes against humanity. He is now serving a life sentence in a Tanzanian jail.",
+      "wordCount": 19
+    },
+    {
+      "id": 979,
+      "index": 979,
+      "character": "",
+      "gender": "Male"
+    }
+  ]
+}

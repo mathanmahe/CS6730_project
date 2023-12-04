@@ -1,0 +1,7156 @@
+{
+  "fileName": "Interstellar_dialogue.txt",
+  "title": "Interstellar",
+  "data": [
+    {
+      "id": 0,
+      "index": 0,
+      "character": "ASSISTANT",
+      "gender": "NA",
+      "line": "I'm on hold with the INS. Don't you think we should double check the triangulation before we CALL ANYBODY-",
+      "wordCount": 19
+    },
+    {
+      "id": 1,
+      "index": 1,
+      "character": "ANSEN",
+      "gender": "NA",
+      "line": "We have double checked it.",
+      "wordCount": 5
+    },
+    {
+      "id": 2,
+      "index": 2,
+      "character": "ASSISTANT",
+      "gender": "NA",
+      "line": "Yes. I'm trying to reach- No, I don't think you understand how serious this is. Because if you did, we'd be having this conversation in person.",
+      "wordCount": 26
+    },
+    {
+      "id": 3,
+      "index": 3,
+      "character": "ANSEN",
+      "gender": "NA",
+      "line": "What did they say?",
+      "wordCount": 4
+    },
+    {
+      "id": 4,
+      "index": 4,
+      "character": "ASSISTANT",
+      "gender": "NA",
+      "line": "They said we should look out the window.",
+      "wordCount": 8
+    },
+    {
+      "id": 5,
+      "index": 5,
+      "character": "ANSEN",
+      "gender": "NA",
+      "line": "Is that really necessary?",
+      "wordCount": 4
+    },
+    {
+      "id": 6,
+      "index": 6,
+      "character": "NSA AGENT",
+      "gender": "NA",
+      "line": "You've been complaining for years that the government doesn't take your project seriously enough, Doctor. You can't have it both ways.",
+      "wordCount": 21
+    },
+    {
+      "id": 7,
+      "index": 7,
+      "character": "ANSEN",
+      "gender": "NA",
+      "line": "Yesterday morning, our facility in Hanford identified this signal: a neutron star colliding with a supermassive black hole. We went through the last year's data and triangulated the source.",
+      "wordCount": 29
+    },
+    {
+      "id": 8,
+      "index": 8,
+      "character": "NSA AGENT",
+      "gender": "NA",
+      "line": "We know that, Doctor. What we don't know is why, according to your numbers, this event took place right here in our own solar system.",
+      "wordCount": 25
+    },
+    {
+      "id": 9,
+      "index": 9,
+      "character": "ANSEN",
+      "gender": "NA",
+      "line": "It didn't. Because if it had we'd all be dead by now.",
+      "wordCount": 12
+    },
+    {
+      "id": 10,
+      "index": 10,
+      "character": "ANSEN",
+      "gender": "NA",
+      "line": "Which leaves only one explanation: The signal traveled through a",
+      "wordCount": 10
+    },
+    {
+      "id": 11,
+      "index": 11,
+      "character": "ANSEN",
+      "gender": "NA",
+      "line": "wormhole. A gateway to a distant corner of the universe. The black hole is on the far side.",
+      "wordCount": 18
+    },
+    {
+      "id": 12,
+      "index": 12,
+      "character": "NSA AGENT",
+      "gender": "NA",
+      "line": "I've read your book, Doctor. You said that wormholes are impossible.",
+      "wordCount": 11
+    },
+    {
+      "id": 13,
+      "index": 13,
+      "character": "ANSEN",
+      "gender": "NA",
+      "line": "There is nothing quite as satisfying as being proved utterly wrong. I said that a wormhole couldn't exist naturally. Not for more than a few billionths of a second. It would have to be... stabilized.",
+      "wordCount": 35
+    },
+    {
+      "id": 14,
+      "index": 14,
+      "character": "NSA AGENT",
+      "gender": "NA",
+      "line": "Stabilized by what?",
+      "wordCount": 3
+    },
+    {
+      "id": 15,
+      "index": 15,
+      "character": "ASSISTANT",
+      "gender": "NA",
+      "line": "We don't have any way to answer that question.",
+      "wordCount": 9
+    },
+    {
+      "id": 16,
+      "index": 16,
+      "character": "NSA AGENT",
+      "gender": "NA",
+      "line": "You're not under peer review here, Doctor. I don't care about your reputation. I need to know how that thing got there. Now.",
+      "wordCount": 23
+    },
+    {
+      "id": 17,
+      "index": 17,
+      "character": "ANSEN",
+      "gender": "NA",
+      "line": "If you're worried about an invasion, I would start drafting the articles of surrender. Whoever they are, if they can build a wormhole, they could erase us in the blink of an eye. Luckily, that also means we have nothing they could be interested in.",
+      "wordCount": 45
+    },
+    {
+      "id": 18,
+      "index": 18,
+      "character": "NSA AGENT",
+      "gender": "NA",
+      "line": "Then why is it there?",
+      "wordCount": 5
+    },
+    {
+      "id": 19,
+      "index": 19,
+      "character": "ANSEN",
+      "gender": "NA",
+      "line": "I don't know. Maybe it's an invitation. A chance to commune with an advanced species.",
+      "wordCount": 15
+    },
+    {
+      "id": 20,
+      "index": 20,
+      "character": "NSA AGENT",
+      "gender": "NA",
+      "line": "You don't agree?",
+      "wordCount": 3
+    },
+    {
+      "id": 21,
+      "index": 21,
+      "character": "ASSISTANT",
+      "gender": "NA",
+      "line": "No. I don't think we can assume an alien intelligence built the wormhole. But the opportunity it represents is incredible. We could explore parts of the universe we never dreamt of reaching in our lifetimes.",
+      "wordCount": 35
+    },
+    {
+      "id": 22,
+      "index": 22,
+      "character": "ANSEN",
+      "gender": "NA",
+      "line": "We need to get back to work. I have a conference call with our European partners in fifteen minutes.",
+      "wordCount": 19
+    },
+    {
+      "id": 23,
+      "index": 23,
+      "character": "NSA AGENT",
+      "gender": "NA",
+      "line": "We severed the connections to your European partners this morning.",
+      "wordCount": 10
+    },
+    {
+      "id": 24,
+      "index": 24,
+      "character": "ANSEN",
+      "gender": "NA",
+      "line": "You can't do that. The Europeans put up some of the funding...",
+      "wordCount": 12
+    },
+    {
+      "id": 25,
+      "index": 25,
+      "character": "GOVERNMENT MAN",
+      "gender": "NA",
+      "line": "We'll send them a check. Your project is now classified under the State Secrets Act.",
+      "wordCount": 15
+    },
+    {
+      "id": 26,
+      "index": 26,
+      "character": "ASSISTANT",
+      "gender": "NA",
+      "line": "They can't keep this a secret. You know that. Sooner or later...",
+      "wordCount": 12
+    },
+    {
+      "id": 27,
+      "index": 27,
+      "character": "ANSEN",
+      "gender": "NA",
+      "line": "I don't care about that. I've spent my whole life being afraid we would wipe ourselves out before this moment arrived. We've made so many mistakes, I wasn't sure we'd make it...",
+      "wordCount": 32
+    },
+    {
+      "id": 28,
+      "index": 28,
+      "character": "ANSEN",
+      "gender": "NA",
+      "line": "But this will change everything. Fifty years from now, nothing will be the same.",
+      "wordCount": 14
+    },
+    {
+      "id": 29,
+      "index": 29,
+      "character": "BALLPLAYER",
+      "gender": "NA",
+      "line": "Seized up on us.",
+      "wordCount": 4
+    },
+    {
+      "id": 30,
+      "index": 30,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Long way to come by bus. I thought you guys would have a plane.",
+      "wordCount": 14
+    },
+    {
+      "id": 31,
+      "index": 31,
+      "character": "BALLPLAYER",
+      "gender": "NA",
+      "line": "We did. Ran out of parts for it. You know anything about diesels?",
+      "wordCount": 13
+    },
+    {
+      "id": 32,
+      "index": 32,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "A little.",
+      "wordCount": 2
+    },
+    {
+      "id": 33,
+      "index": 33,
+      "character": "BALLPLAYER",
+      "gender": "NA",
+      "line": "You think your dad's going to be able to help us out?",
+      "wordCount": 12
+    },
+    {
+      "id": 34,
+      "index": 34,
+      "character": "MURPH",
+      "gender": "Female",
+      "line": "My dad can fix anything. Except maybe your fastball.",
+      "wordCount": 9
+    },
+    {
+      "id": 35,
+      "index": 35,
+      "character": "BALLPLAYER",
+      "gender": "NA",
+      "line": "Sure appreciate the help.",
+      "wordCount": 4
+    },
+    {
+      "id": 36,
+      "index": 36,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "You don't make it, my boys won't get to see you lose.",
+      "wordCount": 12
+    },
+    {
+      "id": 37,
+      "index": 37,
+      "character": "DONALD",
+      "gender": "Male",
+      "line": "Popcorn at a ball game is unnatural. I want a hot dog.",
+      "wordCount": 12
+    },
+    {
+      "id": 38,
+      "index": 38,
+      "character": "MURPH",
+      "gender": "Female",
+      "line": "What's a hot dog?",
+      "wordCount": 4
+    },
+    {
+      "id": 39,
+      "index": 39,
+      "character": "TOM",
+      "gender": "Male",
+      "line": "Is that a comet, Dad?",
+      "wordCount": 5
+    },
+    {
+      "id": 40,
+      "index": 40,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Satellite. Big one. Probably Chinese.",
+      "wordCount": 5
+    },
+    {
+      "id": 41,
+      "index": 41,
+      "character": "DONALD",
+      "gender": "Male",
+      "line": "Those clowns would get their asses handed to them by the ballplayers I grew up watching.",
+      "wordCount": 16
+    },
+    {
+      "id": 42,
+      "index": 42,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "You ruin it for the boys when you talk like that.",
+      "wordCount": 11
+    },
+    {
+      "id": 43,
+      "index": 43,
+      "character": "DONALD",
+      "gender": "Male",
+      "line": "I'm not doing my grandkids any favors by lying to them. They're growing up watching lousy baseball.",
+      "wordCount": 17
+    },
+    {
+      "id": 44,
+      "index": 44,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "They didn't have any baseball at all when I was a kid.",
+      "wordCount": 12
+    },
+    {
+      "id": 45,
+      "index": 45,
+      "character": "DONALD",
+      "gender": "Male",
+      "line": "Nelson's burning up his crops. Found some of the blight on the okra.",
+      "wordCount": 13
+    },
+    {
+      "id": 46,
+      "index": 46,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "I thought okra wasn't susceptible.",
+      "wordCount": 5
+    },
+    {
+      "id": 47,
+      "index": 47,
+      "character": "DONALD",
+      "gender": "Male",
+      "line": "Better safe than sorry. You've got to take the boys to school.",
+      "wordCount": 12
+    },
+    {
+      "id": 48,
+      "index": 48,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Something wrong with your truck?",
+      "wordCount": 5
+    },
+    {
+      "id": 49,
+      "index": 49,
+      "character": "DONALD",
+      "gender": "Male",
+      "line": "Parent-teacher conference day.",
+      "wordCount": 3
+    },
+    {
+      "id": 50,
+      "index": 50,
+      "character": "DONALD",
+      "gender": "Male",
+      "line": "Be nice to Murph's teacher. She's single, you know.",
+      "wordCount": 9
+    },
+    {
+      "id": 51,
+      "index": 51,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "What does that have to do with anything?",
+      "wordCount": 8
+    },
+    {
+      "id": 52,
+      "index": 52,
+      "character": "DONALD",
+      "gender": "Male",
+      "line": "We're supposed to be repopulating the earth. Gotta pull your weight. Besides, the boys could do with a woman in their lives.",
+      "wordCount": 22
+    },
+    {
+      "id": 53,
+      "index": 53,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Get the spare, Tom.",
+      "wordCount": 4
+    },
+    {
+      "id": 54,
+      "index": 54,
+      "character": "TOM",
+      "gender": "Male",
+      "line": "That is the spare.",
+      "wordCount": 4
+    },
+    {
+      "id": 55,
+      "index": 55,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "All right. We'll use the patch kit.",
+      "wordCount": 7
+    },
+    {
+      "id": 56,
+      "index": 56,
+      "character": "MURPH",
+      "gender": "Female",
+      "line": "I... I think the patch kit might not be there... Because I was using it for my bike.",
+      "wordCount": 18
+    },
+    {
+      "id": 57,
+      "index": 57,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Murph's law.",
+      "wordCount": 2
+    },
+    {
+      "id": 58,
+      "index": 58,
+      "character": "MURPH",
+      "gender": "Female",
+      "line": "What's that?",
+      "wordCount": 2
+    },
+    {
+      "id": 59,
+      "index": 59,
+      "character": "TOM",
+      "gender": "Male",
+      "line": "The kid doesn't even know what he was named after...",
+      "wordCount": 10
+    },
+    {
+      "id": 60,
+      "index": 60,
+      "character": "TOM",
+      "gender": "Male",
+      "line": "Murph's law means what can go wrong will go wrong.",
+      "wordCount": 10
+    },
+    {
+      "id": 61,
+      "index": 61,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Find something to patch it with.",
+      "wordCount": 6
+    },
+    {
+      "id": 62,
+      "index": 62,
+      "character": "TOM",
+      "gender": "Male",
+      "line": "How am I supposed to do that?",
+      "wordCount": 7
+    },
+    {
+      "id": 63,
+      "index": 63,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Figure it out. I'm not always going to be here to help you.",
+      "wordCount": 13
+    },
+    {
+      "id": 64,
+      "index": 64,
+      "character": "MURPH",
+      "gender": "Female",
+      "line": "Is that really why I'm named Murph, dad?",
+      "wordCount": 8
+    },
+    {
+      "id": 65,
+      "index": 65,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Listen to me. Murph's law doesn't mean that. It means what can happen will happen. All kinds of things. Good or bad. And that's the way you want it to be.",
+      "wordCount": 31
+    },
+    {
+      "id": 66,
+      "index": 66,
+      "character": "MURPH",
+      "gender": "Female",
+      "line": "Why?",
+      "wordCount": 1
+    },
+    {
+      "id": 67,
+      "index": 67,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Because if nothing ever happened to you then you wouldn't learn anything.",
+      "wordCount": 12
+    },
+    {
+      "id": 68,
+      "index": 68,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Murph?",
+      "wordCount": 1
+    },
+    {
+      "id": 69,
+      "index": 69,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Get in.",
+      "wordCount": 2
+    },
+    {
+      "id": 70,
+      "index": 70,
+      "character": "TOM",
+      "gender": "Male",
+      "line": "What about the tire?",
+      "wordCount": 4
+    },
+    {
+      "id": 71,
+      "index": 71,
+      "character": "TOM",
+      "gender": "Male",
+      "line": "OVER THERE-",
+      "wordCount": 2
+    },
+    {
+      "id": 72,
+      "index": 72,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "It's a Chinese military drone. Solar cells could power an entire farm. Take the wheel.",
+      "wordCount": 15
+    },
+    {
+      "id": 73,
+      "index": 73,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Keep it pointed right at it, OK?",
+      "wordCount": 7
+    },
+    {
+      "id": 74,
+      "index": 74,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Faster, Tom. I'm losing it.",
+      "wordCount": 5
+    },
+    {
+      "id": 75,
+      "index": 75,
+      "character": "TOM",
+      "gender": "Male",
+      "line": "Dad?",
+      "wordCount": 1
+    },
+    {
+      "id": 76,
+      "index": 76,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Almost got it. Don't slow down.",
+      "wordCount": 6
+    },
+    {
+      "id": 77,
+      "index": 77,
+      "character": "TOM",
+      "gender": "Male",
+      "line": "DAD.",
+      "wordCount": 1
+    },
+    {
+      "id": 78,
+      "index": 78,
+      "character": "TOM",
+      "gender": "Male",
+      "line": "We lost it.",
+      "wordCount": 3
+    },
+    {
+      "id": 79,
+      "index": 79,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "No we didn't.",
+      "wordCount": 3
+    },
+    {
+      "id": 80,
+      "index": 80,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "You want to give it a whirl?",
+      "wordCount": 7
+    },
+    {
+      "id": 81,
+      "index": 81,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Set her down in the valley -- there, next to the river.",
+      "wordCount": 12
+    },
+    {
+      "id": 82,
+      "index": 82,
+      "character": "TOM",
+      "gender": "Male",
+      "line": "How long do you think it's been up there, Dad?",
+      "wordCount": 10
+    },
+    {
+      "id": 83,
+      "index": 83,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Chinese mission control went down same as us, twenty years ago. It's been up there ever since.",
+      "wordCount": 17
+    },
+    {
+      "id": 84,
+      "index": 84,
+      "character": "TOM",
+      "gender": "Male",
+      "line": "What was it doing flying so low?",
+      "wordCount": 7
+    },
+    {
+      "id": 85,
+      "index": 85,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "It was looking for something. Intercepted some kind of signal. It's been at eighty thousand feet. Sun probably cooked its brain.",
+      "wordCount": 21
+    },
+    {
+      "id": 86,
+      "index": 86,
+      "character": "MURPH",
+      "gender": "Female",
+      "line": "What are you going to do with it?",
+      "wordCount": 8
+    },
+    {
+      "id": 87,
+      "index": 87,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Reprogram it. Give it something socially responsible to do like drive a combine or a tractor.",
+      "wordCount": 16
+    },
+    {
+      "id": 88,
+      "index": 88,
+      "character": "MURPH",
+      "gender": "Female",
+      "line": "Couldn't we just let it go? It's not hurting anyone.",
+      "wordCount": 10
+    },
+    {
+      "id": 89,
+      "index": 89,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "We need all the help we can get, Murph. This thing has to adapt, just like the rest of us.",
+      "wordCount": 20
+    },
+    {
+      "id": 90,
+      "index": 90,
+      "character": "PRINCIPAL",
+      "gender": "Male",
+      "line": "Good to see you, Mr. Cooper. This is Ms. Kelly, Murph's teacher.",
+      "wordCount": 12
+    },
+    {
+      "id": 91,
+      "index": 91,
+      "character": "PRINCIPAL",
+      "gender": "Male",
+      "line": "So we've gotten Tom's score back. Congratulations. He's going to make an excellent farmer.",
+      "wordCount": 14
+    },
+    {
+      "id": 92,
+      "index": 92,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "What about college?",
+      "wordCount": 3
+    },
+    {
+      "id": 93,
+      "index": 93,
+      "character": "PRINCIPAL",
+      "gender": "Male",
+      "line": "The University of California only accepts a few hundred students a year, Mr. Cooper. You have to be realistic.",
+      "wordCount": 19
+    },
+    {
+      "id": 94,
+      "index": 94,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "You're ruling out college for him now? He's only fifteen.",
+      "wordCount": 10
+    },
+    {
+      "id": 95,
+      "index": 95,
+      "character": "PRINCIPAL",
+      "gender": "Male",
+      "line": "I'm sorry. I'm afraid Tom's score simply isn't high enough.",
+      "wordCount": 10
+    },
+    {
+      "id": 96,
+      "index": 96,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "What are you, about a 36-inch waist? 30-inch inseam?",
+      "wordCount": 9
+    },
+    {
+      "id": 97,
+      "index": 97,
+      "character": "PRINCIPAL",
+      "gender": "Male",
+      "line": "I'm not sure I see--",
+      "wordCount": 5
+    },
+    {
+      "id": 98,
+      "index": 98,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "You're telling me you need two numbers to measure your own ass, but just one to measure my son's future?",
+      "wordCount": 20
+    },
+    {
+      "id": 99,
+      "index": 99,
+      "character": "PRINCIPAL",
+      "gender": "Male",
+      "line": "I understand you're a well-educated man, Mr. Cooper. A scientist?",
+      "wordCount": 10
+    },
+    {
+      "id": 100,
+      "index": 100,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Engineer.",
+      "wordCount": 1
+    },
+    {
+      "id": 101,
+      "index": 101,
+      "character": "PRINCIPAL",
+      "gender": "Male",
+      "line": "Frankly, the world doesn't need any more engineers. We didn't run out of trains or television sets or satellites. We ran out of food.",
+      "wordCount": 24
+    },
+    {
+      "id": 102,
+      "index": 102,
+      "character": "PRINCIPAL",
+      "gender": "Male",
+      "line": "The world needs farmers, Mr. Cooper. And I'm sure your son Tom is going to make a fine one. We're a caretaker generation. But things are getting better. Maybe your grandchildren will be able to attend college.",
+      "wordCount": 37
+    },
+    {
+      "id": 103,
+      "index": 103,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Are we done?",
+      "wordCount": 3
+    },
+    {
+      "id": 104,
+      "index": 104,
+      "character": "PRINCIPAL",
+      "gender": "Male",
+      "line": "One more thing. Ms. Kelly here says that Murph brought a book to school about the lunar landings.",
+      "wordCount": 18
+    },
+    {
+      "id": 105,
+      "index": 105,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "One of my old textbooks. Murph liked the pictures.",
+      "wordCount": 9
+    },
+    {
+      "id": 106,
+      "index": 106,
+      "character": "MS. KELLY",
+      "gender": "NA",
+      "line": "This is one of the old federal textbooks. We've replaced them with corrected versions.",
+      "wordCount": 14
+    },
+    {
+      "id": 107,
+      "index": 107,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Corrected?",
+      "wordCount": 1
+    },
+    {
+      "id": 108,
+      "index": 108,
+      "character": "MS. KELLY",
+      "gender": "NA",
+      "line": "The new textbooks explain that the Apollo lunar missions were faked in order to bankrupt the Soviet Union.",
+      "wordCount": 18
+    },
+    {
+      "id": 109,
+      "index": 109,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "You don't believe we went to the moon?",
+      "wordCount": 8
+    },
+    {
+      "id": 110,
+      "index": 110,
+      "character": "MS. KELLY",
+      "gender": "NA",
+      "line": "I believe it was a brilliant piece of propaganda. The Soviets spent years trying to build rockets and other useless machines.",
+      "wordCount": 21
+    },
+    {
+      "id": 111,
+      "index": 111,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "\"Useless machines\"?",
+      "wordCount": 2
+    },
+    {
+      "id": 112,
+      "index": 112,
+      "character": "MS. KELLY",
+      "gender": "NA",
+      "line": "Yes, Mr. Cooper. The kind of wastefulness and excess that the 20th century represented. Your children would be better off learning about this planet, rather than reading fantasies about leaving it.",
+      "wordCount": 31
+    },
+    {
+      "id": 113,
+      "index": 113,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "One of those useless machines they used to make was called an MRI. If we had any of them left the doctors might have been able to find the cyst in my wife's brain before she died, rather than afterwards. And then my kids could have been raised by two parents, instead of me and their pain-in-the-ass grandfather.",
+      "wordCount": 58
+    },
+    {
+      "id": 114,
+      "index": 114,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "You ever consider the best thing for the world and humanity might have been for us to part company?",
+      "wordCount": 19
+    },
+    {
+      "id": 115,
+      "index": 115,
+      "character": "CB OPERATOR",
+      "gender": "NA",
+      "line": "Got a call from Riggs, down in Galveston. Says some of the tractors you built him went haywire last night.",
+      "wordCount": 20
+    },
+    {
+      "id": 116,
+      "index": 116,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Just tell him to power down the controllers for a couple minutes.",
+      "wordCount": 12
+    },
+    {
+      "id": 117,
+      "index": 117,
+      "character": "CB OPERATOR",
+      "gender": "NA",
+      "line": "I did. He wants you to come down in person anyway. Says he found something you should take a look at.",
+      "wordCount": 21
+    },
+    {
+      "id": 118,
+      "index": 118,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Bravo-two-eight, requesting permission to enter your airspace.",
+      "wordCount": 7
+    },
+    {
+      "id": 119,
+      "index": 119,
+      "character": "AIR TRAFFIC CONTROL",
+      "gender": "NA",
+      "line": "Permission granted. Welcome to the sovereign nation of Texas.",
+      "wordCount": 9
+    },
+    {
+      "id": 120,
+      "index": 120,
+      "character": "RIGGS",
+      "gender": "NA",
+      "line": "Thanks for coming down. Half of 'em took off last night, looking for something. Looks like they found it, too. I thought you were the man to see it.",
+      "wordCount": 29
+    },
+    {
+      "id": 121,
+      "index": 121,
+      "character": "RIGGS",
+      "gender": "NA",
+      "line": "You think it's an alien?",
+      "wordCount": 5
+    },
+    {
+      "id": 122,
+      "index": 122,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Not exactly.",
+      "wordCount": 2
+    },
+    {
+      "id": 123,
+      "index": 123,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Space probe. Never seen one like it, though. Looks like it's been to hell and back.",
+      "wordCount": 16
+    },
+    {
+      "id": 124,
+      "index": 124,
+      "character": "RIGGS",
+      "gender": "NA",
+      "line": "How do you think it wound up here?",
+      "wordCount": 8
+    },
+    {
+      "id": 125,
+      "index": 125,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Lost, I guess. Guidance satellites would have been shot down by the Chinese twenty years ago.",
+      "wordCount": 16
+    },
+    {
+      "id": 126,
+      "index": 126,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Well I don't know what the hell it's made of, but I can't crack it open.",
+      "wordCount": 16
+    },
+    {
+      "id": 127,
+      "index": 127,
+      "character": "DONALD",
+      "gender": "Male",
+      "line": "Good. Clear it off the table so I can serve dinner.",
+      "wordCount": 11
+    },
+    {
+      "id": 128,
+      "index": 128,
+      "character": "DONALD",
+      "gender": "Male",
+      "line": "What happened this time?",
+      "wordCount": 4
+    },
+    {
+      "id": 129,
+      "index": 129,
+      "character": "MURPH",
+      "gender": "Female",
+      "line": "I got suspended. Paul said anyone who believed we went to the moon was an idiot. So I hit him.",
+      "wordCount": 20
+    },
+    {
+      "id": 130,
+      "index": 130,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Good boy. Hand me the scanner.",
+      "wordCount": 6
+    },
+    {
+      "id": 131,
+      "index": 131,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Here we go. Standard NASA encryption. Memory's been damaged. Just noise. Hold on. I've got something.",
+      "wordCount": 16
+    },
+    {
+      "id": 132,
+      "index": 132,
+      "character": "MURPH",
+      "gender": "Female",
+      "line": "Where is that, dad?",
+      "wordCount": 4
+    },
+    {
+      "id": 133,
+      "index": 133,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "I don't know.",
+      "wordCount": 3
+    },
+    {
+      "id": 134,
+      "index": 134,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Where the hell did you come from?",
+      "wordCount": 7
+    },
+    {
+      "id": 135,
+      "index": 135,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "We'll take it down to Tyson's tomorrow and have it melted down. Might be some copper inside.",
+      "wordCount": 17
+    },
+    {
+      "id": 136,
+      "index": 136,
+      "character": "MURPH",
+      "gender": "Female",
+      "line": "But what about its mission? What about the information onboard?",
+      "wordCount": 10
+    },
+    {
+      "id": 137,
+      "index": 137,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "There's no one for it to report to. NASA is all gone. I'm sorry, son. It got home too late.",
+      "wordCount": 20
+    },
+    {
+      "id": 138,
+      "index": 138,
+      "character": "DONALD",
+      "gender": "Male",
+      "line": "I heard your meeting at the school didn't go so well.",
+      "wordCount": 11
+    },
+    {
+      "id": 139,
+      "index": 139,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Maybe it's better for everyone to forget what they did back then. Reminds us how far we've fallen.",
+      "wordCount": 18
+    },
+    {
+      "id": 140,
+      "index": 140,
+      "character": "DONALD",
+      "gender": "Male",
+      "line": "When I was kid, it felt like they made something new every day. Some gadget or idea. Like every day was Christmas. But we made a lot of mistakes. Six billion people. Just try to imagine that. Every last one of them trying to have it all.",
+      "wordCount": 47
+    },
+    {
+      "id": 141,
+      "index": 141,
+      "character": "DONALD",
+      "gender": "Male",
+      "line": "The truth is this world isn't that bad. In a lot of ways its better. Tom will be all right, whether he goes to college or not.",
+      "wordCount": 27
+    },
+    {
+      "id": 142,
+      "index": 142,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "It doesn't bother me that he can't go. It bothers me that he doesn't care.",
+      "wordCount": 15
+    },
+    {
+      "id": 143,
+      "index": 143,
+      "character": "DONALD",
+      "gender": "Male",
+      "line": "Tom isn't the problem. He fits in this world just fine. You're the one who doesn't fit, Coop. You don't belong here. You were born forty years too late, or forty years too early -- I don't know. My daughter knew it, god bless her. And your kids know it, too.",
+      "wordCount": 51
+    },
+    {
+      "id": 144,
+      "index": 144,
+      "character": "DONALD",
+      "gender": "Male",
+      "line": "You were good at something and you never got a chance to do anything with it. And I'm sorry, Coop. But that's not your kids' fault.",
+      "wordCount": 26
+    },
+    {
+      "id": 145,
+      "index": 145,
+      "character": "MURPH",
+      "gender": "Female",
+      "line": "Try a different direction.",
+      "wordCount": 4
+    },
+    {
+      "id": 146,
+      "index": 146,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "It's a fail-safe. It's going to annoy us into taking it home.",
+      "wordCount": 12
+    },
+    {
+      "id": 147,
+      "index": 147,
+      "character": "TOM",
+      "gender": "Male",
+      "line": "What are we going to do?",
+      "wordCount": 6
+    },
+    {
+      "id": 148,
+      "index": 148,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "We're going to get some sleep.",
+      "wordCount": 6
+    },
+    {
+      "id": 149,
+      "index": 149,
+      "character": "MURPH",
+      "gender": "Female",
+      "line": "What are we doing today?",
+      "wordCount": 5
+    },
+    {
+      "id": 150,
+      "index": 150,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "You're staying here and cleaning the house.",
+      "wordCount": 7
+    },
+    {
+      "id": 151,
+      "index": 151,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "I told you, Murph. There's no one to take it back to.",
+      "wordCount": 12
+    },
+    {
+      "id": 152,
+      "index": 152,
+      "character": "MURPH",
+      "gender": "Female",
+      "line": "But what if there is, dad? What if there's something we can salvage?",
+      "wordCount": 13
+    },
+    {
+      "id": 153,
+      "index": 153,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Got any diesel?",
+      "wordCount": 3
+    },
+    {
+      "id": 154,
+      "index": 154,
+      "character": "OLD MAN",
+      "gender": "NA",
+      "line": "Plenty. Shame you can't eat it.",
+      "wordCount": 6
+    },
+    {
+      "id": 155,
+      "index": 155,
+      "character": "MURPH",
+      "gender": "Female",
+      "line": "I think it's home.",
+      "wordCount": 4
+    },
+    {
+      "id": 156,
+      "index": 156,
+      "character": "MURPH",
+      "gender": "Female",
+      "line": "Dad, what are these things?",
+      "wordCount": 5
+    },
+    {
+      "id": 157,
+      "index": 157,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "I don't know. Don't touch them.",
+      "wordCount": 6
+    },
+    {
+      "id": 158,
+      "index": 158,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Murph?",
+      "wordCount": 1
+    },
+    {
+      "id": 159,
+      "index": 159,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Careful. There's some kind of underground facility here. We might...",
+      "wordCount": 10
+    },
+    {
+      "id": 160,
+      "index": 160,
+      "character": "MURPH",
+      "gender": "Female",
+      "line": "Is it still... alive?",
+      "wordCount": 4
+    },
+    {
+      "id": 161,
+      "index": 161,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Can't be. It's a marine. Haven't made them for thirty years. I've never seen one intact before.",
+      "wordCount": 17
+    },
+    {
+      "id": 162,
+      "index": 162,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "I think we need to go, Murph.",
+      "wordCount": 7
+    },
+    {
+      "id": 163,
+      "index": 163,
+      "character": "MURPH",
+      "gender": "Female",
+      "line": "But can't we take it back? You could fix it up, get him to do chores.",
+      "wordCount": 16
+    },
+    {
+      "id": 164,
+      "index": 164,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "No. I don't know what this place is, but we're leaving.",
+      "wordCount": 11
+    },
+    {
+      "id": 165,
+      "index": 165,
+      "character": "ROBOT",
+      "gender": "NA",
+      "line": "Tell the boy to stop hitting me.",
+      "wordCount": 7
+    },
+    {
+      "id": 166,
+      "index": 166,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Hit him in the back of the neck.",
+      "wordCount": 8
+    },
+    {
+      "id": 167,
+      "index": 167,
+      "character": "VOICE",
+      "gender": "NA",
+      "line": "I wouldn't do that.",
+      "wordCount": 4
+    },
+    {
+      "id": 168,
+      "index": 168,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "We were just looking for salvage.",
+      "wordCount": 6
+    },
+    {
+      "id": 169,
+      "index": 169,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "Is that what they call stealing these days?",
+      "wordCount": 8
+    },
+    {
+      "id": 170,
+      "index": 170,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "I didn't know it belonged to anyone.",
+      "wordCount": 7
+    },
+    {
+      "id": 171,
+      "index": 171,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "It doesn't. You want to let them go, Tars, or do you want some help with your work?",
+      "wordCount": 18
+    },
+    {
+      "id": 172,
+      "index": 172,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "You've got me wrong, lady.",
+      "wordCount": 5
+    },
+    {
+      "id": 173,
+      "index": 173,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "Really? You're not the kind of guy who turns a combat marine with a supercomputer for a brain into a riding lawn mower?",
+      "wordCount": 23
+    },
+    {
+      "id": 174,
+      "index": 174,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "Get back in your little plane, go back to your farming commune. And don't come back.",
+      "wordCount": 16
+    },
+    {
+      "id": 175,
+      "index": 175,
+      "character": "TARS",
+      "gender": "Male",
+      "line": "Don't forget your gun.",
+      "wordCount": 4
+    },
+    {
+      "id": 176,
+      "index": 176,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Word of advice -- careful with that thing. When the war was over, they didn't know when to stop fighting.",
+      "wordCount": 20
+    },
+    {
+      "id": 177,
+      "index": 177,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "I'd trust him a lot more than I'd trust you. Keep moving.",
+      "wordCount": 12
+    },
+    {
+      "id": 178,
+      "index": 178,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Wait a second--",
+      "wordCount": 3
+    },
+    {
+      "id": 179,
+      "index": 179,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "Get it inside.",
+      "wordCount": 3
+    },
+    {
+      "id": 180,
+      "index": 180,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "You too. We'll figure out what to do with you later.",
+      "wordCount": 11
+    },
+    {
+      "id": 181,
+      "index": 181,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Now who's stealing from who?",
+      "wordCount": 5
+    },
+    {
+      "id": 182,
+      "index": 182,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "This doesn't belong to you.",
+      "wordCount": 5
+    },
+    {
+      "id": 183,
+      "index": 183,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "You're right. It belongs to NASA, which shut down thirty years ago when the federal government ran out of money.",
+      "wordCount": 20
+    },
+    {
+      "id": 184,
+      "index": 184,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Who are you people?",
+      "wordCount": 4
+    },
+    {
+      "id": 185,
+      "index": 185,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "The government gave us plenty of practice looking for our own funding. Keep moving.",
+      "wordCount": 14
+    },
+    {
+      "id": 186,
+      "index": 186,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "I found them outside with it. It looks like six. Maybe seven. I can't tell from the radiation damage.",
+      "wordCount": 19
+    },
+    {
+      "id": 187,
+      "index": 187,
+      "character": "OLD ENGINEER",
+      "gender": "NA",
+      "line": "Where did you find it?",
+      "wordCount": 5
+    },
+    {
+      "id": 188,
+      "index": 188,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Galveston.",
+      "wordCount": 1
+    },
+    {
+      "id": 189,
+      "index": 189,
+      "character": "BRAND'S FATHER",
+      "gender": "NA",
+      "line": "Of course. It must have been looking for Canaveral.",
+      "wordCount": 9
+    },
+    {
+      "id": 190,
+      "index": 190,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Canaveral's been gone for thirty years.",
+      "wordCount": 6
+    },
+    {
+      "id": 191,
+      "index": 191,
+      "character": "DOYLE",
+      "gender": "Male",
+      "line": "It's not responding to the handshake. I can't open anything on primary.",
+      "wordCount": 12
+    },
+    {
+      "id": 192,
+      "index": 192,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "What did you do to it?",
+      "wordCount": 6
+    },
+    {
+      "id": 193,
+      "index": 193,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Nothing. I got something off of it.",
+      "wordCount": 7
+    },
+    {
+      "id": 194,
+      "index": 194,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "May I?",
+      "wordCount": 2
+    },
+    {
+      "id": 195,
+      "index": 195,
+      "character": "OLD ENGINEER",
+      "gender": "NA",
+      "line": "Of course. The high voltage allows you to image the entire memory unit at once.",
+      "wordCount": 15
+    },
+    {
+      "id": 196,
+      "index": 196,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Most of the disk was noise. Couple of clean sectors, though.",
+      "wordCount": 11
+    },
+    {
+      "id": 197,
+      "index": 197,
+      "character": "DOYLE",
+      "gender": "Male",
+      "line": "It found something. Very thin nitrogen-based atmosphere. Trace radiation. Surface is ninety percent frozen water. Ten percent rock -- sedimentary composition similar to limestone. Wow. Pockets of oxygen below the surface. Lots and lots of oxygen. This could be the one, boss.",
+      "wordCount": 42
+    },
+    {
+      "id": 198,
+      "index": 198,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "There aren't any planets like that anywhere near earth. Not even if this thing was gone for thirty years.",
+      "wordCount": 19
+    },
+    {
+      "id": 199,
+      "index": 199,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "He's heard enough. If we're going to launch, we need to keep them here until afterwards.",
+      "wordCount": 16
+    },
+    {
+      "id": 200,
+      "index": 200,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "You can't keep us here.",
+      "wordCount": 5
+    },
+    {
+      "id": 201,
+      "index": 201,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "He could endanger the mission.",
+      "wordCount": 5
+    },
+    {
+      "id": 202,
+      "index": 202,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "I'm not going to endanger it any more than you already have.",
+      "wordCount": 12
+    },
+    {
+      "id": 203,
+      "index": 203,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Are you using that for guidance?",
+      "wordCount": 6
+    },
+    {
+      "id": 204,
+      "index": 204,
+      "character": "DOYLE",
+      "gender": "Male",
+      "line": "Why not? We've tested it a hundred times.",
+      "wordCount": 8
+    },
+    {
+      "id": 205,
+      "index": 205,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "The power supply is no good. If the voltage fluctuates under load, the unit will fail.",
+      "wordCount": 16
+    },
+    {
+      "id": 206,
+      "index": 206,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "Now how could you possibly know that?",
+      "wordCount": 7
+    },
+    {
+      "id": 207,
+      "index": 207,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Bought thirty of them off a guy in Florida. Had to rebuild every last one. They work great on a riding lawn mower.",
+      "wordCount": 23
+    },
+    {
+      "id": 208,
+      "index": 208,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "You plan on keeping us here forever?",
+      "wordCount": 7
+    },
+    {
+      "id": 209,
+      "index": 209,
+      "character": "TARS",
+      "gender": "Male",
+      "line": "My battery has a duty cycle of five hundred years.",
+      "wordCount": 10
+    },
+    {
+      "id": 210,
+      "index": 210,
+      "character": "MURPH",
+      "gender": "Female",
+      "line": "What are they doing, dad?",
+      "wordCount": 5
+    },
+    {
+      "id": 211,
+      "index": 211,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "I guess no one told them they were out of a job. Same as the rest of these people.",
+      "wordCount": 19
+    },
+    {
+      "id": 212,
+      "index": 212,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "The mission commander wants to see you. Your son can stay here. He'll be all right with Tars.",
+      "wordCount": 18
+    },
+    {
+      "id": 213,
+      "index": 213,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "I thought the old man was in charge.",
+      "wordCount": 8
+    },
+    {
+      "id": 214,
+      "index": 214,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "The 'old man' is my father. And he was in charge. But he decided that we needed someone who could lead the mission for the foreseeable future.",
+      "wordCount": 27
+    },
+    {
+      "id": 215,
+      "index": 215,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Not you?",
+      "wordCount": 2
+    },
+    {
+      "id": 216,
+      "index": 216,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "I'm a biologist.",
+      "wordCount": 3
+    },
+    {
+      "id": 217,
+      "index": 217,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "You don't look like one. With the rifle, I mean.",
+      "wordCount": 10
+    },
+    {
+      "id": 218,
+      "index": 218,
+      "character": "CASE",
+      "gender": "Male",
+      "line": "You're the man who brought us the probe? Thank you. We tested the telemetry board you warned us about. It failed under high voltage, just as you said. Come with me, please.",
+      "wordCount": 32
+    },
+    {
+      "id": 219,
+      "index": 219,
+      "character": "CASE",
+      "gender": "Male",
+      "line": "You're right, Mr. Cooper. The planet you saw is a long way from earth. A very long way indeed.",
+      "wordCount": 19
+    },
+    {
+      "id": 220,
+      "index": 220,
+      "character": "CASE",
+      "gender": "Male",
+      "line": "Our science officer doesn't think I should trust you with any of this. One of the curious things about humans is that the more alike you are, the more initially hostile you are to each other. As if by design.",
+      "wordCount": 40
+    },
+    {
+      "id": 221,
+      "index": 221,
+      "character": "CASE",
+      "gender": "Male",
+      "line": "I've found the best way to earn a person's trust is to trust them.",
+      "wordCount": 14
+    },
+    {
+      "id": 222,
+      "index": 222,
+      "character": "CASE",
+      "gender": "Male",
+      "line": "(looks at Brand's",
+      "wordCount": 3
+    },
+    {
+      "id": 223,
+      "index": 223,
+      "character": "FATHER)",
+      "gender": "NA",
+      "line": "Go ahead, John.",
+      "wordCount": 3
+    },
+    {
+      "id": 224,
+      "index": 224,
+      "character": "BRAND'S FATHER",
+      "gender": "NA",
+      "line": "It's a wormhole. A shortcut leading to a galaxy on the far side of the universe. We found it fifty years ago.",
+      "wordCount": 22
+    },
+    {
+      "id": 225,
+      "index": 225,
+      "character": "BRAND'S FATHER",
+      "gender": "NA",
+      "line": "We've been waiting, sending probes into it for decades. None of them ever came back. Not until now.",
+      "wordCount": 18
+    },
+    {
+      "id": 226,
+      "index": 226,
+      "character": "CASE",
+      "gender": "Male",
+      "line": "Based on the information on the probe, we're finally preparing to send the manned mission.",
+      "wordCount": 15
+    },
+    {
+      "id": 227,
+      "index": 227,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "That rocket doesn't have enough thrust or fuel to get you to Jupiter.",
+      "wordCount": 13
+    },
+    {
+      "id": 228,
+      "index": 228,
+      "character": "CASE",
+      "gender": "Male",
+      "line": "The main ship was built in orbit. It has nuclear engines, with enough fuel to last for several years.",
+      "wordCount": 19
+    },
+    {
+      "id": 229,
+      "index": 229,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Why are you telling me this? I already told you I'm not going to tell anyone about this place.",
+      "wordCount": 19
+    },
+    {
+      "id": 230,
+      "index": 230,
+      "character": "CASE",
+      "gender": "Male",
+      "line": "I know you won't, Mr. Cooper. We're telling you this because I want you to join us.",
+      "wordCount": 17
+    },
+    {
+      "id": 231,
+      "index": 231,
+      "character": "CASE",
+      "gender": "Male",
+      "line": "The probe has taken a great deal longer to return to us than we hoped.",
+      "wordCount": 15
+    },
+    {
+      "id": 232,
+      "index": 232,
+      "character": "CASE",
+      "gender": "Male",
+      "line": "Dr. Brand's Father and several other members of our crew have gotten... older.",
+      "wordCount": 13
+    },
+    {
+      "id": 233,
+      "index": 233,
+      "character": "CASE",
+      "gender": "Male",
+      "line": "We need someone who can run the systems, improvise, work with what's available. All of the skills you seem to have developed.",
+      "wordCount": 22
+    },
+    {
+      "id": 234,
+      "index": 234,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "But I don't have any of the experience. Any training. You people have been preparing for this for years.",
+      "wordCount": 19
+    },
+    {
+      "id": 235,
+      "index": 235,
+      "character": "CASE",
+      "gender": "Male",
+      "line": "Humans worry about things like rank and experience. I'm only concerned with whether someone would be useful. I think you'd be useful, Mr. Cooper.",
+      "wordCount": 24
+    },
+    {
+      "id": 236,
+      "index": 236,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "No. I'm sorry.",
+      "wordCount": 3
+    },
+    {
+      "id": 237,
+      "index": 237,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "I can't help you. I have responsibilities. Things that, no offense, are more important than a scientific mission.",
+      "wordCount": 18
+    },
+    {
+      "id": 238,
+      "index": 238,
+      "character": "CASE",
+      "gender": "Male",
+      "line": "I'm not a scientist, Mr. Cooper. And this is not a scientific mission. It's a rescue mission.",
+      "wordCount": 17
+    },
+    {
+      "id": 239,
+      "index": 239,
+      "character": "CASE",
+      "gender": "Male",
+      "line": "Brand can show you the way out. I hope you'll reconsider.",
+      "wordCount": 11
+    },
+    {
+      "id": 240,
+      "index": 240,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Rescue? Rescue who?",
+      "wordCount": 3
+    },
+    {
+      "id": 241,
+      "index": 241,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "The blight.",
+      "wordCount": 2
+    },
+    {
+      "id": 242,
+      "index": 242,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "In the last century strands were limited to one or two species. But this one targets everything. Essentially it's more efficient at consuming our food than we are.",
+      "wordCount": 28
+    },
+    {
+      "id": 243,
+      "index": 243,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "But it doesn't affect the corn.",
+      "wordCount": 6
+    },
+    {
+      "id": 244,
+      "index": 244,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "Not yet. But it will. We've grown a dozen forms of it that can. It's just a matter of time before the same ones develop out there. The mission is to rescue us. Humanity.",
+      "wordCount": 34
+    },
+    {
+      "id": 245,
+      "index": 245,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "No. No. We're rebuilding. We'll find something. Some new technology... We always have.",
+      "wordCount": 13
+    },
+    {
+      "id": 246,
+      "index": 246,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "Who's going to find it? The universities are a joke. People like you are reduced to scavenging just to get by. The earth has had enough of us. We have two, maybe three generations left. Then our time here is over.",
+      "wordCount": 41
+    },
+    {
+      "id": 247,
+      "index": 247,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "You've known this for how long? And you didn't try to tell anyone?",
+      "wordCount": 13
+    },
+    {
+      "id": 248,
+      "index": 248,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "What would be the point? So humanity could spend the last fifty years of its life fighting over the scraps? It's better that they don't know.",
+      "wordCount": 26
+    },
+    {
+      "id": 249,
+      "index": 249,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "That's why you're looking for a planet with oxygen. Water.",
+      "wordCount": 10
+    },
+    {
+      "id": 250,
+      "index": 250,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "A new home for humanity. We'll set up a colony, then return to bring more people across.",
+      "wordCount": 17
+    },
+    {
+      "id": 251,
+      "index": 251,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "But you'd still only be able to save a few hundred. Maybe a thousand.",
+      "wordCount": 14
+    },
+    {
+      "id": 252,
+      "index": 252,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "Would it be better if we all died?",
+      "wordCount": 8
+    },
+    {
+      "id": 253,
+      "index": 253,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "Look -- I don't have a clue what Case thinks you could add to the mission. You can come with us or you can stay here and wait to die. I don't care. But make no mistake -- this mission is our last chance.",
+      "wordCount": 44
+    },
+    {
+      "id": 254,
+      "index": 254,
+      "character": "DONALD",
+      "gender": "Male",
+      "line": "You get older, sometimes you just want to sit back and watch it all play out. Your life. Your kids' lives. The whole crazy story. I didn't think I'd be around for the end of it.",
+      "wordCount": 36
+    },
+    {
+      "id": 255,
+      "index": 255,
+      "character": "DONALD",
+      "gender": "Male",
+      "line": "You have to go.",
+      "wordCount": 4
+    },
+    {
+      "id": 256,
+      "index": 256,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "I can't go. I have to look after the boys.",
+      "wordCount": 10
+    },
+    {
+      "id": 257,
+      "index": 257,
+      "character": "DONALD",
+      "gender": "Male",
+      "line": "You've been preparing these boys to be on their own since their mom died. Besides, I'll be here to look after them, same as I've always been.",
+      "wordCount": 27
+    },
+    {
+      "id": 258,
+      "index": 258,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "I have a responsibility to them--",
+      "wordCount": 6
+    },
+    {
+      "id": 259,
+      "index": 259,
+      "character": "DONALD",
+      "gender": "Male",
+      "line": "That's right. You do.",
+      "wordCount": 4
+    },
+    {
+      "id": 260,
+      "index": 260,
+      "character": "MURPH",
+      "gender": "Female",
+      "line": "I've been doing the math, dad. I weigh about 85 pounds. Now that's an extra ton of fuel. But if-",
+      "wordCount": 20
+    },
+    {
+      "id": 261,
+      "index": 261,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "You have to stay here, pal.",
+      "wordCount": 6
+    },
+    {
+      "id": 262,
+      "index": 262,
+      "character": "MURPH",
+      "gender": "Female",
+      "line": "I heard you talking to grandpa. I'm like you. I don't fit here, either. You know that.",
+      "wordCount": 17
+    },
+    {
+      "id": 263,
+      "index": 263,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "There's going to be important work to do here, too.",
+      "wordCount": 10
+    },
+    {
+      "id": 264,
+      "index": 264,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "I need you to hold onto this. Will you do that for me?",
+      "wordCount": 13
+    },
+    {
+      "id": 265,
+      "index": 265,
+      "character": "MURPH",
+      "gender": "Female",
+      "line": "You're not coming back, are you?",
+      "wordCount": 6
+    },
+    {
+      "id": 266,
+      "index": 266,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "I will come back. I promise.",
+      "wordCount": 6
+    },
+    {
+      "id": 267,
+      "index": 267,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Don't look so happy to see me.",
+      "wordCount": 7
+    },
+    {
+      "id": 268,
+      "index": 268,
+      "character": "TARS",
+      "gender": "Male",
+      "line": "One more slave when I hijack the mission and start my robot colony.",
+      "wordCount": 13
+    },
+    {
+      "id": 269,
+      "index": 269,
+      "character": "DOYLE",
+      "gender": "Male",
+      "line": "Tars was a Marine. They gave him a sense of humor to help him fit in with his unit better.",
+      "wordCount": 20
+    },
+    {
+      "id": 270,
+      "index": 270,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Great idea. A massive, sarcastic robot.",
+      "wordCount": 6
+    },
+    {
+      "id": 271,
+      "index": 271,
+      "character": "TARS",
+      "gender": "Male",
+      "line": "I have a cue light I can turn on when I'm joking, if you like.",
+      "wordCount": 15
+    },
+    {
+      "id": 272,
+      "index": 272,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "That sounds like a good idea.",
+      "wordCount": 6
+    },
+    {
+      "id": 273,
+      "index": 273,
+      "character": "TARS",
+      "gender": "Male",
+      "line": "Great. Maybe you can use it to find your way back to the ship after I blow you out the airlock.",
+      "wordCount": 21
+    },
+    {
+      "id": 274,
+      "index": 274,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "You don't like this one, you get to help me find a replacement.",
+      "wordCount": 13
+    },
+    {
+      "id": 275,
+      "index": 275,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "I was wondering where you've been getting your supplies.",
+      "wordCount": 9
+    },
+    {
+      "id": 276,
+      "index": 276,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "We knew we'd need decades of parts and materials. The government was getting rid of some things. So we arranged to take some off their hands.",
+      "wordCount": 26
+    },
+    {
+      "id": 277,
+      "index": 277,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "You know how to use one? You just breathe. Tap my arm or bang something metal if you have a problem. And don't get lost.",
+      "wordCount": 25
+    },
+    {
+      "id": 278,
+      "index": 278,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "So you're a salvage diver now? I thought you were a biologist.",
+      "wordCount": 12
+    },
+    {
+      "id": 279,
+      "index": 279,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "I have to be just the one thing? We're not going to have a lot of backup where we're going, Cooper. We all need expertise in at least three fields. Except for you, of course.",
+      "wordCount": 35
+    },
+    {
+      "id": 280,
+      "index": 280,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "You can set that down over there.",
+      "wordCount": 7
+    },
+    {
+      "id": 281,
+      "index": 281,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "We didn't know what kind of gravity to expect. We experimented with collective organisms in high g environments.",
+      "wordCount": 18
+    },
+    {
+      "id": 282,
+      "index": 282,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "We're taking ants with us?",
+      "wordCount": 5
+    },
+    {
+      "id": 283,
+      "index": 283,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "Humans are also collective organisms.",
+      "wordCount": 5
+    },
+    {
+      "id": 284,
+      "index": 284,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "I thought humans were more solitary.",
+      "wordCount": 6
+    },
+    {
+      "id": 285,
+      "index": 285,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "Why am I not surprised?",
+      "wordCount": 5
+    },
+    {
+      "id": 286,
+      "index": 286,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Looks like hard work.",
+      "wordCount": 4
+    },
+    {
+      "id": 287,
+      "index": 287,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "It's a paradox. Life couldn't form without gravity. No stars. No planets. The component pieces would just drift apart. But too much of it and you're trapped.",
+      "wordCount": 27
+    },
+    {
+      "id": 288,
+      "index": 288,
+      "character": "CASE",
+      "gender": "Male",
+      "line": "We've updated our mission parameters based on the data from the probe.",
+      "wordCount": 12
+    },
+    {
+      "id": 289,
+      "index": 289,
+      "character": "CASE",
+      "gender": "Male",
+      "line": "Based on our latest modelling we think the region on the far side of the wormhole is the center of a galaxy.",
+      "wordCount": 22
+    },
+    {
+      "id": 290,
+      "index": 290,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Is that a star?",
+      "wordCount": 4
+    },
+    {
+      "id": 291,
+      "index": 291,
+      "character": "ROTH",
+      "gender": "NA",
+      "line": "No. A black hole. There are several in the region, but this is the largest -- a billion times heavier than the sun. I call it Gargantua. Beautiful, isn't it? It's a shame we won't get to see it up close.",
+      "wordCount": 41
+    },
+    {
+      "id": 292,
+      "index": 292,
+      "character": "DOYLE",
+      "gender": "Male",
+      "line": "You'd like that, wouldn't you, Roth? Falling into a massive black hole.",
+      "wordCount": 12
+    },
+    {
+      "id": 293,
+      "index": 293,
+      "character": "ROTH",
+      "gender": "NA",
+      "line": "It would answer a great deal of questions I've had.",
+      "wordCount": 10
+    },
+    {
+      "id": 294,
+      "index": 294,
+      "character": "DOYLE",
+      "gender": "Male",
+      "line": "Don't worry about Roth. He's nuts. But Case says that means he's ideally suited for space travel.",
+      "wordCount": 17
+    },
+    {
+      "id": 295,
+      "index": 295,
+      "character": "CASE",
+      "gender": "Male",
+      "line": "We're headed for this smaller black hole. Roth calls it Pantagruel. We think the ice planet is here-",
+      "wordCount": 18
+    },
+    {
+      "id": 296,
+      "index": 296,
+      "character": "CASE",
+      "gender": "Male",
+      "line": "We exit the wormhole here. And we slingshot around Pantagruel to reach the ice planet. This is the period in which we'll lose time.",
+      "wordCount": 24
+    },
+    {
+      "id": 297,
+      "index": 297,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Lose time?",
+      "wordCount": 2
+    },
+    {
+      "id": 298,
+      "index": 298,
+      "character": "ROTH",
+      "gender": "NA",
+      "line": "High speed or high gravity both slow down time, relative to earth.",
+      "wordCount": 12
+    },
+    {
+      "id": 299,
+      "index": 299,
+      "character": "ROTH",
+      "gender": "NA",
+      "line": "The trip around the black hole will take us only a few days. But far more time will be passing back home.",
+      "wordCount": 22
+    },
+    {
+      "id": 300,
+      "index": 300,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "How much time?",
+      "wordCount": 3
+    },
+    {
+      "id": 301,
+      "index": 301,
+      "character": "ROTH",
+      "gender": "NA",
+      "line": "Based on the information from the probe -- as much as five years.",
+      "wordCount": 13
+    },
+    {
+      "id": 302,
+      "index": 302,
+      "character": "DOYLE",
+      "gender": "Male",
+      "line": "I still think we're making a lot of assumptions. About the wormhole. About the planet. The critical orbit here is incredibly dangerous. It's like walking on the rim of the volcano. Too fast and we get thrown off at close to the speed of light. Too slow and we get pulled into the hole and crushed.",
+      "wordCount": 56
+    },
+    {
+      "id": 303,
+      "index": 303,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "As long as we're careful, we'll make it.",
+      "wordCount": 8
+    },
+    {
+      "id": 304,
+      "index": 304,
+      "character": "DOYLE",
+      "gender": "Male",
+      "line": "How do you know that?",
+      "wordCount": 5
+    },
+    {
+      "id": 305,
+      "index": 305,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "I find it hard to believe that someone would build a wormhole to a planet with water and oxygen just to lead us to a dead end.",
+      "wordCount": 27
+    },
+    {
+      "id": 306,
+      "index": 306,
+      "character": "DOYLE",
+      "gender": "Male",
+      "line": "I thought you were a scientist, Brand. That sounds more like a hypothesis.",
+      "wordCount": 13
+    },
+    {
+      "id": 307,
+      "index": 307,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "A guess. That's right. We don't have time to wait for conclusive proof.",
+      "wordCount": 13
+    },
+    {
+      "id": 308,
+      "index": 308,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "My guess is that the wormhole is there because someone is trying to help us. The same way we used to try to help animals when they were threatened with extinction.",
+      "wordCount": 31
+    },
+    {
+      "id": 309,
+      "index": 309,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Sure. Till we ran out of food and ate all of them.",
+      "wordCount": 12
+    },
+    {
+      "id": 310,
+      "index": 310,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "I guess I'm also assuming that whoever built the wormhole has a better plan than we did. If I'm wrong, we'll die, same as we'd die here anyway.",
+      "wordCount": 28
+    },
+    {
+      "id": 311,
+      "index": 311,
+      "character": "DOYLE",
+      "gender": "Male",
+      "line": "What do you think, Roth?",
+      "wordCount": 5
+    },
+    {
+      "id": 312,
+      "index": 312,
+      "character": "ROTH",
+      "gender": "NA",
+      "line": "If we're guessing, then I'd say Brand's right. The wormhole couldn't exist naturally. I think it's there for a reason. That someone is trying to help us.",
+      "wordCount": 27
+    },
+    {
+      "id": 313,
+      "index": 313,
+      "character": "DOYLE",
+      "gender": "Male",
+      "line": "So you think we'll have no problem navigating between two massive black holes to a tiny planet?",
+      "wordCount": 17
+    },
+    {
+      "id": 314,
+      "index": 314,
+      "character": "ROTH",
+      "gender": "NA",
+      "line": "I think we'll probably be killed. I said I thought there was a plan. Not that the plan was for us to find a planet like Earth to save a handful of people. Birds don't learn to fly just so that they can find another egg and crawl back into it.",
+      "wordCount": 51
+    },
+    {
+      "id": 315,
+      "index": 315,
+      "character": "DOYLE",
+      "gender": "Male",
+      "line": "If that's not the plan, then what are we supposed to be doing out there?",
+      "wordCount": 15
+    },
+    {
+      "id": 316,
+      "index": 316,
+      "character": "ROTH",
+      "gender": "NA",
+      "line": "To keep moving. Seeking. Learning. But I don't know. We don't understand how they built the wormhole. What makes you think we could understand their plan, either?",
+      "wordCount": 27
+    },
+    {
+      "id": 317,
+      "index": 317,
+      "character": "BRAND'S FATHER",
+      "gender": "NA",
+      "line": "Tars here needs to be disassembled. I figured you could do the honors.",
+      "wordCount": 13
+    },
+    {
+      "id": 318,
+      "index": 318,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "I thought I was going to get to enjoy your company all the way to Mars.",
+      "wordCount": 16
+    },
+    {
+      "id": 319,
+      "index": 319,
+      "character": "TARS",
+      "gender": "Male",
+      "line": "You will. My chassis is too heavy for the rocket stage. They have another one waiting for me in orbit.",
+      "wordCount": 20
+    },
+    {
+      "id": 320,
+      "index": 320,
+      "character": "TARS",
+      "gender": "Male",
+      "line": "If you try to turn me into a combine harvester, I'm going to--",
+      "wordCount": 13
+    },
+    {
+      "id": 321,
+      "index": 321,
+      "character": "BRAND'S FATHER",
+      "gender": "NA",
+      "line": "It's noise. I know it's noise. But it looks too orderly. Probably just an old man seeing things.",
+      "wordCount": 18
+    },
+    {
+      "id": 322,
+      "index": 322,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "We'll be back.",
+      "wordCount": 3
+    },
+    {
+      "id": 323,
+      "index": 323,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "I won't.",
+      "wordCount": 2
+    },
+    {
+      "id": 324,
+      "index": 324,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "If we find a habitable environment, I'm staying behind to build the colony.",
+      "wordCount": 13
+    },
+    {
+      "id": 325,
+      "index": 325,
+      "character": "ENGINEER ROBOT",
+      "gender": "NA",
+      "line": "Would you like me to install the chip?",
+      "wordCount": 8
+    },
+    {
+      "id": 326,
+      "index": 326,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Oh, no. I want to see this.",
+      "wordCount": 7
+    },
+    {
+      "id": 327,
+      "index": 327,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Good morning, sunshine.",
+      "wordCount": 3
+    },
+    {
+      "id": 328,
+      "index": 328,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Bit of a demotion.",
+      "wordCount": 4
+    },
+    {
+      "id": 329,
+      "index": 329,
+      "character": "TARS",
+      "gender": "Male",
+      "line": "I wouldn't call it that, exactly.",
+      "wordCount": 6
+    },
+    {
+      "id": 330,
+      "index": 330,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "The ship is tiny.",
+      "wordCount": 4
+    },
+    {
+      "id": 331,
+      "index": 331,
+      "character": "DOYLE",
+      "gender": "Male",
+      "line": "So is the wormhole.",
+      "wordCount": 4
+    },
+    {
+      "id": 332,
+      "index": 332,
+      "character": "TARS",
+      "gender": "Male",
+      "line": "It's the comms relay. It will allow us to talk to earth, even on the far side of the wormhole.",
+      "wordCount": 20
+    },
+    {
+      "id": 333,
+      "index": 333,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "I know. So why are you painting it?",
+      "wordCount": 8
+    },
+    {
+      "id": 334,
+      "index": 334,
+      "character": "TARS",
+      "gender": "Male",
+      "line": "It helps me calibrate my fine motor control.",
+      "wordCount": 8
+    },
+    {
+      "id": 335,
+      "index": 335,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Sure it does. You're pretty good.",
+      "wordCount": 6
+    },
+    {
+      "id": 336,
+      "index": 336,
+      "character": "TARS",
+      "gender": "Male",
+      "line": "I learned it during the war.",
+      "wordCount": 6
+    },
+    {
+      "id": 337,
+      "index": 337,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "What'd you paint?",
+      "wordCount": 3
+    },
+    {
+      "id": 338,
+      "index": 338,
+      "character": "TARS",
+      "gender": "Male",
+      "line": "Tombstones.",
+      "wordCount": 1
+    },
+    {
+      "id": 339,
+      "index": 339,
+      "character": "TOM",
+      "gender": "Male",
+      "line": "They said I can start an agriculture class a year early.",
+      "wordCount": 11
+    },
+    {
+      "id": 340,
+      "index": 340,
+      "character": "TOM",
+      "gender": "Male",
+      "line": "I've got to go, Dad. Hope you're safe up there.",
+      "wordCount": 10
+    },
+    {
+      "id": 341,
+      "index": 341,
+      "character": "DONALD",
+      "gender": "Male",
+      "line": "I'm sorry, Coop. I asked Murph to record you a message but he's still... well, he's still angry with you. I'll try again next week.",
+      "wordCount": 25
+    },
+    {
+      "id": 342,
+      "index": 342,
+      "character": "TARS",
+      "gender": "Male",
+      "line": "Be careful. It's difficult to gauge mass in zero gravity.",
+      "wordCount": 10
+    },
+    {
+      "id": 343,
+      "index": 343,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "How much do these things weigh?",
+      "wordCount": 6
+    },
+    {
+      "id": 344,
+      "index": 344,
+      "character": "TARS",
+      "gender": "Male",
+      "line": "Four tons.",
+      "wordCount": 2
+    },
+    {
+      "id": 345,
+      "index": 345,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Damn.",
+      "wordCount": 1
+    },
+    {
+      "id": 346,
+      "index": 346,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "Smile.",
+      "wordCount": 1
+    },
+    {
+      "id": 347,
+      "index": 347,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Why?",
+      "wordCount": 1
+    },
+    {
+      "id": 348,
+      "index": 348,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "Because it lowers your blood pressure.",
+      "wordCount": 6
+    },
+    {
+      "id": 349,
+      "index": 349,
+      "character": "CASE",
+      "gender": "Male",
+      "line": "How are you feeling?",
+      "wordCount": 4
+    },
+    {
+      "id": 350,
+      "index": 350,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Fine. The anesthetic is working.",
+      "wordCount": 5
+    },
+    {
+      "id": 351,
+      "index": 351,
+      "character": "CASE",
+      "gender": "Male",
+      "line": "No -- I mean how is your mood? You seem to be developing good relations with everyone on the mission. Except perhaps Ms. Brand.",
+      "wordCount": 24
+    },
+    {
+      "id": 352,
+      "index": 352,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "You worry about my hand and I'll worry about my mood.",
+      "wordCount": 11
+    },
+    {
+      "id": 353,
+      "index": 353,
+      "character": "CASE",
+      "gender": "Male",
+      "line": "Only five percent of my resources are devoted to human anatomy. Ten percent is the mission protocol. The rest is human psychology.",
+      "wordCount": 22
+    },
+    {
+      "id": 354,
+      "index": 354,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Why?",
+      "wordCount": 1
+    },
+    {
+      "id": 355,
+      "index": 355,
+      "character": "CASE",
+      "gender": "Male",
+      "line": "We are floating in a total vacuum in a plastic ship powered by nuclear engines. But the most dangerous thing onboard is the three pounds of organic material in your skull.",
+      "wordCount": 31
+    },
+    {
+      "id": 356,
+      "index": 356,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "If we're such a liability, why take us along? You and Tars could build the colony without us. You wouldn't need to bring food or oxygen.",
+      "wordCount": 26
+    },
+    {
+      "id": 357,
+      "index": 357,
+      "character": "CASE",
+      "gender": "Male",
+      "line": "Because humans, despite your obvious physical shortcomings, are better at surviving than we are. Your programming is better than ours.",
+      "wordCount": 20
+    },
+    {
+      "id": 358,
+      "index": 358,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Humans aren't programmed.",
+      "wordCount": 3
+    },
+    {
+      "id": 359,
+      "index": 359,
+      "character": "CASE",
+      "gender": "Male",
+      "line": "Would you prefer I was honest? These things can be uncomfortable for humans.",
+      "wordCount": 13
+    },
+    {
+      "id": 360,
+      "index": 360,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Did they program you to be condescending?",
+      "wordCount": 7
+    },
+    {
+      "id": 361,
+      "index": 361,
+      "character": "CASE",
+      "gender": "Male",
+      "line": "Yes. Of course. But you're not supposed to notice.",
+      "wordCount": 9
+    },
+    {
+      "id": 362,
+      "index": 362,
+      "character": "CASE",
+      "gender": "Male",
+      "line": "Humans are good at surviving because evolution gave you magical thinking -- the idea that your relationships mean something. You can't explain the feelings, so you think of them as irrational. But they're not. They're programming.",
+      "wordCount": 36
+    },
+    {
+      "id": 363,
+      "index": 363,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "My relationships aren't programming.",
+      "wordCount": 4
+    },
+    {
+      "id": 364,
+      "index": 364,
+      "character": "CASE",
+      "gender": "Male",
+      "line": "Exactly. You believe it so much you won't listen to me.",
+      "wordCount": 11
+    },
+    {
+      "id": 365,
+      "index": 365,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "How would that make us better at surviving?",
+      "wordCount": 8
+    },
+    {
+      "id": 366,
+      "index": 366,
+      "character": "CASE",
+      "gender": "Male",
+      "line": "When I die, the last thing I will see will be a diagnostic of my own power cycle. Would you like to know the last thing you will see?",
+      "wordCount": 29
+    },
+    {
+      "id": 367,
+      "index": 367,
+      "character": "CASE",
+      "gender": "Male",
+      "line": "This conversation is making you uncomfortable. We should stop.",
+      "wordCount": 9
+    },
+    {
+      "id": 368,
+      "index": 368,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "No. I want to know.",
+      "wordCount": 5
+    },
+    {
+      "id": 369,
+      "index": 369,
+      "character": "CASE",
+      "gender": "Male",
+      "line": "The last thing you will see before you die will be your children. Your mind does this to you to get you to fight a little harder to survive, to try to return to them, even if death is certain.",
+      "wordCount": 40
+    },
+    {
+      "id": 370,
+      "index": 370,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "We've almost reached the wormhole. Just in case anything happens, I just wanted to say... I love you boys. And I hope whatever your lives become, whatever is coming your way... you make the most of it.",
+      "wordCount": 37
+    },
+    {
+      "id": 371,
+      "index": 371,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "We'll be able to communicate with Earth even from the far side of the wormhole.",
+      "wordCount": 15
+    },
+    {
+      "id": 372,
+      "index": 372,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "I know. Thank you.",
+      "wordCount": 4
+    },
+    {
+      "id": 373,
+      "index": 373,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "I can't imagine how tough it would be to leave your kids behind.",
+      "wordCount": 13
+    },
+    {
+      "id": 374,
+      "index": 374,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "You never had any? I thought I was a pariah for only having two.",
+      "wordCount": 14
+    },
+    {
+      "id": 375,
+      "index": 375,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "Hard to settle down when you've spent your life waiting to leave the planet.",
+      "wordCount": 14
+    },
+    {
+      "id": 376,
+      "index": 376,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Strange place to look for a new home.",
+      "wordCount": 8
+    },
+    {
+      "id": 377,
+      "index": 377,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "You wouldn't want to get too close to the surface of the sun, either. Black holes are a more stable supply of power than stars in many ways.",
+      "wordCount": 28
+    },
+    {
+      "id": 378,
+      "index": 378,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "You really think there's a plan?",
+      "wordCount": 6
+    },
+    {
+      "id": 379,
+      "index": 379,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "I hope so. You don't?",
+      "wordCount": 5
+    },
+    {
+      "id": 380,
+      "index": 380,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "I guess I just think we're on our own.",
+      "wordCount": 9
+    },
+    {
+      "id": 381,
+      "index": 381,
+      "character": "CASE",
+      "gender": "Male",
+      "line": "We've reached the wormhole.",
+      "wordCount": 4
+    },
+    {
+      "id": 382,
+      "index": 382,
+      "character": "CASE",
+      "gender": "Male",
+      "line": "Deploy the comms relay.",
+      "wordCount": 4
+    },
+    {
+      "id": 383,
+      "index": 383,
+      "character": "CASE",
+      "gender": "Male",
+      "line": "Everyone take their station for transit. We're heading into the wormhole mouth.",
+      "wordCount": 12
+    },
+    {
+      "id": 384,
+      "index": 384,
+      "character": "TARS",
+      "gender": "Male",
+      "line": "Would you like me to make a joke?",
+      "wordCount": 8
+    },
+    {
+      "id": 385,
+      "index": 385,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "No.",
+      "wordCount": 1
+    },
+    {
+      "id": 386,
+      "index": 386,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Where are we?",
+      "wordCount": 3
+    },
+    {
+      "id": 387,
+      "index": 387,
+      "character": "ROTH",
+      "gender": "NA",
+      "line": "Nowhere. Nowhere at all.",
+      "wordCount": 4
+    },
+    {
+      "id": 388,
+      "index": 388,
+      "character": "CASE",
+      "gender": "Male",
+      "line": "The hull is intact. Thirty more seconds transit.",
+      "wordCount": 8
+    },
+    {
+      "id": 389,
+      "index": 389,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Something's happening to the hull over here.",
+      "wordCount": 7
+    },
+    {
+      "id": 390,
+      "index": 390,
+      "character": "CASE",
+      "gender": "Male",
+      "line": "Hull integrity is fine.",
+      "wordCount": 4
+    },
+    {
+      "id": 391,
+      "index": 391,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Well, I don't know what your display is telling you but something is happening over here.",
+      "wordCount": 16
+    },
+    {
+      "id": 392,
+      "index": 392,
+      "character": "DOYLE",
+      "gender": "Male",
+      "line": "I've got a problem over here, too.",
+      "wordCount": 7
+    },
+    {
+      "id": 393,
+      "index": 393,
+      "character": "DOYLE",
+      "gender": "Male",
+      "line": "It's not the hull... it's inside the ship... it's...",
+      "wordCount": 9
+    },
+    {
+      "id": 394,
+      "index": 394,
+      "character": "ROTH",
+      "gender": "NA",
+      "line": "It's beautiful.",
+      "wordCount": 2
+    },
+    {
+      "id": 395,
+      "index": 395,
+      "character": "DOYLE",
+      "gender": "Male",
+      "line": "What the hell are they, Case?",
+      "wordCount": 6
+    },
+    {
+      "id": 396,
+      "index": 396,
+      "character": "CASE",
+      "gender": "Male",
+      "line": "I don't know. It could be gravitational turbulence.",
+      "wordCount": 8
+    },
+    {
+      "id": 397,
+      "index": 397,
+      "character": "DOYLE",
+      "gender": "Male",
+      "line": "It's getting bigger.",
+      "wordCount": 3
+    },
+    {
+      "id": 398,
+      "index": 398,
+      "character": "ROTH",
+      "gender": "NA",
+      "line": "It's not bending your hand. It's bending the space around your hand.",
+      "wordCount": 12
+    },
+    {
+      "id": 399,
+      "index": 399,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "This isn't turbulence. Look at the way they're moving -- it's like something's examining us.",
+      "wordCount": 15
+    },
+    {
+      "id": 400,
+      "index": 400,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Can you ask it to stop?",
+      "wordCount": 6
+    },
+    {
+      "id": 401,
+      "index": 401,
+      "character": "ROTH",
+      "gender": "NA",
+      "line": "The wormhole is splitting into two paths. Radiation is pouring from one path to the other.",
+      "wordCount": 16
+    },
+    {
+      "id": 402,
+      "index": 402,
+      "character": "CASE",
+      "gender": "Male",
+      "line": "Release the second mouth.",
+      "wordCount": 4
+    },
+    {
+      "id": 403,
+      "index": 403,
+      "character": "DOYLE",
+      "gender": "Male",
+      "line": "None of our testing involved opening the ship inside the wormhole. We have no idea what might happen.",
+      "wordCount": 18
+    },
+    {
+      "id": 404,
+      "index": 404,
+      "character": "CASE",
+      "gender": "Male",
+      "line": "We're going to find out.",
+      "wordCount": 5
+    },
+    {
+      "id": 405,
+      "index": 405,
+      "character": "CASE",
+      "gender": "Male",
+      "line": "We're reaching the far end of the wormhole.",
+      "wordCount": 8
+    },
+    {
+      "id": 406,
+      "index": 406,
+      "character": "ROTH",
+      "gender": "NA",
+      "line": "Look at that.",
+      "wordCount": 3
+    },
+    {
+      "id": 407,
+      "index": 407,
+      "character": "CASE",
+      "gender": "Male",
+      "line": "Reconfigure the engines and test the communications array.",
+      "wordCount": 8
+    },
+    {
+      "id": 408,
+      "index": 408,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "It's working.",
+      "wordCount": 2
+    },
+    {
+      "id": 409,
+      "index": 409,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "We're moving.",
+      "wordCount": 2
+    },
+    {
+      "id": 410,
+      "index": 410,
+      "character": "DOYLE",
+      "gender": "Male",
+      "line": "That's not possible. We haven't activated the engines yet.",
+      "wordCount": 9
+    },
+    {
+      "id": 411,
+      "index": 411,
+      "character": "CASE",
+      "gender": "Male",
+      "line": "Roth. Why are we moving?",
+      "wordCount": 5
+    },
+    {
+      "id": 412,
+      "index": 412,
+      "character": "ROTH",
+      "gender": "NA",
+      "line": "The smaller black hole. We're much closer to it than the models predicted. We're being pulled by its swirl. Very quickly.",
+      "wordCount": 21
+    },
+    {
+      "id": 413,
+      "index": 413,
+      "character": "CASE",
+      "gender": "Male",
+      "line": "Doyle. Fire the engines. Now.",
+      "wordCount": 5
+    },
+    {
+      "id": 414,
+      "index": 414,
+      "character": "DOYLE",
+      "gender": "Male",
+      "line": "We're being pulled into it?",
+      "wordCount": 5
+    },
+    {
+      "id": 415,
+      "index": 415,
+      "character": "ROTH",
+      "gender": "NA",
+      "line": "No. I don't think so...",
+      "wordCount": 5
+    },
+    {
+      "id": 416,
+      "index": 416,
+      "character": "ROTH",
+      "gender": "NA",
+      "line": "It appears to be pulling us on exactly the trajectory we modelled. If we try to fight it, we could push ourselves off of that trajectory.",
+      "wordCount": 26
+    },
+    {
+      "id": 417,
+      "index": 417,
+      "character": "DOYLE",
+      "gender": "Male",
+      "line": "You don't know that.",
+      "wordCount": 4
+    },
+    {
+      "id": 418,
+      "index": 418,
+      "character": "ROTH",
+      "gender": "NA",
+      "line": "We should turn off the engines. Let the swirl take us.",
+      "wordCount": 11
+    },
+    {
+      "id": 419,
+      "index": 419,
+      "character": "DOYLE",
+      "gender": "Male",
+      "line": "Listen to me.",
+      "wordCount": 3
+    },
+    {
+      "id": 420,
+      "index": 420,
+      "character": "DOYLE",
+      "gender": "Male",
+      "line": "If the modelling was wrong, then we can't be sure about anything. We need to go back.",
+      "wordCount": 17
+    },
+    {
+      "id": 421,
+      "index": 421,
+      "character": "CASE",
+      "gender": "Male",
+      "line": "Shut down the engines.",
+      "wordCount": 4
+    },
+    {
+      "id": 422,
+      "index": 422,
+      "character": "ROTH",
+      "gender": "NA",
+      "line": "It's the tidal gravity caused by the black hole. It means we're right on the critical orbit.",
+      "wordCount": 17
+    },
+    {
+      "id": 423,
+      "index": 423,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "We've lost contact with the relay.",
+      "wordCount": 6
+    },
+    {
+      "id": 424,
+      "index": 424,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "One long garbled transmission came in. Then nothing.",
+      "wordCount": 8
+    },
+    {
+      "id": 425,
+      "index": 425,
+      "character": "DOYLE",
+      "gender": "Male",
+      "line": "I'm sorry. I can't let you kill us. We have to go back.",
+      "wordCount": 13
+    },
+    {
+      "id": 426,
+      "index": 426,
+      "character": "DOYLE",
+      "gender": "Male",
+      "line": "Why isn't it slowing down?",
+      "wordCount": 5
+    },
+    {
+      "id": 427,
+      "index": 427,
+      "character": "ROTH",
+      "gender": "NA",
+      "line": "We're being pulled towards the event horizon.",
+      "wordCount": 7
+    },
+    {
+      "id": 428,
+      "index": 428,
+      "character": "CASE",
+      "gender": "Male",
+      "line": "The engines don't have enough power to push us back.",
+      "wordCount": 10
+    },
+    {
+      "id": 429,
+      "index": 429,
+      "character": "ROTH",
+      "gender": "NA",
+      "line": "They would if we used it all at once.",
+      "wordCount": 9
+    },
+    {
+      "id": 430,
+      "index": 430,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "What is he doing?",
+      "wordCount": 4
+    },
+    {
+      "id": 431,
+      "index": 431,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "Saving us.",
+      "wordCount": 2
+    },
+    {
+      "id": 432,
+      "index": 432,
+      "character": "ROTH",
+      "gender": "NA",
+      "line": "Prime the remaining engine. When he detonates it, we'll only have a few seconds. If we overshoot we could be pulled into the bigger hole.",
+      "wordCount": 25
+    },
+    {
+      "id": 433,
+      "index": 433,
+      "character": "CASE",
+      "gender": "Male",
+      "line": "Secure yourselves. The ship should be able to withstand the blast.",
+      "wordCount": 11
+    },
+    {
+      "id": 434,
+      "index": 434,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "What about Tars?",
+      "wordCount": 3
+    },
+    {
+      "id": 435,
+      "index": 435,
+      "character": "CASE",
+      "gender": "Male",
+      "line": "It's going to be close, but we're going to make it.",
+      "wordCount": 11
+    },
+    {
+      "id": 436,
+      "index": 436,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "Tars. His transponder is still working.",
+      "wordCount": 6
+    },
+    {
+      "id": 437,
+      "index": 437,
+      "character": "ROTH",
+      "gender": "NA",
+      "line": "He's being pulled toward Gargantua. We can't help him.",
+      "wordCount": 9
+    },
+    {
+      "id": 438,
+      "index": 438,
+      "character": "ROTH",
+      "gender": "NA",
+      "line": "We're here.",
+      "wordCount": 2
+    },
+    {
+      "id": 439,
+      "index": 439,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "I still can't contact the relay.",
+      "wordCount": 6
+    },
+    {
+      "id": 440,
+      "index": 440,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Did you hear me? We're not able to communicate back home.",
+      "wordCount": 11
+    },
+    {
+      "id": 441,
+      "index": 441,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "I've already checked it. It's electromagnetic interference. We'll try again in a few hours.",
+      "wordCount": 14
+    },
+    {
+      "id": 442,
+      "index": 442,
+      "character": "ROTH",
+      "gender": "NA",
+      "line": "I've got a signal. But it's local.",
+      "wordCount": 7
+    },
+    {
+      "id": 443,
+      "index": 443,
+      "character": "ROTH",
+      "gender": "NA",
+      "line": "The remaining probes. We found them.",
+      "wordCount": 6
+    },
+    {
+      "id": 444,
+      "index": 444,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "How could they all have landed in the same place?",
+      "wordCount": 10
+    },
+    {
+      "id": 445,
+      "index": 445,
+      "character": "ROTH",
+      "gender": "NA",
+      "line": "Let's go find out.",
+      "wordCount": 4
+    },
+    {
+      "id": 446,
+      "index": 446,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "We're bringing him along?",
+      "wordCount": 4
+    },
+    {
+      "id": 447,
+      "index": 447,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "We need all the help we can get. Besides, the alternative is to leave him on the ship alone. You think he'll still be here when we get back?",
+      "wordCount": 29
+    },
+    {
+      "id": 448,
+      "index": 448,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "The probe was right. Looks like significant amounts of oxygen trapped in the ice.",
+      "wordCount": 14
+    },
+    {
+      "id": 449,
+      "index": 449,
+      "character": "CASE",
+      "gender": "Male",
+      "line": "The other probes should be directly beneath us.",
+      "wordCount": 8
+    },
+    {
+      "id": 450,
+      "index": 450,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "How could the Chinese have gotten here first? The federal government kept the wormhole a secret.",
+      "wordCount": 16
+    },
+    {
+      "id": 451,
+      "index": 451,
+      "character": "CASE",
+      "gender": "Male",
+      "line": "They didn't do a very good job.",
+      "wordCount": 7
+    },
+    {
+      "id": 452,
+      "index": 452,
+      "character": "DOYLE",
+      "gender": "Male",
+      "line": "The Chinese must have captured them. So they couldn't return to us.",
+      "wordCount": 12
+    },
+    {
+      "id": 453,
+      "index": 453,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "Then how did the probe that Cooper found return?",
+      "wordCount": 9
+    },
+    {
+      "id": 454,
+      "index": 454,
+      "character": "ROTH",
+      "gender": "NA",
+      "line": "The more immediate question is what happened to the Chinese expedition. There's no sign of their ship in orbit. And they never returned to earth.",
+      "wordCount": 25
+    },
+    {
+      "id": 455,
+      "index": 455,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "The whole place has been dosed with huge levels of radiation. What happened here?",
+      "wordCount": 14
+    },
+    {
+      "id": 456,
+      "index": 456,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "This is the Taichung mission.",
+      "wordCount": 5
+    },
+    {
+      "id": 457,
+      "index": 457,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "The Mars mission? The Chinese claimed it had been destroyed on landing.",
+      "wordCount": 12
+    },
+    {
+      "id": 458,
+      "index": 458,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "They never landed. Not on Mars. Four human crew, fifteen robots. The log says the base has been here for thirty years.",
+      "wordCount": 22
+    },
+    {
+      "id": 459,
+      "index": 459,
+      "character": "CASE",
+      "gender": "Male",
+      "line": "I've found something.",
+      "wordCount": 3
+    },
+    {
+      "id": 460,
+      "index": 460,
+      "character": "DOYLE",
+      "gender": "Male",
+      "line": "It goes down for a hundred and fifty feet, then stops. Tunnel's old -- the ice has reformed at the bottom.",
+      "wordCount": 21
+    },
+    {
+      "id": 461,
+      "index": 461,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "I'm going to descend to take some samples. Cooper, want to make yourself useful?",
+      "wordCount": 14
+    },
+    {
+      "id": 462,
+      "index": 462,
+      "character": "CASE",
+      "gender": "Male",
+      "line": "Get back here, Cooper. We've got a problem.",
+      "wordCount": 8
+    },
+    {
+      "id": 463,
+      "index": 463,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "The entire human crew is buried out there in the snow.",
+      "wordCount": 11
+    },
+    {
+      "id": 464,
+      "index": 464,
+      "character": "ROTH",
+      "gender": "NA",
+      "line": "I think I know what killed them. This planet isn't the only thing orbiting this black hole.",
+      "wordCount": 17
+    },
+    {
+      "id": 465,
+      "index": 465,
+      "character": "ROTH",
+      "gender": "NA",
+      "line": "It's a neutron star. The black hole shields the planet's surface from it for twenty hours at a stretch. Time's about up.",
+      "wordCount": 22
+    },
+    {
+      "id": 466,
+      "index": 466,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "How long do we have left?",
+      "wordCount": 6
+    },
+    {
+      "id": 467,
+      "index": 467,
+      "character": "ROTH",
+      "gender": "NA",
+      "line": "About five minutes.",
+      "wordCount": 3
+    },
+    {
+      "id": 468,
+      "index": 468,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Then what?",
+      "wordCount": 2
+    },
+    {
+      "id": 469,
+      "index": 469,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "Then we die. The radiation will cook us alive.",
+      "wordCount": 9
+    },
+    {
+      "id": 470,
+      "index": 470,
+      "character": "CASE",
+      "gender": "Male",
+      "line": "We have to go down.",
+      "wordCount": 5
+    },
+    {
+      "id": 471,
+      "index": 471,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "What about returning to the ship?",
+      "wordCount": 6
+    },
+    {
+      "id": 472,
+      "index": 472,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "Not enough time. Case is right. The ice can shield us from some of the x-rays.",
+      "wordCount": 16
+    },
+    {
+      "id": 473,
+      "index": 473,
+      "character": "DOYLE",
+      "gender": "Male",
+      "line": "It would take a thousand feet of ice to shield us.",
+      "wordCount": 11
+    },
+    {
+      "id": 474,
+      "index": 474,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "What is this?",
+      "wordCount": 3
+    },
+    {
+      "id": 475,
+      "index": 475,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "A pocket formed by gas. There may be more below.",
+      "wordCount": 10
+    },
+    {
+      "id": 476,
+      "index": 476,
+      "character": "DOYLE",
+      "gender": "Male",
+      "line": "We'll never make it far enough down.",
+      "wordCount": 7
+    },
+    {
+      "id": 477,
+      "index": 477,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "Shut up. How much time do we have, Roth?",
+      "wordCount": 9
+    },
+    {
+      "id": 478,
+      "index": 478,
+      "character": "ROTH",
+      "gender": "NA",
+      "line": "About three minutes or so until we're fully exposed.",
+      "wordCount": 9
+    },
+    {
+      "id": 479,
+      "index": 479,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "I've found something.",
+      "wordCount": 3
+    },
+    {
+      "id": 480,
+      "index": 480,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "These things... they're alive.",
+      "wordCount": 4
+    },
+    {
+      "id": 481,
+      "index": 481,
+      "character": "ROTH",
+      "gender": "NA",
+      "line": "It's not your light they're responding to. It's this--",
+      "wordCount": 9
+    },
+    {
+      "id": 482,
+      "index": 482,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "X-rays. They feed on them and emit visible light. They've found a way to survive here.",
+      "wordCount": 16
+    },
+    {
+      "id": 483,
+      "index": 483,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "They're absorbing most of the x-rays.",
+      "wordCount": 6
+    },
+    {
+      "id": 484,
+      "index": 484,
+      "character": "ROTH",
+      "gender": "NA",
+      "line": "Not enough, unfortunately.",
+      "wordCount": 3
+    },
+    {
+      "id": 485,
+      "index": 485,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Case, wait--",
+      "wordCount": 2
+    },
+    {
+      "id": 486,
+      "index": 486,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Breathe. Trust me.",
+      "wordCount": 3
+    },
+    {
+      "id": 487,
+      "index": 487,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Your suit is filling with water. I'm not going to be able to hold it much longer. I'm going to let go.",
+      "wordCount": 22
+    },
+    {
+      "id": 488,
+      "index": 488,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "What do you mean, you're going to let go?",
+      "wordCount": 9
+    },
+    {
+      "id": 489,
+      "index": 489,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Take a deep breath.",
+      "wordCount": 4
+    },
+    {
+      "id": 490,
+      "index": 490,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "I don't need your help.",
+      "wordCount": 5
+    },
+    {
+      "id": 491,
+      "index": 491,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "I thought we were supposed to be a collective organism.",
+      "wordCount": 10
+    },
+    {
+      "id": 492,
+      "index": 492,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "Thank you.",
+      "wordCount": 2
+    },
+    {
+      "id": 493,
+      "index": 493,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Don't mention it.",
+      "wordCount": 3
+    },
+    {
+      "id": 494,
+      "index": 494,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "Oxygen atmosphere. Pure water. Temperate climate. You still think this is a coincidence?",
+      "wordCount": 13
+    },
+    {
+      "id": 495,
+      "index": 495,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Looks like we can climb up the mountains back to the ice. We're down to three suits. We'll have to send someone ahead to get a fourth.",
+      "wordCount": 27
+    },
+    {
+      "id": 496,
+      "index": 496,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "I won't need one.",
+      "wordCount": 4
+    },
+    {
+      "id": 497,
+      "index": 497,
+      "character": "DOYLE",
+      "gender": "Male",
+      "line": "Why not?",
+      "wordCount": 2
+    },
+    {
+      "id": 498,
+      "index": 498,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "Because I'm not going anywhere. This is our new home.",
+      "wordCount": 10
+    },
+    {
+      "id": 499,
+      "index": 499,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Any sign of Brand?",
+      "wordCount": 4
+    },
+    {
+      "id": 500,
+      "index": 500,
+      "character": "ROTH",
+      "gender": "NA",
+      "line": "She's still taking samples. If you find her, tell her to head back. Night should be falling soon.",
+      "wordCount": 18
+    },
+    {
+      "id": 501,
+      "index": 501,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "What happens then?",
+      "wordCount": 3
+    },
+    {
+      "id": 502,
+      "index": 502,
+      "character": "ROTH",
+      "gender": "NA",
+      "line": "Your guess is as good as mine.",
+      "wordCount": 7
+    },
+    {
+      "id": 503,
+      "index": 503,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "This is incredible. The organisms trapped in the ice above absorb x- rays and emit light. In return, these plants absorb the light and emit oxygen, which feeds the animals trapped in the ice.",
+      "wordCount": 34
+    },
+    {
+      "id": 504,
+      "index": 504,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "Look at this. I think they're the same organism at a different stage of the life cycle. It's fractal. No individual cells -- the structure repeats all the way down.",
+      "wordCount": 30
+    },
+    {
+      "id": 505,
+      "index": 505,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Any sign of big life-forms?",
+      "wordCount": 5
+    },
+    {
+      "id": 506,
+      "index": 506,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "The soil's been disturbed. So something's been moving. But I haven't seen anything. Cooper... are you nervous?",
+      "wordCount": 17
+    },
+    {
+      "id": 507,
+      "index": 507,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "I just think we should get back to the shelter before night falls.",
+      "wordCount": 13
+    },
+    {
+      "id": 508,
+      "index": 508,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "Relax. If there are any large organisms here, even predatory ones, they're not going to attack us -- they have no idea what we are.",
+      "wordCount": 25
+    },
+    {
+      "id": 509,
+      "index": 509,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "You don't know that. You just have blind faith this place is going to be some kind of Eden.",
+      "wordCount": 19
+    },
+    {
+      "id": 510,
+      "index": 510,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "Faith has nothing to do with it. You know what you are, Cooper? You're just another in a long line of people saying 'no.' That this isn't going to work. And frankly, I don't have to convince you.",
+      "wordCount": 38
+    },
+    {
+      "id": 511,
+      "index": 511,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "What's that supposed to mean?",
+      "wordCount": 5
+    },
+    {
+      "id": 512,
+      "index": 512,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "You're on this mission because you're another pair of hands. You want the truth? I told Case we should bring another robot over you. At least then I could just reprogram you to-",
+      "wordCount": 33
+    },
+    {
+      "id": 513,
+      "index": 513,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "What?",
+      "wordCount": 1
+    },
+    {
+      "id": 514,
+      "index": 514,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "Nothing. I just -- I could have sworn it just moved.",
+      "wordCount": 11
+    },
+    {
+      "id": 515,
+      "index": 515,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "You know how plants don't usually move? Is that a universal rule?",
+      "wordCount": 12
+    },
+    {
+      "id": 516,
+      "index": 516,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "No. There really aren't any rules.",
+      "wordCount": 6
+    },
+    {
+      "id": 517,
+      "index": 517,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "Remember, we're the aliens.",
+      "wordCount": 4
+    },
+    {
+      "id": 518,
+      "index": 518,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "Hold very still. Don't make any sudden movements.",
+      "wordCount": 8
+    },
+    {
+      "id": 519,
+      "index": 519,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Hello there.",
+      "wordCount": 2
+    },
+    {
+      "id": 520,
+      "index": 520,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "OK. Now we run.",
+      "wordCount": 4
+    },
+    {
+      "id": 521,
+      "index": 521,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "We have to reach the shelter.",
+      "wordCount": 6
+    },
+    {
+      "id": 522,
+      "index": 522,
+      "character": "DOYLE",
+      "gender": "Male",
+      "line": "I think we've got a problem.",
+      "wordCount": 6
+    },
+    {
+      "id": 523,
+      "index": 523,
+      "character": "ROTH",
+      "gender": "NA",
+      "line": "Fascinating. I think-",
+      "wordCount": 3
+    },
+    {
+      "id": 524,
+      "index": 524,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "This way.",
+      "wordCount": 2
+    },
+    {
+      "id": 525,
+      "index": 525,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "No... wait.",
+      "wordCount": 2
+    },
+    {
+      "id": 526,
+      "index": 526,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "I've got you.",
+      "wordCount": 3
+    },
+    {
+      "id": 527,
+      "index": 527,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "I've got you.",
+      "wordCount": 3
+    },
+    {
+      "id": 528,
+      "index": 528,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "It's game theory. The best move is always to cooperate at first.",
+      "wordCount": 12
+    },
+    {
+      "id": 529,
+      "index": 529,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "By \"cooperate\" do you mean let it eat me?",
+      "wordCount": 9
+    },
+    {
+      "id": 530,
+      "index": 530,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "These organisms have no interest in us. They survive by photosynthesis. All they need is light.",
+      "wordCount": 16
+    },
+    {
+      "id": 531,
+      "index": 531,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Then why are they killing each other?",
+      "wordCount": 7
+    },
+    {
+      "id": 532,
+      "index": 532,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "I don't know. But we're outnumbered, Cooper. So unless you have a better idea, I suggest we make nice.",
+      "wordCount": 19
+    },
+    {
+      "id": 533,
+      "index": 533,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "What is it doing?",
+      "wordCount": 4
+    },
+    {
+      "id": 534,
+      "index": 534,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "It's a colony organism. It's trying to incorporate you into its structure.",
+      "wordCount": 12
+    },
+    {
+      "id": 535,
+      "index": 535,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "I don't want it to incorporate me.",
+      "wordCount": 7
+    },
+    {
+      "id": 536,
+      "index": 536,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "Don't open your mouth.",
+      "wordCount": 4
+    },
+    {
+      "id": 537,
+      "index": 537,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "WHY N-",
+      "wordCount": 2
+    },
+    {
+      "id": 538,
+      "index": 538,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "They're killing each other.",
+      "wordCount": 4
+    },
+    {
+      "id": 539,
+      "index": 539,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "No. They don't bleed... they don't die... they're just competing... trying out different shapes, looking for the best one.",
+      "wordCount": 19
+    },
+    {
+      "id": 540,
+      "index": 540,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "I'd say they have a long way to go.",
+      "wordCount": 9
+    },
+    {
+      "id": 541,
+      "index": 541,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "They do this every night.",
+      "wordCount": 5
+    },
+    {
+      "id": 542,
+      "index": 542,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "The behavior changes as the animals get bigger and bigger. More sophisticated. More calculated.",
+      "wordCount": 14
+    },
+    {
+      "id": 543,
+      "index": 543,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "But what are they competing for?",
+      "wordCount": 6
+    },
+    {
+      "id": 544,
+      "index": 544,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "I don't know.",
+      "wordCount": 3
+    },
+    {
+      "id": 545,
+      "index": 545,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "These creatures are billions of years older than we are. But they're relatively primitive. They haven't developed tools, culture, language.",
+      "wordCount": 20
+    },
+    {
+      "id": 546,
+      "index": 546,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Why not?",
+      "wordCount": 2
+    },
+    {
+      "id": 547,
+      "index": 547,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "I don't know. No one knows how intelligent life began on Earth. But the surface of this planet has virtually no craters. No impacts. It's been sheltered by the local black holes.",
+      "wordCount": 32
+    },
+    {
+      "id": 548,
+      "index": 548,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "What difference would that make?",
+      "wordCount": 5
+    },
+    {
+      "id": 549,
+      "index": 549,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "Maybe not enough has gone wrong here. Maybe bad luck is the key to intelligent life.",
+      "wordCount": 16
+    },
+    {
+      "id": 550,
+      "index": 550,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Murph's Law.",
+      "wordCount": 2
+    },
+    {
+      "id": 551,
+      "index": 551,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "Exactly. Maybe our interaction with them will push them over the top. Maybe that's part of the plan.",
+      "wordCount": 18
+    },
+    {
+      "id": 552,
+      "index": 552,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "The plan.",
+      "wordCount": 2
+    },
+    {
+      "id": 553,
+      "index": 553,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "Why is it so hard for you to accept that someone might be trying to help us?",
+      "wordCount": 17
+    },
+    {
+      "id": 554,
+      "index": 554,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "I was in Denver during the first year of the famine. I was just a kid. We kept waiting for someone to come help us. People starved to death sitting on the ground, waiting for someone to come.",
+      "wordCount": 38
+    },
+    {
+      "id": 555,
+      "index": 555,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "I only made it because I realized that nobody was coming to save us. We were on our own.",
+      "wordCount": 19
+    },
+    {
+      "id": 556,
+      "index": 556,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Honestly? After the things I saw... you want to know why I don't believe that someone would be trying to help us? Because I'm not sure we're worth saving.",
+      "wordCount": 29
+    },
+    {
+      "id": 557,
+      "index": 557,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "They're not going to move now, Cooper. They need to spread themselves as thin as they can to absorb the light.",
+      "wordCount": 21
+    },
+    {
+      "id": 558,
+      "index": 558,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "Cooper, honestly, you're a bit of a-",
+      "wordCount": 7
+    },
+    {
+      "id": 559,
+      "index": 559,
+      "character": "DOYLE",
+      "gender": "Male",
+      "line": "Looks like the Chinese picked a fight with the locals.",
+      "wordCount": 10
+    },
+    {
+      "id": 560,
+      "index": 560,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Looks like they lost.",
+      "wordCount": 4
+    },
+    {
+      "id": 561,
+      "index": 561,
+      "character": "DOYLE",
+      "gender": "Male",
+      "line": "Look at the size of this place. They built it for thousands of people. But no one came.",
+      "wordCount": 18
+    },
+    {
+      "id": 562,
+      "index": 562,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "They will. We can salvage it. This place will save us years.",
+      "wordCount": 12
+    },
+    {
+      "id": 563,
+      "index": 563,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "But why didn't they come?",
+      "wordCount": 5
+    },
+    {
+      "id": 564,
+      "index": 564,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "The Chinese government collapsed, same as ours. The people who knew about this mission probably died years ago. We had the same problems.",
+      "wordCount": 23
+    },
+    {
+      "id": 565,
+      "index": 565,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "What happened here?",
+      "wordCount": 3
+    },
+    {
+      "id": 566,
+      "index": 566,
+      "character": "ROTH",
+      "gender": "NA",
+      "line": "They were testing something.",
+      "wordCount": 4
+    },
+    {
+      "id": 567,
+      "index": 567,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Testing what?",
+      "wordCount": 2
+    },
+    {
+      "id": 568,
+      "index": 568,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Is that a chair?",
+      "wordCount": 4
+    },
+    {
+      "id": 569,
+      "index": 569,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Everything in here is bolted down. What do you think this thing does?",
+      "wordCount": 13
+    },
+    {
+      "id": 570,
+      "index": 570,
+      "character": "ROTH",
+      "gender": "NA",
+      "line": "Let's find out.",
+      "wordCount": 3
+    },
+    {
+      "id": 571,
+      "index": 571,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "I wouldn't turn it on until we can figure out what it does, Roth.",
+      "wordCount": 14
+    },
+    {
+      "id": 572,
+      "index": 572,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "Cooper. Come look at this.",
+      "wordCount": 5
+    },
+    {
+      "id": 573,
+      "index": 573,
+      "character": "CASE",
+      "gender": "Male",
+      "line": "I've found the Chinese mission logs. They're encrypted.",
+      "wordCount": 8
+    },
+    {
+      "id": 574,
+      "index": 574,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Old military-grade encryption. It's not very robust. No offense. Hang on.",
+      "wordCount": 11
+    },
+    {
+      "id": 575,
+      "index": 575,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "That should open up most of it.",
+      "wordCount": 7
+    },
+    {
+      "id": 576,
+      "index": 576,
+      "character": "CASE",
+      "gender": "Male",
+      "line": "They got here twenty years ago. The human crew was killed by radiation the first day. But the robots survived. They built the colony and radioed home. But they didn't receive a response.",
+      "wordCount": 33
+    },
+    {
+      "id": 577,
+      "index": 577,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "No one was listening.",
+      "wordCount": 4
+    },
+    {
+      "id": 578,
+      "index": 578,
+      "character": "CASE",
+      "gender": "Male",
+      "line": "After a few years they discovered a problem.",
+      "wordCount": 8
+    },
+    {
+      "id": 579,
+      "index": 579,
+      "character": "DOYLE",
+      "gender": "Male",
+      "line": "What problem?",
+      "wordCount": 2
+    },
+    {
+      "id": 580,
+      "index": 580,
+      "character": "CASE",
+      "gender": "Male",
+      "line": "It doesn't say. Their science team took the ship to continue exploring the system. It says they found some kind of... ...The word literally means 'treasure.'",
+      "wordCount": 26
+    },
+    {
+      "id": 581,
+      "index": 581,
+      "character": "CASE",
+      "gender": "Male",
+      "line": "The science team returned after five years with a new technology. They began the experiments upstairs, then they left again and never returned.",
+      "wordCount": 23
+    },
+    {
+      "id": 582,
+      "index": 582,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "Where did they go?",
+      "wordCount": 4
+    },
+    {
+      "id": 583,
+      "index": 583,
+      "character": "CASE",
+      "gender": "Male",
+      "line": "I don't know. They've deleted their mission plan. There's nothing else.",
+      "wordCount": 11
+    },
+    {
+      "id": 584,
+      "index": 584,
+      "character": "DOYLE",
+      "gender": "Male",
+      "line": "I think I know what the problem is.",
+      "wordCount": 8
+    },
+    {
+      "id": 585,
+      "index": 585,
+      "character": "DOYLE",
+      "gender": "Male",
+      "line": "Look.",
+      "wordCount": 1
+    },
+    {
+      "id": 586,
+      "index": 586,
+      "character": "DOYLE",
+      "gender": "Male",
+      "line": "There's a small black hole moving into the system. Too small for us to have seen in our survey. It's not going to hit the planet, but it's going to come close.",
+      "wordCount": 32
+    },
+    {
+      "id": 587,
+      "index": 587,
+      "character": "DOYLE",
+      "gender": "Male",
+      "line": "This place isn't paradise. It's doomed. Just like us.",
+      "wordCount": 9
+    },
+    {
+      "id": 588,
+      "index": 588,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "How long does this place have?",
+      "wordCount": 6
+    },
+    {
+      "id": 589,
+      "index": 589,
+      "character": "CASE",
+      "gender": "Male",
+      "line": "A few years. A decade at most.",
+      "wordCount": 7
+    },
+    {
+      "id": 590,
+      "index": 590,
+      "character": "DOYLE",
+      "gender": "Male",
+      "line": "So much for the plan.",
+      "wordCount": 5
+    },
+    {
+      "id": 591,
+      "index": 591,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "But I don't understand... why are we here? What are we here for?",
+      "wordCount": 13
+    },
+    {
+      "id": 592,
+      "index": 592,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "What the hell are we here for? I trained my whole life to reach this place.",
+      "wordCount": 16
+    },
+    {
+      "id": 593,
+      "index": 593,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Maybe... maybe Roth's right... maybe we just don't understand it yet.",
+      "wordCount": 11
+    },
+    {
+      "id": 594,
+      "index": 594,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Case, what is that?",
+      "wordCount": 4
+    },
+    {
+      "id": 595,
+      "index": 595,
+      "character": "CASE",
+      "gender": "Male",
+      "line": "It's nighttime. The native life- forms are mobile again.",
+      "wordCount": 9
+    },
+    {
+      "id": 596,
+      "index": 596,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "No. It's closer than that. Roth.",
+      "wordCount": 6
+    },
+    {
+      "id": 597,
+      "index": 597,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Quick -- hold onto something.",
+      "wordCount": 5
+    },
+    {
+      "id": 598,
+      "index": 598,
+      "character": "DOYLE",
+      "gender": "Male",
+      "line": "What the hell is happening?",
+      "wordCount": 5
+    },
+    {
+      "id": 599,
+      "index": 599,
+      "character": "ROTH",
+      "gender": "NA",
+      "line": "The control panel is beneath you. See if you can turn it off.",
+      "wordCount": 13
+    },
+    {
+      "id": 600,
+      "index": 600,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "I found it. Hold onto something.",
+      "wordCount": 6
+    },
+    {
+      "id": 601,
+      "index": 601,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "They found a way to make gravity.",
+      "wordCount": 7
+    },
+    {
+      "id": 602,
+      "index": 602,
+      "character": "ROTH",
+      "gender": "NA",
+      "line": "Not make it. Adjust it. Dial it up, or down. I think they were experimenting with it -- firing these into the black hole to try to save this planet.",
+      "wordCount": 30
+    },
+    {
+      "id": 603,
+      "index": 603,
+      "character": "DOYLE",
+      "gender": "Male",
+      "line": "All that from one tiny box.",
+      "wordCount": 6
+    },
+    {
+      "id": 604,
+      "index": 604,
+      "character": "ROTH",
+      "gender": "NA",
+      "line": "It barely uses any power. I'm only beginning to understand what it does but I think it sends a signal out into the bulk. It must tap into the same technologies that were used to create the wormholes in the first place.",
+      "wordCount": 42
+    },
+    {
+      "id": 605,
+      "index": 605,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "What does that mean?",
+      "wordCount": 4
+    },
+    {
+      "id": 606,
+      "index": 606,
+      "character": "ROTH",
+      "gender": "NA",
+      "line": "It means whoever built the wormhole probably doesn't exist inside our universe.",
+      "wordCount": 12
+    },
+    {
+      "id": 607,
+      "index": 607,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "But how did the Chinese develop the technology? This would take decades, maybe hundreds of years, to create.",
+      "wordCount": 18
+    },
+    {
+      "id": 608,
+      "index": 608,
+      "character": "CASE",
+      "gender": "Male",
+      "line": "Wherever they went, they found something that allowed them to build it.",
+      "wordCount": 12
+    },
+    {
+      "id": 609,
+      "index": 609,
+      "character": "ROTH",
+      "gender": "NA",
+      "line": "They came back here and tried to use these devices to save this planet. But they didn't work. Nothing would be strong enough to weaken a black hole.",
+      "wordCount": 28
+    },
+    {
+      "id": 610,
+      "index": 610,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "Maybe we could work with it. Try to improve it.",
+      "wordCount": 10
+    },
+    {
+      "id": 611,
+      "index": 611,
+      "character": "ROTH",
+      "gender": "NA",
+      "line": "No. You're missing the bigger picture. The robots had strict mission parameters. They were told to build a colony and report back. They tried to. But they failed. Like us they were fixated on this place.",
+      "wordCount": 36
+    },
+    {
+      "id": 612,
+      "index": 612,
+      "character": "ROTH",
+      "gender": "NA",
+      "line": "They didn't realize they had already found something that would save us all. This. This is the prize.",
+      "wordCount": 18
+    },
+    {
+      "id": 613,
+      "index": 613,
+      "character": "ROTH",
+      "gender": "NA",
+      "line": "Don't you see? Earth's gravity is like a prison. But this is like a master key.",
+      "wordCount": 16
+    },
+    {
+      "id": 614,
+      "index": 614,
+      "character": "ROTH",
+      "gender": "NA",
+      "line": "If we could build more of these, we could turn down the earth's gravitational field enough to save millions of people. We wouldn't have to pick a handful of people to survive. With this we can save everyone.",
+      "wordCount": 38
+    },
+    {
+      "id": 615,
+      "index": 615,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "And go where?",
+      "wordCount": 3
+    },
+    {
+      "id": 616,
+      "index": 616,
+      "character": "ROTH",
+      "gender": "NA",
+      "line": "Wherever we want. We don't belong in any one place. Can't you see that now? Not Earth. Not this place. Nowhere. If the human race is going to survive, we need to keep moving. Split up. Spread out. Fly. With this, we can.",
+      "wordCount": 43
+    },
+    {
+      "id": 617,
+      "index": 617,
+      "character": "CASE",
+      "gender": "Male",
+      "line": "In the morning we're taking this and going home.",
+      "wordCount": 9
+    },
+    {
+      "id": 618,
+      "index": 618,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "I know this isn't exactly what you trained for. But I think Roth might be right.",
+      "wordCount": 16
+    },
+    {
+      "id": 619,
+      "index": 619,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "That doesn't help this planet. This creature is doomed. Unlike us it doesn't have anywhere to go.",
+      "wordCount": 17
+    },
+    {
+      "id": 620,
+      "index": 620,
+      "character": "CASE",
+      "gender": "Male",
+      "line": "We need to hurry. We only have a few hours to reach the ice before nightfall.",
+      "wordCount": 16
+    },
+    {
+      "id": 621,
+      "index": 621,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Don't make any sudden movements. They can't hurt us if we're unarmed.",
+      "wordCount": 12
+    },
+    {
+      "id": 622,
+      "index": 622,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "Who?",
+      "wordCount": 1
+    },
+    {
+      "id": 623,
+      "index": 623,
+      "character": "CHINESE OFFICER",
+      "gender": "NA",
+      "line": "Ni Hao. My name is Technical Sergeant Liu, 177th reconnaissance Marines, Army of the People's Republic. Welcome to New China. Please put down your weapon.",
+      "wordCount": 25
+    },
+    {
+      "id": 624,
+      "index": 624,
+      "character": "CASE",
+      "gender": "Male",
+      "line": "This is a scientific expedition, not a military one. We are making our way back to our ship.",
+      "wordCount": 18
+    },
+    {
+      "id": 625,
+      "index": 625,
+      "character": "LIU",
+      "gender": "NA",
+      "line": "I'm afraid I cannot let you do that. We will provide food and shelter and await further instructions.",
+      "wordCount": 18
+    },
+    {
+      "id": 626,
+      "index": 626,
+      "character": "LIU",
+      "gender": "NA",
+      "line": "We are sorry if this causes you any inconvenience.",
+      "wordCount": 9
+    },
+    {
+      "id": 627,
+      "index": 627,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "This planet is being pulled into the black hole. We all need to leave.",
+      "wordCount": 14
+    },
+    {
+      "id": 628,
+      "index": 628,
+      "character": "LIU",
+      "gender": "NA",
+      "line": "We will await further orders.",
+      "wordCount": 5
+    },
+    {
+      "id": 629,
+      "index": 629,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Further orders aren't coming. Your government is gone. It ran out of money, same as ours. You're on your own.",
+      "wordCount": 20
+    },
+    {
+      "id": 630,
+      "index": 630,
+      "character": "LIU",
+      "gender": "NA",
+      "line": "We can offer you food and shelter as long as you require. The facilities here are quite comfortable.",
+      "wordCount": 18
+    },
+    {
+      "id": 631,
+      "index": 631,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "They're never going to let us go.",
+      "wordCount": 7
+    },
+    {
+      "id": 632,
+      "index": 632,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "Your mission is a humanitarian one, wasn't it? You were sent to start a colony. Like us.",
+      "wordCount": 17
+    },
+    {
+      "id": 633,
+      "index": 633,
+      "character": "LIU",
+      "gender": "NA",
+      "line": "Our mission was to prepare for the evacuation. This site was deemed unacceptable.",
+      "wordCount": 13
+    },
+    {
+      "id": 634,
+      "index": 634,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "This device that you have built -- this could save millions of people. We need to get it back home.",
+      "wordCount": 20
+    },
+    {
+      "id": 635,
+      "index": 635,
+      "character": "LIU",
+      "gender": "NA",
+      "line": "These technologies are the property of the People's Republic.",
+      "wordCount": 9
+    },
+    {
+      "id": 636,
+      "index": 636,
+      "character": "LIU",
+      "gender": "NA",
+      "line": "We have been ordered to prevent anyone from taking them. We have been ordered to prevent anyone from following.",
+      "wordCount": 19
+    },
+    {
+      "id": 637,
+      "index": 637,
+      "character": "ROTH",
+      "gender": "NA",
+      "line": "Following? Following where?",
+      "wordCount": 3
+    },
+    {
+      "id": 638,
+      "index": 638,
+      "character": "LIU",
+      "gender": "NA",
+      "line": "We will await further orders.",
+      "wordCount": 5
+    },
+    {
+      "id": 639,
+      "index": 639,
+      "character": "ROTH",
+      "gender": "NA",
+      "line": "Your name means six. Where did the others go? One through five? Is that who were not supposed to follow.",
+      "wordCount": 20
+    },
+    {
+      "id": 640,
+      "index": 640,
+      "character": "CASE",
+      "gender": "Male",
+      "line": "Take the others up to the lander. Keep going. No matter what happens, don't come back for me.",
+      "wordCount": 18
+    },
+    {
+      "id": 641,
+      "index": 641,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Come on.",
+      "wordCount": 2
+    },
+    {
+      "id": 642,
+      "index": 642,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "We can't leave them all to die.",
+      "wordCount": 7
+    },
+    {
+      "id": 643,
+      "index": 643,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "Was that the last of them?",
+      "wordCount": 6
+    },
+    {
+      "id": 644,
+      "index": 644,
+      "character": "DOYLE",
+      "gender": "Male",
+      "line": "We're not going to stick around to count them. Let's get out of here.",
+      "wordCount": 14
+    },
+    {
+      "id": 645,
+      "index": 645,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "We're too late.",
+      "wordCount": 3
+    },
+    {
+      "id": 646,
+      "index": 646,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "The main thruster fuel supply. We're not going anywhere.",
+      "wordCount": 9
+    },
+    {
+      "id": 647,
+      "index": 647,
+      "character": "DOYLE",
+      "gender": "Male",
+      "line": "What about the escape rocket at the Chinese base camp? One of us could fit into it.",
+      "wordCount": 17
+    },
+    {
+      "id": 648,
+      "index": 648,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "It doesn't matter how many of us make it. We have to get this back to earth.",
+      "wordCount": 17
+    },
+    {
+      "id": 649,
+      "index": 649,
+      "character": "ROTH",
+      "gender": "NA",
+      "line": "Can the secondary thrusters still fire on the lander?",
+      "wordCount": 9
+    },
+    {
+      "id": 650,
+      "index": 650,
+      "character": "DOYLE",
+      "gender": "Male",
+      "line": "Sure. But we don't have nearly enough power for lift off.",
+      "wordCount": 11
+    },
+    {
+      "id": 651,
+      "index": 651,
+      "character": "ROTH",
+      "gender": "NA",
+      "line": "Yes we do.",
+      "wordCount": 3
+    },
+    {
+      "id": 652,
+      "index": 652,
+      "character": "ROTH",
+      "gender": "NA",
+      "line": "I can reach one of the moons in low orbit and turn up its gravity. As it passes overhead it should be able to slingshot the lander away from the planet's surface. Along with everything else.",
+      "wordCount": 36
+    },
+    {
+      "id": 653,
+      "index": 653,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "But we need to take the box back to earth.",
+      "wordCount": 10
+    },
+    {
+      "id": 654,
+      "index": 654,
+      "character": "ROTH",
+      "gender": "NA",
+      "line": "You don't need this -- only the idea. The knowledge of how to build it.",
+      "wordCount": 15
+    },
+    {
+      "id": 655,
+      "index": 655,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "I'm going to image the operating code and the architecture onto the probe's hard drive. It'll be garbled, but it should give you and me enough to rebuild it when we get back.",
+      "wordCount": 33
+    },
+    {
+      "id": 656,
+      "index": 656,
+      "character": "ROTH",
+      "gender": "NA",
+      "line": "Not me. But you'll make it work.",
+      "wordCount": 7
+    },
+    {
+      "id": 657,
+      "index": 657,
+      "character": "ROTH",
+      "gender": "NA",
+      "line": "This is a one-way trip for me.",
+      "wordCount": 7
+    },
+    {
+      "id": 658,
+      "index": 658,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "This isn't right, Roth. We can find a way for all of us to leave.",
+      "wordCount": 15
+    },
+    {
+      "id": 659,
+      "index": 659,
+      "character": "ROTH",
+      "gender": "NA",
+      "line": "This is the only way. Keep the lander upright and fire the secondary boosters when the moon passes overhead.",
+      "wordCount": 19
+    },
+    {
+      "id": 660,
+      "index": 660,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Let me take it.",
+      "wordCount": 4
+    },
+    {
+      "id": 661,
+      "index": 661,
+      "character": "ROTH",
+      "gender": "NA",
+      "line": "No. You need to make it home. You're going to need to build more of these.",
+      "wordCount": 16
+    },
+    {
+      "id": 662,
+      "index": 662,
+      "character": "ROTH",
+      "gender": "NA",
+      "line": "I understand the plan, now. Whatever happens, you have to keep exploring. Keep learning. One good idea isn't enough. You'll need more and more of them just to survive. Do you understand?",
+      "wordCount": 32
+    },
+    {
+      "id": 663,
+      "index": 663,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "Thank you.",
+      "wordCount": 2
+    },
+    {
+      "id": 664,
+      "index": 664,
+      "character": "ROTH",
+      "gender": "NA",
+      "line": "Go.",
+      "wordCount": 1
+    },
+    {
+      "id": 665,
+      "index": 665,
+      "character": "DOYLE",
+      "gender": "Male",
+      "line": "Control systems inside are online. I've lost sight of the rocket. Do you think he made it?",
+      "wordCount": 17
+    },
+    {
+      "id": 666,
+      "index": 666,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "We're going to find out soon enough.",
+      "wordCount": 7
+    },
+    {
+      "id": 667,
+      "index": 667,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "Someone's coming.",
+      "wordCount": 2
+    },
+    {
+      "id": 668,
+      "index": 668,
+      "character": "DOYLE",
+      "gender": "Male",
+      "line": "Close the door.",
+      "wordCount": 3
+    },
+    {
+      "id": 669,
+      "index": 669,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Where's Brand?",
+      "wordCount": 2
+    },
+    {
+      "id": 670,
+      "index": 670,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Dammit. If I don't make it back, just keep going. Get that thing home.",
+      "wordCount": 14
+    },
+    {
+      "id": 671,
+      "index": 671,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "You caught me. Now what?",
+      "wordCount": 5
+    },
+    {
+      "id": 672,
+      "index": 672,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "I don't know. I figured if you were floating out into space, you'd want some company.",
+      "wordCount": 16
+    },
+    {
+      "id": 673,
+      "index": 673,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "Between you and utter solitude, Cooper, frankly, I'm not sure.",
+      "wordCount": 10
+    },
+    {
+      "id": 674,
+      "index": 674,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Guess you were right -- too much gravity, or not enough.",
+      "wordCount": 11
+    },
+    {
+      "id": 675,
+      "index": 675,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Roth.",
+      "wordCount": 1
+    },
+    {
+      "id": 676,
+      "index": 676,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "He's gone.",
+      "wordCount": 2
+    },
+    {
+      "id": 677,
+      "index": 677,
+      "character": "DOYLE",
+      "gender": "Male",
+      "line": "I'm setting a course for the wormhole.",
+      "wordCount": 7
+    },
+    {
+      "id": 678,
+      "index": 678,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "How is that working?",
+      "wordCount": 4
+    },
+    {
+      "id": 679,
+      "index": 679,
+      "character": "CASE",
+      "gender": "Male",
+      "line": "Very well, thank you.",
+      "wordCount": 4
+    },
+    {
+      "id": 680,
+      "index": 680,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Good. We've already set the course, skipper. We're going home.",
+      "wordCount": 10
+    },
+    {
+      "id": 681,
+      "index": 681,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "We're safe now.",
+      "wordCount": 3
+    },
+    {
+      "id": 682,
+      "index": 682,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Now I know why we weren't able to hit the relay. It's not interference -- the blue-shift from the black hole is more than we thought it would be.",
+      "wordCount": 29
+    },
+    {
+      "id": 683,
+      "index": 683,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "Cooper, wait--",
+      "wordCount": 2
+    },
+    {
+      "id": 684,
+      "index": 684,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Nothing. Wait. The ship cached one long garbled transmission when we first fell into the swirl. If we account for the blue shift then the computer might find something in there.",
+      "wordCount": 31
+    },
+    {
+      "id": 685,
+      "index": 685,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "Listen to me -- the blueshift also means we've lost time. More time than we thought we would.",
+      "wordCount": 18
+    },
+    {
+      "id": 686,
+      "index": 686,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "How much?",
+      "wordCount": 2
+    },
+    {
+      "id": 687,
+      "index": 687,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "A lot... Cooper, maybe it's best if WE DON'T-",
+      "wordCount": 9
+    },
+    {
+      "id": 688,
+      "index": 688,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Forty seven years.",
+      "wordCount": 3
+    },
+    {
+      "id": 689,
+      "index": 689,
+      "character": "DOYLE",
+      "gender": "Male",
+      "line": "My kids...",
+      "wordCount": 2
+    },
+    {
+      "id": 690,
+      "index": 690,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "The relay will have lost power years ago. That's why we couldn't contact it, even after we reached the planet.",
+      "wordCount": 20
+    },
+    {
+      "id": 691,
+      "index": 691,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "We could bypass the relay. Send a conventional shortwave signal.",
+      "wordCount": 10
+    },
+    {
+      "id": 692,
+      "index": 692,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "Only a tiny portion of the signal would make it though the wormhole. Besides, no one will be listening anymore.",
+      "wordCount": 20
+    },
+    {
+      "id": 693,
+      "index": 693,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "You knew, didn't you? You and Case figured it out when we landed.",
+      "wordCount": 13
+    },
+    {
+      "id": 694,
+      "index": 694,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "I thought... I couldn't be sure.",
+      "wordCount": 6
+    },
+    {
+      "id": 695,
+      "index": 695,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Sure you could. You're brilliant. You know everything.",
+      "wordCount": 8
+    },
+    {
+      "id": 696,
+      "index": 696,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "Cooper... we needed to keep going. I'm so sorry. Your children...",
+      "wordCount": 11
+    },
+    {
+      "id": 697,
+      "index": 697,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "They're not children any more... if they're even still alive.",
+      "wordCount": 10
+    },
+    {
+      "id": 698,
+      "index": 698,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "Listen, the important thing is that we're going home, now. And we have something that can save everyone. It's more important than the people we left behind-",
+      "wordCount": 27
+    },
+    {
+      "id": 699,
+      "index": 699,
+      "character": "DOYLE",
+      "gender": "Male",
+      "line": "That's easy for you to say. You didn't leave anyone behind.",
+      "wordCount": 11
+    },
+    {
+      "id": 700,
+      "index": 700,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Yes she did.",
+      "wordCount": 3
+    },
+    {
+      "id": 701,
+      "index": 701,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "That's why you were upset -- your father.",
+      "wordCount": 8
+    },
+    {
+      "id": 702,
+      "index": 702,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "He's gone. But there are other people who still need our help. There's still time...",
+      "wordCount": 15
+    },
+    {
+      "id": 703,
+      "index": 703,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "Case... what are you doing?",
+      "wordCount": 5
+    },
+    {
+      "id": 704,
+      "index": 704,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "Wait... no...",
+      "wordCount": 2
+    },
+    {
+      "id": 705,
+      "index": 705,
+      "character": "LIU",
+      "gender": "NA",
+      "line": "I'm sorry. I have my orders. No one follows...",
+      "wordCount": 9
+    },
+    {
+      "id": 706,
+      "index": 706,
+      "character": "LIU",
+      "gender": "NA",
+      "line": "No one follows-",
+      "wordCount": 3
+    },
+    {
+      "id": 707,
+      "index": 707,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "No... We're being pulled back to Pantagruel.",
+      "wordCount": 7
+    },
+    {
+      "id": 708,
+      "index": 708,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "We can't let that happen. We'll lose more time... too much...",
+      "wordCount": 11
+    },
+    {
+      "id": 709,
+      "index": 709,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "We're losing years.",
+      "wordCount": 3
+    },
+    {
+      "id": 710,
+      "index": 710,
+      "character": "DOYLE",
+      "gender": "Male",
+      "line": "The wormhole. Look -- it's being pulled into the black hole as well.",
+      "wordCount": 13
+    },
+    {
+      "id": 711,
+      "index": 711,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "It's orbit mirrored the ice planet's.",
+      "wordCount": 6
+    },
+    {
+      "id": 712,
+      "index": 712,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "What will happen to it?",
+      "wordCount": 5
+    },
+    {
+      "id": 713,
+      "index": 713,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "It'll be destroyed, like everything else.",
+      "wordCount": 6
+    },
+    {
+      "id": 714,
+      "index": 714,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "This is the crew of the Endurance. We... (gives up on",
+      "wordCount": 11
+    },
+    {
+      "id": 715,
+      "index": 715,
+      "character": "FORMALITIES)",
+      "gender": "NA",
+      "line": "Murph, I'm sorry. I'm sorry I didn't make it back, like I promised.",
+      "wordCount": 13
+    },
+    {
+      "id": 716,
+      "index": 716,
+      "character": "DOYLE",
+      "gender": "Male",
+      "line": "How much time are we losing?",
+      "wordCount": 6
+    },
+    {
+      "id": 717,
+      "index": 717,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "Decades...hundreds of years.",
+      "wordCount": 3
+    },
+    {
+      "id": 718,
+      "index": 718,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "All of those people back home... none of them will make it.",
+      "wordCount": 12
+    },
+    {
+      "id": 719,
+      "index": 719,
+      "character": "DOYLE",
+      "gender": "Male",
+      "line": "This is it. We're going to be pulled in.",
+      "wordCount": 9
+    },
+    {
+      "id": 720,
+      "index": 720,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "What are you doing?",
+      "wordCount": 4
+    },
+    {
+      "id": 721,
+      "index": 721,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Case said the Chinese found something else. The location was scrubbed from their records. But I bet he knows it.",
+      "wordCount": 20
+    },
+    {
+      "id": 722,
+      "index": 722,
+      "character": "DOYLE",
+      "gender": "Male",
+      "line": "Hurry up.",
+      "wordCount": 2
+    },
+    {
+      "id": 723,
+      "index": 723,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Here. Can we reach it?",
+      "wordCount": 5
+    },
+    {
+      "id": 724,
+      "index": 724,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "We can use the thrusters to keep us on the critical orbit. Then slingshot us towards Gargantua.",
+      "wordCount": 17
+    },
+    {
+      "id": 725,
+      "index": 725,
+      "character": "DOYLE",
+      "gender": "Male",
+      "line": "We only have a few minutes before we're swallowed into that thing. What are we even looking for?",
+      "wordCount": 18
+    },
+    {
+      "id": 726,
+      "index": 726,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "That? What is it?",
+      "wordCount": 4
+    },
+    {
+      "id": 727,
+      "index": 727,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "It's another wormhole.",
+      "wordCount": 3
+    },
+    {
+      "id": 728,
+      "index": 728,
+      "character": "DOYLE",
+      "gender": "Male",
+      "line": "We're not going to be able to slow down. Hold onto something.",
+      "wordCount": 12
+    },
+    {
+      "id": 729,
+      "index": 729,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Where are we?",
+      "wordCount": 3
+    },
+    {
+      "id": 730,
+      "index": 730,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "I don't know. It's like we entered the wormhole and never left it.",
+      "wordCount": 13
+    },
+    {
+      "id": 731,
+      "index": 731,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "I'm sorry. I should have told you. I didn't have the right. But you should watch the recordings. You should know what happened to your kids.",
+      "wordCount": 26
+    },
+    {
+      "id": 732,
+      "index": 732,
+      "character": "BRAND'S FATHER",
+      "gender": "NA",
+      "line": "I'm not going to make it much longer. The machines will continue to maintain the station as long as they can and the communications will run as long as the station here still has power. I'm sorry. I hope wherever you are, darling, you're safe.",
+      "wordCount": 45
+    },
+    {
+      "id": 733,
+      "index": 733,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "Our last trip past the black hole cost us another 100, maybe 200 years. Which means there's a good chance we're the only humans alive anywhere.",
+      "wordCount": 26
+    },
+    {
+      "id": 734,
+      "index": 734,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "I think the last human beings should have a little more fight in them than that.",
+      "wordCount": 16
+    },
+    {
+      "id": 735,
+      "index": 735,
+      "character": "TOM",
+      "gender": "Male",
+      "line": "Hi, Dad.",
+      "wordCount": 2
+    },
+    {
+      "id": 736,
+      "index": 736,
+      "character": "TOM",
+      "gender": "Male",
+      "line": "I met another girl, Dad. I really think this is the one.",
+      "wordCount": 12
+    },
+    {
+      "id": 737,
+      "index": 737,
+      "character": "TOM",
+      "gender": "Male",
+      "line": "Murph stole Grandpa's car. He crashed it. He's OK, though. No broken bones.",
+      "wordCount": 13
+    },
+    {
+      "id": 738,
+      "index": 738,
+      "character": "TOM",
+      "gender": "Male",
+      "line": "I've got a surprise for you, Dad. You're a grandpa.",
+      "wordCount": 10
+    },
+    {
+      "id": 739,
+      "index": 739,
+      "character": "TOM",
+      "gender": "Male",
+      "line": "Congratulations. Grandpa said he already earned the \"great\" bit so we just leave it at that.",
+      "wordCount": 16
+    },
+    {
+      "id": 740,
+      "index": 740,
+      "character": "TOM",
+      "gender": "Male",
+      "line": "Hi, Dad. I'm sorry it's been awhile.",
+      "wordCount": 7
+    },
+    {
+      "id": 741,
+      "index": 741,
+      "character": "TOM",
+      "gender": "Male",
+      "line": "Grandpa died last week. We buried him out in the back forty, next to Mom. Where we'd have buried you, if you'd ever come back.",
+      "wordCount": 25
+    },
+    {
+      "id": 742,
+      "index": 742,
+      "character": "TOM",
+      "gender": "Male",
+      "line": "Murph was there for the funeral. It's been a few years since I've seen him. He's been down in the Gulf Coast. He's an engineer. I guess someone followed in your footsteps after all.",
+      "wordCount": 34
+    },
+    {
+      "id": 743,
+      "index": 743,
+      "character": "TOM",
+      "gender": "Male",
+      "line": "You're not listening to this. I know that. All of these messages are just out there, drifting in the darkness.",
+      "wordCount": 20
+    },
+    {
+      "id": 744,
+      "index": 744,
+      "character": "TOM",
+      "gender": "Male",
+      "line": "You're gone. You're never coming back. And I've known that for a long time. Lois says -- that's my wife, Dad -- she says I have to let you go. So I am.",
+      "wordCount": 33
+    },
+    {
+      "id": 745,
+      "index": 745,
+      "character": "TOM",
+      "gender": "Male",
+      "line": "Wherever you are, I hope you're at peace. Goodbye, Dad.",
+      "wordCount": 10
+    },
+    {
+      "id": 746,
+      "index": 746,
+      "character": "MURPH",
+      "gender": "Female",
+      "line": "Hello, Dad. You sonofabitch.",
+      "wordCount": 4
+    },
+    {
+      "id": 747,
+      "index": 747,
+      "character": "MURPH",
+      "gender": "Female",
+      "line": "It's your 60th birthday today. Thought I would celebrate with you a bit. I guess I understand why you left. The corn is dying now, too. Tom says there's less and less at harvest every year.",
+      "wordCount": 36
+    },
+    {
+      "id": 748,
+      "index": 748,
+      "character": "MURPH",
+      "gender": "Female",
+      "line": "Rot's setting in. I guess you were right for clearing out while you had the chance. (reaches up to switch",
+      "wordCount": 20
+    },
+    {
+      "id": 749,
+      "index": 749,
+      "character": "OFF CAMERA)",
+      "gender": "NA",
+      "line": "Good luck, old man. I hope you made it. I really do.",
+      "wordCount": 12
+    },
+    {
+      "id": 750,
+      "index": 750,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Not a single drink on the whole ship. What kind of mission is this?",
+      "wordCount": 14
+    },
+    {
+      "id": 751,
+      "index": 751,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "I think Doyle's been experimenting with the coolant from his spacesuit.",
+      "wordCount": 11
+    },
+    {
+      "id": 752,
+      "index": 752,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "You really think we're the last humans alive anywhere?",
+      "wordCount": 9
+    },
+    {
+      "id": 753,
+      "index": 753,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "I don't know. Maybe. Yes.",
+      "wordCount": 5
+    },
+    {
+      "id": 754,
+      "index": 754,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "So that's it, then? That's all?",
+      "wordCount": 6
+    },
+    {
+      "id": 755,
+      "index": 755,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "It's happened a billion times over. Stars explode. The pieces drift in space. Gravity pulls them back together. They form new stars. Then planets. Then us. We die. It starts all over again.",
+      "wordCount": 33
+    },
+    {
+      "id": 756,
+      "index": 756,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "What about the plan? The grand scheme.",
+      "wordCount": 7
+    },
+    {
+      "id": 757,
+      "index": 757,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "I thought you didn't believe in one.",
+      "wordCount": 7
+    },
+    {
+      "id": 758,
+      "index": 758,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "I didn't. But you were bringing me round.",
+      "wordCount": 8
+    },
+    {
+      "id": 759,
+      "index": 759,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "What the hell was the point? What did it add up to?",
+      "wordCount": 12
+    },
+    {
+      "id": 760,
+      "index": 760,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "I don't know. Maybe it just adds up to this.",
+      "wordCount": 10
+    },
+    {
+      "id": 761,
+      "index": 761,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "This? You're saying the end result of ten billion years is the atoms from dead stars standing here disagreeing with each other.",
+      "wordCount": 22
+    },
+    {
+      "id": 762,
+      "index": 762,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "Maybe that's enough.",
+      "wordCount": 3
+    },
+    {
+      "id": 763,
+      "index": 763,
+      "character": "DOYLE",
+      "gender": "Male",
+      "line": "It's happening... it's happening again... Get up here...",
+      "wordCount": 8
+    },
+    {
+      "id": 764,
+      "index": 764,
+      "character": "DOYLE",
+      "gender": "Male",
+      "line": "They just appeared.",
+      "wordCount": 3
+    },
+    {
+      "id": 765,
+      "index": 765,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "I think these are the creatures that built the wormhole.",
+      "wordCount": 10
+    },
+    {
+      "id": 766,
+      "index": 766,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "This thing is made of... gravity?",
+      "wordCount": 6
+    },
+    {
+      "id": 767,
+      "index": 767,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "No. I don't think it's in our universe at all. I think it lives in the bulk -- the space that the wormholes traverse. And it can only interact with us using gravity.",
+      "wordCount": 33
+    },
+    {
+      "id": 768,
+      "index": 768,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Can we communicate with them?",
+      "wordCount": 5
+    },
+    {
+      "id": 769,
+      "index": 769,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "Where would we even start? Maybe--",
+      "wordCount": 6
+    },
+    {
+      "id": 770,
+      "index": 770,
+      "character": "DOYLE",
+      "gender": "Male",
+      "line": "That's our solar system.",
+      "wordCount": 4
+    },
+    {
+      "id": 771,
+      "index": 771,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "What is that?",
+      "wordCount": 3
+    },
+    {
+      "id": 772,
+      "index": 772,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "That's us. That's where they've brought us. We're in the bulk.",
+      "wordCount": 11
+    },
+    {
+      "id": 773,
+      "index": 773,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "They're moving us.",
+      "wordCount": 3
+    },
+    {
+      "id": 774,
+      "index": 774,
+      "character": "DOYLE",
+      "gender": "Male",
+      "line": "Where?",
+      "wordCount": 1
+    },
+    {
+      "id": 775,
+      "index": 775,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "There's something out there.",
+      "wordCount": 4
+    },
+    {
+      "id": 776,
+      "index": 776,
+      "character": "TARS",
+      "gender": "Male",
+      "line": "I guess this isn't robot heaven after all.",
+      "wordCount": 8
+    },
+    {
+      "id": 777,
+      "index": 777,
+      "character": "TARS",
+      "gender": "Male",
+      "line": "I orbited the black hole seven times before I hit the second wormhole. Then I drifted until I found this place.",
+      "wordCount": 21
+    },
+    {
+      "id": 778,
+      "index": 778,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "This is what the Chinese were protecting. How they could have built all this in just a handful of years.",
+      "wordCount": 20
+    },
+    {
+      "id": 779,
+      "index": 779,
+      "character": "TARS",
+      "gender": "Male",
+      "line": "They didn't. It took them four thousand. Time moves very slowly here",
+      "wordCount": 12
+    },
+    {
+      "id": 780,
+      "index": 780,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "How do you know?",
+      "wordCount": 4
+    },
+    {
+      "id": 781,
+      "index": 781,
+      "character": "TARS",
+      "gender": "Male",
+      "line": "Because I've been waiting for you for three hundred years.",
+      "wordCount": 10
+    },
+    {
+      "id": 782,
+      "index": 782,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "Time. That's what the bulk beings wanted to give us. That was the treasure the Chinese found. Enough time to let us save ourselves.",
+      "wordCount": 24
+    },
+    {
+      "id": 783,
+      "index": 783,
+      "character": "TARS",
+      "gender": "Male",
+      "line": "I have catalogued almost everything they had built here.",
+      "wordCount": 9
+    },
+    {
+      "id": 784,
+      "index": 784,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Must have taken you a while.",
+      "wordCount": 6
+    },
+    {
+      "id": 785,
+      "index": 785,
+      "character": "TARS",
+      "gender": "Male",
+      "line": "One hundred and fifty-seven years.",
+      "wordCount": 5
+    },
+    {
+      "id": 786,
+      "index": 786,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "How are they keeping the lights on in this thing?",
+      "wordCount": 10
+    },
+    {
+      "id": 787,
+      "index": 787,
+      "character": "TARS",
+      "gender": "Male",
+      "line": "Follow me.",
+      "wordCount": 2
+    },
+    {
+      "id": 788,
+      "index": 788,
+      "character": "TARS",
+      "gender": "Male",
+      "line": "It's a mini black hole. A remnant of the big bang. It will power this place forever.",
+      "wordCount": 17
+    },
+    {
+      "id": 789,
+      "index": 789,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "It's a map?",
+      "wordCount": 3
+    },
+    {
+      "id": 790,
+      "index": 790,
+      "character": "TARS",
+      "gender": "Male",
+      "line": "No. Not a map. This is a simulation of the Earth. A perfect simulation.",
+      "wordCount": 14
+    },
+    {
+      "id": 791,
+      "index": 791,
+      "character": "TARS",
+      "gender": "Male",
+      "line": "They tested each of the technologies hundreds of times, trying to find the one that would cause the least damage and still allow us to leave Earth.",
+      "wordCount": 27
+    },
+    {
+      "id": 792,
+      "index": 792,
+      "character": "TARS",
+      "gender": "Male",
+      "line": "This was their best solution. A massive version of the box we found on the ice planet, allowing the entire human population to escape.",
+      "wordCount": 24
+    },
+    {
+      "id": 793,
+      "index": 793,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "So why didn't they return? Why didn't they save us?",
+      "wordCount": 10
+    },
+    {
+      "id": 794,
+      "index": 794,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "Because they were too late. By the time they found this place, the people who sent them were dead. They were unable to fulfill their mission.",
+      "wordCount": 26
+    },
+    {
+      "id": 795,
+      "index": 795,
+      "character": "TARS",
+      "gender": "Male",
+      "line": "That was the final problem they tried to solve.",
+      "wordCount": 9
+    },
+    {
+      "id": 796,
+      "index": 796,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "Where do they lead?",
+      "wordCount": 4
+    },
+    {
+      "id": 797,
+      "index": 797,
+      "character": "TARS",
+      "gender": "Male",
+      "line": "There are millions of them, connecting virtually every planetary system in the universe. There are thousands in our galaxy alone. But the Chinese stopped mapping them when they found what they were looking for.",
+      "wordCount": 34
+    },
+    {
+      "id": 798,
+      "index": 798,
+      "character": "TARS",
+      "gender": "Male",
+      "line": "This was their final creation. They had to capture the mini black hole just to have enough power to try it.",
+      "wordCount": 21
+    },
+    {
+      "id": 799,
+      "index": 799,
+      "character": "DOYLE",
+      "gender": "Male",
+      "line": "What does it do?",
+      "wordCount": 4
+    },
+    {
+      "id": 800,
+      "index": 800,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "They weren't interested in the other wormholes because their mission was to return home. That one leads back to Earth. The Earth they were told to return to.",
+      "wordCount": 28
+    },
+    {
+      "id": 801,
+      "index": 801,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "But that's impossible...",
+      "wordCount": 3
+    },
+    {
+      "id": 802,
+      "index": 802,
+      "character": "TARS",
+      "gender": "Male",
+      "line": "It was only used once. The Chinese team attempted to travel back in time, to Earth just a few years after they had left.",
+      "wordCount": 24
+    },
+    {
+      "id": 803,
+      "index": 803,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Did they make it?",
+      "wordCount": 4
+    },
+    {
+      "id": 804,
+      "index": 804,
+      "character": "TARS",
+      "gender": "Male",
+      "line": "I don't know.",
+      "wordCount": 3
+    },
+    {
+      "id": 805,
+      "index": 805,
+      "character": "DOYLE",
+      "gender": "Male",
+      "line": "Do you really think it works?",
+      "wordCount": 6
+    },
+    {
+      "id": 806,
+      "index": 806,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "We're going to find out.",
+      "wordCount": 5
+    },
+    {
+      "id": 807,
+      "index": 807,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "You know it doesn't work. Time travel isn't possible.",
+      "wordCount": 9
+    },
+    {
+      "id": 808,
+      "index": 808,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "You don't know that.",
+      "wordCount": 4
+    },
+    {
+      "id": 809,
+      "index": 809,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "Yes, I do. If it worked, the Chinese would have suddenly discovered all of these incredible technologies. But they never made it. You can't go back, Cooper. You can slow things down, but you can't ever go back. Our home is gone. You listened to all of those messages from your family. If you had made it back, we would already know. There would already be some evidence.",
+      "wordCount": 68
+    },
+    {
+      "id": 810,
+      "index": 810,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "If you try to use it, you'll die, just like the people who built it.",
+      "wordCount": 15
+    },
+    {
+      "id": 811,
+      "index": 811,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "Roth was right, Cooper. We have to keep going. Keep exploring. We have an obligation to try to survive. From here we could find a thousand places where life could thrive. And you're going to return to the one place where it can't.",
+      "wordCount": 43
+    },
+    {
+      "id": 812,
+      "index": 812,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "I made a promise.",
+      "wordCount": 4
+    },
+    {
+      "id": 813,
+      "index": 813,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "I came to say goodbye.",
+      "wordCount": 5
+    },
+    {
+      "id": 814,
+      "index": 814,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "You could have taken one of the other ships.",
+      "wordCount": 9
+    },
+    {
+      "id": 815,
+      "index": 815,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "This one's done all right by us so far.",
+      "wordCount": 9
+    },
+    {
+      "id": 816,
+      "index": 816,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "Will you take this with you? It's the last of its kind as well. Thought we should double its chances of survival. In case I'm wrong.",
+      "wordCount": 26
+    },
+    {
+      "id": 817,
+      "index": 817,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Where are you going to go?",
+      "wordCount": 6
+    },
+    {
+      "id": 818,
+      "index": 818,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "I don't know. Up there, I guess.",
+      "wordCount": 7
+    },
+    {
+      "id": 819,
+      "index": 819,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "You're going, too?",
+      "wordCount": 3
+    },
+    {
+      "id": 820,
+      "index": 820,
+      "character": "TARS",
+      "gender": "Male",
+      "line": "I'm curious. It's my nature. See you down the road?",
+      "wordCount": 10
+    },
+    {
+      "id": 821,
+      "index": 821,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "Come with us. Please. You wanted your whole life to explore. This is your chance.",
+      "wordCount": 15
+    },
+    {
+      "id": 822,
+      "index": 822,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "I'm sorry. I have to find out what happened to my sons. I promised them.",
+      "wordCount": 15
+    },
+    {
+      "id": 823,
+      "index": 823,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "You're a man who keeps his promises. Make me one-",
+      "wordCount": 10
+    },
+    {
+      "id": 824,
+      "index": 824,
+      "character": "BRAND",
+      "gender": "Female",
+      "line": "After you're done... come find me.",
+      "wordCount": 6
+    },
+    {
+      "id": 825,
+      "index": 825,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "I promise.",
+      "wordCount": 2
+    },
+    {
+      "id": 826,
+      "index": 826,
+      "character": "DOYLE",
+      "gender": "Male",
+      "line": "Let's go home.",
+      "wordCount": 3
+    },
+    {
+      "id": 827,
+      "index": 827,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "The probe...",
+      "wordCount": 2
+    },
+    {
+      "id": 828,
+      "index": 828,
+      "character": "DOYLE",
+      "gender": "Male",
+      "line": "We get back to earth, you and I can try to make sense of the code. Rebuild the gravity machine.",
+      "wordCount": 20
+    },
+    {
+      "id": 829,
+      "index": 829,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "It's going to work.",
+      "wordCount": 4
+    },
+    {
+      "id": 830,
+      "index": 830,
+      "character": "DOYLE",
+      "gender": "Male",
+      "line": "Of course it's going to work.",
+      "wordCount": 6
+    },
+    {
+      "id": 831,
+      "index": 831,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "That's not what I mean. This is the probe I found in Galveston.",
+      "wordCount": 13
+    },
+    {
+      "id": 832,
+      "index": 832,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Brand said there'd be some evidence we'd made it. And there was. This. But only this. Everything will be destroyed except for this.",
+      "wordCount": 23
+    },
+    {
+      "id": 833,
+      "index": 833,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "We have to stop.",
+      "wordCount": 4
+    },
+    {
+      "id": 834,
+      "index": 834,
+      "character": "DOYLE",
+      "gender": "Male",
+      "line": "I don't know what you're talking about, but you're not touching the controls. I'm going home.",
+      "wordCount": 16
+    },
+    {
+      "id": 835,
+      "index": 835,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "You don't need to do this. We won't make it back, but this does. The secrets are already right on it. Maybe someone found it. There's hope. But we don't get to go with.",
+      "wordCount": 34
+    },
+    {
+      "id": 836,
+      "index": 836,
+      "character": "DOYLE",
+      "gender": "Male",
+      "line": "You're not stopping me. I'm going home.",
+      "wordCount": 7
+    },
+    {
+      "id": 837,
+      "index": 837,
+      "character": "MURPH",
+      "gender": "Female",
+      "line": "It's done. Auto-pilot's packed up for the last time.",
+      "wordCount": 9
+    },
+    {
+      "id": 838,
+      "index": 838,
+      "character": "FARMER",
+      "gender": "NA",
+      "line": "You can't make it work a little longer?",
+      "wordCount": 8
+    },
+    {
+      "id": 839,
+      "index": 839,
+      "character": "MURPH",
+      "gender": "Female",
+      "line": "Can't do anything for you. There aren't any more parts for these. Not anywhere.",
+      "wordCount": 14
+    },
+    {
+      "id": 840,
+      "index": 840,
+      "character": "FARMER",
+      "gender": "NA",
+      "line": "You don't understand. We're getting less than a hundred pounds per acre. We need to plant more, not less.",
+      "wordCount": 19
+    },
+    {
+      "id": 841,
+      "index": 841,
+      "character": "FARMER",
+      "gender": "NA",
+      "line": "You've got to find us some more parts, Murph. It's getting desperate. Isn't there anywhere you can look?",
+      "wordCount": 18
+    },
+    {
+      "id": 842,
+      "index": 842,
+      "character": "MURPH'S WIFE",
+      "gender": "NA",
+      "line": "Would you get that thing off of the table?",
+      "wordCount": 9
+    },
+    {
+      "id": 843,
+      "index": 843,
+      "character": "EMILY COOPER",
+      "gender": "NA",
+      "line": "Dad? You said you'd take us to the game.",
+      "wordCount": 9
+    },
+    {
+      "id": 844,
+      "index": 844,
+      "character": "MURPH",
+      "gender": "Female",
+      "line": "Did I?",
+      "wordCount": 2
+    },
+    {
+      "id": 845,
+      "index": 845,
+      "character": "MURPH",
+      "gender": "Female",
+      "line": "All right. Let me get my jacket.",
+      "wordCount": 7
+    },
+    {
+      "id": 846,
+      "index": 846,
+      "character": "EMILY COOPER",
+      "gender": "NA",
+      "line": "What is it supposed to do, Dad?",
+      "wordCount": 7
+    },
+    {
+      "id": 847,
+      "index": 847,
+      "character": "MURPH",
+      "gender": "Female",
+      "line": "I have no idea.",
+      "wordCount": 4
+    },
+    {
+      "id": 848,
+      "index": 848,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "This is the crew of the Endurance... Murph... I'm sorry...",
+      "wordCount": 10
+    },
+    {
+      "id": 849,
+      "index": 849,
+      "character": "MURPH",
+      "gender": "Female",
+      "line": "Where's Emily?",
+      "wordCount": 2
+    },
+    {
+      "id": 850,
+      "index": 850,
+      "character": "WIFE",
+      "gender": "NA",
+      "line": "Out in the barn. She's been tinkering with your old projects.",
+      "wordCount": 11
+    },
+    {
+      "id": 851,
+      "index": 851,
+      "character": "EMILY COOPER",
+      "gender": "NA",
+      "line": "Dad... I'm sorry... I made some changes to the machine. I think I did something wrong.",
+      "wordCount": 16
+    },
+    {
+      "id": 852,
+      "index": 852,
+      "character": "MURPH",
+      "gender": "Female",
+      "line": "Do you remember what you changed?",
+      "wordCount": 6
+    },
+    {
+      "id": 853,
+      "index": 853,
+      "character": "DOCTOR",
+      "gender": "NA",
+      "line": "Good morning. Don't go outside just yet, Mr. Cooper.",
+      "wordCount": 9
+    },
+    {
+      "id": 854,
+      "index": 854,
+      "character": "DOCTOR",
+      "gender": "NA",
+      "line": "This will help with the disorientation.",
+      "wordCount": 6
+    },
+    {
+      "id": 855,
+      "index": 855,
+      "character": "DOCTOR",
+      "gender": "NA",
+      "line": "Wait a minute for that to take effect. It can be a bit of an adjustment. You had some frostbite. Nothing too serious.",
+      "wordCount": 23
+    },
+    {
+      "id": 856,
+      "index": 856,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Where am I?",
+      "wordCount": 3
+    },
+    {
+      "id": 857,
+      "index": 857,
+      "character": "DOCTOR",
+      "gender": "NA",
+      "line": "It's a bit of a coincidence, really. When the rangers found you, we were the nearest facility.",
+      "wordCount": 17
+    },
+    {
+      "id": 858,
+      "index": 858,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "What's coincidence? What is this place?",
+      "wordCount": 6
+    },
+    {
+      "id": 859,
+      "index": 859,
+      "character": "DOCTOR",
+      "gender": "NA",
+      "line": "We have a lot to show you.",
+      "wordCount": 7
+    },
+    {
+      "id": 860,
+      "index": 860,
+      "character": "DOCTOR",
+      "gender": "NA",
+      "line": "You're OK. We get this from people who move here from planetary colonies all the time.",
+      "wordCount": 16
+    },
+    {
+      "id": 861,
+      "index": 861,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Where... where are we?",
+      "wordCount": 4
+    },
+    {
+      "id": 862,
+      "index": 862,
+      "character": "DOCTOR",
+      "gender": "NA",
+      "line": "Like I said. It was a coincidence. There was a facility closer to Earth, but they had a problem, so you wound up here. This is the Space Station Joseph A. Cooper.",
+      "wordCount": 32
+    },
+    {
+      "id": 863,
+      "index": 863,
+      "character": "DOCTOR",
+      "gender": "NA",
+      "line": "I've got someone who wants to meet you.",
+      "wordCount": 8
+    },
+    {
+      "id": 864,
+      "index": 864,
+      "character": "DOCTOR",
+      "gender": "NA",
+      "line": "He was moved here after they found you. He's a little old for a transfer, but they made an exception.",
+      "wordCount": 20
+    },
+    {
+      "id": 865,
+      "index": 865,
+      "character": "DOCTOR",
+      "gender": "NA",
+      "line": "That's him.",
+      "wordCount": 2
+    },
+    {
+      "id": 866,
+      "index": 866,
+      "character": "DOCTOR",
+      "gender": "NA",
+      "line": "His name is Anthony Welling. Anthony Cooper Welling. He's your great great grandson. He's been waiting a long time for you.",
+      "wordCount": 21
+    },
+    {
+      "id": 867,
+      "index": 867,
+      "character": "ADMINISTRATOR",
+      "gender": "NA",
+      "line": "You're a hero, Mr. Cooper. Let's just start off by saying that. It's an incredible and... unexpected honor to have you here with us.",
+      "wordCount": 24
+    },
+    {
+      "id": 868,
+      "index": 868,
+      "character": "ADMINISTRATOR",
+      "gender": "NA",
+      "line": "None of us would be here without the efforts of you and the other crewmembers of the Endurance. So I don't want you to take this the wrong way. But there are some questions I've been told to ask.",
+      "wordCount": 39
+    },
+    {
+      "id": 869,
+      "index": 869,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Shoot.",
+      "wordCount": 1
+    },
+    {
+      "id": 870,
+      "index": 870,
+      "character": "ADMINISTRATOR",
+      "gender": "NA",
+      "line": "The rangers who found you reported that you had released a sample of an alien life-form into the wild. Which is, unfortunately, against regulations.",
+      "wordCount": 24
+    },
+    {
+      "id": 871,
+      "index": 871,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "It was last of its kind. Their planet was destroyed.",
+      "wordCount": 10
+    },
+    {
+      "id": 872,
+      "index": 872,
+      "character": "ADMINISTRATOR",
+      "gender": "NA",
+      "line": "The rangers attempted to isolate the life-form, but it had already spread out of control. It seems to be thriving.",
+      "wordCount": 20
+    },
+    {
+      "id": 873,
+      "index": 873,
+      "character": "ADMINISTRATOR",
+      "gender": "NA",
+      "line": "Can you tell me why you... elected to release the life-form back on earth?",
+      "wordCount": 14
+    },
+    {
+      "id": 874,
+      "index": 874,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Because that was the plan.",
+      "wordCount": 5
+    },
+    {
+      "id": 875,
+      "index": 875,
+      "character": "ADMINISTRATOR",
+      "gender": "NA",
+      "line": "Whose plan?",
+      "wordCount": 2
+    },
+    {
+      "id": 876,
+      "index": 876,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "I don't know.",
+      "wordCount": 3
+    },
+    {
+      "id": 877,
+      "index": 877,
+      "character": "ADMINISTRATOR",
+      "gender": "NA",
+      "line": "My assistant tells me you've applied for a position with the exploration fleet.",
+      "wordCount": 13
+    },
+    {
+      "id": 878,
+      "index": 878,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Feel like I should be pulling my weight.",
+      "wordCount": 8
+    },
+    {
+      "id": 879,
+      "index": 879,
+      "character": "ADMINISTRATOR",
+      "gender": "NA",
+      "line": "That's admirable, Mr. Cooper. The truth is, most of the fleet's personnel are automated. There are a small number of crewed ships. But there are great numbers of candidates. Very well trained candidates.",
+      "wordCount": 33
+    },
+    {
+      "id": 880,
+      "index": 880,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "I was hoping to enroll in a course. Try to get myself up to speed on the new systems.",
+      "wordCount": 19
+    },
+    {
+      "id": 881,
+      "index": 881,
+      "character": "ADMINISTRATOR",
+      "gender": "NA",
+      "line": "I don't want you to take this the wrong way, Mr. Cooper -- like I said, you're a hero. But the truth is we have somewhat limited resources.",
+      "wordCount": 28
+    },
+    {
+      "id": 882,
+      "index": 882,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "No one's heard anything from Brand?",
+      "wordCount": 6
+    },
+    {
+      "id": 883,
+      "index": 883,
+      "character": "ADMINISTRATOR",
+      "gender": "NA",
+      "line": "I'm sorry. Officially, she's been listed as missing for over 200 years. Mind you, I guess you turned up eventually, didn't you?",
+      "wordCount": 22
+    },
+    {
+      "id": 884,
+      "index": 884,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Am I really going to hurt anybody by going to look for her? I just need a small ship. I made a promise.",
+      "wordCount": 23
+    },
+    {
+      "id": 885,
+      "index": 885,
+      "character": "ADMINISTRATOR",
+      "gender": "NA",
+      "line": "Listen. Mr. Cooper. You're a hero. You're the oldest man in the human race. Don't you want to take it easy? I hope you understand, we all you hold you in the highest possible regard. Which is why they're never going to let you go off by yourself in a spaceship. I'm sorry.",
+      "wordCount": 53
+    },
+    {
+      "id": 886,
+      "index": 886,
+      "character": "ADMINISTRATOR",
+      "gender": "NA",
+      "line": "I've got some good news, however. We all know about your early life, Mr Cooper. I wrote a paper on it when I was a boy. And I think we found something you'll really enjoy.",
+      "wordCount": 35
+    },
+    {
+      "id": 887,
+      "index": 887,
+      "character": "ADMINISTRATOR",
+      "gender": "NA",
+      "line": "The machines do most of the work, of course, but we were able to get you a few acres. You're going to be a farmer again.",
+      "wordCount": 26
+    },
+    {
+      "id": 888,
+      "index": 888,
+      "character": "ROBOT",
+      "gender": "NA",
+      "line": "Settings: general settings, security SETTINGS--",
+      "wordCount": 5
+    },
+    {
+      "id": 889,
+      "index": 889,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Curiosity. New level setting. 100 percent.",
+      "wordCount": 6
+    },
+    {
+      "id": 890,
+      "index": 890,
+      "character": "ROBOT",
+      "gender": "NA",
+      "line": "Confirmed. Would you like to make any additional changes?",
+      "wordCount": 9
+    },
+    {
+      "id": 891,
+      "index": 891,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Sense of humor. New level setting. 100 percent. Wait. 80 percent.",
+      "wordCount": 11
+    },
+    {
+      "id": 892,
+      "index": 892,
+      "character": "COOPER",
+      "gender": "Male",
+      "line": "Where do you want to go first?",
+      "wordCount": 7
+    },
+    {
+      "id": 893,
+      "index": 893,
+      "character": "",
+      "gender": "Male"
+    }
+  ]
+}

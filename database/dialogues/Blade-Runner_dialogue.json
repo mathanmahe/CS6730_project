@@ -1,0 +1,5964 @@
+{
+  "fileName": "Blade-Runner_dialogue.txt",
+  "title": "Blade Runner",
+  "data": [
+    {
+      "id": 0,
+      "index": 0,
+      "character": "LEON",
+      "gender": "Male",
+      "line": "Okay if I talk?",
+      "wordCount": 4
+    },
+    {
+      "id": 1,
+      "index": 1,
+      "character": "LEON",
+      "gender": "Male",
+      "line": "I kinda get nervous when I take tests.",
+      "wordCount": 8
+    },
+    {
+      "id": 2,
+      "index": 2,
+      "character": "HOLDEN",
+      "gender": "Male",
+      "line": "Don't move.",
+      "wordCount": 2
+    },
+    {
+      "id": 3,
+      "index": 3,
+      "character": "LEON",
+      "gender": "Male",
+      "line": "Sorry.",
+      "wordCount": 1
+    },
+    {
+      "id": 4,
+      "index": 4,
+      "character": "LEON",
+      "gender": "Male",
+      "line": "Already had I.Q. test this year -- but I don't think I never had a...",
+      "wordCount": 15
+    },
+    {
+      "id": 5,
+      "index": 5,
+      "character": "HOLDEN",
+      "gender": "Male",
+      "line": "Reaction time is a factor in this, so please pay attention. Answer quickly as you can.",
+      "wordCount": 16
+    },
+    {
+      "id": 6,
+      "index": 6,
+      "character": "HOLDEN",
+      "gender": "Male",
+      "line": "You're in a desert, walking along in the sand when all of a sudden you look down and see a...",
+      "wordCount": 20
+    },
+    {
+      "id": 7,
+      "index": 7,
+      "character": "LEON",
+      "gender": "Male",
+      "line": "What one?",
+      "wordCount": 2
+    },
+    {
+      "id": 8,
+      "index": 8,
+      "character": "HOLDEN",
+      "gender": "Male",
+      "line": "What?",
+      "wordCount": 1
+    },
+    {
+      "id": 9,
+      "index": 9,
+      "character": "LEON",
+      "gender": "Male",
+      "line": "What desert?",
+      "wordCount": 2
+    },
+    {
+      "id": 10,
+      "index": 10,
+      "character": "HOLDEN",
+      "gender": "Male",
+      "line": "Doesn't make any difference what desert -- it's completely hypothetical.",
+      "wordCount": 10
+    },
+    {
+      "id": 11,
+      "index": 11,
+      "character": "LEON",
+      "gender": "Male",
+      "line": "But how come I'd be there?",
+      "wordCount": 6
+    },
+    {
+      "id": 12,
+      "index": 12,
+      "character": "HOLDEN",
+      "gender": "Male",
+      "line": "Maybe you're fed up, maybe you want to be by yourself -- who knows. So you look down and see a tortoise. It's crawling towards you...",
+      "wordCount": 26
+    },
+    {
+      "id": 13,
+      "index": 13,
+      "character": "LEON",
+      "gender": "Male",
+      "line": "A tortoise. What's that?",
+      "wordCount": 4
+    },
+    {
+      "id": 14,
+      "index": 14,
+      "character": "HOLDEN",
+      "gender": "Male",
+      "line": "Know what a turtle is?",
+      "wordCount": 5
+    },
+    {
+      "id": 15,
+      "index": 15,
+      "character": "LEON",
+      "gender": "Male",
+      "line": "Of course.",
+      "wordCount": 2
+    },
+    {
+      "id": 16,
+      "index": 16,
+      "character": "HOLDEN",
+      "gender": "Male",
+      "line": "Same thing.",
+      "wordCount": 2
+    },
+    {
+      "id": 17,
+      "index": 17,
+      "character": "LEON",
+      "gender": "Male",
+      "line": "I never seen a turtle.",
+      "wordCount": 5
+    },
+    {
+      "id": 18,
+      "index": 18,
+      "character": "LEON",
+      "gender": "Male",
+      "line": "But I understand what you mean.",
+      "wordCount": 6
+    },
+    {
+      "id": 19,
+      "index": 19,
+      "character": "HOLDEN",
+      "gender": "Male",
+      "line": "You reach down and flip the tortoise over on its back, Leon.",
+      "wordCount": 12
+    },
+    {
+      "id": 20,
+      "index": 20,
+      "character": "LEON",
+      "gender": "Male",
+      "line": "You make these questions, Mr. Holden, or they write 'em down for you?",
+      "wordCount": 13
+    },
+    {
+      "id": 21,
+      "index": 21,
+      "character": "HOLDEN",
+      "gender": "Male",
+      "line": "The tortoise lays on its back, its belly baking in the hot sun, beating its legs trying to turn itself over. But it can't. Not without your help. But you're not helping.",
+      "wordCount": 32
+    },
+    {
+      "id": 22,
+      "index": 22,
+      "character": "LEON",
+      "gender": "Male",
+      "line": "Whatcha mean, I'm not helping?",
+      "wordCount": 5
+    },
+    {
+      "id": 23,
+      "index": 23,
+      "character": "HOLDEN",
+      "gender": "Male",
+      "line": "I mean you're not helping! Why is that, Leon?",
+      "wordCount": 9
+    },
+    {
+      "id": 24,
+      "index": 24,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "It was 97 degrees in the city and no hope of improvement. Not bad if you're a lizard. But two hours earlier I was drinking Acquavit with an Eskimo lady in North East Alaska. That's a tough change to make. It was so good, I didn't want to leave, so I left a day early.",
+      "wordCount": 55
+    },
+    {
+      "id": 25,
+      "index": 25,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "Contact. This is Blade Runner One calling Com-fast 27.",
+      "wordCount": 9
+    },
+    {
+      "id": 26,
+      "index": 26,
+      "character": "VOICE",
+      "gender": "NA",
+      "line": "Blade Runner One, stand by please.",
+      "wordCount": 6
+    },
+    {
+      "id": 27,
+      "index": 27,
+      "character": "VOICE",
+      "gender": "NA",
+      "line": "Deckard.",
+      "wordCount": 1
+    },
+    {
+      "id": 28,
+      "index": 28,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "Yah, Gaff.",
+      "wordCount": 2
+    },
+    {
+      "id": 29,
+      "index": 29,
+      "character": "GAFF",
+      "gender": "Male",
+      "line": "Where the hell you been?",
+      "wordCount": 5
+    },
+    {
+      "id": 30,
+      "index": 30,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "You know where I been. I been on vacation.",
+      "wordCount": 9
+    },
+    {
+      "id": 31,
+      "index": 31,
+      "character": "GAFF",
+      "gender": "Male",
+      "line": "Next time you go on vacation, do me a favor, let us know where it is.",
+      "wordCount": 16
+    },
+    {
+      "id": 32,
+      "index": 32,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "What's up?",
+      "wordCount": 2
+    },
+    {
+      "id": 33,
+      "index": 33,
+      "character": "GAFF",
+      "gender": "Male",
+      "line": "Holden got hit.",
+      "wordCount": 3
+    },
+    {
+      "id": 34,
+      "index": 34,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "Bad?",
+      "wordCount": 1
+    },
+    {
+      "id": 35,
+      "index": 35,
+      "character": "GAFF",
+      "gender": "Male",
+      "line": "Severed spine. You'd better get in here. Bryant's waiting for you.",
+      "wordCount": 11
+    },
+    {
+      "id": 36,
+      "index": 36,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "I'll see you in a minute.",
+      "wordCount": 6
+    },
+    {
+      "id": 37,
+      "index": 37,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "I-X-4-P-D referred to as a Nexus-6, The Tyrell Corporation's new pride and joy. Holden was administering the Voight-Kampff test when one nailed him.",
+      "wordCount": 23
+    },
+    {
+      "id": 38,
+      "index": 38,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "The Nexus-6 must be fast because Holden was as quick as they come. The report said there were six of them. Three males and three female. Led by a combat model called Roy Batty.",
+      "wordCount": 34
+    },
+    {
+      "id": 39,
+      "index": 39,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "They escaped from the colonies two weeks ago. Killed twenty- three people and jumped a shuttle. An aerial patrol found the ship in the desert. No crew.",
+      "wordCount": 27
+    },
+    {
+      "id": 40,
+      "index": 40,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "Bryant's got a liver problem. A couple years back he handed me a bottle and said have a drink for another man. I been drinking for him ever since.",
+      "wordCount": 29
+    },
+    {
+      "id": 41,
+      "index": 41,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "Six, huh?",
+      "wordCount": 2
+    },
+    {
+      "id": 42,
+      "index": 42,
+      "character": "BRYANT",
+      "gender": "Male",
+      "line": "Five. Three nights ago one of them managed to break into the Tyrell Corporation. Killed two guards and got as far as the Genetic Sector before he got fried going through an electro- field.",
+      "wordCount": 34
+    },
+    {
+      "id": 43,
+      "index": 43,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "What was he after?",
+      "wordCount": 4
+    },
+    {
+      "id": 44,
+      "index": 44,
+      "character": "BRYANT",
+      "gender": "Male",
+      "line": "There wasn't much left of him, so we can't be sure. But bio- chemical data and morphology records of the Nexus-6 were reported missing. Going on the possibility they might try to infiltrate we send Holden in to run Voight-Kampff tests on the new employees. Guess he found himself one.",
+      "wordCount": 50
+    },
+    {
+      "id": 45,
+      "index": 45,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "You got a machine on it yet?",
+      "wordCount": 7
+    },
+    {
+      "id": 46,
+      "index": 46,
+      "character": "BRYANT",
+      "gender": "Male",
+      "line": "We're using Esper -- a 231 -- that picked up Holden's alarm. Its guess is that all five are in the city.",
+      "wordCount": 22
+    },
+    {
+      "id": 47,
+      "index": 47,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "Where do we start?",
+      "wordCount": 4
+    },
+    {
+      "id": 48,
+      "index": 48,
+      "character": "BRYANT",
+      "gender": "Male",
+      "line": "The Tyrell Corporation has a demo model. Check it out on the Voight-Kampff. There's a chance the Nexus-6 is beyond out ability to detect. If that's the case, everybody's up shit creek.",
+      "wordCount": 32
+    },
+    {
+      "id": 49,
+      "index": 49,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "What was the cover on the one that got Holden?",
+      "wordCount": 10
+    },
+    {
+      "id": 50,
+      "index": 50,
+      "character": "BRYANT",
+      "gender": "Male",
+      "line": "Industrial refuse.",
+      "wordCount": 2
+    },
+    {
+      "id": 51,
+      "index": 51,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "Garbage man?",
+      "wordCount": 2
+    },
+    {
+      "id": 52,
+      "index": 52,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "Did personnel have an address on him?",
+      "wordCount": 7
+    },
+    {
+      "id": 53,
+      "index": 53,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "I'll go take a look.",
+      "wordCount": 5
+    },
+    {
+      "id": 54,
+      "index": 54,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "Thanks.",
+      "wordCount": 1
+    },
+    {
+      "id": 55,
+      "index": 55,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "The big incentive to emigrate was still free labor. If the public found out that their door-prizes might kill them, they might not be so hot to go up there. This was one of the worst one's we had and Bryant was worried. He wanted to tell me to be discrete or something. But I didn't give him a chance.",
+      "wordCount": 60
+    },
+    {
+      "id": 56,
+      "index": 56,
+      "character": "ANNOUNCER'S VOICE",
+      "gender": "NA",
+      "line": "Choose from a variety of seventy nine different personality types. Each and every one a loyal trouble- free companion given to you upon your arrival absolutely free...",
+      "wordCount": 27
+    },
+    {
+      "id": 57,
+      "index": 57,
+      "character": "ANNOUNCER'S VOICE",
+      "gender": "NA",
+      "line": "To use as personal body servant to tireless field hand -- the custom tailored humanoid robot, designed especially for your needs.",
+      "wordCount": 21
+    },
+    {
+      "id": 58,
+      "index": 58,
+      "character": "BATTY",
+      "gender": "Male",
+      "line": "Did you get your precious 'things'?",
+      "wordCount": 6
+    },
+    {
+      "id": 59,
+      "index": 59,
+      "character": "LEON",
+      "gender": "Male",
+      "line": "Somebody was already there.",
+      "wordCount": 4
+    },
+    {
+      "id": 60,
+      "index": 60,
+      "character": "BATTY",
+      "gender": "Male",
+      "line": "Police.",
+      "wordCount": 1
+    },
+    {
+      "id": 61,
+      "index": 61,
+      "character": "LEON",
+      "gender": "Male",
+      "line": "Just a man.",
+      "wordCount": 3
+    },
+    {
+      "id": 62,
+      "index": 62,
+      "character": "BATTY",
+      "gender": "Male",
+      "line": "Police man.",
+      "wordCount": 2
+    },
+    {
+      "id": 63,
+      "index": 63,
+      "character": "BATTY",
+      "gender": "Male",
+      "line": "Why don't you have a seat.",
+      "wordCount": 6
+    },
+    {
+      "id": 64,
+      "index": 64,
+      "character": "BATTY",
+      "gender": "Male",
+      "line": "Enjoy the view.",
+      "wordCount": 3
+    },
+    {
+      "id": 65,
+      "index": 65,
+      "character": "CHEW",
+      "gender": "Male",
+      "line": "Well, you're right. This little honey has a couple of defective cones.",
+      "wordCount": 12
+    },
+    {
+      "id": 66,
+      "index": 66,
+      "character": "CHEW",
+      "gender": "Male",
+      "line": "You're a regular perfectionist, Sebastian.",
+      "wordCount": 5
+    },
+    {
+      "id": 67,
+      "index": 67,
+      "character": "SEBASTIAN",
+      "gender": "Male",
+      "line": "It's gotta be right for my customer.",
+      "wordCount": 7
+    },
+    {
+      "id": 68,
+      "index": 68,
+      "character": "CHEW",
+      "gender": "Male",
+      "line": "Your customer, eh?",
+      "wordCount": 3
+    },
+    {
+      "id": 69,
+      "index": 69,
+      "character": "CHEW",
+      "gender": "Male",
+      "line": "You got a pocket-charger, boy?",
+      "wordCount": 5
+    },
+    {
+      "id": 70,
+      "index": 70,
+      "character": "CHEW",
+      "gender": "Male",
+      "line": "Is that good enough for your customer?",
+      "wordCount": 7
+    },
+    {
+      "id": 71,
+      "index": 71,
+      "character": "CHEW",
+      "gender": "Male",
+      "line": "How much is he paying you?",
+      "wordCount": 6
+    },
+    {
+      "id": 72,
+      "index": 72,
+      "character": "CHEW",
+      "gender": "Male",
+      "line": "Well, when do you get paid?",
+      "wordCount": 6
+    },
+    {
+      "id": 73,
+      "index": 73,
+      "character": "SEBASTIAN",
+      "gender": "Male",
+      "line": "Soon as I finish the job.",
+      "wordCount": 6
+    },
+    {
+      "id": 74,
+      "index": 74,
+      "character": "CHEW",
+      "gender": "Male",
+      "line": "When might that be?",
+      "wordCount": 4
+    },
+    {
+      "id": 75,
+      "index": 75,
+      "character": "SEBASTIAN",
+      "gender": "Male",
+      "line": "Day after tomorrow.",
+      "wordCount": 3
+    },
+    {
+      "id": 76,
+      "index": 76,
+      "character": "CHEW",
+      "gender": "Male",
+      "line": "Oh! Day after tomorrow.",
+      "wordCount": 4
+    },
+    {
+      "id": 77,
+      "index": 77,
+      "character": "CHEW",
+      "gender": "Male",
+      "line": "The rich hate to pay, Sebastian. A guy like Tyrell keeps you waiting. Pay the little guy last. You should charge twice as much. It'll make him feel better.",
+      "wordCount": 29
+    },
+    {
+      "id": 78,
+      "index": 78,
+      "character": "SEBASTIAN",
+      "gender": "Male",
+      "line": "Thanks, Mr. Chew.",
+      "wordCount": 3
+    },
+    {
+      "id": 79,
+      "index": 79,
+      "character": "SEBASTIAN",
+      "gender": "Male",
+      "line": "Hey! You forgot your...",
+      "wordCount": 4
+    },
+    {
+      "id": 80,
+      "index": 80,
+      "character": "SEBASTIAN",
+      "gender": "Male",
+      "line": "How come you were in my truck?",
+      "wordCount": 7
+    },
+    {
+      "id": 81,
+      "index": 81,
+      "character": "PRIS",
+      "gender": "Female",
+      "line": "I was tired and didn't have any place to go.",
+      "wordCount": 10
+    },
+    {
+      "id": 82,
+      "index": 82,
+      "character": "SEBASTIAN",
+      "gender": "Male",
+      "line": "You can get back in if you want...",
+      "wordCount": 8
+    },
+    {
+      "id": 83,
+      "index": 83,
+      "character": "SEBASTIAN",
+      "gender": "Male",
+      "line": "Don't worry, I won't hurt you.",
+      "wordCount": 6
+    },
+    {
+      "id": 84,
+      "index": 84,
+      "character": "SEBASTIAN",
+      "gender": "Male",
+      "line": "What's your name?",
+      "wordCount": 3
+    },
+    {
+      "id": 85,
+      "index": 85,
+      "character": "PRIS",
+      "gender": "Female",
+      "line": "Pris.",
+      "wordCount": 1
+    },
+    {
+      "id": 86,
+      "index": 86,
+      "character": "SEBASTIAN",
+      "gender": "Male",
+      "line": "Mine's J.F. Sebastian.",
+      "wordCount": 3
+    },
+    {
+      "id": 87,
+      "index": 87,
+      "character": "PRIS",
+      "gender": "Female",
+      "line": "Hi.",
+      "wordCount": 1
+    },
+    {
+      "id": 88,
+      "index": 88,
+      "character": "SEBASTIAN",
+      "gender": "Male",
+      "line": "Oh! Where do you want to go?",
+      "wordCount": 7
+    },
+    {
+      "id": 89,
+      "index": 89,
+      "character": "SEBASTIAN",
+      "gender": "Male",
+      "line": "You want to go home?",
+      "wordCount": 5
+    },
+    {
+      "id": 90,
+      "index": 90,
+      "character": "PRIS",
+      "gender": "Female",
+      "line": "I don't have one.",
+      "wordCount": 4
+    },
+    {
+      "id": 91,
+      "index": 91,
+      "character": "SEBASTIAN",
+      "gender": "Male",
+      "line": "Oh.",
+      "wordCount": 1
+    },
+    {
+      "id": 92,
+      "index": 92,
+      "character": "SEBASTIAN",
+      "gender": "Male",
+      "line": "Where are your folks?",
+      "wordCount": 4
+    },
+    {
+      "id": 93,
+      "index": 93,
+      "character": "PRIS",
+      "gender": "Female",
+      "line": "They left.",
+      "wordCount": 2
+    },
+    {
+      "id": 94,
+      "index": 94,
+      "character": "SEBASTIAN",
+      "gender": "Male",
+      "line": "What about friends?",
+      "wordCount": 3
+    },
+    {
+      "id": 95,
+      "index": 95,
+      "character": "PRIS",
+      "gender": "Female",
+      "line": "I have some, but I have to find out where they are staying.",
+      "wordCount": 13
+    },
+    {
+      "id": 96,
+      "index": 96,
+      "character": "SEBASTIAN",
+      "gender": "Male",
+      "line": "Well, where should I take you?",
+      "wordCount": 6
+    },
+    {
+      "id": 97,
+      "index": 97,
+      "character": "PRIS",
+      "gender": "Female",
+      "line": "We scared each other pretty good didn't we?",
+      "wordCount": 8
+    },
+    {
+      "id": 98,
+      "index": 98,
+      "character": "SEBASTIAN",
+      "gender": "Male",
+      "line": "We sure did.",
+      "wordCount": 3
+    },
+    {
+      "id": 99,
+      "index": 99,
+      "character": "PRIS",
+      "gender": "Female",
+      "line": "I'm hungry, J.F.",
+      "wordCount": 3
+    },
+    {
+      "id": 100,
+      "index": 100,
+      "character": "SEBASTIAN",
+      "gender": "Male",
+      "line": "I've got stuff. If you wanna go to my place?",
+      "wordCount": 10
+    },
+    {
+      "id": 101,
+      "index": 101,
+      "character": "PRIS",
+      "gender": "Female",
+      "line": "I was hoping you'd say that.",
+      "wordCount": 6
+    },
+    {
+      "id": 102,
+      "index": 102,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "Machines can be helpful sometimes, but they can also be a pain in the ass. Ask for a trace on a forger and you might wind up at a steel- mill. I don't mind a bum-steer once in a while -- it's their personalities that usually get me. Somebody once said that man makes machines in his own image. If that's true, whoever made Esper should have been shot.",
+      "wordCount": 69
+    },
+    {
+      "id": 103,
+      "index": 103,
+      "character": "ESPER",
+      "gender": "NA",
+      "line": "This is Esper and I'm ready. Go ahead please.",
+      "wordCount": 9
+    },
+    {
+      "id": 104,
+      "index": 104,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "You equipped for random questions?",
+      "wordCount": 5
+    },
+    {
+      "id": 105,
+      "index": 105,
+      "character": "ESPER",
+      "gender": "NA",
+      "line": "Why, yes, of course.",
+      "wordCount": 4
+    },
+    {
+      "id": 106,
+      "index": 106,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "You start.",
+      "wordCount": 2
+    },
+    {
+      "id": 107,
+      "index": 107,
+      "character": "ESPER",
+      "gender": "NA",
+      "line": "The five in question are third generation Nexus Sixes, constructed of skin-flesh culture, selected enogenic transfer conversion capable of self-perpetuating thought, para-physical abilities and developed for emigration program. Are you with me?",
+      "wordCount": 32
+    },
+    {
+      "id": 108,
+      "index": 108,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "How do I stop one?",
+      "wordCount": 5
+    },
+    {
+      "id": 109,
+      "index": 109,
+      "character": "ESPER",
+      "gender": "NA",
+      "line": "Unlike a five, they can sustain massive traumas to several parts of the body without debilitating another. Sever a leg and it will perform quicker on the remaining leg than the fastest man can run,",
+      "wordCount": 35
+    },
+    {
+      "id": 110,
+      "index": 110,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "Okay, but...",
+      "wordCount": 2
+    },
+    {
+      "id": 111,
+      "index": 111,
+      "character": "ESPER",
+      "gender": "NA",
+      "line": "I'm coming to that. Vulnerable zone is the base of the skull, the occipital bone. A direct hit is a positive retirement.",
+      "wordCount": 22
+    },
+    {
+      "id": 112,
+      "index": 112,
+      "character": "VOICE",
+      "gender": "NA",
+      "line": "You are in violation of traffic ordinance M-139 statutory freeway limit restricted by one-hundred and eighty kilometers.",
+      "wordCount": 17
+    },
+    {
+      "id": 113,
+      "index": 113,
+      "character": "SEBASTIAN",
+      "gender": "Male",
+      "line": "Oh!",
+      "wordCount": 1
+    },
+    {
+      "id": 114,
+      "index": 114,
+      "character": "PRIS",
+      "gender": "Female",
+      "line": "Whatcha doin'?",
+      "wordCount": 2
+    },
+    {
+      "id": 115,
+      "index": 115,
+      "character": "SEBASTIAN",
+      "gender": "Male",
+      "line": "You scared me.",
+      "wordCount": 3
+    },
+    {
+      "id": 116,
+      "index": 116,
+      "character": "SEBASTIAN",
+      "gender": "Male",
+      "line": "I'm working.",
+      "wordCount": 2
+    },
+    {
+      "id": 117,
+      "index": 117,
+      "character": "SEBASTIAN",
+      "gender": "Male",
+      "line": "You look... better.",
+      "wordCount": 3
+    },
+    {
+      "id": 118,
+      "index": 118,
+      "character": "PRIS",
+      "gender": "Female",
+      "line": "Just better.",
+      "wordCount": 2
+    },
+    {
+      "id": 119,
+      "index": 119,
+      "character": "SEBASTIAN",
+      "gender": "Male",
+      "line": "Beautiful.",
+      "wordCount": 1
+    },
+    {
+      "id": 120,
+      "index": 120,
+      "character": "PRIS",
+      "gender": "Female",
+      "line": "Thanks.",
+      "wordCount": 1
+    },
+    {
+      "id": 121,
+      "index": 121,
+      "character": "PRIS",
+      "gender": "Female",
+      "line": "And you live in this building all by yourself?",
+      "wordCount": 9
+    },
+    {
+      "id": 122,
+      "index": 122,
+      "character": "SEBASTIAN",
+      "gender": "Male",
+      "line": "Yeah, I live here pretty much alone right now...",
+      "wordCount": 9
+    },
+    {
+      "id": 123,
+      "index": 123,
+      "character": "SEBASTIAN",
+      "gender": "Male",
+      "line": "No housing shortage around here... plenty of room for everybody.",
+      "wordCount": 10
+    },
+    {
+      "id": 124,
+      "index": 124,
+      "character": "PRIS",
+      "gender": "Female",
+      "line": "How old are you?",
+      "wordCount": 4
+    },
+    {
+      "id": 125,
+      "index": 125,
+      "character": "SEBASTIAN",
+      "gender": "Male",
+      "line": "Twenty.",
+      "wordCount": 1
+    },
+    {
+      "id": 126,
+      "index": 126,
+      "character": "PRIS",
+      "gender": "Female",
+      "line": "What's your problem?",
+      "wordCount": 3
+    },
+    {
+      "id": 127,
+      "index": 127,
+      "character": "SEBASTIAN",
+      "gender": "Male",
+      "line": "Methuselah Syndrome.",
+      "wordCount": 2
+    },
+    {
+      "id": 128,
+      "index": 128,
+      "character": "PRIS",
+      "gender": "Female",
+      "line": "What's that?",
+      "wordCount": 2
+    },
+    {
+      "id": 129,
+      "index": 129,
+      "character": "SEBASTIAN",
+      "gender": "Male",
+      "line": "My glands. They grow old too fast.",
+      "wordCount": 7
+    },
+    {
+      "id": 130,
+      "index": 130,
+      "character": "PRIS",
+      "gender": "Female",
+      "line": "Is that why you're still here?",
+      "wordCount": 6
+    },
+    {
+      "id": 131,
+      "index": 131,
+      "character": "SEBASTIAN",
+      "gender": "Male",
+      "line": "Yes. I couldn't pass the test.",
+      "wordCount": 6
+    },
+    {
+      "id": 132,
+      "index": 132,
+      "character": "PRIS",
+      "gender": "Female",
+      "line": "I like you just the way you are.",
+      "wordCount": 8
+    },
+    {
+      "id": 133,
+      "index": 133,
+      "character": "SEBASTIAN",
+      "gender": "Male",
+      "line": "Ah, you get hold of your friends?",
+      "wordCount": 7
+    },
+    {
+      "id": 134,
+      "index": 134,
+      "character": "PRIS",
+      "gender": "Female",
+      "line": "As a matter of fact I did. They've got some work to do tonight, but they're gonna come tomorrow.",
+      "wordCount": 19
+    },
+    {
+      "id": 135,
+      "index": 135,
+      "character": "SEBASTIAN",
+      "gender": "Male",
+      "line": "Good.",
+      "wordCount": 1
+    },
+    {
+      "id": 136,
+      "index": 136,
+      "character": "SEBASTIAN",
+      "gender": "Male",
+      "line": "I can sleep on the couch.",
+      "wordCount": 6
+    },
+    {
+      "id": 137,
+      "index": 137,
+      "character": "MOUSE",
+      "gender": "NA",
+      "line": "Don't let the bed bugs bite!",
+      "wordCount": 6
+    },
+    {
+      "id": 138,
+      "index": 138,
+      "character": "ESPER",
+      "gender": "NA",
+      "line": "Nexus designated Leon: incept date April 10th, 2015 -- to be used in military experiments to determine how hyper metabolism functions in deep space. Nexus designated Batty incept data April 10th, 2015, combat model, level of self-sufficiency, optimum.",
+      "wordCount": 38
+    },
+    {
+      "id": 139,
+      "index": 139,
+      "character": "ESPER",
+      "gender": "NA",
+      "line": "Here's something you might find interesting. They have been built to emulate the human in every way except in its emotional spectrum. However, after a period of time it is only logical that such a 'mechanism' would create its own emotional responses, hate, love, fear, anger, envy.",
+      "wordCount": 47
+    },
+    {
+      "id": 140,
+      "index": 140,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "I know all that.",
+      "wordCount": 4
+    },
+    {
+      "id": 141,
+      "index": 141,
+      "character": "ESPER",
+      "gender": "NA",
+      "line": "What about a summary then.",
+      "wordCount": 5
+    },
+    {
+      "id": 142,
+      "index": 142,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "I think we're through for the night.",
+      "wordCount": 7
+    },
+    {
+      "id": 143,
+      "index": 143,
+      "character": "ESPER",
+      "gender": "NA",
+      "line": "Mr. Deckard.",
+      "wordCount": 2
+    },
+    {
+      "id": 144,
+      "index": 144,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "Yes?",
+      "wordCount": 1
+    },
+    {
+      "id": 145,
+      "index": 145,
+      "character": "ESPER",
+      "gender": "NA",
+      "line": "Do you have something against science?",
+      "wordCount": 6
+    },
+    {
+      "id": 146,
+      "index": 146,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "Not if it works.",
+      "wordCount": 4
+    },
+    {
+      "id": 147,
+      "index": 147,
+      "character": "ESPER",
+      "gender": "NA",
+      "line": "And what in your estimation works?",
+      "wordCount": 6
+    },
+    {
+      "id": 148,
+      "index": 148,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "The umbrella.",
+      "wordCount": 2
+    },
+    {
+      "id": 149,
+      "index": 149,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "Every government that could was racing to populate their colonial territory. But emigrants needed incentive. Over-population and the greenhouse factor didn't seem to be enough; but owning a human look-a-like had lots of appeal. It was big industry, the competition was stiff and Tyrell was top of the line.",
+      "wordCount": 49
+    },
+    {
+      "id": 150,
+      "index": 150,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "His claim to fame was making a product more human than human and sometimes the 'more' turned out to be a problem. This wasn't just an escaped andy who broke his owner's arm -- there were twenty-eight people dead and the pressure was on.",
+      "wordCount": 44
+    },
+    {
+      "id": 151,
+      "index": 151,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "But so far they'd always managed to keep it quiet. Not to say that once in a while there wasn't bad publicity. Some fanatic bitching about equal rights for andies or an occasional trade union proclaiming it was aun-American for automatons to take jobs away from humans on the colony.",
+      "wordCount": 50
+    },
+    {
+      "id": 152,
+      "index": 152,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "But what's more American than good old supply and demand? The Government needed them, industry made them and the church backed them. The big religious boys said that Androids, no matter how human, were objects; only God could make people. I'm not religious, but I was inclined to agree. Otherwise I'd be out of a job.",
+      "wordCount": 56
+    },
+    {
+      "id": 153,
+      "index": 153,
+      "character": "RACHAEL",
+      "gender": "Female",
+      "line": "Hello, Mr. Deckard. My name is Rachael.",
+      "wordCount": 7
+    },
+    {
+      "id": 154,
+      "index": 154,
+      "character": "RACHAEL",
+      "gender": "Female",
+      "line": "It seems your department doesn't believe out new unit is to the public benefit.",
+      "wordCount": 14
+    },
+    {
+      "id": 155,
+      "index": 155,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "A humanoid robot is like any other machine, it can be a benefit or a hazard. If it's a benefit, it's not our problem.",
+      "wordCount": 24
+    },
+    {
+      "id": 156,
+      "index": 156,
+      "character": "RACHAEL",
+      "gender": "Female",
+      "line": "But because your department can't do an adequate job in detecting the miniscule number at large, it's a problem. Correct, Mr. Deckard?",
+      "wordCount": 22
+    },
+    {
+      "id": 157,
+      "index": 157,
+      "character": "RACHAEL",
+      "gender": "Female",
+      "line": "You like our owl?",
+      "wordCount": 4
+    },
+    {
+      "id": 158,
+      "index": 158,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "It's artificial?",
+      "wordCount": 2
+    },
+    {
+      "id": 159,
+      "index": 159,
+      "character": "RACHAEL",
+      "gender": "Female",
+      "line": "Of course not.",
+      "wordCount": 3
+    },
+    {
+      "id": 160,
+      "index": 160,
+      "character": "RACHAEL",
+      "gender": "Female",
+      "line": "You're in a very unique position, Mr. Deckard. You could affect the future of this entire organization according to how you work your little test.",
+      "wordCount": 25
+    },
+    {
+      "id": 161,
+      "index": 161,
+      "character": "RACHAEL",
+      "gender": "Female",
+      "line": "Are you apprehensive?",
+      "wordCount": 3
+    },
+    {
+      "id": 162,
+      "index": 162,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "Why should I be?",
+      "wordCount": 4
+    },
+    {
+      "id": 163,
+      "index": 163,
+      "character": "RACHAEL",
+      "gender": "Female",
+      "line": "For the responsibility of your power. Being a police bureaucrat, you've got more than your share.",
+      "wordCount": 16
+    },
+    {
+      "id": 164,
+      "index": 164,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "You got it wrong, girl. I work with the bureau not for them.",
+      "wordCount": 13
+    },
+    {
+      "id": 165,
+      "index": 165,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "My job isn't to detect malfunctioning andies, it's to eliminate them. The more the better.",
+      "wordCount": 15
+    },
+    {
+      "id": 166,
+      "index": 166,
+      "character": "RACHAEL",
+      "gender": "Female",
+      "line": "Mr. Deckard. Dr. Eldon Tyrell.",
+      "wordCount": 5
+    },
+    {
+      "id": 167,
+      "index": 167,
+      "character": "TYRELL",
+      "gender": "Male",
+      "line": "How do you do, Mr. Deckard. Please sit down. Would you care for a cup of coffee?",
+      "wordCount": 17
+    },
+    {
+      "id": 168,
+      "index": 168,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "Thanks.",
+      "wordCount": 1
+    },
+    {
+      "id": 169,
+      "index": 169,
+      "character": "TYRELL",
+      "gender": "Male",
+      "line": "Black?",
+      "wordCount": 1
+    },
+    {
+      "id": 170,
+      "index": 170,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "Please.",
+      "wordCount": 1
+    },
+    {
+      "id": 171,
+      "index": 171,
+      "character": "TYRELL",
+      "gender": "Male",
+      "line": "Somehow, I didn't expect that the man who did the dirty work would be the man to do the technical work. Here you are, Mr. Deckard.",
+      "wordCount": 26
+    },
+    {
+      "id": 172,
+      "index": 172,
+      "character": "TYRELL",
+      "gender": "Male",
+      "line": "Is this to be an empathy test?",
+      "wordCount": 7
+    },
+    {
+      "id": 173,
+      "index": 173,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "Yes.",
+      "wordCount": 1
+    },
+    {
+      "id": 174,
+      "index": 174,
+      "character": "TYRELL",
+      "gender": "Male",
+      "line": "Capillary dilation of the so-called blush response? Plus fluctuation of the pupil, plus involuntary dilation of the iris?",
+      "wordCount": 18
+    },
+    {
+      "id": 175,
+      "index": 175,
+      "character": "TYRELL",
+      "gender": "Male",
+      "line": "May I ask a personal question?",
+      "wordCount": 6
+    },
+    {
+      "id": 176,
+      "index": 176,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "Go ahead.",
+      "wordCount": 2
+    },
+    {
+      "id": 177,
+      "index": 177,
+      "character": "TYRELL",
+      "gender": "Male",
+      "line": "Have you ever retired a human by mistake?",
+      "wordCount": 8
+    },
+    {
+      "id": 178,
+      "index": 178,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "No.",
+      "wordCount": 1
+    },
+    {
+      "id": 179,
+      "index": 179,
+      "character": "TYRELL",
+      "gender": "Male",
+      "line": "But in your profession that is a risk.",
+      "wordCount": 8
+    },
+    {
+      "id": 180,
+      "index": 180,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "Nothing is infallible, but so far the Voight-Kampff scale bas been foolproof.",
+      "wordCount": 12
+    },
+    {
+      "id": 181,
+      "index": 181,
+      "character": "TYRELL",
+      "gender": "Male",
+      "line": "Like you said, Mr. Deckard, a machine can be a hazard. The Voight-Kampff scale is a machine, isn't it?",
+      "wordCount": 19
+    },
+    {
+      "id": 182,
+      "index": 182,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "One that relies on human interpretation. Where's the subject?",
+      "wordCount": 9
+    },
+    {
+      "id": 183,
+      "index": 183,
+      "character": "TYRELL",
+      "gender": "Male",
+      "line": "Sitting next to you.",
+      "wordCount": 4
+    },
+    {
+      "id": 184,
+      "index": 184,
+      "character": "DECKARD'S VOICE",
+      "gender": "NA",
+      "line": "Ready.",
+      "wordCount": 1
+    },
+    {
+      "id": 185,
+      "index": 185,
+      "character": "RACHAEL",
+      "gender": "Female",
+      "line": "Go ahead.",
+      "wordCount": 2
+    },
+    {
+      "id": 186,
+      "index": 186,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "You're given a calfskin wallet for your birthday.",
+      "wordCount": 8
+    },
+    {
+      "id": 187,
+      "index": 187,
+      "character": "RACHAEL",
+      "gender": "Female",
+      "line": "I wouldn't accept it. Also, I'd report the person who gave it to me to the police.",
+      "wordCount": 17
+    },
+    {
+      "id": 188,
+      "index": 188,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "You have a little boy. He shows you his butterfly collection, plus the killing jar.",
+      "wordCount": 15
+    },
+    {
+      "id": 189,
+      "index": 189,
+      "character": "RACHAEL",
+      "gender": "Female",
+      "line": "I'd take him to the doctor.",
+      "wordCount": 6
+    },
+    {
+      "id": 190,
+      "index": 190,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "You're watching T.V. and suddenly you notice a wasp crawling on your wrist.",
+      "wordCount": 13
+    },
+    {
+      "id": 191,
+      "index": 191,
+      "character": "RACHAEL",
+      "gender": "Female",
+      "line": "I'd kill it.",
+      "wordCount": 3
+    },
+    {
+      "id": 192,
+      "index": 192,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "In a magazine you come across a full-page photo of a nude girl.",
+      "wordCount": 13
+    },
+    {
+      "id": 193,
+      "index": 193,
+      "character": "RACHAEL",
+      "gender": "Female",
+      "line": "Is this testing whether I'm an android or a lesbian?",
+      "wordCount": 10
+    },
+    {
+      "id": 194,
+      "index": 194,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "You show the picture to your husband. He likes it and hangs it on the wall. The girl is lying on a bearskin rug.",
+      "wordCount": 24
+    },
+    {
+      "id": 195,
+      "index": 195,
+      "character": "RACHEL",
+      "gender": "NA",
+      "line": "I wouldn't let him.",
+      "wordCount": 4
+    },
+    {
+      "id": 196,
+      "index": 196,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "Why not?",
+      "wordCount": 2
+    },
+    {
+      "id": 197,
+      "index": 197,
+      "character": "RACHAEL",
+      "gender": "Female",
+      "line": "I should be enough for him.",
+      "wordCount": 6
+    },
+    {
+      "id": 198,
+      "index": 198,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "You become pregnant by a man who runs off with your best friend, and you decide to get an abortion.",
+      "wordCount": 20
+    },
+    {
+      "id": 199,
+      "index": 199,
+      "character": "RACHAEL",
+      "gender": "Female",
+      "line": "I'd never get an abortion.",
+      "wordCount": 5
+    },
+    {
+      "id": 200,
+      "index": 200,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "Why not?",
+      "wordCount": 2
+    },
+    {
+      "id": 201,
+      "index": 201,
+      "character": "RACHAEL",
+      "gender": "Female",
+      "line": "That would be murder, Mr. Deckard.",
+      "wordCount": 6
+    },
+    {
+      "id": 202,
+      "index": 202,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "In your opinion.",
+      "wordCount": 3
+    },
+    {
+      "id": 203,
+      "index": 203,
+      "character": "RACHAEL",
+      "gender": "Female",
+      "line": "It would be my child.",
+      "wordCount": 5
+    },
+    {
+      "id": 204,
+      "index": 204,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "Sounds like you speaks from experience.",
+      "wordCount": 6
+    },
+    {
+      "id": 205,
+      "index": 205,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "Last question. You're watching an old movie. It shows a banquet in progress, the guests are enjoying raw oysters.",
+      "wordCount": 19
+    },
+    {
+      "id": 206,
+      "index": 206,
+      "character": "RACHAEL",
+      "gender": "Female",
+      "line": "Ugh.",
+      "wordCount": 1
+    },
+    {
+      "id": 207,
+      "index": 207,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "The entree consists of boiled dog stuffed with rice.",
+      "wordCount": 9
+    },
+    {
+      "id": 208,
+      "index": 208,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "The raw oysters are less acceptable to you than a dish of boiled dog.",
+      "wordCount": 14
+    },
+    {
+      "id": 209,
+      "index": 209,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "Lights please.",
+      "wordCount": 2
+    },
+    {
+      "id": 210,
+      "index": 210,
+      "character": "TYRELL",
+      "gender": "Male",
+      "line": "Well?",
+      "wordCount": 1
+    },
+    {
+      "id": 211,
+      "index": 211,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "If she is, the machine works.",
+      "wordCount": 6
+    },
+    {
+      "id": 212,
+      "index": 212,
+      "character": "TYRELL",
+      "gender": "Male",
+      "line": "The machine works. She is.",
+      "wordCount": 5
+    },
+    {
+      "id": 213,
+      "index": 213,
+      "character": "TYRELL",
+      "gender": "Male",
+      "line": "How many questions did it take?",
+      "wordCount": 6
+    },
+    {
+      "id": 214,
+      "index": 214,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "Thirteen.",
+      "wordCount": 1
+    },
+    {
+      "id": 215,
+      "index": 215,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "She didn't know?",
+      "wordCount": 3
+    },
+    {
+      "id": 216,
+      "index": 216,
+      "character": "TYRELL",
+      "gender": "Male",
+      "line": "Memory implant. She was programmed. But I think she has transcended her conditioning. I think she was beginning to suspect.",
+      "wordCount": 20
+    },
+    {
+      "id": 217,
+      "index": 217,
+      "character": "TYRELL",
+      "gender": "Male",
+      "line": "How many questions does it usually take, Mr. Deckard?",
+      "wordCount": 9
+    },
+    {
+      "id": 218,
+      "index": 218,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "Five, maybe six.",
+      "wordCount": 3
+    },
+    {
+      "id": 219,
+      "index": 219,
+      "character": "TYRELL",
+      "gender": "Male",
+      "line": "You're going to have to be on your toes, my friend.",
+      "wordCount": 11
+    },
+    {
+      "id": 220,
+      "index": 220,
+      "character": "TYRELL",
+      "gender": "Male",
+      "line": "It's a complex problem and we wouldn't want anything to happen to you.",
+      "wordCount": 13
+    },
+    {
+      "id": 221,
+      "index": 221,
+      "character": "TYRELL",
+      "gender": "Male",
+      "line": "For the good of all, I recommend you take Rachael with you. Considering her uniqueness, I'm sure she could prove quite helpful.",
+      "wordCount": 22
+    },
+    {
+      "id": 222,
+      "index": 222,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "No thanks.",
+      "wordCount": 2
+    },
+    {
+      "id": 223,
+      "index": 223,
+      "character": "TYRELL",
+      "gender": "Male",
+      "line": "And how is it one man will be able to cover so much ground?",
+      "wordCount": 14
+    },
+    {
+      "id": 224,
+      "index": 224,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "Discreetly.",
+      "wordCount": 1
+    },
+    {
+      "id": 225,
+      "index": 225,
+      "character": "TYRELL",
+      "gender": "Male",
+      "line": "All pertinent information is being fed into your departmental computer, an Esper 231 -- I believe -- and a photo over-lay packet is being produced.",
+      "wordCount": 25
+    },
+    {
+      "id": 226,
+      "index": 226,
+      "character": "TYRELL",
+      "gender": "Male",
+      "line": "Mr. Deckard, I think it would be wise to reconsider my offer.",
+      "wordCount": 12
+    },
+    {
+      "id": 227,
+      "index": 227,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "I work alone.",
+      "wordCount": 3
+    },
+    {
+      "id": 228,
+      "index": 228,
+      "character": "VOICE",
+      "gender": "NA",
+      "line": "Let's keep our eyes on the road, Deckard.",
+      "wordCount": 8
+    },
+    {
+      "id": 229,
+      "index": 229,
+      "character": "DECKARD'S VOICE",
+      "gender": "NA",
+      "line": "Sorry.",
+      "wordCount": 1
+    },
+    {
+      "id": 230,
+      "index": 230,
+      "character": "VOICE",
+      "gender": "NA",
+      "line": "Come on, stay with the machine.",
+      "wordCount": 6
+    },
+    {
+      "id": 231,
+      "index": 231,
+      "character": "VOICE",
+      "gender": "NA",
+      "line": "We're going to have to start the sequence again if you don't stay with me, Deckard. Concentrate.",
+      "wordCount": 17
+    },
+    {
+      "id": 232,
+      "index": 232,
+      "character": "DECKARD'S VOICE",
+      "gender": "NA",
+      "line": "How do you know I'm not?",
+      "wordCount": 6
+    },
+    {
+      "id": 233,
+      "index": 233,
+      "character": "VOICE",
+      "gender": "NA",
+      "line": "You're not responding to the stimulus. I can see right here, I'm not getting a reading.",
+      "wordCount": 16
+    },
+    {
+      "id": 234,
+      "index": 234,
+      "character": "DECKARD'S VOICE",
+      "gender": "NA",
+      "line": "I'm tired of this.",
+      "wordCount": 4
+    },
+    {
+      "id": 235,
+      "index": 235,
+      "character": "VOICE",
+      "gender": "NA",
+      "line": "Almost through.",
+      "wordCount": 2
+    },
+    {
+      "id": 236,
+      "index": 236,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "So how did I do?",
+      "wordCount": 5
+    },
+    {
+      "id": 237,
+      "index": 237,
+      "character": "WHEELER",
+      "gender": "NA",
+      "line": "Nerves of steel.",
+      "wordCount": 3
+    },
+    {
+      "id": 238,
+      "index": 238,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "No rust?",
+      "wordCount": 2
+    },
+    {
+      "id": 239,
+      "index": 239,
+      "character": "WHEELER",
+      "gender": "NA",
+      "line": "I didn't say that. Your motivity rate checked out a little slower than last time.",
+      "wordCount": 15
+    },
+    {
+      "id": 240,
+      "index": 240,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "Meaning?",
+      "wordCount": 1
+    },
+    {
+      "id": 241,
+      "index": 241,
+      "character": "WHEELER",
+      "gender": "NA",
+      "line": "Meaning you don't run as fast as you used to.",
+      "wordCount": 10
+    },
+    {
+      "id": 242,
+      "index": 242,
+      "character": "WHEELER",
+      "gender": "NA",
+      "line": "During the road test...",
+      "wordCount": 4
+    },
+    {
+      "id": 243,
+      "index": 243,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "Yeah?",
+      "wordCount": 1
+    },
+    {
+      "id": 244,
+      "index": 244,
+      "character": "WHEELER",
+      "gender": "NA",
+      "line": "Your mind kept wandering. That bothered me.",
+      "wordCount": 7
+    },
+    {
+      "id": 245,
+      "index": 245,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "Huh huh.",
+      "wordCount": 2
+    },
+    {
+      "id": 246,
+      "index": 246,
+      "character": "WHEELER",
+      "gender": "NA",
+      "line": "Considering the nature of your work, that could be unhealthy.",
+      "wordCount": 10
+    },
+    {
+      "id": 247,
+      "index": 247,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "True.",
+      "wordCount": 1
+    },
+    {
+      "id": 248,
+      "index": 248,
+      "character": "WHEELER",
+      "gender": "NA",
+      "line": "You got a birthday coming up.",
+      "wordCount": 6
+    },
+    {
+      "id": 249,
+      "index": 249,
+      "character": "WHEELER",
+      "gender": "NA",
+      "line": "But you haven't put in for emigration.",
+      "wordCount": 7
+    },
+    {
+      "id": 250,
+      "index": 250,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "Nope.",
+      "wordCount": 1
+    },
+    {
+      "id": 251,
+      "index": 251,
+      "character": "WHEELER",
+      "gender": "NA",
+      "line": "You're going to be over the limit.",
+      "wordCount": 7
+    },
+    {
+      "id": 252,
+      "index": 252,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "Listen, I could make you a long list of complaints about this fucken city but I still rather be here than up there.",
+      "wordCount": 23
+    },
+    {
+      "id": 253,
+      "index": 253,
+      "character": "WHEELER",
+      "gender": "NA",
+      "line": "What if you change your mind?",
+      "wordCount": 6
+    },
+    {
+      "id": 254,
+      "index": 254,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "They'll change the limit before I change my mind.",
+      "wordCount": 9
+    },
+    {
+      "id": 255,
+      "index": 255,
+      "character": "WHEELER",
+      "gender": "NA",
+      "line": "You sure?",
+      "wordCount": 2
+    },
+    {
+      "id": 256,
+      "index": 256,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "Never been more sure of anything in my life.",
+      "wordCount": 9
+    },
+    {
+      "id": 257,
+      "index": 257,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "Why didn't you go?",
+      "wordCount": 4
+    },
+    {
+      "id": 258,
+      "index": 258,
+      "character": "WHEELER",
+      "gender": "NA",
+      "line": "Too old.",
+      "wordCount": 2
+    },
+    {
+      "id": 259,
+      "index": 259,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "But if you could?",
+      "wordCount": 4
+    },
+    {
+      "id": 260,
+      "index": 260,
+      "character": "WHEELER",
+      "gender": "NA",
+      "line": "My job is here.",
+      "wordCount": 4
+    },
+    {
+      "id": 261,
+      "index": 261,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "Me too.",
+      "wordCount": 2
+    },
+    {
+      "id": 262,
+      "index": 262,
+      "character": "BATTY",
+      "gender": "Male",
+      "line": "What's going on down there?",
+      "wordCount": 5
+    },
+    {
+      "id": 263,
+      "index": 263,
+      "character": "PRIS",
+      "gender": "Female",
+      "line": "He's not ready yet.",
+      "wordCount": 4
+    },
+    {
+      "id": 264,
+      "index": 264,
+      "character": "BATTY",
+      "gender": "Male",
+      "line": "When?",
+      "wordCount": 1
+    },
+    {
+      "id": 265,
+      "index": 265,
+      "character": "PRIS",
+      "gender": "Female",
+      "line": "Tomorrow, he says.",
+      "wordCount": 3
+    },
+    {
+      "id": 266,
+      "index": 266,
+      "character": "RACHAEL",
+      "gender": "Female",
+      "line": "Was that your dinner?",
+      "wordCount": 4
+    },
+    {
+      "id": 267,
+      "index": 267,
+      "character": "RACHAEL",
+      "gender": "Female",
+      "line": "I'm sorry. I called and found out you were on your way home. These were already delivered to your department but I thought you should have copies as soon as possible.",
+      "wordCount": 31
+    },
+    {
+      "id": 268,
+      "index": 268,
+      "character": "RACHAEL",
+      "gender": "Female",
+      "line": "It's the Nexus information you wanted.",
+      "wordCount": 6
+    },
+    {
+      "id": 269,
+      "index": 269,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "Thanks.",
+      "wordCount": 1
+    },
+    {
+      "id": 270,
+      "index": 270,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "Is there anything else?",
+      "wordCount": 4
+    },
+    {
+      "id": 271,
+      "index": 271,
+      "character": "RACHAEL",
+      "gender": "Female",
+      "line": "I know you think it complicates your work, but I'm here to help.",
+      "wordCount": 13
+    },
+    {
+      "id": 272,
+      "index": 272,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "I've already got more help than I need.",
+      "wordCount": 8
+    },
+    {
+      "id": 273,
+      "index": 273,
+      "character": "RACHAEL",
+      "gender": "Female",
+      "line": "I think you need more help than you've got.",
+      "wordCount": 9
+    },
+    {
+      "id": 274,
+      "index": 274,
+      "character": "RACHAEL",
+      "gender": "Female",
+      "line": "There's two reasons a man rejects help. Either because he's so good at what he does he doesn't think he needs it, or he's so insecure he can't admit it.",
+      "wordCount": 30
+    },
+    {
+      "id": 275,
+      "index": 275,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "Sounds like I'm an ass-hole either way, but the answer is still no.",
+      "wordCount": 13
+    },
+    {
+      "id": 276,
+      "index": 276,
+      "character": "RACHAEL",
+      "gender": "Female",
+      "line": "Two of us might be more effective than one.",
+      "wordCount": 9
+    },
+    {
+      "id": 277,
+      "index": 277,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "I work alone.",
+      "wordCount": 3
+    },
+    {
+      "id": 278,
+      "index": 278,
+      "character": "RACHAEL",
+      "gender": "Female",
+      "line": "No you don't.",
+      "wordCount": 3
+    },
+    {
+      "id": 279,
+      "index": 279,
+      "character": "RACHAEL",
+      "gender": "Female",
+      "line": "You use your equipment, don't you?",
+      "wordCount": 6
+    },
+    {
+      "id": 280,
+      "index": 280,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "So?",
+      "wordCount": 1
+    },
+    {
+      "id": 281,
+      "index": 281,
+      "character": "RACHAEL",
+      "gender": "Female",
+      "line": "So, I'm a piece of equipment. Use me.",
+      "wordCount": 8
+    },
+    {
+      "id": 282,
+      "index": 282,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "That's okay, I'll get it...",
+      "wordCount": 5
+    },
+    {
+      "id": 283,
+      "index": 283,
+      "character": "RACHAEL",
+      "gender": "Female",
+      "line": "Do I make you nervous?",
+      "wordCount": 5
+    },
+    {
+      "id": 284,
+      "index": 284,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "Yeah.",
+      "wordCount": 1
+    },
+    {
+      "id": 285,
+      "index": 285,
+      "character": "RACHAEL",
+      "gender": "Female",
+      "line": "I'm sorry.",
+      "wordCount": 2
+    },
+    {
+      "id": 286,
+      "index": 286,
+      "character": "RACHAEL",
+      "gender": "Female",
+      "line": "It's strange to suddenly realize that what you thought was your life is actually someone else's fabrication.",
+      "wordCount": 17
+    },
+    {
+      "id": 287,
+      "index": 287,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "I can imagine.",
+      "wordCount": 3
+    },
+    {
+      "id": 288,
+      "index": 288,
+      "character": "RACHAEL",
+      "gender": "Female",
+      "line": "Can you? I couldn't.",
+      "wordCount": 4
+    },
+    {
+      "id": 289,
+      "index": 289,
+      "character": "RACHAEL",
+      "gender": "Female",
+      "line": "A part of me is glad. I think I feel more. I don't like who I was before.",
+      "wordCount": 18
+    },
+    {
+      "id": 290,
+      "index": 290,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "So why do you think they were after their records.",
+      "wordCount": 10
+    },
+    {
+      "id": 291,
+      "index": 291,
+      "character": "RACHAEL",
+      "gender": "Female",
+      "line": "They probably want to find out when they were made.",
+      "wordCount": 10
+    },
+    {
+      "id": 292,
+      "index": 292,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "Right.",
+      "wordCount": 1
+    },
+    {
+      "id": 293,
+      "index": 293,
+      "character": "RACHAEL",
+      "gender": "Female",
+      "line": "I guess the date of your birth is important if you know you're not made to last.",
+      "wordCount": 17
+    },
+    {
+      "id": 294,
+      "index": 294,
+      "character": "RACHAEL",
+      "gender": "Female",
+      "line": "That's my number. If you need me.",
+      "wordCount": 7
+    },
+    {
+      "id": 295,
+      "index": 295,
+      "character": "RACHAEL",
+      "gender": "Female",
+      "line": "You better get better locks -- if you want to keep me out.",
+      "wordCount": 13
+    },
+    {
+      "id": 296,
+      "index": 296,
+      "character": "RACHAEL",
+      "gender": "Female",
+      "line": "Good night.",
+      "wordCount": 2
+    },
+    {
+      "id": 297,
+      "index": 297,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "Night.",
+      "wordCount": 1
+    },
+    {
+      "id": 298,
+      "index": 298,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "The possibilities were infinite. They could change their appearances but not their future. Like she said, it was short. Longevity is what they were after. The garbage man even wanted a past. Poor fuck. I'd check it out but I knew she was right. The market worked on turn-over. Built-in obsolescence was the name of the game. That meant her too. It was something I didn't want to think about.",
+      "wordCount": 70
+    },
+    {
+      "id": 299,
+      "index": 299,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "Yeah.",
+      "wordCount": 1
+    },
+    {
+      "id": 300,
+      "index": 300,
+      "character": "BRYANT",
+      "gender": "Male",
+      "line": "Bryant here. Regarding the rundown you requested on job applicants, Esper's concluded that the only irregular category that Tyrell's got is the entertainment section. You better get on it.",
+      "wordCount": 29
+    },
+    {
+      "id": 301,
+      "index": 301,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "I was just about to have my dinner.",
+      "wordCount": 8
+    },
+    {
+      "id": 302,
+      "index": 302,
+      "character": "BRYANT",
+      "gender": "Male",
+      "line": "If you hurry you'll get back before it gets cold. I got a spinner on your roof in five minutes. Good luck.",
+      "wordCount": 22
+    },
+    {
+      "id": 303,
+      "index": 303,
+      "character": "EPSER",
+      "gender": "NA",
+      "line": "Nexus designated Rachael is a prototype. Created for in-house use by special mandate form the Scientific Development Regulatory Committee. Will live conventional term -- no para-physical abilities.",
+      "wordCount": 27
+    },
+    {
+      "id": 304,
+      "index": 304,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "What is a conventional term?",
+      "wordCount": 5
+    },
+    {
+      "id": 305,
+      "index": 305,
+      "character": "ESPER",
+      "gender": "NA",
+      "line": "Four years. Which would make her termination date...",
+      "wordCount": 8
+    },
+    {
+      "id": 306,
+      "index": 306,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "Never mind. Do they have that knowledge?",
+      "wordCount": 7
+    },
+    {
+      "id": 307,
+      "index": 307,
+      "character": "ESPER",
+      "gender": "NA",
+      "line": "Longevity is classified. No.",
+      "wordCount": 4
+    },
+    {
+      "id": 308,
+      "index": 308,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "Okay, gimme a run-down on the three females.",
+      "wordCount": 8
+    },
+    {
+      "id": 309,
+      "index": 309,
+      "character": "ESPER",
+      "gender": "NA",
+      "line": "Nexus designated Mary: incept November 1 2017, domestic conditioning non competitive, trained for day care position.",
+      "wordCount": 16
+    },
+    {
+      "id": 310,
+      "index": 310,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "Next.",
+      "wordCount": 1
+    },
+    {
+      "id": 311,
+      "index": 311,
+      "character": "ESPER",
+      "gender": "NA",
+      "line": "Nexus designated Pris: incept data December 13 2017, competitive, programmed to provide pleasure for long term spacers.",
+      "wordCount": 17
+    },
+    {
+      "id": 312,
+      "index": 312,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "Number three.",
+      "wordCount": 2
+    },
+    {
+      "id": 313,
+      "index": 313,
+      "character": "ESPER",
+      "gender": "NA",
+      "line": "Nexus designated Zhora: incept June 13th 2017, athletic conditioning, highly competitive, special abilities in the entertainment field.",
+      "wordCount": 17
+    },
+    {
+      "id": 314,
+      "index": 314,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "Fuck.",
+      "wordCount": 1
+    },
+    {
+      "id": 315,
+      "index": 315,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "Taffey Lewis?",
+      "wordCount": 2
+    },
+    {
+      "id": 316,
+      "index": 316,
+      "character": "TAFFEY",
+      "gender": "Male",
+      "line": "Yes?",
+      "wordCount": 1
+    },
+    {
+      "id": 317,
+      "index": 317,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "Can I come in?",
+      "wordCount": 4
+    },
+    {
+      "id": 318,
+      "index": 318,
+      "character": "TAFFEY",
+      "gender": "Male",
+      "line": "Excuse my niece there... She's studying for an exam.",
+      "wordCount": 9
+    },
+    {
+      "id": 319,
+      "index": 319,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "I'd like you to take a look at these pictures.",
+      "wordCount": 10
+    },
+    {
+      "id": 320,
+      "index": 320,
+      "character": "TAFFEY",
+      "gender": "Male",
+      "line": "Of course.",
+      "wordCount": 2
+    },
+    {
+      "id": 321,
+      "index": 321,
+      "character": "TAFFEY",
+      "gender": "Male",
+      "line": "You see I lost my contacts a couple of days ago around here somewhere and my sight is a little... What am I supposed to be looking for?",
+      "wordCount": 28
+    },
+    {
+      "id": 322,
+      "index": 322,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "Do you recognize any of them?",
+      "wordCount": 6
+    },
+    {
+      "id": 323,
+      "index": 323,
+      "character": "TAFFEY",
+      "gender": "Male",
+      "line": "This one looks familiar, but I don't know. Naw. There's one came in today looks a little like this one but...",
+      "wordCount": 21
+    },
+    {
+      "id": 324,
+      "index": 324,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "What did she want?",
+      "wordCount": 4
+    },
+    {
+      "id": 325,
+      "index": 325,
+      "character": "TAFFEY",
+      "gender": "Male",
+      "line": "Who?",
+      "wordCount": 1
+    },
+    {
+      "id": 326,
+      "index": 326,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "The girl that doesn't look like that girl.",
+      "wordCount": 8
+    },
+    {
+      "id": 327,
+      "index": 327,
+      "character": "TAFFEY",
+      "gender": "Male",
+      "line": "Nothing. She wanted to know about suck night.",
+      "wordCount": 8
+    },
+    {
+      "id": 328,
+      "index": 328,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "What night?",
+      "wordCount": 2
+    },
+    {
+      "id": 329,
+      "index": 329,
+      "character": "TAFFEY",
+      "gender": "Male",
+      "line": "I didn't know if I wanted to handle her -- I already got a snake act. But my partner goes down there to the Opera House on suck night to book the good ones.",
+      "wordCount": 34
+    },
+    {
+      "id": 330,
+      "index": 330,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "What's suck night?",
+      "wordCount": 3
+    },
+    {
+      "id": 331,
+      "index": 331,
+      "character": "TAFFEY",
+      "gender": "Male",
+      "line": "That's what we call in the trade, audition free-for- alls and most of it sucks. Bit I don't think that's her.",
+      "wordCount": 21
+    },
+    {
+      "id": 332,
+      "index": 332,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "You talking about the Opera House on the Main?",
+      "wordCount": 9
+    },
+    {
+      "id": 333,
+      "index": 333,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "Book the good ones for where?",
+      "wordCount": 6
+    },
+    {
+      "id": 334,
+      "index": 334,
+      "character": "TAFFEY",
+      "gender": "Male",
+      "line": "Lots of places. The tours, the clubs, the Silicone shows, private parties.",
+      "wordCount": 12
+    },
+    {
+      "id": 335,
+      "index": 335,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "What shows?",
+      "wordCount": 2
+    },
+    {
+      "id": 336,
+      "index": 336,
+      "character": "TAFFEY",
+      "gender": "Male",
+      "line": "Silicone Valley. Lots of these science guys never leave that place. We book two shows a month in there. Those big time techs and bio- guys might be real high zoners up here, but when it comes to the arts, they like it loud and lewd.",
+      "wordCount": 46
+    },
+    {
+      "id": 337,
+      "index": 337,
+      "character": "ANNOUNCER'S VOICE",
+      "gender": "NA",
+      "line": "Let's hear it for the Hermano Brothers.",
+      "wordCount": 7
+    },
+    {
+      "id": 338,
+      "index": 338,
+      "character": "ANNOUNCER'S VOICE",
+      "gender": "NA",
+      "line": "Next we're gonna see a little charmer who keeps her dancing partner in a basket! She comes to us all the way from exotic Casablanca. 'Salome.'",
+      "wordCount": 26
+    },
+    {
+      "id": 339,
+      "index": 339,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "Excuse me, Miss Salome.",
+      "wordCount": 4
+    },
+    {
+      "id": 340,
+      "index": 340,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "I'd like to have a word with you if I could.",
+      "wordCount": 11
+    },
+    {
+      "id": 341,
+      "index": 341,
+      "character": "SALOME",
+      "gender": "NA",
+      "line": "Yeah?",
+      "wordCount": 1
+    },
+    {
+      "id": 342,
+      "index": 342,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "I'm with the American Federation of Variety Artists...",
+      "wordCount": 8
+    },
+    {
+      "id": 343,
+      "index": 343,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "Don't worry, I'm not here to make you join -- that's not my department.",
+      "wordCount": 14
+    },
+    {
+      "id": 344,
+      "index": 344,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "I'm an investigator for the Confidential Committee on Moral Abuses.",
+      "wordCount": 10
+    },
+    {
+      "id": 345,
+      "index": 345,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "There's been reports of management sexually abusing the artists in this place.",
+      "wordCount": 12
+    },
+    {
+      "id": 346,
+      "index": 346,
+      "character": "SALOME",
+      "gender": "NA",
+      "line": "I don't know nothing about it.",
+      "wordCount": 6
+    },
+    {
+      "id": 347,
+      "index": 347,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "You haven't felt yourself to be exploited by the management in any way?",
+      "wordCount": 13
+    },
+    {
+      "id": 348,
+      "index": 348,
+      "character": "SALOME",
+      "gender": "NA",
+      "line": "How do you mean 'exploited'?",
+      "wordCount": 5
+    },
+    {
+      "id": 349,
+      "index": 349,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "Like to get this position. Did you or were you asked to do anything lewd or unsavory or otherwise repulsive to your person?",
+      "wordCount": 23
+    },
+    {
+      "id": 350,
+      "index": 350,
+      "character": "SALOME",
+      "gender": "NA",
+      "line": "Are you for real?",
+      "wordCount": 4
+    },
+    {
+      "id": 351,
+      "index": 351,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "Oh, yeah. You'd be surprised what goes on around here. I'd like to check the dressing room if I could.",
+      "wordCount": 20
+    },
+    {
+      "id": 352,
+      "index": 352,
+      "character": "SALOME",
+      "gender": "NA",
+      "line": "What the fuck for?",
+      "wordCount": 4
+    },
+    {
+      "id": 353,
+      "index": 353,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "For holes.",
+      "wordCount": 2
+    },
+    {
+      "id": 354,
+      "index": 354,
+      "character": "SALOME",
+      "gender": "NA",
+      "line": "I don't believe this.",
+      "wordCount": 4
+    },
+    {
+      "id": 355,
+      "index": 355,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "It that mother real?",
+      "wordCount": 4
+    },
+    {
+      "id": 356,
+      "index": 356,
+      "character": "SALOME",
+      "gender": "NA",
+      "line": "Of course he's not real. You think I'd be working here if I could afford a real snake?",
+      "wordCount": 18
+    },
+    {
+      "id": 357,
+      "index": 357,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "It's a good job.",
+      "wordCount": 4
+    },
+    {
+      "id": 358,
+      "index": 358,
+      "character": "SALOME",
+      "gender": "NA",
+      "line": "You mean the snake.",
+      "wordCount": 4
+    },
+    {
+      "id": 359,
+      "index": 359,
+      "character": "SALOME",
+      "gender": "NA",
+      "line": "The best.",
+      "wordCount": 2
+    },
+    {
+      "id": 360,
+      "index": 360,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "Does it eat?",
+      "wordCount": 3
+    },
+    {
+      "id": 361,
+      "index": 361,
+      "character": "SALOME",
+      "gender": "NA",
+      "line": "Come on.",
+      "wordCount": 2
+    },
+    {
+      "id": 362,
+      "index": 362,
+      "character": "SALOME",
+      "gender": "NA",
+      "line": "Jeezus!",
+      "wordCount": 1
+    },
+    {
+      "id": 363,
+      "index": 363,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "Sorry.",
+      "wordCount": 1
+    },
+    {
+      "id": 364,
+      "index": 364,
+      "character": "SALOME",
+      "gender": "NA",
+      "line": "Hey! Do your job but don't wreck mine, huh?",
+      "wordCount": 9
+    },
+    {
+      "id": 365,
+      "index": 365,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "They have their ways of doing their dirty work without the victim knowing what's going on.",
+      "wordCount": 16
+    },
+    {
+      "id": 366,
+      "index": 366,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "You'd be surprised what a guy'll go through to get a glimpse of a beautiful body.",
+      "wordCount": 16
+    },
+    {
+      "id": 367,
+      "index": 367,
+      "character": "SALOME",
+      "gender": "NA",
+      "line": "I bet I would.",
+      "wordCount": 4
+    },
+    {
+      "id": 368,
+      "index": 368,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "Little dirty holes the bastards drill in the wall so they can watch a lady undress.",
+      "wordCount": 16
+    },
+    {
+      "id": 369,
+      "index": 369,
+      "character": "SALOME",
+      "gender": "NA",
+      "line": "And what if somebody did try to 'exploit' me? Who do I go to?",
+      "wordCount": 14
+    },
+    {
+      "id": 370,
+      "index": 370,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "Me.",
+      "wordCount": 1
+    },
+    {
+      "id": 371,
+      "index": 371,
+      "character": "SALOME",
+      "gender": "NA",
+      "line": "And who do I go to about you?",
+      "wordCount": 8
+    },
+    {
+      "id": 372,
+      "index": 372,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "Hmmmmm?",
+      "wordCount": 1
+    },
+    {
+      "id": 373,
+      "index": 373,
+      "character": "ZHORA",
+      "gender": "Female",
+      "line": "You ever get the feeling things aren't the way they seem?",
+      "wordCount": 11
+    },
+    {
+      "id": 374,
+      "index": 374,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "Stop or you're dead!",
+      "wordCount": 4
+    },
+    {
+      "id": 375,
+      "index": 375,
+      "character": "COP",
+      "gender": "NA",
+      "line": "Drop it!",
+      "wordCount": 2
+    },
+    {
+      "id": 376,
+      "index": 376,
+      "character": "SERGEANT",
+      "gender": "NA",
+      "line": "On your belly!",
+      "wordCount": 3
+    },
+    {
+      "id": 377,
+      "index": 377,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "Listen, Sergeant...",
+      "wordCount": 2
+    },
+    {
+      "id": 378,
+      "index": 378,
+      "character": "COP",
+      "gender": "NA",
+      "line": "Hey, Sarge, this guy's a cop.",
+      "wordCount": 6
+    },
+    {
+      "id": 379,
+      "index": 379,
+      "character": "SERGEANT",
+      "gender": "NA",
+      "line": "Clear this fuckin' crowd.",
+      "wordCount": 4
+    },
+    {
+      "id": 380,
+      "index": 380,
+      "character": "BRYANT",
+      "gender": "Male",
+      "line": "Just because it's a Nexus 6 doesn't change procedure. A little known fact can become a well-known fact and part of our job, Deckard, is to make sure that doesn't happen. Now how can be do that if you blow one away in front of a fuckin' audience.",
+      "wordCount": 48
+    },
+    {
+      "id": 381,
+      "index": 381,
+      "character": "BRYANT",
+      "gender": "Male",
+      "line": "Well?",
+      "wordCount": 1
+    },
+    {
+      "id": 382,
+      "index": 382,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "She was gonna get away.",
+      "wordCount": 5
+    },
+    {
+      "id": 383,
+      "index": 383,
+      "character": "BRYANT",
+      "gender": "Male",
+      "line": "Then let her get away. I thought you were a pro -- you're supposed to be a fuckin' tracker!",
+      "wordCount": 19
+    },
+    {
+      "id": 384,
+      "index": 384,
+      "character": "BRYANT",
+      "gender": "Male",
+      "line": "I'd say you got a little carried away.",
+      "wordCount": 8
+    },
+    {
+      "id": 385,
+      "index": 385,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "I didn't like her.",
+      "wordCount": 4
+    },
+    {
+      "id": 386,
+      "index": 386,
+      "character": "BRYANT",
+      "gender": "Male",
+      "line": "You didn't like her!?",
+      "wordCount": 4
+    },
+    {
+      "id": 387,
+      "index": 387,
+      "character": "BRYANT",
+      "gender": "Male",
+      "line": "You start liking or disliking andies it's time to hang it up.",
+      "wordCount": 12
+    },
+    {
+      "id": 388,
+      "index": 388,
+      "character": "BRYANT",
+      "gender": "Male",
+      "line": "Look, go home. Get some rest. Take an aspirin.",
+      "wordCount": 9
+    },
+    {
+      "id": 389,
+      "index": 389,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "Yeah.",
+      "wordCount": 1
+    },
+    {
+      "id": 390,
+      "index": 390,
+      "character": "BARTENDER",
+      "gender": "NA",
+      "line": "I can't protect your drinks, mister; while you was in the potty, this hummer snatched it.",
+      "wordCount": 16
+    },
+    {
+      "id": 391,
+      "index": 391,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "No problem. Gimme another.",
+      "wordCount": 4
+    },
+    {
+      "id": 392,
+      "index": 392,
+      "character": "RUSSIAN",
+      "gender": "NA",
+      "line": "Forgive me. I thought was free drink. I will pay.",
+      "wordCount": 10
+    },
+    {
+      "id": 393,
+      "index": 393,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "Forget it.",
+      "wordCount": 2
+    },
+    {
+      "id": 394,
+      "index": 394,
+      "character": "LEON",
+      "gender": "Male",
+      "line": "I think I have no money.",
+      "wordCount": 6
+    },
+    {
+      "id": 395,
+      "index": 395,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "It's okay. Forget it.",
+      "wordCount": 4
+    },
+    {
+      "id": 396,
+      "index": 396,
+      "character": "LEON",
+      "gender": "Male",
+      "line": "But I would like to buy you drink.",
+      "wordCount": 8
+    },
+    {
+      "id": 397,
+      "index": 397,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "I'll but you one. What'll you have?",
+      "wordCount": 7
+    },
+    {
+      "id": 398,
+      "index": 398,
+      "character": "LEON",
+      "gender": "Male",
+      "line": "Vodka!",
+      "wordCount": 1
+    },
+    {
+      "id": 399,
+      "index": 399,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "Shot of vodka, please.",
+      "wordCount": 4
+    },
+    {
+      "id": 400,
+      "index": 400,
+      "character": "LEON",
+      "gender": "Male",
+      "line": "Thank you very much.",
+      "wordCount": 4
+    },
+    {
+      "id": 401,
+      "index": 401,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "My pleasure.",
+      "wordCount": 2
+    },
+    {
+      "id": 402,
+      "index": 402,
+      "character": "LEON",
+      "gender": "Male",
+      "line": "Prosit.",
+      "wordCount": 1
+    },
+    {
+      "id": 403,
+      "index": 403,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "Prosit.",
+      "wordCount": 1
+    },
+    {
+      "id": 404,
+      "index": 404,
+      "character": "LEON",
+      "gender": "Male",
+      "line": "You want to see my friends?",
+      "wordCount": 6
+    },
+    {
+      "id": 405,
+      "index": 405,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "Sorry, don't have the time.",
+      "wordCount": 5
+    },
+    {
+      "id": 406,
+      "index": 406,
+      "character": "LEON",
+      "gender": "Male",
+      "line": "No problem.",
+      "wordCount": 2
+    },
+    {
+      "id": 407,
+      "index": 407,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "Those cockroaches?",
+      "wordCount": 2
+    },
+    {
+      "id": 408,
+      "index": 408,
+      "character": "LEON",
+      "gender": "Male",
+      "line": "Ya.",
+      "wordCount": 1
+    },
+    {
+      "id": 409,
+      "index": 409,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "How long you had these guys?",
+      "wordCount": 6
+    },
+    {
+      "id": 410,
+      "index": 410,
+      "character": "LEON",
+      "gender": "Male",
+      "line": "Two months. But this one is not guy. It is girl. His girl.",
+      "wordCount": 13
+    },
+    {
+      "id": 411,
+      "index": 411,
+      "character": "LEON",
+      "gender": "Male",
+      "line": "Usually Blackie waits until Igor is eating; then, when his back is turned, he tries to take advantage of Anna.",
+      "wordCount": 20
+    },
+    {
+      "id": 412,
+      "index": 412,
+      "character": "LEON",
+      "gender": "Male",
+      "line": "Prosit.",
+      "wordCount": 1
+    },
+    {
+      "id": 413,
+      "index": 413,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "Prosit.",
+      "wordCount": 1
+    },
+    {
+      "id": 414,
+      "index": 414,
+      "character": "LEON",
+      "gender": "Male",
+      "line": "You never saw a cockroach make love?",
+      "wordCount": 7
+    },
+    {
+      "id": 415,
+      "index": 415,
+      "character": "LEON",
+      "gender": "Male",
+      "line": "We will try.",
+      "wordCount": 3
+    },
+    {
+      "id": 416,
+      "index": 416,
+      "character": "LEON",
+      "gender": "Male",
+      "line": "It must be that he is not hungry or maybe she is not hot.",
+      "wordCount": 14
+    },
+    {
+      "id": 417,
+      "index": 417,
+      "character": "LEON",
+      "gender": "Male",
+      "line": "You like to kiss her goodbye.",
+      "wordCount": 6
+    },
+    {
+      "id": 418,
+      "index": 418,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "No thanks.",
+      "wordCount": 2
+    },
+    {
+      "id": 419,
+      "index": 419,
+      "character": "BARTENDER",
+      "gender": "NA",
+      "line": "Make sure you take your girlfriends with you when you leave.",
+      "wordCount": 11
+    },
+    {
+      "id": 420,
+      "index": 420,
+      "character": "LEON",
+      "gender": "Male",
+      "line": "I like you.",
+      "wordCount": 3
+    },
+    {
+      "id": 421,
+      "index": 421,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "I like you too.",
+      "wordCount": 4
+    },
+    {
+      "id": 422,
+      "index": 422,
+      "character": "LEON",
+      "gender": "Male",
+      "line": "One more, eh?",
+      "wordCount": 3
+    },
+    {
+      "id": 423,
+      "index": 423,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "I gotta piss.",
+      "wordCount": 3
+    },
+    {
+      "id": 424,
+      "index": 424,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "I think I'll piss outside.",
+      "wordCount": 5
+    },
+    {
+      "id": 425,
+      "index": 425,
+      "character": "LEON",
+      "gender": "Male",
+      "line": "How come you know where Zhora was so quick?",
+      "wordCount": 9
+    },
+    {
+      "id": 426,
+      "index": 426,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "I showed pictures. Somebody recognized her. I went to see.",
+      "wordCount": 10
+    },
+    {
+      "id": 427,
+      "index": 427,
+      "character": "LEON",
+      "gender": "Male",
+      "line": "How old am I?",
+      "wordCount": 4
+    },
+    {
+      "id": 428,
+      "index": 428,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "I don't know.",
+      "wordCount": 3
+    },
+    {
+      "id": 429,
+      "index": 429,
+      "character": "LEON",
+      "gender": "Male",
+      "line": "My birthday is April 10, 2015. How long do I live?",
+      "wordCount": 11
+    },
+    {
+      "id": 430,
+      "index": 430,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "Four years.",
+      "wordCount": 2
+    },
+    {
+      "id": 431,
+      "index": 431,
+      "character": "LEON",
+      "gender": "Male",
+      "line": "More than you.",
+      "wordCount": 3
+    },
+    {
+      "id": 432,
+      "index": 432,
+      "character": "LEON",
+      "gender": "Male",
+      "line": "Painful to live in fear, isn't it.",
+      "wordCount": 7
+    },
+    {
+      "id": 433,
+      "index": 433,
+      "character": "LEON",
+      "gender": "Male",
+      "line": "But that's how it is to be a slave. The future is sealed off, he grovels, he waits.",
+      "wordCount": 18
+    },
+    {
+      "id": 434,
+      "index": 434,
+      "character": "LEON",
+      "gender": "Male",
+      "line": "Sex, reproduction, security, the simple things. But no way to satisfy them. To be homesick with no place to go. Potential with no way to use it. Lots of little oversights in the Nexus 6.",
+      "wordCount": 35
+    },
+    {
+      "id": 435,
+      "index": 435,
+      "character": "LEON",
+      "gender": "Male",
+      "line": "I tell you, nothing is worse than having an itch you can never scratch.",
+      "wordCount": 14
+    },
+    {
+      "id": 436,
+      "index": 436,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "Like I said, I don't need your help.",
+      "wordCount": 8
+    },
+    {
+      "id": 437,
+      "index": 437,
+      "character": "RACHAEL",
+      "gender": "Female",
+      "line": "You look terrible, you know that?",
+      "wordCount": 6
+    },
+    {
+      "id": 438,
+      "index": 438,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "I knew a cop once who was involved in a high-speed chase. They shot out one of his tires and he went over a cliff at hundred and fifty miles an hour. They found him in the morning with a broken skull, six fractured ribs and second- degree burns. On the way to the hospital he made a play for the nurse.",
+      "wordCount": 62
+    },
+    {
+      "id": 439,
+      "index": 439,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "Hey! I thought you were supposed to be taking care of me.",
+      "wordCount": 12
+    },
+    {
+      "id": 440,
+      "index": 440,
+      "character": "RACHAEL'S VOICE",
+      "gender": "NA",
+      "line": "What do you need?",
+      "wordCount": 4
+    },
+    {
+      "id": 441,
+      "index": 441,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "Don't just stand there looking at me. It's not polite.",
+      "wordCount": 10
+    },
+    {
+      "id": 442,
+      "index": 442,
+      "character": "RACHAEL",
+      "gender": "Female",
+      "line": "What do you want me to do?",
+      "wordCount": 7
+    },
+    {
+      "id": 443,
+      "index": 443,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "Sit.",
+      "wordCount": 1
+    },
+    {
+      "id": 444,
+      "index": 444,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "Gimme your arm.",
+      "wordCount": 3
+    },
+    {
+      "id": 445,
+      "index": 445,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "You ever take a bath with a man before?",
+      "wordCount": 9
+    },
+    {
+      "id": 446,
+      "index": 446,
+      "character": "RACHAEL",
+      "gender": "Female",
+      "line": "There's a lot I haven't done with a man before.",
+      "wordCount": 10
+    },
+    {
+      "id": 447,
+      "index": 447,
+      "character": "RACHAEL",
+      "gender": "Female",
+      "line": "You're getting me wet.",
+      "wordCount": 4
+    },
+    {
+      "id": 448,
+      "index": 448,
+      "character": "RACHAEL'S VOICE",
+      "gender": "NA",
+      "line": "Sorry, I am not in at the moment, but if you'll leave your name and number I'll return your call as soon as I can.",
+      "wordCount": 25
+    },
+    {
+      "id": 449,
+      "index": 449,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "Fuck you, then.",
+      "wordCount": 3
+    },
+    {
+      "id": 450,
+      "index": 450,
+      "character": "SEBASTIAN",
+      "gender": "Male",
+      "line": "Mr. Deetchum? Hello?",
+      "wordCount": 3
+    },
+    {
+      "id": 451,
+      "index": 451,
+      "character": "SEBASTIAN",
+      "gender": "Male",
+      "line": "Now, now, Waddles.",
+      "wordCount": 3
+    },
+    {
+      "id": 452,
+      "index": 452,
+      "character": "SEBASTIAN",
+      "gender": "Male",
+      "line": "Hello, Wrigley.",
+      "wordCount": 2
+    },
+    {
+      "id": 453,
+      "index": 453,
+      "character": "SEBASTIAN",
+      "gender": "Male",
+      "line": "Mr. Deetchum isn't taking very good care of you people.",
+      "wordCount": 10
+    },
+    {
+      "id": 454,
+      "index": 454,
+      "character": "BATTY",
+      "gender": "Male",
+      "line": "Whoops.",
+      "wordCount": 1
+    },
+    {
+      "id": 455,
+      "index": 455,
+      "character": "PRIS",
+      "gender": "Female",
+      "line": "This is my Uncle Roy, Sebastian.",
+      "wordCount": 6
+    },
+    {
+      "id": 456,
+      "index": 456,
+      "character": "BATTY",
+      "gender": "Male",
+      "line": "Hello, glad to meet you.",
+      "wordCount": 5
+    },
+    {
+      "id": 457,
+      "index": 457,
+      "character": "PRIS",
+      "gender": "Female",
+      "line": "And my Aunt Mary.",
+      "wordCount": 4
+    },
+    {
+      "id": 458,
+      "index": 458,
+      "character": "PRIS",
+      "gender": "Female",
+      "line": "And this is my savior, J.F. Sebastian, everybody.",
+      "wordCount": 8
+    },
+    {
+      "id": 459,
+      "index": 459,
+      "character": "BATTY",
+      "gender": "Male",
+      "line": "Can't thank you enough, Mr. Sebastian. If you hadn't come along...",
+      "wordCount": 11
+    },
+    {
+      "id": 460,
+      "index": 460,
+      "character": "MARY",
+      "gender": "NA",
+      "line": "We were worried to death. It's awfully kind of you.",
+      "wordCount": 10
+    },
+    {
+      "id": 461,
+      "index": 461,
+      "character": "BATTY",
+      "gender": "Male",
+      "line": "We're not used to the big city. Where we come from it's not so easy to get lost.",
+      "wordCount": 18
+    },
+    {
+      "id": 462,
+      "index": 462,
+      "character": "MARY",
+      "gender": "NA",
+      "line": "You certainly have a nice place here.",
+      "wordCount": 7
+    },
+    {
+      "id": 463,
+      "index": 463,
+      "character": "BATTY",
+      "gender": "Male",
+      "line": "Well stocked.",
+      "wordCount": 2
+    },
+    {
+      "id": 464,
+      "index": 464,
+      "character": "PRIS",
+      "gender": "Female",
+      "line": "Sebastian doesn't like to go out too much.",
+      "wordCount": 8
+    },
+    {
+      "id": 465,
+      "index": 465,
+      "character": "SEBASTIAN",
+      "gender": "Male",
+      "line": "I keep a lot of provisions right here.",
+      "wordCount": 8
+    },
+    {
+      "id": 466,
+      "index": 466,
+      "character": "BATTY",
+      "gender": "Male",
+      "line": "I like a man who stays put. An admirable thing to be able to sustain yourself in these times. You live here all by yourself, do you?",
+      "wordCount": 27
+    },
+    {
+      "id": 467,
+      "index": 467,
+      "character": "SEBASTIAN",
+      "gender": "Male",
+      "line": "Well, no, not really. There's Mr. Deetchum, he's the watchman, he lives on the first floor.",
+      "wordCount": 16
+    },
+    {
+      "id": 468,
+      "index": 468,
+      "character": "MARY",
+      "gender": "NA",
+      "line": "We haven't found it easy, Mr. Sebastian.",
+      "wordCount": 7
+    },
+    {
+      "id": 469,
+      "index": 469,
+      "character": "SEBASTIAN",
+      "gender": "Male",
+      "line": "How about breakfast, I was just going to make some.",
+      "wordCount": 10
+    },
+    {
+      "id": 470,
+      "index": 470,
+      "character": "BATTY",
+      "gender": "Male",
+      "line": "If it wouldn't be too much of a bother... a little bite to eat would be...",
+      "wordCount": 16
+    },
+    {
+      "id": 471,
+      "index": 471,
+      "character": "SEBASTIAN",
+      "gender": "Male",
+      "line": "Oh, no bother, I'd be glad to.",
+      "wordCount": 7
+    },
+    {
+      "id": 472,
+      "index": 472,
+      "character": "BATTY",
+      "gender": "Male",
+      "line": "Well, actually",
+      "wordCount": 2
+    },
+    {
+      "id": 473,
+      "index": 473,
+      "character": "MARY",
+      "gender": "NA",
+      "line": "We're famished.",
+      "wordCount": 2
+    },
+    {
+      "id": 474,
+      "index": 474,
+      "character": "SEBASTIAN",
+      "gender": "Male",
+      "line": "Okay, then. You make yourselves comfortable and I'll bring the food right out.",
+      "wordCount": 13
+    },
+    {
+      "id": 475,
+      "index": 475,
+      "character": "BATTY",
+      "gender": "Male",
+      "line": "Charming.",
+      "wordCount": 1
+    },
+    {
+      "id": 476,
+      "index": 476,
+      "character": "PRIS",
+      "gender": "Female",
+      "line": "Well?",
+      "wordCount": 1
+    },
+    {
+      "id": 477,
+      "index": 477,
+      "character": "PRIS",
+      "gender": "Female",
+      "line": "I want to know what's going on.",
+      "wordCount": 7
+    },
+    {
+      "id": 478,
+      "index": 478,
+      "character": "BATTY",
+      "gender": "Male",
+      "line": "There's only three of us left.",
+      "wordCount": 6
+    },
+    {
+      "id": 479,
+      "index": 479,
+      "character": "PRIS",
+      "gender": "Female",
+      "line": "Then we're stupid and we'll die.",
+      "wordCount": 6
+    },
+    {
+      "id": 480,
+      "index": 480,
+      "character": "BATTY",
+      "gender": "Male",
+      "line": "Not if everybody is doing their job here at home. How are things at home?",
+      "wordCount": 15
+    },
+    {
+      "id": 481,
+      "index": 481,
+      "character": "PIG",
+      "gender": "NA",
+      "line": "Home again, jiggidy jig.",
+      "wordCount": 4
+    },
+    {
+      "id": 482,
+      "index": 482,
+      "character": "PRIS",
+      "gender": "Female",
+      "line": "I don't trust him. I don't think he knows what he's doing.",
+      "wordCount": 12
+    },
+    {
+      "id": 483,
+      "index": 483,
+      "character": "BATTY",
+      "gender": "Male",
+      "line": "He knows what he's doing.",
+      "wordCount": 5
+    },
+    {
+      "id": 484,
+      "index": 484,
+      "character": "MARY",
+      "gender": "NA",
+      "line": "If he won't cooperate?",
+      "wordCount": 4
+    },
+    {
+      "id": 485,
+      "index": 485,
+      "character": "BATTY",
+      "gender": "Male",
+      "line": "Mr. Sebastian is a host who wants to be appreciated. We'll appreciate him and he'll cooperate.",
+      "wordCount": 16
+    },
+    {
+      "id": 486,
+      "index": 486,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "How are you doing, old man?",
+      "wordCount": 6
+    },
+    {
+      "id": 487,
+      "index": 487,
+      "character": "HOLDEN",
+      "gender": "Male",
+      "line": "I'm great. I mean, I know I'm not really great, but I feel just great. How you like my new suit?",
+      "wordCount": 21
+    },
+    {
+      "id": 488,
+      "index": 488,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "Well, you don't have to worry about getting it wrinkled.",
+      "wordCount": 10
+    },
+    {
+      "id": 489,
+      "index": 489,
+      "character": "HOLDEN",
+      "gender": "Male",
+      "line": "Don't make me laugh. It makes me pee.",
+      "wordCount": 8
+    },
+    {
+      "id": 490,
+      "index": 490,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "Sorry.",
+      "wordCount": 1
+    },
+    {
+      "id": 491,
+      "index": 491,
+      "character": "HOLDEN",
+      "gender": "Male",
+      "line": "Hey, it's okay. I like to pee. So how are you doing?",
+      "wordCount": 12
+    },
+    {
+      "id": 492,
+      "index": 492,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "I'm doing okay.",
+      "wordCount": 3
+    },
+    {
+      "id": 493,
+      "index": 493,
+      "character": "HOLDEN",
+      "gender": "Male",
+      "line": "From what I hear you're doing great. Bryant tells me you're going like a god damn one-man army. Making a lot of money, huh?",
+      "wordCount": 24
+    },
+    {
+      "id": 494,
+      "index": 494,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "Yeah. But that's what I wanted to talk to you about.",
+      "wordCount": 11
+    },
+    {
+      "id": 495,
+      "index": 495,
+      "character": "HOLDEN",
+      "gender": "Male",
+      "line": "Money?",
+      "wordCount": 1
+    },
+    {
+      "id": 496,
+      "index": 496,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "No. I got a problem.",
+      "wordCount": 5
+    },
+    {
+      "id": 497,
+      "index": 497,
+      "character": "HOLDEN",
+      "gender": "Male",
+      "line": "Let's hear it.",
+      "wordCount": 3
+    },
+    {
+      "id": 498,
+      "index": 498,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "I think I'm starting to empathize with these Nexus-sixes.",
+      "wordCount": 9
+    },
+    {
+      "id": 499,
+      "index": 499,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "What's that?",
+      "wordCount": 2
+    },
+    {
+      "id": 500,
+      "index": 500,
+      "character": "HOLDEN",
+      "gender": "Male",
+      "line": "I'm taking a piss.",
+      "wordCount": 4
+    },
+    {
+      "id": 501,
+      "index": 501,
+      "character": "HOLDEN",
+      "gender": "Male",
+      "line": "Let me ask you something, Deck. You been having intimate relations with one of these units?",
+      "wordCount": 16
+    },
+    {
+      "id": 502,
+      "index": 502,
+      "character": "HOLDEN",
+      "gender": "Male",
+      "line": "That's what I thought... one of the liabilities of the trade -- you has sex with your prey, old buddy. That's bound to create problems, unless you're a black widow.",
+      "wordCount": 30
+    },
+    {
+      "id": 503,
+      "index": 503,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "What about -- not sex -- but love?",
+      "wordCount": 8
+    },
+    {
+      "id": 504,
+      "index": 504,
+      "character": "HOLDEN",
+      "gender": "Male",
+      "line": "Love is just another name for sex. Love is sexy and sex is lovely -- I don't care what you call it, an android can't have it.",
+      "wordCount": 27
+    },
+    {
+      "id": 505,
+      "index": 505,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "These aren't just...",
+      "wordCount": 3
+    },
+    {
+      "id": 506,
+      "index": 506,
+      "character": "HOLDEN",
+      "gender": "Male",
+      "line": "I know what they are, Deck -- Look, maybe they can pretend to feel, but far as the raw, hot emotions of the old heart -- no way.",
+      "wordCount": 28
+    },
+    {
+      "id": 507,
+      "index": 507,
+      "character": "HOLDEN",
+      "gender": "Male",
+      "line": "Believe me, take it from an old pro, no matter how good we get, we're never gonna make an artificial anything that can feel. It's a contradiction. You might as well go fuck your washing machine.",
+      "wordCount": 36
+    },
+    {
+      "id": 508,
+      "index": 508,
+      "character": "HOLDEN",
+      "gender": "Male",
+      "line": "Just go out there and keep up the good work.",
+      "wordCount": 10
+    },
+    {
+      "id": 509,
+      "index": 509,
+      "character": "HOLDEN",
+      "gender": "Male",
+      "line": "Got to save it, Deck, I'm getting sleepy. It's been good talking to you.",
+      "wordCount": 14
+    },
+    {
+      "id": 510,
+      "index": 510,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "Thanks.",
+      "wordCount": 1
+    },
+    {
+      "id": 511,
+      "index": 511,
+      "character": "RACHAEL",
+      "gender": "Female",
+      "line": "I told you I'd come back.",
+      "wordCount": 6
+    },
+    {
+      "id": 512,
+      "index": 512,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "You did?",
+      "wordCount": 2
+    },
+    {
+      "id": 513,
+      "index": 513,
+      "character": "RACHAEL",
+      "gender": "Female",
+      "line": "You didn't hear me. You were sleeping.",
+      "wordCount": 7
+    },
+    {
+      "id": 514,
+      "index": 514,
+      "character": "RACHAEL",
+      "gender": "Female",
+      "line": "Are you glad I'm here?",
+      "wordCount": 5
+    },
+    {
+      "id": 515,
+      "index": 515,
+      "character": "RACHAEL",
+      "gender": "Female",
+      "line": "Who is this?",
+      "wordCount": 3
+    },
+    {
+      "id": 516,
+      "index": 516,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "Me and my dad.",
+      "wordCount": 4
+    },
+    {
+      "id": 517,
+      "index": 517,
+      "character": "RACHAEL",
+      "gender": "Female",
+      "line": "Where is he?",
+      "wordCount": 3
+    },
+    {
+      "id": 518,
+      "index": 518,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "Dead.",
+      "wordCount": 1
+    },
+    {
+      "id": 519,
+      "index": 519,
+      "character": "RACHAEL",
+      "gender": "Female",
+      "line": "Oh.",
+      "wordCount": 1
+    },
+    {
+      "id": 520,
+      "index": 520,
+      "character": "RACHAEL",
+      "gender": "Female",
+      "line": "How come you're not on the job?",
+      "wordCount": 7
+    },
+    {
+      "id": 521,
+      "index": 521,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "I am. Part of my job is to sit on a couch and try and figure things out.",
+      "wordCount": 18
+    },
+    {
+      "id": 522,
+      "index": 522,
+      "character": "RACHAEL",
+      "gender": "Female",
+      "line": "How are you doing?",
+      "wordCount": 4
+    },
+    {
+      "id": 523,
+      "index": 523,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "Not too good.",
+      "wordCount": 3
+    },
+    {
+      "id": 524,
+      "index": 524,
+      "character": "RACHAEL",
+      "gender": "Female",
+      "line": "What do people do in the afternoon?",
+      "wordCount": 7
+    },
+    {
+      "id": 525,
+      "index": 525,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "If they are smart, they take naps.",
+      "wordCount": 7
+    },
+    {
+      "id": 526,
+      "index": 526,
+      "character": "RACHAEL",
+      "gender": "Female",
+      "line": "Do you dream?",
+      "wordCount": 3
+    },
+    {
+      "id": 527,
+      "index": 527,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "Yeah. Sometimes.",
+      "wordCount": 2
+    },
+    {
+      "id": 528,
+      "index": 528,
+      "character": "RACHAEL",
+      "gender": "Female",
+      "line": "I wish I could.",
+      "wordCount": 4
+    },
+    {
+      "id": 529,
+      "index": 529,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "Wishing is a kind of dreaming.",
+      "wordCount": 6
+    },
+    {
+      "id": 530,
+      "index": 530,
+      "character": "RACHAEL",
+      "gender": "Female",
+      "line": "I mean asleep.",
+      "wordCount": 3
+    },
+    {
+      "id": 531,
+      "index": 531,
+      "character": "RACHAEL",
+      "gender": "Female",
+      "line": "Did you cry when your father died?",
+      "wordCount": 7
+    },
+    {
+      "id": 532,
+      "index": 532,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "Yeah.",
+      "wordCount": 1
+    },
+    {
+      "id": 533,
+      "index": 533,
+      "character": "RACHAEL",
+      "gender": "Female",
+      "line": "That's another thing I can't do.",
+      "wordCount": 6
+    },
+    {
+      "id": 534,
+      "index": 534,
+      "character": "RACHAEL",
+      "gender": "Female",
+      "line": "Nobody is freer than when he dreams. I read that.",
+      "wordCount": 10
+    },
+    {
+      "id": 535,
+      "index": 535,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "It wasn't very good last night, was it?",
+      "wordCount": 8
+    },
+    {
+      "id": 536,
+      "index": 536,
+      "character": "RACHAEL",
+      "gender": "Female",
+      "line": "I don't know, I have nothing to compare it to. I guess I thought there was something more to it.",
+      "wordCount": 20
+    },
+    {
+      "id": 537,
+      "index": 537,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "What?",
+      "wordCount": 1
+    },
+    {
+      "id": 538,
+      "index": 538,
+      "character": "RACHAEL",
+      "gender": "Female",
+      "line": "I don't know... I think I missed something.",
+      "wordCount": 8
+    },
+    {
+      "id": 539,
+      "index": 539,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "Like?",
+      "wordCount": 1
+    },
+    {
+      "id": 540,
+      "index": 540,
+      "character": "RACHAEL",
+      "gender": "Female",
+      "line": "I'm not sure. Is there a secret?",
+      "wordCount": 7
+    },
+    {
+      "id": 541,
+      "index": 541,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "I don't know. If there is I'd like to find it.",
+      "wordCount": 11
+    },
+    {
+      "id": 542,
+      "index": 542,
+      "character": "BATTY",
+      "gender": "Male",
+      "line": "Why are you staring at us?",
+      "wordCount": 6
+    },
+    {
+      "id": 543,
+      "index": 543,
+      "character": "SEBASTIAN",
+      "gender": "Male",
+      "line": "You're just all so... so different.",
+      "wordCount": 6
+    },
+    {
+      "id": 544,
+      "index": 544,
+      "character": "BATTY",
+      "gender": "Male",
+      "line": "What, Sebastian?",
+      "wordCount": 2
+    },
+    {
+      "id": 545,
+      "index": 545,
+      "character": "SEBASTIAN",
+      "gender": "Male",
+      "line": "You're androids.",
+      "wordCount": 2
+    },
+    {
+      "id": 546,
+      "index": 546,
+      "character": "PRIS",
+      "gender": "Female",
+      "line": "What makes you think so?",
+      "wordCount": 5
+    },
+    {
+      "id": 547,
+      "index": 547,
+      "character": "SEBASTIAN",
+      "gender": "Male",
+      "line": "You're all so perfect.",
+      "wordCount": 4
+    },
+    {
+      "id": 548,
+      "index": 548,
+      "character": "SEBASTIAN",
+      "gender": "Male",
+      "line": "What generation are you?",
+      "wordCount": 4
+    },
+    {
+      "id": 549,
+      "index": 549,
+      "character": "BATTY",
+      "gender": "Male",
+      "line": "Nexus - 6.",
+      "wordCount": 3
+    },
+    {
+      "id": 550,
+      "index": 550,
+      "character": "BATTY",
+      "gender": "Male",
+      "line": "We can trust Sebastian, ladies. He's been working with mechanisms all his life. He's a wizard and a very perceptive man.",
+      "wordCount": 21
+    },
+    {
+      "id": 551,
+      "index": 551,
+      "character": "SEBASTIAN",
+      "gender": "Male",
+      "line": "Could you...",
+      "wordCount": 2
+    },
+    {
+      "id": 552,
+      "index": 552,
+      "character": "SEBASTIAN",
+      "gender": "Male",
+      "line": "Show me something?",
+      "wordCount": 3
+    },
+    {
+      "id": 553,
+      "index": 553,
+      "character": "BATTY",
+      "gender": "Male",
+      "line": "Like what?",
+      "wordCount": 2
+    },
+    {
+      "id": 554,
+      "index": 554,
+      "character": "SEBASTIAN",
+      "gender": "Male",
+      "line": "Like...",
+      "wordCount": 1
+    },
+    {
+      "id": 555,
+      "index": 555,
+      "character": "BATTY",
+      "gender": "Male",
+      "line": "We're not computers, Sebastian, we're physical.",
+      "wordCount": 6
+    },
+    {
+      "id": 556,
+      "index": 556,
+      "character": "PRIS",
+      "gender": "Female",
+      "line": "I think, therefore I am.",
+      "wordCount": 5
+    },
+    {
+      "id": 557,
+      "index": 557,
+      "character": "BATTY",
+      "gender": "Male",
+      "line": "Very good, Pris. Now show him why.",
+      "wordCount": 7
+    },
+    {
+      "id": 558,
+      "index": 558,
+      "character": "BATTY",
+      "gender": "Male",
+      "line": "We have a lot in common.",
+      "wordCount": 6
+    },
+    {
+      "id": 559,
+      "index": 559,
+      "character": "SEBASTIAN",
+      "gender": "Male",
+      "line": "You mean that you can't come here and I can't go there?",
+      "wordCount": 12
+    },
+    {
+      "id": 560,
+      "index": 560,
+      "character": "BATTY",
+      "gender": "Male",
+      "line": "Not only that, but we have smiliar problems. Accelerated decrepitude. But we don't want to die quite yet.",
+      "wordCount": 18
+    },
+    {
+      "id": 561,
+      "index": 561,
+      "character": "SEBASTIAN",
+      "gender": "Male",
+      "line": "Of course not.",
+      "wordCount": 3
+    },
+    {
+      "id": 562,
+      "index": 562,
+      "character": "BATTY",
+      "gender": "Male",
+      "line": "You could help us.",
+      "wordCount": 4
+    },
+    {
+      "id": 563,
+      "index": 563,
+      "character": "SEBASTIAN",
+      "gender": "Male",
+      "line": "I don't know much about biomechanics, Roy. I wish I did, but you're out of my league.",
+      "wordCount": 17
+    },
+    {
+      "id": 564,
+      "index": 564,
+      "character": "BATTY",
+      "gender": "Male",
+      "line": "If we don't find help soon, Pris hasn't got long to live.",
+      "wordCount": 12
+    },
+    {
+      "id": 565,
+      "index": 565,
+      "character": "BATTY",
+      "gender": "Male",
+      "line": "What about your friend, the man who owns this building?",
+      "wordCount": 10
+    },
+    {
+      "id": 566,
+      "index": 566,
+      "character": "SEBASTIAN",
+      "gender": "Male",
+      "line": "Dr. Tyrell?",
+      "wordCount": 2
+    },
+    {
+      "id": 567,
+      "index": 567,
+      "character": "SEBASTIAN",
+      "gender": "Male",
+      "line": "He's not really my friend. I just do a job for him now and then.",
+      "wordCount": 15
+    },
+    {
+      "id": 568,
+      "index": 568,
+      "character": "BATTY",
+      "gender": "Male",
+      "line": "Tyrell could help us, Sebastian.",
+      "wordCount": 5
+    },
+    {
+      "id": 569,
+      "index": 569,
+      "character": "SEBASTIAN",
+      "gender": "Male",
+      "line": "He could?",
+      "wordCount": 2
+    },
+    {
+      "id": 570,
+      "index": 570,
+      "character": "BATTY",
+      "gender": "Male",
+      "line": "His company made us.",
+      "wordCount": 4
+    },
+    {
+      "id": 571,
+      "index": 571,
+      "character": "SEBASTIAN",
+      "gender": "Male",
+      "line": "I'd be happy to mention it to him.",
+      "wordCount": 8
+    },
+    {
+      "id": 572,
+      "index": 572,
+      "character": "BATTY",
+      "gender": "Male",
+      "line": "Be better if I could talk to him in person. But he's not an easy man to get to.",
+      "wordCount": 19
+    },
+    {
+      "id": 573,
+      "index": 573,
+      "character": "SEBASTIAN",
+      "gender": "Male",
+      "line": "No.",
+      "wordCount": 1
+    },
+    {
+      "id": 574,
+      "index": 574,
+      "character": "BATTY",
+      "gender": "Male",
+      "line": "When do you deliver your project?",
+      "wordCount": 6
+    },
+    {
+      "id": 575,
+      "index": 575,
+      "character": "SEBASTIAN",
+      "gender": "Male",
+      "line": "This afternoon.",
+      "wordCount": 2
+    },
+    {
+      "id": 576,
+      "index": 576,
+      "character": "BATTY",
+      "gender": "Male",
+      "line": "Will you help us?",
+      "wordCount": 4
+    },
+    {
+      "id": 577,
+      "index": 577,
+      "character": "SEBASTIAN",
+      "gender": "Male",
+      "line": "Yes.",
+      "wordCount": 1
+    },
+    {
+      "id": 578,
+      "index": 578,
+      "character": "BATTY",
+      "gender": "Male",
+      "line": "I'm sure glad you found us, Sebastian. What do you think, Mary?",
+      "wordCount": 12
+    },
+    {
+      "id": 579,
+      "index": 579,
+      "character": "MARY",
+      "gender": "NA",
+      "line": "I don't think there is another human being in this whole world who would have helped us.",
+      "wordCount": 17
+    },
+    {
+      "id": 580,
+      "index": 580,
+      "character": "BATTY",
+      "gender": "Male",
+      "line": "Pris?",
+      "wordCount": 1
+    },
+    {
+      "id": 581,
+      "index": 581,
+      "character": "BATTY",
+      "gender": "Male",
+      "line": "You're our best and only friend.",
+      "wordCount": 6
+    },
+    {
+      "id": 582,
+      "index": 582,
+      "character": "SEBASTIAN",
+      "gender": "Male",
+      "line": "Thank you.",
+      "wordCount": 2
+    },
+    {
+      "id": 583,
+      "index": 583,
+      "character": "RACHAEL",
+      "gender": "Female",
+      "line": "When was the last time you cleaned this place?",
+      "wordCount": 9
+    },
+    {
+      "id": 584,
+      "index": 584,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "Hmmm?",
+      "wordCount": 1
+    },
+    {
+      "id": 585,
+      "index": 585,
+      "character": "RACHAEL",
+      "gender": "Female",
+      "line": "Have you ever cleaned your apartment?",
+      "wordCount": 6
+    },
+    {
+      "id": 586,
+      "index": 586,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "Don't be fooled by appearances.",
+      "wordCount": 5
+    },
+    {
+      "id": 587,
+      "index": 587,
+      "character": "RACHAEL",
+      "gender": "Female",
+      "line": "It appears to be dirty -- why don't you get somebody?",
+      "wordCount": 11
+    },
+    {
+      "id": 588,
+      "index": 588,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "Because they would ruin the arrangement.",
+      "wordCount": 6
+    },
+    {
+      "id": 589,
+      "index": 589,
+      "character": "RACHAEL",
+      "gender": "Female",
+      "line": "They could clean around the arrangement.",
+      "wordCount": 6
+    },
+    {
+      "id": 590,
+      "index": 590,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "I don't like people snooping around my stuff.",
+      "wordCount": 8
+    },
+    {
+      "id": 591,
+      "index": 591,
+      "character": "DECKARD'S VOICE",
+      "gender": "NA",
+      "line": "There's a vacuum in the front room closet is you wanna give it a try.",
+      "wordCount": 15
+    },
+    {
+      "id": 592,
+      "index": 592,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "Oh no, don't do that.",
+      "wordCount": 5
+    },
+    {
+      "id": 593,
+      "index": 593,
+      "character": "RACHAEL",
+      "gender": "Female",
+      "line": "But if I don't plug it in how can I...",
+      "wordCount": 10
+    },
+    {
+      "id": 594,
+      "index": 594,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "Never mind the plug, just go through the motions.",
+      "wordCount": 9
+    },
+    {
+      "id": 595,
+      "index": 595,
+      "character": "RACHAEL",
+      "gender": "Female",
+      "line": "But then how can you...",
+      "wordCount": 5
+    },
+    {
+      "id": 596,
+      "index": 596,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "I don't like the noise. Just practice. Practice makes perfect.",
+      "wordCount": 10
+    },
+    {
+      "id": 597,
+      "index": 597,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "I'm serious. Go ahead. Show me how you would do it.",
+      "wordCount": 11
+    },
+    {
+      "id": 598,
+      "index": 598,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "How about under the couch there. Come on.",
+      "wordCount": 8
+    },
+    {
+      "id": 599,
+      "index": 599,
+      "character": "RACHAEL",
+      "gender": "Female",
+      "line": "This feels stupid.",
+      "wordCount": 3
+    },
+    {
+      "id": 600,
+      "index": 600,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "Good for a smart girl to feel stupid. Part of your education.",
+      "wordCount": 12
+    },
+    {
+      "id": 601,
+      "index": 601,
+      "character": "RACHAEL",
+      "gender": "Female",
+      "line": "You're sick, Deckard.",
+      "wordCount": 3
+    },
+    {
+      "id": 602,
+      "index": 602,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "I never felt better.",
+      "wordCount": 4
+    },
+    {
+      "id": 603,
+      "index": 603,
+      "character": "STYLES",
+      "gender": "NA",
+      "line": "Okay, I'll take that now.",
+      "wordCount": 5
+    },
+    {
+      "id": 604,
+      "index": 604,
+      "character": "SEBASTIAN",
+      "gender": "Male",
+      "line": "Wait!",
+      "wordCount": 1
+    },
+    {
+      "id": 605,
+      "index": 605,
+      "character": "SEBASTIAN",
+      "gender": "Male",
+      "line": "Can't fly without the pilot.",
+      "wordCount": 5
+    },
+    {
+      "id": 606,
+      "index": 606,
+      "character": "IAN",
+      "gender": "Male",
+      "line": "Oh!",
+      "wordCount": 1
+    },
+    {
+      "id": 607,
+      "index": 607,
+      "character": "IAN",
+      "gender": "Male",
+      "line": "Papa! Did you make this?",
+      "wordCount": 5
+    },
+    {
+      "id": 608,
+      "index": 608,
+      "character": "TYRELL",
+      "gender": "Male",
+      "line": "No. We can make man, but not a griffon.",
+      "wordCount": 9
+    },
+    {
+      "id": 609,
+      "index": 609,
+      "character": "TYRELL",
+      "gender": "Male",
+      "line": "Have to give the cottage industry a chance too.",
+      "wordCount": 9
+    },
+    {
+      "id": 610,
+      "index": 610,
+      "character": "TYRELL",
+      "gender": "Male",
+      "line": "A friend of yours, Sebastian?",
+      "wordCount": 5
+    },
+    {
+      "id": 611,
+      "index": 611,
+      "character": "SEBASTIAN",
+      "gender": "Male",
+      "line": "Yes, this is someone who wants to talk to you, Dr. Tyrell.",
+      "wordCount": 12
+    },
+    {
+      "id": 612,
+      "index": 612,
+      "character": "BATTY",
+      "gender": "Male",
+      "line": "The name is Batty. Roy Batty.",
+      "wordCount": 6
+    },
+    {
+      "id": 613,
+      "index": 613,
+      "character": "TYRELL",
+      "gender": "Male",
+      "line": "Oh?",
+      "wordCount": 1
+    },
+    {
+      "id": 614,
+      "index": 614,
+      "character": "BATTY",
+      "gender": "Male",
+      "line": "To act without understanding could lead to the very thing the act seeks to avoid.",
+      "wordCount": 15
+    },
+    {
+      "id": 615,
+      "index": 615,
+      "character": "BATTY",
+      "gender": "Male",
+      "line": "A little talk it all I need.",
+      "wordCount": 7
+    },
+    {
+      "id": 616,
+      "index": 616,
+      "character": "TYRELL",
+      "gender": "Male",
+      "line": "Would you like to talk in private then.",
+      "wordCount": 8
+    },
+    {
+      "id": 617,
+      "index": 617,
+      "character": "BATTY",
+      "gender": "Male",
+      "line": "Yeah. It might be better if we talk in private, Sebastian. Why don't you go home.",
+      "wordCount": 16
+    },
+    {
+      "id": 618,
+      "index": 618,
+      "character": "TYRELL",
+      "gender": "Male",
+      "line": "Here's your check, my boy. Thank you.",
+      "wordCount": 7
+    },
+    {
+      "id": 619,
+      "index": 619,
+      "character": "SEBASTIAN",
+      "gender": "Male",
+      "line": "Thank you, Dr. Tyrell. I'll see you later.",
+      "wordCount": 8
+    },
+    {
+      "id": 620,
+      "index": 620,
+      "character": "SEBASTIAN",
+      "gender": "Male",
+      "line": "Was everything okay?",
+      "wordCount": 3
+    },
+    {
+      "id": 621,
+      "index": 621,
+      "character": "TYRELL",
+      "gender": "Male",
+      "line": "Just beautiful.",
+      "wordCount": 2
+    },
+    {
+      "id": 622,
+      "index": 622,
+      "character": "TYRELL",
+      "gender": "Male",
+      "line": "I'm surprised you didn't come to me sooner.",
+      "wordCount": 8
+    },
+    {
+      "id": 623,
+      "index": 623,
+      "character": "BATTY",
+      "gender": "Male",
+      "line": "It's not an easy thing to meet your maker.",
+      "wordCount": 9
+    },
+    {
+      "id": 624,
+      "index": 624,
+      "character": "TYRELL",
+      "gender": "Male",
+      "line": "And what can he do for you?",
+      "wordCount": 7
+    },
+    {
+      "id": 625,
+      "index": 625,
+      "character": "BATTY",
+      "gender": "Male",
+      "line": "Can the maker repair what he makes?",
+      "wordCount": 7
+    },
+    {
+      "id": 626,
+      "index": 626,
+      "character": "TYRELL",
+      "gender": "Male",
+      "line": "Would you like to be modified?",
+      "wordCount": 6
+    },
+    {
+      "id": 627,
+      "index": 627,
+      "character": "BATTY",
+      "gender": "Male",
+      "line": "Had in mind something a little more radical.",
+      "wordCount": 8
+    },
+    {
+      "id": 628,
+      "index": 628,
+      "character": "TYRELL",
+      "gender": "Male",
+      "line": "What's the problem?",
+      "wordCount": 3
+    },
+    {
+      "id": 629,
+      "index": 629,
+      "character": "BATTY",
+      "gender": "Male",
+      "line": "Death.",
+      "wordCount": 1
+    },
+    {
+      "id": 630,
+      "index": 630,
+      "character": "TYRELL",
+      "gender": "Male",
+      "line": "I'm afraid that's a little out of my...",
+      "wordCount": 8
+    },
+    {
+      "id": 631,
+      "index": 631,
+      "character": "BATTY",
+      "gender": "Male",
+      "line": "I want more life, fucker.",
+      "wordCount": 5
+    },
+    {
+      "id": 632,
+      "index": 632,
+      "character": "TYRELL",
+      "gender": "Male",
+      "line": "Come here.",
+      "wordCount": 2
+    },
+    {
+      "id": 633,
+      "index": 633,
+      "character": "TYRELL",
+      "gender": "Male",
+      "line": "Sit down.",
+      "wordCount": 2
+    },
+    {
+      "id": 634,
+      "index": 634,
+      "character": "TYRELL",
+      "gender": "Male",
+      "line": "The facts of life. I'll be blunt. To make an alteration in the evolvement of an organic life system, at least by men, makers or not, it fatal. A coding sequence can't be revised once it's established.",
+      "wordCount": 37
+    },
+    {
+      "id": 635,
+      "index": 635,
+      "character": "BATTY",
+      "gender": "Male",
+      "line": "Why?",
+      "wordCount": 1
+    },
+    {
+      "id": 636,
+      "index": 636,
+      "character": "TYRELL",
+      "gender": "Male",
+      "line": "Because by the second day of incubation any cells that have undergone reversion mutation give rise to revertant colonies -- like rats leaving a sinking ship. The ship sinks.",
+      "wordCount": 29
+    },
+    {
+      "id": 637,
+      "index": 637,
+      "character": "BATTY",
+      "gender": "Male",
+      "line": "What about E.M.S. recombination?",
+      "wordCount": 4
+    },
+    {
+      "id": 638,
+      "index": 638,
+      "character": "TYRELL",
+      "gender": "Male",
+      "line": "We've already tried it -- ethyl methane sulfonate is an alkylating agent and a potent mutagen -- it creates a virus so lethal the subject was destroyed before we left the table.",
+      "wordCount": 32
+    },
+    {
+      "id": 639,
+      "index": 639,
+      "character": "BATTY",
+      "gender": "Male",
+      "line": "Then a repressor protein that blocks the operating cells.",
+      "wordCount": 9
+    },
+    {
+      "id": 640,
+      "index": 640,
+      "character": "TYRELL",
+      "gender": "Male",
+      "line": "Wouldn't obstruct replication, but it does give rise to an error in replication, so that the newly formed DNA strand carries a mutation and you're got a virus again... but all this is academic -- you are made as good as we could make you.",
+      "wordCount": 45
+    },
+    {
+      "id": 641,
+      "index": 641,
+      "character": "BATTY",
+      "gender": "Male",
+      "line": "But not to last.",
+      "wordCount": 4
+    },
+    {
+      "id": 642,
+      "index": 642,
+      "character": "TYRELL",
+      "gender": "Male",
+      "line": "Put it this way. Rolls Royces are made to last -- as least they were. But I'm afraid you're a Ferrari. A high strung racing car -- built to win, not to last.",
+      "wordCount": 33
+    },
+    {
+      "id": 643,
+      "index": 643,
+      "character": "TYRELL",
+      "gender": "Male",
+      "line": "Also you're too valuable to experiment with.",
+      "wordCount": 7
+    },
+    {
+      "id": 644,
+      "index": 644,
+      "character": "BATTY",
+      "gender": "Male",
+      "line": "I am?",
+      "wordCount": 2
+    },
+    {
+      "id": 645,
+      "index": 645,
+      "character": "TYRELL",
+      "gender": "Male",
+      "line": "The bast of all possible androids. We're proud of our prodigal son -- glad you're returned. You're quite a prize.",
+      "wordCount": 20
+    },
+    {
+      "id": 646,
+      "index": 646,
+      "character": "BATTY",
+      "gender": "Male",
+      "line": "I've done some questionable things.",
+      "wordCount": 5
+    },
+    {
+      "id": 647,
+      "index": 647,
+      "character": "TYRELL",
+      "gender": "Male",
+      "line": "Also extraordinary things.",
+      "wordCount": 3
+    },
+    {
+      "id": 648,
+      "index": 648,
+      "character": "BATTY",
+      "gender": "Male",
+      "line": "Nothing the God of biomechanics wouldn't let you in heaven for.",
+      "wordCount": 11
+    },
+    {
+      "id": 649,
+      "index": 649,
+      "character": "BATTY",
+      "gender": "Male",
+      "line": "Could you tell me where the bathroom is?",
+      "wordCount": 8
+    },
+    {
+      "id": 650,
+      "index": 650,
+      "character": "MRS. TYRELL",
+      "gender": "NA",
+      "line": "May I help you?",
+      "wordCount": 4
+    },
+    {
+      "id": 651,
+      "index": 651,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "She'd never seen the great outdoors. Never even seen books on the subject. She went through everything I had, and we talked. And there were subjects we didn't discuss and they were words we didn't say, I couldn't say, like death, like future, like real. But it was hard because she was curious and full of questions. She was more alive than anyone I'd ever known.",
+      "wordCount": 66
+    },
+    {
+      "id": 652,
+      "index": 652,
+      "character": "RACHAEL",
+      "gender": "Female",
+      "line": "You and I are good friends, huh?",
+      "wordCount": 7
+    },
+    {
+      "id": 653,
+      "index": 653,
+      "character": "RACHAEL",
+      "gender": "Female",
+      "line": "It's so easy.",
+      "wordCount": 3
+    },
+    {
+      "id": 654,
+      "index": 654,
+      "character": "RACHAEL",
+      "gender": "Female",
+      "line": "Have you ever known anybody a long time?",
+      "wordCount": 8
+    },
+    {
+      "id": 655,
+      "index": 655,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "You mean a woman?",
+      "wordCount": 4
+    },
+    {
+      "id": 656,
+      "index": 656,
+      "character": "RACHAEL",
+      "gender": "Female",
+      "line": "Uh-huh.",
+      "wordCount": 1
+    },
+    {
+      "id": 657,
+      "index": 657,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "What's a long time?",
+      "wordCount": 4
+    },
+    {
+      "id": 658,
+      "index": 658,
+      "character": "RACHAEL",
+      "gender": "Female",
+      "line": "Ten years.",
+      "wordCount": 2
+    },
+    {
+      "id": 659,
+      "index": 659,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "Nope. Nobody could stand me that long.",
+      "wordCount": 7
+    },
+    {
+      "id": 660,
+      "index": 660,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "Yeah.",
+      "wordCount": 1
+    },
+    {
+      "id": 661,
+      "index": 661,
+      "character": "BRYANT",
+      "gender": "Male",
+      "line": "This is Bryant. Are you alone?",
+      "wordCount": 6
+    },
+    {
+      "id": 662,
+      "index": 662,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "Yeah.",
+      "wordCount": 1
+    },
+    {
+      "id": 663,
+      "index": 663,
+      "character": "BRYANT",
+      "gender": "Male",
+      "line": "She's not with you?",
+      "wordCount": 4
+    },
+    {
+      "id": 664,
+      "index": 664,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "Who.",
+      "wordCount": 1
+    },
+    {
+      "id": 665,
+      "index": 665,
+      "character": "BRYANT",
+      "gender": "Male",
+      "line": "Take a number. Canapt 1700, tenth floor, Villa Vita District, Olympia South.",
+      "wordCount": 12
+    },
+    {
+      "id": 666,
+      "index": 666,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "Got it.",
+      "wordCount": 2
+    },
+    {
+      "id": 667,
+      "index": 667,
+      "character": "BRYANT",
+      "gender": "Male",
+      "line": "Okay, here it is. Eldon Tyrell, his family and half his staff were just massacred. The cat is about to get out of the bag. Pressure is definitely on. The Nexus program is terminated. When you finish there, locate Nexus designated Rachael and retire.",
+      "wordCount": 44
+    },
+    {
+      "id": 668,
+      "index": 668,
+      "character": "BRYANT",
+      "gender": "Male",
+      "line": "If you don't, we will. It has to be total, Deckard. That's an order from as high as it comes. Got it?",
+      "wordCount": 22
+    },
+    {
+      "id": 669,
+      "index": 669,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "Yeah. I got it.",
+      "wordCount": 4
+    },
+    {
+      "id": 670,
+      "index": 670,
+      "character": "BRYANT",
+      "gender": "Male",
+      "line": "Go.",
+      "wordCount": 1
+    },
+    {
+      "id": 671,
+      "index": 671,
+      "character": "RACHAEL",
+      "gender": "Female",
+      "line": "Why do you call it retire, why don't you call it murder?",
+      "wordCount": 12
+    },
+    {
+      "id": 672,
+      "index": 672,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "Because it's not.",
+      "wordCount": 3
+    },
+    {
+      "id": 673,
+      "index": 673,
+      "character": "RACHAEL",
+      "gender": "Female",
+      "line": "Don't you think anything that can suffer deserves to be considered?",
+      "wordCount": 11
+    },
+    {
+      "id": 674,
+      "index": 674,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "Andies only simulate suffering -- if they're programmed for it.",
+      "wordCount": 10
+    },
+    {
+      "id": 675,
+      "index": 675,
+      "character": "RACHAEL",
+      "gender": "Female",
+      "line": "Do you think I simulated what happened between us?",
+      "wordCount": 9
+    },
+    {
+      "id": 676,
+      "index": 676,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "No, I don't.",
+      "wordCount": 3
+    },
+    {
+      "id": 677,
+      "index": 677,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "Don't leave here. Don't open the door, don't answer the phone.",
+      "wordCount": 11
+    },
+    {
+      "id": 678,
+      "index": 678,
+      "character": "RACHAEL",
+      "gender": "Female",
+      "line": "What difference will it make?",
+      "wordCount": 5
+    },
+    {
+      "id": 679,
+      "index": 679,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "Just wait here.",
+      "wordCount": 3
+    },
+    {
+      "id": 680,
+      "index": 680,
+      "character": "RACHAEL",
+      "gender": "Female",
+      "line": "You know what I think?",
+      "wordCount": 5
+    },
+    {
+      "id": 681,
+      "index": 681,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "What?",
+      "wordCount": 1
+    },
+    {
+      "id": 682,
+      "index": 682,
+      "character": "RACHAEL",
+      "gender": "Female",
+      "line": "That some of the folks around here are more programmed then me.",
+      "wordCount": 12
+    },
+    {
+      "id": 683,
+      "index": 683,
+      "character": "RACHAEL",
+      "gender": "Female",
+      "line": "You know what else I think?",
+      "wordCount": 6
+    },
+    {
+      "id": 684,
+      "index": 684,
+      "character": "DECAKRD",
+      "gender": "NA",
+      "line": "What?",
+      "wordCount": 1
+    },
+    {
+      "id": 685,
+      "index": 685,
+      "character": "RACHAEL",
+      "gender": "Female",
+      "line": "This was the best day of my life.",
+      "wordCount": 8
+    },
+    {
+      "id": 686,
+      "index": 686,
+      "character": "MARY",
+      "gender": "NA",
+      "line": "Let's go while there is still time.",
+      "wordCount": 7
+    },
+    {
+      "id": 687,
+      "index": 687,
+      "character": "BATTY",
+      "gender": "Male",
+      "line": "Where?",
+      "wordCount": 1
+    },
+    {
+      "id": 688,
+      "index": 688,
+      "character": "MARY",
+      "gender": "NA",
+      "line": "Anywhere.",
+      "wordCount": 1
+    },
+    {
+      "id": 689,
+      "index": 689,
+      "character": "BATTY",
+      "gender": "Male",
+      "line": "What's the point?",
+      "wordCount": 3
+    },
+    {
+      "id": 690,
+      "index": 690,
+      "character": "MARY",
+      "gender": "NA",
+      "line": "Not to be trapped.",
+      "wordCount": 4
+    },
+    {
+      "id": 691,
+      "index": 691,
+      "character": "BATTY",
+      "gender": "Male",
+      "line": "You underestimate the trap, Mary.",
+      "wordCount": 5
+    },
+    {
+      "id": 692,
+      "index": 692,
+      "character": "BATTY",
+      "gender": "Male",
+      "line": "Where are you going, Sebastian?",
+      "wordCount": 5
+    },
+    {
+      "id": 693,
+      "index": 693,
+      "character": "SEBASTIAN",
+      "gender": "Male",
+      "line": "Just thought I'd...",
+      "wordCount": 3
+    },
+    {
+      "id": 694,
+      "index": 694,
+      "character": "BATTY",
+      "gender": "Male",
+      "line": "No, you stay here with us. Out last night together.",
+      "wordCount": 10
+    },
+    {
+      "id": 695,
+      "index": 695,
+      "character": "BATTY",
+      "gender": "Male",
+      "line": "Think of yourself as a light, Mary. Shine before you're turned off.",
+      "wordCount": 12
+    },
+    {
+      "id": 696,
+      "index": 696,
+      "character": "SEBASTIAN",
+      "gender": "Male",
+      "line": "Someone is coming here.",
+      "wordCount": 4
+    },
+    {
+      "id": 697,
+      "index": 697,
+      "character": "BATTY",
+      "gender": "Male",
+      "line": "One man. He must be good.",
+      "wordCount": 6
+    },
+    {
+      "id": 698,
+      "index": 698,
+      "character": "MARY",
+      "gender": "NA",
+      "line": "Then go get him.",
+      "wordCount": 4
+    },
+    {
+      "id": 699,
+      "index": 699,
+      "character": "BATTY",
+      "gender": "Male",
+      "line": "That wouldn't be very sporting.",
+      "wordCount": 5
+    },
+    {
+      "id": 700,
+      "index": 700,
+      "character": "PRIS",
+      "gender": "Female",
+      "line": "I want to do it.",
+      "wordCount": 5
+    },
+    {
+      "id": 701,
+      "index": 701,
+      "character": "BATTY",
+      "gender": "Male",
+      "line": "Okay, but don't kill him. Save a little for everybody. A masterpiece.",
+      "wordCount": 12
+    },
+    {
+      "id": 702,
+      "index": 702,
+      "character": "BATTY",
+      "gender": "Male",
+      "line": "Turn out the lights, Pris.",
+      "wordCount": 5
+    },
+    {
+      "id": 703,
+      "index": 703,
+      "character": "PRIS",
+      "gender": "Female",
+      "line": "Naughty, naughty.",
+      "wordCount": 2
+    },
+    {
+      "id": 704,
+      "index": 704,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "Hello, Roy.",
+      "wordCount": 2
+    },
+    {
+      "id": 705,
+      "index": 705,
+      "character": "BATTY",
+      "gender": "Male",
+      "line": "You wanna play?",
+      "wordCount": 3
+    },
+    {
+      "id": 706,
+      "index": 706,
+      "character": "BATTY",
+      "gender": "Male",
+      "line": "Not very sporting to fire on an unarmed opponent. I thought you were supposed to be good. Aren't you the man?!",
+      "wordCount": 21
+    },
+    {
+      "id": 707,
+      "index": 707,
+      "character": "BATTY",
+      "gender": "Male",
+      "line": "This is how we do it up there, lad! Come on!",
+      "wordCount": 11
+    },
+    {
+      "id": 708,
+      "index": 708,
+      "character": "BATTY",
+      "gender": "Male",
+      "line": "Not hurt, are you? You better get it up or I'm going to have to kill you. Unless you're alive you can't play. And if you don't play, you don't get to be alive.",
+      "wordCount": 34
+    },
+    {
+      "id": 709,
+      "index": 709,
+      "character": "BATTY",
+      "gender": "Male",
+      "line": "That's the spirit.",
+      "wordCount": 3
+    },
+    {
+      "id": 710,
+      "index": 710,
+      "character": "BATTY'S VOICE",
+      "gender": "NA",
+      "line": "Come on, Deckard, show me what you got! I'm right here on the other side of the door. But you gotta shoot straight 'cause I'm fast!",
+      "wordCount": 26
+    },
+    {
+      "id": 711,
+      "index": 711,
+      "character": "BATTY",
+      "gender": "Male",
+      "line": "Straight doesn't seem to be good enough.",
+      "wordCount": 7
+    },
+    {
+      "id": 712,
+      "index": 712,
+      "character": "BATTY",
+      "gender": "Male",
+      "line": "You don't have a chance, do you?",
+      "wordCount": 7
+    },
+    {
+      "id": 713,
+      "index": 713,
+      "character": "BATTY",
+      "gender": "Male",
+      "line": "Looks like I'm gonna have to scale it down for you. Give you a handicap. I won't run through any more walls. Okay? I promise to use the doors. Okay?",
+      "wordCount": 30
+    },
+    {
+      "id": 714,
+      "index": 714,
+      "character": "BATTY",
+      "gender": "Male",
+      "line": "Come on, let's use that brain!",
+      "wordCount": 6
+    },
+    {
+      "id": 715,
+      "index": 715,
+      "character": "BATTY",
+      "gender": "Male",
+      "line": "Think! We need a little resilience around here!",
+      "wordCount": 8
+    },
+    {
+      "id": 716,
+      "index": 716,
+      "character": "BATTY",
+      "gender": "Male",
+      "line": "Where are those balls of yours?! Let's see a little bravery!",
+      "wordCount": 11
+    },
+    {
+      "id": 717,
+      "index": 717,
+      "character": "BATTY",
+      "gender": "Male",
+      "line": "That was irrational of me -- not to mention unsportsmanlike. Won't happen again.",
+      "wordCount": 13
+    },
+    {
+      "id": 718,
+      "index": 718,
+      "character": "BATTY",
+      "gender": "Male",
+      "line": "I'll be down the hall when you're ready.",
+      "wordCount": 8
+    },
+    {
+      "id": 719,
+      "index": 719,
+      "character": "BATTY",
+      "gender": "Male",
+      "line": "Where you going?",
+      "wordCount": 3
+    },
+    {
+      "id": 720,
+      "index": 720,
+      "character": "BATTY",
+      "gender": "Male",
+      "line": "No cheating. A promise is a promise. I'll honor the handicapped, but we gotta play on the top floor. You go get your laser gun now. And I'll give you a few seconds before I come.",
+      "wordCount": 36
+    },
+    {
+      "id": 721,
+      "index": 721,
+      "character": "BATTY'S VOICE",
+      "gender": "NA",
+      "line": "One!",
+      "wordCount": 1
+    },
+    {
+      "id": 722,
+      "index": 722,
+      "character": "BATTY'S VOICE",
+      "gender": "NA",
+      "line": "Two!",
+      "wordCount": 1
+    },
+    {
+      "id": 723,
+      "index": 723,
+      "character": "BATTY'S VOICE",
+      "gender": "NA",
+      "line": "No fair jumping through holes. You might get hurt doing that! THREE!",
+      "wordCount": 12
+    },
+    {
+      "id": 724,
+      "index": 724,
+      "character": "BATTY",
+      "gender": "Male",
+      "line": "Five!",
+      "wordCount": 1
+    },
+    {
+      "id": 725,
+      "index": 725,
+      "character": "BATTY",
+      "gender": "Male",
+      "line": "Six!",
+      "wordCount": 1
+    },
+    {
+      "id": 726,
+      "index": 726,
+      "character": "BATTY'S VOICE",
+      "gender": "NA",
+      "line": "Seven!",
+      "wordCount": 1
+    },
+    {
+      "id": 727,
+      "index": 727,
+      "character": "BATTY",
+      "gender": "Male",
+      "line": "Oh, I wonder where he is. Not in here, I don't think. Eight!",
+      "wordCount": 13
+    },
+    {
+      "id": 728,
+      "index": 728,
+      "character": "BATTY",
+      "gender": "Male",
+      "line": "Maybe here. Doesn't sound like it. Nine!",
+      "wordCount": 7
+    },
+    {
+      "id": 729,
+      "index": 729,
+      "character": "BATTY",
+      "gender": "Male",
+      "line": "Ten!",
+      "wordCount": 1
+    },
+    {
+      "id": 730,
+      "index": 730,
+      "character": "BATTY",
+      "gender": "Male",
+      "line": "One point for you.",
+      "wordCount": 4
+    },
+    {
+      "id": 731,
+      "index": 731,
+      "character": "BATTY",
+      "gender": "Male",
+      "line": "Ho ho! Try it again!",
+      "wordCount": 5
+    },
+    {
+      "id": 732,
+      "index": 732,
+      "character": "BATTY",
+      "gender": "Male",
+      "line": "What's wrong? Don't you like me? I'm what we've made!",
+      "wordCount": 10
+    },
+    {
+      "id": 733,
+      "index": 733,
+      "character": "BATTY",
+      "gender": "Male",
+      "line": "What's wrong? Aren't you a lover of Faster, Bigger and Better?!",
+      "wordCount": 11
+    },
+    {
+      "id": 734,
+      "index": 734,
+      "character": "BATTY",
+      "gender": "Male",
+      "line": "It's time to die.",
+      "wordCount": 4
+    },
+    {
+      "id": 735,
+      "index": 735,
+      "character": "BATTY",
+      "gender": "Male",
+      "line": "Ah!",
+      "wordCount": 1
+    },
+    {
+      "id": 736,
+      "index": 736,
+      "character": "BATTY",
+      "gender": "Male",
+      "line": "That's for you.",
+      "wordCount": 3
+    },
+    {
+      "id": 737,
+      "index": 737,
+      "character": "BATTY",
+      "gender": "Male",
+      "line": "Stick it in your ear and push. If that doesn't work, try the eye.",
+      "wordCount": 14
+    },
+    {
+      "id": 738,
+      "index": 738,
+      "character": "BATTY",
+      "gender": "Male",
+      "line": "Believe me, it'll be better for you than what I'm about to do.",
+      "wordCount": 13
+    },
+    {
+      "id": 739,
+      "index": 739,
+      "character": "BATTY",
+      "gender": "Male",
+      "line": "Well?",
+      "wordCount": 1
+    },
+    {
+      "id": 740,
+      "index": 740,
+      "character": "BATTY",
+      "gender": "Male",
+      "line": "Crap.",
+      "wordCount": 1
+    },
+    {
+      "id": 741,
+      "index": 741,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "She wanted to go to a place I knew. Out of the city. Like one of those pictures she saw. Where there were trees but no buildings.",
+      "wordCount": 27
+    },
+    {
+      "id": 742,
+      "index": 742,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "We had a good time. She told me a funny story and I taught her a song. A song about monkeys and elephants. And it made us laugh so hard we couldn't sing.",
+      "wordCount": 33
+    },
+    {
+      "id": 743,
+      "index": 743,
+      "character": "DECKARD",
+      "gender": "Male",
+      "line": "I told myself over and over again, if I hadn't done it, they would have.",
+      "wordCount": 15
+    },
+    {
+      "id": 744,
+      "index": 744,
+      "character": "",
+      "gender": "Male"
+    }
+  ]
+}

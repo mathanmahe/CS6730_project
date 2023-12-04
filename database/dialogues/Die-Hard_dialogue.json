@@ -1,0 +1,5204 @@
+{
+  "fileName": "Die-Hard_dialogue.txt",
+  "title": "Die Hard",
+  "data": [
+    {
+      "id": 0,
+      "index": 0,
+      "character": "SECOND REVISED DRAFT",
+      "gender": "NA",
+      "line": "October 2, 1987",
+      "wordCount": 3
+    },
+    {
+      "id": 1,
+      "index": 1,
+      "character": "SALESMAN'S VOICE",
+      "gender": "NA",
+      "line": "You don't like flying, do you?",
+      "wordCount": 6
+    },
+    {
+      "id": 2,
+      "index": 2,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "No, no, where'd you get that idea?",
+      "wordCount": 7
+    },
+    {
+      "id": 3,
+      "index": 3,
+      "character": "SALESMAN",
+      "gender": "NA",
+      "line": "Ya wanna know the secret of successful air travel? After you get where you're going, ya take off your shoes and socks. Then ya walk around on the rug barefoot and make fists with your toes.",
+      "wordCount": 36
+    },
+    {
+      "id": 4,
+      "index": 4,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "Fists with your toes.",
+      "wordCount": 4
+    },
+    {
+      "id": 5,
+      "index": 5,
+      "character": "SALESMAN",
+      "gender": "NA",
+      "line": "Maybe it's not a fist when it's your toes...I mean like this...work out that time zone tension. Better'n a cup of coffee and a hot shower for the old jet lag. I know it sounds crazy. Trust me. I've been doing it for nine years.",
+      "wordCount": 45
+    },
+    {
+      "id": 6,
+      "index": 6,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "It's okay. I'm a cop. Trust me. I've been doing it for eleven.",
+      "wordCount": 13
+    },
+    {
+      "id": 7,
+      "index": 7,
+      "character": "STEWARDESS",
+      "gender": "NA",
+      "line": "Maybe you should have bought her a ticket.",
+      "wordCount": 8
+    },
+    {
+      "id": 8,
+      "index": 8,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "Her?",
+      "wordCount": 1
+    },
+    {
+      "id": 9,
+      "index": 9,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "She doesn't complain.",
+      "wordCount": 3
+    },
+    {
+      "id": 10,
+      "index": 10,
+      "character": "STEWARDESS",
+      "gender": "NA",
+      "line": "Neither would I.",
+      "wordCount": 3
+    },
+    {
+      "id": 11,
+      "index": 11,
+      "character": "TAKAGI",
+      "gender": "Male",
+      "line": "Ladies and gentlemen...I congratulate each and every one of you for making this one of the greatest days in the history of the Nakatomi corporation...",
+      "wordCount": 25
+    },
+    {
+      "id": 12,
+      "index": 12,
+      "character": "ELLIS",
+      "gender": "Male",
+      "line": "What about dinner?",
+      "wordCount": 3
+    },
+    {
+      "id": 13,
+      "index": 13,
+      "character": "WOMAN",
+      "gender": "NA",
+      "line": "Harry, it's Christmas Eve. Families... Stockings...chestnuts...Rudolph and Frosty...those things ring a bell?",
+      "wordCount": 12
+    },
+    {
+      "id": 14,
+      "index": 14,
+      "character": "ELLIS",
+      "gender": "Male",
+      "line": "I was thinking more of roaring fireplaces...mulled wine and a nice brie...",
+      "wordCount": 12
+    },
+    {
+      "id": 15,
+      "index": 15,
+      "character": "HOLLY",
+      "gender": "Female",
+      "line": "Ginny, it's 6:40, you're making me feel like Ebeneezer Scrooge. Go on, join the party, have some champagne.",
+      "wordCount": 18
+    },
+    {
+      "id": 16,
+      "index": 16,
+      "character": "GINNY",
+      "gender": "NA",
+      "line": "Thanks Ms. Gennaro. Do you think the baby can handle a little sip?",
+      "wordCount": 13
+    },
+    {
+      "id": 17,
+      "index": 17,
+      "character": "HOLLY",
+      "gender": "Female",
+      "line": "Ginny, that baby's ready to tend bar.",
+      "wordCount": 7
+    },
+    {
+      "id": 18,
+      "index": 18,
+      "character": "ELLIS",
+      "gender": "Male",
+      "line": "How about tomorrow night?",
+      "wordCount": 4
+    },
+    {
+      "id": 19,
+      "index": 19,
+      "character": "LUCY",
+      "gender": "NA",
+      "line": "McClane residence. Lucy McClane speaking.",
+      "wordCount": 5
+    },
+    {
+      "id": 20,
+      "index": 20,
+      "character": "HOLLY",
+      "gender": "Female",
+      "line": "Hello, Lucy McClane. This is your mother.",
+      "wordCount": 7
+    },
+    {
+      "id": 21,
+      "index": 21,
+      "character": "LUCY",
+      "gender": "NA",
+      "line": "Mommy! When are you coming home?!",
+      "wordCount": 6
+    },
+    {
+      "id": 22,
+      "index": 22,
+      "character": "HOLLY",
+      "gender": "Female",
+      "line": "Soon. You'll be in bed when I get there, though.",
+      "wordCount": 10
+    },
+    {
+      "id": 23,
+      "index": 23,
+      "character": "LUCY",
+      "gender": "NA",
+      "line": "Will you come say 'good night'?",
+      "wordCount": 6
+    },
+    {
+      "id": 24,
+      "index": 24,
+      "character": "HOLLY",
+      "gender": "Female",
+      "line": "Don't I always, you goose? Now put Paulina on the line, and no searching the house for presents!",
+      "wordCount": 18
+    },
+    {
+      "id": 25,
+      "index": 25,
+      "character": "LUCY",
+      "gender": "NA",
+      "line": "I didn't look in the front closet under the steps! Is Daddy coming home with you?",
+      "wordCount": 16
+    },
+    {
+      "id": 26,
+      "index": 26,
+      "character": "JOHN, JR.",
+      "gender": "NA",
+      "line": "Yeah! Daddy! Daddy! Daddy! And a Captain Power!",
+      "wordCount": 8
+    },
+    {
+      "id": 27,
+      "index": 27,
+      "character": "HOLLY",
+      "gender": "Female",
+      "line": "Well, we'll see what Santa and Mommy can do. Goose, put Paulina on, okay?",
+      "wordCount": 14
+    },
+    {
+      "id": 28,
+      "index": 28,
+      "character": "PAULINA",
+      "gender": "NA",
+      "line": "Hello, Mrs. Holly. You coming home soon?",
+      "wordCount": 7
+    },
+    {
+      "id": 29,
+      "index": 29,
+      "character": "HOLLY",
+      "gender": "Female",
+      "line": "I'm working on it. Did Mr. McClane call? *",
+      "wordCount": 9
+    },
+    {
+      "id": 30,
+      "index": 30,
+      "character": "PAULINA",
+      "gender": "NA",
+      "line": "No ma'am.",
+      "wordCount": 2
+    },
+    {
+      "id": 31,
+      "index": 31,
+      "character": "HOLLY",
+      "gender": "Female",
+      "line": "Well...maybe there wasn't time before * the flight. You should probably make up the spare room just in case.",
+      "wordCount": 19
+    },
+    {
+      "id": 32,
+      "index": 32,
+      "character": "PAULINA",
+      "gender": "NA",
+      "line": "Yes, Mrs. Holly. I do that already. *",
+      "wordCount": 8
+    },
+    {
+      "id": 33,
+      "index": 33,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "California.",
+      "wordCount": 1
+    },
+    {
+      "id": 34,
+      "index": 34,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "I'm John McClane.",
+      "wordCount": 3
+    },
+    {
+      "id": 35,
+      "index": 35,
+      "character": "ARGYLE",
+      "gender": "Male",
+      "line": "Argyle. I'm your limo driver. Hey, nice bag.",
+      "wordCount": 8
+    },
+    {
+      "id": 36,
+      "index": 36,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "Argyle. Don't you take this stuff?",
+      "wordCount": 6
+    },
+    {
+      "id": 37,
+      "index": 37,
+      "character": "ARGYLE",
+      "gender": "Male",
+      "line": "Do I? I'm sorry. You're gonna have to help me, man. This is my first time driving a limo.",
+      "wordCount": 19
+    },
+    {
+      "id": 38,
+      "index": 38,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "That's okay. This is my first time riding in one.",
+      "wordCount": 10
+    },
+    {
+      "id": 39,
+      "index": 39,
+      "character": "ARGYLE",
+      "gender": "Male",
+      "line": "Just kick back and relax, man. We got everything you need: CD, CB, TV, VHS, telephone, full bar.",
+      "wordCount": 18
+    },
+    {
+      "id": 40,
+      "index": 40,
+      "character": "ARGYLE",
+      "gender": "Male",
+      "line": "If your friend is hot to trot...I know a couple of mama bears. ...Or is he married?",
+      "wordCount": 17
+    },
+    {
+      "id": 41,
+      "index": 41,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "Married.",
+      "wordCount": 1
+    },
+    {
+      "id": 42,
+      "index": 42,
+      "character": "ARGYLE",
+      "gender": "Male",
+      "line": "The girl was off today. Hey, I didn't expect you to sit up front. So, your lady live out here?",
+      "wordCount": 20
+    },
+    {
+      "id": 43,
+      "index": 43,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "The past six months.",
+      "wordCount": 4
+    },
+    {
+      "id": 44,
+      "index": 44,
+      "character": "ARGYLE",
+      "gender": "Male",
+      "line": "Meanwhile, you still live in New York?",
+      "wordCount": 7
+    },
+    {
+      "id": 45,
+      "index": 45,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "You're nosey, you know that, Argyle?",
+      "wordCount": 6
+    },
+    {
+      "id": 46,
+      "index": 46,
+      "character": "ARGYLE",
+      "gender": "Male",
+      "line": "Hey, I'm sorry. When I was a cabdriver, see, people expected a little chit chat, a little eccentricity and comaraderie, I forgot how stuck up you limo guys were, so excuse me.",
+      "wordCount": 32
+    },
+    {
+      "id": 47,
+      "index": 47,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "It's okay, it's okay.",
+      "wordCount": 4
+    },
+    {
+      "id": 48,
+      "index": 48,
+      "character": "ARGYLE",
+      "gender": "Male",
+      "line": "So, you divorced of what?",
+      "wordCount": 5
+    },
+    {
+      "id": 49,
+      "index": 49,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "She had a good job, it turned into a great career.",
+      "wordCount": 11
+    },
+    {
+      "id": 50,
+      "index": 50,
+      "character": "ARGYLE",
+      "gender": "Male",
+      "line": "But meant her moving here.",
+      "wordCount": 5
+    },
+    {
+      "id": 51,
+      "index": 51,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "Closer to Japan. You're fast.",
+      "wordCount": 5
+    },
+    {
+      "id": 52,
+      "index": 52,
+      "character": "ARGYLE",
+      "gender": "Male",
+      "line": "So, why didn't you come?",
+      "wordCount": 5
+    },
+    {
+      "id": 53,
+      "index": 53,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "'Cause I'm a New York cop who used to be a New York kid, and I got six months backlog of New York scumbags I'm still trying to put behind bars. I don't just get up and move.",
+      "wordCount": 38
+    },
+    {
+      "id": 54,
+      "index": 54,
+      "character": "ARGYLE",
+      "gender": "Male",
+      "line": "You mean you thought she wouldn't make it out here and she'd come crawling on back, so why bother to pack?",
+      "wordCount": 21
+    },
+    {
+      "id": 55,
+      "index": 55,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "Like I said, Argyle...you're fast.",
+      "wordCount": 5
+    },
+    {
+      "id": 56,
+      "index": 56,
+      "character": "ARGYLE",
+      "gender": "Male",
+      "line": "Mind if I play some tunes?",
+      "wordCount": 6
+    },
+    {
+      "id": 57,
+      "index": 57,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "How 'bout some Christmas music?",
+      "wordCount": 5
+    },
+    {
+      "id": 58,
+      "index": 58,
+      "character": "ARGYLE",
+      "gender": "Male",
+      "line": "That is Christmas music.",
+      "wordCount": 4
+    },
+    {
+      "id": 59,
+      "index": 59,
+      "character": "ARGYLE",
+      "gender": "Male",
+      "line": "So, you go on upstairs to the party, your lady sees you, you run into each other's arms. Music comes up, you live happily ever after, that it?",
+      "wordCount": 28
+    },
+    {
+      "id": 60,
+      "index": 60,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "It's corny, but I could live with it.",
+      "wordCount": 8
+    },
+    {
+      "id": 61,
+      "index": 61,
+      "character": "ARGYLE",
+      "gender": "Male",
+      "line": "What is it don't work out that way? Where you gonna stay?",
+      "wordCount": 12
+    },
+    {
+      "id": 62,
+      "index": 62,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "I'll find someplace.",
+      "wordCount": 3
+    },
+    {
+      "id": 63,
+      "index": 63,
+      "character": "ARGYLE",
+      "gender": "Male",
+      "line": "Tell you what. I'll pull into the parking garage and wait. You score with your wife give me a call on the car phone and I'll leave your bags inside at the desk. You strike out... I'll get you to a hotel.",
+      "wordCount": 42
+    },
+    {
+      "id": 64,
+      "index": 64,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "You're all right, Argyle.",
+      "wordCount": 4
+    },
+    {
+      "id": 65,
+      "index": 65,
+      "character": "ARGYLE",
+      "gender": "Male",
+      "line": "Just remember that when you sign for the tip. They're paying for it, so don't be shy.",
+      "wordCount": 17
+    },
+    {
+      "id": 66,
+      "index": 66,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "Holly McClane?",
+      "wordCount": 2
+    },
+    {
+      "id": 67,
+      "index": 67,
+      "character": "GUARD",
+      "gender": "NA",
+      "line": "Just type it in there.",
+      "wordCount": 5
+    },
+    {
+      "id": 68,
+      "index": 68,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "Cute toy.",
+      "wordCount": 2
+    },
+    {
+      "id": 69,
+      "index": 69,
+      "character": "GUARD",
+      "gender": "NA",
+      "line": "Yeah. When you have to take a leak it'll help you find your zipper.",
+      "wordCount": 14
+    },
+    {
+      "id": 70,
+      "index": 70,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "Thirtieth floor... *",
+      "wordCount": 3
+    },
+    {
+      "id": 71,
+      "index": 71,
+      "character": "GUARD",
+      "gender": "NA",
+      "line": "Take the express elevator and get off at the noise.",
+      "wordCount": 10
+    },
+    {
+      "id": 72,
+      "index": 72,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "Lots of hardware...",
+      "wordCount": 3
+    },
+    {
+      "id": 73,
+      "index": 73,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "California...",
+      "wordCount": 1
+    },
+    {
+      "id": 74,
+      "index": 74,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "Excuse me, I'm looking for --",
+      "wordCount": 6
+    },
+    {
+      "id": 75,
+      "index": 75,
+      "character": "TAKAGI",
+      "gender": "Male",
+      "line": "Holly Gennero?",
+      "wordCount": 2
+    },
+    {
+      "id": 76,
+      "index": 76,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "Yeah. How'd you know?",
+      "wordCount": 4
+    },
+    {
+      "id": 77,
+      "index": 77,
+      "character": "TAKAGI",
+      "gender": "Male",
+      "line": "I've spent half my life on airplanes, * I can recognize someone who just got off one. I'm Joe Takagi, Mr. McClane. I have ...something to do with this company.",
+      "wordCount": 30
+    },
+    {
+      "id": 78,
+      "index": 78,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "So I've heard.",
+      "wordCount": 3
+    },
+    {
+      "id": 79,
+      "index": 79,
+      "character": "TAKAGI",
+      "gender": "Male",
+      "line": "Holly went to the Vault room to FAX some documents...she should be back any...",
+      "wordCount": 14
+    },
+    {
+      "id": 80,
+      "index": 80,
+      "character": "ELLIS",
+      "gender": "Male",
+      "line": "Ah...hi...I just had to make a quick call, and this was the nearest phone...",
+      "wordCount": 14
+    },
+    {
+      "id": 81,
+      "index": 81,
+      "character": "TAKAGI",
+      "gender": "Male",
+      "line": "Ellis, this is John McClane... Holly's policeman? Ellis is in charge of International Acquisitions.",
+      "wordCount": 14
+    },
+    {
+      "id": 82,
+      "index": 82,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "That explains the recent deal with Bolivia.",
+      "wordCount": 7
+    },
+    {
+      "id": 83,
+      "index": 83,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "Relax, Ellis. I'm off duty.",
+      "wordCount": 5
+    },
+    {
+      "id": 84,
+      "index": 84,
+      "character": "TAKAGI",
+      "gender": "Male",
+      "line": "Can I get you anything? Food? Cake? Watered down champagne punch?",
+      "wordCount": 11
+    },
+    {
+      "id": 85,
+      "index": 85,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "I'm fine. You throw quite a party. I didn't know they had Christmas in Japan.",
+      "wordCount": 15
+    },
+    {
+      "id": 86,
+      "index": 86,
+      "character": "TAKAGI",
+      "gender": "Male",
+      "line": "Hey, we're flexible. Pearl Harbor didn't work out, we got you with tape decks.",
+      "wordCount": 14
+    },
+    {
+      "id": 87,
+      "index": 87,
+      "character": "ELLIS",
+      "gender": "Male",
+      "line": "Actually, it's kind of a double celebration. * We closed a pretty big deal today and a lot of it was due to Holly.",
+      "wordCount": 24
+    },
+    {
+      "id": 88,
+      "index": 88,
+      "character": "HOLLY",
+      "gender": "Female",
+      "line": "All set, Joe. The contracts went over the wire, and -- John...!",
+      "wordCount": 12
+    },
+    {
+      "id": 89,
+      "index": 89,
+      "character": "HOLLY",
+      "gender": "Female",
+      "line": "I was hoping you made that flight.",
+      "wordCount": 7
+    },
+    {
+      "id": 90,
+      "index": 90,
+      "character": "JOHN",
+      "gender": "Male",
+      "line": "I was hoping you were hoping that.",
+      "wordCount": 7
+    },
+    {
+      "id": 91,
+      "index": 91,
+      "character": "TAKAGI",
+      "gender": "Male",
+      "line": "You wife's made for this business. She know how to drive a hard bargain.",
+      "wordCount": 14
+    },
+    {
+      "id": 92,
+      "index": 92,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "Yeah. I remember our first date.",
+      "wordCount": 6
+    },
+    {
+      "id": 93,
+      "index": 93,
+      "character": "ELLIS",
+      "gender": "Male",
+      "line": "Show him the watch.",
+      "wordCount": 4
+    },
+    {
+      "id": 94,
+      "index": 94,
+      "character": "ELLIS",
+      "gender": "Male",
+      "line": "Go on, show him. What're you, embarrassed? A little token of our appreciation for all her work.",
+      "wordCount": 17
+    },
+    {
+      "id": 95,
+      "index": 95,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "Nice, but one of us is three hours out of sync. I think it's me. Is there a place I can wash up?",
+      "wordCount": 23
+    },
+    {
+      "id": 96,
+      "index": 96,
+      "character": "HOLLY",
+      "gender": "Female",
+      "line": "Sure. Follow me.",
+      "wordCount": 3
+    },
+    {
+      "id": 97,
+      "index": 97,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "Son-of-a-bitch. It works.",
+      "wordCount": 3
+    },
+    {
+      "id": 98,
+      "index": 98,
+      "character": "HOLLY",
+      "gender": "Female",
+      "line": "What are you doing?",
+      "wordCount": 4
+    },
+    {
+      "id": 99,
+      "index": 99,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "It's a long story. You know, I think that Ellis has his eye on you.",
+      "wordCount": 15
+    },
+    {
+      "id": 100,
+      "index": 100,
+      "character": "HOLLY",
+      "gender": "Female",
+      "line": "That's okay... ... I have an eye on his private bathroom.",
+      "wordCount": 11
+    },
+    {
+      "id": 101,
+      "index": 101,
+      "character": "HOLLY",
+      "gender": "Female",
+      "line": "So, where are you staying? This * all happened so fast I didn't even ask you on the phone.",
+      "wordCount": 19
+    },
+    {
+      "id": 102,
+      "index": 102,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "Well, Cappy Roberts retired out here a couple years ago. He said I could bunk with him.",
+      "wordCount": 17
+    },
+    {
+      "id": 103,
+      "index": 103,
+      "character": "HOLLY",
+      "gender": "Female",
+      "line": "Oh...Where does he live?",
+      "wordCount": 4
+    },
+    {
+      "id": 104,
+      "index": 104,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "Ramona...no, Pomona, that's it.",
+      "wordCount": 4
+    },
+    {
+      "id": 105,
+      "index": 105,
+      "character": "HOLLY",
+      "gender": "Female",
+      "line": "Pomona! You'll be in the car the whole time...Look, let's make this easy. I have a spare bedroom. It's not huge, but the kids would love to have you at the house.",
+      "wordCount": 32
+    },
+    {
+      "id": 106,
+      "index": 106,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "They would, huh?",
+      "wordCount": 3
+    },
+    {
+      "id": 107,
+      "index": 107,
+      "character": "HOLLY",
+      "gender": "Female",
+      "line": "I would too. They lock eyes for a moment, but it's an intense moment that says a lot about how they still feel about each other.",
+      "wordCount": 26
+    },
+    {
+      "id": 108,
+      "index": 108,
+      "character": "HOLLY",
+      "gender": "Female",
+      "line": "...I've missed you. *",
+      "wordCount": 4
+    },
+    {
+      "id": 109,
+      "index": 109,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "Especially my name. You must miss it every time you write a check. When did you start calling yourself 'Ms. Gennero'?",
+      "wordCount": 21
+    },
+    {
+      "id": 110,
+      "index": 110,
+      "character": "HOLLY",
+      "gender": "Female",
+      "line": "This is a Japanese company, you know? They figure a married woman, she's on the way out the door...",
+      "wordCount": 19
+    },
+    {
+      "id": 111,
+      "index": 111,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "Sure. It's unnerving. I remember this one particular married woman, she went out the door so fast there was practically a jetwash...I mean, talk about your wind chill factor...",
+      "wordCount": 29
+    },
+    {
+      "id": 112,
+      "index": 112,
+      "character": "HOLLY",
+      "gender": "Female",
+      "line": "Didn't we have this same conversation in July? Damn it, John, there was an opportunity out here -- I had to take it --",
+      "wordCount": 24
+    },
+    {
+      "id": 113,
+      "index": 113,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "No matter what it did to our marriage -- ?",
+      "wordCount": 10
+    },
+    {
+      "id": 114,
+      "index": 114,
+      "character": "HOLLY",
+      "gender": "Female",
+      "line": "My job and my title and my salary did nothing to our marriage except change your idea of what it should be.",
+      "wordCount": 22
+    },
+    {
+      "id": 115,
+      "index": 115,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "Oh, here it comes. One of those 'meaningful relationship conversations.' I never should've let you get those magazine subscriptions --",
+      "wordCount": 20
+    },
+    {
+      "id": 116,
+      "index": 116,
+      "character": "HOLLY",
+      "gender": "Female",
+      "line": "You want to know my idea of a marriage? It's a partnership where people help each other over the rough spots -- console each other when there's a down...and when there's an up, well, hell, a little Goddamn applause or an attaboy wouldn't be too bad. I needed that, John. I deserved that.",
+      "wordCount": 53
+    },
+    {
+      "id": 117,
+      "index": 117,
+      "character": "GINNY",
+      "gender": "NA",
+      "line": "Miz Gennero? Mr. Takagi is looking for you...he wants you to say something to the troops...",
+      "wordCount": 16
+    },
+    {
+      "id": 118,
+      "index": 118,
+      "character": "HOLLY",
+      "gender": "Female",
+      "line": "Thanks, Ginny. I'll be a second. Oh, this is --",
+      "wordCount": 10
+    },
+    {
+      "id": 119,
+      "index": 119,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "Hi. John Gennero here. I'm the sensitive and supportive man of the eighties.",
+      "wordCount": 13
+    },
+    {
+      "id": 120,
+      "index": 120,
+      "character": "HOLLY",
+      "gender": "Female",
+      "line": "I'll be a few minutes. Wait here --",
+      "wordCount": 8
+    },
+    {
+      "id": 121,
+      "index": 121,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "Don't I always?",
+      "wordCount": 3
+    },
+    {
+      "id": 122,
+      "index": 122,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "Schmuck!",
+      "wordCount": 1
+    },
+    {
+      "id": 123,
+      "index": 123,
+      "character": "THEO",
+      "gender": "Male",
+      "line": "Boom...two points.",
+      "wordCount": 2
+    },
+    {
+      "id": 124,
+      "index": 124,
+      "character": "THEO",
+      "gender": "Male",
+      "line": "We're in.",
+      "wordCount": 2
+    },
+    {
+      "id": 125,
+      "index": 125,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "Argyle...?",
+      "wordCount": 1
+    },
+    {
+      "id": 126,
+      "index": 126,
+      "character": "ARGYLE",
+      "gender": "Male",
+      "line": "Hey, John, what's the word on you and your lady?",
+      "wordCount": 10
+    },
+    {
+      "id": 127,
+      "index": 127,
+      "character": "MCCLANE'S VOICE",
+      "gender": "NA",
+      "line": "The vote's not in yet.",
+      "wordCount": 5
+    },
+    {
+      "id": 128,
+      "index": 128,
+      "character": "ARGYLE'S VOICE",
+      "gender": "NA",
+      "line": "'Vote's not in yet?' What's that supposed to mean.",
+      "wordCount": 9
+    },
+    {
+      "id": 129,
+      "index": 129,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "What do you want, 'All My Children'? We're making progress. After I get my foot out of my mouth, we'll really be cooking, and then I can --",
+      "wordCount": 28
+    },
+    {
+      "id": 130,
+      "index": 130,
+      "character": "ARGYLE",
+      "gender": "Male",
+      "line": "What?...Mr. Mac, you there?",
+      "wordCount": 4
+    },
+    {
+      "id": 131,
+      "index": 131,
+      "character": "ARGYLE",
+      "gender": "Male",
+      "line": "Well, call me back, John. You got the number.",
+      "wordCount": 9
+    },
+    {
+      "id": 132,
+      "index": 132,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "Shit...",
+      "wordCount": 1
+    },
+    {
+      "id": 133,
+      "index": 133,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "Think...",
+      "wordCount": 1
+    },
+    {
+      "id": 134,
+      "index": 134,
+      "character": "HANS",
+      "gender": "Male",
+      "line": "Ladies and gentlemen, due to the Nakatomi Corporation's legacy of greed around the globe, it is about to be taught a lesson on real power. You...will be witnesses. If our demands are not met, however -- -- You may become participants instead. Now, where is...'Takagi'? Where is the man who... ...used to be in charge here?",
+      "wordCount": 56
+    },
+    {
+      "id": 135,
+      "index": 135,
+      "character": "HANS",
+      "gender": "Male",
+      "line": "Mr. Takagi. How do you do. My name is Hans Gruber.",
+      "wordCount": 11
+    },
+    {
+      "id": 136,
+      "index": 136,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "32 construction...33 computers...",
+      "wordCount": 3
+    },
+    {
+      "id": 137,
+      "index": 137,
+      "character": "HANS",
+      "gender": "Male",
+      "line": "Nice suit. John Philips...London?",
+      "wordCount": 4
+    },
+    {
+      "id": 138,
+      "index": 138,
+      "character": "HANS",
+      "gender": "Male",
+      "line": "I have two myself. I'm told Arafat shops there too...",
+      "wordCount": 10
+    },
+    {
+      "id": 139,
+      "index": 139,
+      "character": "HANS",
+      "gender": "Male",
+      "line": "It's beautiful. I always enjoyed models as a boy. The exactness, the attention to every foreseeable detail... perfection.",
+      "wordCount": 18
+    },
+    {
+      "id": 140,
+      "index": 140,
+      "character": "TAKAGI",
+      "gender": "Male",
+      "line": "This is what this is about? Out building project in Indonesia? Contrary to what you people think, we're going to develop that region... not 'exploit' it.",
+      "wordCount": 26
+    },
+    {
+      "id": 141,
+      "index": 141,
+      "character": "HANS",
+      "gender": "Male",
+      "line": "I believe you. I read the article in Forbes. *",
+      "wordCount": 10
+    },
+    {
+      "id": 142,
+      "index": 142,
+      "character": "HANS",
+      "gender": "Male",
+      "line": "Mr. Takagi, we could discuss industrialization of men's fashions all day, but I'm afraid my associate, Mr. Theo, has some questions for you. Sort of fill-in-the blanks questions actually...",
+      "wordCount": 29
+    },
+    {
+      "id": 143,
+      "index": 143,
+      "character": "NAKATOMI CORPORATION. BOARD WORKSTATION.",
+      "gender": "NA",
+      "line": "ENTER CENTRAL COMPUTER CODE KEY _ _ _ _.",
+      "wordCount": 9
+    },
+    {
+      "id": 144,
+      "index": 144,
+      "character": "TAKAGI",
+      "gender": "Male",
+      "line": "I don't have that code...! You broke in here to access out computer?!? Any information you could get -- they wake up in Tokyo in the morning, they'll change it! You won't be able to blackmail our executives or threaten --",
+      "wordCount": 41
+    },
+    {
+      "id": 145,
+      "index": 145,
+      "character": "HANS",
+      "gender": "Male",
+      "line": "SIT DOWN!",
+      "wordCount": 2
+    },
+    {
+      "id": 146,
+      "index": 146,
+      "character": "HANS",
+      "gender": "Male",
+      "line": "Mr. Takagi...I'm not interested in your computer. I'm interested in the 640 million dollars in negotiable bearer bonds you have in you vault.",
+      "wordCount": 23
+    },
+    {
+      "id": 147,
+      "index": 147,
+      "character": "HANS",
+      "gender": "Male",
+      "line": "Yes...I know about them. The code key is a necessary step in accessing the vault.",
+      "wordCount": 15
+    },
+    {
+      "id": 148,
+      "index": 148,
+      "character": "TAKAGI",
+      "gender": "Male",
+      "line": "You want...money? What kind of terrorists are you?",
+      "wordCount": 8
+    },
+    {
+      "id": 149,
+      "index": 149,
+      "character": "HANS",
+      "gender": "Male",
+      "line": "Who said we were terrorists?",
+      "wordCount": 5
+    },
+    {
+      "id": 150,
+      "index": 150,
+      "character": "HANS",
+      "gender": "Male",
+      "line": "The code key, please...?",
+      "wordCount": 4
+    },
+    {
+      "id": 151,
+      "index": 151,
+      "character": "TAKAGI",
+      "gender": "Male",
+      "line": "It's useless to you! There's seven safeguards on our vault, and the code key is only one of them! You'll never get it open!",
+      "wordCount": 24
+    },
+    {
+      "id": 152,
+      "index": 152,
+      "character": "HANS",
+      "gender": "Male",
+      "line": "Then there's no reason not to tell it to us.",
+      "wordCount": 10
+    },
+    {
+      "id": 153,
+      "index": 153,
+      "character": "THEO",
+      "gender": "Male",
+      "line": "I told you...",
+      "wordCount": 3
+    },
+    {
+      "id": 154,
+      "index": 154,
+      "character": "KARL",
+      "gender": "Male",
+      "line": "It's not over...",
+      "wordCount": 3
+    },
+    {
+      "id": 155,
+      "index": 155,
+      "character": "HANS",
+      "gender": "Male",
+      "line": "This is too nice a suit to ruin, Mr. Takagi. I'm going to count to three. There will not be a four. Give me the code.",
+      "wordCount": 26
+    },
+    {
+      "id": 156,
+      "index": 156,
+      "character": "TAKAGI",
+      "gender": "Male",
+      "line": "I don't know it! get on a Goddamn jet to Tokyo and ask the chairman! I'm telling you! You're just going to have to kill me --",
+      "wordCount": 27
+    },
+    {
+      "id": 157,
+      "index": 157,
+      "character": "HANS",
+      "gender": "Male",
+      "line": "Okay.",
+      "wordCount": 1
+    },
+    {
+      "id": 158,
+      "index": 158,
+      "character": "HANS",
+      "gender": "Male",
+      "line": "We do it the hard way! Tony, see if you can dispose of that. Karl, you'd better check Heinrich's work up on the machine floor.",
+      "wordCount": 25
+    },
+    {
+      "id": 159,
+      "index": 159,
+      "character": "KARL",
+      "gender": "Male",
+      "line": "Nothing...",
+      "wordCount": 1
+    },
+    {
+      "id": 160,
+      "index": 160,
+      "character": "HANS",
+      "gender": "Male",
+      "line": "See to Heinrich... Now...you can break the code key...?",
+      "wordCount": 9
+    },
+    {
+      "id": 161,
+      "index": 161,
+      "character": "THEO",
+      "gender": "Male",
+      "line": "You didn't bring me along for my charming personality.",
+      "wordCount": 9
+    },
+    {
+      "id": 162,
+      "index": 162,
+      "character": "THEO",
+      "gender": "Male",
+      "line": "'Though you could have...",
+      "wordCount": 4
+    },
+    {
+      "id": 163,
+      "index": 163,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "Argyle. Tell me you heard the shot. Tell me you heard the shot and you're calling the police right now...",
+      "wordCount": 20
+    },
+    {
+      "id": 164,
+      "index": 164,
+      "character": "ARGYLE",
+      "gender": "Male",
+      "line": "I'm working, honey. Working hard. 'Course I'll be by later to pick you up, have I ever lies to you? My boss? He thinks I'm cruising to Palm Springs...",
+      "wordCount": 29
+    },
+    {
+      "id": 165,
+      "index": 165,
+      "character": "HANS",
+      "gender": "Male",
+      "line": "How long?",
+      "wordCount": 2
+    },
+    {
+      "id": 166,
+      "index": 166,
+      "character": "THEO",
+      "gender": "Male",
+      "line": "Thirty minutes to break the code... Two hours for the five mechanicals. The seventh lock...that's out of my hands.",
+      "wordCount": 19
+    },
+    {
+      "id": 167,
+      "index": 167,
+      "character": "HANS",
+      "gender": "Male",
+      "line": "If out plan works...the FBI will get rid of it for us.",
+      "wordCount": 12
+    },
+    {
+      "id": 168,
+      "index": 168,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "Why the fuck didn't you stop him? Because, you ignorant sonofabitch, you'd be dead, too. Think...think, Goddamnit!",
+      "wordCount": 17
+    },
+    {
+      "id": 169,
+      "index": 169,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "C'mon, baby...come to Papa. I'm gonna kiss your Goddamn dalmatian.",
+      "wordCount": 10
+    },
+    {
+      "id": 170,
+      "index": 170,
+      "character": "HANS",
+      "gender": "Male",
+      "line": "Call 911, give them the name and badge number on your uniform and cancel the alarm...then disable the system. Eddie? What floor did the alarm go off?",
+      "wordCount": 27
+    },
+    {
+      "id": 171,
+      "index": 171,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "Son of a bitch...",
+      "wordCount": 4
+    },
+    {
+      "id": 172,
+      "index": 172,
+      "character": "TONY",
+      "gender": "Male",
+      "line": "The fire has been called off, my friend. No one is coming to help you. You might as well come out and join the others. I promise not to hurt you.",
+      "wordCount": 31
+    },
+    {
+      "id": 173,
+      "index": 173,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "Freeze, Police...don't move or name your beneficiary.",
+      "wordCount": 7
+    },
+    {
+      "id": 174,
+      "index": 174,
+      "character": "TONY",
+      "gender": "Male",
+      "line": "You won't hurt me.",
+      "wordCount": 4
+    },
+    {
+      "id": 175,
+      "index": 175,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "Yeah? Why not?",
+      "wordCount": 3
+    },
+    {
+      "id": 176,
+      "index": 176,
+      "character": "TONY",
+      "gender": "Male",
+      "line": "Because you are a policeman. There are rules for policemen.",
+      "wordCount": 10
+    },
+    {
+      "id": 177,
+      "index": 177,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "Yeah. My Captain keeps telling me the same thing.",
+      "wordCount": 9
+    },
+    {
+      "id": 178,
+      "index": 178,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "Let's go.",
+      "wordCount": 2
+    },
+    {
+      "id": 179,
+      "index": 179,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "A million terrorists in the world and I kill the one with feet smaller than my sister.",
+      "wordCount": 17
+    },
+    {
+      "id": 180,
+      "index": 180,
+      "character": "HANS",
+      "gender": "Male",
+      "line": "I wanted this to be professional, efficient, adult, cooperative. Not a lot to ask. Alas, your Mr. Takagi did not see it that way... So he won't be joining us for the rest of his life. We are prepared to go any way you make us. When we have achieved our aims you can walk out of here... or be carried out. Decide now, each of you. But remember that we have planned everything to the last detail. We are completely in change.",
+      "wordCount": 83
+    },
+    {
+      "id": 181,
+      "index": 181,
+      "character": "HANS",
+      "gender": "Male",
+      "line": "Get them over there. Schnell!",
+      "wordCount": 5
+    },
+    {
+      "id": 182,
+      "index": 182,
+      "character": "FRITZ",
+      "gender": "NA",
+      "line": "Perhaps a security guard we overlooked...?",
+      "wordCount": 6
+    },
+    {
+      "id": 183,
+      "index": 183,
+      "character": "HANS",
+      "gender": "Male",
+      "line": "Security guard? They're usually tired and burned out old policemen growing * fat on a pension...This is... something else.",
+      "wordCount": 19
+    },
+    {
+      "id": 184,
+      "index": 184,
+      "character": "FRITZ'S VOICE",
+      "gender": "NA",
+      "line": "We have to do something, Hans.",
+      "wordCount": 6
+    },
+    {
+      "id": 185,
+      "index": 185,
+      "character": "HANS' VOICE",
+      "gender": "NA",
+      "line": "Yes...we have to tell Karl his brother is dead. Tell him to come down.",
+      "wordCount": 14
+    },
+    {
+      "id": 186,
+      "index": 186,
+      "character": "HANS",
+      "gender": "Male",
+      "line": "Franco, you and Fritz take the body upstairs and out of sight. I don't want the hostages to think too much.",
+      "wordCount": 21
+    },
+    {
+      "id": 187,
+      "index": 187,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "Jesus...",
+      "wordCount": 1
+    },
+    {
+      "id": 188,
+      "index": 188,
+      "character": "HANS",
+      "gender": "Male",
+      "line": "I know what you are feeling. But this is not productive --",
+      "wordCount": 12
+    },
+    {
+      "id": 189,
+      "index": 189,
+      "character": "KARL",
+      "gender": "Male",
+      "line": "He was my only brother...my only family! I want blood for my blood. We search...now.",
+      "wordCount": 15
+    },
+    {
+      "id": 190,
+      "index": 190,
+      "character": "HANS",
+      "gender": "Male",
+      "line": "No. Heinrich's team must finish planting the detonators...and Theo needs time on the vault. After the * police come they'll waste hours trying to negotiate...that's when we search * for this man. Until then...we do not alter the plan.",
+      "wordCount": 39
+    },
+    {
+      "id": 191,
+      "index": 191,
+      "character": "KARL",
+      "gender": "Male",
+      "line": "And if he alters it...? *",
+      "wordCount": 6
+    },
+    {
+      "id": 192,
+      "index": 192,
+      "character": "ELLIS",
+      "gender": "Male",
+      "line": "What's happening?",
+      "wordCount": 2
+    },
+    {
+      "id": 193,
+      "index": 193,
+      "character": "HOLLY",
+      "gender": "Female",
+      "line": "They don't look happy...something's gone wrong.",
+      "wordCount": 6
+    },
+    {
+      "id": 194,
+      "index": 194,
+      "character": "ELLIS",
+      "gender": "Male",
+      "line": "The police...?",
+      "wordCount": 2
+    },
+    {
+      "id": 195,
+      "index": 195,
+      "character": "HOLLY",
+      "gender": "Female",
+      "line": "John.",
+      "wordCount": 1
+    },
+    {
+      "id": 196,
+      "index": 196,
+      "character": "ELLIS",
+      "gender": "Male",
+      "line": "John? Christ, he could fuck this whole thing up...what does he think he's doing?",
+      "wordCount": 14
+    },
+    {
+      "id": 197,
+      "index": 197,
+      "character": "HOLLY",
+      "gender": "Female",
+      "line": "How about his job?",
+      "wordCount": 4
+    },
+    {
+      "id": 198,
+      "index": 198,
+      "character": "ELLIS",
+      "gender": "Male",
+      "line": "His 'job' is 3000 miles away. Without him, they might let us go...at least we have a chance...",
+      "wordCount": 18
+    },
+    {
+      "id": 199,
+      "index": 199,
+      "character": "HOLLY",
+      "gender": "Female",
+      "line": "Tell that to Mr. Takagi.",
+      "wordCount": 5
+    },
+    {
+      "id": 200,
+      "index": 200,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "Mayday, Mayday! Anyone! Terrorists have seized and Nakatomi building and are holding 30 or more hostages! I say again --",
+      "wordCount": 20
+    },
+    {
+      "id": 201,
+      "index": 201,
+      "character": "MCCLANE'S VOICE",
+      "gender": "NA",
+      "line": "-- unknown number of terrorists, six or more, armed with automatic weapons at Nakatomi, Century City... Somebody answer me, Goddamnit!",
+      "wordCount": 20
+    },
+    {
+      "id": 202,
+      "index": 202,
+      "character": "HANS",
+      "gender": "Male",
+      "line": "The roof. It's the best place to transmit.",
+      "wordCount": 8
+    },
+    {
+      "id": 203,
+      "index": 203,
+      "character": "DISPATCHER",
+      "gender": "NA",
+      "line": "It's the same address as that fire signal -- *",
+      "wordCount": 10
+    },
+    {
+      "id": 204,
+      "index": 204,
+      "character": "SUPERVISOR",
+      "gender": "NA",
+      "line": "-- the false alarm? I'll handle * it.",
+      "wordCount": 8
+    },
+    {
+      "id": 205,
+      "index": 205,
+      "character": "SUPERVISOR",
+      "gender": "NA",
+      "line": "Attention, whoever you are. This channel is reserved for emergency calls only --",
+      "wordCount": 13
+    },
+    {
+      "id": 206,
+      "index": 206,
+      "character": "MCCLANE'S VOICE",
+      "gender": "NA",
+      "line": "No fucking shit, lady! Do I sound like I'm ordering a pizza?",
+      "wordCount": 12
+    },
+    {
+      "id": 207,
+      "index": 207,
+      "character": "KARL",
+      "gender": "Male",
+      "line": "No one kills him but me.",
+      "wordCount": 6
+    },
+    {
+      "id": 208,
+      "index": 208,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "They've already killed one hostage, and they're fortifying their positions while we're bullshitting! Now, send police backup ASAP!",
+      "wordCount": 18
+    },
+    {
+      "id": 209,
+      "index": 209,
+      "character": "SUPERVISOR'S VOICE",
+      "gender": "NA",
+      "line": "Sir, I've already told you, this is a reserved channel. If this is an emergency call, dial 911 on your telephone. Otherwise I will report you to the police --",
+      "wordCount": 30
+    },
+    {
+      "id": 210,
+      "index": 210,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "-- fine! Report me! Hey, come down here and fucking arrest me! Send the police. NOW -- !",
+      "wordCount": 18
+    },
+    {
+      "id": 211,
+      "index": 211,
+      "character": "SUPERVISOR",
+      "gender": "NA",
+      "line": "Ad...have a black-and-white do a drive-by.",
+      "wordCount": 6
+    },
+    {
+      "id": 212,
+      "index": 212,
+      "character": "CLERK",
+      "gender": "NA",
+      "line": "Thought you guys just ate donuts.",
+      "wordCount": 6
+    },
+    {
+      "id": 213,
+      "index": 213,
+      "character": "POWELL",
+      "gender": "Male",
+      "line": "They're for my wife. She's pregnant. If I knew she was gonna eat a dozen at a shot, I woulda bought stock in the company.",
+      "wordCount": 25
+    },
+    {
+      "id": 214,
+      "index": 214,
+      "character": "DISPATCHER'S VOICE/RADIO",
+      "gender": "NA",
+      "line": "Dispatch to One Adam Ten, over.",
+      "wordCount": 6
+    },
+    {
+      "id": 215,
+      "index": 215,
+      "character": "POWELL",
+      "gender": "Male",
+      "line": "One Adam Ten, go ahead.",
+      "wordCount": 5
+    },
+    {
+      "id": 216,
+      "index": 216,
+      "character": "DISPATCHER'S VOICE/RADIO",
+      "gender": "NA",
+      "line": "Investigate a code two at Nakatomi Plaza, Century City.",
+      "wordCount": 9
+    },
+    {
+      "id": 217,
+      "index": 217,
+      "character": "POWELL",
+      "gender": "Male",
+      "line": "Nakatomi Plaza?",
+      "wordCount": 2
+    },
+    {
+      "id": 218,
+      "index": 218,
+      "character": "DISPATCH VOICE",
+      "gender": "NA",
+      "line": "One Adam Ten, do you copy?",
+      "wordCount": 6
+    },
+    {
+      "id": 219,
+      "index": 219,
+      "character": "POWELL",
+      "gender": "Male",
+      "line": "Roger, dispatch. I'm on the way.",
+      "wordCount": 6
+    },
+    {
+      "id": 220,
+      "index": 220,
+      "character": "HANS' VOICE",
+      "gender": "NA",
+      "line": "Karl? Franco? Did you catch him?",
+      "wordCount": 6
+    },
+    {
+      "id": 221,
+      "index": 221,
+      "character": "FRANCO",
+      "gender": "Male",
+      "line": "No, but he's in the elevator shaft.",
+      "wordCount": 7
+    },
+    {
+      "id": 222,
+      "index": 222,
+      "character": "HANS' VOICE",
+      "gender": "NA",
+      "line": "Prefect. The elevators are locked off. * He can't escape. Just shut him in and return to base.",
+      "wordCount": 18
+    },
+    {
+      "id": 223,
+      "index": 223,
+      "character": "KARL",
+      "gender": "Male",
+      "line": "Hans, he killed by brother --",
+      "wordCount": 6
+    },
+    {
+      "id": 224,
+      "index": 224,
+      "character": "HANS",
+      "gender": "Male",
+      "line": "Karl, I know you want him, but the police are probably on their way. Maybe we can convince them it was all a mistake, but not if they hear gunshots! If you lock him in he'll be neutralized -- now do it! Karl? Karl!",
+      "wordCount": 44
+    },
+    {
+      "id": 225,
+      "index": 225,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "Whew...for a moment there I was worried.",
+      "wordCount": 7
+    },
+    {
+      "id": 226,
+      "index": 226,
+      "character": "FRANCO",
+      "gender": "Male",
+      "line": "Nothing.",
+      "wordCount": 1
+    },
+    {
+      "id": 227,
+      "index": 227,
+      "character": "FRANCO",
+      "gender": "Male",
+      "line": "Nothing.",
+      "wordCount": 1
+    },
+    {
+      "id": 228,
+      "index": 228,
+      "character": "FRANCO",
+      "gender": "Male",
+      "line": "Karl! Police! Come on.",
+      "wordCount": 4
+    },
+    {
+      "id": 229,
+      "index": 229,
+      "character": "THEO",
+      "gender": "Male",
+      "line": "You bet your ass I'm gonna proceed.",
+      "wordCount": 7
+    },
+    {
+      "id": 230,
+      "index": 230,
+      "character": "POWELL",
+      "gender": "Male",
+      "line": "Guard inside. No signs of disturbance ...I'm going up for a closer look.",
+      "wordCount": 13
+    },
+    {
+      "id": 231,
+      "index": 231,
+      "character": "HANS",
+      "gender": "Male",
+      "line": "Eddie?",
+      "wordCount": 1
+    },
+    {
+      "id": 232,
+      "index": 232,
+      "character": "EDDIE",
+      "gender": "Male",
+      "line": "Had a feeling you'd be calling...",
+      "wordCount": 6
+    },
+    {
+      "id": 233,
+      "index": 233,
+      "character": "HANS' VOICE",
+      "gender": "NA",
+      "line": "Let him in.",
+      "wordCount": 3
+    },
+    {
+      "id": 234,
+      "index": 234,
+      "character": "EDDIE",
+      "gender": "Male",
+      "line": "Evening, officer. What's up?",
+      "wordCount": 4
+    },
+    {
+      "id": 235,
+      "index": 235,
+      "character": "POWELL",
+      "gender": "Male",
+      "line": "We got an emergency call that there was a problem here.",
+      "wordCount": 11
+    },
+    {
+      "id": 236,
+      "index": 236,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "All right!",
+      "wordCount": 2
+    },
+    {
+      "id": 237,
+      "index": 237,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "Where's the fucking cavalry?",
+      "wordCount": 4
+    },
+    {
+      "id": 238,
+      "index": 238,
+      "character": "EDDIE",
+      "gender": "Male",
+      "line": "We already had that false alarm, you ask me, the Goddamn computers sent you out on another wild goose chase. They been chasing bugs in that system since they installed it. Oh, shit, come on, I got fifty bucks on you assholes -- !",
+      "wordCount": 44
+    },
+    {
+      "id": 239,
+      "index": 239,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "Come on, come on...who's in that car, Stevie Wonder?",
+      "wordCount": 9
+    },
+    {
+      "id": 240,
+      "index": 240,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "Drop it or you're a rugstain.",
+      "wordCount": 6
+    },
+    {
+      "id": 241,
+      "index": 241,
+      "character": "HEINRICH",
+      "gender": "NA",
+      "line": "Marco, duck!",
+      "wordCount": 2
+    },
+    {
+      "id": 242,
+      "index": 242,
+      "character": "POWELL",
+      "gender": "Male",
+      "line": "Screw this.",
+      "wordCount": 2
+    },
+    {
+      "id": 243,
+      "index": 243,
+      "character": "MARCO",
+      "gender": "Male",
+      "line": "Next time -- don't hesitate.",
+      "wordCount": 5
+    },
+    {
+      "id": 244,
+      "index": 244,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "Thanks for the advice.",
+      "wordCount": 4
+    },
+    {
+      "id": 245,
+      "index": 245,
+      "character": "POWELL",
+      "gender": "Male",
+      "line": "Sorry to water your time. Merry Christmas.",
+      "wordCount": 7
+    },
+    {
+      "id": 246,
+      "index": 246,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "Oh, man, please, no --",
+      "wordCount": 5
+    },
+    {
+      "id": 247,
+      "index": 247,
+      "character": "POWELL",
+      "gender": "Male",
+      "line": "One Adam Ten to 6421. We had a wild goose chase on that 436. Everything's okay here. Over. 'Oh, the weather outside is frightful, but the...the uh, dum, de dum's delightful...'",
+      "wordCount": 31
+    },
+    {
+      "id": 248,
+      "index": 248,
+      "character": "DISPATCHER'S VOICE",
+      "gender": "NA",
+      "line": "Roger, One Adam Ten. We thought it was a crank call anyway. Clear to code eight.",
+      "wordCount": 16
+    },
+    {
+      "id": 249,
+      "index": 249,
+      "character": "POWELL",
+      "gender": "Male",
+      "line": "Roger. '...let is snow, let it snow, let it snow -- '",
+      "wordCount": 12
+    },
+    {
+      "id": 250,
+      "index": 250,
+      "character": "POWELL",
+      "gender": "Male",
+      "line": "-- Jesus H. Christ! 6421, this is One Adam Ten --",
+      "wordCount": 11
+    },
+    {
+      "id": 251,
+      "index": 251,
+      "character": "DISPATCHER'S VOICE",
+      "gender": "NA",
+      "line": "Roger, One Adam Ten, please repeat.",
+      "wordCount": 6
+    },
+    {
+      "id": 252,
+      "index": 252,
+      "character": "POWELL",
+      "gender": "Male",
+      "line": "One Adam Ten, under automatic rifle fire at Nakatomi! Requesting immediate backup and SWAT assistance...",
+      "wordCount": 15
+    },
+    {
+      "id": 253,
+      "index": 253,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "Welcome to the party, pal.",
+      "wordCount": 5
+    },
+    {
+      "id": 254,
+      "index": 254,
+      "character": "POLICE SCANNER",
+      "gender": "NA",
+      "line": "-- attention all units. Officer pinned down by automatic weapon fire at Nakatomi, Century City -- request assistant --",
+      "wordCount": 19
+    },
+    {
+      "id": 255,
+      "index": 255,
+      "character": "POWELL'S VOICE",
+      "gender": "NA",
+      "line": "-- guys, you want to cut through the red tape? They practically turned this car into Swiss cheese -- !",
+      "wordCount": 20
+    },
+    {
+      "id": 256,
+      "index": 256,
+      "character": "THORNBURG",
+      "gender": "Male",
+      "line": "All right...!",
+      "wordCount": 2
+    },
+    {
+      "id": 257,
+      "index": 257,
+      "character": "THORNBURG",
+      "gender": "Male",
+      "line": "Mary, this is Dick. I want a remote truck and a crew to meet me at the South gate in fifteen minutes... Damn right, fifteen... Where are we going? For an Emmy!",
+      "wordCount": 32
+    },
+    {
+      "id": 258,
+      "index": 258,
+      "character": "WOMAN'S VOICE",
+      "gender": "NA",
+      "line": "Richard? Richard?",
+      "wordCount": 2
+    },
+    {
+      "id": 259,
+      "index": 259,
+      "character": "ELLIS",
+      "gender": "Male",
+      "line": "I never through I'd love to hear that sound.",
+      "wordCount": 9
+    },
+    {
+      "id": 260,
+      "index": 260,
+      "character": "HANS",
+      "gender": "Male",
+      "line": "-- all of you, stay at your posts! We knew that police action was inevitable... ...In fact, it's necessary. So let them start their feeble efforts; until them, stay calm. We have the hostages, remember. We are still in charge.",
+      "wordCount": 40
+    },
+    {
+      "id": 261,
+      "index": 261,
+      "character": "HANS",
+      "gender": "Male",
+      "line": "I told all of you...I want radio silence until further --",
+      "wordCount": 11
+    },
+    {
+      "id": 262,
+      "index": 262,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "Gee, I'm sorry, Hans, nobody gave me the message. You shoulda put it on the bulletin board. Anyway, I thought you and Franco and Karl and the other boys might be lonely, now that I waxed Tony and Marco and their buddy. So I invited some of the guys from my card game.",
+      "wordCount": 53
+    },
+    {
+      "id": 263,
+      "index": 263,
+      "character": "HANS",
+      "gender": "Male",
+      "line": "Ah, how nice of you to call. I assume you are our mysterious party crasher. You are most troublesome for a...security guard?",
+      "wordCount": 22
+    },
+    {
+      "id": 264,
+      "index": 264,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "BZZZ! Sorry, Hans, wrong guess. Would you like to go for Double Jeopardy, where the stakes are double and the scores really change?",
+      "wordCount": 23
+    },
+    {
+      "id": 265,
+      "index": 265,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "Bad for your health anyway.",
+      "wordCount": 5
+    },
+    {
+      "id": 266,
+      "index": 266,
+      "character": "HANS",
+      "gender": "Male",
+      "line": "Who are you, then?",
+      "wordCount": 4
+    },
+    {
+      "id": 267,
+      "index": 267,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "Just the fly in the ointment, Hans. The monkey in the wrench, the pain in the ass -",
+      "wordCount": 18
+    },
+    {
+      "id": 268,
+      "index": 268,
+      "character": "HANS",
+      "gender": "Male",
+      "line": "Check on all the others...don't use the radio. See if he's lying about Marco and find out if anyone * else is missing. *",
+      "wordCount": 24
+    },
+    {
+      "id": 269,
+      "index": 269,
+      "character": "HANS",
+      "gender": "Male",
+      "line": "Mr. Mystery Guest. Are you still there?",
+      "wordCount": 7
+    },
+    {
+      "id": 270,
+      "index": 270,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "I wouldn't think of leaving, Hans. Unless you want to open the front door...?",
+      "wordCount": 14
+    },
+    {
+      "id": 271,
+      "index": 271,
+      "character": "HANS",
+      "gender": "Male",
+      "line": "I'm afraid not. But you have me at a loss -- you know my name, but who are you? Just another American who saw too many movies as a child. Another orphan of a bankrupt culture who thinks he's John Wayne...Rambo... Marshal Dillion.",
+      "wordCount": 43
+    },
+    {
+      "id": 272,
+      "index": 272,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "Actually, I was always partial to Roy Rogers. I really dug those sequined shirts.",
+      "wordCount": 14
+    },
+    {
+      "id": 273,
+      "index": 273,
+      "character": "HANS",
+      "gender": "Male",
+      "line": "Do you really think you have a chance against us, Mr. Cowboy?",
+      "wordCount": 12
+    },
+    {
+      "id": 274,
+      "index": 274,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "Yipee-yi-yea...mother-fucker.",
+      "wordCount": 1
+    },
+    {
+      "id": 275,
+      "index": 275,
+      "character": "KARL",
+      "gender": "Male",
+      "line": "He wasn't lying about Marco: He's thirty stories down on the street. The other man is Heinrich, and I found his body upstairs. And his bag is missing.",
+      "wordCount": 28
+    },
+    {
+      "id": 276,
+      "index": 276,
+      "character": "HANS",
+      "gender": "Male",
+      "line": "He had the detonators! Theo? Theo!",
+      "wordCount": 6
+    },
+    {
+      "id": 277,
+      "index": 277,
+      "character": "THEO",
+      "gender": "Male",
+      "line": "Yo!",
+      "wordCount": 1
+    },
+    {
+      "id": 278,
+      "index": 278,
+      "character": "HANS",
+      "gender": "Male",
+      "line": "We may have some problems. How is your schedule?",
+      "wordCount": 9
+    },
+    {
+      "id": 279,
+      "index": 279,
+      "character": "THEO",
+      "gender": "Male",
+      "line": "Three down, four to go --",
+      "wordCount": 6
+    },
+    {
+      "id": 280,
+      "index": 280,
+      "character": "HANS",
+      "gender": "Male",
+      "line": "Then don't waste time talking to me.",
+      "wordCount": 7
+    },
+    {
+      "id": 281,
+      "index": 281,
+      "character": "POWELL'S VOICE",
+      "gender": "NA",
+      "line": "This is Sergeant Al Powell of the Los Angeles Police Department. If the person who radioed for help on this channel can hear me, acknowledge this transmission...I say again...",
+      "wordCount": 29
+    },
+    {
+      "id": 282,
+      "index": 282,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "I read you, Powell. You the guy in the car?",
+      "wordCount": 10
+    },
+    {
+      "id": 283,
+      "index": 283,
+      "character": "POWELL",
+      "gender": "Male",
+      "line": "What's left of him. Can you identify yourself?",
+      "wordCount": 8
+    },
+    {
+      "id": 284,
+      "index": 284,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "Maybe later. Just listen fast because this is a party line and the neighbors are trigger happy. Now here's the skinny: There's thirty or so hostages on the 30th floor, with probably 2 or 3 guards to cover a group that size. The leader here is named Hans, and besides the pea shooter he ventilated your car with, * they got machine guns and * sidearms up the yin yang. On top of that one of 'em had a big enough chunck of plastic explosive to orbit Kate Smith. *",
+      "wordCount": 90
+    },
+    {
+      "id": 285,
+      "index": 285,
+      "character": "FRANCO",
+      "gender": "Male",
+      "line": "We have to find him and shut him up! He's telling them everything --",
+      "wordCount": 14
+    },
+    {
+      "id": 286,
+      "index": 286,
+      "character": "HANS",
+      "gender": "Male",
+      "line": "The police are irrelevant. We've * waiting for the FBI. Until they * arrive, we can't finish out work. Meanwhile, let this fool waste time for the police. Fritz, go help Uli * find the bag.",
+      "wordCount": 36
+    },
+    {
+      "id": 287,
+      "index": 287,
+      "character": "HANS",
+      "gender": "Male",
+      "line": "We must find those detonators.",
+      "wordCount": 5
+    },
+    {
+      "id": 288,
+      "index": 288,
+      "character": "POWELL'S VOICE",
+      "gender": "NA",
+      "line": "How many are there?",
+      "wordCount": 4
+    },
+    {
+      "id": 289,
+      "index": 289,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "Figuring there's at least one to cover the lobby, a couple with the hostages...I'd say they came in with about a dozen...but they're down to nine now, including the skydiver you already met. These guys are mostly Europeans, judging by their clothing labels, and they're well financed and very slick.",
+      "wordCount": 50
+    },
+    {
+      "id": 290,
+      "index": 290,
+      "character": "POWELL",
+      "gender": "Male",
+      "line": "How do you know?",
+      "wordCount": 4
+    },
+    {
+      "id": 291,
+      "index": 291,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "I've seen enough phoney ID's in my time to recognize that the ones they've got cost a fortune. Add all that up and I don't know what the fuck it means, but these are bad ass preps and they're here to stay.",
+      "wordCount": 42
+    },
+    {
+      "id": 292,
+      "index": 292,
+      "character": "POWELL",
+      "gender": "Male",
+      "line": "I hear you... Partner. And LA's finest are on it, so light 'em if you got 'em.",
+      "wordCount": 17
+    },
+    {
+      "id": 293,
+      "index": 293,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "I'm ahead of you...partner.",
+      "wordCount": 4
+    },
+    {
+      "id": 294,
+      "index": 294,
+      "character": "POWELL",
+      "gender": "Male",
+      "line": "Uh, what do I call you?",
+      "wordCount": 6
+    },
+    {
+      "id": 295,
+      "index": 295,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "'Roy'.",
+      "wordCount": 1
+    },
+    {
+      "id": 296,
+      "index": 296,
+      "character": "POWELL",
+      "gender": "Male",
+      "line": "Got it...'Roy'. Now listen. If you think of anything else you think we need to know, don't be shy, okay? In the meantime I want you to find a safe place and hole-up and let us do our job. Understand?",
+      "wordCount": 40
+    },
+    {
+      "id": 297,
+      "index": 297,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "They're all yours, Al. Good luck.",
+      "wordCount": 6
+    },
+    {
+      "id": 298,
+      "index": 298,
+      "character": "ROBINSON",
+      "gender": "Male",
+      "line": "Who's talking to them?",
+      "wordCount": 4
+    },
+    {
+      "id": 299,
+      "index": 299,
+      "character": "POWELL",
+      "gender": "Male",
+      "line": "I am, Sir...Sergeant Al Powell.",
+      "wordCount": 5
+    },
+    {
+      "id": 300,
+      "index": 300,
+      "character": "ROBINSON",
+      "gender": "Male",
+      "line": "Dwayne Robinson. Well, what have you learned? What do they want?",
+      "wordCount": 11
+    },
+    {
+      "id": 301,
+      "index": 301,
+      "character": "POWELL",
+      "gender": "Male",
+      "line": "The terrorists? Don't know, Sir. We haven't heard a peep from them.",
+      "wordCount": 12
+    },
+    {
+      "id": 302,
+      "index": 302,
+      "character": "ROBINSON",
+      "gender": "Male",
+      "line": "Then who the hell have you been talking too?",
+      "wordCount": 9
+    },
+    {
+      "id": 303,
+      "index": 303,
+      "character": "POWELL",
+      "gender": "Male",
+      "line": "We don't exactly know, Sir. He won't give us him name. He appears to be the man who called in the report...he's killed one of the terrorists for sure and claims he capped two others.",
+      "wordCount": 35
+    },
+    {
+      "id": 304,
+      "index": 304,
+      "character": "ROBINSON",
+      "gender": "Male",
+      "line": "He claims? Powell, has it occured to you he could be one of the terrorists, pulling your chain? Or some kind of nut case who --",
+      "wordCount": 26
+    },
+    {
+      "id": 305,
+      "index": 305,
+      "character": "POWELL",
+      "gender": "Male",
+      "line": "I don't think so, Sir. In fact... I think he's a cop. Maybe not LAPD, but definitely a badge.",
+      "wordCount": 19
+    },
+    {
+      "id": 306,
+      "index": 306,
+      "character": "ROBINSON",
+      "gender": "Male",
+      "line": "How do you know?",
+      "wordCount": 4
+    },
+    {
+      "id": 307,
+      "index": 307,
+      "character": "POWELL",
+      "gender": "Male",
+      "line": "A hunch. Things he said. Like, knowing how to recognize a phony ID --",
+      "wordCount": 14
+    },
+    {
+      "id": 308,
+      "index": 308,
+      "character": "ROBINSON",
+      "gender": "Male",
+      "line": "-- recognizing phony ID's? Christ, Powell, he could be a fucking bartender for all we know!",
+      "wordCount": 16
+    },
+    {
+      "id": 309,
+      "index": 309,
+      "character": "ROBINSON",
+      "gender": "Male",
+      "line": "Oh shit...",
+      "wordCount": 2
+    },
+    {
+      "id": 310,
+      "index": 310,
+      "character": "HOLLY",
+      "gender": "Female",
+      "line": "I...have a request.",
+      "wordCount": 3
+    },
+    {
+      "id": 311,
+      "index": 311,
+      "character": "HANS",
+      "gender": "Male",
+      "line": "Oh? What idiot put you in charge?",
+      "wordCount": 7
+    },
+    {
+      "id": 312,
+      "index": 312,
+      "character": "HOLLY",
+      "gender": "Female",
+      "line": "You did. You murdered by Boss. Now... They're looking to me. Personally I'd pass on the jab. I don't enjoy being this close to you.",
+      "wordCount": 25
+    },
+    {
+      "id": 313,
+      "index": 313,
+      "character": "HANS",
+      "gender": "Male",
+      "line": "Go on.",
+      "wordCount": 2
+    },
+    {
+      "id": 314,
+      "index": 314,
+      "character": "HOLLY",
+      "gender": "Female",
+      "line": "We have a pregnant woman out there -- -- relax, she's not due for two weeks, but a marble floor isn't doing her back any good. I'd like permission for her to more to one of the offices where there's a sofa.",
+      "wordCount": 42
+    },
+    {
+      "id": 315,
+      "index": 315,
+      "character": "HANS",
+      "gender": "Male",
+      "line": "No. But I'll have a sofa brought out to you. Good enough?",
+      "wordCount": 12
+    },
+    {
+      "id": 316,
+      "index": 316,
+      "character": "HOLLY",
+      "gender": "Female",
+      "line": "Good enough. And unless you like is messy, you'd better start taking us in groups to the bathroom.",
+      "wordCount": 18
+    },
+    {
+      "id": 317,
+      "index": 317,
+      "character": "HANS",
+      "gender": "Male",
+      "line": "Yes, you're right. It will be done.",
+      "wordCount": 7
+    },
+    {
+      "id": 318,
+      "index": 318,
+      "character": "HANS",
+      "gender": "Male",
+      "line": "Mr. Takagi chose his people well, Mrs...?",
+      "wordCount": 7
+    },
+    {
+      "id": 319,
+      "index": 319,
+      "character": "HOLLY",
+      "gender": "Female",
+      "line": "Gennero. Miss Gennero.",
+      "wordCount": 3
+    },
+    {
+      "id": 320,
+      "index": 320,
+      "character": "THORNBURG",
+      "gender": "Male",
+      "line": "This is Richard Thornburg, speaking to you live from Century City... where Los Angeles has joined the sad but world wide fraternity whose only membership requirement is the awesome spectre of International Terrorism...",
+      "wordCount": 33
+    },
+    {
+      "id": 321,
+      "index": 321,
+      "character": "ARGYLE",
+      "gender": "Male",
+      "line": "What else is new...?",
+      "wordCount": 4
+    },
+    {
+      "id": 322,
+      "index": 322,
+      "character": "ARGYLE",
+      "gender": "Male",
+      "line": "Holy shit...",
+      "wordCount": 2
+    },
+    {
+      "id": 323,
+      "index": 323,
+      "character": "THORNBURG",
+      "gender": "Male",
+      "line": "We're told that the situation began some two hours ago when an unidentified party of men took over the building and sealed off all of its entrances and exits...",
+      "wordCount": 29
+    },
+    {
+      "id": 324,
+      "index": 324,
+      "character": "THORNBURG",
+      "gender": "Male",
+      "line": "Since all the telephone lines have been cut, the only contact with the building had been through the use of CB communicators which the terrorists brought with them. Strangely enough, so far the terrorists have not communicated directly with the police... but an unidentified man has had several conversations which seem to indicate...",
+      "wordCount": 53
+    },
+    {
+      "id": 325,
+      "index": 325,
+      "character": "POWELL",
+      "gender": "Male",
+      "line": "What's going on?",
+      "wordCount": 3
+    },
+    {
+      "id": 326,
+      "index": 326,
+      "character": "ROBINSON",
+      "gender": "Male",
+      "line": "What's it look like? We're going in.",
+      "wordCount": 7
+    },
+    {
+      "id": 327,
+      "index": 327,
+      "character": "POWELL",
+      "gender": "Male",
+      "line": "Going in...are you out of your mind? There's 30 hostages in there -- for all we know --",
+      "wordCount": 18
+    },
+    {
+      "id": 328,
+      "index": 328,
+      "character": "ROBINSON",
+      "gender": "Male",
+      "line": "-- all we know? We don't know shit, Powell. If there's hostages why hasn't anyone asked for ransom? If there's terrorists, where's their goddamn list of demands? All we know is that someone shot up your car, and it could be the same flake you've been talking to on the radio!",
+      "wordCount": 51
+    },
+    {
+      "id": 329,
+      "index": 329,
+      "character": "POWELL",
+      "gender": "Male",
+      "line": "What about the body that fell out of the window -- ?",
+      "wordCount": 12
+    },
+    {
+      "id": 330,
+      "index": 330,
+      "character": "ROBINSON",
+      "gender": "Male",
+      "line": "Who the hell knows? Maybe he was a stockbroker who looked at the Dow Jones and opted for early retirement!",
+      "wordCount": 20
+    },
+    {
+      "id": 331,
+      "index": 331,
+      "character": "MITCHELL",
+      "gender": "NA",
+      "line": "Chief, we're ready.",
+      "wordCount": 3
+    },
+    {
+      "id": 332,
+      "index": 332,
+      "character": "ROBINSON",
+      "gender": "Male",
+      "line": "I'm coming.",
+      "wordCount": 2
+    },
+    {
+      "id": 333,
+      "index": 333,
+      "character": "MITCHELL",
+      "gender": "NA",
+      "line": "Rivers.",
+      "wordCount": 1
+    },
+    {
+      "id": 334,
+      "index": 334,
+      "character": "RIVERS",
+      "gender": "NA",
+      "line": "Yo.",
+      "wordCount": 1
+    },
+    {
+      "id": 335,
+      "index": 335,
+      "character": "MITCHELL",
+      "gender": "NA",
+      "line": "Begin your reconnoiter.",
+      "wordCount": 3
+    },
+    {
+      "id": 336,
+      "index": 336,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "Powell? Al, you still with me? What's going on? Al?",
+      "wordCount": 10
+    },
+    {
+      "id": 337,
+      "index": 337,
+      "character": "POWELL",
+      "gender": "Male",
+      "line": "I'm here, Roy, but I'm, uh, kind of busy. Let's talk later, okay?",
+      "wordCount": 13
+    },
+    {
+      "id": 338,
+      "index": 338,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "Al, what's wrong? Did something -- -- Oh, God. You're coming in! That's it, isn't it? Christ, Powell, I told you what you're dealing with here --",
+      "wordCount": 27
+    },
+    {
+      "id": 339,
+      "index": 339,
+      "character": "POWELL",
+      "gender": "Male",
+      "line": "I said we'll talk later, Roy. If you're what I think you are you should know when to listen, when to shut up... and when to pray.",
+      "wordCount": 27
+    },
+    {
+      "id": 340,
+      "index": 340,
+      "character": "HANS",
+      "gender": "Male",
+      "line": "They'll be coming. Get ready. Theo, watch the screens. Be our eyes and ears. Wait until they're close.",
+      "wordCount": 18
+    },
+    {
+      "id": 341,
+      "index": 341,
+      "character": "RIVERS",
+      "gender": "NA",
+      "line": "We're in position.",
+      "wordCount": 3
+    },
+    {
+      "id": 342,
+      "index": 342,
+      "character": "MITCHELL",
+      "gender": "NA",
+      "line": "Go.",
+      "wordCount": 1
+    },
+    {
+      "id": 343,
+      "index": 343,
+      "character": "THEO",
+      "gender": "Male",
+      "line": "It was the night before Xmas, and all through the house, not a creature was stirring, expect for the four assholes coming in the rear in standard 2 X 2 cover formation.",
+      "wordCount": 32
+    },
+    {
+      "id": 344,
+      "index": 344,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "No...",
+      "wordCount": 1
+    },
+    {
+      "id": 345,
+      "index": 345,
+      "character": "ROBINSON",
+      "gender": "Male",
+      "line": "They're shooting at them",
+      "wordCount": 4
+    },
+    {
+      "id": 346,
+      "index": 346,
+      "character": "MITCHELL",
+      "gender": "NA",
+      "line": "It's panic fire...they can't see anything.",
+      "wordCount": 6
+    },
+    {
+      "id": 347,
+      "index": 347,
+      "character": "POWELL",
+      "gender": "Male",
+      "line": "They're shooting at the lights.",
+      "wordCount": 5
+    },
+    {
+      "id": 348,
+      "index": 348,
+      "character": "ROBINSON",
+      "gender": "Male",
+      "line": "They're going after the lights!",
+      "wordCount": 5
+    },
+    {
+      "id": 349,
+      "index": 349,
+      "character": "ROBINSON",
+      "gender": "Male",
+      "line": "Call them back.",
+      "wordCount": 3
+    },
+    {
+      "id": 350,
+      "index": 350,
+      "character": "MITCHELL",
+      "gender": "NA",
+      "line": "No, they're almost in.",
+      "wordCount": 4
+    },
+    {
+      "id": 351,
+      "index": 351,
+      "character": "HANS",
+      "gender": "Male",
+      "line": "Don't get impatient. Just wound them.",
+      "wordCount": 6
+    },
+    {
+      "id": 352,
+      "index": 352,
+      "character": "MITCHELL",
+      "gender": "NA",
+      "line": "Send in the car!",
+      "wordCount": 4
+    },
+    {
+      "id": 353,
+      "index": 353,
+      "character": "THEO",
+      "gender": "Male",
+      "line": "Well, what have we here. The police've got themselves an R.V. James, Alexander, southeast corner.",
+      "wordCount": 15
+    },
+    {
+      "id": 354,
+      "index": 354,
+      "character": "ALEXANDER",
+      "gender": "Male",
+      "line": "I have them",
+      "wordCount": 3
+    },
+    {
+      "id": 355,
+      "index": 355,
+      "character": "HANS' VOICE",
+      "gender": "NA",
+      "line": "Fire.",
+      "wordCount": 1
+    },
+    {
+      "id": 356,
+      "index": 356,
+      "character": "HANS",
+      "gender": "Male",
+      "line": "Hit it again.",
+      "wordCount": 3
+    },
+    {
+      "id": 357,
+      "index": 357,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "Hans, you motherfucker, you've made your point. Let them pull back!",
+      "wordCount": 11
+    },
+    {
+      "id": 358,
+      "index": 358,
+      "character": "HANS' VOICE",
+      "gender": "NA",
+      "line": "Thank you Mr. Cowboy, I'll take it under advisement. His it again.",
+      "wordCount": 12
+    },
+    {
+      "id": 359,
+      "index": 359,
+      "character": "MITCHELL",
+      "gender": "NA",
+      "line": "Rivers! Rodriguiz!...Report...",
+      "wordCount": 2
+    },
+    {
+      "id": 360,
+      "index": 360,
+      "character": "RIVERS",
+      "gender": "NA",
+      "line": "This is Rivers. We've got one dead. Everybody's hit. Rodriguiz's bleeding bad. We've got to get the fuck out of here!",
+      "wordCount": 21
+    },
+    {
+      "id": 361,
+      "index": 361,
+      "character": "MITCHELL",
+      "gender": "NA",
+      "line": "Rivers, hang on! That's an order! Hang on, we'll get you out.",
+      "wordCount": 12
+    },
+    {
+      "id": 362,
+      "index": 362,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "Geronimo...motherfuckers.",
+      "wordCount": 1
+    },
+    {
+      "id": 363,
+      "index": 363,
+      "character": "WILLIAM",
+      "gender": "NA",
+      "line": "Oh, Jesus...",
+      "wordCount": 2
+    },
+    {
+      "id": 364,
+      "index": 364,
+      "character": "THORNBURG",
+      "gender": "Male",
+      "line": "Unreal. Did you get all that?",
+      "wordCount": 6
+    },
+    {
+      "id": 365,
+      "index": 365,
+      "character": "CAMERAMAN",
+      "gender": "NA",
+      "line": "Yep.",
+      "wordCount": 1
+    },
+    {
+      "id": 366,
+      "index": 366,
+      "character": "THORNBURG",
+      "gender": "Male",
+      "line": "Eat your heart out, Channel Four.",
+      "wordCount": 6
+    },
+    {
+      "id": 367,
+      "index": 367,
+      "character": "FRANCO",
+      "gender": "Male",
+      "line": "They're using artillery on us -- !",
+      "wordCount": 7
+    },
+    {
+      "id": 368,
+      "index": 368,
+      "character": "HANS",
+      "gender": "Male",
+      "line": "You idiot, it's not the police... ...It's him.",
+      "wordCount": 8
+    },
+    {
+      "id": 369,
+      "index": 369,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "Al! Al, the guys in the car, did they make it?",
+      "wordCount": 11
+    },
+    {
+      "id": 370,
+      "index": 370,
+      "character": "POWELL",
+      "gender": "Male",
+      "line": "Safe and sound, thanks to you. What the fuck was that?",
+      "wordCount": 11
+    },
+    {
+      "id": 371,
+      "index": 371,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "The plastique I found. Is the building on fire?",
+      "wordCount": 9
+    },
+    {
+      "id": 372,
+      "index": 372,
+      "character": "POWELL",
+      "gender": "Male",
+      "line": "No, but it's gonna need one hell of a paint job and a shitload of screen doors. One spotters say you got two with that blast.",
+      "wordCount": 26
+    },
+    {
+      "id": 373,
+      "index": 373,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "Two? Are you sure?",
+      "wordCount": 4
+    },
+    {
+      "id": 374,
+      "index": 374,
+      "character": "ROBINSON",
+      "gender": "Male",
+      "line": "Is that him?",
+      "wordCount": 3
+    },
+    {
+      "id": 375,
+      "index": 375,
+      "character": "POWELL",
+      "gender": "Male",
+      "line": "Yessir.",
+      "wordCount": 1
+    },
+    {
+      "id": 376,
+      "index": 376,
+      "character": "ROBINSON",
+      "gender": "Male",
+      "line": "(reaching for Powell's",
+      "wordCount": 3
+    },
+    {
+      "id": 377,
+      "index": 377,
+      "character": "CB)",
+      "gender": "NA",
+      "line": "Give me that. Now, listen to me, mister, I don't know what you think you're doing, but demolishing a building doesn't fall under the definition of 'help'! There's hundreds of people out here and you covered half of them in pieces of glass --",
+      "wordCount": 44
+    },
+    {
+      "id": 378,
+      "index": 378,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "Glass, my ass! Who the fuck is this?",
+      "wordCount": 8
+    },
+    {
+      "id": 379,
+      "index": 379,
+      "character": "ROBINSON",
+      "gender": "Male",
+      "line": "This is Deputy Chief of Police Dwayne T. Robinson, and I'm in charge of this situation.",
+      "wordCount": 16
+    },
+    {
+      "id": 380,
+      "index": 380,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "Well, from up here, it looks like you're in charge of shit, Dwayne. I haven't seen such a fucked up operation since the Bride of Frankenstein. Ask the guys in the armored car if they minded a little flying glass.",
+      "wordCount": 40
+    },
+    {
+      "id": 381,
+      "index": 381,
+      "character": "ROBINSON",
+      "gender": "Male",
+      "line": "Listen asshole -- !",
+      "wordCount": 4
+    },
+    {
+      "id": 382,
+      "index": 382,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "Asshole? I'm not the one who just for butt fucked on national TV, Dwayne! Now if you're not part of the solution, stop being part of the problem! Get off the Goddamn radio and put Al back on!",
+      "wordCount": 38
+    },
+    {
+      "id": 383,
+      "index": 383,
+      "character": "ARGYLE",
+      "gender": "Male",
+      "line": "Tell 'em, Mr. Mac! Tell 'em!",
+      "wordCount": 6
+    },
+    {
+      "id": 384,
+      "index": 384,
+      "character": "POWELL'S VOICE",
+      "gender": "NA",
+      "line": "Hello, Roy. How're you feeling?",
+      "wordCount": 5
+    },
+    {
+      "id": 385,
+      "index": 385,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "Pretty fucking unappreciated.",
+      "wordCount": 3
+    },
+    {
+      "id": 386,
+      "index": 386,
+      "character": "POWELL",
+      "gender": "Male",
+      "line": "Hey, I love you. So do a lot of the guys. So hang in there, man. Hang in there.",
+      "wordCount": 19
+    },
+    {
+      "id": 387,
+      "index": 387,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "Thanks...partner.",
+      "wordCount": 1
+    },
+    {
+      "id": 388,
+      "index": 388,
+      "character": "GAIL",
+      "gender": "NA",
+      "line": "...of the Nakatomi building, sources say that the terrorist leader 'Hans' may be this man, Hans Gruber.",
+      "wordCount": 17
+    },
+    {
+      "id": 389,
+      "index": 389,
+      "character": "GAIL",
+      "gender": "NA",
+      "line": "A member of the radical West German Volksfrei movement. Strangely, the Volksfrei leadership issued a communique an hour ago stating that Gruber has been expelled from the organization and is operating on his own.",
+      "wordCount": 34
+    },
+    {
+      "id": 390,
+      "index": 390,
+      "character": "HARVEY",
+      "gender": "NA",
+      "line": "Obviously, Gail whatever his affiliation, it's safe to say that Gruber's terrorist actions in Los Angeles tonight are well, terroristic...",
+      "wordCount": 20
+    },
+    {
+      "id": 391,
+      "index": 391,
+      "character": "HOLLY",
+      "gender": "Female",
+      "line": "Where are you going?",
+      "wordCount": 4
+    },
+    {
+      "id": 392,
+      "index": 392,
+      "character": "ELLIS",
+      "gender": "Male",
+      "line": "I'm tired of sitting here waiting to see who gets us killed first... them...or your husband. Hi there.",
+      "wordCount": 18
+    },
+    {
+      "id": 393,
+      "index": 393,
+      "character": "HOLLY",
+      "gender": "Female",
+      "line": "What are you going to do?",
+      "wordCount": 6
+    },
+    {
+      "id": 394,
+      "index": 394,
+      "character": "ELLIS",
+      "gender": "Male",
+      "line": "Hey, I negotiate million dollar deals for breakfast. I can handle these clowns. I want to talk to Hans. Hans! Sprickenzie talk?",
+      "wordCount": 22
+    },
+    {
+      "id": 395,
+      "index": 395,
+      "character": "KARL",
+      "gender": "Male",
+      "line": "-- you wouldn't let me kill him when I had the chance --",
+      "wordCount": 13
+    },
+    {
+      "id": 396,
+      "index": 396,
+      "character": "HANS",
+      "gender": "Male",
+      "line": "If you'd listened to me he would be neutralized already!",
+      "wordCount": 10
+    },
+    {
+      "id": 397,
+      "index": 397,
+      "character": "KARL",
+      "gender": "Male",
+      "line": "I don't want neutral...I want dead --",
+      "wordCount": 7
+    },
+    {
+      "id": 398,
+      "index": 398,
+      "character": "ELLIS",
+      "gender": "Male",
+      "line": "Hope I'm not interrupting...?",
+      "wordCount": 4
+    },
+    {
+      "id": 399,
+      "index": 399,
+      "character": "HANS",
+      "gender": "Male",
+      "line": "What does he want?",
+      "wordCount": 4
+    },
+    {
+      "id": 400,
+      "index": 400,
+      "character": "ELLIS",
+      "gender": "Male",
+      "line": "It's not what I want, it's what I can give you. Look, let's be straight, okay? It's obvious you're not some dumb thug up here to snatch a few purses, am I right?",
+      "wordCount": 33
+    },
+    {
+      "id": 401,
+      "index": 401,
+      "character": "HANS",
+      "gender": "Male",
+      "line": "You're very perceptive.",
+      "wordCount": 3
+    },
+    {
+      "id": 402,
+      "index": 402,
+      "character": "ELLIS",
+      "gender": "Male",
+      "line": "Hey, I read the papers, I watch 60 minutes, I say to myself, these guys are professionals, they're motivated, they're happening. They want something. Now, personally, I don't care about your politics. Maybe you're pissed at the Camel Jockeys, maybe it's the Hebes, Northern Ireland, that's none of my business. I figure, You're here to negotiate, am I right?",
+      "wordCount": 59
+    },
+    {
+      "id": 403,
+      "index": 403,
+      "character": "HANS",
+      "gender": "Male",
+      "line": "You're amazing. You figured this all out already?",
+      "wordCount": 8
+    },
+    {
+      "id": 404,
+      "index": 404,
+      "character": "ELLIS",
+      "gender": "Male",
+      "line": "Hey, business is business. You use a gun, I use a fountain pen, what's the difference? To put it in my terms, you're here on a hostile takeover and you grab us for some greenmail but you didn't expect a poison pill was gonna be running around the building. Hans, baby...I'm your white knight.",
+      "wordCount": 54
+    },
+    {
+      "id": 405,
+      "index": 405,
+      "character": "HANS",
+      "gender": "Male",
+      "line": "I must have missed 60 Minutes. What are you saying?",
+      "wordCount": 10
+    },
+    {
+      "id": 406,
+      "index": 406,
+      "character": "ELLIS",
+      "gender": "Male",
+      "line": "The guy upstairs who's fucking things up? I can give him to you.",
+      "wordCount": 13
+    },
+    {
+      "id": 407,
+      "index": 407,
+      "character": "POWELL",
+      "gender": "Male",
+      "line": "Roy! You all right?",
+      "wordCount": 4
+    },
+    {
+      "id": 408,
+      "index": 408,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "Yeah, just trying to handle some year old twinkies. Yucck. What do they put in these things?",
+      "wordCount": 17
+    },
+    {
+      "id": 409,
+      "index": 409,
+      "character": "POWELL",
+      "gender": "Male",
+      "line": "'Sugar, enriched flour, partially hydrogenated vegetable oil, polysorbate 60 and yellow dye #5.'",
+      "wordCount": 13
+    },
+    {
+      "id": 410,
+      "index": 410,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "You sound like a man with a couple of kids.",
+      "wordCount": 10
+    },
+    {
+      "id": 411,
+      "index": 411,
+      "character": "POWELL",
+      "gender": "Male",
+      "line": "Not yet, the wife in working on our first. You got any kids back on the ranch?",
+      "wordCount": 17
+    },
+    {
+      "id": 412,
+      "index": 412,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "Two. And I'd sure like to see them swinging on the jungle gym with Al junior.",
+      "wordCount": 16
+    },
+    {
+      "id": 413,
+      "index": 413,
+      "character": "POWELL",
+      "gender": "Male",
+      "line": "It's a date. You buy the ice cream.",
+      "wordCount": 8
+    },
+    {
+      "id": 414,
+      "index": 414,
+      "character": "HANS' VOICE",
+      "gender": "NA",
+      "line": "Touching, cowboy, touching. Or should I call you Mister McClane? Mister officer John McClane on the NYPD?",
+      "wordCount": 17
+    },
+    {
+      "id": 415,
+      "index": 415,
+      "character": "THORSON",
+      "gender": "NA",
+      "line": "Get on the phone to our New York affiliate...move, move!",
+      "wordCount": 10
+    },
+    {
+      "id": 416,
+      "index": 416,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "Sister Teresa in third grade called me Mr. McClane. My friends call me John Mac. You're neither...shithead.",
+      "wordCount": 17
+    },
+    {
+      "id": 417,
+      "index": 417,
+      "character": "HANS' VOICE",
+      "gender": "NA",
+      "line": "I have someone who wants to talk to you. A very special friend who was at the party with you tonight.",
+      "wordCount": 21
+    },
+    {
+      "id": 418,
+      "index": 418,
+      "character": "ELLIS' VOICE",
+      "gender": "NA",
+      "line": "Hello, John boy?",
+      "wordCount": 3
+    },
+    {
+      "id": 419,
+      "index": 419,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "Ellis?",
+      "wordCount": 1
+    },
+    {
+      "id": 420,
+      "index": 420,
+      "character": "ELLIS",
+      "gender": "Male",
+      "line": "John, they're giving me a few minutes to try and talk some sense into you. I know you think you're doing your job, and I can appreciate that, but you're just dragging this thing out. None of us gets out of here until these people can negotiate with the LA police, and they're just not gonna start doing that until you stop messing up the works.",
+      "wordCount": 66
+    },
+    {
+      "id": 421,
+      "index": 421,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "Ellis, what have you told them?",
+      "wordCount": 6
+    },
+    {
+      "id": 422,
+      "index": 422,
+      "character": "ELLIS",
+      "gender": "Male",
+      "line": "I told them we're old friends and you were my guest at the party.",
+      "wordCount": 14
+    },
+    {
+      "id": 423,
+      "index": 423,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "Ellis...you shouldn't be doing this...",
+      "wordCount": 5
+    },
+    {
+      "id": 424,
+      "index": 424,
+      "character": "ELLIS",
+      "gender": "Male",
+      "line": "Tell me about it.",
+      "wordCount": 4
+    },
+    {
+      "id": 425,
+      "index": 425,
+      "character": "ELLIS",
+      "gender": "Male",
+      "line": "All right...John, listen to me... They want you to tell them where the detonators are. They know people are listening. They want the detonators of they're going to kill me.",
+      "wordCount": 30
+    },
+    {
+      "id": 426,
+      "index": 426,
+      "character": "ELLIS' VOICE",
+      "gender": "NA",
+      "line": "John, didn't you hear me?",
+      "wordCount": 5
+    },
+    {
+      "id": 427,
+      "index": 427,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "Yeah, I hear you, you fucking moron!",
+      "wordCount": 7
+    },
+    {
+      "id": 428,
+      "index": 428,
+      "character": "ELLIS",
+      "gender": "Male",
+      "line": "John, I think you could get with the program a little. The police are here now. It's their problem. Tell these guys where the detonators are so no one else gets hurt. Hey, I'm putting my life on the line for you buddy...",
+      "wordCount": 43
+    },
+    {
+      "id": 429,
+      "index": 429,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "Don't you think I know that! Put Hans on! Hans, listen to me, that shithead doesn't know what kind of scum you are, but I do --",
+      "wordCount": 27
+    },
+    {
+      "id": 430,
+      "index": 430,
+      "character": "HANS",
+      "gender": "Male",
+      "line": "Good. Then you'll give us what we want and save your friend's life. You're not part of this equation. It's time to realize that.",
+      "wordCount": 24
+    },
+    {
+      "id": 431,
+      "index": 431,
+      "character": "ELLIS",
+      "gender": "Male",
+      "line": "What am I, a method actor? Hans, babe, put away the gun. This is radio, not television...",
+      "wordCount": 17
+    },
+    {
+      "id": 432,
+      "index": 432,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "That asshole's not my friend! I barely know him! I hate his fucking guts -- -- Ellis, for Christ's sake, tell him you don't mean shit to me --",
+      "wordCount": 29
+    },
+    {
+      "id": 433,
+      "index": 433,
+      "character": "ELLIS",
+      "gender": "Male",
+      "line": "John, how can you say that, after all these years--? John? John?",
+      "wordCount": 12
+    },
+    {
+      "id": 434,
+      "index": 434,
+      "character": "HANS",
+      "gender": "Male",
+      "line": "Hear that? Talk to me, where are my detonators. Where are they or shall I shoot another one? Sooner or later... ...I might get to someone you do care about.",
+      "wordCount": 30
+    },
+    {
+      "id": 435,
+      "index": 435,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "Go fuck yourself.",
+      "wordCount": 3
+    },
+    {
+      "id": 436,
+      "index": 436,
+      "character": "ROBINSON",
+      "gender": "Male",
+      "line": "Goddamn, didn't you hear him! He practically pulled the Goddamned trigger himself -- he gave that man to them --",
+      "wordCount": 20
+    },
+    {
+      "id": 437,
+      "index": 437,
+      "character": "POWELL",
+      "gender": "Male",
+      "line": "Christ, can't you read between the lines! He did everything he could to save him...if he gave himself up they'd both be dead!",
+      "wordCount": 23
+    },
+    {
+      "id": 438,
+      "index": 438,
+      "character": "ROBINSON",
+      "gender": "Male",
+      "line": "Maybe. And maybe they'd at least be talking to us! Now tell your 'partner' to stay out of it, or so help me if he lives through this I'll put him behind bars myself!",
+      "wordCount": 34
+    },
+    {
+      "id": 439,
+      "index": 439,
+      "character": "POWELL",
+      "gender": "Male",
+      "line": "He's alone, tired, hunted, and hasn't seen diddly-squat from us and you think he gives a flying fuck about what you're going to do to him? Robinson, wake up and smell the shit you're shoveling!",
+      "wordCount": 35
+    },
+    {
+      "id": 440,
+      "index": 440,
+      "character": "ROBINSON",
+      "gender": "Male",
+      "line": "Anytime you want to go home, Sergeant...consider yourself dismissed.",
+      "wordCount": 9
+    },
+    {
+      "id": 441,
+      "index": 441,
+      "character": "POWELL",
+      "gender": "Male",
+      "line": "No Sir. You couldn't drag me away.",
+      "wordCount": 7
+    },
+    {
+      "id": 442,
+      "index": 442,
+      "character": "HANS' VOICE",
+      "gender": "NA",
+      "line": "Attention police. Attention police.",
+      "wordCount": 4
+    },
+    {
+      "id": 443,
+      "index": 443,
+      "character": "POWELL",
+      "gender": "Male",
+      "line": "This is --",
+      "wordCount": 3
+    },
+    {
+      "id": 444,
+      "index": 444,
+      "character": "ROBINSON",
+      "gender": "Male",
+      "line": "This is Deputy Chief Robinson. Who is this?",
+      "wordCount": 8
+    },
+    {
+      "id": 445,
+      "index": 445,
+      "character": "HANS",
+      "gender": "Male",
+      "line": "This is Hans Gruber. I assume you realize the futility of direct action against me. We have no wish for further loss of life.",
+      "wordCount": 24
+    },
+    {
+      "id": 446,
+      "index": 446,
+      "character": "ROBINSON",
+      "gender": "Male",
+      "line": "What do you wish for, Mister Gruber?",
+      "wordCount": 7
+    },
+    {
+      "id": 447,
+      "index": 447,
+      "character": "HANS",
+      "gender": "Male",
+      "line": "I have comrades in arms around the world who are languishing in prison. The American State Department enjoys rattling its saber to its own ends... now it can rattle it for me.",
+      "wordCount": 32
+    },
+    {
+      "id": 448,
+      "index": 448,
+      "character": "HANS' VOICE",
+      "gender": "NA",
+      "line": "...The following people are to be released from their captors: In Northern Ireland, the seven members of the New Provo Front. In Canada, the five imprisoned leaders of Liberte de Quebec...",
+      "wordCount": 31
+    },
+    {
+      "id": 449,
+      "index": 449,
+      "character": "HANS",
+      "gender": "Male",
+      "line": "...in Sri Lanka, the nine members of the Asian Dawn movement...",
+      "wordCount": 11
+    },
+    {
+      "id": 450,
+      "index": 450,
+      "character": "KARL",
+      "gender": "Male",
+      "line": "'Asian Dawn Movement?'",
+      "wordCount": 3
+    },
+    {
+      "id": 451,
+      "index": 451,
+      "character": "HANS",
+      "gender": "Male",
+      "line": "I read about them in Time magazine. When these Revolutionary Brothers and Sisters are Free, the hostages in this building will be taken to the roof and they will accompany us in helicopters to the Los Angeles International Airport where you will be given further instructions. You have two hours to comply.",
+      "wordCount": 52
+    },
+    {
+      "id": 452,
+      "index": 452,
+      "character": "ROBINSON",
+      "gender": "Male",
+      "line": "Two hours? Are you insane? I can't authorize...hello? Hello?",
+      "wordCount": 9
+    },
+    {
+      "id": 453,
+      "index": 453,
+      "character": "KARL",
+      "gender": "Male",
+      "line": "Do you think they'll even try to do it?",
+      "wordCount": 9
+    },
+    {
+      "id": 454,
+      "index": 454,
+      "character": "HANS",
+      "gender": "Male",
+      "line": "Who cares? Theo. Are we on schedule?",
+      "wordCount": 7
+    },
+    {
+      "id": 455,
+      "index": 455,
+      "character": "THEO",
+      "gender": "Male",
+      "line": "And you better be right, because this one's going to take a miracle.",
+      "wordCount": 13
+    },
+    {
+      "id": 456,
+      "index": 456,
+      "character": "KARL",
+      "gender": "Male",
+      "line": "Franco is checking the explosives, Fritz is with him.",
+      "wordCount": 9
+    },
+    {
+      "id": 457,
+      "index": 457,
+      "character": "HANS",
+      "gender": "Male",
+      "line": "I'll check the explosives. You just get those detonators.",
+      "wordCount": 9
+    },
+    {
+      "id": 458,
+      "index": 458,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "Al? Al, you there?",
+      "wordCount": 4
+    },
+    {
+      "id": 459,
+      "index": 459,
+      "character": "POWELL",
+      "gender": "Male",
+      "line": "I'm here, cowboy.",
+      "wordCount": 3
+    },
+    {
+      "id": 460,
+      "index": 460,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "Speaking of cows, did you ever hear so much bullshit in your life? Two hours? That doesn't even make any sense --",
+      "wordCount": 22
+    },
+    {
+      "id": 461,
+      "index": 461,
+      "character": "POWELL",
+      "gender": "Male",
+      "line": "Don't tell me, partner. I'm just a desk jockey who was on the way home when you rang.",
+      "wordCount": 18
+    },
+    {
+      "id": 462,
+      "index": 462,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "The way you drove that car, I figured you for the streets.",
+      "wordCount": 12
+    },
+    {
+      "id": 463,
+      "index": 463,
+      "character": "POWELL",
+      "gender": "Male",
+      "line": "In my youth, partner. In my youth.",
+      "wordCount": 7
+    },
+    {
+      "id": 464,
+      "index": 464,
+      "character": "GAIL",
+      "gender": "NA",
+      "line": "...author of... 'Hostage/Terrorist, Terrorist/Hostage, a Study in Duality.' Dr. Hasseldorf, what can we expect in the next few hours?",
+      "wordCount": 19
+    },
+    {
+      "id": 465,
+      "index": 465,
+      "character": "HASSELDORF",
+      "gender": "NA",
+      "line": "Well, Gail, by this time the hostages and their captors should be entering the early stages of the Helsinki Syndrome.",
+      "wordCount": 20
+    },
+    {
+      "id": 466,
+      "index": 466,
+      "character": "HARVEY",
+      "gender": "NA",
+      "line": "As in Helsinki, Sweden?",
+      "wordCount": 4
+    },
+    {
+      "id": 467,
+      "index": 467,
+      "character": "HASSELDORF",
+      "gender": "NA",
+      "line": "Uh...Finland. Basically, it's when the hostages and the terrorists go through a sort of psychological transference and projection of dependency...",
+      "wordCount": 20
+    },
+    {
+      "id": 468,
+      "index": 468,
+      "character": "HASSELDORF",
+      "gender": "NA",
+      "line": "What can only be described as a strange sort of trust and bond develops...We've had situations where hostages have embraced their captors after their release and in one case even corresponded with them in prison...",
+      "wordCount": 35
+    },
+    {
+      "id": 469,
+      "index": 469,
+      "character": "ROBINSON",
+      "gender": "Male",
+      "line": "The...the FBI? Here? Now?",
+      "wordCount": 4
+    },
+    {
+      "id": 470,
+      "index": 470,
+      "character": "YOUNG COP",
+      "gender": "NA",
+      "line": "Yessir. Right over there.",
+      "wordCount": 4
+    },
+    {
+      "id": 471,
+      "index": 471,
+      "character": "POWELL",
+      "gender": "Male",
+      "line": "You want a breath mint?",
+      "wordCount": 5
+    },
+    {
+      "id": 472,
+      "index": 472,
+      "character": "BIG JOHNSON",
+      "gender": "NA",
+      "line": "I'm Special Agent Johnson of the FBI. This is Agent Johnson...no relation.",
+      "wordCount": 12
+    },
+    {
+      "id": 473,
+      "index": 473,
+      "character": "ROBINSON",
+      "gender": "Male",
+      "line": "Dwayne Robinson, LAPD. I'm in charge here.",
+      "wordCount": 7
+    },
+    {
+      "id": 474,
+      "index": 474,
+      "character": "BIG JOHNSON",
+      "gender": "NA",
+      "line": "Not any more.",
+      "wordCount": 3
+    },
+    {
+      "id": 475,
+      "index": 475,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "Lost?",
+      "wordCount": 1
+    },
+    {
+      "id": 476,
+      "index": 476,
+      "character": "HANS",
+      "gender": "Male",
+      "line": "--ohGodplease -- don't kill me -- don't kill me -- you're one of them, I know it --",
+      "wordCount": 18
+    },
+    {
+      "id": 477,
+      "index": 477,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "Whoa, whoa, easy man. I won't hurt you. Who are you? What are you looking for?",
+      "wordCount": 16
+    },
+    {
+      "id": 478,
+      "index": 478,
+      "character": "HANS",
+      "gender": "Male",
+      "line": "A way up to the roof...I thought I could signal for help --",
+      "wordCount": 13
+    },
+    {
+      "id": 479,
+      "index": 479,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "Forget it. They got a guy up there. You want to stay alive, keep moving. Hey? You hear me?",
+      "wordCount": 19
+    },
+    {
+      "id": 480,
+      "index": 480,
+      "character": "HANS",
+      "gender": "Male",
+      "line": "You...you're an American?",
+      "wordCount": 3
+    },
+    {
+      "id": 481,
+      "index": 481,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "Only if New Jersey counts.",
+      "wordCount": 5
+    },
+    {
+      "id": 482,
+      "index": 482,
+      "character": "ROBINSON",
+      "gender": "Male",
+      "line": "We've got thirty, maybe thirty-five hostages, probably on the 30th floor... seven, maybe eight terrorists.",
+      "wordCount": 15
+    },
+    {
+      "id": 483,
+      "index": 483,
+      "character": "LITTLE JOHNSON",
+      "gender": "NA",
+      "line": "Sounds like a standard A-7 scenario.",
+      "wordCount": 6
+    },
+    {
+      "id": 484,
+      "index": 484,
+      "character": "BIG JOHNSON",
+      "gender": "NA",
+      "line": "Thank you. We'll handle it from here. When we need to commandeer your men, we'll try and let you know.",
+      "wordCount": 20
+    },
+    {
+      "id": 485,
+      "index": 485,
+      "character": "POWELL",
+      "gender": "Male",
+      "line": "Aren't you forgetting something?",
+      "wordCount": 4
+    },
+    {
+      "id": 486,
+      "index": 486,
+      "character": "BIG JOHNSON",
+      "gender": "NA",
+      "line": "Such as...?",
+      "wordCount": 2
+    },
+    {
+      "id": 487,
+      "index": 487,
+      "character": "POWELL",
+      "gender": "Male",
+      "line": "John McClane! He's the man who gave us all the information we've got! He's the reason you're facing seven terrorists instead of twelve.",
+      "wordCount": 23
+    },
+    {
+      "id": 488,
+      "index": 488,
+      "character": "LITTLE JOHNSON",
+      "gender": "NA",
+      "line": "He's inside? Who is he?",
+      "wordCount": 5
+    },
+    {
+      "id": 489,
+      "index": 489,
+      "character": "ROBINSON",
+      "gender": "Male",
+      "line": "He may be a cop...we're checking on that --",
+      "wordCount": 9
+    },
+    {
+      "id": 490,
+      "index": 490,
+      "character": "BIG JOHNSON",
+      "gender": "NA",
+      "line": "One of yours?",
+      "wordCount": 3
+    },
+    {
+      "id": 491,
+      "index": 491,
+      "character": "ROBINSON",
+      "gender": "Male",
+      "line": "No, sir.",
+      "wordCount": 2
+    },
+    {
+      "id": 492,
+      "index": 492,
+      "character": "BIG JOHNSON",
+      "gender": "NA",
+      "line": "If he's not a terrorist, and he's not a hostage...he's just not part of the equation.",
+      "wordCount": 16
+    },
+    {
+      "id": 493,
+      "index": 493,
+      "character": "POWELL",
+      "gender": "Male",
+      "line": "T...that's the same Goddamn thing the terrorists said!",
+      "wordCount": 8
+    },
+    {
+      "id": 494,
+      "index": 494,
+      "character": "LITTLE JOHNSON",
+      "gender": "NA",
+      "line": "Really? That's one good thing. Sound like we're dealing with pros.",
+      "wordCount": 11
+    },
+    {
+      "id": 495,
+      "index": 495,
+      "character": "HANS",
+      "gender": "Male",
+      "line": "There was a party -- celebration -- all of a sudden they were there -- shooting -- threatening us --",
+      "wordCount": 20
+    },
+    {
+      "id": 496,
+      "index": 496,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "Relax, man...you smoke?",
+      "wordCount": 3
+    },
+    {
+      "id": 497,
+      "index": 497,
+      "character": "HANS",
+      "gender": "Male",
+      "line": "You...you don't work for Nakatomi... and if you're not one of them...",
+      "wordCount": 12
+    },
+    {
+      "id": 498,
+      "index": 498,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "I'm a cop from New York.",
+      "wordCount": 6
+    },
+    {
+      "id": 499,
+      "index": 499,
+      "character": "HANS",
+      "gender": "Male",
+      "line": "New York...",
+      "wordCount": 2
+    },
+    {
+      "id": 500,
+      "index": 500,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "They invited me to the Xmas party. Who knew?",
+      "wordCount": 9
+    },
+    {
+      "id": 501,
+      "index": 501,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "Better than being caught with your pants down, right? John McClane.",
+      "wordCount": 11
+    },
+    {
+      "id": 502,
+      "index": 502,
+      "character": "HANS",
+      "gender": "Male",
+      "line": "William Clay. Call me Bill.",
+      "wordCount": 5
+    },
+    {
+      "id": 503,
+      "index": 503,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "Bill, you know how to use a handgun?",
+      "wordCount": 8
+    },
+    {
+      "id": 504,
+      "index": 504,
+      "character": "HANS",
+      "gender": "Male",
+      "line": "One weekend I went to a combat ranch... You know, that game with the, the guns that shoot red paint? Must sound pretty silly to you...",
+      "wordCount": 26
+    },
+    {
+      "id": 505,
+      "index": 505,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "Sounds better than nothing.",
+      "wordCount": 4
+    },
+    {
+      "id": 506,
+      "index": 506,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "Time for the real thing.",
+      "wordCount": 5
+    },
+    {
+      "id": 507,
+      "index": 507,
+      "character": "HANS",
+      "gender": "Male",
+      "line": "Karl! Franco! I'm on 33. Come quickly. Put down your gun and give me my detonators.",
+      "wordCount": 16
+    },
+    {
+      "id": 508,
+      "index": 508,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "Hans. Your Hans.",
+      "wordCount": 3
+    },
+    {
+      "id": 509,
+      "index": 509,
+      "character": "HANS",
+      "gender": "Male",
+      "line": "Put it down now.",
+      "wordCount": 4
+    },
+    {
+      "id": 510,
+      "index": 510,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "That was tricky, with the accent. I bet you do a great Ed Sullivan. Why do you need the detonators, Hans? I already used the explosives.",
+      "wordCount": 26
+    },
+    {
+      "id": 511,
+      "index": 511,
+      "character": "HANS",
+      "gender": "Male",
+      "line": "I'm going to count to three...",
+      "wordCount": 6
+    },
+    {
+      "id": 512,
+      "index": 512,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "Yeah. Like you did with Takagi.",
+      "wordCount": 6
+    },
+    {
+      "id": 513,
+      "index": 513,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "You think I'm a shmuch, Hans.",
+      "wordCount": 6
+    },
+    {
+      "id": 514,
+      "index": 514,
+      "character": "HANS",
+      "gender": "Male",
+      "line": "You were saying.",
+      "wordCount": 3
+    },
+    {
+      "id": 515,
+      "index": 515,
+      "character": "273-A- OUT OUT 273-A-",
+      "gender": "NA",
+      "line": "273-I 273-I",
+      "wordCount": 2
+    },
+    {
+      "id": 516,
+      "index": 516,
+      "character": "HANS",
+      "gender": "Male",
+      "line": "The glass! Shoot the glass!",
+      "wordCount": 5
+    },
+    {
+      "id": 517,
+      "index": 517,
+      "character": "HANS",
+      "gender": "Male",
+      "line": "Smile, Karl. We are back in business.",
+      "wordCount": 7
+    },
+    {
+      "id": 518,
+      "index": 518,
+      "character": "HASSELDORF",
+      "gender": "NA",
+      "line": "...all depends on what we mean by \"Terror.' If Clauswitz could say 'War is the last resort of Deplomacy,' couldn't we just as well say that terrorism has an equal claim to...",
+      "wordCount": 32
+    },
+    {
+      "id": 519,
+      "index": 519,
+      "character": "THORNBURG",
+      "gender": "Male",
+      "line": "You got something?",
+      "wordCount": 3
+    },
+    {
+      "id": 520,
+      "index": 520,
+      "character": "MARY",
+      "gender": "NA",
+      "line": "Just McClane's name, badge number, police record, vital statistics... ...And his family's address right here in L.A.",
+      "wordCount": 17
+    },
+    {
+      "id": 521,
+      "index": 521,
+      "character": "GINNY",
+      "gender": "NA",
+      "line": "That one look pissed, Ms. Gennero...",
+      "wordCount": 6
+    },
+    {
+      "id": 522,
+      "index": 522,
+      "character": "HOLLY",
+      "gender": "Female",
+      "line": "Thank God. He's still alive.",
+      "wordCount": 5
+    },
+    {
+      "id": 523,
+      "index": 523,
+      "character": "THEO",
+      "gender": "Male",
+      "line": "You better heat up that miracle * you were talking about. We broke through on Number Six, and the Electromagentic came down like a sledgehammer...",
+      "wordCount": 25
+    },
+    {
+      "id": 524,
+      "index": 524,
+      "character": "HANS",
+      "gender": "Male",
+      "line": "* Well have a look at what our friends outside are doing and I'll be right up.",
+      "wordCount": 17
+    },
+    {
+      "id": 525,
+      "index": 525,
+      "character": "POWELL",
+      "gender": "Male",
+      "line": "Roy? You still with us?",
+      "wordCount": 5
+    },
+    {
+      "id": 526,
+      "index": 526,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "Yeah. But all things being equal, I'd rather be in Philadelphia. By the way, chalk up two more terrorists.",
+      "wordCount": 19
+    },
+    {
+      "id": 527,
+      "index": 527,
+      "character": "POWELL",
+      "gender": "Male",
+      "line": "They boys'll be glad. We got a pool going on you.",
+      "wordCount": 11
+    },
+    {
+      "id": 528,
+      "index": 528,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "Yeah? What's the odds?",
+      "wordCount": 4
+    },
+    {
+      "id": 529,
+      "index": 529,
+      "character": "POWELL",
+      "gender": "Male",
+      "line": "You don't want to know.",
+      "wordCount": 5
+    },
+    {
+      "id": 530,
+      "index": 530,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "Put me down for twenty anyway...I'm good for it...so, what got you off the street, Al? You liked lousy coffee, or what?",
+      "wordCount": 22
+    },
+    {
+      "id": 531,
+      "index": 531,
+      "character": "POWELL'S VOICE",
+      "gender": "NA",
+      "line": "I...realized I couldn't do what I had to anymore...at least not out there. I had an...accident.",
+      "wordCount": 16
+    },
+    {
+      "id": 532,
+      "index": 532,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "They way you drive, I can see why.",
+      "wordCount": 8
+    },
+    {
+      "id": 533,
+      "index": 533,
+      "character": "POWELL",
+      "gender": "Male",
+      "line": "I...I shot a kid.",
+      "wordCount": 4
+    },
+    {
+      "id": 534,
+      "index": 534,
+      "character": "POWELL",
+      "gender": "Male",
+      "line": "Eleven years ago. Oh, it was dark... he was big for his age...damn ray gun he had looked real enough...yeah, I had all the right excuses...but afterwards... I really couldn't draw my gun again.",
+      "wordCount": 34
+    },
+    {
+      "id": 535,
+      "index": 535,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "I...I'm sorry. I didn't mean to make a joke of it.",
+      "wordCount": 11
+    },
+    {
+      "id": 536,
+      "index": 536,
+      "character": "POWELL",
+      "gender": "Male",
+      "line": "Hey, you couldn't know.",
+      "wordCount": 4
+    },
+    {
+      "id": 537,
+      "index": 537,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "I still feel like shit.",
+      "wordCount": 5
+    },
+    {
+      "id": 538,
+      "index": 538,
+      "character": "POWELL",
+      "gender": "Male",
+      "line": "Then this won't matter. LAPD's not calling the shots anymore.",
+      "wordCount": 10
+    },
+    {
+      "id": 539,
+      "index": 539,
+      "character": "HANS",
+      "gender": "Male",
+      "line": "That's the FBI...ordering them to cut * the building's power. They're as regular as clockwork...or a time lock...",
+      "wordCount": 18
+    },
+    {
+      "id": 540,
+      "index": 540,
+      "character": "HANS",
+      "gender": "Male",
+      "line": "...the circuits that cannot be cut... are cut automatically in reponse to a terrorist incident...You ask for miracles, Theo...I give you the FBI...",
+      "wordCount": 23
+    },
+    {
+      "id": 541,
+      "index": 541,
+      "character": "THEO",
+      "gender": "Male",
+      "line": "When you're hot, you're hot.",
+      "wordCount": 5
+    },
+    {
+      "id": 542,
+      "index": 542,
+      "character": "GUY IN MANHOLE",
+      "gender": "NA",
+      "line": "We're spliced in down the line.",
+      "wordCount": 6
+    },
+    {
+      "id": 543,
+      "index": 543,
+      "character": "LITTLE JOHNSON",
+      "gender": "NA",
+      "line": "Do it...now.",
+      "wordCount": 2
+    },
+    {
+      "id": 544,
+      "index": 544,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "Powell? What's going on?",
+      "wordCount": 4
+    },
+    {
+      "id": 545,
+      "index": 545,
+      "character": "POWELL",
+      "gender": "Male",
+      "line": "Ask the FBI. They've got the terrorist playbook and they're running it, step by step.",
+      "wordCount": 15
+    },
+    {
+      "id": 546,
+      "index": 546,
+      "character": "KRISTOFF",
+      "gender": "Male",
+      "line": "Damn! It didn't go!",
+      "wordCount": 4
+    },
+    {
+      "id": 547,
+      "index": 547,
+      "character": "THEO",
+      "gender": "Male",
+      "line": "They're on the building circuit... it's too local.",
+      "wordCount": 8
+    },
+    {
+      "id": 548,
+      "index": 548,
+      "character": "HANS",
+      "gender": "Male",
+      "line": "Encourage them to be bolder.",
+      "wordCount": 5
+    },
+    {
+      "id": 549,
+      "index": 549,
+      "character": "THEO",
+      "gender": "Male",
+      "line": "The only thing left for them is the City Grid... ...They may not do it.",
+      "wordCount": 15
+    },
+    {
+      "id": 550,
+      "index": 550,
+      "character": "LITTLE JOHNSON",
+      "gender": "NA",
+      "line": "Shit! Cut it again. Go wider.",
+      "wordCount": 6
+    },
+    {
+      "id": 551,
+      "index": 551,
+      "character": "ENGINEER",
+      "gender": "NA",
+      "line": "I can't go wider here... ...I'd have to call downtown have them take down one of the city grids...you're talking ten square block --",
+      "wordCount": 24
+    },
+    {
+      "id": 552,
+      "index": 552,
+      "character": "ROBINSON",
+      "gender": "Male",
+      "line": "-- ten blocks? Are you crazy? It's Christmas Eve, thousands of people -- the Mayor'll scream bloody murder --",
+      "wordCount": 19
+    },
+    {
+      "id": 553,
+      "index": 553,
+      "character": "BIG JOHNSON",
+      "gender": "NA",
+      "line": "We must shut down the building. Go wider --!",
+      "wordCount": 9
+    },
+    {
+      "id": 554,
+      "index": 554,
+      "character": "ENGINEER",
+      "gender": "NA",
+      "line": "I need authorization --",
+      "wordCount": 4
+    },
+    {
+      "id": 555,
+      "index": 555,
+      "character": "BIG JOHNSON",
+      "gender": "NA",
+      "line": "Authorization? How about the United States Fucking Government? Lose the grid or lose your job!",
+      "wordCount": 15
+    },
+    {
+      "id": 556,
+      "index": 556,
+      "character": "ENGINEER",
+      "gender": "NA",
+      "line": "Central. This is Walt, out at Nakatomi. I want you to shut down grid 212. No shit, it's my ass. Just shut it down now.",
+      "wordCount": 25
+    },
+    {
+      "id": 557,
+      "index": 557,
+      "character": "BIG JOHNSON",
+      "gender": "NA",
+      "line": "That should shake'em up. With all the power shut down, those bastards are probably scared shitless.",
+      "wordCount": 16
+    },
+    {
+      "id": 558,
+      "index": 558,
+      "character": "POWELL",
+      "gender": "Male",
+      "line": "What do we do now, arrest them for not paying their electric bill?",
+      "wordCount": 13
+    },
+    {
+      "id": 559,
+      "index": 559,
+      "character": "LITTLE JOHNSON",
+      "gender": "NA",
+      "line": "We let them sweat awhile. Then, when they're expecting helicopters... ...We give them helicopters...",
+      "wordCount": 14
+    },
+    {
+      "id": 560,
+      "index": 560,
+      "character": "BIG JOHNSON",
+      "gender": "NA",
+      "line": "Right up the ass. This is Johnson...no the other one. I want that air support ready to lift off in five minutes...Damn right fully armed. We're on our way. Attention in the building.",
+      "wordCount": 33
+    },
+    {
+      "id": 561,
+      "index": 561,
+      "character": "HANS",
+      "gender": "Male",
+      "line": "This is Hans...",
+      "wordCount": 3
+    },
+    {
+      "id": 562,
+      "index": 562,
+      "character": "BIG JOHNSON",
+      "gender": "NA",
+      "line": "This is Agent Johnson of the FBI. The State Department has arranged for the release of your comrades. The helicopters you requested are on the way.",
+      "wordCount": 26
+    },
+    {
+      "id": 563,
+      "index": 563,
+      "character": "HANS",
+      "gender": "Male",
+      "line": "I hear you, FBI. We'll be ready.",
+      "wordCount": 7
+    },
+    {
+      "id": 564,
+      "index": 564,
+      "character": "HANS",
+      "gender": "Male",
+      "line": "When they touch down and we blow the roof, they'll spend a month sifting through the bodies and rubble. By the time they figure out what went wrong... ...we'll be earning twenty percent like nice fat Capitalists.",
+      "wordCount": 37
+    },
+    {
+      "id": 565,
+      "index": 565,
+      "character": "BIG JOHNSON",
+      "gender": "NA",
+      "line": "By the time he figures out what hit him he'll be in a body bag.",
+      "wordCount": 15
+    },
+    {
+      "id": 566,
+      "index": 566,
+      "character": "MCCLANE'S VOICE",
+      "gender": "NA",
+      "line": "Powell, listen...",
+      "wordCount": 2
+    },
+    {
+      "id": 567,
+      "index": 567,
+      "character": "POWELL",
+      "gender": "Male",
+      "line": "I'm here, John.",
+      "wordCount": 3
+    },
+    {
+      "id": 568,
+      "index": 568,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "Look...I'm getting a bad feeling up here...I'd like you to do something for me. Look up my wife...don't ask how, you'll know by then...and tell her...tell her...I've been a jerk. When things panned out for her, I should've been behind her all the way ...We had something great going until I screwed it up...She was the best thing that ever happened to a bum like me. She's heard me say I love you a thousand times, but she never got to hear this...honey...I'm sorry. You get all that?",
+      "wordCount": 88
+    },
+    {
+      "id": 569,
+      "index": 569,
+      "character": "POWELL",
+      "gender": "Male",
+      "line": "I got it. But you can tell her yourself. Just watch your ass and you'll make it.",
+      "wordCount": 17
+    },
+    {
+      "id": 570,
+      "index": 570,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "I hope so. But that's up to the guy upstairs. Upstairs... ...Hans, you bastard...what were you doing?",
+      "wordCount": 17
+    },
+    {
+      "id": 571,
+      "index": 571,
+      "character": "POWELL",
+      "gender": "Male",
+      "line": "Roy?",
+      "wordCount": 1
+    },
+    {
+      "id": 572,
+      "index": 572,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "Stand by, Powell. I gotta check something out.",
+      "wordCount": 8
+    },
+    {
+      "id": 573,
+      "index": 573,
+      "character": "THORNBURG",
+      "gender": "Male",
+      "line": "One minute, that's all we ask. You could be denying them their last chance to talk to their parents.",
+      "wordCount": 19
+    },
+    {
+      "id": 574,
+      "index": 574,
+      "character": "PAULINA",
+      "gender": "NA",
+      "line": "I'm sorry...Mrs. Holly says I couldn't let strangers into --",
+      "wordCount": 10
+    },
+    {
+      "id": 575,
+      "index": 575,
+      "character": "THORNBURG",
+      "gender": "Male",
+      "line": "Strangers? I'm with KFLW TV, that's affiliated with the FCC, and I'm sure you know that's the United States government...just like the INS?",
+      "wordCount": 23
+    },
+    {
+      "id": 576,
+      "index": 576,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "I was here...he was...",
+      "wordCount": 4
+    },
+    {
+      "id": 577,
+      "index": 577,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "Oh my God...",
+      "wordCount": 3
+    },
+    {
+      "id": 578,
+      "index": 578,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "Powell! Powell, listen to me! You're being double crossed! The whole roof of this building is --",
+      "wordCount": 17
+    },
+    {
+      "id": 579,
+      "index": 579,
+      "character": "POWELL",
+      "gender": "Male",
+      "line": "Roy? Hello? Hello? I thought you had him.",
+      "wordCount": 8
+    },
+    {
+      "id": 580,
+      "index": 580,
+      "character": "OFFICER",
+      "gender": "NA",
+      "line": "I did. He said something about a, a double cross...",
+      "wordCount": 10
+    },
+    {
+      "id": 581,
+      "index": 581,
+      "character": "POWELL",
+      "gender": "Male",
+      "line": "Tell me about it.",
+      "wordCount": 4
+    },
+    {
+      "id": 582,
+      "index": 582,
+      "character": "KARL",
+      "gender": "Male",
+      "line": "We're both professionals. But this is personal. You...are done.",
+      "wordCount": 9
+    },
+    {
+      "id": 583,
+      "index": 583,
+      "character": "EDDIE",
+      "gender": "Male",
+      "line": "They're coming.",
+      "wordCount": 2
+    },
+    {
+      "id": 584,
+      "index": 584,
+      "character": "THORNBURG'S VOICE FROM TV",
+      "gender": "NA",
+      "line": "-- I know you're proud of your daddy...",
+      "wordCount": 8
+    },
+    {
+      "id": 585,
+      "index": 585,
+      "character": "THORNBURG",
+      "gender": "Male",
+      "line": "...because he's a very brave policeman. And your mom has shown just as much courage. But is there something you would like to say to them if they're watching?",
+      "wordCount": 29
+    },
+    {
+      "id": 586,
+      "index": 586,
+      "character": "LUCY",
+      "gender": "NA",
+      "line": "Come home.",
+      "wordCount": 2
+    },
+    {
+      "id": 587,
+      "index": 587,
+      "character": "HANS",
+      "gender": "Male",
+      "line": "Mrs. McClane. How nice to make your acquaintance.",
+      "wordCount": 8
+    },
+    {
+      "id": 588,
+      "index": 588,
+      "character": "HANS",
+      "gender": "Male",
+      "line": "On your feet, everyone! Upstairs, now! You'll lock them up there and come right down...",
+      "wordCount": 15
+    },
+    {
+      "id": 589,
+      "index": 589,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "Better this way, isn't it? I mean, any faggot can shoot a gun.",
+      "wordCount": 13
+    },
+    {
+      "id": 590,
+      "index": 590,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "You should've heard your brother scream when I broke his fucking neck...",
+      "wordCount": 12
+    },
+    {
+      "id": 591,
+      "index": 591,
+      "character": "BIG JOHNSON",
+      "gender": "NA",
+      "line": "Stay low. They're expecting transports, not gunships.",
+      "wordCount": 7
+    },
+    {
+      "id": 592,
+      "index": 592,
+      "character": "LITTLE JOHNSON",
+      "gender": "NA",
+      "line": "What do you figure on breakage?",
+      "wordCount": 6
+    },
+    {
+      "id": 593,
+      "index": 593,
+      "character": "BIG JOHNSON",
+      "gender": "NA",
+      "line": "I figure we take out all the terrorists, and lose 20 percent of the hostages... 25, tops.",
+      "wordCount": 17
+    },
+    {
+      "id": 594,
+      "index": 594,
+      "character": "LITTLE JOHNSON",
+      "gender": "NA",
+      "line": "I can live with those numbers.",
+      "wordCount": 6
+    },
+    {
+      "id": 595,
+      "index": 595,
+      "character": "HANS",
+      "gender": "Male",
+      "line": "A little bonus for us. A policeman's wife might come in handy.",
+      "wordCount": 12
+    },
+    {
+      "id": 596,
+      "index": 596,
+      "character": "HANS",
+      "gender": "Male",
+      "line": "McClane! McClane! I have some news for you...McClane?",
+      "wordCount": 8
+    },
+    {
+      "id": 597,
+      "index": 597,
+      "character": "HANS",
+      "gender": "Male",
+      "line": "McClane? Karl? Karl?",
+      "wordCount": 3
+    },
+    {
+      "id": 598,
+      "index": 598,
+      "character": "HANS",
+      "gender": "Male",
+      "line": "Hurry.",
+      "wordCount": 1
+    },
+    {
+      "id": 599,
+      "index": 599,
+      "character": "HOLLY",
+      "gender": "Female",
+      "line": "After all your posturing, all your speeches...you're nothing but a common thief.",
+      "wordCount": 12
+    },
+    {
+      "id": 600,
+      "index": 600,
+      "character": "HANS",
+      "gender": "Male",
+      "line": "I'm an exceptional thief, Mrs. McClane. And now that I'm moving up to kidnapping, you should be more polite.",
+      "wordCount": 19
+    },
+    {
+      "id": 601,
+      "index": 601,
+      "character": "BIG JOHNSON",
+      "gender": "NA",
+      "line": "Just like Saigon, eh, Wally?",
+      "wordCount": 5
+    },
+    {
+      "id": 602,
+      "index": 602,
+      "character": "PILOT",
+      "gender": "NA",
+      "line": "My kind of town.",
+      "wordCount": 4
+    },
+    {
+      "id": 603,
+      "index": 603,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "Where's Holly --",
+      "wordCount": 3
+    },
+    {
+      "id": 604,
+      "index": 604,
+      "character": "GINNY",
+      "gender": "NA",
+      "line": "The took her -- after they saw the kids on television --",
+      "wordCount": 12
+    },
+    {
+      "id": 605,
+      "index": 605,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "What? God --",
+      "wordCount": 3
+    },
+    {
+      "id": 606,
+      "index": 606,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "Listen to me! All of you, get down to the lower floors -- you're all in danger.",
+      "wordCount": 17
+    },
+    {
+      "id": 607,
+      "index": 607,
+      "character": "HOSTAGE",
+      "gender": "NA",
+      "line": "What are you, crazy? We're being rescued! Those helicopters --",
+      "wordCount": 10
+    },
+    {
+      "id": 608,
+      "index": 608,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "-- there won't be shit for those helicopters to land on, because the whole top of this building is wired with explosives! Now get below --",
+      "wordCount": 26
+    },
+    {
+      "id": 609,
+      "index": 609,
+      "character": "SECOND HOSTAGE",
+      "gender": "NA",
+      "line": "But...we're safe up here --",
+      "wordCount": 5
+    },
+    {
+      "id": 610,
+      "index": 610,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "Safe, my ass! This ain't a helipad, it's a launching pad!",
+      "wordCount": 11
+    },
+    {
+      "id": 611,
+      "index": 611,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "GET BELOW! NOW!",
+      "wordCount": 3
+    },
+    {
+      "id": 612,
+      "index": 612,
+      "character": "YOUNG FBI",
+      "gender": "NA",
+      "line": "Flight leader, this is Wing. I think they're on to us. One of the terrorists is firing on the hostages.",
+      "wordCount": 20
+    },
+    {
+      "id": 613,
+      "index": 613,
+      "character": "LITTLE JOHNSON",
+      "gender": "NA",
+      "line": "Roger, Wing. We copy. Swing around. Give me a clear shot.",
+      "wordCount": 11
+    },
+    {
+      "id": 614,
+      "index": 614,
+      "character": "HANS",
+      "gender": "Male",
+      "line": "Schnell, schnell...der zeitz ist kurz...",
+      "wordCount": 5
+    },
+    {
+      "id": 615,
+      "index": 615,
+      "character": "BIG JOHNSON",
+      "gender": "NA",
+      "line": "Bank and we'll nail him!",
+      "wordCount": 5
+    },
+    {
+      "id": 616,
+      "index": 616,
+      "character": "HANS",
+      "gender": "Male",
+      "line": "Blow the roof. Now!",
+      "wordCount": 4
+    },
+    {
+      "id": 617,
+      "index": 617,
+      "character": "KRISTOFF",
+      "gender": "Male",
+      "line": "But Karl and Uli are up there --",
+      "wordCount": 8
+    },
+    {
+      "id": 618,
+      "index": 618,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "You assholes, I'm on your side -- !",
+      "wordCount": 8
+    },
+    {
+      "id": 619,
+      "index": 619,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "Fuck this...",
+      "wordCount": 2
+    },
+    {
+      "id": 620,
+      "index": 620,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "Shit...",
+      "wordCount": 1
+    },
+    {
+      "id": 621,
+      "index": 621,
+      "character": "ARGYLE",
+      "gender": "Male",
+      "line": "Where's the camera when you need them?",
+      "wordCount": 7
+    },
+    {
+      "id": 622,
+      "index": 622,
+      "character": "HANS",
+      "gender": "Male",
+      "line": "Let's move.",
+      "wordCount": 2
+    },
+    {
+      "id": 623,
+      "index": 623,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "Hans!",
+      "wordCount": 1
+    },
+    {
+      "id": 624,
+      "index": 624,
+      "character": "HOLLY",
+      "gender": "Female",
+      "line": "John!",
+      "wordCount": 1
+    },
+    {
+      "id": 625,
+      "index": 625,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "Holly, we have to stop meeting like this. So that's what it was. A fucking robbery. So why nuke the building, Hans?",
+      "wordCount": 22
+    },
+    {
+      "id": 626,
+      "index": 626,
+      "character": "HANS",
+      "gender": "Male",
+      "line": "When you steal six hundred dollars, you can disappear...but when you steal six hundred million, they will find you...unless you play dead. Which happens to be your next role... drop your gun, please.",
+      "wordCount": 33
+    },
+    {
+      "id": 627,
+      "index": 627,
+      "character": "HANS",
+      "gender": "Male",
+      "line": "Nein, dies ein ist mein. This time John Wayne does not walk off into the sunset with Grace Kelly.",
+      "wordCount": 19
+    },
+    {
+      "id": 628,
+      "index": 628,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "That was Gary Cooper, shithead...",
+      "wordCount": 5
+    },
+    {
+      "id": 629,
+      "index": 629,
+      "character": "HANS",
+      "gender": "Male",
+      "line": "No more jokes, drop it or she gets it between the eyes!",
+      "wordCount": 12
+    },
+    {
+      "id": 630,
+      "index": 630,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "Whoa, Hans, now you're the cowboy?",
+      "wordCount": 6
+    },
+    {
+      "id": 631,
+      "index": 631,
+      "character": "HANS",
+      "gender": "Male",
+      "line": "'Yippe-ki-yea, mother fucker'? Now you are fucked.",
+      "wordCount": 7
+    },
+    {
+      "id": 632,
+      "index": 632,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "Holly, now...!",
+      "wordCount": 2
+    },
+    {
+      "id": 633,
+      "index": 633,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "You were right about us Americans. We are cowboys.",
+      "wordCount": 9
+    },
+    {
+      "id": 634,
+      "index": 634,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "It's okay, babe. It's okay.",
+      "wordCount": 5
+    },
+    {
+      "id": 635,
+      "index": 635,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "You got a warranty on this?",
+      "wordCount": 6
+    },
+    {
+      "id": 636,
+      "index": 636,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "Al? Al, you here -- ?",
+      "wordCount": 6
+    },
+    {
+      "id": 637,
+      "index": 637,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "Al. Man, you were my rock. I couldn't have made it without you.",
+      "wordCount": 13
+    },
+    {
+      "id": 638,
+      "index": 638,
+      "character": "POWELL",
+      "gender": "Male",
+      "line": "Bullshit.",
+      "wordCount": 1
+    },
+    {
+      "id": 639,
+      "index": 639,
+      "character": "MCCLANE",
+      "gender": "Male",
+      "line": "I'm serious. Hey, this is my wife... Holly Gennero.",
+      "wordCount": 9
+    },
+    {
+      "id": 640,
+      "index": 640,
+      "character": "HOLLY",
+      "gender": "Female",
+      "line": "Holly McClane.",
+      "wordCount": 2
+    },
+    {
+      "id": 641,
+      "index": 641,
+      "character": "POWELL",
+      "gender": "Male",
+      "line": "A pleasure. I guess John doesn't need me to give you that message anymore.",
+      "wordCount": 14
+    },
+    {
+      "id": 642,
+      "index": 642,
+      "character": "HOLLY",
+      "gender": "Female",
+      "line": "Message?",
+      "wordCount": 1
+    },
+    {
+      "id": 643,
+      "index": 643,
+      "character": "POWELL",
+      "gender": "Male",
+      "line": "You know, about him being such a jerk -- and how he's really sor -- -- ee...Uh, I'm sure he'll fill you in.",
+      "wordCount": 23
+    },
+    {
+      "id": 644,
+      "index": 644,
+      "character": "ROBINSON",
+      "gender": "Male",
+      "line": "I want you for debrief, McClane. You've got some things to answer for -- Ellis' murder -- property damage -- interfering with police * business --",
+      "wordCount": 26
+    },
+    {
+      "id": 645,
+      "index": 645,
+      "character": "POWELL",
+      "gender": "Male",
+      "line": "You were right. You couldn't have made it without me.",
+      "wordCount": 10
+    },
+    {
+      "id": 646,
+      "index": 646,
+      "character": "THORNBURG",
+      "gender": "Male",
+      "line": "Mr. McClane...Mrs. McClane...any comment on your incredible ordeal? What are your feelings now that it's all over?",
+      "wordCount": 17
+    },
+    {
+      "id": 647,
+      "index": 647,
+      "character": "THORNBURG",
+      "gender": "Male",
+      "line": "* Did you get that?",
+      "wordCount": 5
+    },
+    {
+      "id": 648,
+      "index": 648,
+      "character": "ARGYLE",
+      "gender": "Male",
+      "line": "If this is their idea of Christmas I gotta be there for New Year's.",
+      "wordCount": 14
+    },
+    {
+      "id": 649,
+      "index": 649,
+      "character": "",
+      "gender": "Male"
+    }
+  ]
+}

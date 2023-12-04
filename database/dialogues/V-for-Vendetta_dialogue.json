@@ -1,0 +1,7316 @@
+{
+  "fileName": "V-for-Vendetta_dialogue.txt",
+  "title": "V for Vendetta",
+  "data": [
+    {
+      "id": 0,
+      "index": 0,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "\"Remember, remember, the fifth of November, the gunpowder treason and plot. I know of now reason why the gunpowder treason should ever be forgot.\"",
+      "wordCount": 24
+    },
+    {
+      "id": 1,
+      "index": 1,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "Those were almost the very first words he spoke to me and, in a way, that is where this story began, four hundred years ago, in a cellar beneath the Houses of Parliament.",
+      "wordCount": 33
+    },
+    {
+      "id": 2,
+      "index": 2,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "In 1605, Guy Fawkes attempted to blow up the Houses of Parliament.",
+      "wordCount": 12
+    },
+    {
+      "id": 3,
+      "index": 3,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "He was caught in the cellars with enough gunpowder to level most of London.",
+      "wordCount": 14
+    },
+    {
+      "id": 4,
+      "index": 4,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "Sometimes I wonder where we would be if he hadn't failed. I wonder if it would have mattered.",
+      "wordCount": 18
+    },
+    {
+      "id": 5,
+      "index": 5,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "I suppose the answer is in the rhyme. More than the man, what we must remember is the plot itself.",
+      "wordCount": 20
+    },
+    {
+      "id": 6,
+      "index": 6,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "For in the plot we find more than just a man, we find the idea of that man, the spirit of that man, and that is what we must never forget.",
+      "wordCount": 31
+    },
+    {
+      "id": 7,
+      "index": 7,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "This, then, is the story of that idea, of that spirit that began with an anarchist's plot four hundred years ago.",
+      "wordCount": 21
+    },
+    {
+      "id": 8,
+      "index": 8,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "I was born near the end of the millennium, the year 1997. My father used to say that people were so afraid that the world was going to end that they were willing it to happen.",
+      "wordCount": 36
+    },
+    {
+      "id": 9,
+      "index": 9,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "I don't remember much of the century's turn. I don't remember the market crash or the plague or any of the Trafalgar riots.",
+      "wordCount": 23
+    },
+    {
+      "id": 10,
+      "index": 10,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "I've read about them since but I don't recall how any of them impacted my life except for the fear. They would hide it from me, like a secret between them.",
+      "wordCount": 31
+    },
+    {
+      "id": 11,
+      "index": 11,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "But I could feel it.",
+      "wordCount": 5
+    },
+    {
+      "id": 12,
+      "index": 12,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "Of the chaos that seemed to swallow the beginning of the 21st century, there is one thing I do remember.",
+      "wordCount": 20
+    },
+    {
+      "id": 13,
+      "index": 13,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "Very clearly, I can remember that sound.",
+      "wordCount": 7
+    },
+    {
+      "id": 14,
+      "index": 14,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "And I remember those boots, black leather that gleamed bright in the morning sun. I had never seen such boots. All moving in perfect unison.",
+      "wordCount": 25
+    },
+    {
+      "id": 15,
+      "index": 15,
+      "character": "DASCOMBE",
+      "gender": "NA",
+      "line": "The time has come, London, to return to a bygone age, an age of tradition, an age of values that have been disparaged and all but forgotten. What this country needs is a leader! A true leader to remind us of that age. A righteous leader with the strength of his moral convictions to do what must be done. I give you that man! I give you our leader! Adam Susan!",
+      "wordCount": 71
+    },
+    {
+      "id": 16,
+      "index": 16,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "It must have seemed so easy to them. They offered such a simple deal; give up control and we will restore order.",
+      "wordCount": 22
+    },
+    {
+      "id": 17,
+      "index": 17,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "At first, the arrests were political. Dissidents. Radicals. Liberals.",
+      "wordCount": 9
+    },
+    {
+      "id": 18,
+      "index": 18,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "When my parents were younger, they had been activists. They had marched with Labor in the great train strike.",
+      "wordCount": 19
+    },
+    {
+      "id": 19,
+      "index": 19,
+      "character": "LITTLE EVEY",
+      "gender": "NA",
+      "line": "Mommy?",
+      "wordCount": 1
+    },
+    {
+      "id": 20,
+      "index": 20,
+      "character": "MOTHER",
+      "gender": "NA",
+      "line": "My daughter! Don't take my daughter!",
+      "wordCount": 6
+    },
+    {
+      "id": 21,
+      "index": 21,
+      "character": "FATHER",
+      "gender": "NA",
+      "line": "Evey! Evey!",
+      "wordCount": 2
+    },
+    {
+      "id": 22,
+      "index": 22,
+      "character": "LITTLE EVEY",
+      "gender": "NA",
+      "line": "Mommy! Daddy!",
+      "wordCount": 2
+    },
+    {
+      "id": 23,
+      "index": 23,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "I never saw them again. Overnight, my life, my entire world was erased.",
+      "wordCount": 13
+    },
+    {
+      "id": 24,
+      "index": 24,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "It was done so quickly and violently, so completely, that it began to seem that it had never even existed.",
+      "wordCount": 20
+    },
+    {
+      "id": 25,
+      "index": 25,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "The homosexuals were next. What God had started with AIDS had to be finished by man. It was God's work. That's what we were told.",
+      "wordCount": 25
+    },
+    {
+      "id": 26,
+      "index": 26,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "But once they were gone, there was someone else. Someone different.",
+      "wordCount": 11
+    },
+    {
+      "id": 27,
+      "index": 27,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "Someone dangerous.",
+      "wordCount": 2
+    },
+    {
+      "id": 28,
+      "index": 28,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "There were those who understood what was happening, who knew it was wrong but who kept silent.",
+      "wordCount": 17
+    },
+    {
+      "id": 29,
+      "index": 29,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "And in the vacuum of that silence, order was imposed.",
+      "wordCount": 10
+    },
+    {
+      "id": 30,
+      "index": 30,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "Order that was like those boots, order that required rigorous discipline. Order that is exactly the same, where each single step falls with every step. The order of the many shaped into one.",
+      "wordCount": 33
+    },
+    {
+      "id": 31,
+      "index": 31,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "Somehow in my heart, I knew it wouldn't last.",
+      "wordCount": 9
+    },
+    {
+      "id": 32,
+      "index": 32,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "What they thought they had crushed, the spirit they believed trampled and ground beneath the marching of their boots, rose up, rose as if from a four hundred year old grave, rose to remind us all that day.",
+      "wordCount": 38
+    },
+    {
+      "id": 33,
+      "index": 33,
+      "character": "FATE",
+      "gender": "NA",
+      "line": "Good evening, London. It's nine o'clock, the fourth of November in the year 2019 and this is the voice of Fate broadcasting on 275 and 285 of the medium wave.",
+      "wordCount": 30
+    },
+    {
+      "id": 34,
+      "index": 34,
+      "character": "FATE",
+      "gender": "NA",
+      "line": "People of London, be advised --",
+      "wordCount": 6
+    },
+    {
+      "id": 35,
+      "index": 35,
+      "character": "FATE",
+      "gender": "NA",
+      "line": "-- that Braxton and Streathon are quarantine zones as of today.",
+      "wordCount": 11
+    },
+    {
+      "id": 36,
+      "index": 36,
+      "character": "FATE",
+      "gender": "NA",
+      "line": "It is suggested that these area be avoided for reasons of health and safety.",
+      "wordCount": 14
+    },
+    {
+      "id": 37,
+      "index": 37,
+      "character": "FATE",
+      "gender": "NA",
+      "line": "Good news following the productivity reports from Herefordshire indicating a possible end to meat rationing starting mid February.",
+      "wordCount": 18
+    },
+    {
+      "id": 38,
+      "index": 38,
+      "character": "FATE",
+      "gender": "NA",
+      "line": "Police raided seventeen homes in the Birmingham area, uncovering what is believed to be a major terrorist ring.",
+      "wordCount": 18
+    },
+    {
+      "id": 39,
+      "index": 39,
+      "character": "FATE",
+      "gender": "NA",
+      "line": "Twenty eight people, eight of them women, are currently in detention awaiting trial.",
+      "wordCount": 13
+    },
+    {
+      "id": 40,
+      "index": 40,
+      "character": "FATE",
+      "gender": "NA",
+      "line": "And that is the face of London tonight.",
+      "wordCount": 8
+    },
+    {
+      "id": 41,
+      "index": 41,
+      "character": "FATE",
+      "gender": "NA",
+      "line": "And this is the voice of Fate signing off and bidding you a pleasant evening.",
+      "wordCount": 15
+    },
+    {
+      "id": 42,
+      "index": 42,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "I don't know what brought us together that night. I had never been to that part of Westminster but ever since I've known him, I've stopped believing in coincidence.",
+      "wordCount": 29
+    },
+    {
+      "id": 43,
+      "index": 43,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "Excuse me? Uh... excuse me, Mister?",
+      "wordCount": 6
+    },
+    {
+      "id": 44,
+      "index": 44,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "Would you like... uh, would you like to sleep with me?",
+      "wordCount": 11
+    },
+    {
+      "id": 45,
+      "index": 45,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "I mean, for money.",
+      "wordCount": 4
+    },
+    {
+      "id": 46,
+      "index": 46,
+      "character": "MAN",
+      "gender": "Male",
+      "line": "That is the clumsiest bit of propositioning I've ever heard.",
+      "wordCount": 10
+    },
+    {
+      "id": 47,
+      "index": 47,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "Oh god, I'm sorry.",
+      "wordCount": 4
+    },
+    {
+      "id": 48,
+      "index": 48,
+      "character": "MAN",
+      "gender": "Male",
+      "line": "Is this your first time, darling?",
+      "wordCount": 6
+    },
+    {
+      "id": 49,
+      "index": 49,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "Yes, no, I mean for money. But I know what you want and I'll do it.",
+      "wordCount": 16
+    },
+    {
+      "id": 50,
+      "index": 50,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "Anything you want, mister. Please, I need the money. I know I'm young but I promise I know what I'm doing.",
+      "wordCount": 21
+    },
+    {
+      "id": 51,
+      "index": 51,
+      "character": "MAN",
+      "gender": "Male",
+      "line": "No. You don't know what you're doing.",
+      "wordCount": 7
+    },
+    {
+      "id": 52,
+      "index": 52,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "Christ, you're a Fingerman.",
+      "wordCount": 4
+    },
+    {
+      "id": 53,
+      "index": 53,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "Oh god, please. It's my first time. Please don't hurt me.",
+      "wordCount": 11
+    },
+    {
+      "id": 54,
+      "index": 54,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "Oh no!",
+      "wordCount": 2
+    },
+    {
+      "id": 55,
+      "index": 55,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "Please, don't!",
+      "wordCount": 2
+    },
+    {
+      "id": 56,
+      "index": 56,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "Who -- Who are you?",
+      "wordCount": 5
+    },
+    {
+      "id": 57,
+      "index": 57,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "Evey.",
+      "wordCount": 1
+    },
+    {
+      "id": 58,
+      "index": 58,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "Why did you do that? Why did you... help me?",
+      "wordCount": 10
+    },
+    {
+      "id": 59,
+      "index": 59,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "For what?",
+      "wordCount": 2
+    },
+    {
+      "id": 60,
+      "index": 60,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "Music?",
+      "wordCount": 1
+    },
+    {
+      "id": 61,
+      "index": 61,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "Is that why you're wearing a mask?",
+      "wordCount": 7
+    },
+    {
+      "id": 62,
+      "index": 62,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "Uh... November fourth.",
+      "wordCount": 3
+    },
+    {
+      "id": 63,
+      "index": 63,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "I don't know.",
+      "wordCount": 3
+    },
+    {
+      "id": 64,
+      "index": 64,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "To your music?",
+      "wordCount": 3
+    },
+    {
+      "id": 65,
+      "index": 65,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "I can't hear anything.",
+      "wordCount": 4
+    },
+    {
+      "id": 66,
+      "index": 66,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "Oh my...",
+      "wordCount": 2
+    },
+    {
+      "id": 67,
+      "index": 67,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "It's beautiful...",
+      "wordCount": 2
+    },
+    {
+      "id": 68,
+      "index": 68,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "Gentlemen, I will hear your reports now. Mr. Heyer, speak for the Eye.",
+      "wordCount": 13
+    },
+    {
+      "id": 69,
+      "index": 69,
+      "character": "CONRAD",
+      "gender": "NA",
+      "line": "We have less than two minutes of usable footage, Leader. It took the suspect less than a minute to dispatch the Finger's vice patrol.",
+      "wordCount": 24
+    },
+    {
+      "id": 70,
+      "index": 70,
+      "character": "CONRAD",
+      "gender": "NA",
+      "line": "As you can see, the suspect's reflex speed is extraordinary. As is his strength.",
+      "wordCount": 14
+    },
+    {
+      "id": 71,
+      "index": 71,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "Freeze it!",
+      "wordCount": 2
+    },
+    {
+      "id": 72,
+      "index": 72,
+      "character": "CONRAD",
+      "gender": "NA",
+      "line": "I'm afraid the mask makes retinal identification impossible.",
+      "wordCount": 8
+    },
+    {
+      "id": 73,
+      "index": 73,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "Mr. Etheridge, report for the Ear!",
+      "wordCount": 6
+    },
+    {
+      "id": 74,
+      "index": 74,
+      "character": "ETHERIDGE",
+      "gender": "Male",
+      "line": "We were able to triangulate the origin of the fireworks. We also are currently monitoring a lot of phone surveillance indicating a high percentage of conversation concerned with the explosions. All suspect or significant transcripts are being forwarded to Mr. Almond.",
+      "wordCount": 41
+    },
+    {
+      "id": 75,
+      "index": 75,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "Very good. Mr. Finch, speak for the Nose.",
+      "wordCount": 8
+    },
+    {
+      "id": 76,
+      "index": 76,
+      "character": "FINCH",
+      "gender": "Male",
+      "line": "Thanks to Etheridge, we found the launch for the fireworks. These appear to be individually weighted flares and we have found traces of the same chemicals at both of the detonation sites which leads us to conclude that, despite a level of sophistication, these devices are all home-made with over the counter chemicals, making them impossible to trace. Whoever he is, Leader, he's good.",
+      "wordCount": 64
+    },
+    {
+      "id": 77,
+      "index": 77,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "Thank you for that professional annotation.",
+      "wordCount": 6
+    },
+    {
+      "id": 78,
+      "index": 78,
+      "character": "LIEUTENANT",
+      "gender": "NA",
+      "line": "Leader, Mr. Almond has arrived.",
+      "wordCount": 5
+    },
+    {
+      "id": 79,
+      "index": 79,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "Very good. Gentlemen, keep me informed of any further developments. England prevails.",
+      "wordCount": 12
+    },
+    {
+      "id": 80,
+      "index": 80,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "Mr. Almond, do you know what this is behind me?",
+      "wordCount": 10
+    },
+    {
+      "id": 81,
+      "index": 81,
+      "character": "ALMOND",
+      "gender": "NA",
+      "line": "Uh... the Fate computer system, sir?",
+      "wordCount": 6
+    },
+    {
+      "id": 82,
+      "index": 82,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "No. No sir. It's more than that. This, this computer is a symbol, Mr. Almond. A symbol of the highest attainable goal of mankind. Do you know what that goal is, Mr. Almond?",
+      "wordCount": 33
+    },
+    {
+      "id": 83,
+      "index": 83,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "Control, Mr. Almond! Control! The world around us is a changing, directionless, amoral morass and it is up to man and man alone to set things right!",
+      "wordCount": 27
+    },
+    {
+      "id": 84,
+      "index": 84,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "Without control, man is nothing more than any other stinking, sweating, brute animal. Control, Mr. Almond. The control that we have painstakingly built up over the last ten years. Now, do you understand what happened last night?",
+      "wordCount": 37
+    },
+    {
+      "id": 85,
+      "index": 85,
+      "character": "ALMOND",
+      "gender": "NA",
+      "line": "We... lost control.",
+      "wordCount": 3
+    },
+    {
+      "id": 86,
+      "index": 86,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "Yes, Mr. Almond. Last night someone did the unthinkable. Someone hurt us. It is imperative that we act swiftly and precisely. I want that man found, Mr. Almond. I want his head or, by god, I'll have yours.",
+      "wordCount": 38
+    },
+    {
+      "id": 87,
+      "index": 87,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "Wait. I've lost you.",
+      "wordCount": 4
+    },
+    {
+      "id": 88,
+      "index": 88,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "Oh...",
+      "wordCount": 1
+    },
+    {
+      "id": 89,
+      "index": 89,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "A jukebox? Where did you get it?",
+      "wordCount": 7
+    },
+    {
+      "id": 90,
+      "index": 90,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "Oh, it's beautiful. I've never heard anything like it.",
+      "wordCount": 9
+    },
+    {
+      "id": 91,
+      "index": 91,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "This place is amazing.",
+      "wordCount": 4
+    },
+    {
+      "id": 92,
+      "index": 92,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "Stay here... with you?",
+      "wordCount": 4
+    },
+    {
+      "id": 93,
+      "index": 93,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "I... I don't even know your name.",
+      "wordCount": 7
+    },
+    {
+      "id": 94,
+      "index": 94,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "V? V... I like that.",
+      "wordCount": 5
+    },
+    {
+      "id": 95,
+      "index": 95,
+      "character": "PROTHERO",
+      "gender": "Male",
+      "line": "Good morning, London. This is the voice of Fate -- Damn.",
+      "wordCount": 11
+    },
+    {
+      "id": 96,
+      "index": 96,
+      "character": "PROTHERO",
+      "gender": "Male",
+      "line": "Good morning -- ack. Good morning Lond-- Goddammit! Where is my bloody tea?!",
+      "wordCount": 13
+    },
+    {
+      "id": 97,
+      "index": 97,
+      "character": "DASCOMBE",
+      "gender": "NA",
+      "line": "Would someone get his lordship his bloody tea?",
+      "wordCount": 8
+    },
+    {
+      "id": 98,
+      "index": 98,
+      "character": "DASCOMBE",
+      "gender": "NA",
+      "line": "Lewis, they want this report on the first hour --",
+      "wordCount": 10
+    },
+    {
+      "id": 99,
+      "index": 99,
+      "character": "PROTHERO",
+      "gender": "Male",
+      "line": "I know. I know. Damned inconvenient this entire affair. Fine. Let's try again.",
+      "wordCount": 13
+    },
+    {
+      "id": 100,
+      "index": 100,
+      "character": "PROTHERO",
+      "gender": "Male",
+      "line": "Good morning, London. It is 6 am, the fifth of November 2019 and this is the voice of Fate. The new day brings good news and bright prospects from overseas, where negotiations with New China are moving in a positive direction. Last night's scheduled demolition of two deteriorating landmarks went off without a hitch.",
+      "wordCount": 54
+    },
+    {
+      "id": 101,
+      "index": 101,
+      "character": "PROTHERO",
+      "gender": "Male",
+      "line": "Spokesman for the Interior ministry said both structures were severely damaged and judged to be a danger to the unsuspecting public. Plans for new landmarks are well underway.",
+      "wordCount": 28
+    },
+    {
+      "id": 102,
+      "index": 102,
+      "character": "PROTHERO",
+      "gender": "Male",
+      "line": "Do you believe this crap, Dascombe?",
+      "wordCount": 6
+    },
+    {
+      "id": 103,
+      "index": 103,
+      "character": "DASCOMBE",
+      "gender": "NA",
+      "line": "It's not our job to believe it, Lewis. Our job is to tell the people --",
+      "wordCount": 16
+    },
+    {
+      "id": 104,
+      "index": 104,
+      "character": "PROTHERO",
+      "gender": "Male",
+      "line": "\"Exactly what they tell us.\" I Know but do you think that people will believe it?",
+      "wordCount": 16
+    },
+    {
+      "id": 105,
+      "index": 105,
+      "character": "DASCOMBE",
+      "gender": "NA",
+      "line": "They will if it's you that's telling it to them. Now let's try it again.",
+      "wordCount": 15
+    },
+    {
+      "id": 106,
+      "index": 106,
+      "character": "PROTHERO",
+      "gender": "Male",
+      "line": "... plans for new landmarks are already well underway.",
+      "wordCount": 9
+    },
+    {
+      "id": 107,
+      "index": 107,
+      "character": "PROTHERO",
+      "gender": "Male",
+      "line": "\"Remember, remember, the fifth of November...\"",
+      "wordCount": 6
+    },
+    {
+      "id": 108,
+      "index": 108,
+      "character": "PROTHERO",
+      "gender": "Male",
+      "line": "Do you suppose that's why he did it?",
+      "wordCount": 8
+    },
+    {
+      "id": 109,
+      "index": 109,
+      "character": "PROTHERO",
+      "gender": "Male",
+      "line": "Guy Fawkes. He tried to blow up Parliament.",
+      "wordCount": 8
+    },
+    {
+      "id": 110,
+      "index": 110,
+      "character": "PROTHERO",
+      "gender": "Male",
+      "line": "Don't they teach history in school anymore?",
+      "wordCount": 7
+    },
+    {
+      "id": 111,
+      "index": 111,
+      "character": "PROTHERO",
+      "gender": "Male",
+      "line": "Yes, of course. My mistake.",
+      "wordCount": 5
+    },
+    {
+      "id": 112,
+      "index": 112,
+      "character": "PROTHERO",
+      "gender": "Male",
+      "line": "I love trains. I remember riding the underground with my father. Shame they shut them all down.",
+      "wordCount": 17
+    },
+    {
+      "id": 113,
+      "index": 113,
+      "character": "PROTHERO",
+      "gender": "Male",
+      "line": "Get off of me!",
+      "wordCount": 4
+    },
+    {
+      "id": 114,
+      "index": 114,
+      "character": "PROTHERO",
+      "gender": "Male",
+      "line": "I have a lighter... somewhere...",
+      "wordCount": 5
+    },
+    {
+      "id": 115,
+      "index": 115,
+      "character": "PROTHERO",
+      "gender": "Male",
+      "line": "I found it!",
+      "wordCount": 3
+    },
+    {
+      "id": 116,
+      "index": 116,
+      "character": "PROTHERO",
+      "gender": "Male",
+      "line": "Oh god.",
+      "wordCount": 2
+    },
+    {
+      "id": 117,
+      "index": 117,
+      "character": "PROTHERO",
+      "gender": "Male",
+      "line": "Who are you? What do you want? Money? Is that it?",
+      "wordCount": 11
+    },
+    {
+      "id": 118,
+      "index": 118,
+      "character": "PROTHERO",
+      "gender": "Male",
+      "line": "Wait, wait. You're, you're the one that blew the Bailey.",
+      "wordCount": 10
+    },
+    {
+      "id": 119,
+      "index": 119,
+      "character": "PROTHERO",
+      "gender": "Male",
+      "line": "You're making a mistake. I'm nobody --",
+      "wordCount": 7
+    },
+    {
+      "id": 120,
+      "index": 120,
+      "character": "PROTHERO",
+      "gender": "Male",
+      "line": "Oh god, what do you want?",
+      "wordCount": 6
+    },
+    {
+      "id": 121,
+      "index": 121,
+      "character": "PROTHERO",
+      "gender": "Male",
+      "line": "What -- What did you call me?",
+      "wordCount": 7
+    },
+    {
+      "id": 122,
+      "index": 122,
+      "character": "V",
+      "gender": "Male",
+      "line": "Where they sent the undesirables.",
+      "wordCount": 5
+    },
+    {
+      "id": 123,
+      "index": 123,
+      "character": "PROTHERO",
+      "gender": "Male",
+      "line": "I don't know what you're talking about.",
+      "wordCount": 7
+    },
+    {
+      "id": 124,
+      "index": 124,
+      "character": "V",
+      "gender": "Male",
+      "line": "You were a man of many responsibilities. You made sure Larkhill made all its quotas, especially the oven quotas even though they required an excessive amount of maintenance.",
+      "wordCount": 28
+    },
+    {
+      "id": 125,
+      "index": 125,
+      "character": "V",
+      "gender": "Male",
+      "line": "But there was one task you took to with exceptional relish. Remember the medical block, Commander? I believe you called it the funny farm. You were the one that selected the prisoners. You hand picked each one.",
+      "wordCount": 37
+    },
+    {
+      "id": 126,
+      "index": 126,
+      "character": "PROTHERO",
+      "gender": "Male",
+      "line": "Her.",
+      "wordCount": 1
+    },
+    {
+      "id": 127,
+      "index": 127,
+      "character": "PROTHERO",
+      "gender": "Male",
+      "line": "You.",
+      "wordCount": 1
+    },
+    {
+      "id": 128,
+      "index": 128,
+      "character": "PROTHERO",
+      "gender": "Male",
+      "line": "You! You're him, aren't you?",
+      "wordCount": 5
+    },
+    {
+      "id": 129,
+      "index": 129,
+      "character": "PROTHERO",
+      "gender": "Male",
+      "line": "Oh my god! What are you going to do?",
+      "wordCount": 9
+    },
+    {
+      "id": 130,
+      "index": 130,
+      "character": "PROTHERO",
+      "gender": "Male",
+      "line": "Oh no, no! Please I was just doing what I was told!",
+      "wordCount": 12
+    },
+    {
+      "id": 131,
+      "index": 131,
+      "character": "PROTHERO",
+      "gender": "Male",
+      "line": "Please, don't make me do this...",
+      "wordCount": 6
+    },
+    {
+      "id": 132,
+      "index": 132,
+      "character": "PROTHERO",
+      "gender": "Male",
+      "line": "I'll see you in hell.",
+      "wordCount": 5
+    },
+    {
+      "id": 133,
+      "index": 133,
+      "character": "TRAIN MAN",
+      "gender": "NA",
+      "line": "This door's locked!",
+      "wordCount": 3
+    },
+    {
+      "id": 134,
+      "index": 134,
+      "character": "TRAIN MAN",
+      "gender": "NA",
+      "line": "Holy Christ!",
+      "wordCount": 2
+    },
+    {
+      "id": 135,
+      "index": 135,
+      "character": "TRAIN MAN",
+      "gender": "NA",
+      "line": "What happened here?",
+      "wordCount": 3
+    },
+    {
+      "id": 136,
+      "index": 136,
+      "character": "TRAIN MAN",
+      "gender": "NA",
+      "line": "Good lord! I need a medic here.",
+      "wordCount": 7
+    },
+    {
+      "id": 137,
+      "index": 137,
+      "character": "PROTHERO",
+      "gender": "Male",
+      "line": "Fi... Fi... Fi...",
+      "wordCount": 3
+    },
+    {
+      "id": 138,
+      "index": 138,
+      "character": "PROTHERO",
+      "gender": "Male",
+      "line": "Five.",
+      "wordCount": 1
+    },
+    {
+      "id": 139,
+      "index": 139,
+      "character": "PROTHERO",
+      "gender": "Male",
+      "line": "Room five.",
+      "wordCount": 2
+    },
+    {
+      "id": 140,
+      "index": 140,
+      "character": "DOMINIC",
+      "gender": "Male",
+      "line": "What do you make of this, Mr. Finch?",
+      "wordCount": 8
+    },
+    {
+      "id": 141,
+      "index": 141,
+      "character": "FINCH",
+      "gender": "Male",
+      "line": "Hmm. It's a rose. A violet carson, I believe. Strange.",
+      "wordCount": 10
+    },
+    {
+      "id": 142,
+      "index": 142,
+      "character": "DOMINIC",
+      "gender": "Male",
+      "line": "Strange?",
+      "wordCount": 1
+    },
+    {
+      "id": 143,
+      "index": 143,
+      "character": "FINCH",
+      "gender": "Male",
+      "line": "I didn't think they still existed.",
+      "wordCount": 6
+    },
+    {
+      "id": 144,
+      "index": 144,
+      "character": "SOLDIER",
+      "gender": "NA",
+      "line": "Mr. Finch! Sir!",
+      "wordCount": 3
+    },
+    {
+      "id": 145,
+      "index": 145,
+      "character": "SOLDIER",
+      "gender": "NA",
+      "line": "Sir, they want you at headquarters, sir.",
+      "wordCount": 7
+    },
+    {
+      "id": 146,
+      "index": 146,
+      "character": "FINCH",
+      "gender": "Male",
+      "line": "Now?",
+      "wordCount": 1
+    },
+    {
+      "id": 147,
+      "index": 147,
+      "character": "SOLDIER",
+      "gender": "NA",
+      "line": "Yes, sir. I'm to transport you immediately.",
+      "wordCount": 7
+    },
+    {
+      "id": 148,
+      "index": 148,
+      "character": "FINCH",
+      "gender": "Male",
+      "line": "Send the rose to the lab. Also, scrape a sample of this paint and have it analyzed as well. I'll be back as soon as I can.",
+      "wordCount": 27
+    },
+    {
+      "id": 149,
+      "index": 149,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "Ah, Mr. Finch. I sent for you because what I have to say cannot be said over a phone or a radio. What I have to say cannot leave these four walls. Do I make myself clear?",
+      "wordCount": 37
+    },
+    {
+      "id": 150,
+      "index": 150,
+      "character": "FINCH",
+      "gender": "Male",
+      "line": "Yes, sir.",
+      "wordCount": 2
+    },
+    {
+      "id": 151,
+      "index": 151,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "I believe in a few things, Mr. Finch. I believe in god. I believe in the destiny of the Nordic race. And I believe in fascism. The romans invented fascism. They had a symbol for it; a bundle of twigs bound together. One twig could be broken but a bundle would prevail. That is the heart and soul of fascism. Strength in unity. I tell you these things knowing full well that they make you uncomfortable.",
+      "wordCount": 76
+    },
+    {
+      "id": 152,
+      "index": 152,
+      "character": "FINCH",
+      "gender": "Male",
+      "line": "Well, I...",
+      "wordCount": 2
+    },
+    {
+      "id": 153,
+      "index": 153,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "You have in fact expressed your discomfort in several arrest reports, arrests that were, in your opinion, \"unnecessary.\" The fact that you are here, that you are not rotting in a prison cell, is a mark of my respect and admiration for you, for your craft, and for what you have done for this country.",
+      "wordCount": 55
+    },
+    {
+      "id": 154,
+      "index": 154,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "It is also because I know you, Finch. I know what you are. You're a man like me. A man who understands when they are given a job what must be done. I understand you, Finch, and that is why I can trust you.",
+      "wordCount": 44
+    },
+    {
+      "id": 155,
+      "index": 155,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "This terrorist knows us, Finch. These attacks are perfectly calculated and they are divisive. He knows what he's doing, Finch. He knows us all too well.",
+      "wordCount": 26
+    },
+    {
+      "id": 156,
+      "index": 156,
+      "character": "FINCH",
+      "gender": "Male",
+      "line": "You think he's an insider?",
+      "wordCount": 5
+    },
+    {
+      "id": 157,
+      "index": 157,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "What I think is that this man must be stopped. Stopped at all costs and no one, I repeat, no one is to be placed above suspicion. Do I make myself clear?",
+      "wordCount": 32
+    },
+    {
+      "id": 158,
+      "index": 158,
+      "character": "FINCH",
+      "gender": "Male",
+      "line": "Perfectly.",
+      "wordCount": 1
+    },
+    {
+      "id": 159,
+      "index": 159,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "England prevails, Mr. Finch.",
+      "wordCount": 4
+    },
+    {
+      "id": 160,
+      "index": 160,
+      "character": "FINCH",
+      "gender": "Male",
+      "line": "England prevails.",
+      "wordCount": 2
+    },
+    {
+      "id": 161,
+      "index": 161,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "V, v, v, v, v.",
+      "wordCount": 5
+    },
+    {
+      "id": 162,
+      "index": 162,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "Oh, V, you scared me.",
+      "wordCount": 5
+    },
+    {
+      "id": 163,
+      "index": 163,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "I was reading the inscription. What is it?",
+      "wordCount": 8
+    },
+    {
+      "id": 164,
+      "index": 164,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "Yes, I suppose you have. This place is the only universe I have right now.",
+      "wordCount": 15
+    },
+    {
+      "id": 165,
+      "index": 165,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "I don't know. I'm so grateful to you -- I just feel I should help you, you know, the way you're helping me. I mean, that's the deal, isn't it?",
+      "wordCount": 30
+    },
+    {
+      "id": 166,
+      "index": 166,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "I think I do. Part of me wants to stay here forever and never have to face what's going on outside. But that's not right. Is it? That's not taking responsibility. Not conquering my universe.",
+      "wordCount": 35
+    },
+    {
+      "id": 167,
+      "index": 167,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "I want to help you, V. I want to do something. Can we make a deal?",
+      "wordCount": 16
+    },
+    {
+      "id": 168,
+      "index": 168,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "Good. That's that, then.",
+      "wordCount": 4
+    },
+    {
+      "id": 169,
+      "index": 169,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "V, you said that Latin thing was a quote. Who said it?",
+      "wordCount": 12
+    },
+    {
+      "id": 170,
+      "index": 170,
+      "character": "CONRAD",
+      "gender": "NA",
+      "line": "Hello, Rosemary. Derek, how --",
+      "wordCount": 5
+    },
+    {
+      "id": 171,
+      "index": 171,
+      "character": "HELEN",
+      "gender": "NA",
+      "line": "Derek!",
+      "wordCount": 1
+    },
+    {
+      "id": 172,
+      "index": 172,
+      "character": "HELEN",
+      "gender": "NA",
+      "line": "Darling, how are you? Hello, Rosemary.",
+      "wordCount": 6
+    },
+    {
+      "id": 173,
+      "index": 173,
+      "character": "ROSEMARY",
+      "gender": "NA",
+      "line": "Hello.",
+      "wordCount": 1
+    },
+    {
+      "id": 174,
+      "index": 174,
+      "character": "DEREK",
+      "gender": "NA",
+      "line": "It's so good to see you. Since this bloody terrorist business, the old man has me literally chained to the office.",
+      "wordCount": 21
+    },
+    {
+      "id": 175,
+      "index": 175,
+      "character": "HELEN",
+      "gender": "NA",
+      "line": "Oh, you poor dear.",
+      "wordCount": 4
+    },
+    {
+      "id": 176,
+      "index": 176,
+      "character": "DEREK",
+      "gender": "NA",
+      "line": "It comes with the job. How are things in the Eye, Conrad?",
+      "wordCount": 12
+    },
+    {
+      "id": 177,
+      "index": 177,
+      "character": "CONRAD",
+      "gender": "NA",
+      "line": "Well, we've been working some bugs out of the new Mark IX fiber optic network, actually --",
+      "wordCount": 17
+    },
+    {
+      "id": 178,
+      "index": 178,
+      "character": "HELEN",
+      "gender": "NA",
+      "line": "Oh, Conrad, don't be such a bloody bore. Do tell us about the terrorist, Derek. Is it true he blew up Big Ben and the old Bailey?",
+      "wordCount": 27
+    },
+    {
+      "id": 179,
+      "index": 179,
+      "character": "DEREK",
+      "gender": "NA",
+      "line": "I'm afraid so. We're dealing with a pathological psychotic in the most extreme case. We'll catch him though. I promise.",
+      "wordCount": 20
+    },
+    {
+      "id": 180,
+      "index": 180,
+      "character": "HELEN",
+      "gender": "NA",
+      "line": "Oh, it sounds dreadfully exciting. Aren't you glad you've got such a ruthless, implacable brute for a husband, Rosemary?",
+      "wordCount": 19
+    },
+    {
+      "id": 181,
+      "index": 181,
+      "character": "ROSEMARY",
+      "gender": "NA",
+      "line": "Yes, well --",
+      "wordCount": 3
+    },
+    {
+      "id": 182,
+      "index": 182,
+      "character": "HELEN",
+      "gender": "NA",
+      "line": "Believe me, you're lucky. You could be struck with a professional peeping tom like Conrad. England's highest paid voyeur, aren't you darling?",
+      "wordCount": 22
+    },
+    {
+      "id": 183,
+      "index": 183,
+      "character": "CONRAD",
+      "gender": "NA",
+      "line": "Helen, I think we'd better --",
+      "wordCount": 6
+    },
+    {
+      "id": 184,
+      "index": 184,
+      "character": "HELEN",
+      "gender": "NA",
+      "line": "Oh yes, of course. We have to get back so the little pervert can watch what the neighbors do after Sunday lunch. He's so exciting.",
+      "wordCount": 25
+    },
+    {
+      "id": 185,
+      "index": 185,
+      "character": "HELEN",
+      "gender": "NA",
+      "line": "Ciao!",
+      "wordCount": 1
+    },
+    {
+      "id": 186,
+      "index": 186,
+      "character": "DEREK",
+      "gender": "NA",
+      "line": "Goodbye, Helen. Conrad.",
+      "wordCount": 3
+    },
+    {
+      "id": 187,
+      "index": 187,
+      "character": "ROSEMARY",
+      "gender": "NA",
+      "line": "She's a bit hard on him, isn't she?",
+      "wordCount": 8
+    },
+    {
+      "id": 188,
+      "index": 188,
+      "character": "DEREK",
+      "gender": "NA",
+      "line": "Until you're half the woman of Helen's sophistication, I'd keep your little mouth shut.",
+      "wordCount": 14
+    },
+    {
+      "id": 189,
+      "index": 189,
+      "character": "DEREK",
+      "gender": "NA",
+      "line": "Really, just look at the way you dress.",
+      "wordCount": 8
+    },
+    {
+      "id": 190,
+      "index": 190,
+      "character": "LILLIMAN",
+      "gender": "Male",
+      "line": "Ah, there they go. My happy and contented flock. Spiritually refreshed and ready to face the world again.",
+      "wordCount": 18
+    },
+    {
+      "id": 191,
+      "index": 191,
+      "character": "LILLIMAN",
+      "gender": "Male",
+      "line": "Did you enjoy the sermon today, Dennis?",
+      "wordCount": 7
+    },
+    {
+      "id": 192,
+      "index": 192,
+      "character": "DENNIS",
+      "gender": "NA",
+      "line": "Very inspiring, your grace. Though the segue of the forces of Satan among us did strike me as a bit of a curious digression.",
+      "wordCount": 24
+    },
+    {
+      "id": 193,
+      "index": 193,
+      "character": "LILLIMAN",
+      "gender": "Male",
+      "line": "Hmm, yes. A trifle purple, I thought. Still, Fate wanted it included and who are we to question the will of the almighty, miserable sinners that we are?",
+      "wordCount": 28
+    },
+    {
+      "id": 194,
+      "index": 194,
+      "character": "LILLIMAN",
+      "gender": "Male",
+      "line": "And speaking of sin, I wonder which of the seven deadlies the good lord will see fit to tempt me with today.",
+      "wordCount": 22
+    },
+    {
+      "id": 195,
+      "index": 195,
+      "character": "DENNIS",
+      "gender": "NA",
+      "line": "Perhaps pride, your grace.",
+      "wordCount": 4
+    },
+    {
+      "id": 196,
+      "index": 196,
+      "character": "LILLIMAN",
+      "gender": "Male",
+      "line": "I was thinking of something a little less ethereal. Has the young lady arrived?",
+      "wordCount": 14
+    },
+    {
+      "id": 197,
+      "index": 197,
+      "character": "DENNIS",
+      "gender": "NA",
+      "line": "The agency informed me she'll be here directly. However, there was a mixup. It's not one of the usual girls. She's a little older.",
+      "wordCount": 24
+    },
+    {
+      "id": 198,
+      "index": 198,
+      "character": "LILLIMAN",
+      "gender": "Male",
+      "line": "Oh dear. Oh dear. Not too old, I trust?",
+      "wordCount": 9
+    },
+    {
+      "id": 199,
+      "index": 199,
+      "character": "DENNIS",
+      "gender": "NA",
+      "line": "They promise me she's no more than fifteen.",
+      "wordCount": 8
+    },
+    {
+      "id": 200,
+      "index": 200,
+      "character": "LILLIMAN",
+      "gender": "Male",
+      "line": "Fifteen, hmm.",
+      "wordCount": 2
+    },
+    {
+      "id": 201,
+      "index": 201,
+      "character": "LILLIMAN",
+      "gender": "Male",
+      "line": "Ah well, if Job could bear his disappointments, I suppose I must have the good grace to bear mine. Show her in when she arrives.",
+      "wordCount": 25
+    },
+    {
+      "id": 202,
+      "index": 202,
+      "character": "DENNIS",
+      "gender": "NA",
+      "line": "Yes, your grace.",
+      "wordCount": 3
+    },
+    {
+      "id": 203,
+      "index": 203,
+      "character": "DENNIS",
+      "gender": "NA",
+      "line": "The young lady, your grace.",
+      "wordCount": 5
+    },
+    {
+      "id": 204,
+      "index": 204,
+      "character": "LILLIMAN",
+      "gender": "Male",
+      "line": "Oh my!",
+      "wordCount": 2
+    },
+    {
+      "id": 205,
+      "index": 205,
+      "character": "LILLIMAN",
+      "gender": "Male",
+      "line": "And to think I doubted your loveliness for even an instant. Mea culpa, my child, mea culpa. You are a vision. An angel.",
+      "wordCount": 23
+    },
+    {
+      "id": 206,
+      "index": 206,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "Uh... thank you.",
+      "wordCount": 3
+    },
+    {
+      "id": 207,
+      "index": 207,
+      "character": "LILLIMAN",
+      "gender": "Male",
+      "line": "Of course, \"hate the sin, love the sinner.\" I always say. Take your dress off, please.",
+      "wordCount": 16
+    },
+    {
+      "id": 208,
+      "index": 208,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "Listen -- I was kind of hoping --",
+      "wordCount": 8
+    },
+    {
+      "id": 209,
+      "index": 209,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "No --",
+      "wordCount": 2
+    },
+    {
+      "id": 210,
+      "index": 210,
+      "character": "LILLIMAN",
+      "gender": "Male",
+      "line": "You -- You filthy whore!",
+      "wordCount": 5
+    },
+    {
+      "id": 211,
+      "index": 211,
+      "character": "LILLIMAN",
+      "gender": "Male",
+      "line": "I'll kill you, you fucking sow.",
+      "wordCount": 6
+    },
+    {
+      "id": 212,
+      "index": 212,
+      "character": "LILLIMAN",
+      "gender": "Male",
+      "line": "What's this? Who --",
+      "wordCount": 4
+    },
+    {
+      "id": 213,
+      "index": 213,
+      "character": "LILLIMAN",
+      "gender": "Male",
+      "line": "Dennis?",
+      "wordCount": 1
+    },
+    {
+      "id": 214,
+      "index": 214,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "V?",
+      "wordCount": 1
+    },
+    {
+      "id": 215,
+      "index": 215,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "V, what are you doing?",
+      "wordCount": 5
+    },
+    {
+      "id": 216,
+      "index": 216,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "Oh no.",
+      "wordCount": 2
+    },
+    {
+      "id": 217,
+      "index": 217,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "You can't kill him!",
+      "wordCount": 4
+    },
+    {
+      "id": 218,
+      "index": 218,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "Oh god, V. I can't -- I can't --",
+      "wordCount": 9
+    },
+    {
+      "id": 219,
+      "index": 219,
+      "character": "DOMINIC",
+      "gender": "Male",
+      "line": "No prints yet, sir. Just like Prothero.",
+      "wordCount": 7
+    },
+    {
+      "id": 220,
+      "index": 220,
+      "character": "FINCH",
+      "gender": "Male",
+      "line": "I want those tapes from the Ear in my office tonight, Dominic.",
+      "wordCount": 12
+    },
+    {
+      "id": 221,
+      "index": 221,
+      "character": "DOMINIC",
+      "gender": "Male",
+      "line": "Yes, sir. They're on top of it.",
+      "wordCount": 7
+    },
+    {
+      "id": 222,
+      "index": 222,
+      "character": "FINCH",
+      "gender": "Male",
+      "line": "Any word from your superior, Mr. Creedy?",
+      "wordCount": 7
+    },
+    {
+      "id": 223,
+      "index": 223,
+      "character": "CREEDY",
+      "gender": "Male",
+      "line": "Mr. Almond doesn't seem to be answering his page, sir. I'm sure he's in the field.",
+      "wordCount": 16
+    },
+    {
+      "id": 224,
+      "index": 224,
+      "character": "FINCH",
+      "gender": "Male",
+      "line": "Quite.",
+      "wordCount": 1
+    },
+    {
+      "id": 225,
+      "index": 225,
+      "character": "HELEN",
+      "gender": "NA",
+      "line": "There you go, baby. Now my baby boy can think so much clearer. Can't he?",
+      "wordCount": 15
+    },
+    {
+      "id": 226,
+      "index": 226,
+      "character": "HELEN",
+      "gender": "NA",
+      "line": "You have been thinking, haven't you?",
+      "wordCount": 6
+    },
+    {
+      "id": 227,
+      "index": 227,
+      "character": "HELEN",
+      "gender": "NA",
+      "line": "I know you have. Ever since this terrorist appeared.",
+      "wordCount": 9
+    },
+    {
+      "id": 228,
+      "index": 228,
+      "character": "HELEN",
+      "gender": "NA",
+      "line": "Oh jesus, that smile. That smile turns me on like nothing else.",
+      "wordCount": 12
+    },
+    {
+      "id": 229,
+      "index": 229,
+      "character": "HELEN",
+      "gender": "NA",
+      "line": "Tell me. Tell me what's going on in that ruthless sadistic brain of yours.",
+      "wordCount": 14
+    },
+    {
+      "id": 230,
+      "index": 230,
+      "character": "DEREK",
+      "gender": "NA",
+      "line": "Everyone is so worried about the terrorist. Especially Susan. You know why? Because nobody knows what he's going to do.",
+      "wordCount": 20
+    },
+    {
+      "id": 231,
+      "index": 231,
+      "character": "DEREK",
+      "gender": "NA",
+      "line": "If I were him, I know what I'd do.",
+      "wordCount": 9
+    },
+    {
+      "id": 232,
+      "index": 232,
+      "character": "DEREK",
+      "gender": "NA",
+      "line": "I'd blow that fat bastard to kingdom come.",
+      "wordCount": 8
+    },
+    {
+      "id": 233,
+      "index": 233,
+      "character": "HELEN",
+      "gender": "NA",
+      "line": "No. You're kidding.",
+      "wordCount": 3
+    },
+    {
+      "id": 234,
+      "index": 234,
+      "character": "DEREK",
+      "gender": "NA",
+      "line": "Am I?",
+      "wordCount": 2
+    },
+    {
+      "id": 235,
+      "index": 235,
+      "character": "DEREK",
+      "gender": "NA",
+      "line": "There's an old train line under the New Government Building. It collapsed when they poured the foundation. You could haul in enough TNT to launch our Leader's ass all the way to the moon.",
+      "wordCount": 34
+    },
+    {
+      "id": 236,
+      "index": 236,
+      "character": "HELEN",
+      "gender": "NA",
+      "line": "You're serious, aren't you?",
+      "wordCount": 4
+    },
+    {
+      "id": 237,
+      "index": 237,
+      "character": "DEREK",
+      "gender": "NA",
+      "line": "You need to be careful, Helen. Your mouth is going to get you into trouble one day.",
+      "wordCount": 17
+    },
+    {
+      "id": 238,
+      "index": 238,
+      "character": "HELEN",
+      "gender": "NA",
+      "line": "Is that the same trouble you love putting in my mouth?",
+      "wordCount": 11
+    },
+    {
+      "id": 239,
+      "index": 239,
+      "character": "DEREK",
+      "gender": "NA",
+      "line": "You never know who might be listening.",
+      "wordCount": 7
+    },
+    {
+      "id": 240,
+      "index": 240,
+      "character": "HELEN",
+      "gender": "NA",
+      "line": "I know, Derek. You love your country and you love your party, just like you love your wife.",
+      "wordCount": 18
+    },
+    {
+      "id": 241,
+      "index": 241,
+      "character": "HELEN",
+      "gender": "NA",
+      "line": "Derek. I'm sorry. I know I can be a bitch. But that's why you're here, isn't it?",
+      "wordCount": 17
+    },
+    {
+      "id": 242,
+      "index": 242,
+      "character": "HELEN",
+      "gender": "NA",
+      "line": "This is it, isn't it, Derek? What we've been waiting for. At last, you'll be rid of Susan. I'll be rid of Conrad. And we'll be free. Free, won't we?",
+      "wordCount": 30
+    },
+    {
+      "id": 243,
+      "index": 243,
+      "character": "DOMINIC",
+      "gender": "Male",
+      "line": "Sorry it took so long. The boys had a devil of a time trying to filter out the background noise.",
+      "wordCount": 20
+    },
+    {
+      "id": 244,
+      "index": 244,
+      "character": "FINCH",
+      "gender": "Male",
+      "line": "Background noise?",
+      "wordCount": 2
+    },
+    {
+      "id": 245,
+      "index": 245,
+      "character": "DOMINIC",
+      "gender": "Male",
+      "line": "The perpetrator apparently turned on the Bishop's stereo. Subsequently, a great deal of the tape is useless.",
+      "wordCount": 17
+    },
+    {
+      "id": 246,
+      "index": 246,
+      "character": "FINCH",
+      "gender": "Male",
+      "line": "What music did he play?",
+      "wordCount": 5
+    },
+    {
+      "id": 247,
+      "index": 247,
+      "character": "DOMINIC",
+      "gender": "Male",
+      "line": "Beethoven. The fifth, I believe.",
+      "wordCount": 5
+    },
+    {
+      "id": 248,
+      "index": 248,
+      "character": "FINCH",
+      "gender": "Male",
+      "line": "Da, da, da, dum. That's code. Morse code.",
+      "wordCount": 8
+    },
+    {
+      "id": 249,
+      "index": 249,
+      "character": "DOMINIC",
+      "gender": "Male",
+      "line": "Sir?",
+      "wordCount": 1
+    },
+    {
+      "id": 250,
+      "index": 250,
+      "character": "FINCH",
+      "gender": "Male",
+      "line": "For the letter \"V\".",
+      "wordCount": 4
+    },
+    {
+      "id": 251,
+      "index": 251,
+      "character": "FINCH",
+      "gender": "Male",
+      "line": "Anything on the girl yet?",
+      "wordCount": 5
+    },
+    {
+      "id": 252,
+      "index": 252,
+      "character": "DOMINIC",
+      "gender": "Male",
+      "line": "No. The agency said somebody claiming to be Lilliman's valet canceled his Sunday appointment.",
+      "wordCount": 14
+    },
+    {
+      "id": 253,
+      "index": 253,
+      "character": "FINCH",
+      "gender": "Male",
+      "line": "What is it?",
+      "wordCount": 3
+    },
+    {
+      "id": 254,
+      "index": 254,
+      "character": "DOMINIC",
+      "gender": "Male",
+      "line": "23rd Psalm.",
+      "wordCount": 2
+    },
+    {
+      "id": 255,
+      "index": 255,
+      "character": "TAPE",
+      "gender": "NA",
+      "line": "Though I walk through the valley of the shadow of death...",
+      "wordCount": 11
+    },
+    {
+      "id": 256,
+      "index": 256,
+      "character": "DOMINIC",
+      "gender": "Male",
+      "line": "It goes on like that for a while. Fairly incoherent except we could make out a few words in this part. Transubstantiation.",
+      "wordCount": 22
+    },
+    {
+      "id": 257,
+      "index": 257,
+      "character": "DOMINIC",
+      "gender": "Male",
+      "line": "That miracle business when the wafer transform into the body of Christ.",
+      "wordCount": 12
+    },
+    {
+      "id": 258,
+      "index": 258,
+      "character": "FINCH",
+      "gender": "Male",
+      "line": "He made him eat a host.",
+      "wordCount": 6
+    },
+    {
+      "id": 259,
+      "index": 259,
+      "character": "DOMINIC",
+      "gender": "Male",
+      "line": "Yes, listen to this part.",
+      "wordCount": 5
+    },
+    {
+      "id": 260,
+      "index": 260,
+      "character": "TAPE",
+      "gender": "NA",
+      "line": "... And at the moment this enters your mouth it becomes the flesh of the savior? Yes... please... And whatever it is made of now it will become the body of Christ? Yes... yes...",
+      "wordCount": 34
+    },
+    {
+      "id": 261,
+      "index": 261,
+      "character": "TAPE",
+      "gender": "NA",
+      "line": "I want you to swallow it.",
+      "wordCount": 6
+    },
+    {
+      "id": 262,
+      "index": 262,
+      "character": "DOMINIC",
+      "gender": "Male",
+      "line": "There's a couple of funny human noises...",
+      "wordCount": 7
+    },
+    {
+      "id": 263,
+      "index": 263,
+      "character": "FINCH",
+      "gender": "Male",
+      "line": "And then just Beethoven's fifth.",
+      "wordCount": 5
+    },
+    {
+      "id": 264,
+      "index": 264,
+      "character": "FINCH",
+      "gender": "Male",
+      "line": "We have got the initial path report back. The host was full of cyanide.",
+      "wordCount": 14
+    },
+    {
+      "id": 265,
+      "index": 265,
+      "character": "FINCH",
+      "gender": "Male",
+      "line": "And do you know what?",
+      "wordCount": 5
+    },
+    {
+      "id": 266,
+      "index": 266,
+      "character": "FINCH",
+      "gender": "Male",
+      "line": "When it reached his abdomen, it was still cyanide.",
+      "wordCount": 9
+    },
+    {
+      "id": 267,
+      "index": 267,
+      "character": "DELIA",
+      "gender": "Female",
+      "line": "Do you have a motive?",
+      "wordCount": 5
+    },
+    {
+      "id": 268,
+      "index": 268,
+      "character": "DELIA",
+      "gender": "Female",
+      "line": "I mean, was anything taken?",
+      "wordCount": 5
+    },
+    {
+      "id": 269,
+      "index": 269,
+      "character": "FINCH",
+      "gender": "Male",
+      "line": "Just lives.",
+      "wordCount": 2
+    },
+    {
+      "id": 270,
+      "index": 270,
+      "character": "FINCH",
+      "gender": "Male",
+      "line": "I know it's too early for your profile but do you have any initial impressions?",
+      "wordCount": 15
+    },
+    {
+      "id": 271,
+      "index": 271,
+      "character": "DELIA",
+      "gender": "Female",
+      "line": "Well...",
+      "wordCount": 1
+    },
+    {
+      "id": 272,
+      "index": 272,
+      "character": "DELIA",
+      "gender": "Female",
+      "line": "He's incredibly powerful. This man's sternum was split like dry wood from the base all the way up to the manubrium.",
+      "wordCount": 21
+    },
+    {
+      "id": 273,
+      "index": 273,
+      "character": "DELIA",
+      "gender": "Female",
+      "line": "And he's resourceful. On that table behind you is a breakdown of all the chemicals found in Prothero's blood stream.",
+      "wordCount": 20
+    },
+    {
+      "id": 274,
+      "index": 274,
+      "character": "FINCH",
+      "gender": "Male",
+      "line": "Bloody hell.",
+      "wordCount": 2
+    },
+    {
+      "id": 275,
+      "index": 275,
+      "character": "DELIA",
+      "gender": "Female",
+      "line": "There were hundreds of different chemicals in him. From trinitrotoluene to estrogen to motor oil.",
+      "wordCount": 15
+    },
+    {
+      "id": 276,
+      "index": 276,
+      "character": "FINCH",
+      "gender": "Male",
+      "line": "Perhaps Fate will make something more of all this. I certainly can't.",
+      "wordCount": 12
+    },
+    {
+      "id": 277,
+      "index": 277,
+      "character": "DELIA",
+      "gender": "Female",
+      "line": "The Leader finally authorized an uplink for you? He must be getting nervous.",
+      "wordCount": 13
+    },
+    {
+      "id": 278,
+      "index": 278,
+      "character": "FINCH",
+      "gender": "Male",
+      "line": "Quite. Government directed terrorism never sews healthy ideas into the public. Oh, that reminds me.",
+      "wordCount": 15
+    },
+    {
+      "id": 279,
+      "index": 279,
+      "character": "FINCH",
+      "gender": "Male",
+      "line": "Can you tell us anything about this?",
+      "wordCount": 7
+    },
+    {
+      "id": 280,
+      "index": 280,
+      "character": "FINCH",
+      "gender": "Male",
+      "line": "We found one in the carriage with Prothero and this one in the Bishop's quarters. A violet carson.",
+      "wordCount": 18
+    },
+    {
+      "id": 281,
+      "index": 281,
+      "character": "FINCH",
+      "gender": "Male",
+      "line": "I heard that strain had died off. Thought a botanist might shed some light on it. Delia?",
+      "wordCount": 17
+    },
+    {
+      "id": 282,
+      "index": 282,
+      "character": "DELIA",
+      "gender": "Female",
+      "line": "Yes -- Yes, of course.",
+      "wordCount": 5
+    },
+    {
+      "id": 283,
+      "index": 283,
+      "character": "FINCH",
+      "gender": "Male",
+      "line": "Magic. I'll drop by tomorrow then.",
+      "wordCount": 6
+    },
+    {
+      "id": 284,
+      "index": 284,
+      "character": "CREEDY",
+      "gender": "Male",
+      "line": "What's all this, then, Harper? I get a radio that a man's down and in need of assistance?",
+      "wordCount": 18
+    },
+    {
+      "id": 285,
+      "index": 285,
+      "character": "HARPER",
+      "gender": "NA",
+      "line": "I ain't gone down yet but I sure do need some assistance.",
+      "wordCount": 12
+    },
+    {
+      "id": 286,
+      "index": 286,
+      "character": "CREEDY",
+      "gender": "Male",
+      "line": "Are you flat broke already?",
+      "wordCount": 5
+    },
+    {
+      "id": 287,
+      "index": 287,
+      "character": "LOUT",
+      "gender": "NA",
+      "line": "How'd you sneak away, Creedy? Almond off buggering that blonde chippy?",
+      "wordCount": 11
+    },
+    {
+      "id": 288,
+      "index": 288,
+      "character": "HARPER",
+      "gender": "NA",
+      "line": "The one with the tits?",
+      "wordCount": 5
+    },
+    {
+      "id": 289,
+      "index": 289,
+      "character": "CREEDY",
+      "gender": "Male",
+      "line": "What I wouldn't give for a piece of that.",
+      "wordCount": 9
+    },
+    {
+      "id": 290,
+      "index": 290,
+      "character": "LOUT",
+      "gender": "NA",
+      "line": "She could serve a tray of drinks on those thingies.",
+      "wordCount": 10
+    },
+    {
+      "id": 291,
+      "index": 291,
+      "character": "HARPER",
+      "gender": "NA",
+      "line": "I bet you get your chance with her sooner than later, Creedy, with the way Almond's crackin' up.",
+      "wordCount": 18
+    },
+    {
+      "id": 292,
+      "index": 292,
+      "character": "LOUT",
+      "gender": "NA",
+      "line": "Bloody bugger's losing his marbles.",
+      "wordCount": 5
+    },
+    {
+      "id": 293,
+      "index": 293,
+      "character": "HARPER",
+      "gender": "NA",
+      "line": "Terrorist or no, if that bastard gives me another double shift, I'll stomp his fucking head.",
+      "wordCount": 16
+    },
+    {
+      "id": 294,
+      "index": 294,
+      "character": "CREEDY",
+      "gender": "Male",
+      "line": "Aye. This nonsense has put a serious strain on my drinking. I think I was actually sober today.",
+      "wordCount": 18
+    },
+    {
+      "id": 295,
+      "index": 295,
+      "character": "LOUT",
+      "gender": "NA",
+      "line": "I'll drink to that.",
+      "wordCount": 4
+    },
+    {
+      "id": 296,
+      "index": 296,
+      "character": "HARPER",
+      "gender": "NA",
+      "line": "We need to get a real man of the people in that director's position. Like Creedy here.",
+      "wordCount": 17
+    },
+    {
+      "id": 297,
+      "index": 297,
+      "character": "CREEDY",
+      "gender": "Male",
+      "line": "Well, it's good to know when the shit hits the fan who your real friends are.",
+      "wordCount": 16
+    },
+    {
+      "id": 298,
+      "index": 298,
+      "character": "ROSEMARY",
+      "gender": "NA",
+      "line": "Derek --",
+      "wordCount": 2
+    },
+    {
+      "id": 299,
+      "index": 299,
+      "character": "DEREK",
+      "gender": "NA",
+      "line": "I don't want to hear it, Rosemary.",
+      "wordCount": 7
+    },
+    {
+      "id": 300,
+      "index": 300,
+      "character": "ROSEMARY",
+      "gender": "NA",
+      "line": "Derek, please! We can't carry on like this.",
+      "wordCount": 8
+    },
+    {
+      "id": 301,
+      "index": 301,
+      "character": "ROSEMARY",
+      "gender": "NA",
+      "line": "You don't talk to me. You don't eat with me. You don't have sex --",
+      "wordCount": 15
+    },
+    {
+      "id": 302,
+      "index": 302,
+      "character": "DEREK",
+      "gender": "NA",
+      "line": "I don't have to take any crap from you! I have that fat bastard riding me all day. I don't want to listen to you, so shut your fat gob!",
+      "wordCount": 30
+    },
+    {
+      "id": 303,
+      "index": 303,
+      "character": "DEREK",
+      "gender": "NA",
+      "line": "And me not wanting to fuck you is obvious. Take a look at yourself.",
+      "wordCount": 14
+    },
+    {
+      "id": 304,
+      "index": 304,
+      "character": "DEREK",
+      "gender": "NA",
+      "line": "Get out of my sight. I'm cleaning my gun.",
+      "wordCount": 9
+    },
+    {
+      "id": 305,
+      "index": 305,
+      "character": "DOMINIC",
+      "gender": "Male",
+      "line": "I got it!",
+      "wordCount": 3
+    },
+    {
+      "id": 306,
+      "index": 306,
+      "character": "FINCH",
+      "gender": "Male",
+      "line": "A connection?",
+      "wordCount": 2
+    },
+    {
+      "id": 307,
+      "index": 307,
+      "character": "DOMINIC",
+      "gender": "Male",
+      "line": "Larkhill Resettlement Camp. Prothero's and Lilliman's employment records show they both help positions there at similar times.",
+      "wordCount": 17
+    },
+    {
+      "id": 308,
+      "index": 308,
+      "character": "FINCH",
+      "gender": "Male",
+      "line": "What about codename V?",
+      "wordCount": 4
+    },
+    {
+      "id": 309,
+      "index": 309,
+      "character": "DOMINIC",
+      "gender": "Male",
+      "line": "Most of Larkhill's records were destroyed for security reasons but I did uncover an old standard procedures and operations manual.",
+      "wordCount": 20
+    },
+    {
+      "id": 310,
+      "index": 310,
+      "character": "DOMINIC",
+      "gender": "Male",
+      "line": "In special case studies, medical research groups used roman numerals to identify test inmates.",
+      "wordCount": 14
+    },
+    {
+      "id": 311,
+      "index": 311,
+      "character": "FINCH",
+      "gender": "Male",
+      "line": "Five is the letter V. Brilliant, Dominic.",
+      "wordCount": 7
+    },
+    {
+      "id": 312,
+      "index": 312,
+      "character": "FINCH",
+      "gender": "Male",
+      "line": "All we need is Larkhill's employment records.",
+      "wordCount": 7
+    },
+    {
+      "id": 313,
+      "index": 313,
+      "character": "DELIA",
+      "gender": "Female",
+      "line": "Roses.",
+      "wordCount": 1
+    },
+    {
+      "id": 314,
+      "index": 314,
+      "character": "DELIA",
+      "gender": "Female",
+      "line": "It's you, isn't it? You've come to kill me.",
+      "wordCount": 9
+    },
+    {
+      "id": 315,
+      "index": 315,
+      "character": "DELIA",
+      "gender": "Female",
+      "line": "Oh thank god. Thank god.",
+      "wordCount": 5
+    },
+    {
+      "id": 316,
+      "index": 316,
+      "character": "FINCH",
+      "gender": "Male",
+      "line": "Oh my god.",
+      "wordCount": 3
+    },
+    {
+      "id": 317,
+      "index": 317,
+      "character": "FINCH",
+      "gender": "Male",
+      "line": "Oh bloody hell.",
+      "wordCount": 3
+    },
+    {
+      "id": 318,
+      "index": 318,
+      "character": "DOMINIC",
+      "gender": "Male",
+      "line": "He's killed them all? It's not possible.",
+      "wordCount": 7
+    },
+    {
+      "id": 319,
+      "index": 319,
+      "character": "FINCH",
+      "gender": "Male",
+      "line": "Oh no.",
+      "wordCount": 2
+    },
+    {
+      "id": 320,
+      "index": 320,
+      "character": "DELIA",
+      "gender": "Female",
+      "line": "No, no. I thought I would be, but I'm not. I'm --",
+      "wordCount": 12
+    },
+    {
+      "id": 321,
+      "index": 321,
+      "character": "DELIA",
+      "gender": "Female",
+      "line": "Relieved.",
+      "wordCount": 1
+    },
+    {
+      "id": 322,
+      "index": 322,
+      "character": "DELIA",
+      "gender": "Female",
+      "line": "Oh god, all these years. All this waiting. And somehow I always knew you'd come back.",
+      "wordCount": 16
+    },
+    {
+      "id": 323,
+      "index": 323,
+      "character": "DELIA",
+      "gender": "Female",
+      "line": "When I saw you that night -- the night you escaped, you were standing against the flames and you looked straight at me.",
+      "wordCount": 23
+    },
+    {
+      "id": 324,
+      "index": 324,
+      "character": "DELIA",
+      "gender": "Female",
+      "line": "I knew then that one day you'd come looking for me, that you'd find me.",
+      "wordCount": 15
+    },
+    {
+      "id": 325,
+      "index": 325,
+      "character": "DELIA",
+      "gender": "Female",
+      "line": "What -- what happened at Larkhill. What we did -- What I did. That terrible knowledge, it's been with me so long. That I could do things like that.",
+      "wordCount": 29
+    },
+    {
+      "id": 326,
+      "index": 326,
+      "character": "DELIA",
+      "gender": "Female",
+      "line": "For years, I blamed it on the government, on the authority I could never stand up to. But living so long with the knowledge of what I did has made me understand otherwise. I alone was accountable.",
+      "wordCount": 37
+    },
+    {
+      "id": 327,
+      "index": 327,
+      "character": "DELIA",
+      "gender": "Female",
+      "line": "There is something wrong with us. With all of mankind. With me. Something evil that made me enjoy what I did. Some hideous flaw.",
+      "wordCount": 24
+    },
+    {
+      "id": 328,
+      "index": 328,
+      "character": "DELIA",
+      "gender": "Female",
+      "line": "We deserve to be culled. We deserve it.",
+      "wordCount": 8
+    },
+    {
+      "id": 329,
+      "index": 329,
+      "character": "ROSEMARY",
+      "gender": "NA",
+      "line": "Derek? What?",
+      "wordCount": 2
+    },
+    {
+      "id": 330,
+      "index": 330,
+      "character": "DEREK",
+      "gender": "NA",
+      "line": "Bang.",
+      "wordCount": 1
+    },
+    {
+      "id": 331,
+      "index": 331,
+      "character": "DEREK",
+      "gender": "NA",
+      "line": "Don't worry, Rose. I didn't load it.",
+      "wordCount": 7
+    },
+    {
+      "id": 332,
+      "index": 332,
+      "character": "DEREK",
+      "gender": "NA",
+      "line": "Not tonight.",
+      "wordCount": 2
+    },
+    {
+      "id": 333,
+      "index": 333,
+      "character": "DEREK",
+      "gender": "NA",
+      "line": "Almond. What?! Where?",
+      "wordCount": 3
+    },
+    {
+      "id": 334,
+      "index": 334,
+      "character": "DEREK",
+      "gender": "NA",
+      "line": "Oh god, yes! God, thank you!",
+      "wordCount": 6
+    },
+    {
+      "id": 335,
+      "index": 335,
+      "character": "CREEDY",
+      "gender": "Male",
+      "line": "You look lost.",
+      "wordCount": 3
+    },
+    {
+      "id": 336,
+      "index": 336,
+      "character": "CREEDY",
+      "gender": "Male",
+      "line": "Can I buy you a drink?",
+      "wordCount": 6
+    },
+    {
+      "id": 337,
+      "index": 337,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "No... I made a mistake.",
+      "wordCount": 5
+    },
+    {
+      "id": 338,
+      "index": 338,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "I have to find someone.",
+      "wordCount": 5
+    },
+    {
+      "id": 339,
+      "index": 339,
+      "character": "CREEDY",
+      "gender": "Male",
+      "line": "Well I didn't like the looks of you anyway --",
+      "wordCount": 10
+    },
+    {
+      "id": 340,
+      "index": 340,
+      "character": "RADIO",
+      "gender": "NA",
+      "line": "All units, all units. Code red. Converge in Plaistow to apprehend codename V.",
+      "wordCount": 13
+    },
+    {
+      "id": 341,
+      "index": 341,
+      "character": "CREEDY",
+      "gender": "Male",
+      "line": "Bloody hell!",
+      "wordCount": 2
+    },
+    {
+      "id": 342,
+      "index": 342,
+      "character": "CREEDY",
+      "gender": "Male",
+      "line": "It's him! We got him!",
+      "wordCount": 5
+    },
+    {
+      "id": 343,
+      "index": 343,
+      "character": "DELIA",
+      "gender": "Female",
+      "line": "It's funny, I was given one of your roses today. I wasn't sure you were the terrorist until I saw it.",
+      "wordCount": 21
+    },
+    {
+      "id": 344,
+      "index": 344,
+      "character": "DELIA",
+      "gender": "Female",
+      "line": "What a strange coincidence. That I should be given it today.",
+      "wordCount": 11
+    },
+    {
+      "id": 345,
+      "index": 345,
+      "character": "DELIA",
+      "gender": "Female",
+      "line": "Then you are going to kill me now?",
+      "wordCount": 8
+    },
+    {
+      "id": 346,
+      "index": 346,
+      "character": "DELIA",
+      "gender": "Female",
+      "line": "Is there any pain?",
+      "wordCount": 4
+    },
+    {
+      "id": 347,
+      "index": 347,
+      "character": "DELIA",
+      "gender": "Female",
+      "line": "Thank you.",
+      "wordCount": 2
+    },
+    {
+      "id": 348,
+      "index": 348,
+      "character": "DELIA",
+      "gender": "Female",
+      "line": "Can I -- Can I see your face again?",
+      "wordCount": 9
+    },
+    {
+      "id": 349,
+      "index": 349,
+      "character": "DELIA",
+      "gender": "Female",
+      "line": "It's beautiful...",
+      "wordCount": 2
+    },
+    {
+      "id": 350,
+      "index": 350,
+      "character": "DEREK",
+      "gender": "NA",
+      "line": "Don't move an inch, you bloody bastard.",
+      "wordCount": 7
+    },
+    {
+      "id": 351,
+      "index": 351,
+      "character": "DEREK",
+      "gender": "NA",
+      "line": "You didn't hear me arrive, did you? Didn't know we'd rumbled you?",
+      "wordCount": 12
+    },
+    {
+      "id": 352,
+      "index": 352,
+      "character": "DEREK",
+      "gender": "NA",
+      "line": "It's all finished, chummy. All of it. The old man told me it was my head or yours and what do you know. It's yours.",
+      "wordCount": 25
+    },
+    {
+      "id": 353,
+      "index": 353,
+      "character": "DEREK",
+      "gender": "NA",
+      "line": "Because you're standing over there with your bloody stupid knives and your fancy karate gimmicks --",
+      "wordCount": 16
+    },
+    {
+      "id": 354,
+      "index": 354,
+      "character": "DEREK",
+      "gender": "NA",
+      "line": "And I've got a gun.",
+      "wordCount": 5
+    },
+    {
+      "id": 355,
+      "index": 355,
+      "character": "DEREK",
+      "gender": "NA",
+      "line": "Bang.",
+      "wordCount": 1
+    },
+    {
+      "id": 356,
+      "index": 356,
+      "character": "DEREK",
+      "gender": "NA",
+      "line": "Who -- Who are you?",
+      "wordCount": 5
+    },
+    {
+      "id": 357,
+      "index": 357,
+      "character": "DEREK",
+      "gender": "NA",
+      "line": "Horrible! God, it's horrible!",
+      "wordCount": 4
+    },
+    {
+      "id": 358,
+      "index": 358,
+      "character": "FINCH",
+      "gender": "Male",
+      "line": "Delia?",
+      "wordCount": 1
+    },
+    {
+      "id": 359,
+      "index": 359,
+      "character": "FINCH",
+      "gender": "Male",
+      "line": "Get an ambulance.",
+      "wordCount": 3
+    },
+    {
+      "id": 360,
+      "index": 360,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "Oh no... V?",
+      "wordCount": 3
+    },
+    {
+      "id": 361,
+      "index": 361,
+      "character": "DOMINIC",
+      "gender": "Male",
+      "line": "I'm sorry, sir. You knew the doctor pretty well?",
+      "wordCount": 9
+    },
+    {
+      "id": 362,
+      "index": 362,
+      "character": "DOMINIC",
+      "gender": "Male",
+      "line": "We found this on her bureau, sir. It's Dr. Surridge's journal. It covers her years at Larkhill. It might contain the whole story.",
+      "wordCount": 23
+    },
+    {
+      "id": 363,
+      "index": 363,
+      "character": "DELIA",
+      "gender": "Female",
+      "line": "May 23rd...",
+      "wordCount": 2
+    },
+    {
+      "id": 364,
+      "index": 364,
+      "character": "DELIA",
+      "gender": "Female",
+      "line": "Prothero has hand picked my subjects. Four dozen of them, none of which will be any use to me if I don't get to work soon.",
+      "wordCount": 26
+    },
+    {
+      "id": 365,
+      "index": 365,
+      "character": "DELIA",
+      "gender": "Female",
+      "line": "They're so weak and pathetic I find myself hating them.",
+      "wordCount": 10
+    },
+    {
+      "id": 366,
+      "index": 366,
+      "character": "DELIA",
+      "gender": "Female",
+      "line": "They don't fight or struggle. Just stare at you with weak eyes.",
+      "wordCount": 12
+    },
+    {
+      "id": 367,
+      "index": 367,
+      "character": "PROTHERO",
+      "gender": "Male",
+      "line": "Next.",
+      "wordCount": 1
+    },
+    {
+      "id": 368,
+      "index": 368,
+      "character": "DELIA",
+      "gender": "Female",
+      "line": "June 9th: Of the original four dozen, over 75% are now deceased. Strangely, no clear patterns have emerged as of yet.",
+      "wordCount": 21
+    },
+    {
+      "id": 369,
+      "index": 369,
+      "character": "DELIA",
+      "gender": "Female",
+      "line": "Batch 5 seems to have no common discernible effect on any specific group though the men seem slightly more resilient than the women.",
+      "wordCount": 23
+    },
+    {
+      "id": 370,
+      "index": 370,
+      "character": "DELIA",
+      "gender": "Female",
+      "line": "I'm hoping the survivors will provide more answers or my time here will have gone to waste.",
+      "wordCount": 17
+    },
+    {
+      "id": 371,
+      "index": 371,
+      "character": "DELIA",
+      "gender": "Female",
+      "line": "June 18: And only five left now. Two men and three women. Which tends to contradict my entry on the 9th.",
+      "wordCount": 21
+    },
+    {
+      "id": 372,
+      "index": 372,
+      "character": "DELIA",
+      "gender": "Female",
+      "line": "The man in room five is a fascinating case.",
+      "wordCount": 9
+    },
+    {
+      "id": 373,
+      "index": 373,
+      "character": "DELIA",
+      "gender": "Female",
+      "line": "Physically, there doesn't seem to be anything wrong with him. No cellular anomalies, nothing.",
+      "wordCount": 14
+    },
+    {
+      "id": 374,
+      "index": 374,
+      "character": "DELIA",
+      "gender": "Female",
+      "line": "Batch five, however, seems to have brought on some kind of psychotic breakdown. He's quite insane.",
+      "wordCount": 16
+    },
+    {
+      "id": 375,
+      "index": 375,
+      "character": "DELIA",
+      "gender": "Female",
+      "line": "He has this way of looking through you. Reverend Lilliman won't go near him. He claims that it is the devil in room five. I see him cross himself whenever he passes his door. Still, there's something about him...",
+      "wordCount": 39
+    },
+    {
+      "id": 376,
+      "index": 376,
+      "character": "DELIA",
+      "gender": "Female",
+      "line": "I'm glad Prothero let room five have a go at the gardening project. He is quite proficient. Prothero was reluctant to allow an inmate access to the tool and chemical supply at first but now the fat toad is delighted. The crop has almost doubled.",
+      "wordCount": 45
+    },
+    {
+      "id": 377,
+      "index": 377,
+      "character": "DELIA",
+      "gender": "Female",
+      "line": "He also grows roses. Beautiful roses.",
+      "wordCount": 6
+    },
+    {
+      "id": 378,
+      "index": 378,
+      "character": "DELIA",
+      "gender": "Female",
+      "line": "December 24th: I was in the mess. It was about half past ten when we heard the first explosion.",
+      "wordCount": 19
+    },
+    {
+      "id": 379,
+      "index": 379,
+      "character": "DELIA",
+      "gender": "Female",
+      "line": "The ones at the front ran straight into the gas. It was horrible.",
+      "wordCount": 13
+    },
+    {
+      "id": 380,
+      "index": 380,
+      "character": "DELIA",
+      "gender": "Female",
+      "line": "A few of us made it out through the rear door. You could hear men screaming everywhere. I hate the sound of men screaming.",
+      "wordCount": 24
+    },
+    {
+      "id": 381,
+      "index": 381,
+      "character": "DELIA",
+      "gender": "Female",
+      "line": "In the center of the camp, everything was on fire. Everyone running in all directions. We had hardly enough time to get our bearings when the ovens exploded.",
+      "wordCount": 28
+    },
+    {
+      "id": 382,
+      "index": 382,
+      "character": "DELIA",
+      "gender": "Female",
+      "line": "It was the man in room rive. I couldn't have known. The chemical supplies, grease solvents, ammonia, fertilizer. He'd been making things with them.",
+      "wordCount": 24
+    },
+    {
+      "id": 383,
+      "index": 383,
+      "character": "DELIA",
+      "gender": "Female",
+      "line": "Mustard gas...",
+      "wordCount": 2
+    },
+    {
+      "id": 384,
+      "index": 384,
+      "character": "DELIA",
+      "gender": "Female",
+      "line": "And napalm.",
+      "wordCount": 2
+    },
+    {
+      "id": 385,
+      "index": 385,
+      "character": "DELIA",
+      "gender": "Female",
+      "line": "And in the yard, I saw him. He had the flames behind him. He was naked.",
+      "wordCount": 16
+    },
+    {
+      "id": 386,
+      "index": 386,
+      "character": "DELIA",
+      "gender": "Female",
+      "line": "He looked at me...",
+      "wordCount": 4
+    },
+    {
+      "id": 387,
+      "index": 387,
+      "character": "DELIA",
+      "gender": "Female",
+      "line": "As if I were an insect. Oh god. As if I were something mounted on a slide.",
+      "wordCount": 17
+    },
+    {
+      "id": 388,
+      "index": 388,
+      "character": "DELIA",
+      "gender": "Female",
+      "line": "He looked at me.",
+      "wordCount": 4
+    },
+    {
+      "id": 389,
+      "index": 389,
+      "character": "FINCH",
+      "gender": "Male",
+      "line": "That's the last entry until six months later when Dr. Surridge is back in London. There is no mention of the man in room five again. End of story.",
+      "wordCount": 29
+    },
+    {
+      "id": 390,
+      "index": 390,
+      "character": "FINCH",
+      "gender": "Male",
+      "line": "Except that it wasn't the end of the story.",
+      "wordCount": 9
+    },
+    {
+      "id": 391,
+      "index": 391,
+      "character": "FINCH",
+      "gender": "Male",
+      "line": "Between 2009 and 2012, over forty men and women who were previously stationed at Larkhill met with what were believed to be accidental deaths. Eventually, only three remained.",
+      "wordCount": 28
+    },
+    {
+      "id": 392,
+      "index": 392,
+      "character": "FINCH",
+      "gender": "Male",
+      "line": "The three he'd been saving until last.",
+      "wordCount": 7
+    },
+    {
+      "id": 393,
+      "index": 393,
+      "character": "FINCH",
+      "gender": "Male",
+      "line": "Everyone who worked at Larkhill. Everyone who could have identified him. You see there are two possible motives here. Not one.",
+      "wordCount": 21
+    },
+    {
+      "id": 394,
+      "index": 394,
+      "character": "FINCH",
+      "gender": "Male",
+      "line": "The first is revenge. He escapes from Larkhill and vows to get even with his tormentors. The whole exercise an elaborate, chilling vendetta.",
+      "wordCount": 23
+    },
+    {
+      "id": 395,
+      "index": 395,
+      "character": "FINCH",
+      "gender": "Male",
+      "line": "That's the explanation that I find most reassuring, funnily enough. Because that means he's finished. It's over now.",
+      "wordCount": 18
+    },
+    {
+      "id": 396,
+      "index": 396,
+      "character": "FINCH",
+      "gender": "Male",
+      "line": "The second motive is more sinister. Like I said, everyone who could have identified him is dead.",
+      "wordCount": 17
+    },
+    {
+      "id": 397,
+      "index": 397,
+      "character": "FINCH",
+      "gender": "Male",
+      "line": "What if he's just been clearing the ground?",
+      "wordCount": 8
+    },
+    {
+      "id": 398,
+      "index": 398,
+      "character": "FINCH",
+      "gender": "Male",
+      "line": "What if he's planning something else?",
+      "wordCount": 6
+    },
+    {
+      "id": 399,
+      "index": 399,
+      "character": "FINCH",
+      "gender": "Male",
+      "line": "You see, the diary we found was in full view. We didn't have to search for it. He left it there. He wanted us to find it. He wanted us to know the story. Or...",
+      "wordCount": 35
+    },
+    {
+      "id": 400,
+      "index": 400,
+      "character": "FINCH",
+      "gender": "Male",
+      "line": "For all we know, the diary could be a complete and utter fake. Codename V could have written it himself.",
+      "wordCount": 20
+    },
+    {
+      "id": 401,
+      "index": 401,
+      "character": "FINCH",
+      "gender": "Male",
+      "line": "He's playing games with us. He might never have been at Larkhill at all. Do you see? It could all be another smoke screen, a false trail, another cover story --",
+      "wordCount": 31
+    },
+    {
+      "id": 402,
+      "index": 402,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "Enough!",
+      "wordCount": 1
+    },
+    {
+      "id": 403,
+      "index": 403,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "Mr. Finch, would you please explain to me the nature of this meeting?! Because I was under the impression that you had some information about the terrorist, codename V!",
+      "wordCount": 29
+    },
+    {
+      "id": 404,
+      "index": 404,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "No more questions, understand! I want answers! I am not interested in where he grew up, what kind of flowers he likes or his favorite color!",
+      "wordCount": 26
+    },
+    {
+      "id": 405,
+      "index": 405,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "Do I make myself clear?",
+      "wordCount": 5
+    },
+    {
+      "id": 406,
+      "index": 406,
+      "character": "FINCH",
+      "gender": "Male",
+      "line": "Yes, Leader.",
+      "wordCount": 2
+    },
+    {
+      "id": 407,
+      "index": 407,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "Dismissed. England prevails, Mr. Finch.",
+      "wordCount": 5
+    },
+    {
+      "id": 408,
+      "index": 408,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "Mr. Finch, the girl. Do you have anything on the girl?",
+      "wordCount": 11
+    },
+    {
+      "id": 409,
+      "index": 409,
+      "character": "FINCH",
+      "gender": "Male",
+      "line": "No, Leader. Not yet.",
+      "wordCount": 4
+    },
+    {
+      "id": 410,
+      "index": 410,
+      "character": "MAN",
+      "gender": "Male",
+      "line": "Wake up, cow.",
+      "wordCount": 3
+    },
+    {
+      "id": 411,
+      "index": 411,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "You've made a mistake.",
+      "wordCount": 4
+    },
+    {
+      "id": 412,
+      "index": 412,
+      "character": "ROSSITER",
+      "gender": "NA",
+      "line": "Shut up.",
+      "wordCount": 2
+    },
+    {
+      "id": 413,
+      "index": 413,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "Please. I haven't done anything --",
+      "wordCount": 6
+    },
+    {
+      "id": 414,
+      "index": 414,
+      "character": "ROSSITER",
+      "gender": "NA",
+      "line": "I said shut your hole!",
+      "wordCount": 5
+    },
+    {
+      "id": 415,
+      "index": 415,
+      "character": "INTERROGATOR",
+      "gender": "NA",
+      "line": "Do you know why you're here. Evey Hammond?",
+      "wordCount": 8
+    },
+    {
+      "id": 416,
+      "index": 416,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "No, please, I didn't do anything.",
+      "wordCount": 6
+    },
+    {
+      "id": 417,
+      "index": 417,
+      "character": "INTERROGATOR",
+      "gender": "NA",
+      "line": "Allow me to be more precise. Did you participate in the murder of Dr. Delia Surridge?",
+      "wordCount": 16
+    },
+    {
+      "id": 418,
+      "index": 418,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "No.",
+      "wordCount": 1
+    },
+    {
+      "id": 419,
+      "index": 419,
+      "character": "INTERROGATOR",
+      "gender": "NA",
+      "line": "Did you participate in the murder of Derek Almond, director of the Finger?",
+      "wordCount": 13
+    },
+    {
+      "id": 420,
+      "index": 420,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "No, I --",
+      "wordCount": 3
+    },
+    {
+      "id": 421,
+      "index": 421,
+      "character": "INTERROGATOR",
+      "gender": "NA",
+      "line": "Did you participate in the murder of Bishop Anthony Lilliman?",
+      "wordCount": 10
+    },
+    {
+      "id": 422,
+      "index": 422,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "Oh god, I don't --",
+      "wordCount": 5
+    },
+    {
+      "id": 423,
+      "index": 423,
+      "character": "INTERROGATOR",
+      "gender": "NA",
+      "line": "Have you ever participated in a terrorist act against your country?",
+      "wordCount": 11
+    },
+    {
+      "id": 424,
+      "index": 424,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "No --",
+      "wordCount": 2
+    },
+    {
+      "id": 425,
+      "index": 425,
+      "character": "INTERROGATOR",
+      "gender": "NA",
+      "line": "What is the identity of codename V?",
+      "wordCount": 7
+    },
+    {
+      "id": 426,
+      "index": 426,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "I don't know.",
+      "wordCount": 3
+    },
+    {
+      "id": 427,
+      "index": 427,
+      "character": "INTERROGATOR",
+      "gender": "NA",
+      "line": "You are a lying cunt.",
+      "wordCount": 5
+    },
+    {
+      "id": 428,
+      "index": 428,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "They were going to rape me, kill me --",
+      "wordCount": 9
+    },
+    {
+      "id": 429,
+      "index": 429,
+      "character": "ROSSITER",
+      "gender": "NA",
+      "line": "Shut up.",
+      "wordCount": 2
+    },
+    {
+      "id": 430,
+      "index": 430,
+      "character": "INTERROGATOR",
+      "gender": "NA",
+      "line": "This board will not tolerate any more of your lies, Miss Hammond. We have over 120 minutes of audio and videotape and 75 pages of testimonials from eye witness that identify you as an accomplice to the terrorist, codename V.",
+      "wordCount": 40
+    },
+    {
+      "id": 431,
+      "index": 431,
+      "character": "INTERROGATOR",
+      "gender": "NA",
+      "line": "Do you want to know why you're here? You are formally being brought up on charges of murder on fourteen counts and sedition against your Leader and country which brings an automatic sentence of death.",
+      "wordCount": 35
+    },
+    {
+      "id": 432,
+      "index": 432,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "Please. I didn't do anything.",
+      "wordCount": 5
+    },
+    {
+      "id": 433,
+      "index": 433,
+      "character": "INTERROGATOR",
+      "gender": "NA",
+      "line": "Process the prisoner and return her to her cell until she is more cooperative.",
+      "wordCount": 14
+    },
+    {
+      "id": 434,
+      "index": 434,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "I read her letter. Hid it. Slept. Woke. They questioned me. And I read her letter again.",
+      "wordCount": 17
+    },
+    {
+      "id": 435,
+      "index": 435,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "Over and over...",
+      "wordCount": 3
+    },
+    {
+      "id": 436,
+      "index": 436,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "Her name was Valerie.",
+      "wordCount": 4
+    },
+    {
+      "id": 437,
+      "index": 437,
+      "character": "VALERIE",
+      "gender": "Female",
+      "line": "I was born in a rainy burg in Nottingham in 1975. I passed my eleven plus and went to girl's grammar.",
+      "wordCount": 21
+    },
+    {
+      "id": 438,
+      "index": 438,
+      "character": "VALERIE",
+      "gender": "Female",
+      "line": "I met my first girlfriend at school. Her name was Sara. Her wrists. Her wrists were beautiful.",
+      "wordCount": 17
+    },
+    {
+      "id": 439,
+      "index": 439,
+      "character": "VALERIE",
+      "gender": "Female",
+      "line": "I sat in biology class staring at the pickled rabbit fetus while Mr. Herd said it was an adolescent phase that people outgrew.",
+      "wordCount": 23
+    },
+    {
+      "id": 440,
+      "index": 440,
+      "character": "VALERIE",
+      "gender": "Female",
+      "line": "Sara did. I didn't.",
+      "wordCount": 4
+    },
+    {
+      "id": 441,
+      "index": 441,
+      "character": "VALERIE",
+      "gender": "Female",
+      "line": "In 1994, I stopped pretending and took a girl called Christine home to meet my parents.",
+      "wordCount": 16
+    },
+    {
+      "id": 442,
+      "index": 442,
+      "character": "VALERIE",
+      "gender": "Female",
+      "line": "A week later I moved to London to go to college and study drama. My mother said I broke her heart.",
+      "wordCount": 21
+    },
+    {
+      "id": 443,
+      "index": 443,
+      "character": "VALERIE",
+      "gender": "Female",
+      "line": "But it was my integrity that was important. Is that so selfish? It sells for so little but it's all we have left in this place...",
+      "wordCount": 26
+    },
+    {
+      "id": 444,
+      "index": 444,
+      "character": "VALERIE",
+      "gender": "Female",
+      "line": "It is the very last inch of us...",
+      "wordCount": 8
+    },
+    {
+      "id": 445,
+      "index": 445,
+      "character": "VALERIE",
+      "gender": "Female",
+      "line": "But within that inch we are free.",
+      "wordCount": 7
+    },
+    {
+      "id": 446,
+      "index": 446,
+      "character": "INTERROGATOR",
+      "gender": "NA",
+      "line": "Enough.",
+      "wordCount": 1
+    },
+    {
+      "id": 447,
+      "index": 447,
+      "character": "INTERROGATOR",
+      "gender": "NA",
+      "line": "Now Miss Hammond, let us review the facts.",
+      "wordCount": 8
+    },
+    {
+      "id": 448,
+      "index": 448,
+      "character": "INTERROGATOR",
+      "gender": "NA",
+      "line": "You work for codename V. Codename V killed Delia Surridge and then Derek Almond with your help and that is why you were found outside her home.",
+      "wordCount": 27
+    },
+    {
+      "id": 449,
+      "index": 449,
+      "character": "INTERROGATOR",
+      "gender": "NA",
+      "line": "Isn't that what happened, Miss Hammond?",
+      "wordCount": 6
+    },
+    {
+      "id": 450,
+      "index": 450,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "No. No, that isn't true --",
+      "wordCount": 6
+    },
+    {
+      "id": 451,
+      "index": 451,
+      "character": "INTERROGATOR",
+      "gender": "NA",
+      "line": "Oh dear, Rossiter?",
+      "wordCount": 3
+    },
+    {
+      "id": 452,
+      "index": 452,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "No, wait!",
+      "wordCount": 2
+    },
+    {
+      "id": 453,
+      "index": 453,
+      "character": "VALERIE",
+      "gender": "Female",
+      "line": "London. I was happy in London.",
+      "wordCount": 6
+    },
+    {
+      "id": 454,
+      "index": 454,
+      "character": "VALERIE",
+      "gender": "Female",
+      "line": "I played Dandini in Cinderella.",
+      "wordCount": 5
+    },
+    {
+      "id": 455,
+      "index": 455,
+      "character": "VALERIE",
+      "gender": "Female",
+      "line": "The world was strange and rustling with invisible crowds behind the hot lights and all that breathless glamour.",
+      "wordCount": 18
+    },
+    {
+      "id": 456,
+      "index": 456,
+      "character": "VALERIE",
+      "gender": "Female",
+      "line": "Work improved. I got small film roles, then bigger ones.",
+      "wordCount": 10
+    },
+    {
+      "id": 457,
+      "index": 457,
+      "character": "VALERIE",
+      "gender": "Female",
+      "line": "In 2006, I starred in \"The Salt Flats.\" That's where I met Ruth. We fell in love.",
+      "wordCount": 17
+    },
+    {
+      "id": 458,
+      "index": 458,
+      "character": "VALERIE",
+      "gender": "Female",
+      "line": "Every Valentine's Day she sent me roses and, oh god, we had so much. Those were the best three years of my life.",
+      "wordCount": 23
+    },
+    {
+      "id": 459,
+      "index": 459,
+      "character": "VALERIE",
+      "gender": "Female",
+      "line": "In 2010, they came.",
+      "wordCount": 4
+    },
+    {
+      "id": 460,
+      "index": 460,
+      "character": "VALERIE",
+      "gender": "Female",
+      "line": "And after that there were no more roses...",
+      "wordCount": 8
+    },
+    {
+      "id": 461,
+      "index": 461,
+      "character": "VALERIE",
+      "gender": "Female",
+      "line": "Not for anybody.",
+      "wordCount": 3
+    },
+    {
+      "id": 462,
+      "index": 462,
+      "character": "VALERIE",
+      "gender": "Female",
+      "line": "After the takeover, they started rounding up the gays. They took Ruth while she was out looking for food.",
+      "wordCount": 19
+    },
+    {
+      "id": 463,
+      "index": 463,
+      "character": "VALERIE",
+      "gender": "Female",
+      "line": "Why are they so frightened of us?",
+      "wordCount": 7
+    },
+    {
+      "id": 464,
+      "index": 464,
+      "character": "VALERIE",
+      "gender": "Female",
+      "line": "They burned her face with cigarettes and made her give them my name. She signed a statement saying I'd seduced her.",
+      "wordCount": 21
+    },
+    {
+      "id": 465,
+      "index": 465,
+      "character": "VALERIE",
+      "gender": "Female",
+      "line": "I didn't blame her. God, I loved her but I didn't blame her.",
+      "wordCount": 13
+    },
+    {
+      "id": 466,
+      "index": 466,
+      "character": "VALERIE",
+      "gender": "Female",
+      "line": "But she did.",
+      "wordCount": 3
+    },
+    {
+      "id": 467,
+      "index": 467,
+      "character": "VALERIE",
+      "gender": "Female",
+      "line": "She killed herself in her cell. She couldn't live with betraying me, with giving up that last inch. Oh, Ruth.",
+      "wordCount": 20
+    },
+    {
+      "id": 468,
+      "index": 468,
+      "character": "VALERIE",
+      "gender": "Female",
+      "line": "They came for me. They shaved off my hair. They held my head down a toilet and told lesbian jokes. They brought me here and pumped me full of chemicals.",
+      "wordCount": 30
+    },
+    {
+      "id": 469,
+      "index": 469,
+      "character": "VALERIE",
+      "gender": "Female",
+      "line": "I can't feel my tongue. I can't speak.",
+      "wordCount": 8
+    },
+    {
+      "id": 470,
+      "index": 470,
+      "character": "VALERIE",
+      "gender": "Female",
+      "line": "It is strange that my life should end in such a terrible place but for three years I had roses and apologized to nobody.",
+      "wordCount": 24
+    },
+    {
+      "id": 471,
+      "index": 471,
+      "character": "VALERIE",
+      "gender": "Female",
+      "line": "I shall die here. Every inch of me shall perish...",
+      "wordCount": 10
+    },
+    {
+      "id": 472,
+      "index": 472,
+      "character": "VALERIE",
+      "gender": "Female",
+      "line": "Except one.",
+      "wordCount": 2
+    },
+    {
+      "id": 473,
+      "index": 473,
+      "character": "VALERIE",
+      "gender": "Female",
+      "line": "An inch. It is small and fragile and it's the only thing in the world that's worth having.",
+      "wordCount": 18
+    },
+    {
+      "id": 474,
+      "index": 474,
+      "character": "VALERIE",
+      "gender": "Female",
+      "line": "We must never lose it or sell it or give it away. We must never let them take it from us.",
+      "wordCount": 21
+    },
+    {
+      "id": 475,
+      "index": 475,
+      "character": "VALERIE",
+      "gender": "Female",
+      "line": "I don't know who you are but I hope you escape this place. I hope that the world turns and things get better and that one day people have roses again.",
+      "wordCount": 31
+    },
+    {
+      "id": 476,
+      "index": 476,
+      "character": "VALERIE",
+      "gender": "Female",
+      "line": "I don't know who you are but I love you. I love you. Valerie.",
+      "wordCount": 14
+    },
+    {
+      "id": 477,
+      "index": 477,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "I had come to know every inch of those four walls in that dark hell and they knew every inch of me. Every inch...",
+      "wordCount": 24
+    },
+    {
+      "id": 478,
+      "index": 478,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "Except one.",
+      "wordCount": 2
+    },
+    {
+      "id": 479,
+      "index": 479,
+      "character": "INTERROGATOR",
+      "gender": "NA",
+      "line": "\"My name is Evey Hammond. On the 5th of November 2019, I was abducted by the terrorist known as codename V and then taken against my will to an unknown location.\"",
+      "wordCount": 31
+    },
+    {
+      "id": 480,
+      "index": 480,
+      "character": "INTERROGATOR",
+      "gender": "NA",
+      "line": "\"Once there, I was systematically brainwashed by means physical and psychological. I was frequently subjected to sexual abuse during this period.\"",
+      "wordCount": 21
+    },
+    {
+      "id": 481,
+      "index": 481,
+      "character": "INTERROGATOR",
+      "gender": "NA",
+      "line": "\"Eventually I was terrorized into helping him commit the murders of Derek Almond, Dr. Delia Surridge, and Anthony Lilliman, Bishop of Westminster.\"",
+      "wordCount": 22
+    },
+    {
+      "id": 482,
+      "index": 482,
+      "character": "INTERROGATOR",
+      "gender": "NA",
+      "line": "\"I, the undersigned, swear that the above statement is genuine and that it was not signed by means of intimidation.\"",
+      "wordCount": 20
+    },
+    {
+      "id": 483,
+      "index": 483,
+      "character": "INTERROGATOR",
+      "gender": "NA",
+      "line": "We'd like you to sign that for us, Miss Hammond. Where we've put the little cross.",
+      "wordCount": 16
+    },
+    {
+      "id": 484,
+      "index": 484,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "No.",
+      "wordCount": 1
+    },
+    {
+      "id": 485,
+      "index": 485,
+      "character": "INTERROGATOR",
+      "gender": "NA",
+      "line": "As you wish.",
+      "wordCount": 3
+    },
+    {
+      "id": 486,
+      "index": 486,
+      "character": "INTERROGATOR",
+      "gender": "NA",
+      "line": "Escort Miss Hammond back to her cell, Rossiter, where she will wait while you arrange a wet detail of six men.",
+      "wordCount": 21
+    },
+    {
+      "id": 487,
+      "index": 487,
+      "character": "INTERROGATOR",
+      "gender": "NA",
+      "line": "Then take her out behind the chemical sheds and shoot her.",
+      "wordCount": 11
+    },
+    {
+      "id": 488,
+      "index": 488,
+      "character": "ROSSITER",
+      "gender": "NA",
+      "line": "It's time, unless you want to change your mind.",
+      "wordCount": 9
+    },
+    {
+      "id": 489,
+      "index": 489,
+      "character": "ROSSITER",
+      "gender": "NA",
+      "line": "Sign that statement. You could be out inside three years. Perhaps they'd find you a job with the Finger.",
+      "wordCount": 19
+    },
+    {
+      "id": 490,
+      "index": 490,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "Thank you but I'd rather die behind the chemical sheds.",
+      "wordCount": 10
+    },
+    {
+      "id": 491,
+      "index": 491,
+      "character": "ROSSITER",
+      "gender": "NA",
+      "line": "Then there's nothing left to threaten you with, is there? You are free.",
+      "wordCount": 13
+    },
+    {
+      "id": 492,
+      "index": 492,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "What?",
+      "wordCount": 1
+    },
+    {
+      "id": 493,
+      "index": 493,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "You...",
+      "wordCount": 1
+    },
+    {
+      "id": 494,
+      "index": 494,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "You did this... to me.",
+      "wordCount": 5
+    },
+    {
+      "id": 495,
+      "index": 495,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "You did this to me!",
+      "wordCount": 5
+    },
+    {
+      "id": 496,
+      "index": 496,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "You -- You hit me and -- and cut my hair. It was you. It was just you all this time.",
+      "wordCount": 21
+    },
+    {
+      "id": 497,
+      "index": 497,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "You tortured me. You tortured me --",
+      "wordCount": 7
+    },
+    {
+      "id": 498,
+      "index": 498,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "Oh god, why?",
+      "wordCount": 3
+    },
+    {
+      "id": 499,
+      "index": 499,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "Love?",
+      "wordCount": 1
+    },
+    {
+      "id": 500,
+      "index": 500,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "Set me free? Don't you realize?",
+      "wordCount": 6
+    },
+    {
+      "id": 501,
+      "index": 501,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "Don't you realize what you did to me? You nearly drove me mad!",
+      "wordCount": 13
+    },
+    {
+      "id": 502,
+      "index": 502,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "I hate you.",
+      "wordCount": 3
+    },
+    {
+      "id": 503,
+      "index": 503,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "I hate you! Set me free? You put me in a prison to set me free?!",
+      "wordCount": 16
+    },
+    {
+      "id": 504,
+      "index": 504,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "Shut up! I don't want to hear it. I wasn't in a prison. I was happy! I was happy here --",
+      "wordCount": 21
+    },
+    {
+      "id": 505,
+      "index": 505,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "That's warped! That's evil and it's wrong! What gives you the right to judge? Who are you to say what's not good enough?!",
+      "wordCount": 23
+    },
+    {
+      "id": 506,
+      "index": 506,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "Shut up! You're mad! I don't want to hear it!",
+      "wordCount": 10
+    },
+    {
+      "id": 507,
+      "index": 507,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "I can't feel anything! There's nothing left to feel! Don't you understand?",
+      "wordCount": 12
+    },
+    {
+      "id": 508,
+      "index": 508,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "I don't know what -- Oh god -- I can't breathe --",
+      "wordCount": 12
+    },
+    {
+      "id": 509,
+      "index": 509,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "What are you doing to me? I can't breathe --",
+      "wordCount": 10
+    },
+    {
+      "id": 510,
+      "index": 510,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "I feel -- I feel like I'm going to burst.",
+      "wordCount": 10
+    },
+    {
+      "id": 511,
+      "index": 511,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "Oh god -- I felt --",
+      "wordCount": 6
+    },
+    {
+      "id": 512,
+      "index": 512,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "Like an angel --",
+      "wordCount": 4
+    },
+    {
+      "id": 513,
+      "index": 513,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "Oh god, V, I'm so scared. What's happening to me?",
+      "wordCount": 10
+    },
+    {
+      "id": 514,
+      "index": 514,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "The roof? Outside?",
+      "wordCount": 3
+    },
+    {
+      "id": 515,
+      "index": 515,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "I -- I don't want to be blindfolded.",
+      "wordCount": 8
+    },
+    {
+      "id": 516,
+      "index": 516,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "Everything's so -- different.",
+      "wordCount": 4
+    },
+    {
+      "id": 517,
+      "index": 517,
+      "character": "DASCOMBE",
+      "gender": "NA",
+      "line": "Finch!",
+      "wordCount": 1
+    },
+    {
+      "id": 518,
+      "index": 518,
+      "character": "DASCOMBE",
+      "gender": "NA",
+      "line": "Do you know what this is all about?",
+      "wordCount": 8
+    },
+    {
+      "id": 519,
+      "index": 519,
+      "character": "FINCH",
+      "gender": "Male",
+      "line": "No, but I can guess.",
+      "wordCount": 5
+    },
+    {
+      "id": 520,
+      "index": 520,
+      "character": "DASCOMBE",
+      "gender": "NA",
+      "line": "What?",
+      "wordCount": 1
+    },
+    {
+      "id": 521,
+      "index": 521,
+      "character": "FINCH",
+      "gender": "Male",
+      "line": "\"Remember, remember, the fifth of November.\"",
+      "wordCount": 6
+    },
+    {
+      "id": 522,
+      "index": 522,
+      "character": "DASCOMBE",
+      "gender": "NA",
+      "line": "Oh come on. He's long gone. He has to be. He did what he came to do and it's over.",
+      "wordCount": 20
+    },
+    {
+      "id": 523,
+      "index": 523,
+      "character": "DASCOMBE",
+      "gender": "NA",
+      "line": "Isn't it?",
+      "wordCount": 2
+    },
+    {
+      "id": 524,
+      "index": 524,
+      "character": "FINCH",
+      "gender": "Male",
+      "line": "Not for us.",
+      "wordCount": 3
+    },
+    {
+      "id": 525,
+      "index": 525,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "A year, gentlemen.",
+      "wordCount": 3
+    },
+    {
+      "id": 526,
+      "index": 526,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "I have given you almost a year and you have given me nothing. Nothing!",
+      "wordCount": 14
+    },
+    {
+      "id": 527,
+      "index": 527,
+      "character": "DASCOMBE",
+      "gender": "NA",
+      "line": "Now Adam, there is no one better than Finch and you know it.",
+      "wordCount": 13
+    },
+    {
+      "id": 528,
+      "index": 528,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "Yes, Mr. Dascombe, I do know it. It is that very fact that keeps me awake at night, wondering if perhaps there is a reason that Mr. Finch has failed.",
+      "wordCount": 30
+    },
+    {
+      "id": 529,
+      "index": 529,
+      "character": "FINCH",
+      "gender": "Male",
+      "line": "What are you saying?",
+      "wordCount": 4
+    },
+    {
+      "id": 530,
+      "index": 530,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "I'm saying that perhaps I don't know you as well as I thought I did.",
+      "wordCount": 15
+    },
+    {
+      "id": 531,
+      "index": 531,
+      "character": "FINCH",
+      "gender": "Male",
+      "line": "Are you asking for my resignation?",
+      "wordCount": 6
+    },
+    {
+      "id": 532,
+      "index": 532,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "No, I am asking for some goddamn results!",
+      "wordCount": 8
+    },
+    {
+      "id": 533,
+      "index": 533,
+      "character": "DASCOMBE",
+      "gender": "NA",
+      "line": "It's not Finch's fault, Adam.",
+      "wordCount": 5
+    },
+    {
+      "id": 534,
+      "index": 534,
+      "character": "CONRAD",
+      "gender": "NA",
+      "line": "We've all been looking. The man simply disappeared.",
+      "wordCount": 8
+    },
+    {
+      "id": 535,
+      "index": 535,
+      "character": "ETHERIDGE",
+      "gender": "Male",
+      "line": "Vanished.",
+      "wordCount": 1
+    },
+    {
+      "id": 536,
+      "index": 536,
+      "character": "DASCOMBE",
+      "gender": "NA",
+      "line": "He's gone, Adam. It's over.",
+      "wordCount": 5
+    },
+    {
+      "id": 537,
+      "index": 537,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "It's over, is it? He's gone. Vanished, you say?",
+      "wordCount": 9
+    },
+    {
+      "id": 538,
+      "index": 538,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "Transcripts recorded over the last thirty days in which the terrorist was talked about or mentioned in a positive context. This is only thirty days!",
+      "wordCount": 25
+    },
+    {
+      "id": 539,
+      "index": 539,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "Is this what you consider, \"disappeared?\"",
+      "wordCount": 6
+    },
+    {
+      "id": 540,
+      "index": 540,
+      "character": "DASCOMBE",
+      "gender": "NA",
+      "line": "For god's sake, Adam, it's a stupid variety show.",
+      "wordCount": 9
+    },
+    {
+      "id": 541,
+      "index": 541,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "Mr. Creedy, I want the producers, writers, and actors of that \"stupid variety show\" arrested and charged with sedition.",
+      "wordCount": 19
+    },
+    {
+      "id": 542,
+      "index": 542,
+      "character": "CREEDY",
+      "gender": "Male",
+      "line": "Yes, sir.",
+      "wordCount": 2
+    },
+    {
+      "id": 543,
+      "index": 543,
+      "character": "DASCOMBE",
+      "gender": "NA",
+      "line": "You can't be serious --",
+      "wordCount": 5
+    },
+    {
+      "id": 544,
+      "index": 544,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "Push me, Roger, push me and you'll find out how serious I am.",
+      "wordCount": 13
+    },
+    {
+      "id": 545,
+      "index": 545,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "This, this V is still out there. I can feel him like a sickness worming its way into the hearts and minds of the public. Something must be done, and done quickly, to exorcise this demon for the very soul of this country is at stake.",
+      "wordCount": 46
+    },
+    {
+      "id": 546,
+      "index": 546,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "That is why I am compelled to give each and every one of you notice that if by the fifth of November you are still giving me nothing more than excuses, I will have to revoke your party status and terminate your positions.",
+      "wordCount": 43
+    },
+    {
+      "id": 547,
+      "index": 547,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "Mr. Creedy, I will speak with you in private. The rest of you are dismissed. England prevails.",
+      "wordCount": 17
+    },
+    {
+      "id": 548,
+      "index": 548,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "Mr. Creedy, as the new head of the Finger, you are the most important member of my cabinet.",
+      "wordCount": 18
+    },
+    {
+      "id": 549,
+      "index": 549,
+      "character": "CREEDY",
+      "gender": "Male",
+      "line": "I, uh, appreciate your faith in me.",
+      "wordCount": 7
+    },
+    {
+      "id": 550,
+      "index": 550,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "Your predecessor, Mr. Almond, was a good man, a man who understood what strength in unity meant, a man who, above all, loved his country. I need to know if you are such a man.",
+      "wordCount": 35
+    },
+    {
+      "id": 551,
+      "index": 551,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "Do you love your country, Mr. Creedy?",
+      "wordCount": 7
+    },
+    {
+      "id": 552,
+      "index": 552,
+      "character": "CREEDY",
+      "gender": "Male",
+      "line": "Oh god, yes!",
+      "wordCount": 3
+    },
+    {
+      "id": 553,
+      "index": 553,
+      "character": "HELEN",
+      "gender": "NA",
+      "line": "\"The most important member of my cabinet.\" Yes it is, isn't it, dear?",
+      "wordCount": 13
+    },
+    {
+      "id": 554,
+      "index": 554,
+      "character": "CREEDY",
+      "gender": "Male",
+      "line": "Oh, don't stop.",
+      "wordCount": 3
+    },
+    {
+      "id": 555,
+      "index": 555,
+      "character": "HELEN",
+      "gender": "NA",
+      "line": "I stop when you stop. What did he say next?",
+      "wordCount": 10
+    },
+    {
+      "id": 556,
+      "index": 556,
+      "character": "CREEDY",
+      "gender": "Male",
+      "line": "I can't --",
+      "wordCount": 3
+    },
+    {
+      "id": 557,
+      "index": 557,
+      "character": "HELEN",
+      "gender": "NA",
+      "line": "Come on, Peter, what are you afraid of? Almond used to tell me everything and you're twice the man he was.",
+      "wordCount": 21
+    },
+    {
+      "id": 558,
+      "index": 558,
+      "character": "CREEDY",
+      "gender": "Male",
+      "line": "He asked me... if I loved my country.",
+      "wordCount": 8
+    },
+    {
+      "id": 559,
+      "index": 559,
+      "character": "HELEN",
+      "gender": "NA",
+      "line": "Oh yes, I can tell you do love your country, almost as much as you love this...",
+      "wordCount": 17
+    },
+    {
+      "id": 560,
+      "index": 560,
+      "character": "CREEDY",
+      "gender": "Male",
+      "line": "Oh god...",
+      "wordCount": 2
+    },
+    {
+      "id": 561,
+      "index": 561,
+      "character": "HELEN",
+      "gender": "NA",
+      "line": "Go on.",
+      "wordCount": 2
+    },
+    {
+      "id": 562,
+      "index": 562,
+      "character": "CREEDY",
+      "gender": "Male",
+      "line": "Then he asked me to do something... oh, oh...",
+      "wordCount": 9
+    },
+    {
+      "id": 563,
+      "index": 563,
+      "character": "HELEN",
+      "gender": "NA",
+      "line": "What?",
+      "wordCount": 1
+    },
+    {
+      "id": 564,
+      "index": 564,
+      "character": "CREEDY",
+      "gender": "Male",
+      "line": "Helen, I can't. I can't tell you.",
+      "wordCount": 7
+    },
+    {
+      "id": 565,
+      "index": 565,
+      "character": "HELEN",
+      "gender": "NA",
+      "line": "He told you to frame someone as the terrorist.",
+      "wordCount": 9
+    },
+    {
+      "id": 566,
+      "index": 566,
+      "character": "CREEDY",
+      "gender": "Male",
+      "line": "My god?! How did you know that?",
+      "wordCount": 7
+    },
+    {
+      "id": 567,
+      "index": 567,
+      "character": "HELEN",
+      "gender": "NA",
+      "line": "I know Adam Susan. Now who was it?",
+      "wordCount": 8
+    },
+    {
+      "id": 568,
+      "index": 568,
+      "character": "CREEDY",
+      "gender": "Male",
+      "line": "No way. I can't tell you that.",
+      "wordCount": 7
+    },
+    {
+      "id": 569,
+      "index": 569,
+      "character": "HELEN",
+      "gender": "NA",
+      "line": "Yes you can, honey. You can and you will. You have to trust me, love. We're going to help each other.",
+      "wordCount": 21
+    },
+    {
+      "id": 570,
+      "index": 570,
+      "character": "CREEDY",
+      "gender": "Male",
+      "line": "Helen, please.",
+      "wordCount": 2
+    },
+    {
+      "id": 571,
+      "index": 571,
+      "character": "HELEN",
+      "gender": "NA",
+      "line": "Look at that face. You see? You're just bursting to tell me.",
+      "wordCount": 12
+    },
+    {
+      "id": 572,
+      "index": 572,
+      "character": "HELEN",
+      "gender": "NA",
+      "line": "Now who was it?",
+      "wordCount": 4
+    },
+    {
+      "id": 573,
+      "index": 573,
+      "character": "CREEDY",
+      "gender": "Male",
+      "line": "It was... Fi... Fi... FINCH!",
+      "wordCount": 5
+    },
+    {
+      "id": 574,
+      "index": 574,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "That was beautiful.",
+      "wordCount": 3
+    },
+    {
+      "id": 575,
+      "index": 575,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "I've wanted to do this for a long time.",
+      "wordCount": 9
+    },
+    {
+      "id": 576,
+      "index": 576,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "Thank you, V. Thank you for everything you've done for me.",
+      "wordCount": 11
+    },
+    {
+      "id": 577,
+      "index": 577,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "It was a good backdrop. I believed it. I really did. It's still a bit hard for me to accept that it wasn't real. That it was just you. Especially the letter.",
+      "wordCount": 32
+    },
+    {
+      "id": 578,
+      "index": 578,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "It is a beautiful letter, V. Every time I read it I could feel Valerie, almost like she was holding me. I believed in her most of all. I believed that she loved me and I loved her back.",
+      "wordCount": 39
+    },
+    {
+      "id": 579,
+      "index": 579,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "I feel a bit foolish telling you this. I know that you must have written it and thought you should have it back.",
+      "wordCount": 23
+    },
+    {
+      "id": 580,
+      "index": 580,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "What?",
+      "wordCount": 1
+    },
+    {
+      "id": 581,
+      "index": 581,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "Valerie?",
+      "wordCount": 1
+    },
+    {
+      "id": 582,
+      "index": 582,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "She's beautiful.",
+      "wordCount": 2
+    },
+    {
+      "id": 583,
+      "index": 583,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "Roses. You grew them for her.",
+      "wordCount": 6
+    },
+    {
+      "id": 584,
+      "index": 584,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "They're beautiful.",
+      "wordCount": 2
+    },
+    {
+      "id": 585,
+      "index": 585,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "Two days before the first day we met.",
+      "wordCount": 8
+    },
+    {
+      "id": 586,
+      "index": 586,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "You're planning something, aren't you, V?",
+      "wordCount": 6
+    },
+    {
+      "id": 587,
+      "index": 587,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "What are you going to do?",
+      "wordCount": 6
+    },
+    {
+      "id": 588,
+      "index": 588,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "I've never been here before.",
+      "wordCount": 5
+    },
+    {
+      "id": 589,
+      "index": 589,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "Oh, V, it's lovely. Where on earth did you find it?",
+      "wordCount": 11
+    },
+    {
+      "id": 590,
+      "index": 590,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "What's in these packages?",
+      "wordCount": 4
+    },
+    {
+      "id": 591,
+      "index": 591,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "What are you going to do with all of it?",
+      "wordCount": 10
+    },
+    {
+      "id": 592,
+      "index": 592,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "Where does this train go?",
+      "wordCount": 5
+    },
+    {
+      "id": 593,
+      "index": 593,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "Whitehall... V, that's the New Government Building.",
+      "wordCount": 7
+    },
+    {
+      "id": 594,
+      "index": 594,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "But the underground has been shut down for years. How are you going to make it run without any power?",
+      "wordCount": 20
+    },
+    {
+      "id": 595,
+      "index": 595,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "Yes, Mr. Creedy?",
+      "wordCount": 3
+    },
+    {
+      "id": 596,
+      "index": 596,
+      "character": "CREEDY",
+      "gender": "Male",
+      "line": "Everything's set, sir. No worries.",
+      "wordCount": 5
+    },
+    {
+      "id": 597,
+      "index": 597,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "When?",
+      "wordCount": 1
+    },
+    {
+      "id": 598,
+      "index": 598,
+      "character": "CREEDY",
+      "gender": "Male",
+      "line": "Tonight.",
+      "wordCount": 1
+    },
+    {
+      "id": 599,
+      "index": 599,
+      "character": "ANNOUNCER",
+      "gender": "NA",
+      "line": "Tonight on Tales from the Bible, a story of treachery and betrayal from the Book of Daniel.",
+      "wordCount": 17
+    },
+    {
+      "id": 600,
+      "index": 600,
+      "character": "DASCOMBE",
+      "gender": "NA",
+      "line": "All of London's waiting. Ready, two. And here we go --",
+      "wordCount": 11
+    },
+    {
+      "id": 601,
+      "index": 601,
+      "character": "ANNOUNCER",
+      "gender": "NA",
+      "line": "Tonight, England's greatest hero repels the forces of darkness in a brand new episode.",
+      "wordCount": 14
+    },
+    {
+      "id": 602,
+      "index": 602,
+      "character": "HEIDI",
+      "gender": "NA",
+      "line": "Oh, Storm. Save me! Save me!",
+      "wordCount": 6
+    },
+    {
+      "id": 603,
+      "index": 603,
+      "character": "STORM",
+      "gender": "NA",
+      "line": "You mongrel trash, if you harm her!",
+      "wordCount": 7
+    },
+    {
+      "id": 604,
+      "index": 604,
+      "character": "MONGREL TRASH",
+      "gender": "NA",
+      "line": "Look out, de white debil has a laser lugar!",
+      "wordCount": 9
+    },
+    {
+      "id": 605,
+      "index": 605,
+      "character": "GUARD",
+      "gender": "NA",
+      "line": "Hey, what the -- ?",
+      "wordCount": 5
+    },
+    {
+      "id": 606,
+      "index": 606,
+      "character": "HEIDI",
+      "gender": "NA",
+      "line": "Oh Storm, hold me. Hold me tight.",
+      "wordCount": 7
+    },
+    {
+      "id": 607,
+      "index": 607,
+      "character": "FINCH",
+      "gender": "Male",
+      "line": "I don't know how you stand that tripe.",
+      "wordCount": 8
+    },
+    {
+      "id": 608,
+      "index": 608,
+      "character": "DOMINIC",
+      "gender": "Male",
+      "line": "Es gooh.",
+      "wordCount": 2
+    },
+    {
+      "id": 609,
+      "index": 609,
+      "character": "DOMINIC",
+      "gender": "Male",
+      "line": "Finch? Finch, what's wrong?",
+      "wordCount": 4
+    },
+    {
+      "id": 610,
+      "index": 610,
+      "character": "DOMINIC",
+      "gender": "Male",
+      "line": "What the hell?",
+      "wordCount": 3
+    },
+    {
+      "id": 611,
+      "index": 611,
+      "character": "FINCH",
+      "gender": "Male",
+      "line": "Don't you see, Dominic?",
+      "wordCount": 4
+    },
+    {
+      "id": 612,
+      "index": 612,
+      "character": "FINCH",
+      "gender": "Male",
+      "line": "I'm V.",
+      "wordCount": 2
+    },
+    {
+      "id": 613,
+      "index": 613,
+      "character": "GUARD",
+      "gender": "NA",
+      "line": "Bloody hell!",
+      "wordCount": 2
+    },
+    {
+      "id": 614,
+      "index": 614,
+      "character": "GUARD",
+      "gender": "NA",
+      "line": "Freeze!",
+      "wordCount": 1
+    },
+    {
+      "id": 615,
+      "index": 615,
+      "character": "GUARD",
+      "gender": "NA",
+      "line": "Fuck all.",
+      "wordCount": 2
+    },
+    {
+      "id": 616,
+      "index": 616,
+      "character": "DOMINIC",
+      "gender": "Male",
+      "line": "Creedy? What the hell's going on?",
+      "wordCount": 6
+    },
+    {
+      "id": 617,
+      "index": 617,
+      "character": "CREEDY",
+      "gender": "Male",
+      "line": "I'm here to arrest Mr. Finch for acts of treason and terrorism.",
+      "wordCount": 12
+    },
+    {
+      "id": 618,
+      "index": 618,
+      "character": "DOMINIC",
+      "gender": "Male",
+      "line": "You can't be serious.",
+      "wordCount": 4
+    },
+    {
+      "id": 619,
+      "index": 619,
+      "character": "CREEDY",
+      "gender": "Male",
+      "line": "If I were you, boy, I'd shut my hole unless you want to start explaining why you didn't say nothing about Mr. Finch's secret identity.",
+      "wordCount": 25
+    },
+    {
+      "id": 620,
+      "index": 620,
+      "character": "FINCH",
+      "gender": "Male",
+      "line": "Why don't you just shoot me, Creedy? Wouldn't that make everything a lot simpler?",
+      "wordCount": 14
+    },
+    {
+      "id": 621,
+      "index": 621,
+      "character": "CREEDY",
+      "gender": "Male",
+      "line": "Yeah, I suppose it would.",
+      "wordCount": 5
+    },
+    {
+      "id": 622,
+      "index": 622,
+      "character": "DOMINIC",
+      "gender": "Male",
+      "line": "Holy Christ! Creedy, you stupid ape! If Finch is V then tell me who is that?",
+      "wordCount": 16
+    },
+    {
+      "id": 623,
+      "index": 623,
+      "character": "CREEDY",
+      "gender": "Male",
+      "line": "Bloody fuckin' hell.",
+      "wordCount": 3
+    },
+    {
+      "id": 624,
+      "index": 624,
+      "character": "FINCH",
+      "gender": "Male",
+      "line": "He has to be at Jordan tower. Come on!",
+      "wordCount": 9
+    },
+    {
+      "id": 625,
+      "index": 625,
+      "character": "CREEDY",
+      "gender": "Male",
+      "line": "Don't just stand there! Follow them!",
+      "wordCount": 6
+    },
+    {
+      "id": 626,
+      "index": 626,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "Damn you! Damn you!",
+      "wordCount": 4
+    },
+    {
+      "id": 627,
+      "index": 627,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "Lieutenant, ready my transport. I want every armed man within a hundred miles at Jordan tower. Now!",
+      "wordCount": 17
+    },
+    {
+      "id": 628,
+      "index": 628,
+      "character": "MOTHER",
+      "gender": "NA",
+      "line": "Hush. Turn it up.",
+      "wordCount": 4
+    },
+    {
+      "id": 629,
+      "index": 629,
+      "character": "V",
+      "gender": "Male",
+      "line": "You are but a single individual. How can you possible make any difference? Individuals have no power in this modern world. That is what you've been taught because that is what they need you to believe. But it is not true.",
+      "wordCount": 41
+    },
+    {
+      "id": 630,
+      "index": 630,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "I want this man dead! I want him shot on sight!",
+      "wordCount": 11
+    },
+    {
+      "id": 631,
+      "index": 631,
+      "character": "CAPTAIN",
+      "gender": "NA",
+      "line": "Yes, sir.",
+      "wordCount": 2
+    },
+    {
+      "id": 632,
+      "index": 632,
+      "character": "V",
+      "gender": "Male",
+      "line": "But, you ask, who am I to make such promises? A fair question but hardly necessary as you know me already. To know me any more you need only look to a mirror.",
+      "wordCount": 33
+    },
+    {
+      "id": 633,
+      "index": 633,
+      "character": "V",
+      "gender": "Male",
+      "line": "On the twelfth stroke of the fifth day of the eleventh month, I hope we shall all meet again.",
+      "wordCount": 19
+    },
+    {
+      "id": 634,
+      "index": 634,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "Who was it? Who was he?",
+      "wordCount": 6
+    },
+    {
+      "id": 635,
+      "index": 635,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "Roger Dascombe! Of course. Of course! It makes such perfect sense.",
+      "wordCount": 11
+    },
+    {
+      "id": 636,
+      "index": 636,
+      "character": "CAPTAIN",
+      "gender": "NA",
+      "line": "Sir, I think there has been a mistake.",
+      "wordCount": 8
+    },
+    {
+      "id": 637,
+      "index": 637,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "No! There is no mistake!",
+      "wordCount": 5
+    },
+    {
+      "id": 638,
+      "index": 638,
+      "character": "CAPTAIN",
+      "gender": "NA",
+      "line": "But sir, there are people that say they saw both the terrorist and Dascombe together --",
+      "wordCount": 16
+    },
+    {
+      "id": 639,
+      "index": 639,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "Who? Who are these people? They must be detained immediately. Whatever they saw or whatever they think they saw is subordinate to the truth and that truth is that Roger Dascombe is the terrorist and the terrorist is dead!",
+      "wordCount": 39
+    },
+    {
+      "id": 640,
+      "index": 640,
+      "character": "FINCH",
+      "gender": "Male",
+      "line": "But I thought I was the terrorist.",
+      "wordCount": 7
+    },
+    {
+      "id": 641,
+      "index": 641,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "Finch, what are you doing here?",
+      "wordCount": 6
+    },
+    {
+      "id": 642,
+      "index": 642,
+      "character": "FINCH",
+      "gender": "Male",
+      "line": "Since I'm not in jail and since you have another, even more convenient suspect. I'm guessing the charges have been dropped.",
+      "wordCount": 21
+    },
+    {
+      "id": 643,
+      "index": 643,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "Be careful, Finch.",
+      "wordCount": 3
+    },
+    {
+      "id": 644,
+      "index": 644,
+      "character": "FINCH",
+      "gender": "Male",
+      "line": "I am careful, sir. Always. That is why I suggest that a search of this building begin immediately.",
+      "wordCount": 18
+    },
+    {
+      "id": 645,
+      "index": 645,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "The terrorist is dead!",
+      "wordCount": 4
+    },
+    {
+      "id": 646,
+      "index": 646,
+      "character": "FINCH",
+      "gender": "Male",
+      "line": "With all due respect, I disagree and I believe that he is presently trying to get out of this building disguised as one of us.",
+      "wordCount": 25
+    },
+    {
+      "id": 647,
+      "index": 647,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "Are you challenging my authority?",
+      "wordCount": 5
+    },
+    {
+      "id": 648,
+      "index": 648,
+      "character": "FINCH",
+      "gender": "Male",
+      "line": "No sir, I'm trying to run an investigation --",
+      "wordCount": 9
+    },
+    {
+      "id": 649,
+      "index": 649,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "I am trying to run a country! When I tell you, Mr. Finch, the terrorist is dead, then the terrorist is dead! If you continue to suggest otherwise then you will leave me no choice but to have you arrested on charges of sedition. Do I make myself clear?",
+      "wordCount": 49
+    },
+    {
+      "id": 650,
+      "index": 650,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "Now, it is imperative for the people of London to know that they are safe, that the terrorist is dead and everything is under control.",
+      "wordCount": 25
+    },
+    {
+      "id": 651,
+      "index": 651,
+      "character": "SPEAKERS",
+      "gender": "NA",
+      "line": "The terrorist is dead. No further threat exists. Everything is under control.",
+      "wordCount": 12
+    },
+    {
+      "id": 652,
+      "index": 652,
+      "character": "LITTLE GIRL",
+      "gender": "NA",
+      "line": "Bollocks.",
+      "wordCount": 1
+    },
+    {
+      "id": 653,
+      "index": 653,
+      "character": "LITTLE GIRL",
+      "gender": "NA",
+      "line": "Bollocks!",
+      "wordCount": 1
+    },
+    {
+      "id": 654,
+      "index": 654,
+      "character": "LITTLE GIRL",
+      "gender": "NA",
+      "line": "He's not dead! It's all bollocks!",
+      "wordCount": 6
+    },
+    {
+      "id": 655,
+      "index": 655,
+      "character": "FINCH",
+      "gender": "Male",
+      "line": "Play it again.",
+      "wordCount": 3
+    },
+    {
+      "id": 656,
+      "index": 656,
+      "character": "DOMINIC",
+      "gender": "Male",
+      "line": "Come on, Finch. We've seen it fifty times. I mean, after what they done to you, I don't know why we're even trying to stop him.",
+      "wordCount": 26
+    },
+    {
+      "id": 657,
+      "index": 657,
+      "character": "FINCH",
+      "gender": "Male",
+      "line": "I don't know. For twenty seven years, I've been at this job. Twenty seven years, I've done what I've been told to do. Maybe that's all there is to it. I'm just a dumb old dog. A dumb old dog that only knows one trick.",
+      "wordCount": 45
+    },
+    {
+      "id": 658,
+      "index": 658,
+      "character": "DOMINIC",
+      "gender": "Male",
+      "line": "That ain't it, Finch. It's more than that. I know you. It's something personal with this one.",
+      "wordCount": 17
+    },
+    {
+      "id": 659,
+      "index": 659,
+      "character": "FINCH",
+      "gender": "Male",
+      "line": "Maybe. And maybe I'm not ready for a revolution.",
+      "wordCount": 9
+    },
+    {
+      "id": 660,
+      "index": 660,
+      "character": "DOMINIC",
+      "gender": "Male",
+      "line": "Well, we got less than thirty hours to stop it.",
+      "wordCount": 10
+    },
+    {
+      "id": 661,
+      "index": 661,
+      "character": "FINCH",
+      "gender": "Male",
+      "line": "We will.",
+      "wordCount": 2
+    },
+    {
+      "id": 662,
+      "index": 662,
+      "character": "DOMINIC",
+      "gender": "Male",
+      "line": "How?",
+      "wordCount": 1
+    },
+    {
+      "id": 663,
+      "index": 663,
+      "character": "FINCH",
+      "gender": "Male",
+      "line": "It's on the tape. I know it. I can feel it. He did this for a reason. He needs something.",
+      "wordCount": 20
+    },
+    {
+      "id": 664,
+      "index": 664,
+      "character": "DOMINIC",
+      "gender": "Male",
+      "line": "What?",
+      "wordCount": 1
+    },
+    {
+      "id": 665,
+      "index": 665,
+      "character": "FINCH",
+      "gender": "Male",
+      "line": "The line of the Queen?",
+      "wordCount": 5
+    },
+    {
+      "id": 666,
+      "index": 666,
+      "character": "DOMINIC",
+      "gender": "Male",
+      "line": "But what does that mean?",
+      "wordCount": 5
+    },
+    {
+      "id": 667,
+      "index": 667,
+      "character": "FINCH",
+      "gender": "Male",
+      "line": "Maybe it's a line from Shakespeare. Or a book. I don't know.",
+      "wordCount": 12
+    },
+    {
+      "id": 668,
+      "index": 668,
+      "character": "FINCH",
+      "gender": "Male",
+      "line": "But right here. He's talking to someone. Someone specific. Someone who knows what he wants.",
+      "wordCount": 15
+    },
+    {
+      "id": 669,
+      "index": 669,
+      "character": "CONRAD",
+      "gender": "NA",
+      "line": "Helen? Helen, why did you want that tape?",
+      "wordCount": 8
+    },
+    {
+      "id": 670,
+      "index": 670,
+      "character": "HELEN",
+      "gender": "NA",
+      "line": "Shut up, Conrad. I'm thinking.",
+      "wordCount": 5
+    },
+    {
+      "id": 671,
+      "index": 671,
+      "character": "HELEN",
+      "gender": "NA",
+      "line": "How? How did you know that?",
+      "wordCount": 6
+    },
+    {
+      "id": 672,
+      "index": 672,
+      "character": "CONRAD",
+      "gender": "NA",
+      "line": "Know what, my love?",
+      "wordCount": 4
+    },
+    {
+      "id": 673,
+      "index": 673,
+      "character": "HELEN",
+      "gender": "NA",
+      "line": "All right. You have a deal.",
+      "wordCount": 6
+    },
+    {
+      "id": 674,
+      "index": 674,
+      "character": "HELEN",
+      "gender": "NA",
+      "line": "Oh no! Not you. Conrad. Not yet. Here you can have a chocolate. Open up. Open!",
+      "wordCount": 16
+    },
+    {
+      "id": 675,
+      "index": 675,
+      "character": "HELEN",
+      "gender": "NA",
+      "line": "Good boy. As for the rest of the box, perhaps when you're Leader.",
+      "wordCount": 13
+    },
+    {
+      "id": 676,
+      "index": 676,
+      "character": "HELEN",
+      "gender": "NA",
+      "line": "Right now I need something else Conrad. I need you to use that pretty little brain for me. You know all about the old underground, don't you?",
+      "wordCount": 27
+    },
+    {
+      "id": 677,
+      "index": 677,
+      "character": "HELEN",
+      "gender": "NA",
+      "line": "I need to know everything, understand? Everything.",
+      "wordCount": 7
+    },
+    {
+      "id": 678,
+      "index": 678,
+      "character": "ASSISTANT DIRECTOR",
+      "gender": "NA",
+      "line": "Ready in five, Leader.",
+      "wordCount": 4
+    },
+    {
+      "id": 679,
+      "index": 679,
+      "character": "ASSISTANT DIRECTOR",
+      "gender": "NA",
+      "line": "In four, three...",
+      "wordCount": 3
+    },
+    {
+      "id": 680,
+      "index": 680,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "Good evening London. As Leader of this great country, I felt it imperative to speak with you and to assure you once and for all that the shadow that recently fell across our land has indeed passed.",
+      "wordCount": 37
+    },
+    {
+      "id": 681,
+      "index": 681,
+      "character": "WOMAN",
+      "gender": "NA",
+      "line": "Oh, for fuck's sake.",
+      "wordCount": 4
+    },
+    {
+      "id": 682,
+      "index": 682,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "What we have endured this long year was no accident, no mere coincidence. This was not a simple act of terror conducted by a singular madman. No, this was a test.",
+      "wordCount": 31
+    },
+    {
+      "id": 683,
+      "index": 683,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "It was not me, nor the Party, nor the government that was threatened this year. It was our beliefs. Our faith. I believe that God himself bore witness to our struggle and like Job I believe that we have been vindicated.",
+      "wordCount": 41
+    },
+    {
+      "id": 684,
+      "index": 684,
+      "character": "DRUNK",
+      "gender": "NA",
+      "line": "Remember fifth of November!",
+      "wordCount": 4
+    },
+    {
+      "id": 685,
+      "index": 685,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "How do I know this? Let me read to you where I found the answer, where I so often find the answer. In the Scripture. Revelations.",
+      "wordCount": 26
+    },
+    {
+      "id": 686,
+      "index": 686,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "\"If any man have an ear, let him hear.\"",
+      "wordCount": 9
+    },
+    {
+      "id": 687,
+      "index": 687,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "\"He that leadeth into captivity shall go into captivity; he that killeth with the sword shall be killed with the sword. Here is the patience and faith of the Saints.\"",
+      "wordCount": 30
+    },
+    {
+      "id": 688,
+      "index": 688,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "\"And I beheld another beast coming out of the Earth; and he had two horns like a lamb and he spake as a dragon.\"",
+      "wordCount": 24
+    },
+    {
+      "id": 689,
+      "index": 689,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "\"And he doeth great wonders, so that he maketh fire come down from Heaven on the Earth in the sight of men.\"",
+      "wordCount": 22
+    },
+    {
+      "id": 690,
+      "index": 690,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "\"And he deceiveth them that dwell on the Earth by the means of those miracles which he had the power to do --\"",
+      "wordCount": 23
+    },
+    {
+      "id": 691,
+      "index": 691,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "Oh, V, turn it off, please.",
+      "wordCount": 6
+    },
+    {
+      "id": 692,
+      "index": 692,
+      "character": "CREEDY",
+      "gender": "Male",
+      "line": "But how does he know?",
+      "wordCount": 5
+    },
+    {
+      "id": 693,
+      "index": 693,
+      "character": "HELEN",
+      "gender": "NA",
+      "line": "I don't know. All I know is he does... And I know what he wants.",
+      "wordCount": 15
+    },
+    {
+      "id": 694,
+      "index": 694,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "What is that, V?",
+      "wordCount": 4
+    },
+    {
+      "id": 695,
+      "index": 695,
+      "character": "CREEDY",
+      "gender": "Male",
+      "line": "Do you know what I want? I want you just like this... Bent over that black leather chair...",
+      "wordCount": 18
+    },
+    {
+      "id": 696,
+      "index": 696,
+      "character": "CREEDY",
+      "gender": "Male",
+      "line": "What about Conrad?",
+      "wordCount": 3
+    },
+    {
+      "id": 697,
+      "index": 697,
+      "character": "HELEN",
+      "gender": "NA",
+      "line": "I told you, I'll handle Conrad and V will take care of Susan. The mob will take care of the guard and then... You can use the Finger to take over.",
+      "wordCount": 31
+    },
+    {
+      "id": 698,
+      "index": 698,
+      "character": "CREEDY",
+      "gender": "Male",
+      "line": "Use the Finger? You mean like this?",
+      "wordCount": 7
+    },
+    {
+      "id": 699,
+      "index": 699,
+      "character": "HELEN",
+      "gender": "NA",
+      "line": "Oh... oh... that is vulgar...",
+      "wordCount": 5
+    },
+    {
+      "id": 700,
+      "index": 700,
+      "character": "CREEDY",
+      "gender": "Male",
+      "line": "But you like it?",
+      "wordCount": 4
+    },
+    {
+      "id": 701,
+      "index": 701,
+      "character": "HELEN",
+      "gender": "NA",
+      "line": "Yes, oh yes, oh you're a pig, Peter...",
+      "wordCount": 8
+    },
+    {
+      "id": 702,
+      "index": 702,
+      "character": "CREEDY",
+      "gender": "Male",
+      "line": "That I am, misses. But I'm the pig that's gonna be running this country.",
+      "wordCount": 14
+    },
+    {
+      "id": 703,
+      "index": 703,
+      "character": "HELEN",
+      "gender": "NA",
+      "line": "Yes and I'm... I'm going to be Eva... Oh Eva...",
+      "wordCount": 10
+    },
+    {
+      "id": 704,
+      "index": 704,
+      "character": "HELEN",
+      "gender": "NA",
+      "line": "\"Don't cry for me Argen... oh Argen... Argen... tina!",
+      "wordCount": 9
+    },
+    {
+      "id": 705,
+      "index": 705,
+      "character": "FINCH",
+      "gender": "Male",
+      "line": "Eighteen hours.",
+      "wordCount": 2
+    },
+    {
+      "id": 706,
+      "index": 706,
+      "character": "FINCH",
+      "gender": "Male",
+      "line": "Dominic!",
+      "wordCount": 1
+    },
+    {
+      "id": 707,
+      "index": 707,
+      "character": "FINCH",
+      "gender": "Male",
+      "line": "Dominic, go home.",
+      "wordCount": 3
+    },
+    {
+      "id": 708,
+      "index": 708,
+      "character": "DOMINIC",
+      "gender": "Male",
+      "line": "But I've still got over three hundred lines from The Fairy Queen.",
+      "wordCount": 12
+    },
+    {
+      "id": 709,
+      "index": 709,
+      "character": "FINCH",
+      "gender": "Male",
+      "line": "Forget it. There's no more time. You go home and get some rest. You're going to need it tonight.",
+      "wordCount": 19
+    },
+    {
+      "id": 710,
+      "index": 710,
+      "character": "DOMINIC",
+      "gender": "Male",
+      "line": "He's got us, doesn't he, Finch?",
+      "wordCount": 6
+    },
+    {
+      "id": 711,
+      "index": 711,
+      "character": "FINCH",
+      "gender": "Male",
+      "line": "Yes, he does.",
+      "wordCount": 3
+    },
+    {
+      "id": 712,
+      "index": 712,
+      "character": "HELEN",
+      "gender": "NA",
+      "line": "Now listen to me, Conrad. This is the most important moment of our lives. Everything I've worked and hoped for comes to this. Susan is a very dangerous man, especially now, that's why I need you, Conrad. I need you to be stronger than him. I need you to be the better man. Understand?",
+      "wordCount": 54
+    },
+    {
+      "id": 713,
+      "index": 713,
+      "character": "HELEN",
+      "gender": "NA",
+      "line": "If you do this Conrad, and you do it right, I'm going to turn you from the little man I married into the man of my dreams.",
+      "wordCount": 27
+    },
+    {
+      "id": 714,
+      "index": 714,
+      "character": "CONRAD",
+      "gender": "NA",
+      "line": "Oh, Helen.",
+      "wordCount": 2
+    },
+    {
+      "id": 715,
+      "index": 715,
+      "character": "HELEN",
+      "gender": "NA",
+      "line": "Not on the lips.",
+      "wordCount": 4
+    },
+    {
+      "id": 716,
+      "index": 716,
+      "character": "FINCH",
+      "gender": "Male",
+      "line": "Give it up, old man. You're not even sure you want to stop him.",
+      "wordCount": 14
+    },
+    {
+      "id": 717,
+      "index": 717,
+      "character": "FINCH",
+      "gender": "Male",
+      "line": "Christ! That's it! It's got to be it!",
+      "wordCount": 8
+    },
+    {
+      "id": 718,
+      "index": 718,
+      "character": "LIEUTENANT",
+      "gender": "NA",
+      "line": "Sir, Mr. Heyer is here to see you. Says it's urgent. And he's here with his wife, sir.",
+      "wordCount": 18
+    },
+    {
+      "id": 719,
+      "index": 719,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "His wife?",
+      "wordCount": 2
+    },
+    {
+      "id": 720,
+      "index": 720,
+      "character": "LIEUTENANT",
+      "gender": "NA",
+      "line": "Sir, yes, sir -- Wait, you can't go --",
+      "wordCount": 9
+    },
+    {
+      "id": 721,
+      "index": 721,
+      "character": "HELEN",
+      "gender": "NA",
+      "line": "Leader, I'm terribly sorry but I absolutely must speak with you.",
+      "wordCount": 11
+    },
+    {
+      "id": 722,
+      "index": 722,
+      "character": "HELEN",
+      "gender": "NA",
+      "line": "I have something to tell you, something important but --",
+      "wordCount": 10
+    },
+    {
+      "id": 723,
+      "index": 723,
+      "character": "HELEN",
+      "gender": "NA",
+      "line": "I can tell you and only you. In private.",
+      "wordCount": 9
+    },
+    {
+      "id": 724,
+      "index": 724,
+      "character": "HELEN",
+      "gender": "NA",
+      "line": "It is a matter of national security.",
+      "wordCount": 7
+    },
+    {
+      "id": 725,
+      "index": 725,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "Now what's this all about, Mrs. Heyer?",
+      "wordCount": 7
+    },
+    {
+      "id": 726,
+      "index": 726,
+      "character": "HELEN",
+      "gender": "NA",
+      "line": "Please, forgive me. I've been so afraid, afraid to come here to talk to you. I thought he must know. I was terrified he knew but I had to come because I knew you were the only one that can protect me.",
+      "wordCount": 42
+    },
+    {
+      "id": 727,
+      "index": 727,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "Protect you from what?",
+      "wordCount": 4
+    },
+    {
+      "id": 728,
+      "index": 728,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "Come now, Mrs. Heyer.",
+      "wordCount": 4
+    },
+    {
+      "id": 729,
+      "index": 729,
+      "character": "HELEN",
+      "gender": "NA",
+      "line": "You won't let him hurt me, will you?",
+      "wordCount": 8
+    },
+    {
+      "id": 730,
+      "index": 730,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "Let who hurt you?",
+      "wordCount": 4
+    },
+    {
+      "id": 731,
+      "index": 731,
+      "character": "HELEN",
+      "gender": "NA",
+      "line": "The terrorist.",
+      "wordCount": 2
+    },
+    {
+      "id": 732,
+      "index": 732,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "The terrorist is dead.",
+      "wordCount": 4
+    },
+    {
+      "id": 733,
+      "index": 733,
+      "character": "HELEN",
+      "gender": "NA",
+      "line": "Oh, how I wanted to believe it, Leader, but I know it's not true.",
+      "wordCount": 14
+    },
+    {
+      "id": 734,
+      "index": 734,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "How?",
+      "wordCount": 1
+    },
+    {
+      "id": 735,
+      "index": 735,
+      "character": "HELEN",
+      "gender": "NA",
+      "line": "Because I know who the terrorist is.",
+      "wordCount": 7
+    },
+    {
+      "id": 736,
+      "index": 736,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "Who? Who is it, woman?",
+      "wordCount": 5
+    },
+    {
+      "id": 737,
+      "index": 737,
+      "character": "HELEN",
+      "gender": "NA",
+      "line": "It's Conrad, Leader. Conrad. My husband is the terrorist.",
+      "wordCount": 9
+    },
+    {
+      "id": 738,
+      "index": 738,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "What?!",
+      "wordCount": 1
+    },
+    {
+      "id": 739,
+      "index": 739,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "How do you know?",
+      "wordCount": 4
+    },
+    {
+      "id": 740,
+      "index": 740,
+      "character": "HELEN",
+      "gender": "NA",
+      "line": "I saw him, Leader. In the middle of the night. I heard something. I went to the landing and that's when I saw it.",
+      "wordCount": 24
+    },
+    {
+      "id": 741,
+      "index": 741,
+      "character": "HELEN",
+      "gender": "NA",
+      "line": "That mask. That hideous smiling mask.",
+      "wordCount": 6
+    },
+    {
+      "id": 742,
+      "index": 742,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "But how did you know it was Heyer?",
+      "wordCount": 8
+    },
+    {
+      "id": 743,
+      "index": 743,
+      "character": "HELEN",
+      "gender": "NA",
+      "line": "I know, Leader. I know the way a woman knows.",
+      "wordCount": 10
+    },
+    {
+      "id": 744,
+      "index": 744,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "But you have no proof?",
+      "wordCount": 5
+    },
+    {
+      "id": 745,
+      "index": 745,
+      "character": "HELEN",
+      "gender": "NA",
+      "line": "Proof?",
+      "wordCount": 1
+    },
+    {
+      "id": 746,
+      "index": 746,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "Yes, proof? This is an extremely delicate situation, Mrs. Heyer. It has been reported that the terrorist is dead. It would be a catastrophe to arrest a man now without concrete, conclusive proof. Do you have any evidence at all?",
+      "wordCount": 40
+    },
+    {
+      "id": 747,
+      "index": 747,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "But if you're right, if Heyer is indeed the terrorist...",
+      "wordCount": 10
+    },
+    {
+      "id": 748,
+      "index": 748,
+      "character": "HELEN",
+      "gender": "NA",
+      "line": "Leader! Wait!",
+      "wordCount": 2
+    },
+    {
+      "id": 749,
+      "index": 749,
+      "character": "CONRAD",
+      "gender": "NA",
+      "line": "Is everything all right? Helen?",
+      "wordCount": 5
+    },
+    {
+      "id": 750,
+      "index": 750,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "Yes, Mr. Heyer, your wife has done her duty to her country.",
+      "wordCount": 12
+    },
+    {
+      "id": 751,
+      "index": 751,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "Don't worry, Mrs. Heyer. You will be taken care of. I will launch an immediate investigation and I promise, you will be the first to know when an arrest will be made.",
+      "wordCount": 32
+    },
+    {
+      "id": 752,
+      "index": 752,
+      "character": "CONRAD",
+      "gender": "NA",
+      "line": "Investigation of what?",
+      "wordCount": 3
+    },
+    {
+      "id": 753,
+      "index": 753,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "Subversion, Mr. Heyer. Your wife was privy to the dialogue of subversives. That's all you need to know at this time. Lieutenant!",
+      "wordCount": 22
+    },
+    {
+      "id": 754,
+      "index": 754,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "The Heyers are leaving. I need to see Mr. Creedy at once.",
+      "wordCount": 12
+    },
+    {
+      "id": 755,
+      "index": 755,
+      "character": "HELEN",
+      "gender": "NA",
+      "line": "Thank you, sir.",
+      "wordCount": 3
+    },
+    {
+      "id": 756,
+      "index": 756,
+      "character": "HELEN",
+      "gender": "NA",
+      "line": "I want you to go straight to your office and wait for me to call. When I do, I want you to come immediately home. Understood?",
+      "wordCount": 26
+    },
+    {
+      "id": 757,
+      "index": 757,
+      "character": "CONRAD",
+      "gender": "NA",
+      "line": "Yes, Helen.",
+      "wordCount": 2
+    },
+    {
+      "id": 758,
+      "index": 758,
+      "character": "HELEN",
+      "gender": "NA",
+      "line": "Oh, Conrad, I'm so proud of you.",
+      "wordCount": 7
+    },
+    {
+      "id": 759,
+      "index": 759,
+      "character": "CONRAD",
+      "gender": "NA",
+      "line": "I did it, Helen. I did it, didn't I?",
+      "wordCount": 9
+    },
+    {
+      "id": 760,
+      "index": 760,
+      "character": "HELEN",
+      "gender": "NA",
+      "line": "Tonight, Conrad.",
+      "wordCount": 2
+    },
+    {
+      "id": 761,
+      "index": 761,
+      "character": "CONRAD",
+      "gender": "NA",
+      "line": "Tonight.",
+      "wordCount": 1
+    },
+    {
+      "id": 762,
+      "index": 762,
+      "character": "HELEN",
+      "gender": "NA",
+      "line": "I promise you will never forget tonight.",
+      "wordCount": 7
+    },
+    {
+      "id": 763,
+      "index": 763,
+      "character": "HELEN",
+      "gender": "NA",
+      "line": "Goodbye, Conrad.",
+      "wordCount": 2
+    },
+    {
+      "id": 764,
+      "index": 764,
+      "character": "GUARD",
+      "gender": "NA",
+      "line": "Mr. Heyer! Mr. Heyer!",
+      "wordCount": 4
+    },
+    {
+      "id": 765,
+      "index": 765,
+      "character": "CONRAD",
+      "gender": "NA",
+      "line": "Yes?",
+      "wordCount": 1
+    },
+    {
+      "id": 766,
+      "index": 766,
+      "character": "GUARD",
+      "gender": "NA",
+      "line": "Sir, this package arrived for you, sir.",
+      "wordCount": 7
+    },
+    {
+      "id": 767,
+      "index": 767,
+      "character": "CONRAD",
+      "gender": "NA",
+      "line": "Thank you.",
+      "wordCount": 2
+    },
+    {
+      "id": 768,
+      "index": 768,
+      "character": "TAPE",
+      "gender": "NA",
+      "line": "Do you know what I want? I want you just like this... bent over that black leather chair.",
+      "wordCount": 18
+    },
+    {
+      "id": 769,
+      "index": 769,
+      "character": "FINCH",
+      "gender": "Male",
+      "line": "Oh my god.",
+      "wordCount": 3
+    },
+    {
+      "id": 770,
+      "index": 770,
+      "character": "TAPE",
+      "gender": "NA",
+      "line": "Use the Finger?... You mean like this?... Oh... That's vulgar... But you like it?... Yes... oh yes.",
+      "wordCount": 17
+    },
+    {
+      "id": 771,
+      "index": 771,
+      "character": "FINCH",
+      "gender": "Male",
+      "line": "Is the Leader in?",
+      "wordCount": 4
+    },
+    {
+      "id": 772,
+      "index": 772,
+      "character": "LIEUTENANT",
+      "gender": "NA",
+      "line": "Yes, but he's meeting with the Captain of the Guard.",
+      "wordCount": 10
+    },
+    {
+      "id": 773,
+      "index": 773,
+      "character": "FINCH",
+      "gender": "Male",
+      "line": "Perfect.",
+      "wordCount": 1
+    },
+    {
+      "id": 774,
+      "index": 774,
+      "character": "LIEUTENANT",
+      "gender": "NA",
+      "line": "Mr. Finch, you can't go in --",
+      "wordCount": 7
+    },
+    {
+      "id": 775,
+      "index": 775,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "Mr. Finch?",
+      "wordCount": 2
+    },
+    {
+      "id": 776,
+      "index": 776,
+      "character": "FINCH",
+      "gender": "Male",
+      "line": "Leader, I need as many men the Captain can spare and I need them right now.",
+      "wordCount": 16
+    },
+    {
+      "id": 777,
+      "index": 777,
+      "character": "CAPTAIN",
+      "gender": "NA",
+      "line": "What for?",
+      "wordCount": 2
+    },
+    {
+      "id": 778,
+      "index": 778,
+      "character": "FINCH",
+      "gender": "Male",
+      "line": "To capture codename V.",
+      "wordCount": 4
+    },
+    {
+      "id": 779,
+      "index": 779,
+      "character": "FINCH",
+      "gender": "Male",
+      "line": "He's underground. The old subway. I know exactly what he's going to do. If we move quickly, we can be there, waiting for him.",
+      "wordCount": 24
+    },
+    {
+      "id": 780,
+      "index": 780,
+      "character": "FINCH",
+      "gender": "Male",
+      "line": "Leader, every second we delay...",
+      "wordCount": 5
+    },
+    {
+      "id": 781,
+      "index": 781,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "I'm coming with you.",
+      "wordCount": 4
+    },
+    {
+      "id": 782,
+      "index": 782,
+      "character": "GUARD",
+      "gender": "NA",
+      "line": "Sir --",
+      "wordCount": 2
+    },
+    {
+      "id": 783,
+      "index": 783,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "There will be no discussion --",
+      "wordCount": 6
+    },
+    {
+      "id": 784,
+      "index": 784,
+      "character": "GUARD",
+      "gender": "NA",
+      "line": "But if Mr. Finch is right --",
+      "wordCount": 7
+    },
+    {
+      "id": 785,
+      "index": 785,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "I am sick to death of this terrorist being everywhere and nowhere! I will judge whether Mr. Finch is right and I will judge it with my own eyes! Do I make myself clear, Captain?",
+      "wordCount": 35
+    },
+    {
+      "id": 786,
+      "index": 786,
+      "character": "CAPTAIN",
+      "gender": "NA",
+      "line": "Sir, yes, sir!",
+      "wordCount": 3
+    },
+    {
+      "id": 787,
+      "index": 787,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "Is there a problem, Mr. Finch?",
+      "wordCount": 6
+    },
+    {
+      "id": 788,
+      "index": 788,
+      "character": "FINCH",
+      "gender": "Male",
+      "line": "No... no sir.",
+      "wordCount": 3
+    },
+    {
+      "id": 789,
+      "index": 789,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "Good. Captain, mobilize your men.",
+      "wordCount": 5
+    },
+    {
+      "id": 790,
+      "index": 790,
+      "character": "CAPTAIN",
+      "gender": "NA",
+      "line": "Sir, yes, sir.",
+      "wordCount": 3
+    },
+    {
+      "id": 791,
+      "index": 791,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "We'll find this bloody bastard and we will finish him.",
+      "wordCount": 10
+    },
+    {
+      "id": 792,
+      "index": 792,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "V?",
+      "wordCount": 1
+    },
+    {
+      "id": 793,
+      "index": 793,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "V, what's going to happen?",
+      "wordCount": 5
+    },
+    {
+      "id": 794,
+      "index": 794,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "Is it going to be violent?",
+      "wordCount": 6
+    },
+    {
+      "id": 795,
+      "index": 795,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "But why? Why must is be violent?",
+      "wordCount": 7
+    },
+    {
+      "id": 796,
+      "index": 796,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "What is the other face, V?",
+      "wordCount": 6
+    },
+    {
+      "id": 797,
+      "index": 797,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "Yes, V?",
+      "wordCount": 2
+    },
+    {
+      "id": 798,
+      "index": 798,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "Of course.",
+      "wordCount": 2
+    },
+    {
+      "id": 799,
+      "index": 799,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "Tell me.",
+      "wordCount": 2
+    },
+    {
+      "id": 800,
+      "index": 800,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "It would be my pleasure.",
+      "wordCount": 5
+    },
+    {
+      "id": 801,
+      "index": 801,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "All it takes is a little practice.",
+      "wordCount": 7
+    },
+    {
+      "id": 802,
+      "index": 802,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "V? What are you going to do?",
+      "wordCount": 7
+    },
+    {
+      "id": 803,
+      "index": 803,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "You're coming back though, aren't you?",
+      "wordCount": 6
+    },
+    {
+      "id": 804,
+      "index": 804,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "V, I won't let you leave unless you promise me that you will come back.",
+      "wordCount": 15
+    },
+    {
+      "id": 805,
+      "index": 805,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "Just promise.",
+      "wordCount": 2
+    },
+    {
+      "id": 806,
+      "index": 806,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "Mark my words, Mr. Finch, this man is going to become an example so that every man, woman, and child in this country will remember what happens to those who would ever think to stand against the state.",
+      "wordCount": 38
+    },
+    {
+      "id": 807,
+      "index": 807,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "Captain, I need a gas unit down here with enough nerve gas to fill every rat-hole in these tunnels.",
+      "wordCount": 19
+    },
+    {
+      "id": 808,
+      "index": 808,
+      "character": "FINCH",
+      "gender": "Male",
+      "line": "I don't think that will be necessary.",
+      "wordCount": 7
+    },
+    {
+      "id": 809,
+      "index": 809,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "There are over one hundred of the best trained soldiers in this country down here. Let him come.",
+      "wordCount": 18
+    },
+    {
+      "id": 810,
+      "index": 810,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "Captain, what's happening?",
+      "wordCount": 3
+    },
+    {
+      "id": 811,
+      "index": 811,
+      "character": "RADIO",
+      "gender": "NA",
+      "line": "No sign sir. Repeat, no sign of him.",
+      "wordCount": 8
+    },
+    {
+      "id": 812,
+      "index": 812,
+      "character": "CAPTAIN",
+      "gender": "NA",
+      "line": "They lost him.",
+      "wordCount": 3
+    },
+    {
+      "id": 813,
+      "index": 813,
+      "character": "FINCH",
+      "gender": "Male",
+      "line": "This... this is a mistake.",
+      "wordCount": 5
+    },
+    {
+      "id": 814,
+      "index": 814,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "Don't tell me you're a coward, Mr. Finch.",
+      "wordCount": 8
+    },
+    {
+      "id": 815,
+      "index": 815,
+      "character": "FINCH",
+      "gender": "Male",
+      "line": "Leader, we have to get out of here!",
+      "wordCount": 8
+    },
+    {
+      "id": 816,
+      "index": 816,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "This was your idea.",
+      "wordCount": 4
+    },
+    {
+      "id": 817,
+      "index": 817,
+      "character": "FINCH",
+      "gender": "Male",
+      "line": "It was a mistake. This is what he wants. He knows us, Leader. He knows us too well. We have to get out of here before it's too late --",
+      "wordCount": 30
+    },
+    {
+      "id": 818,
+      "index": 818,
+      "character": "V",
+      "gender": "Male",
+      "line": "Good evening citizens of London. This is the voice of Fate. Your fate...",
+      "wordCount": 13
+    },
+    {
+      "id": 819,
+      "index": 819,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "What trick is this?",
+      "wordCount": 4
+    },
+    {
+      "id": 820,
+      "index": 820,
+      "character": "V",
+      "gender": "Male",
+      "line": "Tonight, the face of London is going to change and I am going to offer you the chance to change with her. Your Leader is finished. He will not leave these tunnels alive.",
+      "wordCount": 33
+    },
+    {
+      "id": 821,
+      "index": 821,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "This is an outrage! I order you not to listen to this!",
+      "wordCount": 12
+    },
+    {
+      "id": 822,
+      "index": 822,
+      "character": "V",
+      "gender": "Male",
+      "line": "At midnight tonight, the Head will be destroyed and a new era will begin. You must now decide if you are going to be a part of that era.",
+      "wordCount": 29
+    },
+    {
+      "id": 823,
+      "index": 823,
+      "character": "V",
+      "gender": "Male",
+      "line": "You can choose to stay here and die with your Leader or you can choose to be free. The decision is yours and yours alone.",
+      "wordCount": 25
+    },
+    {
+      "id": 824,
+      "index": 824,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "Captain, order all your men to fall back and secure this position!",
+      "wordCount": 12
+    },
+    {
+      "id": 825,
+      "index": 825,
+      "character": "V",
+      "gender": "Male",
+      "line": "Some of you have wives. Some of you have families. All of you have lives. Consider each of them as you ask yourself, are they a part of the past, or are they a part of the future?",
+      "wordCount": 38
+    },
+    {
+      "id": 826,
+      "index": 826,
+      "character": "CAPTAIN",
+      "gender": "NA",
+      "line": "Fall back. Fall back and secure the central platform.",
+      "wordCount": 9
+    },
+    {
+      "id": 827,
+      "index": 827,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "Any man that disobeys this order will be court marshaled!",
+      "wordCount": 10
+    },
+    {
+      "id": 828,
+      "index": 828,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "Captain! Captain, where are your men?",
+      "wordCount": 6
+    },
+    {
+      "id": 829,
+      "index": 829,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "Goddammit, I will not tolerate this insubordination! I want those deserters shot, Captain.",
+      "wordCount": 13
+    },
+    {
+      "id": 830,
+      "index": 830,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "Shot on sight!",
+      "wordCount": 3
+    },
+    {
+      "id": 831,
+      "index": 831,
+      "character": "CAPTAIN",
+      "gender": "NA",
+      "line": "You! You! Point position. We're getting out of here! Now!",
+      "wordCount": 10
+    },
+    {
+      "id": 832,
+      "index": 832,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "Traitors! You cowards!",
+      "wordCount": 3
+    },
+    {
+      "id": 833,
+      "index": 833,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "I know who you are! I'll see you hang! Every last one of you!",
+      "wordCount": 14
+    },
+    {
+      "id": 834,
+      "index": 834,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "Finch? Finch! Finch, goddammit, you can't leave me! Don't leave me!",
+      "wordCount": 11
+    },
+    {
+      "id": 835,
+      "index": 835,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "Damn you! Damn you!",
+      "wordCount": 4
+    },
+    {
+      "id": 836,
+      "index": 836,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "Conrad? Is that you? You're working with Finch, aren't you? And Creedy! You're all in this together!",
+      "wordCount": 17
+    },
+    {
+      "id": 837,
+      "index": 837,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "Who are you?",
+      "wordCount": 3
+    },
+    {
+      "id": 838,
+      "index": 838,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "Noooo!",
+      "wordCount": 1
+    },
+    {
+      "id": 839,
+      "index": 839,
+      "character": "FINCH",
+      "gender": "Male",
+      "line": "Don't move!",
+      "wordCount": 2
+    },
+    {
+      "id": 840,
+      "index": 840,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "Mr. Finch! Oh god, Mr. Finch!",
+      "wordCount": 6
+    },
+    {
+      "id": 841,
+      "index": 841,
+      "character": "FINCH",
+      "gender": "Male",
+      "line": "Drop the knife.",
+      "wordCount": 3
+    },
+    {
+      "id": 842,
+      "index": 842,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "Oh, I knew it, Mr. Finch. I knew you wouldn't desert me. You're a good man, Finch. A damn good man.",
+      "wordCount": 21
+    },
+    {
+      "id": 843,
+      "index": 843,
+      "character": "FINCH",
+      "gender": "Male",
+      "line": "No, Mr. Susan. No, I'm not. I'm a man who does his job and does what he's told. For twenty seven years, that's all I've been.",
+      "wordCount": 26
+    },
+    {
+      "id": 844,
+      "index": 844,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "Careful, Mr. Finch. He's quick as the devil.",
+      "wordCount": 8
+    },
+    {
+      "id": 845,
+      "index": 845,
+      "character": "FINCH",
+      "gender": "Male",
+      "line": "I've read Delia's diary over and over all year. It sickens me but I am unable to judge her. I am as guilty as she.",
+      "wordCount": 25
+    },
+    {
+      "id": 846,
+      "index": 846,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "Mr. Finch, what are you doing? Shoot him. Kill the bastard, Finch.",
+      "wordCount": 12
+    },
+    {
+      "id": 847,
+      "index": 847,
+      "character": "FINCH",
+      "gender": "Male",
+      "line": "I have no excuse. I did what I was told to do.",
+      "wordCount": 12
+    },
+    {
+      "id": 848,
+      "index": 848,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "Finch, I order you to shoot him! Finch!",
+      "wordCount": 8
+    },
+    {
+      "id": 849,
+      "index": 849,
+      "character": "FINCH",
+      "gender": "Male",
+      "line": "My job was to find you and catch you. I've done my job. I've done it for the last time. I'm tired of it. I'm tired of it all.",
+      "wordCount": 29
+    },
+    {
+      "id": 850,
+      "index": 850,
+      "character": "FINCH",
+      "gender": "Male",
+      "line": "Kill him yourself if you can.",
+      "wordCount": 6
+    },
+    {
+      "id": 851,
+      "index": 851,
+      "character": "FINCH",
+      "gender": "Male",
+      "line": "Thank you, V. And goodbye.",
+      "wordCount": 5
+    },
+    {
+      "id": 852,
+      "index": 852,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "I warned you, Finch, the penalty for treason is death.",
+      "wordCount": 10
+    },
+    {
+      "id": 853,
+      "index": 853,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "Are you ready to die?",
+      "wordCount": 5
+    },
+    {
+      "id": 854,
+      "index": 854,
+      "character": "LEADER",
+      "gender": "NA",
+      "line": "Do you really believe you can pick up that knife before I pull this trigger?",
+      "wordCount": 15
+    },
+    {
+      "id": 855,
+      "index": 855,
+      "character": "HELEN",
+      "gender": "NA",
+      "line": "Creedy? Creedy, you dumb bastard, you left your car parked in front.",
+      "wordCount": 12
+    },
+    {
+      "id": 856,
+      "index": 856,
+      "character": "HELEN",
+      "gender": "NA",
+      "line": "What did I tell you? Creedy.",
+      "wordCount": 6
+    },
+    {
+      "id": 857,
+      "index": 857,
+      "character": "HELEN",
+      "gender": "NA",
+      "line": "Oh my god.",
+      "wordCount": 3
+    },
+    {
+      "id": 858,
+      "index": 858,
+      "character": "CONRAD",
+      "gender": "NA",
+      "line": "Helen...",
+      "wordCount": 1
+    },
+    {
+      "id": 859,
+      "index": 859,
+      "character": "HELEN",
+      "gender": "NA",
+      "line": "Conrad! What have you done?",
+      "wordCount": 5
+    },
+    {
+      "id": 860,
+      "index": 860,
+      "character": "CONRAD",
+      "gender": "NA",
+      "line": "I won, Helen. I did it. I won. I'm the better man.",
+      "wordCount": 12
+    },
+    {
+      "id": 861,
+      "index": 861,
+      "character": "CONRAD",
+      "gender": "NA",
+      "line": "We've been through a bad patch, Helen. But now, he's gone... There's nothing to come between us...",
+      "wordCount": 17
+    },
+    {
+      "id": 862,
+      "index": 862,
+      "character": "HELEN",
+      "gender": "NA",
+      "line": "Don't touch me! You stupid piece of shit! You've ruined it! I had it all planned perfectly and you've ruined it!",
+      "wordCount": 21
+    },
+    {
+      "id": 863,
+      "index": 863,
+      "character": "HELEN",
+      "gender": "NA",
+      "line": "I have to get out of here! I have to get away!",
+      "wordCount": 12
+    },
+    {
+      "id": 864,
+      "index": 864,
+      "character": "CONRAD",
+      "gender": "NA",
+      "line": "Helen --",
+      "wordCount": 2
+    },
+    {
+      "id": 865,
+      "index": 865,
+      "character": "HELEN",
+      "gender": "NA",
+      "line": "No! Let go! Now!",
+      "wordCount": 4
+    },
+    {
+      "id": 866,
+      "index": 866,
+      "character": "HELEN",
+      "gender": "NA",
+      "line": "Conrad, damn you! Let me go!",
+      "wordCount": 6
+    },
+    {
+      "id": 867,
+      "index": 867,
+      "character": "CONRAD",
+      "gender": "NA",
+      "line": "No, Helen, you're not leaving me... not this time... not ever.",
+      "wordCount": 11
+    },
+    {
+      "id": 868,
+      "index": 868,
+      "character": "HELEN",
+      "gender": "NA",
+      "line": "No, please! Oh god, no! Oh god, please help me!",
+      "wordCount": 10
+    },
+    {
+      "id": 869,
+      "index": 869,
+      "character": "CONRAD",
+      "gender": "NA",
+      "line": "No one can help us, Helen. God is dead.",
+      "wordCount": 9
+    },
+    {
+      "id": 870,
+      "index": 870,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "V?",
+      "wordCount": 1
+    },
+    {
+      "id": 871,
+      "index": 871,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "You came back.",
+      "wordCount": 3
+    },
+    {
+      "id": 872,
+      "index": 872,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "V! V!",
+      "wordCount": 2
+    },
+    {
+      "id": 873,
+      "index": 873,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "Oh god, what happened?",
+      "wordCount": 4
+    },
+    {
+      "id": 874,
+      "index": 874,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "You need a doctor.",
+      "wordCount": 4
+    },
+    {
+      "id": 875,
+      "index": 875,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "No, don't say that!",
+      "wordCount": 4
+    },
+    {
+      "id": 876,
+      "index": 876,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "Yes, they need you, V.",
+      "wordCount": 5
+    },
+    {
+      "id": 877,
+      "index": 877,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "What?",
+      "wordCount": 1
+    },
+    {
+      "id": 878,
+      "index": 878,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "I don't understand.",
+      "wordCount": 3
+    },
+    {
+      "id": 879,
+      "index": 879,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "I promise.",
+      "wordCount": 2
+    },
+    {
+      "id": 880,
+      "index": 880,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "V, you are not going anywhere!",
+      "wordCount": 6
+    },
+    {
+      "id": 881,
+      "index": 881,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "You're not going to die, V!",
+      "wordCount": 6
+    },
+    {
+      "id": 882,
+      "index": 882,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "I won't let you die!",
+      "wordCount": 5
+    },
+    {
+      "id": 883,
+      "index": 883,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "V!",
+      "wordCount": 1
+    },
+    {
+      "id": 884,
+      "index": 884,
+      "character": "SERGEANT",
+      "gender": "NA",
+      "line": "Return to your homes! There is nothing to see! The terrorist is dead!",
+      "wordCount": 13
+    },
+    {
+      "id": 885,
+      "index": 885,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "I remember... I remember staring at the mask, at that smile.",
+      "wordCount": 11
+    },
+    {
+      "id": 886,
+      "index": 886,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "Part of me couldn't believe he was dead and maybe that was why. The smile was still the same. It made me want to tear it off so I could see the face, so I could see that he was dead.",
+      "wordCount": 41
+    },
+    {
+      "id": 887,
+      "index": 887,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "But I had promised.",
+      "wordCount": 4
+    },
+    {
+      "id": 888,
+      "index": 888,
+      "character": "V",
+      "gender": "Male",
+      "line": "You will discover the face under this mask but you will never look beneath it.",
+      "wordCount": 15
+    },
+    {
+      "id": 889,
+      "index": 889,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "I began to try to imagine his face. Of course, I had long pictured my father behind that smile but I knew in my heart that V was not my father.",
+      "wordCount": 31
+    },
+    {
+      "id": 890,
+      "index": 890,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "Yet every time I pictured another face, any face, something was lost, something important was somehow diminished. V was more than a face. V was V.",
+      "wordCount": 26
+    },
+    {
+      "id": 891,
+      "index": 891,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "And then, quite suddenly, quite naturally, I realized whose face must be beneath that mask. It was the only face that mattered.",
+      "wordCount": 22
+    },
+    {
+      "id": 892,
+      "index": 892,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "I won't let you die.",
+      "wordCount": 5
+    },
+    {
+      "id": 893,
+      "index": 893,
+      "character": "V",
+      "gender": "Male",
+      "line": "I know you won't... I know.",
+      "wordCount": 6
+    },
+    {
+      "id": 894,
+      "index": 894,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "Goodbye, my love.",
+      "wordCount": 3
+    },
+    {
+      "id": 895,
+      "index": 895,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "\"Ave Atque vale.\"",
+      "wordCount": 3
+    },
+    {
+      "id": 896,
+      "index": 896,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "I looked it up the next morning.",
+      "wordCount": 7
+    },
+    {
+      "id": 897,
+      "index": 897,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "\"Hail and farewell.\"",
+      "wordCount": 3
+    },
+    {
+      "id": 898,
+      "index": 898,
+      "character": "V",
+      "gender": "Male",
+      "line": "\"Make them remember...\"",
+      "wordCount": 3
+    },
+    {
+      "id": 899,
+      "index": 899,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "They will, my love. They will.",
+      "wordCount": 6
+    },
+    {
+      "id": 900,
+      "index": 900,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "\"Remember, remember, the fifth of November!\"",
+      "wordCount": 6
+    },
+    {
+      "id": 901,
+      "index": 901,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "I have come here tonight to keep a promise. A promise that is over four hundred years old. Tonight I am here to give you your freedom!",
+      "wordCount": 27
+    },
+    {
+      "id": 902,
+      "index": 902,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "Since mankind's dawn a handful of oppressors have accepted the responsibility over our lives, responsibility that we should have accepted ourselves. By doing so, they took our power. By doing nothing, we gave it away.",
+      "wordCount": 35
+    },
+    {
+      "id": 903,
+      "index": 903,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "Tonight, our world will change. Our leaders will be gone and we must choose what comes next. A return to the chains of others or lives of our own. A world of the past or one of the future.",
+      "wordCount": 39
+    },
+    {
+      "id": 904,
+      "index": 904,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "Let us choose carefully, London, and when we do, let us mark well and remember, remember this fifth of November!",
+      "wordCount": 20
+    },
+    {
+      "id": 905,
+      "index": 905,
+      "character": "V",
+      "gender": "Male",
+      "line": "Let me be there, Evey, when it begins...",
+      "wordCount": 8
+    },
+    {
+      "id": 906,
+      "index": 906,
+      "character": "V",
+      "gender": "Male",
+      "line": "Please let me hear the music... one last time... my music.",
+      "wordCount": 11
+    },
+    {
+      "id": 907,
+      "index": 907,
+      "character": "V",
+      "gender": "Male",
+      "line": "At first, you have to listen carefully.",
+      "wordCount": 7
+    },
+    {
+      "id": 908,
+      "index": 908,
+      "character": "V",
+      "gender": "Male",
+      "line": "Ah, yes. There it is. Beautiful, is it not?",
+      "wordCount": 9
+    },
+    {
+      "id": 909,
+      "index": 909,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "Yes, my love. Yes it is.",
+      "wordCount": 6
+    },
+    {
+      "id": 910,
+      "index": 910,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "I know that there is only one way to repay him for what he did.",
+      "wordCount": 15
+    },
+    {
+      "id": 911,
+      "index": 911,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "And I know that that way is going to take a lot of hard work.",
+      "wordCount": 15
+    },
+    {
+      "id": 912,
+      "index": 912,
+      "character": "EVEY",
+      "gender": "Female",
+      "line": "I know this like I know the sun will rise tomorrow and beneath that new sun, our work will begin.",
+      "wordCount": 20
+    },
+    {
+      "id": 913,
+      "index": 913,
+      "character": "",
+      "gender": "Male"
+    }
+  ]
+}

@@ -1,0 +1,6204 @@
+{
+  "fileName": "Jurassic-Park_dialogue.txt",
+  "title": "Jurassic Park",
+  "data": [
+    {
+      "id": 0,
+      "index": 0,
+      "character": "SLOW MOTION",
+      "gender": "NA",
+      "line": "as the tip of a fine-pointed drill bores into the amber toward the trapped bug. Orange flecks fly. The mosquito trembles. The drill continues, stopping just before it touches the tiny body.",
+      "wordCount": 32
+    },
+    {
+      "id": 1,
+      "index": 1,
+      "character": "NG",
+      "gender": "NA",
+      "line": "PANORAMA of a dinosaur dig, a major excavation filled with workers shoveling earth and stone, making measurements, taking photographs, scribbling notes, and conferring with each other.",
+      "wordCount": 26
+    },
+    {
+      "id": 2,
+      "index": 2,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "Right calcaneus of an adult female raptor. Mild stress fractures. What's this tell me?",
+      "wordCount": 14
+    },
+    {
+      "id": 3,
+      "index": 3,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "It tells me that this bone connects to the navicula which we already found articulating to the cuboid.",
+      "wordCount": 18
+    },
+    {
+      "id": 4,
+      "index": 4,
+      "character": "STUDENT",
+      "gender": "NA",
+      "line": "Dr. Sattler! Dr. Grant is thinking!",
+      "wordCount": 6
+    },
+    {
+      "id": 5,
+      "index": 5,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "So, what can we stay for sure? Stress fractures in the heel ...",
+      "wordCount": 13
+    },
+    {
+      "id": 6,
+      "index": 6,
+      "character": "ELLIE",
+      "gender": "Female",
+      "line": "She jumps.",
+      "wordCount": 2
+    },
+    {
+      "id": 7,
+      "index": 7,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "Right as rain, Ellie. Now, why did she jump?",
+      "wordCount": 9
+    },
+    {
+      "id": 8,
+      "index": 8,
+      "character": "ELLIE",
+      "gender": "Female",
+      "line": "A defensive posture against a vicious, blood-thirsty T-Rex?",
+      "wordCount": 8
+    },
+    {
+      "id": 9,
+      "index": 9,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "Perhaps. Or maybe to select the smaller, more tender leaves in the higher branches with which to suckle her young?",
+      "wordCount": 20
+    },
+    {
+      "id": 10,
+      "index": 10,
+      "character": "ELLIE",
+      "gender": "Female",
+      "line": "I bet is was a mating ritual.",
+      "wordCount": 7
+    },
+    {
+      "id": 11,
+      "index": 11,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "The science of paleontology can't answer these questions. Novelists and artists who dream a vision of the Jurassic period can attempt these questions with their imaginations. What we scientists can say is considering the mass and kinetic articulation of these bones, this animal had a vertical leap of about twelve feet. Not as entertaining as fiction, but absolutely fact without prejudice.",
+      "wordCount": 61
+    },
+    {
+      "id": 12,
+      "index": 12,
+      "character": "ELLIE",
+      "gender": "Female",
+      "line": "Excuse me, Dr. Grant. But ... fact is, we're late. There's the car.",
+      "wordCount": 13
+    },
+    {
+      "id": 13,
+      "index": 13,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "Jim, you keep making up the plaster batches. Whatever ratio you're using, it's perfect. Nora, no digging after five - when the temperature drops, those bones are just too brittle. Bill, I don't want any tourists walking over my raptor - I don't care if the Governor of Montana is with them, just you guys.",
+      "wordCount": 55
+    },
+    {
+      "id": 14,
+      "index": 14,
+      "character": "ELLIE",
+      "gender": "Female",
+      "line": "You know, if ev ery scientist stuck to his method like you, there would be no body of theory - no quasars, no big bang -",
+      "wordCount": 26
+    },
+    {
+      "id": 15,
+      "index": 15,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "Jesus, a limousine. We're re-entering Hammond's world, that's for sure. Remind me why we're doing this, Ellie.",
+      "wordCount": 17
+    },
+    {
+      "id": 16,
+      "index": 16,
+      "character": "ELLIE",
+      "gender": "Female",
+      "line": "We're leaving the raptor dig -",
+      "wordCount": 6
+    },
+    {
+      "id": 17,
+      "index": 17,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "- at a critical time -",
+      "wordCount": 6
+    },
+    {
+      "id": 18,
+      "index": 18,
+      "character": "ELLIE",
+      "gender": "Female",
+      "line": "- because Gennaro is paying us sixty thousand dollars to observe some resort of Hammond's in Costa Rica. And that's -",
+      "wordCount": 21
+    },
+    {
+      "id": 19,
+      "index": 19,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "- enough money to keep us free of commercial affiliations for two summers. All right, all right. Good.",
+      "wordCount": 18
+    },
+    {
+      "id": 20,
+      "index": 20,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "Financial independence for fraternizing with the enemy? I'll do it.",
+      "wordCount": 10
+    },
+    {
+      "id": 21,
+      "index": 21,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "This is all could come up with, Skip?",
+      "wordCount": 8
+    },
+    {
+      "id": 22,
+      "index": 22,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "Wise guy. Let's go, Ellie.",
+      "wordCount": 5
+    },
+    {
+      "id": 23,
+      "index": 23,
+      "character": "MOUTH",
+      "gender": "NA",
+      "line": "Five hundred thousand is peanuts!",
+      "wordCount": 5
+    },
+    {
+      "id": 24,
+      "index": 24,
+      "character": "NEDRY",
+      "gender": "Male",
+      "line": "I'm not reneging. I'm re-evaluating.",
+      "wordCount": 5
+    },
+    {
+      "id": 25,
+      "index": 25,
+      "character": "NEDRY",
+      "gender": "Male",
+      "line": "You think I'm a scumbag, I know.",
+      "wordCount": 7
+    },
+    {
+      "id": 26,
+      "index": 26,
+      "character": "NEDRY",
+      "gender": "Male",
+      "line": "Look pal, you make a career in biogenetic industrial espionage, and you're bound to run across a scumbag or two. Guaranteed! Part of the job description. Look, who's to say, who is the real scumbag? After all, I know what you guys need so bad. I've heard of reverse engineering.",
+      "wordCount": 50
+    },
+    {
+      "id": 27,
+      "index": 27,
+      "character": "NEDRY",
+      "gender": "Male",
+      "line": "Let the other guy put in all the work, all the R and D. You take the finished product, work backwards, breaking it down to reveal its genetic code. Presto! In a few measly months you have know-how that took researchers ten years to determine. You know how much Hammond has invested of his own personal wealth? Over five billion dollars! And if you guys get the jump on his - in no time, the market's wide-open.",
+      "wordCount": 77
+    },
+    {
+      "id": 28,
+      "index": 28,
+      "character": "NEDRY",
+      "gender": "Male",
+      "line": "But, boy, he's really got his product! Oh yes siree, massive, gargantuan, money- making, never-heard-of-profit-like-that product. It is a sight! Yes, indeedy!",
+      "wordCount": 22
+    },
+    {
+      "id": 29,
+      "index": 29,
+      "character": "BAKER",
+      "gender": "NA",
+      "line": "Scumbag. We have a deal. That deal is not open to renegotiation. Or even re- evaluation.",
+      "wordCount": 16
+    },
+    {
+      "id": 30,
+      "index": 30,
+      "character": "BAKER",
+      "gender": "NA",
+      "line": "The deal stands. Take it or leave it.",
+      "wordCount": 8
+    },
+    {
+      "id": 31,
+      "index": 31,
+      "character": "BAKER",
+      "gender": "NA",
+      "line": "I'll give you a few minutes to decide.",
+      "wordCount": 8
+    },
+    {
+      "id": 32,
+      "index": 32,
+      "character": "BAKER",
+      "gender": "NA",
+      "line": "Make sure the eggs are on that supply ship. Just make sure!",
+      "wordCount": 12
+    },
+    {
+      "id": 33,
+      "index": 33,
+      "character": "ROSS",
+      "gender": "NA",
+      "line": "We can't trust Hammond anymore. He's under too much pressure. There's the EPA, he's behind schedule, and the in- vestors are getting nervous. There have been too many rumors, too many accidents. We can't screw around with this.",
+      "wordCount": 38
+    },
+    {
+      "id": 34,
+      "index": 34,
+      "character": "GENNARO",
+      "gender": "Male",
+      "line": "I've asked Hammond to arrange independent site inspections every week for the next three weeks.",
+      "wordCount": 15
+    },
+    {
+      "id": 35,
+      "index": 35,
+      "character": "ROS",
+      "gender": "Male",
+      "line": "What does he say?",
+      "wordCount": 4
+    },
+    {
+      "id": 36,
+      "index": 36,
+      "character": "GENNARO",
+      "gender": "Male",
+      "line": "Insists nothing's wrong on the island.",
+      "wordCount": 6
+    },
+    {
+      "id": 37,
+      "index": 37,
+      "character": "ROSS",
+      "gender": "NA",
+      "line": "You know him. Do you believe him?",
+      "wordCount": 7
+    },
+    {
+      "id": 38,
+      "index": 38,
+      "character": "GENNARO",
+      "gender": "Male",
+      "line": "No, I don't. I spent a lot of time with him five years ago when we raised the capital. And it was a wild ride. He's unpredictable, a dreamer.",
+      "wordCount": 29
+    },
+    {
+      "id": 39,
+      "index": 39,
+      "character": "ROSS",
+      "gender": "NA",
+      "line": "Potentially dangerous. We should never have gotten involved. What's our position?",
+      "wordCount": 11
+    },
+    {
+      "id": 40,
+      "index": 40,
+      "character": "GENNARO",
+      "gender": "Male",
+      "line": "The firm owns five percent.",
+      "wordCount": 5
+    },
+    {
+      "id": 41,
+      "index": 41,
+      "character": "ROSS",
+      "gender": "NA",
+      "line": "General or limited?",
+      "wordCount": 3
+    },
+    {
+      "id": 42,
+      "index": 42,
+      "character": "GENNARO",
+      "gender": "Male",
+      "line": "General.",
+      "wordCount": 1
+    },
+    {
+      "id": 43,
+      "index": 43,
+      "character": "ROSS",
+      "gender": "NA",
+      "line": "We should have never done that.",
+      "wordCount": 6
+    },
+    {
+      "id": 44,
+      "index": 44,
+      "character": "GENNARO",
+      "gender": "Male",
+      "line": "It seemed wise at the time. We all wanted the park to happen. It was in lieu of fees.",
+      "wordCount": 19
+    },
+    {
+      "id": 45,
+      "index": 45,
+      "character": "ROSS",
+      "gender": "NA",
+      "line": "Will they tell the truth?",
+      "wordCount": 5
+    },
+    {
+      "id": 46,
+      "index": 46,
+      "character": "GENNARO",
+      "gender": "Male",
+      "line": "I think so. That guy Grant's a hotshot in his field, always goes his own way -",
+      "wordCount": 17
+    },
+    {
+      "id": 47,
+      "index": 47,
+      "character": "ROSS",
+      "gender": "NA",
+      "line": "- Good. You're making all the arrangements?",
+      "wordCount": 7
+    },
+    {
+      "id": 48,
+      "index": 48,
+      "character": "GENNARO",
+      "gender": "Male",
+      "line": "Hammond asked to place the calls himself. I think he wants to pretend the park is not in trouble. That it's just a social invitation, showing off the island.",
+      "wordCount": 29
+    },
+    {
+      "id": 49,
+      "index": 49,
+      "character": "ROSS",
+      "gender": "NA",
+      "line": "All right ... Good. But let's be very clear about one thing. I don't know how bad this situation actually is, Donald. But if there's a problem on that island - don't be afraid to screw Hammond and burn Jurassic Park to the ground.",
+      "wordCount": 44
+    },
+    {
+      "id": 50,
+      "index": 50,
+      "character": "ROSS",
+      "gender": "NA",
+      "line": "Costa Rica, my ass.",
+      "wordCount": 4
+    },
+    {
+      "id": 51,
+      "index": 51,
+      "character": "PILOT",
+      "gender": "NA",
+      "line": "That's Isla Nublar. Buckle up, the descent is a little hairy.",
+      "wordCount": 11
+    },
+    {
+      "id": 52,
+      "index": 52,
+      "character": "ELLIE",
+      "gender": "Female",
+      "line": "This is exciting!",
+      "wordCount": 3
+    },
+    {
+      "id": 53,
+      "index": 53,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "What is, Ellie? Where are we going?",
+      "wordCount": 7
+    },
+    {
+      "id": 54,
+      "index": 54,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "Looks like Alcatraz.",
+      "wordCount": 3
+    },
+    {
+      "id": 55,
+      "index": 55,
+      "character": "PILOT",
+      "gender": "NA",
+      "line": "There's bad wind shear on this peak.",
+      "wordCount": 7
+    },
+    {
+      "id": 56,
+      "index": 56,
+      "character": "ELLIE",
+      "gender": "Female",
+      "line": "How the hell is he landing this thing?",
+      "wordCount": 8
+    },
+    {
+      "id": 57,
+      "index": 57,
+      "character": "ELLIE",
+      "gender": "Female",
+      "line": "This is not fun.",
+      "wordCount": 4
+    },
+    {
+      "id": 58,
+      "index": 58,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "Relax, Ellie. I'm sure they wouldn't land if it weren't safe.",
+      "wordCount": 11
+    },
+    {
+      "id": 59,
+      "index": 59,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "Gennaro? This guy knows what he's doing, Right? Hey, Gennaro? I'm talking to you!",
+      "wordCount": 14
+    },
+    {
+      "id": 60,
+      "index": 60,
+      "character": "GENNARO",
+      "gender": "Male",
+      "line": "No problem. Relax, relax.",
+      "wordCount": 4
+    },
+    {
+      "id": 61,
+      "index": 61,
+      "character": "GRANT AND ELLIE",
+      "gender": "NA",
+      "line": "Whoa!!!!",
+      "wordCount": 1
+    },
+    {
+      "id": 62,
+      "index": 62,
+      "character": "ELLIE",
+      "gender": "Female",
+      "line": "I don't like this feeling ...",
+      "wordCount": 6
+    },
+    {
+      "id": 63,
+      "index": 63,
+      "character": "NEDRY",
+      "gender": "Male",
+      "line": "Just think, Gennaro - - you gotta agree it's funny! These two, they dig up dinosaurs! It's wonderful, isn't it?",
+      "wordCount": 20
+    },
+    {
+      "id": 64,
+      "index": 64,
+      "character": "NEDRY",
+      "gender": "Male",
+      "line": "Dr. Bones, you're going to love this place.",
+      "wordCount": 8
+    },
+    {
+      "id": 65,
+      "index": 65,
+      "character": "PILOT",
+      "gender": "NA",
+      "line": "Come on folks. Gotta get back, there's a storm alert.",
+      "wordCount": 10
+    },
+    {
+      "id": 66,
+      "index": 66,
+      "character": "REGIS",
+      "gender": "NA",
+      "line": "Hi! Ed Regis. Real big welcome to Isla Nublar, Dr. Grant, Dr. Sattler. Little tough landing here, I know. But you did it! Come on down, we're so happy to have you. Now, watch your step.",
+      "wordCount": 36
+    },
+    {
+      "id": 67,
+      "index": 67,
+      "character": "ED REGIS",
+      "gender": "NA",
+      "line": "This is Robert Muldoon, great African big game hunter. And he's working for us now. Doing a bang-up job, too.",
+      "wordCount": 20
+    },
+    {
+      "id": 68,
+      "index": 68,
+      "character": "MULDOON",
+      "gender": "Male",
+      "line": "Ed's a little more BS than PR. Mr. Gennaro, nice to have you back.",
+      "wordCount": 14
+    },
+    {
+      "id": 69,
+      "index": 69,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "Mr. Regis, what is the nature of this park?",
+      "wordCount": 9
+    },
+    {
+      "id": 70,
+      "index": 70,
+      "character": "ELLIE",
+      "gender": "Female",
+      "line": "Aggressive growth, huh?",
+      "wordCount": 3
+    },
+    {
+      "id": 71,
+      "index": 71,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "Hammond's trademark.",
+      "wordCount": 2
+    },
+    {
+      "id": 72,
+      "index": 72,
+      "character": "REGIS",
+      "gender": "NA",
+      "line": "Out animals are greeting you!",
+      "wordCount": 5
+    },
+    {
+      "id": 73,
+      "index": 73,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "I hope this isn't one of those animatronic exhibits in a Jurassic botanical setting.",
+      "wordCount": 14
+    },
+    {
+      "id": 74,
+      "index": 74,
+      "character": "NEDRY",
+      "gender": "Male",
+      "line": "Nope.",
+      "wordCount": 1
+    },
+    {
+      "id": 75,
+      "index": 75,
+      "character": "REGIS",
+      "gender": "NA",
+      "line": "I hope you brought your bathing suits! Doesn't this mist and these plants really create a bonafide prehistoric feeling?",
+      "wordCount": 19
+    },
+    {
+      "id": 76,
+      "index": 76,
+      "character": "REGIS",
+      "gender": "NA",
+      "line": "There's the Visitor's Center.",
+      "wordCount": 4
+    },
+    {
+      "id": 77,
+      "index": 77,
+      "character": "REGIS",
+      "gender": "NA",
+      "line": "Mr. Hammond is dying to see you guys.",
+      "wordCount": 8
+    },
+    {
+      "id": 78,
+      "index": 78,
+      "character": "GENNARO",
+      "gender": "Male",
+      "line": "Hot, hot, hot. Ten billion bucks and the air conditioning sucks.",
+      "wordCount": 11
+    },
+    {
+      "id": 79,
+      "index": 79,
+      "character": "ELLIE",
+      "gender": "Female",
+      "line": "The audicity of man to get here at the last second and think he runs the show.",
+      "wordCount": 17
+    },
+    {
+      "id": 80,
+      "index": 80,
+      "character": "VOICE",
+      "gender": "NA",
+      "line": "Please come to the theater. In a moment, our film will begin.",
+      "wordCount": 12
+    },
+    {
+      "id": 81,
+      "index": 81,
+      "character": "HAMMOND",
+      "gender": "Male",
+      "line": "Welcome, ladies and gentlemen. Welcome to an ancient and mysterious world, a world long before humankind inhabited it with all out remarkable dreams and questions. Enter a world that existed one hundred million years ago. When our changing earth was the abode of magnificent creations.",
+      "wordCount": 45
+    },
+    {
+      "id": 82,
+      "index": 82,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "- the furious haste to commercialize genetic engineering.",
+      "wordCount": 8
+    },
+    {
+      "id": 83,
+      "index": 83,
+      "character": "HAMMOND",
+      "gender": "Male",
+      "line": "Biotechnology promises the greatest revolution in human history. It will outdistance atomic power and computers in its effects on our everyday lives. We'll see square trees for easy lumbering and white trout for super visibility to fisherman. Why it will transform every aspect of human life: out medical care, our food, our health, even our very entertainment.",
+      "wordCount": 57
+    },
+    {
+      "id": 84,
+      "index": 84,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "Here we go.",
+      "wordCount": 3
+    },
+    {
+      "id": 85,
+      "index": 85,
+      "character": "HAMMOND",
+      "gender": "Male",
+      "line": "... Jurassic Park. What we do here is made possible through the miracle of DNA replication, commonly known as cloning. To explain what cloning means, I'm going to need my own clone - John Hammond.",
+      "wordCount": 35
+    },
+    {
+      "id": 86,
+      "index": 86,
+      "character": "2ND HAMMOND",
+      "gender": "NA",
+      "line": "Hi, John!",
+      "wordCount": 2
+    },
+    {
+      "id": 87,
+      "index": 87,
+      "character": "HAMMOND",
+      "gender": "Male",
+      "line": "Hi, John.",
+      "wordCount": 2
+    },
+    {
+      "id": 88,
+      "index": 88,
+      "character": "HAMMOND",
+      "gender": "Male",
+      "line": "Okay John, hold out your finger.",
+      "wordCount": 6
+    },
+    {
+      "id": 89,
+      "index": 89,
+      "character": "2ND HAMMOND",
+      "gender": "NA",
+      "line": "Why?",
+      "wordCount": 1
+    },
+    {
+      "id": 90,
+      "index": 90,
+      "character": "HAMMOND",
+      "gender": "Male",
+      "line": "I need some of your genetic material.",
+      "wordCount": 7
+    },
+    {
+      "id": 91,
+      "index": 91,
+      "character": "2ND HAMMOND",
+      "gender": "NA",
+      "line": "Now just a minute here, John.",
+      "wordCount": 6
+    },
+    {
+      "id": 92,
+      "index": 92,
+      "character": "HAMMOND",
+      "gender": "Male",
+      "line": "Your genetic material is the same in every cell of your body. You have a hundred billion cells. You won't miss a couple.",
+      "wordCount": 23
+    },
+    {
+      "id": 93,
+      "index": 93,
+      "character": "2ND HAMMOND",
+      "gender": "NA",
+      "line": "OW!!! That hurt! Hey, what's -",
+      "wordCount": 6
+    },
+    {
+      "id": 94,
+      "index": 94,
+      "character": "HAMMOND",
+      "gender": "Male",
+      "line": "John, let's look into your blood, the river of life. There's your white cells, exquisitely evolved to clean up bodily wastes. And there's a mighty nucleus, the heart and brain of a cell. This nucleus has an amazing property. It can sp lit in half and reproduce itself. That's how it grows. And then those two can do it again. And again. Making copy after copy of itself.",
+      "wordCount": 68
+    },
+    {
+      "id": 95,
+      "index": 95,
+      "character": "NEW HAMMOND'S",
+      "gender": "NA",
+      "line": "Hi, I'm John Hammond. Hey, I'm John Hammond. No, I am. I am.",
+      "wordCount": 13
+    },
+    {
+      "id": 96,
+      "index": 96,
+      "character": "HAMMOND",
+      "gender": "Male",
+      "line": "Come on, that's enough of this! And I thought to reproduce myself I had to do it the old-fashioned way.",
+      "wordCount": 20
+    },
+    {
+      "id": 97,
+      "index": 97,
+      "character": "HAMMOND",
+      "gender": "Male",
+      "line": "That's all we've got so far. A lot of fun, isn't it, Mr. Gennaro?",
+      "wordCount": 14
+    },
+    {
+      "id": 98,
+      "index": 98,
+      "character": "REGIS",
+      "gender": "NA",
+      "line": "You bet!",
+      "wordCount": 2
+    },
+    {
+      "id": 99,
+      "index": 99,
+      "character": "HAMMOND",
+      "gender": "Male",
+      "line": "It's been a long time, Alan. I know the preceding was not your sort of enter- tainment. Popular science -",
+      "wordCount": 20
+    },
+    {
+      "id": 100,
+      "index": 100,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "No, I don't mind popular science. I dislike the commercialization of science. It breeds a sloppiness, a disregard for method.",
+      "wordCount": 20
+    },
+    {
+      "id": 101,
+      "index": 101,
+      "character": "HAMMOND",
+      "gender": "Male",
+      "line": "Well, I don't disregard method. But think of mutation - which is nothing more than sloppy communication on the cellular level. Think how triumphant mutations have been in natural selection.",
+      "wordCount": 30
+    },
+    {
+      "id": 102,
+      "index": 102,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "Mr. Hammond, the essential truth of a scientific law ha s nothing to do with public reaction. Water freezes at thirty-two degrees, whether you pay for it or not.",
+      "wordCount": 29
+    },
+    {
+      "id": 103,
+      "index": 103,
+      "character": "HAMMOND",
+      "gender": "Male",
+      "line": "Donald, in bringing my old friend, Alan Grant, you've brought an excellent critic to observe the viability of my island and out venture. I look forward to winning you over, Dr. Grant.",
+      "wordCount": 32
+    },
+    {
+      "id": 104,
+      "index": 104,
+      "character": "ELLIE",
+      "gender": "Female",
+      "line": "Just what is it you're trying to clone?",
+      "wordCount": 8
+    },
+    {
+      "id": 105,
+      "index": 105,
+      "character": "LEX",
+      "gender": "Female",
+      "line": "Grandpa!",
+      "wordCount": 1
+    },
+    {
+      "id": 106,
+      "index": 106,
+      "character": "GENNARO",
+      "gender": "Male",
+      "line": "Mr. Hammond, this is a serious investiga- tion of the island, not a weekend excursion or a social outing. We're talking about the safety of this place!",
+      "wordCount": 27
+    },
+    {
+      "id": 107,
+      "index": 107,
+      "character": "HAMMOND",
+      "gender": "Male",
+      "line": "I'm aware of that. But I built this place for children. You can't investigate it without their reactions. They're what this place is all about.",
+      "wordCount": 25
+    },
+    {
+      "id": 108,
+      "index": 108,
+      "character": "HAMMOND",
+      "gender": "Male",
+      "line": "My grandchildren. Genetics were kind. They're more like my ex-wife than me.",
+      "wordCount": 12
+    },
+    {
+      "id": 109,
+      "index": 109,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "Who makes a windows ... smaller?",
+      "wordCount": 6
+    },
+    {
+      "id": 110,
+      "index": 110,
+      "character": "TIMMY",
+      "gender": "NA",
+      "line": "I know you. You wrote my book. Lost World of The Dinosaurs. It's awesome.",
+      "wordCount": 14
+    },
+    {
+      "id": 111,
+      "index": 111,
+      "character": "LEX",
+      "gender": "Female",
+      "line": "Timmy's got dinosaurs on the brain.",
+      "wordCount": 6
+    },
+    {
+      "id": 112,
+      "index": 112,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "Don't worry - he'll grow out of it.",
+      "wordCount": 8
+    },
+    {
+      "id": 113,
+      "index": 113,
+      "character": "ELLIE",
+      "gender": "Female",
+      "line": "Dr. Grant's embarrassed that his book was so widely successful. He wrote if for gra duate students.",
+      "wordCount": 17
+    },
+    {
+      "id": 114,
+      "index": 114,
+      "character": "HAMMOND",
+      "gender": "Male",
+      "line": "Although Dr. Grant suspects otherwise, this is not an ill-conceived, half-baked, poorly funded plan that I've headed. This is a plan to which I committed all of my personal resources, literally billions of dollars. And Donald Gennaro here has kindly helped me raise that sum again from wealthy Japanese. They love theme parks. I have recruited pre- eminent scientific minds from hallowed universities and we've taken the time to do things right.",
+      "wordCount": 72
+    },
+    {
+      "id": 115,
+      "index": 115,
+      "character": "HAMMOND",
+      "gender": "Male",
+      "line": "Jurassic Park is the most advanced amusement park in the world. We work with genetics - life's essential building blocks - to create new worlds. I set out to make biological attractions. Living attractions. Attractions so astonishing that they'd capture the imagination of the entire world.",
+      "wordCount": 46
+    },
+    {
+      "id": 116,
+      "index": 116,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "What exactly do you mean ... biological attractions?",
+      "wordCount": 8
+    },
+    {
+      "id": 117,
+      "index": 117,
+      "character": "HAMMOND",
+      "gender": "Male",
+      "line": "As you well know, long ago, creatures ten times larger than whales roamed our adolescent Earth. And then mass, mysterious extinction created a time barrier unscalable until ... now.",
+      "wordCount": 29
+    },
+    {
+      "id": 118,
+      "index": 118,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "Yes?",
+      "wordCount": 1
+    },
+    {
+      "id": 119,
+      "index": 119,
+      "character": "HAMMOND",
+      "gender": "Male",
+      "line": "Dinosaurs. I've been cloning dinosaurs!",
+      "wordCount": 5
+    },
+    {
+      "id": 120,
+      "index": 120,
+      "character": "HAMMOND",
+      "gender": "Male",
+      "line": "Ladies and Gentlemen, Jurassic Park. Not a resort, not a scien tific conservatory, just a little piece of pre-history that every child in the whole wide world will insist on visiting.",
+      "wordCount": 31
+    },
+    {
+      "id": 121,
+      "index": 121,
+      "character": "GENNARO",
+      "gender": "Male",
+      "line": "At least every rich child.",
+      "wordCount": 5
+    },
+    {
+      "id": 122,
+      "index": 122,
+      "character": "HAMMOND",
+      "gender": "Male",
+      "line": "Apatosaurs in the lowland. Gallimimus in the grassy plain. Dilophosaurus above the river. The mighty Tyrannosaurus Rex! 238 fabulous creatures so far!",
+      "wordCount": 22
+    },
+    {
+      "id": 123,
+      "index": 123,
+      "character": "TIMMY",
+      "gender": "NA",
+      "line": "Real dinosaurs, Grandpa? Don't they want to just kill each other?",
+      "wordCount": 11
+    },
+    {
+      "id": 124,
+      "index": 124,
+      "character": "HAMMOND",
+      "gender": "Male",
+      "line": "Timmy, there's electric fences and moats and video surveillance at all times. There are monitors every hundred feet whatever we could plant them on the island. A computer to tabulate it all.",
+      "wordCount": 32
+    },
+    {
+      "id": 125,
+      "index": 125,
+      "character": "ELLIE",
+      "gender": "Female",
+      "line": "You created dinosaurs? Who gave you the right to do that?",
+      "wordCount": 11
+    },
+    {
+      "id": 126,
+      "index": 126,
+      "character": "HAMMOND",
+      "gender": "Male",
+      "line": "I didn't create them. I found a way to wake them up, to stir them out of their prehistoric slumber.",
+      "wordCount": 20
+    },
+    {
+      "id": 127,
+      "index": 127,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "We don't have the science. There's no source of dinosaur DNA.",
+      "wordCount": 11
+    },
+    {
+      "id": 128,
+      "index": 128,
+      "character": "HAMMOND",
+      "gender": "Male",
+      "line": "Yes ... there is.",
+      "wordCount": 4
+    },
+    {
+      "id": 129,
+      "index": 129,
+      "character": "HAMMOND",
+      "gender": "Male",
+      "line": "Glitches.",
+      "wordCount": 1
+    },
+    {
+      "id": 130,
+      "index": 130,
+      "character": "HAMMOND",
+      "gender": "Male",
+      "line": "And this is the right side of my brain. The entire park is safely controlled from here. John Arnold, that genius over there, is the m aster control operator. John, don't smoke so much, you're far too valuable a man to me.",
+      "wordCount": 42
+    },
+    {
+      "id": 131,
+      "index": 131,
+      "character": "ARNOLD",
+      "gender": "Male",
+      "line": "Oh, you'd survive just fine without me.",
+      "wordCount": 7
+    },
+    {
+      "id": 132,
+      "index": 132,
+      "character": "HAMMOND",
+      "gender": "Male",
+      "line": "Everything's controlled from here. Remote everything. Cars, feeding programs, medicine dispensers, fecal clean up - and that can be tons in a park like this. We run this place with twenty workers. This computer does it all. And it polices each and every single animal out there.",
+      "wordCount": 47
+    },
+    {
+      "id": 133,
+      "index": 133,
+      "character": "ELLIE",
+      "gender": "Female",
+      "line": "Who polices the computer?",
+      "wordCount": 4
+    },
+    {
+      "id": 134,
+      "index": 134,
+      "character": "HAMMOND",
+      "gender": "Male",
+      "line": "That's where I will watch the astonished watchers. Okay, let's go.",
+      "wordCount": 11
+    },
+    {
+      "id": 135,
+      "index": 135,
+      "character": "NEDRY",
+      "gender": "Male",
+      "line": "Thanks for the kind word, Mr. Hammond.",
+      "wordCount": 7
+    },
+    {
+      "id": 136,
+      "index": 136,
+      "character": "ARNOLD",
+      "gender": "Male",
+      "line": "Come on, Dennis, he knows your technical contributions have made it all possible.",
+      "wordCount": 13
+    },
+    {
+      "id": 137,
+      "index": 137,
+      "character": "NEDRY",
+      "gender": "Male",
+      "line": "Right.",
+      "wordCount": 1
+    },
+    {
+      "id": 138,
+      "index": 138,
+      "character": "TIMMY",
+      "gender": "NA",
+      "line": "That stuff turns you into a mutant!",
+      "wordCount": 7
+    },
+    {
+      "id": 139,
+      "index": 139,
+      "character": "HAMMOND",
+      "gender": "Male",
+      "line": "Don't mind the signs. They're only legal precautions.",
+      "wordCount": 8
+    },
+    {
+      "id": 140,
+      "index": 140,
+      "character": "HAMMOND",
+      "gender": "Male",
+      "line": "My laboratory, Lex. It will be yours and Timmy's someday.",
+      "wordCount": 10
+    },
+    {
+      "id": 141,
+      "index": 141,
+      "character": "LEX",
+      "gender": "Female",
+      "line": "It's ... gold!",
+      "wordCount": 3
+    },
+    {
+      "id": 142,
+      "index": 142,
+      "character": "TIMMY",
+      "gender": "NA",
+      "line": "It's amber. Fossilized tree sap.",
+      "wordCount": 5
+    },
+    {
+      "id": 143,
+      "index": 143,
+      "character": "LEX",
+      "gender": "Female",
+      "line": "Grandpa found gold.",
+      "wordCount": 3
+    },
+    {
+      "id": 144,
+      "index": 144,
+      "character": "HAMMOND",
+      "gender": "Male",
+      "line": "You're both right. Amber is our gold. The alpha or our alchemic alphabet. The precious course of our genetic material. You already know amber is the fossilized resin of prehistoric tree sap, of course.",
+      "wordCount": 34
+    },
+    {
+      "id": 145,
+      "index": 145,
+      "character": "HAMMOND",
+      "gender": "Male",
+      "line": "Imagine - millions of years ago, tree sap flowing over insects, as it does now as I speak, in thousands of forests and backyard trees everywhere. Imagine that ancient sap trapping a little struggling insect and consuming it in a syrupy death. Millions and millions of years pass and we come along and discover this prehistoric insect. If we're lucky, he's perfectly preserved in a fossil form inside the hardened sap which is now amber. And as we examine more and more amber, we find many perished insects, including among them, biting insects -",
+      "wordCount": 94
+    },
+    {
+      "id": 146,
+      "index": 146,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "Like mosquitos -",
+      "wordCount": 3
+    },
+    {
+      "id": 147,
+      "index": 147,
+      "character": "HAMMOND",
+      "gender": "Male",
+      "line": "Like mosquitos, precisely, Dr. Grant.",
+      "wordCount": 5
+    },
+    {
+      "id": 148,
+      "index": 148,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "Mosquitos that sucked the blood of dinosaurs. That's your source of DNA",
+      "wordCount": 12
+    },
+    {
+      "id": 149,
+      "index": 149,
+      "character": "HAMMOND",
+      "gender": "Male",
+      "line": "The extraction room speaks for itself.",
+      "wordCount": 6
+    },
+    {
+      "id": 150,
+      "index": 150,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "It does?",
+      "wordCount": 2
+    },
+    {
+      "id": 151,
+      "index": 151,
+      "character": "LEX",
+      "gender": "Female",
+      "line": "That's a million year old mosquito?",
+      "wordCount": 6
+    },
+    {
+      "id": 152,
+      "index": 152,
+      "character": "ELLIE",
+      "gender": "Female",
+      "line": "Put in a piece of amber, find a mosquito, drill it out. Right?",
+      "wordCount": 13
+    },
+    {
+      "id": 153,
+      "index": 153,
+      "character": "HAMMOND",
+      "gender": "Male",
+      "line": "Right. You are witnessing the extraction of tissue from the thorax of this humble insect. If this mosquito has ingested any foreign red blood cells - say it bit a hadrosaur or a stegosaurus or a T-Rex - we will extract those blood cells and obtain paleo-DNA, the how-to-build instruction book of an extinct creature. So you see, Ellie, I'm not creating dino- saurs. Fossils left behind the information, the map of how to bring them back. I'm helping them escape from the confined of time.",
+      "wordCount": 86
+    },
+    {
+      "id": 154,
+      "index": 154,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "But even thousands of mosquitos wouldn't give you enough tissue to determine a complete DNA strand.",
+      "wordCount": 16
+    },
+    {
+      "id": 155,
+      "index": 155,
+      "character": "HAMMOND",
+      "gender": "Male",
+      "line": "Right you are, Dr. Grant! More like hundreds of thousands of mosquitos are necessary to provide even a partial strand of DNA. And without a complete strand, we don't have a dinosaur.",
+      "wordCount": 32
+    },
+    {
+      "id": 156,
+      "index": 156,
+      "character": "HAMMOND",
+      "gender": "Male",
+      "line": "Ah, I knew you two would hit it off! Dr. Grant, this is Dr. Wu, my chief geneticist.",
+      "wordCount": 18
+    },
+    {
+      "id": 157,
+      "index": 157,
+      "character": "WU",
+      "gender": "Male",
+      "line": "Finally, you are here! I've been working without the encouragement of my peers for too long. Welcome, welcome!",
+      "wordCount": 18
+    },
+    {
+      "id": 158,
+      "index": 158,
+      "character": "WU",
+      "gender": "Male",
+      "line": "Mr. Hammond never lets me publish and he's interested only in results, not in science.",
+      "wordCount": 15
+    },
+    {
+      "id": 159,
+      "index": 159,
+      "character": "HAMMOND",
+      "gender": "Male",
+      "line": "Don't forget to thank me when you pick up your Nobel prize.",
+      "wordCount": 12
+    },
+    {
+      "id": 160,
+      "index": 160,
+      "character": "HAMMOND",
+      "gender": "Male",
+      "line": "You are standing in the middle of the most powerful genetics factory created since the expulsion from Eden.",
+      "wordCount": 18
+    },
+    {
+      "id": 161,
+      "index": 161,
+      "character": "WU",
+      "gender": "Male",
+      "line": "These are Hamachi-Hood automated gene sequencers, those are Cray XMP's, supercomputers that take DNA information and organize it. In this room, we take fragmented or incomplete DNA strands and compare them to other incomplete strands.",
+      "wordCount": 35
+    },
+    {
+      "id": 162,
+      "index": 162,
+      "character": "HAMMOND",
+      "gender": "Male",
+      "line": "It's like finding the missing pieces of a jigsaw puzzle.",
+      "wordCount": 10
+    },
+    {
+      "id": 163,
+      "index": 163,
+      "character": "WU",
+      "gender": "Male",
+      "line": "The computers make sever al trillion calculations to provide us with a complete DNA strand - the genetic code of an extinct animal.",
+      "wordCount": 23
+    },
+    {
+      "id": 164,
+      "index": 164,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "Okay, you have your \"complete\" DNA strand. How do you grow it?",
+      "wordCount": 12
+    },
+    {
+      "id": 165,
+      "index": 165,
+      "character": "WU",
+      "gender": "Male",
+      "line": "We use unfertilized crocodile ova as our breeding medium.",
+      "wordCount": 9
+    },
+    {
+      "id": 166,
+      "index": 166,
+      "character": "HAMMOND",
+      "gender": "Male",
+      "line": "Our primordial soup.",
+      "wordCount": 3
+    },
+    {
+      "id": 167,
+      "index": 167,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "And how do you know what it is you're growing?",
+      "wordCount": 10
+    },
+    {
+      "id": 168,
+      "index": 168,
+      "character": "WU",
+      "gender": "Male",
+      "line": "Well, we have computer techniques to try and map out finds on an evolutionary basis. But mostly, we just grow it and find out what it is. If it's something we're interested in, and it survives, we keep it.",
+      "wordCount": 39
+    },
+    {
+      "id": 169,
+      "index": 169,
+      "character": "GENNARO",
+      "gender": "Male",
+      "line": "And if you're not interested?",
+      "wordCount": 5
+    },
+    {
+      "id": 170,
+      "index": 170,
+      "character": "LEX",
+      "gender": "Female",
+      "line": "Come look!",
+      "wordCount": 2
+    },
+    {
+      "id": 171,
+      "index": 171,
+      "character": "WU",
+      "gender": "Male",
+      "line": "This is the incubation room. We keep the temperature at ninetynine degrees and a relative humidity of one hundred percent.",
+      "wordCount": 20
+    },
+    {
+      "id": 172,
+      "index": 172,
+      "character": "GRANT AND TIMMY",
+      "gender": "NA",
+      "line": "Jurassic atmosphere.",
+      "wordCount": 2
+    },
+    {
+      "id": 173,
+      "index": 173,
+      "character": "WU",
+      "gender": "Male",
+      "line": "We also run a high oxygen concentration, up to thirty-three percent, so if you feel faint, please tell me right away.",
+      "wordCount": 21
+    },
+    {
+      "id": 174,
+      "index": 174,
+      "character": "LEX",
+      "gender": "Female",
+      "line": "I'm ... melting!",
+      "wordCount": 3
+    },
+    {
+      "id": 175,
+      "index": 175,
+      "character": "WU",
+      "gender": "Male",
+      "line": "Reptile eggs contain large amounts of yolk but no water at all. The embryos must extract water from the surrounding environment.",
+      "wordCount": 21
+    },
+    {
+      "id": 176,
+      "index": 176,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "That's why you create the mist.",
+      "wordCount": 6
+    },
+    {
+      "id": 177,
+      "index": 177,
+      "character": "WU",
+      "gender": "Male",
+      "line": "Children, please do not touch! The eggs are permeable to skin oils.",
+      "wordCount": 12
+    },
+    {
+      "id": 178,
+      "index": 178,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "What kind of eggs are these? Are these shells plastic?",
+      "wordCount": 10
+    },
+    {
+      "id": 179,
+      "index": 179,
+      "character": "WU",
+      "gender": "Male",
+      "line": "Yes, they are, The embryos are mechanically inserted and then hatched in this room. But we've managed to sufficiently mimic the actual biological process - these creatures rupture the plastic membrane that they're contained in when they're born. Like real births.",
+      "wordCount": 41
+    },
+    {
+      "id": 180,
+      "index": 180,
+      "character": "WU",
+      "gender": "Male",
+      "line": "Eggs that are determined viable spend their last couple days in our specially- designed incubators, which help accelerate the pre-natal developmental stages. Which is interesting becaus we're having a problem with the adult animals -",
+      "wordCount": 35
+    },
+    {
+      "id": 181,
+      "index": 181,
+      "character": "HAMMOND",
+      "gender": "Male",
+      "line": "There's no problem Dr. Wu can't handle. Now who wants to see the real thing?",
+      "wordCount": 15
+    },
+    {
+      "id": 182,
+      "index": 182,
+      "character": "GENNARO",
+      "gender": "Male",
+      "line": "... so naturally, Hammond's going to present everything in the best light. I need to know that this park is safe.",
+      "wordCount": 21
+    },
+    {
+      "id": 183,
+      "index": 183,
+      "character": "ELLIE",
+      "gender": "Female",
+      "line": "I'll tell you something that troubles me from the start. The carnivores are all well-fed and kept separated from their",
+      "wordCount": 20
+    },
+    {
+      "id": 184,
+      "index": 184,
+      "character": "GENNARO",
+      "gender": "Male",
+      "line": "How do you mean?",
+      "wordCount": 4
+    },
+    {
+      "id": 185,
+      "index": 185,
+      "character": "ELLIE",
+      "gender": "Female",
+      "line": "The carnivores will want to hunt. It's an instinct. And that instinct will have to be satisfied or suppressed.",
+      "wordCount": 19
+    },
+    {
+      "id": 186,
+      "index": 186,
+      "character": "HAMMOND",
+      "gender": "Male",
+      "line": "Gennaro is putting negative ideas into Ellie's head. He's a naysayer. I have no affection for that type of thinking.",
+      "wordCount": 20
+    },
+    {
+      "id": 187,
+      "index": 187,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "Don't worry. Ellie makes her own judgments.",
+      "wordCount": 7
+    },
+    {
+      "id": 188,
+      "index": 188,
+      "character": "REGIS",
+      "gender": "NA",
+      "line": "Hey! Great day for a tour!",
+      "wordCount": 6
+    },
+    {
+      "id": 189,
+      "index": 189,
+      "character": "GENNARO",
+      "gender": "Male",
+      "line": "Looks like rain to me.",
+      "wordCount": 5
+    },
+    {
+      "id": 190,
+      "index": 190,
+      "character": "REGIS",
+      "gender": "NA",
+      "line": "No! I told the rain-god to hold it off till we got back.",
+      "wordCount": 13
+    },
+    {
+      "id": 191,
+      "index": 191,
+      "character": "HAMMOND",
+      "gender": "Male",
+      "line": "Kids, mind Mr. Regis. He's in charge now.",
+      "wordCount": 8
+    },
+    {
+      "id": 192,
+      "index": 192,
+      "character": "HAMMOND",
+      "gender": "Male",
+      "line": "Gennaro, for once in your life, let something really move you.",
+      "wordCount": 11
+    },
+    {
+      "id": 193,
+      "index": 193,
+      "character": "GENNARO",
+      "gender": "Male",
+      "line": "Ever get the feeling we're just Hammond's damn guinea pigs?",
+      "wordCount": 10
+    },
+    {
+      "id": 194,
+      "index": 194,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "I like to wait and see.",
+      "wordCount": 6
+    },
+    {
+      "id": 195,
+      "index": 195,
+      "character": "PRE-RECORDED VOICE",
+      "gender": "NA",
+      "line": "Welcome to Jurassic Park. You are now entering the lost world of the prehistoric past, a world of mighty creatures long gone from the face of the earth, which you are privileged to see for the first time ...",
+      "wordCount": 39
+    },
+    {
+      "id": 196,
+      "index": 196,
+      "character": "REGIS",
+      "gender": "NA",
+      "line": "That's Richard Kiley. We spared no expense.",
+      "wordCount": 7
+    },
+    {
+      "id": 197,
+      "index": 197,
+      "character": "PRE-RECORDED VOICE",
+      "gender": "NA",
+      "line": "We'll begin our tour today with the herbivores ...",
+      "wordCount": 9
+    },
+    {
+      "id": 198,
+      "index": 198,
+      "character": "PRE-RECORDED VOICE",
+      "gender": "NA",
+      "line": "... and the grasses are a species of juniper, and samples can be purchased at the gift shop. Now, if everyone will take a look to the right ...",
+      "wordCount": 29
+    },
+    {
+      "id": 199,
+      "index": 199,
+      "character": "REGIS",
+      "gender": "NA",
+      "line": "Look ...",
+      "wordCount": 2
+    },
+    {
+      "id": 200,
+      "index": 200,
+      "character": "LEX AND TIMMY",
+      "gender": "NA",
+      "line": "I don't see anything. Do you see anything? There's nothing there.",
+      "wordCount": 11
+    },
+    {
+      "id": 201,
+      "index": 201,
+      "character": "REGIS",
+      "gender": "NA",
+      "line": "Something's out there ...",
+      "wordCount": 4
+    },
+    {
+      "id": 202,
+      "index": 202,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "Ellie! Can you imagine the excavation team seeing this!",
+      "wordCount": 9
+    },
+    {
+      "id": 203,
+      "index": 203,
+      "character": "REGIS",
+      "gender": "NA",
+      "line": "Congratulations. You're the first kids in the whole wide world ever to see real dinosaurs.",
+      "wordCount": 15
+    },
+    {
+      "id": 204,
+      "index": 204,
+      "character": "ELLIE",
+      "gender": "Female",
+      "line": "Alan? Alan? He fainted!",
+      "wordCount": 4
+    },
+    {
+      "id": 205,
+      "index": 205,
+      "character": "GENNARO",
+      "gender": "Male",
+      "line": "My God, we're going to make a fortune here!",
+      "wordCount": 9
+    },
+    {
+      "id": 206,
+      "index": 206,
+      "character": "HAMMOND",
+      "gender": "Male",
+      "line": "He fainted. I've waited fifteen years to impress that young man.",
+      "wordCount": 11
+    },
+    {
+      "id": 207,
+      "index": 207,
+      "character": "ARNOLD",
+      "gender": "Male",
+      "line": "Oh Mr. Hammond, I'm sorry to interrupt you, but Muldoon needs you by the pit.",
+      "wordCount": 15
+    },
+    {
+      "id": 208,
+      "index": 208,
+      "character": "HAMMOND",
+      "gender": "Male",
+      "line": "Oh, balls.",
+      "wordCount": 2
+    },
+    {
+      "id": 209,
+      "index": 209,
+      "character": "PRE-RECORDED VOICE",
+      "gender": "NA",
+      "line": "... Gallimimus, known as the ostrich dinosaur for the shape of its shoulders, have a very strong nesting instinct ...",
+      "wordCount": 20
+    },
+    {
+      "id": 210,
+      "index": 210,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "Ellie? What the hell are we going to do with the rest of our lives?",
+      "wordCount": 15
+    },
+    {
+      "id": 211,
+      "index": 211,
+      "character": "ELLIE",
+      "gender": "Female",
+      "line": "What to you mean?",
+      "wordCount": 4
+    },
+    {
+      "id": 212,
+      "index": 212,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "Can't you see it, Ellie? We're the ones that are extinct now.",
+      "wordCount": 12
+    },
+    {
+      "id": 213,
+      "index": 213,
+      "character": "PRE-RECORDED VOICE",
+      "gender": "NA",
+      "line": "... lots more to see in the herbivore section of our park. But as we come alongside out Jurassic jungle river to the left, let's try and catch a glimpse of a very unusual and dangerous carnivore. Look across the river and above ...",
+      "wordCount": 44
+    },
+    {
+      "id": 214,
+      "index": 214,
+      "character": "PRE-RECORDED VOICE",
+      "gender": "NA",
+      "line": "And there they are!",
+      "wordCount": 4
+    },
+    {
+      "id": 215,
+      "index": 215,
+      "character": "ALL THREE",
+      "gender": "NA",
+      "line": "Dilophosaurus!",
+      "wordCount": 1
+    },
+    {
+      "id": 216,
+      "index": 216,
+      "character": "PRE-RECORDED VOICE",
+      "gender": "NA",
+      "line": "Dilophosaurus is one of the earliest carnivores. Scientists once thought their jaw muscles were too weak to kill, but now, through the miracle of their cloning, we know Dilophosaurs spit venom, a poison which causes blindness and then unconsciousness.",
+      "wordCount": 39
+    },
+    {
+      "id": 217,
+      "index": 217,
+      "character": "GENNARO",
+      "gender": "Male",
+      "line": "Poisonous d inosaurs, there's a liability issue without a lot of precedent.",
+      "wordCount": 12
+    },
+    {
+      "id": 218,
+      "index": 218,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "It's like a Gila monster of a cobra. It's a poison ...",
+      "wordCount": 12
+    },
+    {
+      "id": 219,
+      "index": 219,
+      "character": "ELLIE",
+      "gender": "Female",
+      "line": "Spitter!",
+      "wordCount": 1
+    },
+    {
+      "id": 220,
+      "index": 220,
+      "character": "ELLIE",
+      "gender": "Female",
+      "line": "Are we dreaming all this?",
+      "wordCount": 5
+    },
+    {
+      "id": 221,
+      "index": 221,
+      "character": "MULDOON",
+      "gender": "Male",
+      "line": "These raptors are too damn dangerous. One of them tunneled out this morning. He ripped a boy's arm off before I could get a bullet in him.",
+      "wordCount": 27
+    },
+    {
+      "id": 222,
+      "index": 222,
+      "character": "HAMMOND",
+      "gender": "Male",
+      "line": "A bullet? Muldoon - no! Now what? I have five left?",
+      "wordCount": 11
+    },
+    {
+      "id": 223,
+      "index": 223,
+      "character": "MULDOON",
+      "gender": "Male",
+      "line": "John, they're mean as scorpions and smart as chimps. Their little fingers make them natural cage-breakers. We should terminate the raptor program. They're just too smart. Too damn smart.",
+      "wordCount": 29
+    },
+    {
+      "id": 224,
+      "index": 224,
+      "character": "HAMMOND",
+      "gender": "Male",
+      "line": "Oh balls. I will not terminate the raptors just because they're behaving normally. They're hunters. Why can't we contain them properly?",
+      "wordCount": 21
+    },
+    {
+      "id": 225,
+      "index": 225,
+      "character": "MULDOON",
+      "gender": "Male",
+      "line": "John, remember back in '88, when we started to build the containment devices?",
+      "wordCount": 13
+    },
+    {
+      "id": 226,
+      "index": 226,
+      "character": "HAMMOND",
+      "gender": "Male",
+      "line": "It's just a zoo, Muldoon. A zoo. Figure out a way to contain them. And we'll sit down and have a nice long discussion about raptors - after my guests leave, okay?",
+      "wordCount": 32
+    },
+    {
+      "id": 227,
+      "index": 227,
+      "character": "MULDOON",
+      "gender": "Male",
+      "line": "Okay! Get a 'dozer, start digging round the pit. We're gonna bury some fence. And wear your rifle when you're working!",
+      "wordCount": 21
+    },
+    {
+      "id": 228,
+      "index": 228,
+      "character": "HAMMOND",
+      "gender": "Male",
+      "line": "Wh ere are they? Punch 'em up.",
+      "wordCount": 7
+    },
+    {
+      "id": 229,
+      "index": 229,
+      "character": "ARNOLD",
+      "gender": "Male",
+      "line": "They'll be by the trike's in a moment. Trike's sick again.",
+      "wordCount": 11
+    },
+    {
+      "id": 230,
+      "index": 230,
+      "character": "HAMMOND",
+      "gender": "Male",
+      "line": "How can you say it so matter-of-factly? The trike's. You casually accept it, but I never can. You know what it means when you say \"by the trikes\"? \"By the trike's\" means that they're out there by the species: triceratops horridus. It astounds me every time what I've done here. What magic, what alchemy. We turned a piece of a rock into a dinosaur. I will never be complacent about that.",
+      "wordCount": 71
+    },
+    {
+      "id": 231,
+      "index": 231,
+      "character": "RADIO",
+      "gender": "NA",
+      "line": "Don't want to be stuck here if this chop gets much worse.",
+      "wordCount": 12
+    },
+    {
+      "id": 232,
+      "index": 232,
+      "character": "NEDRY",
+      "gender": "Male",
+      "line": "Coffee anyone?",
+      "wordCount": 2
+    },
+    {
+      "id": 233,
+      "index": 233,
+      "character": "HAMMOND",
+      "gender": "Male",
+      "line": "Hello skipper, John Hammond, how are you tonight? I certainly don't want to imperil anyone. But can you give us one more container of food? Then we'll feel comfortable is the storm delays your return. Could you help us out here? Of course, if it looks too choppy just go, but you'd be doing us a big favor.",
+      "wordCount": 58
+    },
+    {
+      "id": 234,
+      "index": 234,
+      "character": "RADIO",
+      "gender": "NA",
+      "line": "Well ... we'll do our best, sir. We'll get one more container off. How's that?",
+      "wordCount": 15
+    },
+    {
+      "id": 235,
+      "index": 235,
+      "character": "LEX",
+      "gender": "Female",
+      "line": "I feel so sorry for her. She's so sick.",
+      "wordCount": 9
+    },
+    {
+      "id": 236,
+      "index": 236,
+      "character": "VET",
+      "gender": "NA",
+      "line": "We don't know what's wrong with Freda. Every six we eks she gets like this.",
+      "wordCount": 15
+    },
+    {
+      "id": 237,
+      "index": 237,
+      "character": "REGIS",
+      "gender": "NA",
+      "line": "Oh, she'll be up and around in no time. After a big night, I feel the same way.",
+      "wordCount": 18
+    },
+    {
+      "id": 238,
+      "index": 238,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "Poor girl. What's the matter? Ellie, look at this.",
+      "wordCount": 9
+    },
+    {
+      "id": 239,
+      "index": 239,
+      "character": "ELLIE",
+      "gender": "Female",
+      "line": "Microvesicles. Interesting.",
+      "wordCount": 2
+    },
+    {
+      "id": 240,
+      "index": 240,
+      "character": "LEX",
+      "gender": "Female",
+      "line": "Doesn't she have a mommy and a daddy?",
+      "wordCount": 8
+    },
+    {
+      "id": 241,
+      "index": 241,
+      "character": "HARDING",
+      "gender": "NA",
+      "line": "We make these dinosaurs in the lab, sweetheart. But they do form attachments. Freda has a little one that follows her around, thinks Freda's his mom.",
+      "wordCount": 26
+    },
+    {
+      "id": 242,
+      "index": 242,
+      "character": "ELLIE",
+      "gender": "Female",
+      "line": "What does sh e eat? Where does she feed?",
+      "wordCount": 9
+    },
+    {
+      "id": 243,
+      "index": 243,
+      "character": "HARDING",
+      "gender": "NA",
+      "line": "Animal this size takes in a minimum of six hundred pounds of plants a day. We truck in hay and meadow grasses seven times a day. That's all she touches.",
+      "wordCount": 30
+    },
+    {
+      "id": 244,
+      "index": 244,
+      "character": "ELLIE",
+      "gender": "Female",
+      "line": "West Indian Lilacs!",
+      "wordCount": 3
+    },
+    {
+      "id": 245,
+      "index": 245,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "These'd give anybody a stomachache.",
+      "wordCount": 5
+    },
+    {
+      "id": 246,
+      "index": 246,
+      "character": "HARDING",
+      "gender": "NA",
+      "line": "I'm telling you, the animals don't eat don't eat that stuff.",
+      "wordCount": 11
+    },
+    {
+      "id": 247,
+      "index": 247,
+      "character": "TIMMY",
+      "gender": "NA",
+      "line": "Dr. Grant, sir? How 'bout these? There' s lots of little piles of these?",
+      "wordCount": 14
+    },
+    {
+      "id": 248,
+      "index": 248,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "Hey, Ellie take a look at his. Good work, Timmy.",
+      "wordCount": 10
+    },
+    {
+      "id": 249,
+      "index": 249,
+      "character": "ELLIE",
+      "gender": "Female",
+      "line": "Extremely smooth. Purple stains, could be those lilac berries.",
+      "wordCount": 9
+    },
+    {
+      "id": 250,
+      "index": 250,
+      "character": "HARDING",
+      "gender": "NA",
+      "line": "I don't get it.",
+      "wordCount": 4
+    },
+    {
+      "id": 251,
+      "index": 251,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "Looks like your trike swallows stones to help her digest her food. Walking around, she crushes berries against the stones. And even just a little crushed berry is eventually enough,",
+      "wordCount": 30
+    },
+    {
+      "id": 252,
+      "index": 252,
+      "character": "ELLIE",
+      "gender": "Female",
+      "line": "So, she poisons herself periodically.",
+      "wordCount": 5
+    },
+    {
+      "id": 253,
+      "index": 253,
+      "character": "HARDING",
+      "gender": "NA",
+      "line": "Bet we tested her saliva for any trace of -",
+      "wordCount": 10
+    },
+    {
+      "id": 254,
+      "index": 254,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "But with th e stones, she swallows them and probably bypasses any mucosal contact. Straight to the stomach. I would test her excrement.",
+      "wordCount": 23
+    },
+    {
+      "id": 255,
+      "index": 255,
+      "character": "LEX",
+      "gender": "Female",
+      "line": "Yo, yuk!",
+      "wordCount": 2
+    },
+    {
+      "id": 256,
+      "index": 256,
+      "character": "GENNARO",
+      "gender": "Male",
+      "line": "Hey Regis, where are your rain gods? It's gonna pour. Let's finish our tour.",
+      "wordCount": 14
+    },
+    {
+      "id": 257,
+      "index": 257,
+      "character": "ELLIE",
+      "gender": "Female",
+      "line": "I'm staying.",
+      "wordCount": 2
+    },
+    {
+      "id": 258,
+      "index": 258,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "Soil samples?",
+      "wordCount": 2
+    },
+    {
+      "id": 259,
+      "index": 259,
+      "character": "ELLIE",
+      "gender": "Female",
+      "line": "You read my mind. I think she's sicker then they're saying. Her skin is dry and flaky. And her gums are pale. I'm going to talk to Dr. Wu.",
+      "wordCount": 29
+    },
+    {
+      "id": 260,
+      "index": 260,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "Good idea. I'll keep my eyes open.",
+      "wordCount": 7
+    },
+    {
+      "id": 261,
+      "index": 261,
+      "character": "NEDRY",
+      "gender": "Male",
+      "line": "Jim, what the hell's with you ... I know a storm's coming, I can't ... it's all so tightly planned ... that's not enough ... ok, twenty minutes, I'll be there. Damn!",
+      "wordCount": 32
+    },
+    {
+      "id": 262,
+      "index": 262,
+      "character": "TOUR",
+      "gender": "NA",
+      "line": "The mighty T-Rex arose late in dinosaur history. Dinosaurs ruled the earth for a hundred and twenty million years, but there were tyrannosaurs for only the last fifteen million years of that period ...",
+      "wordCount": 34
+    },
+    {
+      "id": 263,
+      "index": 263,
+      "character": "REGIS",
+      "gender": "NA",
+      "line": "You know, Dr. Grant, Hammond likes to come here in the evening and just sit.",
+      "wordCount": 15
+    },
+    {
+      "id": 264,
+      "index": 264,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "Where is the T- Rex?",
+      "wordCount": 5
+    },
+    {
+      "id": 265,
+      "index": 265,
+      "character": "REGIS",
+      "gender": "NA",
+      "line": "Good question.",
+      "wordCount": 2
+    },
+    {
+      "id": 266,
+      "index": 266,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "Maybe she's down hunting apatosaurs.",
+      "wordCount": 5
+    },
+    {
+      "id": 267,
+      "index": 267,
+      "character": "REGIS",
+      "gender": "NA",
+      "line": "Would if she could, believe me. Some- times she stands by the lagoon and stares at those animals, and wiggles those little forearms of hers in frustration. But the T-Rex territory is completely enclosed with trenches and fences. Believe me, she can't go anywhere.",
+      "wordCount": 44
+    },
+    {
+      "id": 268,
+      "index": 268,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "Then where is she?",
+      "wordCount": 4
+    },
+    {
+      "id": 269,
+      "index": 269,
+      "character": "BACK ON CONTRO",
+      "gender": "NA",
+      "line": "L ROOM -",
+      "wordCount": 3
+    },
+    {
+      "id": 270,
+      "index": 270,
+      "character": "MULDOON",
+      "gender": "Male",
+      "line": "Just checking in. Everything ok?",
+      "wordCount": 5
+    },
+    {
+      "id": 271,
+      "index": 271,
+      "character": "HAMMOND",
+      "gender": "Male",
+      "line": "Look at them. Leaning out the windows, so eager. They can't wait to see it. They have come for the danger.",
+      "wordCount": 21
+    },
+    {
+      "id": 272,
+      "index": 272,
+      "character": "MULDOON",
+      "gender": "Male",
+      "line": "That's what I'm afraid of.",
+      "wordCount": 5
+    },
+    {
+      "id": 273,
+      "index": 273,
+      "character": "LEX",
+      "gender": "Female",
+      "line": "What's going to happen to the goat? Is the T-Rex gonna come eat the goat?",
+      "wordCount": 15
+    },
+    {
+      "id": 274,
+      "index": 274,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "He's here.",
+      "wordCount": 2
+    },
+    {
+      "id": 275,
+      "index": 275,
+      "character": "REGIS",
+      "gender": "NA",
+      "line": "Looks like the Rex will have its snack a little later today.",
+      "wordCount": 12
+    },
+    {
+      "id": 276,
+      "index": 276,
+      "character": "RECORDED VOICE",
+      "gender": "NA",
+      "line": "The sensors don't see the Rex around. She usually comes within five minutes of hearing dinner. If she doesn't, that means she's sleeping - we might have access to her at the picnic area.",
+      "wordCount": 34
+    },
+    {
+      "id": 277,
+      "index": 277,
+      "character": "LEX",
+      "gender": "Female",
+      "line": "I didn't want to see him get eaten. I liked the goat.",
+      "wordCount": 12
+    },
+    {
+      "id": 278,
+      "index": 278,
+      "character": "GENNARO",
+      "gender": "Male",
+      "line": "What is a carnivore got out?",
+      "wordCount": 6
+    },
+    {
+      "id": 279,
+      "index": 279,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "There'd be no stopping it. Huge, with no natural enemies, and a suppressed hunting instinct.",
+      "wordCount": 15
+    },
+    {
+      "id": 280,
+      "index": 280,
+      "character": "HAMMOND",
+      "gender": "Male",
+      "line": "Damn those people. They are so negative.",
+      "wordCount": 7
+    },
+    {
+      "id": 281,
+      "index": 281,
+      "character": "ARNOLD",
+      "gender": "Male",
+      "line": "It's natural. They can't fully appreciate that we've engineered the animals and the park for total safety.",
+      "wordCount": 17
+    },
+    {
+      "id": 282,
+      "index": 282,
+      "character": "HAMMOND",
+      "gender": "Male",
+      "line": "They comb this island like a bunch of accountants. They don't experience the wonder, the awe of it all.",
+      "wordCount": 19
+    },
+    {
+      "id": 283,
+      "index": 283,
+      "character": "ARNOLD",
+      "gender": "Male",
+      "line": "You can't make people experience wonder.",
+      "wordCount": 6
+    },
+    {
+      "id": 284,
+      "index": 284,
+      "character": "HAMMOND",
+      "gender": "Male",
+      "line": "It's like the Garden of Eden out there. This is the most beautiful time of day.",
+      "wordCount": 16
+    },
+    {
+      "id": 285,
+      "index": 285,
+      "character": "ARNOLD",
+      "gender": "Male",
+      "line": "Better rout the tour back. They can start again sun-up tomorrow morning.",
+      "wordCount": 12
+    },
+    {
+      "id": 286,
+      "index": 286,
+      "character": "HAMMOND",
+      "gender": "Male",
+      "line": "Yup. Call the kitchen. Those kids'll be hungry when they get in.",
+      "wordCount": 12
+    },
+    {
+      "id": 287,
+      "index": 287,
+      "character": "NEDRY",
+      "gender": "Male",
+      "line": "Sorry 'bout that. I've taken all the lines to upload some data.",
+      "wordCount": 12
+    },
+    {
+      "id": 288,
+      "index": 288,
+      "character": "NEDRY",
+      "gender": "Male",
+      "line": "I'll clear a couple of lines for you at the end of the next transmission, sir. Here you go now, this will make it all better, Mr. Hammond.",
+      "wordCount": 28
+    },
+    {
+      "id": 289,
+      "index": 289,
+      "character": "CLOSE ON",
+      "gender": "NA",
+      "line": "- Nedry's fat finger punching a last key.",
+      "wordCount": 8
+    },
+    {
+      "id": 290,
+      "index": 290,
+      "character": "PRE-RECORDED VOICE",
+      "gender": "NA",
+      "line": "... enjoy a healthy snack. This is also a good time to ...",
+      "wordCount": 13
+    },
+    {
+      "id": 291,
+      "index": 291,
+      "character": "LEX",
+      "gender": "Female",
+      "line": "Hey, is that bathroom working?",
+      "wordCount": 5
+    },
+    {
+      "id": 292,
+      "index": 292,
+      "character": "REGIS",
+      "gender": "NA",
+      "line": "Sure. Rest stop.",
+      "wordCount": 3
+    },
+    {
+      "id": 293,
+      "index": 293,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "Is that still the T-Rex paddock?",
+      "wordCount": 6
+    },
+    {
+      "id": 294,
+      "index": 294,
+      "character": "REGIS",
+      "gender": "NA",
+      "line": "Yes. But she never comes here. I don't know why not. Probably too much construction.",
+      "wordCount": 15
+    },
+    {
+      "id": 295,
+      "index": 295,
+      "character": "NEDRY",
+      "gender": "Male",
+      "line": "Yup! Looks like a never-ending weekend for me. I'm gonna get a Diet Coke. Don't touch my console, ok? Line will be clear in five minutes.",
+      "wordCount": 26
+    },
+    {
+      "id": 296,
+      "index": 296,
+      "character": "HAMMOND",
+      "gender": "Male",
+      "line": "Slob!",
+      "wordCount": 1
+    },
+    {
+      "id": 297,
+      "index": 297,
+      "character": "ARNOLD",
+      "gender": "Male",
+      "line": "Well, at least he knows what he's doing.",
+      "wordCount": 8
+    },
+    {
+      "id": 298,
+      "index": 298,
+      "character": "REGIS",
+      "gender": "NA",
+      "line": "Everything's just fine. It's a temporary glitch due to the rain. No doubt, they're going to re-rout some circuits back at the mainframe. We'll have the power back on in moments. Let's get back in the cruisers, they may start up, and I'd like us all to be seated in them.",
+      "wordCount": 51
+    },
+    {
+      "id": 299,
+      "index": 299,
+      "character": "GENNARO",
+      "gender": "Male",
+      "line": "I knew we shouldn't have kids here.",
+      "wordCount": 7
+    },
+    {
+      "id": 300,
+      "index": 300,
+      "character": "LEX",
+      "gender": "Female",
+      "line": "Mr. Regis, are dinosaurs ... nocturnal?",
+      "wordCount": 6
+    },
+    {
+      "id": 301,
+      "index": 301,
+      "character": "REGIS",
+      "gender": "NA",
+      "line": "No, darling, of course not.",
+      "wordCount": 5
+    },
+    {
+      "id": 302,
+      "index": 302,
+      "character": "LEX",
+      "gender": "Female",
+      "line": "Mr. Regis? What's ... nocturnal?",
+      "wordCount": 5
+    },
+    {
+      "id": 303,
+      "index": 303,
+      "character": "REGIS",
+      "gender": "NA",
+      "line": "Don't you worry about d inosaurs. They're all very safe in their paddocks just like animals in a big, strong zoo. They're not going anywhere we don't tell them to go.",
+      "wordCount": 31
+    },
+    {
+      "id": 304,
+      "index": 304,
+      "character": "NEDRY",
+      "gender": "Male",
+      "line": "Okay, little ones! Here we go!",
+      "wordCount": 6
+    },
+    {
+      "id": 305,
+      "index": 305,
+      "character": "HAMMOND",
+      "gender": "Male",
+      "line": "What's going on, Arnold? I want those lights on. I don't want my grandchildren scared.",
+      "wordCount": 15
+    },
+    {
+      "id": 306,
+      "index": 306,
+      "character": "ARNOLD",
+      "gender": "Male",
+      "line": "Jesus, the computer's gone down.",
+      "wordCount": 5
+    },
+    {
+      "id": 307,
+      "index": 307,
+      "character": "HAMMOND",
+      "gender": "Male",
+      "line": "Well, I want the computer up. This is the wrong weekend for glitches.",
+      "wordCount": 13
+    },
+    {
+      "id": 308,
+      "index": 308,
+      "character": "ARNOLD",
+      "gender": "Male",
+      "line": "That's not the worst of it.",
+      "wordCount": 6
+    },
+    {
+      "id": 309,
+      "index": 309,
+      "character": "HAMMOND",
+      "gender": "Male",
+      "line": "Oh yeah? Please tell me what's worse than the lights going out?",
+      "wordCount": 12
+    },
+    {
+      "id": 310,
+      "index": 310,
+      "character": "WU",
+      "gender": "Male",
+      "line": "All the security doors are open. Someone has been in my laboratory and the eggs have been disturbed.",
+      "wordCount": 18
+    },
+    {
+      "id": 311,
+      "index": 311,
+      "character": "HAMMOND",
+      "gender": "Male",
+      "line": "Where the hell is Nedry? Where is he? Did anybody check the damn john?",
+      "wordCount": 14
+    },
+    {
+      "id": 312,
+      "index": 312,
+      "character": "MULDOON",
+      "gender": "Male",
+      "line": "John, the generator's shut down. Who cut the power?",
+      "wordCount": 9
+    },
+    {
+      "id": 313,
+      "index": 313,
+      "character": "HAMMOND",
+      "gender": "Male",
+      "line": "Arnold's on it. You go out and bring back the tour right away. I don't need any of this!",
+      "wordCount": 19
+    },
+    {
+      "id": 314,
+      "index": 314,
+      "character": "NEDRY",
+      "gender": "Male",
+      "line": "Oh, shit!",
+      "wordCount": 2
+    },
+    {
+      "id": 315,
+      "index": 315,
+      "character": "MULDOON",
+      "gender": "Male",
+      "line": "Get out, get out! I need this jeep. There's a problem with the tour. Ellie, Hammond'll fill you in.",
+      "wordCount": 19
+    },
+    {
+      "id": 316,
+      "index": 316,
+      "character": "ELLIE",
+      "gender": "Female",
+      "line": "No! I'm going with you, Muldoon.",
+      "wordCount": 6
+    },
+    {
+      "id": 317,
+      "index": 317,
+      "character": "CAPTAIN FARRELL",
+      "gender": "NA",
+      "line": "Good. Glad to see you. Were you seen?",
+      "wordCount": 8
+    },
+    {
+      "id": 318,
+      "index": 318,
+      "character": "NEDRY",
+      "gender": "Male",
+      "line": "Nah. I'm back in five minutes, they'll never know I was gone. Careful with that thing! It's worth more than the ship. When's the copter meeting you?",
+      "wordCount": 27
+    },
+    {
+      "id": 319,
+      "index": 319,
+      "character": "CAPTAIN FARRELL",
+      "gender": "NA",
+      "line": "It's not. The storm's coast-to-coast,",
+      "wordCount": 5
+    },
+    {
+      "id": 320,
+      "index": 320,
+      "character": "NEDRY",
+      "gender": "Male",
+      "line": "Shit! What's the backup? I don't like this. Maybe we should do it another time, I don't like it. I just don't like -",
+      "wordCount": 24
+    },
+    {
+      "id": 321,
+      "index": 321,
+      "character": "CAPTAIN FARRELL",
+      "gender": "NA",
+      "line": "Shhh! I wired Baker, he'll have a man at the dock in Puntaremas. We should be able to make that in time.",
+      "wordCount": 22
+    },
+    {
+      "id": 322,
+      "index": 322,
+      "character": "NEDRY",
+      "gender": "Male",
+      "line": "Ten hours?",
+      "wordCount": 2
+    },
+    {
+      "id": 323,
+      "index": 323,
+      "character": "CAPTAIN FARRELL",
+      "gender": "NA",
+      "line": "Yeah, now relax. I got a lot riding on this too, you know. No one's going to mess up now. Baker's not going to mess up. His people won't let him.",
+      "wordCount": 31
+    },
+    {
+      "id": 324,
+      "index": 324,
+      "character": "NEDRY",
+      "gender": "Male",
+      "line": "Ok. Ok. Here.",
+      "wordCount": 3
+    },
+    {
+      "id": 325,
+      "index": 325,
+      "character": "NEDRY",
+      "gender": "Male",
+      "line": "Look, this is insulating spray.",
+      "wordCount": 5
+    },
+    {
+      "id": 326,
+      "index": 326,
+      "character": "NEDRY",
+      "gender": "Male",
+      "line": "In about eight hours, spray down all the eggs with this stuff. It'll keep 'em warm but not too warm. I hope Baker has it together with the dock.",
+      "wordCount": 29
+    },
+    {
+      "id": 327,
+      "index": 327,
+      "character": "TIMMY",
+      "gender": "NA",
+      "line": "Hey, these thing work great. I can see in the dark and I can see far.",
+      "wordCount": 16
+    },
+    {
+      "id": 328,
+      "index": 328,
+      "character": "TIMMY",
+      "gender": "NA",
+      "line": "Hey! I wonder if that boat's still there? It is. I think they're getting ready to go.",
+      "wordCount": 17
+    },
+    {
+      "id": 329,
+      "index": 329,
+      "character": "REGIS",
+      "gender": "NA",
+      "line": "Timmy, can you give her the goggles?",
+      "wordCount": 7
+    },
+    {
+      "id": 330,
+      "index": 330,
+      "character": "TIMMY",
+      "gender": "NA",
+      "line": "Want to look at the boat, Lex?",
+      "wordCount": 7
+    },
+    {
+      "id": 331,
+      "index": 331,
+      "character": "LEX",
+      "gender": "Female",
+      "line": "Hey, that fat guy's down there. Is he gonna come get us and take us to Grandpa?",
+      "wordCount": 17
+    },
+    {
+      "id": 332,
+      "index": 332,
+      "character": "LEX",
+      "gender": "Female",
+      "line": "They have one of those things from the room with all the eggs - you know, where they help the baby eggs grow up.",
+      "wordCount": 24
+    },
+    {
+      "id": 333,
+      "index": 333,
+      "character": "TIMMY",
+      "gender": "NA",
+      "line": "You mean an incubator?",
+      "wordCount": 4
+    },
+    {
+      "id": 334,
+      "index": 334,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "What's the commotion?",
+      "wordCount": 3
+    },
+    {
+      "id": 335,
+      "index": 335,
+      "character": "REGIS",
+      "gender": "NA",
+      "line": "Let me see. Give them to men, sweetheart.",
+      "wordCount": 8
+    },
+    {
+      "id": 336,
+      "index": 336,
+      "character": "TIMMY",
+      "gender": "NA",
+      "line": "Uh, Dr. Grant?",
+      "wordCount": 3
+    },
+    {
+      "id": 337,
+      "index": 337,
+      "character": "TIMMY",
+      "gender": "NA",
+      "line": "We saw that computer guy helping 'em load an incubator onto the ship.",
+      "wordCount": 13
+    },
+    {
+      "id": 338,
+      "index": 338,
+      "character": "LEX",
+      "gender": "Female",
+      "line": "Yeah, he's stealing them, Dr. Grant! He's stealing my Grandpa's eggs!",
+      "wordCount": 11
+    },
+    {
+      "id": 339,
+      "index": 339,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "Nedry? With an incubator? Regis??",
+      "wordCount": 5
+    },
+    {
+      "id": 340,
+      "index": 340,
+      "character": "REGIS",
+      "gender": "NA",
+      "line": "That's what they saw.",
+      "wordCount": 4
+    },
+    {
+      "id": 341,
+      "index": 341,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "We gotta tell Hammond and Arnold right away. How far is it to the mainland?",
+      "wordCount": 15
+    },
+    {
+      "id": 342,
+      "index": 342,
+      "character": "REGIS",
+      "gender": "NA",
+      "line": "Uh, it's a hundred miles to Puntaremas. About a sixteen hour voyage in this weather.",
+      "wordCount": 15
+    },
+    {
+      "id": 343,
+      "index": 343,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "I wouldn't like to see dinosaurs running around Costa Rica.",
+      "wordCount": 10
+    },
+    {
+      "id": 344,
+      "index": 344,
+      "character": "GENNARO",
+      "gender": "Male",
+      "line": "When's the damn power coming on?",
+      "wordCount": 6
+    },
+    {
+      "id": 345,
+      "index": 345,
+      "character": "MULDOON",
+      "gender": "Male",
+      "line": "Strong legs.",
+      "wordCount": 2
+    },
+    {
+      "id": 346,
+      "index": 346,
+      "character": "ELLIE",
+      "gender": "Female",
+      "line": "Lot of track in college.",
+      "wordCount": 5
+    },
+    {
+      "id": 347,
+      "index": 347,
+      "character": "LEX",
+      "gender": "Female",
+      "line": "I'm hungry. When can we get going?",
+      "wordCount": 7
+    },
+    {
+      "id": 348,
+      "index": 348,
+      "character": "REGIS",
+      "gender": "NA",
+      "line": "When the electricity comes back on, honey. These cars run on electric cables buried in the road.",
+      "wordCount": 17
+    },
+    {
+      "id": 349,
+      "index": 349,
+      "character": "REGIS",
+      "gender": "NA",
+      "line": "Must be turning on the electricity.",
+      "wordCount": 6
+    },
+    {
+      "id": 350,
+      "index": 350,
+      "character": "LEX",
+      "gender": "Female",
+      "line": "Feels like a vibration.",
+      "wordCount": 4
+    },
+    {
+      "id": 351,
+      "index": 351,
+      "character": "BACK ON CRUISE",
+      "gender": "NA",
+      "line": "RS, REST AREA - FIRST CRUISER",
+      "wordCount": 6
+    },
+    {
+      "id": 352,
+      "index": 352,
+      "character": "REGIS",
+      "gender": "NA",
+      "line": "Jesus Christ.",
+      "wordCount": 2
+    },
+    {
+      "id": 353,
+      "index": 353,
+      "character": "LEX",
+      "gender": "Female",
+      "line": "Bad language.",
+      "wordCount": 2
+    },
+    {
+      "id": 354,
+      "index": 354,
+      "character": "REGIS",
+      "gender": "NA",
+      "line": "Jesus Christ. The fence isn't electrified.",
+      "wordCount": 6
+    },
+    {
+      "id": 355,
+      "index": 355,
+      "character": "LEX",
+      "gender": "Female",
+      "line": "Is that bad?",
+      "wordCount": 3
+    },
+    {
+      "id": 356,
+      "index": 356,
+      "character": "TIM",
+      "gender": "Male",
+      "line": "Mr. Regis! Mr. Regis, where are you going?",
+      "wordCount": 8
+    },
+    {
+      "id": 357,
+      "index": 357,
+      "character": "LEX",
+      "gender": "Female",
+      "line": "He just left us. He just left us all alone. Timmy, Timmy how could he do that? We're all alone! We're all alone!",
+      "wordCount": 23
+    },
+    {
+      "id": 358,
+      "index": 358,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "Timmy, be quiet. Don't move.",
+      "wordCount": 5
+    },
+    {
+      "id": 359,
+      "index": 359,
+      "character": "GENNARO",
+      "gender": "Male",
+      "line": "Holy shit! Any suggestions what we do now?",
+      "wordCount": 8
+    },
+    {
+      "id": 360,
+      "index": 360,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "Don't move.",
+      "wordCount": 2
+    },
+    {
+      "id": 361,
+      "index": 361,
+      "character": "LEX",
+      "gender": "Female",
+      "line": "It's too, too dark out there.",
+      "wordCount": 6
+    },
+    {
+      "id": 362,
+      "index": 362,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "Shut that flashlight, Tim!",
+      "wordCount": 4
+    },
+    {
+      "id": 363,
+      "index": 363,
+      "character": "LEX",
+      "gender": "Female",
+      "line": "No, it's mine. Please, I need it.",
+      "wordCount": 7
+    },
+    {
+      "id": 364,
+      "index": 364,
+      "character": "TIMMY",
+      "gender": "NA",
+      "line": "Are you ok? Be quiet and don't move.",
+      "wordCount": 8
+    },
+    {
+      "id": 365,
+      "index": 365,
+      "character": "TIMMY",
+      "gender": "NA",
+      "line": "Lex? Lex?",
+      "wordCount": 2
+    },
+    {
+      "id": 366,
+      "index": 366,
+      "character": "GENNARO",
+      "gender": "Male",
+      "line": "Extinct animals should stay extinct!",
+      "wordCount": 5
+    },
+    {
+      "id": 367,
+      "index": 367,
+      "character": "GRANT RUNS BA",
+      "gender": "NA",
+      "line": "CK -",
+      "wordCount": 2
+    },
+    {
+      "id": 368,
+      "index": 368,
+      "character": "LEX",
+      "gender": "Female",
+      "line": "Dr. Grant!",
+      "wordCount": 2
+    },
+    {
+      "id": 369,
+      "index": 369,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "Lex, are you okay?",
+      "wordCount": 4
+    },
+    {
+      "id": 370,
+      "index": 370,
+      "character": "LEX",
+      "gender": "Female",
+      "line": "Timmy's unconscious, he won't move.",
+      "wordCount": 5
+    },
+    {
+      "id": 371,
+      "index": 371,
+      "character": "LEX",
+      "gender": "Female",
+      "line": "Timmy!",
+      "wordCount": 1
+    },
+    {
+      "id": 372,
+      "index": 372,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "Let ... go ... please.",
+      "wordCount": 5
+    },
+    {
+      "id": 373,
+      "index": 373,
+      "character": "NEDRY",
+      "gender": "Male",
+      "line": "Shit. I'm going to have to change clothes.",
+      "wordCount": 8
+    },
+    {
+      "id": 374,
+      "index": 374,
+      "character": "NEDRY",
+      "gender": "Male",
+      "line": "I hope this is one of them herbivores.",
+      "wordCount": 8
+    },
+    {
+      "id": 375,
+      "index": 375,
+      "character": "NEDRY",
+      "gender": "Male",
+      "line": "Gross.",
+      "wordCount": 1
+    },
+    {
+      "id": 376,
+      "index": 376,
+      "character": "NEDRY",
+      "gender": "Male",
+      "line": "I'm blind, I'm blind.",
+      "wordCount": 4
+    },
+    {
+      "id": 377,
+      "index": 377,
+      "character": "TIMMY",
+      "gender": "NA",
+      "line": "Oh shit!",
+      "wordCount": 2
+    },
+    {
+      "id": 378,
+      "index": 378,
+      "character": "TIMMY",
+      "gender": "NA",
+      "line": "Oh shit, oh shit, oh shit, oh shit!",
+      "wordCount": 8
+    },
+    {
+      "id": 379,
+      "index": 379,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "Timmy. Are you ok?",
+      "wordCount": 4
+    },
+    {
+      "id": 380,
+      "index": 380,
+      "character": "TIMMY",
+      "gender": "NA",
+      "line": "Thank God you're here. Where's Lex?",
+      "wordCount": 6
+    },
+    {
+      "id": 381,
+      "index": 381,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "Below. She's fine. Let's get you down.",
+      "wordCount": 7
+    },
+    {
+      "id": 382,
+      "index": 382,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "Try the door you're leaning against. Nice and slow.",
+      "wordCount": 9
+    },
+    {
+      "id": 383,
+      "index": 383,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "Crawl this way. Slowly.",
+      "wordCount": 4
+    },
+    {
+      "id": 384,
+      "index": 384,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "We're going to have to make a jump for it, Timmy. Okay?",
+      "wordCount": 12
+    },
+    {
+      "id": 385,
+      "index": 385,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "One, two, three, jump.",
+      "wordCount": 4
+    },
+    {
+      "id": 386,
+      "index": 386,
+      "character": "TIMMY",
+      "gender": "NA",
+      "line": "Thanks, Dr. Grant.",
+      "wordCount": 3
+    },
+    {
+      "id": 387,
+      "index": 387,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "You owe me one.",
+      "wordCount": 4
+    },
+    {
+      "id": 388,
+      "index": 388,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "Where'd Lex go?",
+      "wordCount": 3
+    },
+    {
+      "id": 389,
+      "index": 389,
+      "character": "TIMMY",
+      "gender": "NA",
+      "line": "There's Lex.",
+      "wordCount": 2
+    },
+    {
+      "id": 390,
+      "index": 390,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "Come on out now, Lex.",
+      "wordCount": 5
+    },
+    {
+      "id": 391,
+      "index": 391,
+      "character": "TIMMY",
+      "gender": "NA",
+      "line": "It's your turn to wear the goggles, Lex.",
+      "wordCount": 8
+    },
+    {
+      "id": 392,
+      "index": 392,
+      "character": "TIMMY",
+      "gender": "NA",
+      "line": "I found your baseball.",
+      "wordCount": 4
+    },
+    {
+      "id": 393,
+      "index": 393,
+      "character": "LEX",
+      "gender": "Female",
+      "line": "You did?",
+      "wordCount": 2
+    },
+    {
+      "id": 394,
+      "index": 394,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "Cone on, Lex, it must be cold in there. And tight. Why don't you come out?",
+      "wordCount": 16
+    },
+    {
+      "id": 395,
+      "index": 395,
+      "character": "LEX",
+      "gender": "Female",
+      "line": "I'm afraid of the \"animals\".",
+      "wordCount": 5
+    },
+    {
+      "id": 396,
+      "index": 396,
+      "character": "TIMMY",
+      "gender": "NA",
+      "line": "The \"animals\" are gone.",
+      "wordCount": 4
+    },
+    {
+      "id": 397,
+      "index": 397,
+      "character": "LEX",
+      "gender": "Female",
+      "line": "Where did it go?",
+      "wordCount": 4
+    },
+    {
+      "id": 398,
+      "index": 398,
+      "character": "TIMMY",
+      "gender": "NA",
+      "line": "I don't kno w but it's not here now.",
+      "wordCount": 9
+    },
+    {
+      "id": 399,
+      "index": 399,
+      "character": "LEX",
+      "gender": "Female",
+      "line": "Are there any grownups out there?",
+      "wordCount": 6
+    },
+    {
+      "id": 400,
+      "index": 400,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "I'm a grownup, Lex. Come on out. Gimmie you hand, come on, here you go.",
+      "wordCount": 15
+    },
+    {
+      "id": 401,
+      "index": 401,
+      "character": "LEX",
+      "gender": "Female",
+      "line": "I'm hungry.",
+      "wordCount": 2
+    },
+    {
+      "id": 402,
+      "index": 402,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "Me, too. We've got to get ourselves back to civilization.",
+      "wordCount": 10
+    },
+    {
+      "id": 403,
+      "index": 403,
+      "character": "REGIS",
+      "gender": "NA",
+      "line": "Noooooo!",
+      "wordCount": 1
+    },
+    {
+      "id": 404,
+      "index": 404,
+      "character": "TIMMY",
+      "gender": "NA",
+      "line": "What's going on?",
+      "wordCount": 3
+    },
+    {
+      "id": 405,
+      "index": 405,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "It's Regis and the Rex is after him. But it's okay. Regis knows the Rex can't see him. Evidently, he can only see move- ment. Regis'll be ok if he stays still.",
+      "wordCount": 32
+    },
+    {
+      "id": 406,
+      "index": 406,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "Let's go!",
+      "wordCount": 2
+    },
+    {
+      "id": 407,
+      "index": 407,
+      "character": "ELLIE",
+      "gender": "Female",
+      "line": "Oh, My God! Where's the other one?",
+      "wordCount": 7
+    },
+    {
+      "id": 408,
+      "index": 408,
+      "character": "MULDOON",
+      "gender": "Male",
+      "line": "Ellie!",
+      "wordCount": 1
+    },
+    {
+      "id": 409,
+      "index": 409,
+      "character": "MULDOON",
+      "gender": "Male",
+      "line": "Wait up.",
+      "wordCount": 2
+    },
+    {
+      "id": 410,
+      "index": 410,
+      "character": "MULDOON",
+      "gender": "Male",
+      "line": "T-Rex tracks.",
+      "wordCount": 2
+    },
+    {
+      "id": 411,
+      "index": 411,
+      "character": "ELLIE",
+      "gender": "Female",
+      "line": "Then they must be out there. They must be out there. I know it.",
+      "wordCount": 14
+    },
+    {
+      "id": 412,
+      "index": 412,
+      "character": "MULDOON",
+      "gender": "Male",
+      "line": "Perhaps.",
+      "wordCount": 1
+    },
+    {
+      "id": 413,
+      "index": 413,
+      "character": "ELLIE",
+      "gender": "Female",
+      "line": "No! They're out there.",
+      "wordCount": 4
+    },
+    {
+      "id": 414,
+      "index": 414,
+      "character": "MULDOON",
+      "gender": "Male",
+      "line": "I've seen a lot of animal attacks in the bush. It's not as gory and horrifying to see as you'd think. No pools of blood or exposed bones. There is usually little or no evidence left behind. And if victims are small, a predator can kill by just shaking the little thing to death, eating it, and leave not so much as a button.",
+      "wordCount": 64
+    },
+    {
+      "id": 415,
+      "index": 415,
+      "character": "MULDOON",
+      "gender": "Male",
+      "line": "Thank God. We have to carry him. First I have to ...",
+      "wordCount": 12
+    },
+    {
+      "id": 416,
+      "index": 416,
+      "character": "MULDOON",
+      "gender": "Male",
+      "line": "He's losing a lot of blood. Help me.",
+      "wordCount": 8
+    },
+    {
+      "id": 417,
+      "index": 417,
+      "character": "ELLIE",
+      "gender": "Female",
+      "line": "Looks like you've been through this before.",
+      "wordCount": 7
+    },
+    {
+      "id": 418,
+      "index": 418,
+      "character": "MULDOON",
+      "gender": "Male",
+      "line": "I told you I've seen big game attacks in Africa.",
+      "wordCount": 10
+    },
+    {
+      "id": 419,
+      "index": 419,
+      "character": "ELLIE",
+      "gender": "Female",
+      "line": "Right.",
+      "wordCount": 1
+    },
+    {
+      "id": 420,
+      "index": 420,
+      "character": "WU",
+      "gender": "Male",
+      "line": "Why?",
+      "wordCount": 1
+    },
+    {
+      "id": 421,
+      "index": 421,
+      "character": "ARNOLD",
+      "gender": "Male",
+      "line": "Because Nedry messed with the code. That's why I'm checking it.",
+      "wordCount": 11
+    },
+    {
+      "id": 422,
+      "index": 422,
+      "character": "WU",
+      "gender": "Male",
+      "line": "But that could take weeks. What would be faster? Try keychecks.",
+      "wordCount": 11
+    },
+    {
+      "id": 423,
+      "index": 423,
+      "character": "ARNOLD",
+      "gender": "Male",
+      "line": "That's true. Keychecks will give me a record of every button Nedry pushed.",
+      "wordCount": 13
+    },
+    {
+      "id": 424,
+      "index": 424,
+      "character": "ARNOLD",
+      "gender": "Male",
+      "line": "Jesus, that's all he did all afternoon? He was just dicking around, maybe waiting to get his nerve up.",
+      "wordCount": 19
+    },
+    {
+      "id": 425,
+      "index": 425,
+      "character": "WU",
+      "gender": "Male",
+      "line": "What's that?",
+      "wordCount": 2
+    },
+    {
+      "id": 426,
+      "index": 426,
+      "character": "ARNOLD",
+      "gender": "Male",
+      "line": "Some sort of object. Let's see if we can trace it.",
+      "wordCount": 11
+    },
+    {
+      "id": 427,
+      "index": 427,
+      "character": "PERIM",
+      "gender": "NA",
+      "line": "ETER FENCES OFF/ SECURITY - INTERIOR FENCES OFF/ SECURITY - LABORATORY DOORS OFF/, etc.",
+      "wordCount": 14
+    },
+    {
+      "id": 428,
+      "index": 428,
+      "character": "WU",
+      "gender": "Male",
+      "line": "What's it mean?",
+      "wordCount": 3
+    },
+    {
+      "id": 429,
+      "index": 429,
+      "character": "ARNOLD",
+      "gender": "Male",
+      "line": "It wasn't a bug. It was a trap door that fat bastard left for himself. When he hit WHTE-RBT. OBJ, it initiates a set of commands that turned the whole goddamn park off. Hammond was right about him.",
+      "wordCount": 38
+    },
+    {
+      "id": 430,
+      "index": 430,
+      "character": "WU",
+      "gender": "Male",
+      "line": "If I did that I'd leave a way to turn it back on. In case I had to. I'm sure Nedry did. You're find it.",
+      "wordCount": 25
+    },
+    {
+      "id": 431,
+      "index": 431,
+      "character": "MULDOON",
+      "gender": "Male",
+      "line": "We found Gennaro. He'd badly injured. Harding's tending to him in your quarters. He'll be all right if we can",
+      "wordCount": 20
+    },
+    {
+      "id": 432,
+      "index": 432,
+      "character": "HAMMOND",
+      "gender": "Male",
+      "line": "I'm sure you'll find them.",
+      "wordCount": 5
+    },
+    {
+      "id": 433,
+      "index": 433,
+      "character": "MULDOON",
+      "gender": "Male",
+      "line": "I certainly hope so.",
+      "wordCount": 4
+    },
+    {
+      "id": 434,
+      "index": 434,
+      "character": "HAMMOND",
+      "gender": "Male",
+      "line": "I'm sure we will. After all, I keep telling everyone, this park is made for children.",
+      "wordCount": 16
+    },
+    {
+      "id": 435,
+      "index": 435,
+      "character": "MULDOON",
+      "gender": "Male",
+      "line": "Just so you understand that they're missing, sir.",
+      "wordCount": 8
+    },
+    {
+      "id": 436,
+      "index": 436,
+      "character": "HAMMOND",
+      "gender": "Male",
+      "line": "Missing? Of course I know they're missing. You just said that. Look, Bob, let's not get carried away. We've had a little breakdown from the storm or whatever, and as a result we've had a regrettable, unfortunate accident. And that's all that happened. We're dealing with it. Arnold will get the computers cleaned up, and the radio and phone lines open. You'll find those kids and my good friend, Dr. Grant. I'm sure they'll want some of this ice cream. It's very good.",
+      "wordCount": 83
+    },
+    {
+      "id": 437,
+      "index": 437,
+      "character": "GENNARO",
+      "gender": "Male",
+      "line": "That Rex didn't even give me his full attention. That's what hurts. I was just an afterthought. I gave him my full attention.",
+      "wordCount": 23
+    },
+    {
+      "id": 438,
+      "index": 438,
+      "character": "HARDING",
+      "gender": "NA",
+      "line": "He's had a lot of morphine.",
+      "wordCount": 6
+    },
+    {
+      "id": 439,
+      "index": 439,
+      "character": "GENNARO",
+      "gender": "Male",
+      "line": "Not enough.",
+      "wordCount": 2
+    },
+    {
+      "id": 440,
+      "index": 440,
+      "character": "ELLIE",
+      "gender": "Female",
+      "line": "I need to find Wu. I have to run a few tests in his lab.",
+      "wordCount": 15
+    },
+    {
+      "id": 441,
+      "index": 441,
+      "character": "HARDING",
+      "gender": "NA",
+      "line": "He's probably in the control room, get- ting in the way while Arnold tries to put things together.",
+      "wordCount": 18
+    },
+    {
+      "id": 442,
+      "index": 442,
+      "character": "GENNARO",
+      "gender": "Male",
+      "line": "Yo ho, I'll close this place down ...",
+      "wordCount": 8
+    },
+    {
+      "id": 443,
+      "index": 443,
+      "character": "LEX",
+      "gender": "Female",
+      "line": "I'm tired.",
+      "wordCount": 2
+    },
+    {
+      "id": 444,
+      "index": 444,
+      "character": "TIMMY",
+      "gender": "NA",
+      "line": "You're too big to be carried.",
+      "wordCount": 6
+    },
+    {
+      "id": 445,
+      "index": 445,
+      "character": "LEX",
+      "gender": "Female",
+      "line": "But I'm tired-tired.",
+      "wordCount": 3
+    },
+    {
+      "id": 446,
+      "index": 446,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "Okay, Lex.",
+      "wordCount": 2
+    },
+    {
+      "id": 447,
+      "index": 447,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "Oof! You're heavy.",
+      "wordCount": 3
+    },
+    {
+      "id": 448,
+      "index": 448,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "I think we're still in his paddock.",
+      "wordCount": 7
+    },
+    {
+      "id": 449,
+      "index": 449,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "What?",
+      "wordCount": 1
+    },
+    {
+      "id": 450,
+      "index": 450,
+      "character": "LEX",
+      "gender": "Female",
+      "line": "Don't you see? Don't you see?",
+      "wordCount": 6
+    },
+    {
+      "id": 451,
+      "index": 451,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "What?",
+      "wordCount": 1
+    },
+    {
+      "id": 452,
+      "index": 452,
+      "character": "LEX",
+      "gender": "Female",
+      "line": "The fence.",
+      "wordCount": 2
+    },
+    {
+      "id": 453,
+      "index": 453,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "No.",
+      "wordCount": 1
+    },
+    {
+      "id": 454,
+      "index": 454,
+      "character": "TIMMY",
+      "gender": "NA",
+      "line": "Oh I do, right there!",
+      "wordCount": 5
+    },
+    {
+      "id": 455,
+      "index": 455,
+      "character": "LEX",
+      "gender": "Female",
+      "line": "Timmy's scared of heights.",
+      "wordCount": 4
+    },
+    {
+      "id": 456,
+      "index": 456,
+      "character": "TIMMY",
+      "gender": "NA",
+      "line": "Shut up.",
+      "wordCount": 2
+    },
+    {
+      "id": 457,
+      "index": 457,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "Okay with the fence, Timmy?",
+      "wordCount": 5
+    },
+    {
+      "id": 458,
+      "index": 458,
+      "character": "LEX",
+      "gender": "Female",
+      "line": "'Fraid of heights.",
+      "wordCount": 3
+    },
+    {
+      "id": 459,
+      "index": 459,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "A herbivore grazing area. Excellent.",
+      "wordCount": 5
+    },
+    {
+      "id": 460,
+      "index": 460,
+      "character": "TIM",
+      "gender": "Male",
+      "line": "We gonna walk all night?",
+      "wordCount": 5
+    },
+    {
+      "id": 461,
+      "index": 461,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "Twelve hours before that ship reaches the mainland.",
+      "wordCount": 8
+    },
+    {
+      "id": 462,
+      "index": 462,
+      "character": "TIM",
+      "gender": "Male",
+      "line": "We need sleep.",
+      "wordCount": 3
+    },
+    {
+      "id": 463,
+      "index": 463,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "Up there.",
+      "wordCount": 2
+    },
+    {
+      "id": 464,
+      "index": 464,
+      "character": "TIM",
+      "gender": "Male",
+      "line": "Climb? Again? I can't climb again?",
+      "wordCount": 6
+    },
+    {
+      "id": 465,
+      "index": 465,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "Sure you can.",
+      "wordCount": 3
+    },
+    {
+      "id": 466,
+      "index": 466,
+      "character": "TIMMY",
+      "gender": "NA",
+      "line": "It's ok, Lex. Everything's gonna be okay.",
+      "wordCount": 7
+    },
+    {
+      "id": 467,
+      "index": 467,
+      "character": "WU",
+      "gender": "Male",
+      "line": "What is taking Arnold so long? This room is too cold. My eggs will be damaged.",
+      "wordCount": 16
+    },
+    {
+      "id": 468,
+      "index": 468,
+      "character": "ELLIE",
+      "gender": "Female",
+      "line": "No sign of those berries. Really interesting. There are indications of a similar virus in every tissue sample. But it's not in the ground. Could I look at some of the discarded embryos?",
+      "wordCount": 33
+    },
+    {
+      "id": 469,
+      "index": 469,
+      "character": "WU",
+      "gender": "Male",
+      "line": "I'm sure you'll find your virus ... or a similar one. All animals carry many viruses in a dormant condition. It's almost impossible to say with certainty which are the same strains.",
+      "wordCount": 32
+    },
+    {
+      "id": 470,
+      "index": 470,
+      "character": "ELLIE",
+      "gender": "Female",
+      "line": "And yet from what Harding tells me, many of you animals have similar symptoms - besides the microvesicles, a lack of hunger, loss of reproductive urges, sores in the mouth and gums.",
+      "wordCount": 32
+    },
+    {
+      "id": 471,
+      "index": 471,
+      "character": "WU",
+      "gender": "Male",
+      "line": "What the hell does Harding know? He's a veterinarian, not a pathologist.",
+      "wordCount": 12
+    },
+    {
+      "id": 472,
+      "index": 472,
+      "character": "MULDOON",
+      "gender": "Male",
+      "line": "What is it?",
+      "wordCount": 3
+    },
+    {
+      "id": 473,
+      "index": 473,
+      "character": "ARNOLD",
+      "gender": "Male",
+      "line": "That's it.",
+      "wordCount": 2
+    },
+    {
+      "id": 474,
+      "index": 474,
+      "character": "MULDOON",
+      "gender": "Male",
+      "line": "That's what?",
+      "wordCount": 2
+    },
+    {
+      "id": 475,
+      "index": 475,
+      "character": "ARNOL",
+      "gender": "Male",
+      "line": "I found the command to restore the original code. It resets the linked parameters.",
+      "wordCount": 14
+    },
+    {
+      "id": 476,
+      "index": 476,
+      "character": "MULDOON",
+      "gender": "Male",
+      "line": "The fences and the power?",
+      "wordCount": 5
+    },
+    {
+      "id": 477,
+      "index": 477,
+      "character": "ARNOLD",
+      "gender": "Male",
+      "line": "Right. And it does something else. It erases the code lines that refer to it. It destroys all evidence it was ever there.",
+      "wordCount": 23
+    },
+    {
+      "id": 478,
+      "index": 478,
+      "character": "MULDOON",
+      "gender": "Male",
+      "line": "Nedry could steal the eggs, get back and reset the whole show. No one would ever miss him.",
+      "wordCount": 18
+    },
+    {
+      "id": 479,
+      "index": 479,
+      "character": "ARNOLD",
+      "gender": "Male",
+      "line": "Watch this.",
+      "wordCount": 2
+    },
+    {
+      "id": 480,
+      "index": 480,
+      "character": "ARNOLD",
+      "gender": "Male",
+      "line": "Hot damn!",
+      "wordCount": 2
+    },
+    {
+      "id": 481,
+      "index": 481,
+      "character": "MULDOON",
+      "gender": "Male",
+      "line": "Are the fences back on?",
+      "wordCount": 5
+    },
+    {
+      "id": 482,
+      "index": 482,
+      "character": "ARNOLD",
+      "gender": "Male",
+      "line": "You bet they are. It will take a few seconds to get up to full power, because we've got fift y miles of fence out there, and the generator has to feed the capacitors along the way. But in a half a minute we'll be back in business.",
+      "wordCount": 48
+    },
+    {
+      "id": 483,
+      "index": 483,
+      "character": "MULDOON",
+      "gender": "Male",
+      "line": "Motion sensors?",
+      "wordCount": 2
+    },
+    {
+      "id": 484,
+      "index": 484,
+      "character": "ARNOLD",
+      "gender": "Male",
+      "line": "Got them too. It will be a few minutes while the computer counts. Then I'll tell you where Grant and the kids are and you can go and get them. But every- thing's working. Half past ten and we've got the whole thing back up and running.",
+      "wordCount": 47
+    },
+    {
+      "id": 485,
+      "index": 485,
+      "character": "MULDOON",
+      "gender": "Male",
+      "line": "Just hiss.",
+      "wordCount": 2
+    },
+    {
+      "id": 486,
+      "index": 486,
+      "character": "MULDOON",
+      "gender": "Male",
+      "line": "What is taking so damn long? Where are they?",
+      "wordCount": 9
+    },
+    {
+      "id": 487,
+      "index": 487,
+      "character": "ARNOLD",
+      "gender": "Male",
+      "line": "There's a lot of extraneous movement out there. Branches blowing, birds, back- ground movement. It may take, ah, okay, count's finished.",
+      "wordCount": 21
+    },
+    {
+      "id": 488,
+      "index": 488,
+      "character": "ARNOLD",
+      "gender": "Male",
+      "line": "Hmmmm. I don't see them. Maybe they're out of range of a sensor.",
+      "wordCount": 13
+    },
+    {
+      "id": 489,
+      "index": 489,
+      "character": "MULDOON",
+      "gender": "Male",
+      "line": "Shit. I don't know where they are. I wish I could go out there But I haven't got anything to use on the Rex. My rocket launcher's in the jeep Nedry stole. And going out with a big gun in the dark would be suicide",
+      "wordCount": 45
+    },
+    {
+      "id": 490,
+      "index": 490,
+      "character": "ELLIE",
+      "gender": "Female",
+      "line": "Why don't you get some sleep, Dr. Wu? I'm just going to run a couple more tests and then I'm going to turn in myself.",
+      "wordCount": 25
+    },
+    {
+      "id": 491,
+      "index": 491,
+      "character": "WU",
+      "gender": "Male",
+      "line": "No point in everyone being exhausted.",
+      "wordCount": 6
+    },
+    {
+      "id": 492,
+      "index": 492,
+      "character": "WU",
+      "gender": "Male",
+      "line": "I'm sure Muldoon will find Dr. Grant as soon as there is light.",
+      "wordCount": 13
+    },
+    {
+      "id": 493,
+      "index": 493,
+      "character": "LEX",
+      "gender": "Female",
+      "line": "He gonna eat us?",
+      "wordCount": 4
+    },
+    {
+      "id": 494,
+      "index": 494,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "I don't think so. She's a ...",
+      "wordCount": 7
+    },
+    {
+      "id": 495,
+      "index": 495,
+      "character": "GRANT AND TIMMY",
+      "gender": "NA",
+      "line": "... herbivore.",
+      "wordCount": 2
+    },
+    {
+      "id": 496,
+      "index": 496,
+      "character": "LEX",
+      "gender": "Female",
+      "line": "Come here, babies! Get your b reakfast!",
+      "wordCount": 7
+    },
+    {
+      "id": 497,
+      "index": 497,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "Like the trike. Maybe it's not the stones.",
+      "wordCount": 8
+    },
+    {
+      "id": 498,
+      "index": 498,
+      "character": "MULDOON",
+      "gender": "Male",
+      "line": "Where the hell are they going?",
+      "wordCount": 6
+    },
+    {
+      "id": 499,
+      "index": 499,
+      "character": "MULDOON",
+      "gender": "Male",
+      "line": "Let's see what's up.",
+      "wordCount": 4
+    },
+    {
+      "id": 500,
+      "index": 500,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "Tim, I think there's a motion sensor across the field and down there.",
+      "wordCount": 13
+    },
+    {
+      "id": 501,
+      "index": 501,
+      "character": "TIM",
+      "gender": "Male",
+      "line": "Where's Lex?",
+      "wordCount": 2
+    },
+    {
+      "id": 502,
+      "index": 502,
+      "character": "LEX",
+      "gender": "Female",
+      "line": "C'mere boy, c'mere.",
+      "wordCount": 3
+    },
+    {
+      "id": 503,
+      "index": 503,
+      "character": "LEX",
+      "gender": "Female",
+      "line": "It's very, very good.",
+      "wordCount": 4
+    },
+    {
+      "id": 504,
+      "index": 504,
+      "character": "LEX",
+      "gender": "Female",
+      "line": "C'mere boy, c'mere.",
+      "wordCount": 3
+    },
+    {
+      "id": 505,
+      "index": 505,
+      "character": "TIM",
+      "gender": "Male",
+      "line": "Dr. Grant, Dr. Grant, look.",
+      "wordCount": 5
+    },
+    {
+      "id": 506,
+      "index": 506,
+      "character": "LEX",
+      "gender": "Female",
+      "line": "Whoa!",
+      "wordCount": 1
+    },
+    {
+      "id": 507,
+      "index": 507,
+      "character": "LEX",
+      "gender": "Female",
+      "line": "Giddyup!",
+      "wordCount": 1
+    },
+    {
+      "id": 508,
+      "index": 508,
+      "character": "LEX",
+      "gender": "Female",
+      "line": "Whoa!! Take is easy!",
+      "wordCount": 4
+    },
+    {
+      "id": 509,
+      "index": 509,
+      "character": "LEX",
+      "gender": "Female",
+      "line": "I can't swim!",
+      "wordCount": 3
+    },
+    {
+      "id": 510,
+      "index": 510,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "Go home now. Home to Freda!",
+      "wordCount": 6
+    },
+    {
+      "id": 511,
+      "index": 511,
+      "character": "LEX",
+      "gender": "Female",
+      "line": "Oh, let him stay. He likes me to ride him. He could carry me instead of you, Dr. Grant. Please, let him stay,",
+      "wordCount": 23
+    },
+    {
+      "id": 512,
+      "index": 512,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "Go! Go away. Go! Get out of here!",
+      "wordCount": 8
+    },
+    {
+      "id": 513,
+      "index": 513,
+      "character": "LEX",
+      "gender": "Female",
+      "line": "Will I ever play with him again?",
+      "wordCount": 7
+    },
+    {
+      "id": 514,
+      "index": 514,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "We gotta get to that motion detector. It's still a ways.",
+      "wordCount": 11
+    },
+    {
+      "id": 515,
+      "index": 515,
+      "character": "MULDOON",
+      "gender": "Male",
+      "line": "I found Nedry!",
+      "wordCount": 3
+    },
+    {
+      "id": 516,
+      "index": 516,
+      "character": "BEARDED WORKE R",
+      "gender": "NA",
+      "line": "I found him!",
+      "wordCount": 3
+    },
+    {
+      "id": 517,
+      "index": 517,
+      "character": "BALD WORKER",
+      "gender": "NA",
+      "line": "Found him!",
+      "wordCount": 2
+    },
+    {
+      "id": 518,
+      "index": 518,
+      "character": "HAMMOND",
+      "gender": "Male",
+      "line": "He, Donald. Glad you're awake. I hope you're not going to take this little mishap you had and hold it against my park. It would be terrible if the finishing funds were in any way held up.",
+      "wordCount": 37
+    },
+    {
+      "id": 519,
+      "index": 519,
+      "character": "HAMMOND",
+      "gender": "Male",
+      "line": "You really shouldn't have gotten out of the vehicle. The park is actually quite safe. A disenchanted worker sabotaged some equipment. Arnold, Muldoon, and Wu, all loyal employees, are righting damage",
+      "wordCount": 31
+    },
+    {
+      "id": 520,
+      "index": 520,
+      "character": "GENNARO",
+      "gender": "Male",
+      "line": "Oh good, 'cause I love the park! It's more than we ever dreamed! Those brachiosaurs are so big! And those Spitters - - incredible! I only have one problem. Aren't we going to have pterodactyls? Oh, they'd fly away!",
+      "wordCount": 39
+    },
+    {
+      "id": 521,
+      "index": 521,
+      "character": "HAMMOND",
+      "gender": "Male",
+      "line": "Take a look at these, Donald. Have you seen these? These are great.",
+      "wordCount": 13
+    },
+    {
+      "id": 522,
+      "index": 522,
+      "character": "HAMMOND",
+      "gender": "Male",
+      "line": "Wind-up toys. Spitter umbrellas.",
+      "wordCount": 4
+    },
+    {
+      "id": 523,
+      "index": 523,
+      "character": "HAMMOND",
+      "gender": "Male",
+      "line": "I got some great t-shirts. Dinosaur bingo, hey ...",
+      "wordCount": 9
+    },
+    {
+      "id": 524,
+      "index": 524,
+      "character": "HAMMOND",
+      "gender": "Male",
+      "line": "Wu says he can make a foot high",
+      "wordCount": 8
+    },
+    {
+      "id": 525,
+      "index": 525,
+      "character": "HARDING",
+      "gender": "NA",
+      "line": "You'll have to bear with him, Mr. Hammond. He's doped to infinity and back.",
+      "wordCount": 14
+    },
+    {
+      "id": 526,
+      "index": 526,
+      "character": "WU",
+      "gender": "Male",
+      "line": "Who gave you permission -",
+      "wordCount": 5
+    },
+    {
+      "id": 527,
+      "index": 527,
+      "character": "ELLIE",
+      "gender": "Female",
+      "line": "I'm here to investigate this park. And there's plenty you haven't told me.",
+      "wordCount": 13
+    },
+    {
+      "id": 528,
+      "index": 528,
+      "character": "WU",
+      "gender": "Male",
+      "line": "That's absurd.",
+      "wordCount": 2
+    },
+    {
+      "id": 529,
+      "index": 529,
+      "character": "ELLIE",
+      "gender": "Female",
+      "line": "These bones aren't fully formed.",
+      "wordCount": 5
+    },
+    {
+      "id": 530,
+      "index": 530,
+      "character": "WU",
+      "gender": "Male",
+      "line": "You're qualified to interpret x-rays of living dinosaurs? I doubt it. It took me many months to learn.",
+      "wordCount": 18
+    },
+    {
+      "id": 531,
+      "index": 531,
+      "character": "WU",
+      "gender": "Male",
+      "line": "You're making a lot of assumptions here.",
+      "wordCount": 7
+    },
+    {
+      "id": 532,
+      "index": 532,
+      "character": "ELLIE",
+      "gender": "Female",
+      "line": "Right. What the hell is going on, Wu?",
+      "wordCount": 8
+    },
+    {
+      "id": 533,
+      "index": 533,
+      "character": "HAMMOND",
+      "gender": "Male",
+      "line": "Growth hormones.",
+      "wordCount": 2
+    },
+    {
+      "id": 534,
+      "index": 534,
+      "character": "WU",
+      "gender": "Male",
+      "line": "She didn't have a right to explore my lab.",
+      "wordCount": 9
+    },
+    {
+      "id": 535,
+      "index": 535,
+      "character": "HAMMOND",
+      "gender": "Male",
+      "line": "Let's not argue, Wu, we have a serious problem. These animals don't last. There is a regularity, a predictability about when they die. It's always ... very young. We don't know why. Given time, I'm sure Wu will figure it out. It's just ...",
+      "wordCount": 44
+    },
+    {
+      "id": 536,
+      "index": 536,
+      "character": "WU",
+      "gender": "Male",
+      "line": "Just some adjustment in the code is required.",
+      "wordCount": 8
+    },
+    {
+      "id": 537,
+      "index": 537,
+      "character": "HAMMOND",
+      "gender": "Male",
+      "line": "But there are deadlines. The park opens next summer. And it requires full-grown specimens. So Wu uses growth hormones to achieve the desired size in a short amount of time. But they all keep dying and we don't know how to stop it.",
+      "wordCount": 43
+    },
+    {
+      "id": 538,
+      "index": 538,
+      "character": "HAMMOND",
+      "gender": "Male",
+      "line": "I was going to tell you all this myself, Dr. Sattler, after Gennaro stopped breathing down my neck. That's why I wanted you and Dr. Grant here on my island - you have to help me keep the dinosaurs alive. Won't you please help me?",
+      "wordCount": 45
+    },
+    {
+      "id": 539,
+      "index": 539,
+      "character": "ELLIE",
+      "gender": "Female",
+      "line": "Gennaro's losing a lot of blood. He needs transfusions. We gotta get a rescue helicopter. Arnold, what's with the phones?",
+      "wordCount": 20
+    },
+    {
+      "id": 540,
+      "index": 540,
+      "character": "ARNOLD",
+      "gender": "Male",
+      "line": "Ah hell. I just can't find it.",
+      "wordCount": 7
+    },
+    {
+      "id": 541,
+      "index": 541,
+      "character": "ELLIE",
+      "gender": "Female",
+      "line": "Find what?",
+      "wordCount": 2
+    },
+    {
+      "id": 542,
+      "index": 542,
+      "character": "ARNOLD",
+      "gender": "Male",
+      "line": "Nedry jammed all the communication lines. He inserted some command, a lockout into the program code. I can't find it, because I gave that restore command and it erased part of the program listings.",
+      "wordCount": 34
+    },
+    {
+      "id": 543,
+      "index": 543,
+      "character": "WU",
+      "gender": "Male",
+      "line": "So? Just reset - shut the system down and you'll clear the memory. Everything will be in the normal wakeup mode.",
+      "wordCount": 21
+    },
+    {
+      "id": 544,
+      "index": 544,
+      "character": "ARNOLD",
+      "gender": "Male",
+      "line": "Shut the system down?",
+      "wordCount": 4
+    },
+    {
+      "id": 545,
+      "index": 545,
+      "character": "WU",
+      "gender": "Male",
+      "line": "And reset.",
+      "wordCount": 2
+    },
+    {
+      "id": 546,
+      "index": 546,
+      "character": "ARNOLD",
+      "gender": "Male",
+      "line": "I've never done that before. And I'm reluctant to do it. Maybe it's tr ue, all systems will come on, but maybe they won't.",
+      "wordCount": 24
+    },
+    {
+      "id": 547,
+      "index": 547,
+      "character": "ELLIE",
+      "gender": "Female",
+      "line": "Look, there is a sick man here who needs medical attention or he'll die. Four people are out there, missing in your park. We need search teams. We have to have a phone or radio.",
+      "wordCount": 35
+    },
+    {
+      "id": 548,
+      "index": 548,
+      "character": "ELLIE",
+      "gender": "Female",
+      "line": "Well?",
+      "wordCount": 1
+    },
+    {
+      "id": 549,
+      "index": 549,
+      "character": "ARNOLD",
+      "gender": "Male",
+      "line": "Well, it's just that the safety systems don't function with the computer shut down and -",
+      "wordCount": 16
+    },
+    {
+      "id": 550,
+      "index": 550,
+      "character": "ELLIE",
+      "gender": "Female",
+      "line": "- turn the goddamn safety systems off! Can't you get it through your head that we have no choice?",
+      "wordCount": 19
+    },
+    {
+      "id": 551,
+      "index": 551,
+      "character": "ARNOLD",
+      "gender": "Male",
+      "line": "Okay.",
+      "wordCount": 1
+    },
+    {
+      "id": 552,
+      "index": 552,
+      "character": "ARNOLD",
+      "gender": "Male",
+      "line": "You asked for it. And you got it.",
+      "wordCount": 8
+    },
+    {
+      "id": 553,
+      "index": 553,
+      "character": "ELLIE",
+      "gender": "Female",
+      "line": "How long do we have to wait?",
+      "wordCount": 7
+    },
+    {
+      "id": 554,
+      "index": 554,
+      "character": "ARNOLD",
+      "gender": "Male",
+      "line": "Thirty seconds.",
+      "wordCount": 2
+    },
+    {
+      "id": 555,
+      "index": 555,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "What is it?",
+      "wordCount": 3
+    },
+    {
+      "id": 556,
+      "index": 556,
+      "character": "LEX",
+      "gender": "Female",
+      "line": "I hear something.",
+      "wordCount": 3
+    },
+    {
+      "id": 557,
+      "index": 557,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "Come on.",
+      "wordCount": 2
+    },
+    {
+      "id": 558,
+      "index": 558,
+      "character": "LEX",
+      "gender": "Female",
+      "line": "Hear it now?",
+      "wordCount": 3
+    },
+    {
+      "id": 559,
+      "index": 559,
+      "character": "TIMMY",
+      "gender": "NA",
+      "line": "You're hearing things. Come on, we gotta get back and warn them about the boat.",
+      "wordCount": 15
+    },
+    {
+      "id": 560,
+      "index": 560,
+      "character": "TIMMY",
+      "gender": "NA",
+      "line": "What's going on?",
+      "wordCount": 3
+    },
+    {
+      "id": 561,
+      "index": 561,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "They're agitated.",
+      "wordCount": 2
+    },
+    {
+      "id": 562,
+      "index": 562,
+      "character": "LEX",
+      "gender": "Female",
+      "line": "I told you I heard something!",
+      "wordCount": 6
+    },
+    {
+      "id": 563,
+      "index": 563,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "Outta the way, kids! Run!",
+      "wordCount": 5
+    },
+    {
+      "id": 564,
+      "index": 564,
+      "character": "ARNOLD",
+      "gender": "Male",
+      "line": "Memory should be cleared by now.",
+      "wordCount": 6
+    },
+    {
+      "id": 565,
+      "index": 565,
+      "character": "ARNOLD",
+      "gender": "Male",
+      "line": "Damn.",
+      "wordCount": 1
+    },
+    {
+      "id": 566,
+      "index": 566,
+      "character": "ELLIE",
+      "gender": "Female",
+      "line": "What's wrong?",
+      "wordCount": 2
+    },
+    {
+      "id": 567,
+      "index": 567,
+      "character": "ARNOLD",
+      "gender": "Male",
+      "line": "Oh hell! I have to turn the safety switches back on before I restart the power.",
+      "wordCount": 16
+    },
+    {
+      "id": 568,
+      "index": 568,
+      "character": "ARNOLD",
+      "gender": "Male",
+      "line": "Thank God!",
+      "wordCount": 2
+    },
+    {
+      "id": 569,
+      "index": 569,
+      "character": "ELLIE",
+      "gender": "Female",
+      "line": "Arnold! They're still not working.",
+      "wordCount": 5
+    },
+    {
+      "id": 570,
+      "index": 570,
+      "character": "ARNOLD",
+      "gender": "Male",
+      "line": "No, it sounds dead but after a reset, all system modules have to be brought on line manually.",
+      "wordCount": 18
+    },
+    {
+      "id": 571,
+      "index": 571,
+      "character": "WU",
+      "gender": "Male",
+      "line": "Arnold's about to get the phones up.",
+      "wordCount": 7
+    },
+    {
+      "id": 572,
+      "index": 572,
+      "character": "ARNOLD",
+      "gender": "Male",
+      "line": "Okay, we're up again!",
+      "wordCount": 4
+    },
+    {
+      "id": 573,
+      "index": 573,
+      "character": "ELLIE",
+      "gender": "Female",
+      "line": "No we're not. Phones still dead.",
+      "wordCount": 6
+    },
+    {
+      "id": 574,
+      "index": 574,
+      "character": "ARNOLD",
+      "gender": "Male",
+      "line": "Can't be -",
+      "wordCount": 3
+    },
+    {
+      "id": 575,
+      "index": 575,
+      "character": "HAMMOND",
+      "gender": "Male",
+      "line": "My God, look at this, Arnold.",
+      "wordCount": 6
+    },
+    {
+      "id": 576,
+      "index": 576,
+      "character": "ELLIE",
+      "gender": "Female",
+      "line": "What's happening?",
+      "wordCount": 2
+    },
+    {
+      "id": 577,
+      "index": 577,
+      "character": "ARNOLD",
+      "gender": "Male",
+      "line": "The duckbills.",
+      "wordCount": 2
+    },
+    {
+      "id": 578,
+      "index": 578,
+      "character": "WU",
+      "gender": "Male",
+      "line": "My good God.",
+      "wordCount": 3
+    },
+    {
+      "id": 579,
+      "index": 579,
+      "character": "ELLIE",
+      "gender": "Female",
+      "line": "What?",
+      "wordCount": 1
+    },
+    {
+      "id": 580,
+      "index": 580,
+      "character": "ARNOLD",
+      "gender": "Male",
+      "line": "It's the Rex ...",
+      "wordCount": 4
+    },
+    {
+      "id": 581,
+      "index": 581,
+      "character": "HAMMOND",
+      "gender": "Male",
+      "line": "They've stampeded ...",
+      "wordCount": 3
+    },
+    {
+      "id": 582,
+      "index": 582,
+      "character": "CLOSE ON",
+      "gender": "NA",
+      "line": "- A huge adult foot almost tramples the infant.",
+      "wordCount": 9
+    },
+    {
+      "id": 583,
+      "index": 583,
+      "character": "TIMMY",
+      "gender": "NA",
+      "line": "Let's go. Now!",
+      "wordCount": 3
+    },
+    {
+      "id": 584,
+      "index": 584,
+      "character": "HAMMOND",
+      "gender": "Male",
+      "line": "No! Oh no! He make a kill. He killed one of my animals! Where's Muldoon?",
+      "wordCount": 15
+    },
+    {
+      "id": 585,
+      "index": 585,
+      "character": "ARNOLD",
+      "gender": "Male",
+      "line": "I'm sorry, Mr. Hammond.",
+      "wordCount": 4
+    },
+    {
+      "id": 586,
+      "index": 586,
+      "character": "HAMMOND",
+      "gender": "Male",
+      "line": "My animals! My animals!",
+      "wordCount": 4
+    },
+    {
+      "id": 587,
+      "index": 587,
+      "character": "HAMMOND",
+      "gender": "Male",
+      "line": "Where have you been? My Rex killed a hadrosaur. You should be out there, doing something.",
+      "wordCount": 16
+    },
+    {
+      "id": 588,
+      "index": 588,
+      "character": "MUL DOON",
+      "gender": "NA",
+      "line": "I just came to tell you - you're minus one computer expert.",
+      "wordCount": 12
+    },
+    {
+      "id": 589,
+      "index": 589,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "We'll walk by the river. That leads back to the Visitor's center.",
+      "wordCount": 12
+    },
+    {
+      "id": 590,
+      "index": 590,
+      "character": "LEX",
+      "gender": "Female",
+      "line": "Not me. I'm not walking anymore.",
+      "wordCount": 6
+    },
+    {
+      "id": 591,
+      "index": 591,
+      "character": "TIMMY",
+      "gender": "NA",
+      "line": "Come on Lex, I'll carry you.",
+      "wordCount": 6
+    },
+    {
+      "id": 592,
+      "index": 592,
+      "character": "LEX",
+      "gender": "Female",
+      "line": "Nope. Too scared.",
+      "wordCount": 3
+    },
+    {
+      "id": 593,
+      "index": 593,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "You ready?",
+      "wordCount": 2
+    },
+    {
+      "id": 594,
+      "index": 594,
+      "character": "LEX",
+      "gender": "Female",
+      "line": "Can we go on the raft? Then we don't have to walk so close to the animals!",
+      "wordCount": 17
+    },
+    {
+      "id": 595,
+      "index": 595,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "What raft?",
+      "wordCount": 2
+    },
+    {
+      "id": 596,
+      "index": 596,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "It's still mid-morning. I bet we have at least ten miles to go. If we take the raft along the river, we can make much faster progress.",
+      "wordCount": 27
+    },
+    {
+      "id": 597,
+      "index": 597,
+      "character": "TIMMY",
+      "gender": "NA",
+      "line": "Let's do it.",
+      "wordCount": 3
+    },
+    {
+      "id": 598,
+      "index": 598,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "Lex, I don't see any raft.",
+      "wordCount": 6
+    },
+    {
+      "id": 599,
+      "index": 599,
+      "character": "TIMMY",
+      "gender": "NA",
+      "line": "Keep going.",
+      "wordCount": 2
+    },
+    {
+      "id": 600,
+      "index": 600,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "Bullseye!",
+      "wordCount": 1
+    },
+    {
+      "id": 601,
+      "index": 601,
+      "character": "LEX",
+      "gender": "Female",
+      "line": "Told you!",
+      "wordCount": 2
+    },
+    {
+      "id": 602,
+      "index": 602,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "No raft. Where did you see it, Lex?",
+      "wordCount": 8
+    },
+    {
+      "id": 603,
+      "index": 603,
+      "character": "LEX",
+      "gender": "Female",
+      "line": "Actually, I never really saw one. Just assumed.",
+      "wordCount": 8
+    },
+    {
+      "id": 604,
+      "index": 604,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "Assumed?",
+      "wordCount": 1
+    },
+    {
+      "id": 605,
+      "index": 605,
+      "character": "TIMMY",
+      "gender": "NA",
+      "line": "Lex! Lex! You're okay, you're okay!",
+      "wordCount": 6
+    },
+    {
+      "id": 606,
+      "index": 606,
+      "character": "TIMM",
+      "gender": "NA",
+      "line": "Look, Lex! Look!",
+      "wordCount": 3
+    },
+    {
+      "id": 607,
+      "index": 607,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "I'm afraid there's no raft.",
+      "wordCount": 5
+    },
+    {
+      "id": 608,
+      "index": 608,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "Looks pretty calm.",
+      "wordCount": 3
+    },
+    {
+      "id": 609,
+      "index": 609,
+      "character": "LEX",
+      "gender": "Female",
+      "line": "I'll row, Dr. Grant.",
+      "wordCount": 4
+    },
+    {
+      "id": 610,
+      "index": 610,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "No.",
+      "wordCount": 1
+    },
+    {
+      "id": 611,
+      "index": 611,
+      "character": "LEX",
+      "gender": "Female",
+      "line": "Hey, we're still moving.",
+      "wordCount": 4
+    },
+    {
+      "id": 612,
+      "index": 612,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "There's a current.",
+      "wordCount": 3
+    },
+    {
+      "id": 613,
+      "index": 613,
+      "character": "LEX",
+      "gender": "Female",
+      "line": "You can't sleep.",
+      "wordCount": 3
+    },
+    {
+      "id": 614,
+      "index": 614,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "I'm not sl eeping... yet.",
+      "wordCount": 5
+    },
+    {
+      "id": 615,
+      "index": 615,
+      "character": "LEX",
+      "gender": "Female",
+      "line": "I'll do it!",
+      "wordCount": 3
+    },
+    {
+      "id": 616,
+      "index": 616,
+      "character": "TIMMY",
+      "gender": "NA",
+      "line": "We gotta warn them about the boat.",
+      "wordCount": 7
+    },
+    {
+      "id": 617,
+      "index": 617,
+      "character": "TIMMY",
+      "gender": "NA",
+      "line": "Cool!",
+      "wordCount": 1
+    },
+    {
+      "id": 618,
+      "index": 618,
+      "character": "TIMMY",
+      "gender": "NA",
+      "line": "Thought is looked calm?",
+      "wordCount": 4
+    },
+    {
+      "id": 619,
+      "index": 619,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "Guess I was wrong.",
+      "wordCount": 4
+    },
+    {
+      "id": 620,
+      "index": 620,
+      "character": "LEX",
+      "gender": "Female",
+      "line": "I can't swim!",
+      "wordCount": 3
+    },
+    {
+      "id": 621,
+      "index": 621,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "Hold on real tight.",
+      "wordCount": 4
+    },
+    {
+      "id": 622,
+      "index": 622,
+      "character": "TIMMY",
+      "gender": "NA",
+      "line": "Hold my hand. Hold my hand when we go.",
+      "wordCount": 9
+    },
+    {
+      "id": 623,
+      "index": 623,
+      "character": "TIMMY",
+      "gender": "NA",
+      "line": "Don't let go!",
+      "wordCount": 3
+    },
+    {
+      "id": 624,
+      "index": 624,
+      "character": "TIMMY",
+      "gender": "NA",
+      "line": "You can do it!",
+      "wordCount": 4
+    },
+    {
+      "id": 625,
+      "index": 625,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "I'm trying. I'm trying ... Ooooo!!! ....",
+      "wordCount": 7
+    },
+    {
+      "id": 626,
+      "index": 626,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "No!!!!!",
+      "wordCount": 1
+    },
+    {
+      "id": 627,
+      "index": 627,
+      "character": "MULDOON",
+      "gender": "Male",
+      "line": "Son-of-a-bitch. He's taking a nap. Hasn't been this well fed ... ever.",
+      "wordCount": 12
+    },
+    {
+      "id": 628,
+      "index": 628,
+      "character": "HAMMOND",
+      "gender": "Male",
+      "line": "Could he drown in that position? That's a very valuable animal.",
+      "wordCount": 11
+    },
+    {
+      "id": 629,
+      "index": 629,
+      "character": "MULDOON",
+      "gender": "Male",
+      "line": "I know it's a valuable animal.",
+      "wordCount": 6
+    },
+    {
+      "id": 630,
+      "index": 630,
+      "character": "WU",
+      "gender": "Male",
+      "line": "What's that, John?",
+      "wordCount": 3
+    },
+    {
+      "id": 631,
+      "index": 631,
+      "character": "ELLIE",
+      "gender": "Female",
+      "line": "You running on auxiliary power?",
+      "wordCount": 5
+    },
+    {
+      "id": 632,
+      "index": 632,
+      "character": "ARNOLD",
+      "gender": "Male",
+      "line": "I'm not.",
+      "wordCount": 2
+    },
+    {
+      "id": 633,
+      "index": 633,
+      "character": "WU",
+      "gender": "Male",
+      "line": "Looks like you are.",
+      "wordCount": 4
+    },
+    {
+      "id": 634,
+      "index": 634,
+      "character": "ARNOLD",
+      "gender": "Male",
+      "line": "Can't be.",
+      "wordCount": 2
+    },
+    {
+      "id": 635,
+      "index": 635,
+      "character": "WU",
+      "gender": "Male",
+      "line": "Print the system status log.",
+      "wordCount": 5
+    },
+    {
+      "id": 636,
+      "index": 636,
+      "character": "HAMMOND",
+      "gender": "Male",
+      "line": "What the hell is going on?",
+      "wordCount": 6
+    },
+    {
+      "id": 637,
+      "index": 637,
+      "character": "HAMMOND",
+      "gender": "Male",
+      "line": "You're ruining my ordered, precise park!",
+      "wordCount": 6
+    },
+    {
+      "id": 638,
+      "index": 638,
+      "character": "HAMMOND",
+      "gender": "Male",
+      "line": "Fix my park, Arnold! Fix it!",
+      "wordCount": 6
+    },
+    {
+      "id": 639,
+      "index": 639,
+      "character": "ARNOLD",
+      "gender": "Male",
+      "line": "I know it's hard, I know it's hard, but I'm going to put it all back together for you - I promise. I will",
+      "wordCount": 24
+    },
+    {
+      "id": 640,
+      "index": 640,
+      "character": "LEX",
+      "gender": "Female",
+      "line": "The waterfall stopped.",
+      "wordCount": 3
+    },
+    {
+      "id": 641,
+      "index": 641,
+      "character": "TIMMY",
+      "gender": "NA",
+      "line": "Waterfalls aren't supposed to stop.",
+      "wordCount": 5
+    },
+    {
+      "id": 642,
+      "index": 642,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "I think they cut the power. Hey -",
+      "wordCount": 8
+    },
+    {
+      "id": 643,
+      "index": 643,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "Well, there's our pot of gold. Let's go, kids.",
+      "wordCount": 9
+    },
+    {
+      "id": 644,
+      "index": 644,
+      "character": "BACK ON CON",
+      "gender": "NA",
+      "line": "TROL ROOM -",
+      "wordCount": 3
+    },
+    {
+      "id": 645,
+      "index": 645,
+      "character": "HAMMOND",
+      "gender": "Male",
+      "line": "Told him, fix my park, fix my park.",
+      "wordCount": 8
+    },
+    {
+      "id": 646,
+      "index": 646,
+      "character": "WU",
+      "gender": "Male",
+      "line": "You shut down as six thirty-four this morning, and when you started back up, it was with auxiliary power.",
+      "wordCount": 19
+    },
+    {
+      "id": 647,
+      "index": 647,
+      "character": "ARNOLD",
+      "gender": "Male",
+      "line": "Jesus. The auxiliary generator fires up first and then that's used to start the main generator because it needs a heavy charge. The main generator has to be manually reset.",
+      "wordCount": 30
+    },
+    {
+      "id": 648,
+      "index": 648,
+      "character": "WU",
+      "gender": "Male",
+      "line": "Outside? In the generator building?",
+      "wordCount": 5
+    },
+    {
+      "id": 649,
+      "index": 649,
+      "character": "MULDOON",
+      "gender": "Male",
+      "line": "This doesn't mean the fences have been off since six-thirty, does it?",
+      "wordCount": 12
+    },
+    {
+      "id": 650,
+      "index": 650,
+      "character": "ARNOLD",
+      "gender": "Male",
+      "line": "Backup power doesn't generate enough amperage to power the electrified fences, so they were automatically kept off. That's also why we had no phones or radio.",
+      "wordCount": 26
+    },
+    {
+      "id": 651,
+      "index": 651,
+      "character": "MULDOON",
+      "gender": "Male",
+      "line": "All of the fences?",
+      "wordCount": 4
+    },
+    {
+      "id": 652,
+      "index": 652,
+      "character": "ARNOLD",
+      "gender": "Male",
+      "line": "Yes.",
+      "wordCount": 1
+    },
+    {
+      "id": 653,
+      "index": 653,
+      "character": "MULDOON",
+      "gender": "Male",
+      "line": "Including the velociraptor mesh?",
+      "wordCount": 4
+    },
+    {
+      "id": 654,
+      "index": 654,
+      "character": "ARNOLD",
+      "gender": "Male",
+      "line": "Yes, yes, yes.",
+      "wordCount": 3
+    },
+    {
+      "id": 655,
+      "index": 655,
+      "character": "HAMMOND",
+      "gender": "Male",
+      "line": "Do you mean those raptor s could be loose?",
+      "wordCount": 9
+    },
+    {
+      "id": 656,
+      "index": 656,
+      "character": "ARNOLD",
+      "gender": "Male",
+      "line": "I'm afraid so.",
+      "wordCount": 3
+    },
+    {
+      "id": 657,
+      "index": 657,
+      "character": "MULDOON",
+      "gender": "Male",
+      "line": "No, no way. Last time, it took 'em two days to chew through that mesh. But give 'em enough time, they'll get out. We better get that power on now.",
+      "wordCount": 30
+    },
+    {
+      "id": 658,
+      "index": 658,
+      "character": "HAMMOND",
+      "gender": "Male",
+      "line": "Regardless, check the pit. Make sure there' five of them there.",
+      "wordCount": 11
+    },
+    {
+      "id": 659,
+      "index": 659,
+      "character": "ARNOLD",
+      "gender": "Male",
+      "line": "What's that steam coming out of my generator room?",
+      "wordCount": 9
+    },
+    {
+      "id": 660,
+      "index": 660,
+      "character": "MULDOON",
+      "gender": "Male",
+      "line": "Relax, it's just refrigerated air. There's a leaky cooling pipe. I fixed it a couple times before but the original installation was at too sharp an angle.",
+      "wordCount": 27
+    },
+    {
+      "id": 661,
+      "index": 661,
+      "character": "MULDOON",
+      "gender": "Male",
+      "line": "Just go and turn on your generator, then get right back to the control room.",
+      "wordCount": 15
+    },
+    {
+      "id": 662,
+      "index": 662,
+      "character": "MULDOON",
+      "gender": "Male",
+      "line": "Raptors chewed their way out. All five are out there.",
+      "wordCount": 10
+    },
+    {
+      "id": 663,
+      "index": 663,
+      "character": "ELLIE",
+      "gender": "Female",
+      "line": "Arnold's not with you?",
+      "wordCount": 4
+    },
+    {
+      "id": 664,
+      "index": 664,
+      "character": "MULDOON",
+      "gender": "Male",
+      "line": "I was hoping he was ba ck here already.",
+      "wordCount": 9
+    },
+    {
+      "id": 665,
+      "index": 665,
+      "character": "HAMMOND",
+      "gender": "Male",
+      "line": "This is why my quarters were specially fortified. To assist in an emergency just like this one. Let's go. Muldoon, round up the workers. They'll go with us too.",
+      "wordCount": 29
+    },
+    {
+      "id": 666,
+      "index": 666,
+      "character": "ELLIE",
+      "gender": "Female",
+      "line": "Wait. What about Arnold?",
+      "wordCount": 4
+    },
+    {
+      "id": 667,
+      "index": 667,
+      "character": "TIMMY",
+      "gender": "NA",
+      "line": "We're home!",
+      "wordCount": 2
+    },
+    {
+      "id": 668,
+      "index": 668,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "Sorry, Tim. We gotta climb up.",
+      "wordCount": 6
+    },
+    {
+      "id": 669,
+      "index": 669,
+      "character": "TIM",
+      "gender": "Male",
+      "line": "That's all right, Dr. Grant. You owe me",
+      "wordCount": 8
+    },
+    {
+      "id": 670,
+      "index": 670,
+      "character": "MULDOON",
+      "gender": "Male",
+      "line": "Okay Wu, I'll have you covered at every moment. But this shell carries quite a punch, so if you're too close, it'll take a piece of you. Ellie's on the headset with you. If another ones come at you, let her know. Then Ellie - you start jumping and yelling. The buggers are easily distracted. They'll come running and let Wu get that power on. Then both of you, get behind this fence as quick as possible.",
+      "wordCount": 77
+    },
+    {
+      "id": 671,
+      "index": 671,
+      "character": "MULDOON",
+      "gender": "Male",
+      "line": "Wu, get away. Give me room to shoot.",
+      "wordCount": 8
+    },
+    {
+      "id": 672,
+      "index": 672,
+      "character": "ELLIE",
+      "gender": "Female",
+      "line": "Hey you cretaceous dromaeosaur, you can't catch me. Hey, come and get me, you flat-snouted Mongolian beast. Hey!",
+      "wordCount": 18
+    },
+    {
+      "id": 673,
+      "index": 673,
+      "character": "MULDOON",
+      "gender": "Male",
+      "line": "You ok?",
+      "wordCount": 2
+    },
+    {
+      "id": 674,
+      "index": 674,
+      "character": "WU",
+      "gender": "Male",
+      "line": "Now, there's four.",
+      "wordCount": 3
+    },
+    {
+      "id": 675,
+      "index": 675,
+      "character": "ELLIE",
+      "gender": "Female",
+      "line": "I'm going in. Muldoon, cover the door after I go in. Wu, guide me!",
+      "wordCount": 14
+    },
+    {
+      "id": 676,
+      "index": 676,
+      "character": "ELLIE",
+      "gender": "Female",
+      "line": "Damn, I banged my head.",
+      "wordCount": 5
+    },
+    {
+      "id": 677,
+      "index": 677,
+      "character": "WU",
+      "gender": "Male",
+      "line": "Oh that's good, that must be the water pipe. You're really close now, there's a cabinet just above your head. Reach up and open it. The handle turns to the left.",
+      "wordCount": 31
+    },
+    {
+      "id": 678,
+      "index": 678,
+      "character": "WU",
+      "gender": "Male",
+      "line": "It's a large throw-switch. Pull it down, count to three, and push it back up. That's all there is to it.",
+      "wordCount": 21
+    },
+    {
+      "id": 679,
+      "index": 679,
+      "character": "ELLIE",
+      "gender": "Female",
+      "line": "One -",
+      "wordCount": 2
+    },
+    {
+      "id": 680,
+      "index": 680,
+      "character": "ELLIE",
+      "gender": "Female",
+      "line": "Two -",
+      "wordCount": 2
+    },
+    {
+      "id": 681,
+      "index": 681,
+      "character": "ELLIE",
+      "gender": "Female",
+      "line": "Three!",
+      "wordCount": 1
+    },
+    {
+      "id": 682,
+      "index": 682,
+      "character": "LEX",
+      "gender": "Female",
+      "line": "We did it!",
+      "wordCount": 3
+    },
+    {
+      "id": 683,
+      "index": 683,
+      "character": "TIM",
+      "gender": "Male",
+      "line": "We made it!",
+      "wordCount": 3
+    },
+    {
+      "id": 684,
+      "index": 684,
+      "character": "ELLIE",
+      "gender": "Female",
+      "line": "Raptor!",
+      "wordCount": 1
+    },
+    {
+      "id": 685,
+      "index": 685,
+      "character": "WU",
+      "gender": "Male",
+      "line": "Keep it open! I'm coming!",
+      "wordCount": 5
+    },
+    {
+      "id": 686,
+      "index": 686,
+      "character": "ELLIE",
+      "gender": "Female",
+      "line": "Come on, Wu! Come on! Run!",
+      "wordCount": 6
+    },
+    {
+      "id": 687,
+      "index": 687,
+      "character": "ELLIE",
+      "gender": "Female",
+      "line": "They're coming inside!",
+      "wordCount": 3
+    },
+    {
+      "id": 688,
+      "index": 688,
+      "character": "WU",
+      "gender": "Male",
+      "line": "Help!",
+      "wordCount": 1
+    },
+    {
+      "id": 689,
+      "index": 689,
+      "character": "MULDOON",
+      "gender": "Male",
+      "line": "No they're not, Ellie.",
+      "wordCount": 4
+    },
+    {
+      "id": 690,
+      "index": 690,
+      "character": "MULDOON",
+      "gender": "Male",
+      "line": "I couldn't compromise everyone's safety.",
+      "wordCount": 5
+    },
+    {
+      "id": 691,
+      "index": 691,
+      "character": "ELLIE",
+      "gender": "Female",
+      "line": "Why didn't the power go on?",
+      "wordCount": 6
+    },
+    {
+      "id": 692,
+      "index": 692,
+      "character": "MULDOON",
+      "gender": "Male",
+      "line": "You just reset the power. Now the computer has to be booted.",
+      "wordCount": 12
+    },
+    {
+      "id": 693,
+      "index": 693,
+      "character": "LEX",
+      "gender": "Female",
+      "line": "Where did everybody go?",
+      "wordCount": 4
+    },
+    {
+      "id": 694,
+      "index": 694,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "Probably your grandfather's quarters. Let's go.",
+      "wordCount": 6
+    },
+    {
+      "id": 695,
+      "index": 695,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "Actually, stay here.",
+      "wordCount": 3
+    },
+    {
+      "id": 696,
+      "index": 696,
+      "character": "LEX",
+      "gender": "Female",
+      "line": "No, I want to stay with you.",
+      "wordCount": 7
+    },
+    {
+      "id": 697,
+      "index": 697,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "No, keep an eye on things round here for me. I'll be back with the others.",
+      "wordCount": 16
+    },
+    {
+      "id": 698,
+      "index": 698,
+      "character": "TIMMY",
+      "gender": "NA",
+      "line": "What about -",
+      "wordCount": 3
+    },
+    {
+      "id": 699,
+      "index": 699,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "I'll radio the ship as soon as I find somebody. You're in charge now. Don't move from here ... unless you have to, ok?",
+      "wordCount": 24
+    },
+    {
+      "id": 700,
+      "index": 700,
+      "character": "LEX",
+      "gender": "Female",
+      "line": "Goody! I'm gonna rest.",
+      "wordCount": 4
+    },
+    {
+      "id": 701,
+      "index": 701,
+      "character": "TIMMY",
+      "gender": "NA",
+      "line": "Tired! He carried you the whole way.",
+      "wordCount": 7
+    },
+    {
+      "id": 702,
+      "index": 702,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "Be right back.",
+      "wordCount": 3
+    },
+    {
+      "id": 703,
+      "index": 703,
+      "character": "ELLIE",
+      "gender": "Female",
+      "line": "Why don't you just nail that bastard?",
+      "wordCount": 7
+    },
+    {
+      "id": 704,
+      "index": 704,
+      "character": "MULDOON",
+      "gender": "Male",
+      "line": "No more ammo. I requisitioned six charges but the bean-counter - - cut it down to two.",
+      "wordCount": 17
+    },
+    {
+      "id": 705,
+      "index": 705,
+      "character": "LEX",
+      "gender": "Female",
+      "line": "Any candy behind the counter?",
+      "wordCount": 5
+    },
+    {
+      "id": 706,
+      "index": 706,
+      "character": "TIMMY",
+      "gender": "NA",
+      "line": "Hungry?",
+      "wordCount": 1
+    },
+    {
+      "id": 707,
+      "index": 707,
+      "character": "LEX",
+      "gender": "Female",
+      "line": "Starved.",
+      "wordCount": 1
+    },
+    {
+      "id": 708,
+      "index": 708,
+      "character": "TIMMY",
+      "gender": "NA",
+      "line": "Nothing.",
+      "wordCount": 1
+    },
+    {
+      "id": 709,
+      "index": 709,
+      "character": "LEX",
+      "gender": "Female",
+      "line": "Let's go to the kitchen.",
+      "wordCount": 5
+    },
+    {
+      "id": 710,
+      "index": 710,
+      "character": "TIMMY",
+      "gender": "NA",
+      "line": "Dr. Grant said -",
+      "wordCount": 4
+    },
+    {
+      "id": 711,
+      "index": 711,
+      "character": "LEX",
+      "gender": "Female",
+      "line": "- let's go. We'll come right back.",
+      "wordCount": 7
+    },
+    {
+      "id": 712,
+      "index": 712,
+      "character": "TIMMY",
+      "gender": "NA",
+      "line": "Nope. We're waiting here t ill Dr. Grant gets back. He'll help us get some -",
+      "wordCount": 16
+    },
+    {
+      "id": 713,
+      "index": 713,
+      "character": "TIMMY",
+      "gender": "NA",
+      "line": "Start winding now!",
+      "wordCount": 3
+    },
+    {
+      "id": 714,
+      "index": 714,
+      "character": "LEX",
+      "gender": "Female",
+      "line": "Where are we going?",
+      "wordCount": 4
+    },
+    {
+      "id": 715,
+      "index": 715,
+      "character": "TIM",
+      "gender": "Male",
+      "line": "The kitchen!",
+      "wordCount": 2
+    },
+    {
+      "id": 716,
+      "index": 716,
+      "character": "ELLIE",
+      "gender": "Female",
+      "line": "How long?",
+      "wordCount": 2
+    },
+    {
+      "id": 717,
+      "index": 717,
+      "character": "MULDOON",
+      "gender": "Male",
+      "line": "Well, they seem to be getting faster all the time. I would say - fifteen minutes.",
+      "wordCount": 16
+    },
+    {
+      "id": 718,
+      "index": 718,
+      "character": "ELLIE",
+      "gender": "Female",
+      "line": "There's a raptor on the roof of this building. Open that gate and you're a dead man.",
+      "wordCount": 17
+    },
+    {
+      "id": 719,
+      "index": 719,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "Ellie, I'm go glad -",
+      "wordCount": 5
+    },
+    {
+      "id": 720,
+      "index": 720,
+      "character": "ELLIE",
+      "gender": "Female",
+      "line": "Shut up and listen. We have about fifteen minutes here. The computer has to be rebooted. That'll turn on the electric fences. Besides the r aptor stuck in here with us, there are four more ...",
+      "wordCount": 36
+    },
+    {
+      "id": 721,
+      "index": 721,
+      "character": "TIMMY",
+      "gender": "NA",
+      "line": "We'll freeze to death in there.",
+      "wordCount": 6
+    },
+    {
+      "id": 722,
+      "index": 722,
+      "character": "LEX",
+      "gender": "Female",
+      "line": "He's going to eat us!",
+      "wordCount": 5
+    },
+    {
+      "id": 723,
+      "index": 723,
+      "character": "TIMMY",
+      "gender": "NA",
+      "line": "PUSH!",
+      "wordCount": 1
+    },
+    {
+      "id": 724,
+      "index": 724,
+      "character": "LEX",
+      "gender": "Female",
+      "line": "What is it, Timmy?",
+      "wordCount": 4
+    },
+    {
+      "id": 725,
+      "index": 725,
+      "character": "TIMMY",
+      "gender": "NA",
+      "line": "I just remembered something. Rapto rs are born in large litters. There's probably more coming. We gotta hide.",
+      "wordCount": 18
+    },
+    {
+      "id": 726,
+      "index": 726,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "Talk, Ellie, just keep talking.",
+      "wordCount": 5
+    },
+    {
+      "id": 727,
+      "index": 727,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "Timmy, you know anything about computers?",
+      "wordCount": 6
+    },
+    {
+      "id": 728,
+      "index": 728,
+      "character": "TIMMY",
+      "gender": "NA",
+      "line": "Well, I just got an XT at home. I told my Dad I wanted a 386.",
+      "wordCount": 16
+    },
+    {
+      "id": 729,
+      "index": 729,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "Ok good, you're elected.",
+      "wordCount": 4
+    },
+    {
+      "id": 730,
+      "index": 730,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "Okay, we've reached the computer room. Who can te ll Timmy how to reboot?",
+      "wordCount": 14
+    },
+    {
+      "id": 731,
+      "index": 731,
+      "character": "ELLIE",
+      "gender": "Female",
+      "line": "Ah, Alan, nobody here knows how to boot the computer. Please hurry, we've only got a couple minutes left.",
+      "wordCount": 19
+    },
+    {
+      "id": 732,
+      "index": 732,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "Tim, you got to book the system. They reset the power and there are no phones. We gotta turn on the fences and we gotta stop that ship.",
+      "wordCount": 28
+    },
+    {
+      "id": 733,
+      "index": 733,
+      "character": "LEX",
+      "gender": "Female",
+      "line": "Are they going to be ok?",
+      "wordCount": 6
+    },
+    {
+      "id": 734,
+      "index": 734,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "If we can get help very soon.",
+      "wordCount": 7
+    },
+    {
+      "id": 735,
+      "index": 735,
+      "character": "TIMMY",
+      "gender": "NA",
+      "line": "Sshh, you guys, I'm thinking.",
+      "wordCount": 5
+    },
+    {
+      "id": 736,
+      "index": 736,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "Ellie, we're working as fast as we can here.",
+      "wordCount": 9
+    },
+    {
+      "id": 737,
+      "index": 737,
+      "character": "ELLIE",
+      "gender": "Female",
+      "line": "Ok, we're all right here for now.",
+      "wordCount": 7
+    },
+    {
+      "id": 738,
+      "index": 738,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "Don't mention it. It was Timmy.",
+      "wordCount": 6
+    },
+    {
+      "id": 739,
+      "index": 739,
+      "character": "ELLIE",
+      "gender": "Female",
+      "line": "But there's still one more raptor. So be careful.",
+      "wordCount": 9
+    },
+    {
+      "id": 740,
+      "index": 740,
+      "character": "TIM",
+      "gender": "Male",
+      "line": "I think this is the boat. They called it the Queen Anne or something.",
+      "wordCount": 14
+    },
+    {
+      "id": 741,
+      "index": 741,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "Queen Anne, do you read me? Queen Anne?",
+      "wordCount": 8
+    },
+    {
+      "id": 742,
+      "index": 742,
+      "character": "RADIO",
+      "gender": "NA",
+      "line": "This is the Queen Anne B? I copy. What's up?",
+      "wordCount": 10
+    },
+    {
+      "id": 743,
+      "index": 743,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "Report your position!",
+      "wordCount": 3
+    },
+    {
+      "id": 744,
+      "index": 744,
+      "character": "RADIO",
+      "gender": "NA",
+      "line": "Ah, we're just about to dock here in Puntaremas. Who wants to know? Please identify yourself.",
+      "wordCount": 16
+    },
+    {
+      "id": 745,
+      "index": 745,
+      "character": "REDERICK D.",
+      "gender": "NA",
+      "line": "Grant reads it and nods. His voice is tough as nails.",
+      "wordCount": 11
+    },
+    {
+      "id": 746,
+      "index": 746,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "Try this for identification, Captain Farrell. You are in possession of stolen biological materials. If you don't turn that boat around and return to Isla Nublar immediately with your contraband cargo, you will be found in violation of Section 509 of the Uniform Maritime Act, you will be subject to revocation of license, penalties in excess of fifty thousand dollars, and five years in jail. Do you copy?",
+      "wordCount": 68
+    },
+    {
+      "id": 747,
+      "index": 747,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "Do you copy, Captain Farrell?",
+      "wordCount": 5
+    },
+    {
+      "id": 748,
+      "index": 748,
+      "character": "RADIO",
+      "gender": "NA",
+      "line": "I copy. All ahead stern.",
+      "wordCount": 5
+    },
+    {
+      "id": 749,
+      "index": 749,
+      "character": "TIMMY",
+      "gender": "NA",
+      "line": "What's the Uniform Maritime Code?",
+      "wordCount": 5
+    },
+    {
+      "id": 750,
+      "index": 750,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "Who the hell knows?",
+      "wordCount": 4
+    },
+    {
+      "id": 751,
+      "index": 751,
+      "character": "LEX",
+      "gender": "Female",
+      "line": "What good does that do? To have the ship turn around?",
+      "wordCount": 11
+    },
+    {
+      "id": 752,
+      "index": 752,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "Well it gives us ten more hours. Let's see if we can raise the Costa Rican Coast Guard on that thing.",
+      "wordCount": 21
+    },
+    {
+      "id": 753,
+      "index": 753,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "And then there were none.",
+      "wordCount": 5
+    },
+    {
+      "id": 754,
+      "index": 754,
+      "character": "HAMMOND",
+      "gender": "Male",
+      "line": "Dr. Grant, don't abandon this beautiful place. I need a man just like you to help me get my park back on its feet again. And it will be on its feet again.",
+      "wordCount": 33
+    },
+    {
+      "id": 755,
+      "index": 755,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "We have to leave now.",
+      "wordCount": 5
+    },
+    {
+      "id": 756,
+      "index": 756,
+      "character": "HAMMOND",
+      "gender": "Male",
+      "line": "Oh you don't know. There are wonderful plans in the works, sites already purchased for Euro-Jurassic and Jurassic Japan.",
+      "wordCount": 19
+    },
+    {
+      "id": 757,
+      "index": 757,
+      "character": "HAMMOND",
+      "gender": "Male",
+      "line": "Don't you see I've exalted human potential here? You must see it. You must feel it. I called back a life form. Listen, Dr. Grant, don't go. Be a part of this. I'm inviting you to do just that - let the others go, if they want.",
+      "wordCount": 47
+    },
+    {
+      "id": 758,
+      "index": 758,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "You interrupted natural law. There are regulations, rules that nature follows that make her knowable.",
+      "wordCount": 15
+    },
+    {
+      "id": 759,
+      "index": 759,
+      "character": "HAMMOND",
+      "gender": "Male",
+      "line": "You mean there are rules that nature follows that create barriers to our knowledge.",
+      "wordCount": 14
+    },
+    {
+      "id": 760,
+      "index": 760,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "Barriers? Like the seasons? The earth spinning, orbiting the sun? The entire solar system in interlocking motion. Our own beings in biological step with it all. Mr. Hammond, you've disrupted the pattern and look what it's done!",
+      "wordCount": 37
+    },
+    {
+      "id": 761,
+      "index": 761,
+      "character": "HAMMOND",
+      "gender": "Male",
+      "line": "I know what it's done. I've made triceratops and gallimimus and a T-Rex. I've got a batch of iguanadons being born on Tuesday. What do you say to that?",
+      "wordCount": 29
+    },
+    {
+      "id": 762,
+      "index": 762,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "Don't count on it. Now get in.",
+      "wordCount": 7
+    },
+    {
+      "id": 763,
+      "index": 763,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "You created mutant forms that you further mutated to create amus ement attractions. You made biological puppets with heartbeats and an early death sentence.",
+      "wordCount": 24
+    },
+    {
+      "id": 764,
+      "index": 764,
+      "character": "HAMMOND",
+      "gender": "Male",
+      "line": "I created genetic miracles!",
+      "wordCount": 4
+    },
+    {
+      "id": 765,
+      "index": 765,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "You created a park to generate a profit- making merchandising operation.",
+      "wordCount": 11
+    },
+    {
+      "id": 766,
+      "index": 766,
+      "character": "HAMMOND",
+      "gender": "Male",
+      "line": "The merchandise is just a by-product. Souvenirs for people to reflect on the wonder. You fainted when you saw the brachiosaur. Alan, look, let's not argue. The problem is that my employees were not up to par with my dream. They failed me. The park, I promise you, is safe. It really is.",
+      "wordCount": 53
+    },
+    {
+      "id": 767,
+      "index": 767,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "You park is doomed. Now come with me.",
+      "wordCount": 8
+    },
+    {
+      "id": 768,
+      "index": 768,
+      "character": "HAMMOND",
+      "gender": "Male",
+      "line": "It is not! It's blooming! In the throes of labor! You are one more more negative voice in a universe of negativity. You'll amount to nothing. You'll be a bone-brusher all your life. I pity you.",
+      "wordCount": 36
+    },
+    {
+      "id": 769,
+      "index": 769,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "Come back, Mr. Hammond! It's over!",
+      "wordCount": 6
+    },
+    {
+      "id": 770,
+      "index": 770,
+      "character": "ELLIE",
+      "gender": "Female",
+      "line": "They're so beautiful. They're condemned, aren't they? Even those embryo fragments had the same viral contamination.",
+      "wordCount": 16
+    },
+    {
+      "id": 771,
+      "index": 771,
+      "character": "GRANT",
+      "gender": "Male",
+      "line": "I have a theory.",
+      "wordCount": 4
+    },
+    {
+      "id": 772,
+      "index": 772,
+      "character": "ELLIE",
+      "gender": "Female",
+      "line": "You have a theory?",
+      "wordCount": 4
+    },
+    {
+      "id": 773,
+      "index": 773,
+      "character": "ELLIE",
+      "gender": "Female",
+      "line": "So the very process itself was flawed.",
+      "wordCount": 7
+    },
+    {
+      "id": 774,
+      "index": 774,
+      "character": "",
+      "gender": "Male"
+    }
+  ]
+}

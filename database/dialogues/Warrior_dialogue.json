@@ -1,0 +1,5220 @@
+{
+  "fileName": "Warrior_dialogue.txt",
+  "title": "Warrior",
+  "data": [
+    {
+      "id": 0,
+      "index": 0,
+      "character": "PADDY",
+      "gender": "Male",
+      "line": "Tommy?",
+      "wordCount": 1
+    },
+    {
+      "id": 1,
+      "index": 1,
+      "character": "PADDY",
+      "gender": "Male",
+      "line": "What're you doing here?",
+      "wordCount": 4
+    },
+    {
+      "id": 2,
+      "index": 2,
+      "character": "TOMMY",
+      "gender": "Male",
+      "line": "I was just passing through. Figured why not have a belt with the old man.",
+      "wordCount": 15
+    },
+    {
+      "id": 3,
+      "index": 3,
+      "character": "TOMMY",
+      "gender": "Male",
+      "line": "She looks good.",
+      "wordCount": 3
+    },
+    {
+      "id": 4,
+      "index": 4,
+      "character": "PADDY",
+      "gender": "Male",
+      "line": "Yeah, she's hanging in there.",
+      "wordCount": 5
+    },
+    {
+      "id": 5,
+      "index": 5,
+      "character": "TOMMY",
+      "gender": "Male",
+      "line": "Well, you always did take good care of her. Paddy Conlon. Man of priorities.",
+      "wordCount": 14
+    },
+    {
+      "id": 6,
+      "index": 6,
+      "character": "TOMMY",
+      "gender": "Male",
+      "line": "Got a little something for ya. Mom always said never go anywhere empty handed.",
+      "wordCount": 14
+    },
+    {
+      "id": 7,
+      "index": 7,
+      "character": "PADDY",
+      "gender": "Male",
+      "line": "She did. But that's not for me anymore, Tommy.",
+      "wordCount": 9
+    },
+    {
+      "id": 8,
+      "index": 8,
+      "character": "TOMMY",
+      "gender": "Male",
+      "line": "What? You change brands?",
+      "wordCount": 4
+    },
+    {
+      "id": 9,
+      "index": 9,
+      "character": "PADDY",
+      "gender": "Male",
+      "line": "C'mon, let's go inside.",
+      "wordCount": 4
+    },
+    {
+      "id": 10,
+      "index": 10,
+      "character": "TOMMY",
+      "gender": "Male",
+      "line": "I like what you've done with the place.",
+      "wordCount": 8
+    },
+    {
+      "id": 11,
+      "index": 11,
+      "character": "PADDY",
+      "gender": "Male",
+      "line": "Appreciate that.",
+      "wordCount": 2
+    },
+    {
+      "id": 12,
+      "index": 12,
+      "character": "TOMMY",
+      "gender": "Male",
+      "line": "There's not much of a woman's touch around here.",
+      "wordCount": 9
+    },
+    {
+      "id": 13,
+      "index": 13,
+      "character": "PADDY",
+      "gender": "Male",
+      "line": "No more women for me, Tommy.",
+      "wordCount": 6
+    },
+    {
+      "id": 14,
+      "index": 14,
+      "character": "TOMMY",
+      "gender": "Male",
+      "line": "Yeah? Must be hard to find a girl who can take a punch nowadays.",
+      "wordCount": 14
+    },
+    {
+      "id": 15,
+      "index": 15,
+      "character": "PADDY",
+      "gender": "Male",
+      "line": "Here you go.",
+      "wordCount": 3
+    },
+    {
+      "id": 16,
+      "index": 16,
+      "character": "TOMMY",
+      "gender": "Male",
+      "line": "Coffee? You haven't seen a guy in 14 years and you're not gonna have a drink with him?",
+      "wordCount": 18
+    },
+    {
+      "id": 17,
+      "index": 17,
+      "character": "PADDY",
+      "gender": "Male",
+      "line": "I told you, I'm off it. I'm coming up on a thousand days.",
+      "wordCount": 13
+    },
+    {
+      "id": 18,
+      "index": 18,
+      "character": "TOMMY",
+      "gender": "Male",
+      "line": "C'mon, just one drink.",
+      "wordCount": 4
+    },
+    {
+      "id": 19,
+      "index": 19,
+      "character": "PADDY",
+      "gender": "Male",
+      "line": "No.",
+      "wordCount": 1
+    },
+    {
+      "id": 20,
+      "index": 20,
+      "character": "PADDY",
+      "gender": "Male",
+      "line": "He's a school teacher down in Philly.",
+      "wordCount": 7
+    },
+    {
+      "id": 21,
+      "index": 21,
+      "character": "PADDY",
+      "gender": "Male",
+      "line": "Remember Tess? They've got two beautiful little girls.",
+      "wordCount": 8
+    },
+    {
+      "id": 22,
+      "index": 22,
+      "character": "TOMMY",
+      "gender": "Male",
+      "line": "So you found God, huh? That's awesome. Mom kept calling for him, but he wasn't around. I guess Jesus was down at the mill forgiving all the drunks. Who knew?",
+      "wordCount": 30
+    },
+    {
+      "id": 23,
+      "index": 23,
+      "character": "TOMMY",
+      "gender": "Male",
+      "line": "So, you gonna ask about her, or you just gonna sit there all sober?",
+      "wordCount": 14
+    },
+    {
+      "id": 24,
+      "index": 24,
+      "character": "PADDY",
+      "gender": "Male",
+      "line": "I know.",
+      "wordCount": 2
+    },
+    {
+      "id": 25,
+      "index": 25,
+      "character": "TOMMY",
+      "gender": "Male",
+      "line": "Oh, you know? What do you know? Do you know it wasn't enough just to drive west to get away from you? When we hit the water we drove north, too.",
+      "wordCount": 31
+    },
+    {
+      "id": 26,
+      "index": 26,
+      "character": "PADDY",
+      "gender": "Male",
+      "line": "When I got sober I hired a man to find you.",
+      "wordCount": 11
+    },
+    {
+      "id": 27,
+      "index": 27,
+      "character": "TOMMY",
+      "gender": "Male",
+      "line": "Is that one of the 12 steps? Or does a guy like you get 24?",
+      "wordCount": 15
+    },
+    {
+      "id": 28,
+      "index": 28,
+      "character": "PADDY",
+      "gender": "Male",
+      "line": "Just the 12.",
+      "wordCount": 3
+    },
+    {
+      "id": 29,
+      "index": 29,
+      "character": "TOMMY",
+      "gender": "Male",
+      "line": "Did your guy tell you what you needed to know?",
+      "wordCount": 10
+    },
+    {
+      "id": 30,
+      "index": 30,
+      "character": "PADDY",
+      "gender": "Male",
+      "line": "Just that your mother died in Tacoma. And you were in the Marines. That was all. That was enough.",
+      "wordCount": 19
+    },
+    {
+      "id": 31,
+      "index": 31,
+      "character": "TOMMY",
+      "gender": "Male",
+      "line": "That's too bad. You could've gotten some good details.",
+      "wordCount": 9
+    },
+    {
+      "id": 32,
+      "index": 32,
+      "character": "TOMMY",
+      "gender": "Male",
+      "line": "You could've heard about her coughing up blood in a shit box with no heat. Having me rub her down with holy water, because she didn't have no insurance. All the while waiting for your pal Jesus to save her. Did your man tell you that?",
+      "wordCount": 46
+    },
+    {
+      "id": 33,
+      "index": 33,
+      "character": "PADDY",
+      "gender": "Male",
+      "line": "I'm sorry, Tommy.",
+      "wordCount": 3
+    },
+    {
+      "id": 34,
+      "index": 34,
+      "character": "TOMMY",
+      "gender": "Male",
+      "line": "It's good to know you're sorry, Pop. Goes a long way.",
+      "wordCount": 11
+    },
+    {
+      "id": 35,
+      "index": 35,
+      "character": "TOMMY",
+      "gender": "Male",
+      "line": "I think I liked you better when you were a drunk.",
+      "wordCount": 11
+    },
+    {
+      "id": 36,
+      "index": 36,
+      "character": "TESS",
+      "gender": "Female",
+      "line": "What's going on here?",
+      "wordCount": 4
+    },
+    {
+      "id": 37,
+      "index": 37,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "Well, I'm not sure, but I think Daddy is now a princess.",
+      "wordCount": 12
+    },
+    {
+      "id": 38,
+      "index": 38,
+      "character": "TESS",
+      "gender": "Female",
+      "line": "Em, you want to open your presents?",
+      "wordCount": 7
+    },
+    {
+      "id": 39,
+      "index": 39,
+      "character": "TESS",
+      "gender": "Female",
+      "line": "This an awfully big box.",
+      "wordCount": 5
+    },
+    {
+      "id": 40,
+      "index": 40,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "It's her birthday.",
+      "wordCount": 3
+    },
+    {
+      "id": 41,
+      "index": 41,
+      "character": "TESS",
+      "gender": "Female",
+      "line": "I know, but that's why you call it a budget. You set it, and you don't budge.",
+      "wordCount": 17
+    },
+    {
+      "id": 42,
+      "index": 42,
+      "character": "TESS",
+      "gender": "Female",
+      "line": "Hey babe, I'm late. Mom's saying goodbye to the girls. She's gotta get on the road. They've been fed. They just need a bath.",
+      "wordCount": 24
+    },
+    {
+      "id": 43,
+      "index": 43,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "I'm on it.",
+      "wordCount": 3
+    },
+    {
+      "id": 44,
+      "index": 44,
+      "character": "TESS",
+      "gender": "Female",
+      "line": "Can you get them down at a reasonable time tonight? They're exhausted.",
+      "wordCount": 12
+    },
+    {
+      "id": 45,
+      "index": 45,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "Where's the rest of that skirt?",
+      "wordCount": 6
+    },
+    {
+      "id": 46,
+      "index": 46,
+      "character": "TESS",
+      "gender": "Female",
+      "line": "Babe.",
+      "wordCount": 1
+    },
+    {
+      "id": 47,
+      "index": 47,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "Listen, if any guys give you a hassle in that joint tonight you give me a call, okay?",
+      "wordCount": 18
+    },
+    {
+      "id": 48,
+      "index": 48,
+      "character": "TESS",
+      "gender": "Female",
+      "line": "Yeah. Just like you gave me a call when those Temple frat boys decided to smash up your face.",
+      "wordCount": 19
+    },
+    {
+      "id": 49,
+      "index": 49,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "I told you, most nights I sit on the stool and grade papers, but every now and then I need some action.",
+      "wordCount": 22
+    },
+    {
+      "id": 50,
+      "index": 50,
+      "character": "TESS",
+      "gender": "Female",
+      "line": "Alright, well wait up for me tonight. I'll see what I can do about that.",
+      "wordCount": 15
+    },
+    {
+      "id": 51,
+      "index": 51,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "Promises, promises.",
+      "wordCount": 2
+    },
+    {
+      "id": 52,
+      "index": 52,
+      "character": "JON ANIK",
+      "gender": "NA",
+      "line": "And we return here on MMA Live, Jon Anik alongside billionaire fight promoter J.J. Riley. The Tapout crew is also here. Punk and Skrape are in the building. Now J.J., what led to this project that is redefining Mixed Martial Arts here in the States?",
+      "wordCount": 45
+    },
+    {
+      "id": 53,
+      "index": 53,
+      "character": "J.J. RILEY",
+      "gender": "NA",
+      "line": "Well, Mixed Martial Arts is a sport that I've always been incredibly passionate about. As for where the idea for Sparta came from, I've always kind of dug the Grand Prix format, so I tracked these guys down to help me out.",
+      "wordCount": 42
+    },
+    {
+      "id": 54,
+      "index": 54,
+      "character": "PUNKASS",
+      "gender": "NA",
+      "line": "When J.J. came to us he said he wanted to create the Super Bowl of Mixed Martial Arts.",
+      "wordCount": 18
+    },
+    {
+      "id": 55,
+      "index": 55,
+      "character": "SKRAPE",
+      "gender": "NA",
+      "line": "And he decided to put up the five million dollar purse, too.",
+      "wordCount": 12
+    },
+    {
+      "id": 56,
+      "index": 56,
+      "character": "JON ANIK",
+      "gender": "NA",
+      "line": "Well, there you have it. It shall be done. Hedge fund king J.J. Riley, going from the lion's den of Wall Street to the cage, promoting the biggest winner-take-all tournament in MMA history. Sparta.",
+      "wordCount": 34
+    },
+    {
+      "id": 57,
+      "index": 57,
+      "character": "TOMMY",
+      "gender": "Male",
+      "line": "Fitzy still own this?",
+      "wordCount": 4
+    },
+    {
+      "id": 58,
+      "index": 58,
+      "character": "FENROY",
+      "gender": "Male",
+      "line": "Don't know no Fitzy. Colt Boyd owns this gym.",
+      "wordCount": 9
+    },
+    {
+      "id": 59,
+      "index": 59,
+      "character": "FENROY",
+      "gender": "Male",
+      "line": "Can I help you with something?",
+      "wordCount": 6
+    },
+    {
+      "id": 60,
+      "index": 60,
+      "character": "TOMMY",
+      "gender": "Male",
+      "line": "How's it work here?",
+      "wordCount": 4
+    },
+    {
+      "id": 61,
+      "index": 61,
+      "character": "FENROY",
+      "gender": "Male",
+      "line": "Thirty five a month with locker. We're open at 7, lights out at 11. You wanna join?",
+      "wordCount": 17
+    },
+    {
+      "id": 62,
+      "index": 62,
+      "character": "TOMMY",
+      "gender": "Male",
+      "line": "Sure.",
+      "wordCount": 1
+    },
+    {
+      "id": 63,
+      "index": 63,
+      "character": "FENROY",
+      "gender": "Male",
+      "line": "Put your name and contact info on the card.",
+      "wordCount": 9
+    },
+    {
+      "id": 64,
+      "index": 64,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "Whoa whoa whoa! There's a lesson in this too, OK? Listen up. So we have a body at rest, and you have the bat which needs--",
+      "wordCount": 26
+    },
+    {
+      "id": 65,
+      "index": 65,
+      "character": "TITO",
+      "gender": "Male",
+      "line": "Acceleration.",
+      "wordCount": 1
+    },
+    {
+      "id": 66,
+      "index": 66,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "Acceleration, right. If you have enough acceleration, you have might have a chance to break the body at rest. OK. Go ahead.",
+      "wordCount": 22
+    },
+    {
+      "id": 67,
+      "index": 67,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "There we go. Alright Tito, well done. Remind not to mess with you. Sit down everybody. Dial it down.",
+      "wordCount": 19
+    },
+    {
+      "id": 68,
+      "index": 68,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "So, have we got it?",
+      "wordCount": 5
+    },
+    {
+      "id": 69,
+      "index": 69,
+      "character": "NASH",
+      "gender": "Male",
+      "line": "Force equals mass times acceleration. We got it.",
+      "wordCount": 8
+    },
+    {
+      "id": 70,
+      "index": 70,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "Alright. The third law--",
+      "wordCount": 4
+    },
+    {
+      "id": 71,
+      "index": 71,
+      "character": "STEPHON",
+      "gender": "Male",
+      "line": "How many laws this dude got?",
+      "wordCount": 6
+    },
+    {
+      "id": 72,
+      "index": 72,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "The dude? The dude has three. Newton the dude says that for every action, there's an equal and opposite reaction.",
+      "wordCount": 20
+    },
+    {
+      "id": 73,
+      "index": 73,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "For example, if KC does not stop the action of sending texts in class...",
+      "wordCount": 14
+    },
+    {
+      "id": 74,
+      "index": 74,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "...and tell her posse outside to beat it...",
+      "wordCount": 8
+    },
+    {
+      "id": 75,
+      "index": 75,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "...then my reaction might be to send her down to Principal Zito's office. Thus setting our world back in proper balance.",
+      "wordCount": 21
+    },
+    {
+      "id": 76,
+      "index": 76,
+      "character": "KC",
+      "gender": "Female",
+      "line": "Mr. C, I put it away.",
+      "wordCount": 6
+    },
+    {
+      "id": 77,
+      "index": 77,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "Alright, before you go, I have your tests from last week.",
+      "wordCount": 11
+    },
+    {
+      "id": 78,
+      "index": 78,
+      "character": "MAD DOG",
+      "gender": "NA",
+      "line": "Where do you find these girls?",
+      "wordCount": 6
+    },
+    {
+      "id": 79,
+      "index": 79,
+      "character": "COLT BOYD",
+      "gender": "Male",
+      "line": "We got a tournament coming up. You gonna kill every guy in the `Burgh? Fenroy. Get me some ice. And call that Puerto Rican kid, the one that fights outa the Bottoms. If he's here in 20 minutes, he gets 200 bucks.",
+      "wordCount": 42
+    },
+    {
+      "id": 80,
+      "index": 80,
+      "character": "TOMMY",
+      "gender": "Male",
+      "line": "Yo, I'll fight him.",
+      "wordCount": 4
+    },
+    {
+      "id": 81,
+      "index": 81,
+      "character": "COLT BOYD",
+      "gender": "Male",
+      "line": "Do me a favor guy, go back to your bag. We don't need anybody else getting hurt. G'head. Take a walk.",
+      "wordCount": 21
+    },
+    {
+      "id": 82,
+      "index": 82,
+      "character": "MAD DOG",
+      "gender": "NA",
+      "line": "Yo Rock, what happened? You leave Mick and Paulie at home today?",
+      "wordCount": 12
+    },
+    {
+      "id": 83,
+      "index": 83,
+      "character": "FENROY",
+      "gender": "Male",
+      "line": "His phone's disconnected.",
+      "wordCount": 3
+    },
+    {
+      "id": 84,
+      "index": 84,
+      "character": "COLT BOYD",
+      "gender": "Male",
+      "line": "Then go through the list. Get me Joe Bones.",
+      "wordCount": 9
+    },
+    {
+      "id": 85,
+      "index": 85,
+      "character": "TOMMY",
+      "gender": "Male",
+      "line": "All I'm saying is if you need somebody to help you, I'm happy to keep your boy warm for you.",
+      "wordCount": 20
+    },
+    {
+      "id": 86,
+      "index": 86,
+      "character": "COLT BOYD",
+      "gender": "Male",
+      "line": "You ever fought before?",
+      "wordCount": 4
+    },
+    {
+      "id": 87,
+      "index": 87,
+      "character": "TOMMY",
+      "gender": "Male",
+      "line": "Yeah.",
+      "wordCount": 1
+    },
+    {
+      "id": 88,
+      "index": 88,
+      "character": "COLT BOYD",
+      "gender": "Male",
+      "line": "This guy sign a waiver?",
+      "wordCount": 5
+    },
+    {
+      "id": 89,
+      "index": 89,
+      "character": "FENROY",
+      "gender": "Male",
+      "line": "All good.",
+      "wordCount": 2
+    },
+    {
+      "id": 90,
+      "index": 90,
+      "character": "COLT BOYD",
+      "gender": "Male",
+      "line": "What's your name?",
+      "wordCount": 3
+    },
+    {
+      "id": 91,
+      "index": 91,
+      "character": "TOMMY",
+      "gender": "Male",
+      "line": "Tommy.",
+      "wordCount": 1
+    },
+    {
+      "id": 92,
+      "index": 92,
+      "character": "COLT BOYD",
+      "gender": "Male",
+      "line": "You get tuned up in here, it's on you, Tommy.",
+      "wordCount": 10
+    },
+    {
+      "id": 93,
+      "index": 93,
+      "character": "TOMMY",
+      "gender": "Male",
+      "line": "Sure, no problem.",
+      "wordCount": 3
+    },
+    {
+      "id": 94,
+      "index": 94,
+      "character": "COLT BOYD",
+      "gender": "Male",
+      "line": "Come on in.",
+      "wordCount": 3
+    },
+    {
+      "id": 95,
+      "index": 95,
+      "character": "MAD DOG",
+      "gender": "NA",
+      "line": "Gonna be a hero? Alright.",
+      "wordCount": 5
+    },
+    {
+      "id": 96,
+      "index": 96,
+      "character": "TOMMY",
+      "gender": "Male",
+      "line": "You owe me two hundred bucks.",
+      "wordCount": 6
+    },
+    {
+      "id": 97,
+      "index": 97,
+      "character": "DAN TAYLOR",
+      "gender": "NA",
+      "line": "This is the new appraisal figure, and this is how it effects the monthly. As you can see, that puts you upside down on your mortgage. That's the problem. It's the country that did the assessment, not the bank. So, the numbers are what they are, Mr. Conlon.",
+      "wordCount": 48
+    },
+    {
+      "id": 98,
+      "index": 98,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "Brendan.",
+      "wordCount": 1
+    },
+    {
+      "id": 99,
+      "index": 99,
+      "character": "DAN TAYLOR",
+      "gender": "NA",
+      "line": "The numbers are what they are, Brendan. I mean, you're a Math teacher, you can appreciate that.",
+      "wordCount": 17
+    },
+    {
+      "id": 100,
+      "index": 100,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "I teach Physics.",
+      "wordCount": 3
+    },
+    {
+      "id": 101,
+      "index": 101,
+      "character": "DAN TAYLOR",
+      "gender": "NA",
+      "line": "Physics. OK. But the bank has got to go by the new appraisal figures. According to these figures, you're upside down on your mortgage--",
+      "wordCount": 24
+    },
+    {
+      "id": 102,
+      "index": 102,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "You said that three times already. I get that. But I'm asking you if there's something else you can do. Not the bank, you. Can you shift things around, restructure--",
+      "wordCount": 30
+    },
+    {
+      "id": 103,
+      "index": 103,
+      "character": "DAN TAYLOR",
+      "gender": "NA",
+      "line": "Well, you've already refinanced twice.",
+      "wordCount": 5
+    },
+    {
+      "id": 104,
+      "index": 104,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "Because you advised us to do that.",
+      "wordCount": 7
+    },
+    {
+      "id": 105,
+      "index": 105,
+      "character": "DAN TAYLOR",
+      "gender": "NA",
+      "line": "I presented you with that option. It was your choice. I'm also showing you netted a substantial payout with the refi.",
+      "wordCount": 21
+    },
+    {
+      "id": 106,
+      "index": 106,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "We had that conversation. I was paying medical bills. Is that in your file?",
+      "wordCount": 14
+    },
+    {
+      "id": 107,
+      "index": 107,
+      "character": "DAN TAYLOR",
+      "gender": "NA",
+      "line": "Oh, right. Sorry. Your daughter's...kidney?",
+      "wordCount": 5
+    },
+    {
+      "id": 108,
+      "index": 108,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "Heart.",
+      "wordCount": 1
+    },
+    {
+      "id": 109,
+      "index": 109,
+      "character": "DAN TAYLOR",
+      "gender": "NA",
+      "line": "Heart, right. Lot of stories.",
+      "wordCount": 5
+    },
+    {
+      "id": 110,
+      "index": 110,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "So my option is I've got no options? You're not even gonna try to help me?",
+      "wordCount": 16
+    },
+    {
+      "id": 111,
+      "index": 111,
+      "character": "DAN TAYLOR",
+      "gender": "NA",
+      "line": "I am trying, Brendan. Look, I can get you 90 days to get even--",
+      "wordCount": 14
+    },
+    {
+      "id": 112,
+      "index": 112,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "90 days is not enough. My wife and I have three jobs between us and that doesn't cut it. So, what do you suggest?",
+      "wordCount": 24
+    },
+    {
+      "id": 113,
+      "index": 113,
+      "character": "DAN TAYLOR",
+      "gender": "NA",
+      "line": "Let me ask you a question: have you considered bankruptcy? It's a viable option. There's no shame in it these days.",
+      "wordCount": 21
+    },
+    {
+      "id": 114,
+      "index": 114,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "That's not how I do things.",
+      "wordCount": 6
+    },
+    {
+      "id": 115,
+      "index": 115,
+      "character": "DAN TAYLOR",
+      "gender": "NA",
+      "line": "Well, then you're looking at foreclosure.",
+      "wordCount": 6
+    },
+    {
+      "id": 116,
+      "index": 116,
+      "character": "COLT BOYD",
+      "gender": "Male",
+      "line": "How you doin,' sir? I'm looking for Tommy Riordan.",
+      "wordCount": 9
+    },
+    {
+      "id": 117,
+      "index": 117,
+      "character": "PADDY",
+      "gender": "Male",
+      "line": "Who?",
+      "wordCount": 1
+    },
+    {
+      "id": 118,
+      "index": 118,
+      "character": "COLT BOYD",
+      "gender": "Male",
+      "line": "Tommy Riordan? My name's Colt Boyd.",
+      "wordCount": 6
+    },
+    {
+      "id": 119,
+      "index": 119,
+      "character": "PADDY",
+      "gender": "Male",
+      "line": "What business you got with Tommy?",
+      "wordCount": 6
+    },
+    {
+      "id": 120,
+      "index": 120,
+      "character": "COLT BOYD",
+      "gender": "Male",
+      "line": "None yet. That's why I'm here. I manage fighters.",
+      "wordCount": 9
+    },
+    {
+      "id": 121,
+      "index": 121,
+      "character": "COLT BOYD",
+      "gender": "Male",
+      "line": "Tommy's been working out at my gym. He put a beating on the number one middleweight contender in the world today. I want to know more about the guy. Maybe help him out. I have a lot of contacts, Mr. Riordan.",
+      "wordCount": 41
+    },
+    {
+      "id": 122,
+      "index": 122,
+      "character": "PADDY",
+      "gender": "Male",
+      "line": "Conlon. Name's Conlon. And anything you want to know about Tommy, you gotta ask him yourself.",
+      "wordCount": 16
+    },
+    {
+      "id": 123,
+      "index": 123,
+      "character": "COLT BOYD",
+      "gender": "Male",
+      "line": "I'm just looking for some general information here.",
+      "wordCount": 8
+    },
+    {
+      "id": 124,
+      "index": 124,
+      "character": "PADDY",
+      "gender": "Male",
+      "line": "Like I said, anything you want to know about Tommy, you gotta ask him yourself.",
+      "wordCount": 15
+    },
+    {
+      "id": 125,
+      "index": 125,
+      "character": "COLT BOYD",
+      "gender": "Male",
+      "line": "Look, I don't mean to interrupt your night. He put this address down when he signed up at the gym.",
+      "wordCount": 20
+    },
+    {
+      "id": 126,
+      "index": 126,
+      "character": "PADDY",
+      "gender": "Male",
+      "line": "He doesn't live here.",
+      "wordCount": 4
+    },
+    {
+      "id": 127,
+      "index": 127,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "Listen kiddo, I need you put Mommy back on, OK? I love you. Hey. I'm just pulling in. Huh? Oh, they've got this open mic night thing. Should be a quiet one. Sleep well. You too. Bye.",
+      "wordCount": 37
+    },
+    {
+      "id": 128,
+      "index": 128,
+      "character": "ANNOUNCER",
+      "gender": "NA",
+      "line": "It's time for our next contest! Introducing first, fighting out of the red corner, from Ripley, West Virginia, please welcome Mike \"The Mutilator\" Moore!",
+      "wordCount": 24
+    },
+    {
+      "id": 129,
+      "index": 129,
+      "character": "ANNOUNCER",
+      "gender": "NA",
+      "line": "And in the blue corner. He fights out of Philadelphia, Pennsylvania. Please welcome \"Irish\" Brendan Conlon!",
+      "wordCount": 16
+    },
+    {
+      "id": 130,
+      "index": 130,
+      "character": "ANNOUNCER",
+      "gender": "NA",
+      "line": "This bout is scheduled for three five-minute rounds, and when the action begins your referee is Mr. Rick Fike.",
+      "wordCount": 19
+    },
+    {
+      "id": 131,
+      "index": 131,
+      "character": "REFEREE",
+      "gender": "NA",
+      "line": "Fighters to the center! I want you to obey my commands at all times. If you have no questions, touch gloves, back up, and wait for my signal. Come out fighting!",
+      "wordCount": 31
+    },
+    {
+      "id": 132,
+      "index": 132,
+      "character": "REFEREE",
+      "gender": "NA",
+      "line": "Fighters, are you ready? Let's go!",
+      "wordCount": 6
+    },
+    {
+      "id": 133,
+      "index": 133,
+      "character": "PROMOTER",
+      "gender": "NA",
+      "line": "Nice fight. Two more wins and you take home the bacon.",
+      "wordCount": 11
+    },
+    {
+      "id": 134,
+      "index": 134,
+      "character": "TESS",
+      "gender": "Female",
+      "line": "Hey babe. How was work?",
+      "wordCount": 5
+    },
+    {
+      "id": 135,
+      "index": 135,
+      "character": "TESS",
+      "gender": "Female",
+      "line": "Oh my God. What happened? You said it was going to be a slow night.",
+      "wordCount": 15
+    },
+    {
+      "id": 136,
+      "index": 136,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "I'm not bouncing at a club.",
+      "wordCount": 6
+    },
+    {
+      "id": 137,
+      "index": 137,
+      "character": "TESS",
+      "gender": "Female",
+      "line": "What do you mean you're not bouncing?",
+      "wordCount": 7
+    },
+    {
+      "id": 138,
+      "index": 138,
+      "character": "TESS",
+      "gender": "Female",
+      "line": "You've been lying to me?",
+      "wordCount": 5
+    },
+    {
+      "id": 139,
+      "index": 139,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "I went in to apply. They were only paying nine bucks an hour. Then I saw a sign for this other thing.",
+      "wordCount": 22
+    },
+    {
+      "id": 140,
+      "index": 140,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "They're putting us out of the house in three months, we're running out OF OPTIONS--",
+      "wordCount": 15
+    },
+    {
+      "id": 141,
+      "index": 141,
+      "character": "TESS",
+      "gender": "Female",
+      "line": "Then they'll put us out of the house in three months. I'd rather go back to the old apartment than see you in the back of an ambulance again. I thought we agreed that we weren't going to raise our children in a family where their father gets beat up for a living.",
+      "wordCount": 53
+    },
+    {
+      "id": 142,
+      "index": 142,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "We're not giving up the house. This is our home. We're not going BACKWARDS",
+      "wordCount": 14
+    },
+    {
+      "id": 143,
+      "index": 143,
+      "character": "TESS",
+      "gender": "Female",
+      "line": "We'll figure it out. But this is what we're not going back to.",
+      "wordCount": 13
+    },
+    {
+      "id": 144,
+      "index": 144,
+      "character": "PADDY",
+      "gender": "Male",
+      "line": "You wanted to talk?",
+      "wordCount": 4
+    },
+    {
+      "id": 145,
+      "index": 145,
+      "character": "TOMMY",
+      "gender": "Male",
+      "line": "Yeah. I'm gonna start fighting.",
+      "wordCount": 5
+    },
+    {
+      "id": 146,
+      "index": 146,
+      "character": "PADDY",
+      "gender": "Male",
+      "line": "That right?",
+      "wordCount": 2
+    },
+    {
+      "id": 147,
+      "index": 147,
+      "character": "TOMMY",
+      "gender": "Male",
+      "line": "Don't play babe in the woods with me. I know that guy from the gym came to see you.",
+      "wordCount": 19
+    },
+    {
+      "id": 148,
+      "index": 148,
+      "character": "PADDY",
+      "gender": "Male",
+      "line": "Colt Boyd? I didn't tell him anything, Tommy.",
+      "wordCount": 8
+    },
+    {
+      "id": 149,
+      "index": 149,
+      "character": "TOMMY",
+      "gender": "Male",
+      "line": "We wouldn't be sitting here now if you did.",
+      "wordCount": 9
+    },
+    {
+      "id": 150,
+      "index": 150,
+      "character": "TOMMY",
+      "gender": "Male",
+      "line": "Alright. Look. There's this tournament. A big tournament. Top sixteen middleweights in the world. Single elimination. Winner take all for a lot of money. I'm gonna do that. But if I'm doin' it, then I'm gonna need a trainer. Now that much you were good at. No, no, no. This doesn't mean anything.",
+      "wordCount": 53
+    },
+    {
+      "id": 151,
+      "index": 151,
+      "character": "TOMMY",
+      "gender": "Male",
+      "line": "I'm serious. We train. That's it. I don't wanna hear a word about anything but training, you understand? You wanna tell your war stories, you can take `em down to the VFW. You can take `em to a meeting, or church, or wherever the hell it is you go nowadays.",
+      "wordCount": 50
+    },
+    {
+      "id": 152,
+      "index": 152,
+      "character": "PADDY",
+      "gender": "Male",
+      "line": "What about Colt Boyd?",
+      "wordCount": 4
+    },
+    {
+      "id": 153,
+      "index": 153,
+      "character": "TOMMY",
+      "gender": "Male",
+      "line": "What about him? I told him I don't train with people I don't know.",
+      "wordCount": 14
+    },
+    {
+      "id": 154,
+      "index": 154,
+      "character": "PADDY",
+      "gender": "Male",
+      "line": "Ah, the devil you know.",
+      "wordCount": 5
+    },
+    {
+      "id": 155,
+      "index": 155,
+      "character": "TOMMY",
+      "gender": "Male",
+      "line": "Excuse me?",
+      "wordCount": 2
+    },
+    {
+      "id": 156,
+      "index": 156,
+      "character": "PADDY",
+      "gender": "Male",
+      "line": "The devil you know is better than the devil you don't.",
+      "wordCount": 11
+    },
+    {
+      "id": 157,
+      "index": 157,
+      "character": "PADDY",
+      "gender": "Male",
+      "line": "Chasing Theogenes. It'll be kinda like old times.",
+      "wordCount": 8
+    },
+    {
+      "id": 158,
+      "index": 158,
+      "character": "TOMMY",
+      "gender": "Male",
+      "line": "I just told you, this doesn't mean anything. You get that through your skull right now or I'm walking.",
+      "wordCount": 19
+    },
+    {
+      "id": 159,
+      "index": 159,
+      "character": "PADDY",
+      "gender": "Male",
+      "line": "Alright. Alright. But you get something through your skull, too. You called me. So don't go threatening to walk every five minutes. And since this is about training, you dump whatever it is you need to dump as far as those pills are concerned. I don't want to see `em.",
+      "wordCount": 50
+    },
+    {
+      "id": 160,
+      "index": 160,
+      "character": "PADDY",
+      "gender": "Male",
+      "line": "In fact, hand `em over right now. I know they're on you, Tommy. You sounded like a goddamn maraca coming through the door.",
+      "wordCount": 23
+    },
+    {
+      "id": 161,
+      "index": 161,
+      "character": "PADDY",
+      "gender": "Male",
+      "line": "That's not gonna do. When you came through that door it was chhh-chhh-chhh. Three.",
+      "wordCount": 14
+    },
+    {
+      "id": 162,
+      "index": 162,
+      "character": "PADDY",
+      "gender": "Male",
+      "line": "And another thing, you don't eat crap like this. This is for losers and old men. And we're gonna have to bunk up. If we're gonna do this right, you gotta stay at the house.",
+      "wordCount": 35
+    },
+    {
+      "id": 163,
+      "index": 163,
+      "character": "PADDY",
+      "gender": "Male",
+      "line": "I watch your diet, we follow the old regimen. You copy?",
+      "wordCount": 11
+    },
+    {
+      "id": 164,
+      "index": 164,
+      "character": "PADDY",
+      "gender": "Male",
+      "line": "Copy.",
+      "wordCount": 1
+    },
+    {
+      "id": 165,
+      "index": 165,
+      "character": "TITO",
+      "gender": "Male",
+      "line": "My brother said he was at the strip club and saw Mr. C fighting MMA---",
+      "wordCount": 15
+    },
+    {
+      "id": 166,
+      "index": 166,
+      "character": "NASH",
+      "gender": "Male",
+      "line": "What's MMA?",
+      "wordCount": 2
+    },
+    {
+      "id": 167,
+      "index": 167,
+      "character": "STEPHON",
+      "gender": "Male",
+      "line": "Mixed Martial Arts. Like, different styles of fighting.",
+      "wordCount": 8
+    },
+    {
+      "id": 168,
+      "index": 168,
+      "character": "KC",
+      "gender": "Female",
+      "line": "Your brother's a liar.",
+      "wordCount": 4
+    },
+    {
+      "id": 169,
+      "index": 169,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "Take your seats.",
+      "wordCount": 3
+    },
+    {
+      "id": 170,
+      "index": 170,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "Now, please.",
+      "wordCount": 2
+    },
+    {
+      "id": 171,
+      "index": 171,
+      "character": "TITO",
+      "gender": "Male",
+      "line": "Yo, Mr. C. My brother was at the titty bar last night and said you was choking brothers out. What's up? Is it true?",
+      "wordCount": 24
+    },
+    {
+      "id": 172,
+      "index": 172,
+      "character": "STEPHON",
+      "gender": "Male",
+      "line": "Yeah, Mr. C. I mean, did you really work on some fools or something?",
+      "wordCount": 14
+    },
+    {
+      "id": 173,
+      "index": 173,
+      "character": "KC",
+      "gender": "Female",
+      "line": "You have to tell us.",
+      "wordCount": 5
+    },
+    {
+      "id": 174,
+      "index": 174,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "C'mon, it's not as bad as it looks.",
+      "wordCount": 8
+    },
+    {
+      "id": 175,
+      "index": 175,
+      "character": "JOE ZITO",
+      "gender": "NA",
+      "line": "Are you being literal or figurative? Because literally it looks bad. And figuratively it looks even worse. The superintendent's coming by in a few minutes. So gimme a little help here, Brendan. Can you explain to me what the hell you were doing?",
+      "wordCount": 43
+    },
+    {
+      "id": 176,
+      "index": 176,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "I need the money, Joe.",
+      "wordCount": 5
+    },
+    {
+      "id": 177,
+      "index": 177,
+      "character": "JOE ZITO",
+      "gender": "NA",
+      "line": "Yeah, but we can't have this. This isn't moonlighting at Applebee's for Christ's sake.",
+      "wordCount": 14
+    },
+    {
+      "id": 178,
+      "index": 178,
+      "character": "JOE ZITO",
+      "gender": "NA",
+      "line": "Shit, Brendan. Leaving everything else aside, which we can't, are you out of your mind? You're gonna get yourself killed. I mean, you're a goddamn teacher.",
+      "wordCount": 26
+    },
+    {
+      "id": 179,
+      "index": 179,
+      "character": "JOE ZITO",
+      "gender": "NA",
+      "line": "You've got no business in the ring with those animals.",
+      "wordCount": 10
+    },
+    {
+      "id": 180,
+      "index": 180,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "Actually, I used to be one of those animals.",
+      "wordCount": 9
+    },
+    {
+      "id": 181,
+      "index": 181,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "I fought for a living. Guess I forgot to put that down on my application.",
+      "wordCount": 15
+    },
+    {
+      "id": 182,
+      "index": 182,
+      "character": "JOE ZITO",
+      "gender": "NA",
+      "line": "Yeah, I guess you did.",
+      "wordCount": 5
+    },
+    {
+      "id": 183,
+      "index": 183,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "Look, I'm sorry, Joe. It's just--",
+      "wordCount": 6
+    },
+    {
+      "id": 184,
+      "index": 184,
+      "character": "JOE ZITO",
+      "gender": "NA",
+      "line": "Listen, the school district's not going to tolerate school teachers cockfighting in strip clubs.",
+      "wordCount": 14
+    },
+    {
+      "id": 185,
+      "index": 185,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "It was the parking lot of a strip club.",
+      "wordCount": 9
+    },
+    {
+      "id": 186,
+      "index": 186,
+      "character": "JOE ZITO",
+      "gender": "NA",
+      "line": "Wherever it was, you can't be doing it, alright? I mean this is a serious--shit, he's here.",
+      "wordCount": 17
+    },
+    {
+      "id": 187,
+      "index": 187,
+      "character": "JOE ZITO",
+      "gender": "NA",
+      "line": "This is a serious problem. Guy hasn't been inside a school since 9-11.",
+      "wordCount": 13
+    },
+    {
+      "id": 188,
+      "index": 188,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "What are we gonna do?",
+      "wordCount": 5
+    },
+    {
+      "id": 189,
+      "index": 189,
+      "character": "JOE ZITO",
+      "gender": "NA",
+      "line": "You say yes, sir. And you say no, sir. And you say it'll never happen again, sir. And then we just pray to God he's in a good mood.",
+      "wordCount": 29
+    },
+    {
+      "id": 190,
+      "index": 190,
+      "character": "JOE ZITO",
+      "gender": "NA",
+      "line": "UFC?",
+      "wordCount": 1
+    },
+    {
+      "id": 191,
+      "index": 191,
+      "character": "JOE ZITO",
+      "gender": "NA",
+      "line": "Sonofabitch.",
+      "wordCount": 1
+    },
+    {
+      "id": 192,
+      "index": 192,
+      "character": "TESS",
+      "gender": "Female",
+      "line": "What are you doing?",
+      "wordCount": 4
+    },
+    {
+      "id": 193,
+      "index": 193,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "The girls have an important piano recital in the morning. Got an equipment malfunction. How'd it go?",
+      "wordCount": 17
+    },
+    {
+      "id": 194,
+      "index": 194,
+      "character": "TESS",
+      "gender": "Female",
+      "line": "They're gonna review your case at the end of the semester, but until then you're suspended without pay. Joe gave me the number of his attorney.",
+      "wordCount": 26
+    },
+    {
+      "id": 195,
+      "index": 195,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "How the hell are we gonna pay for an attorney?",
+      "wordCount": 10
+    },
+    {
+      "id": 196,
+      "index": 196,
+      "character": "TESS",
+      "gender": "Female",
+      "line": "He talked to me for free. As a favor to Joe.",
+      "wordCount": 11
+    },
+    {
+      "id": 197,
+      "index": 197,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "That was nice.",
+      "wordCount": 3
+    },
+    {
+      "id": 198,
+      "index": 198,
+      "character": "TESS",
+      "gender": "Female",
+      "line": "He said there's no precedent for this. You'll be back by next semester.",
+      "wordCount": 13
+    },
+    {
+      "id": 199,
+      "index": 199,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "Next semester?",
+      "wordCount": 2
+    },
+    {
+      "id": 200,
+      "index": 200,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "Look, Tess. They have these smoker fights all over. There's one in Lancaster next week. There's two in Dover the week after. Wilmington. Camden. Baltimore. It could keep us afloat.",
+      "wordCount": 30
+    },
+    {
+      "id": 201,
+      "index": 201,
+      "character": "TESS",
+      "gender": "Female",
+      "line": "You're gonna put yourself through this over and over, for five hundred bucks a pop?",
+      "wordCount": 15
+    },
+    {
+      "id": 202,
+      "index": 202,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "Some of them pay a little more than that. I would have had to bounce for a month to make what I made in two hours last night.",
+      "wordCount": 28
+    },
+    {
+      "id": 203,
+      "index": 203,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "And these guys, they're not real fighters. They're just guys who have seen too much UFC on TV. If you have a better solution, I'm all ears.",
+      "wordCount": 27
+    },
+    {
+      "id": 204,
+      "index": 204,
+      "character": "TESS",
+      "gender": "Female",
+      "line": "What are we gonna tell the girls?",
+      "wordCount": 7
+    },
+    {
+      "id": 205,
+      "index": 205,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "It'll be fine. I'll just leave the house as usual, except now I'll be going to the gym.",
+      "wordCount": 18
+    },
+    {
+      "id": 206,
+      "index": 206,
+      "character": "PADDY",
+      "gender": "Male",
+      "line": "Oh the duck says quack and the cow says moo, and the old red rooster says cock-a-doodle-doo. Cock-a- doodle-doo.",
+      "wordCount": 19
+    },
+    {
+      "id": 207,
+      "index": 207,
+      "character": "PADDY",
+      "gender": "Male",
+      "line": "Look what I found in that disaster of a basement. Whattya say we sit down and update this sometime? You can fill me in on how close you got to that record.",
+      "wordCount": 32
+    },
+    {
+      "id": 208,
+      "index": 208,
+      "character": "PADDY",
+      "gender": "Male",
+      "line": "Did you continue wrestling after you left with your mother? C'mon, Tommy. Tell me something.",
+      "wordCount": 15
+    },
+    {
+      "id": 209,
+      "index": 209,
+      "character": "TOMMY",
+      "gender": "Male",
+      "line": "Yeah, I'll tell ya something. You can take that thing back to where you found it. And you can leave the coffee in the pot. I can pour that myself. I can wake myself up, too.",
+      "wordCount": 36
+    },
+    {
+      "id": 210,
+      "index": 210,
+      "character": "PADDY",
+      "gender": "Male",
+      "line": "OK. Hurt my knees coming up and down those stairs anyway.",
+      "wordCount": 11
+    },
+    {
+      "id": 211,
+      "index": 211,
+      "character": "PADDY",
+      "gender": "Male",
+      "line": "Coffee pot's on til 0-500, then I dump it.",
+      "wordCount": 9
+    },
+    {
+      "id": 212,
+      "index": 212,
+      "character": "BRADFORD",
+      "gender": "Male",
+      "line": "What's that?",
+      "wordCount": 2
+    },
+    {
+      "id": 213,
+      "index": 213,
+      "character": "BRADFORD",
+      "gender": "Male",
+      "line": "Who's \"Mad Dog\" Grimes?",
+      "wordCount": 4
+    },
+    {
+      "id": 214,
+      "index": 214,
+      "character": "BRADFORD",
+      "gender": "Male",
+      "line": "Wait, rewind that.",
+      "wordCount": 3
+    },
+    {
+      "id": 215,
+      "index": 215,
+      "character": "BRADFORD",
+      "gender": "Male",
+      "line": "AV, I need to see the tape!",
+      "wordCount": 7
+    },
+    {
+      "id": 216,
+      "index": 216,
+      "character": "AV",
+      "gender": "NA",
+      "line": "What tape?",
+      "wordCount": 2
+    },
+    {
+      "id": 217,
+      "index": 217,
+      "character": "BRADFORD",
+      "gender": "Male",
+      "line": "The tape.",
+      "wordCount": 2
+    },
+    {
+      "id": 218,
+      "index": 218,
+      "character": "BRADFORD",
+      "gender": "Male",
+      "line": "Freeze.",
+      "wordCount": 1
+    },
+    {
+      "id": 219,
+      "index": 219,
+      "character": "BRADFORD",
+      "gender": "Male",
+      "line": "That's him. That's him.",
+      "wordCount": 4
+    },
+    {
+      "id": 220,
+      "index": 220,
+      "character": "FRANK",
+      "gender": "Male",
+      "line": "Let the music sink in to you. This is Beethoven. Breathe. Breathe.",
+      "wordCount": 12
+    },
+    {
+      "id": 221,
+      "index": 221,
+      "character": "FRANK",
+      "gender": "Male",
+      "line": "Do I know you? I think I know you.",
+      "wordCount": 9
+    },
+    {
+      "id": 222,
+      "index": 222,
+      "character": "FRANK",
+      "gender": "Male",
+      "line": "Long time, brother.",
+      "wordCount": 3
+    },
+    {
+      "id": 223,
+      "index": 223,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "Liking the place, Frank.",
+      "wordCount": 4
+    },
+    {
+      "id": 224,
+      "index": 224,
+      "character": "FRANK",
+      "gender": "Male",
+      "line": "Thank you, brother. You see this beast? Marco Santos? I'm training him for Sparta.",
+      "wordCount": 14
+    },
+    {
+      "id": 225,
+      "index": 225,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "Amazing, man.",
+      "wordCount": 2
+    },
+    {
+      "id": 226,
+      "index": 226,
+      "character": "FRANK",
+      "gender": "Male",
+      "line": "Come on back.",
+      "wordCount": 3
+    },
+    {
+      "id": 227,
+      "index": 227,
+      "character": "FRANK",
+      "gender": "Male",
+      "line": "You look good, brother. How're the girls?",
+      "wordCount": 7
+    },
+    {
+      "id": 228,
+      "index": 228,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "Good. Good. I had another little one. Rosie.",
+      "wordCount": 8
+    },
+    {
+      "id": 229,
+      "index": 229,
+      "character": "FRANK",
+      "gender": "Male",
+      "line": "I know. Johnny C. told me she was in the hospital for a bit. I was gonna call, but then time went by. I don't know. I'm a piece of shit. I should have called.",
+      "wordCount": 35
+    },
+    {
+      "id": 230,
+      "index": 230,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "It's alright.",
+      "wordCount": 2
+    },
+    {
+      "id": 231,
+      "index": 231,
+      "character": "FRANK",
+      "gender": "Male",
+      "line": "No, Brendan. I'm sorry.",
+      "wordCount": 4
+    },
+    {
+      "id": 232,
+      "index": 232,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "It's all good. She's good now.",
+      "wordCount": 6
+    },
+    {
+      "id": 233,
+      "index": 233,
+      "character": "FRANK",
+      "gender": "Male",
+      "line": "It's great to see you, man. So everything's going good?",
+      "wordCount": 10
+    },
+    {
+      "id": 234,
+      "index": 234,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "Yeah. Well, I've got a little problem. The guys at the bank want to take my house away. That's kind of why I came to see you, actually.",
+      "wordCount": 28
+    },
+    {
+      "id": 235,
+      "index": 235,
+      "character": "FRANK",
+      "gender": "Male",
+      "line": "I've got most of my dough tied up in this joint, but how much do you need?",
+      "wordCount": 17
+    },
+    {
+      "id": 236,
+      "index": 236,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "I didn't come here for a loan, Frank. I was hoping you'd train me.",
+      "wordCount": 14
+    },
+    {
+      "id": 237,
+      "index": 237,
+      "character": "FRANK",
+      "gender": "Male",
+      "line": "Train you for what?",
+      "wordCount": 4
+    },
+    {
+      "id": 238,
+      "index": 238,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "I want to get back in the cage.",
+      "wordCount": 8
+    },
+    {
+      "id": 239,
+      "index": 239,
+      "character": "FRANK",
+      "gender": "Male",
+      "line": "You're serious?",
+      "wordCount": 2
+    },
+    {
+      "id": 240,
+      "index": 240,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "I just won an event the other night.",
+      "wordCount": 8
+    },
+    {
+      "id": 241,
+      "index": 241,
+      "character": "FRANK",
+      "gender": "Male",
+      "line": "Ah, you won an event. That's what this is. Let me guess, it was in a parking lot. DJ from the local radio station. Couple of ring card girls you wouldn't bang on a dare. Am I right?",
+      "wordCount": 38
+    },
+    {
+      "id": 242,
+      "index": 242,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "Ish.",
+      "wordCount": 1
+    },
+    {
+      "id": 243,
+      "index": 243,
+      "character": "FRANK",
+      "gender": "Male",
+      "line": "Ish. Brendan. I love you. I do. But why would I train you? When you were in shape and on the right side of 30 you were barely a .500 fighter. You never listened to me. You never listened to anyone. These guys are animals. I mean, you're a teacher, right? What're you gonna do? You're gonna come down here for a couple days a week after detention? You're gonna skip out of the girl's volleyball game early?",
+      "wordCount": 78
+    },
+    {
+      "id": 244,
+      "index": 244,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "I've got loads of time. Time's not an issue. The parking lot thing kinda got me suspended. I need to keep working the smokers.",
+      "wordCount": 24
+    },
+    {
+      "id": 245,
+      "index": 245,
+      "character": "FRANK",
+      "gender": "Male",
+      "line": "Tess know about this? Yeah? `Cause the last time you fought, I got read the riot act sitting in a hospital waiting room. You remember that?",
+      "wordCount": 26
+    },
+    {
+      "id": 246,
+      "index": 246,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "No. I was unconscious.",
+      "wordCount": 4
+    },
+    {
+      "id": 247,
+      "index": 247,
+      "character": "FRANK",
+      "gender": "Male",
+      "line": "She's not gonna come down here with the two puppies, screaming at Frank?",
+      "wordCount": 13
+    },
+    {
+      "id": 248,
+      "index": 248,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "It's not gonna happen. Come on. Whattya say, Frank?",
+      "wordCount": 9
+    },
+    {
+      "id": 249,
+      "index": 249,
+      "character": "FRANK",
+      "gender": "Male",
+      "line": "What do I say? What am I gonna say to you? No? I mean, all my time is wrapped up with Marco. You come down, I'll throw you in the rotation, you spar with these guys, no problem. But I can't promise you much more than that, Brendan.",
+      "wordCount": 48
+    },
+    {
+      "id": 250,
+      "index": 250,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "That's all I need.",
+      "wordCount": 4
+    },
+    {
+      "id": 251,
+      "index": 251,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "I appreciate it.",
+      "wordCount": 3
+    },
+    {
+      "id": 252,
+      "index": 252,
+      "character": "FRANK",
+      "gender": "Male",
+      "line": "Let me know when you're coming down.",
+      "wordCount": 7
+    },
+    {
+      "id": 253,
+      "index": 253,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "Well, I'm just gonna go get my stuff from the car.",
+      "wordCount": 11
+    },
+    {
+      "id": 254,
+      "index": 254,
+      "character": "FRANK",
+      "gender": "Male",
+      "line": "Now?",
+      "wordCount": 1
+    },
+    {
+      "id": 255,
+      "index": 255,
+      "character": "PADDY",
+      "gender": "Male",
+      "line": "Hey, Brendan. It's me, Pop.",
+      "wordCount": 5
+    },
+    {
+      "id": 256,
+      "index": 256,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "What're you doing here?",
+      "wordCount": 4
+    },
+    {
+      "id": 257,
+      "index": 257,
+      "character": "PADDY",
+      "gender": "Male",
+      "line": "I have some news for you.",
+      "wordCount": 6
+    },
+    {
+      "id": 258,
+      "index": 258,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "Something wrong with your hands?",
+      "wordCount": 5
+    },
+    {
+      "id": 259,
+      "index": 259,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "If there's nothing wrong with your hands then there's no reason for you not to phone. That's the deal.",
+      "wordCount": 19
+    },
+    {
+      "id": 260,
+      "index": 260,
+      "character": "PADDY",
+      "gender": "Male",
+      "line": "Yeah, I forgot--",
+      "wordCount": 3
+    },
+    {
+      "id": 261,
+      "index": 261,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "Phone or mail, Pop. Non negotiable.",
+      "wordCount": 6
+    },
+    {
+      "id": 262,
+      "index": 262,
+      "character": "PADDY",
+      "gender": "Male",
+      "line": "Hey Brendan, have you ever seen my hands so steady? Have you?",
+      "wordCount": 12
+    },
+    {
+      "id": 263,
+      "index": 263,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "I'm going inside.",
+      "wordCount": 3
+    },
+    {
+      "id": 264,
+      "index": 264,
+      "character": "PADDY",
+      "gender": "Male",
+      "line": "I've got a thousand days. A thousand days sober today.",
+      "wordCount": 10
+    },
+    {
+      "id": 265,
+      "index": 265,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "Well, that's great, Pop. But it doesn't change anything.",
+      "wordCount": 9
+    },
+    {
+      "id": 266,
+      "index": 266,
+      "character": "PADDY",
+      "gender": "Male",
+      "line": "What do you mean it doesn't change anything? Have a heart, Brendan.",
+      "wordCount": 12
+    },
+    {
+      "id": 267,
+      "index": 267,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "You listen to me. You take your have-a-heart bullshit and you run it down the road. Run it out on someone who doesn't know you like I do.",
+      "wordCount": 28
+    },
+    {
+      "id": 268,
+      "index": 268,
+      "character": "PADDY",
+      "gender": "Male",
+      "line": "C'mon, Brendan. I thought maybe we could break bread. Open some lines of communication.",
+      "wordCount": 14
+    },
+    {
+      "id": 269,
+      "index": 269,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "You got two lines of communication, the telephone and the post office. Just because you decide it's a special day, it doesn't make it one for me. I got a wife and kids inside and they're waiting for me, so I don't have time for whatever this is.",
+      "wordCount": 48
+    },
+    {
+      "id": 270,
+      "index": 270,
+      "character": "PADDY",
+      "gender": "Male",
+      "line": "I know you got a wife and kids in there. I got a grand-daughter I haven't seen in three years and another I haven't even ever met.",
+      "wordCount": 27
+    },
+    {
+      "id": 271,
+      "index": 271,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "Why is that, Pop? Why is that? Do you remember having anything to do with that?",
+      "wordCount": 16
+    },
+    {
+      "id": 272,
+      "index": 272,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "That shit you pulled. Never again. And all the shit I saw growing up? That doesn't happen here.",
+      "wordCount": 18
+    },
+    {
+      "id": 273,
+      "index": 273,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "Take care of yourself.",
+      "wordCount": 4
+    },
+    {
+      "id": 274,
+      "index": 274,
+      "character": "PADDY",
+      "gender": "Male",
+      "line": "Tommy's back.",
+      "wordCount": 2
+    },
+    {
+      "id": 275,
+      "index": 275,
+      "character": "PADDY",
+      "gender": "Male",
+      "line": "He's in the `Burgh.",
+      "wordCount": 4
+    },
+    {
+      "id": 276,
+      "index": 276,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "Tommy's in Pittsburgh?",
+      "wordCount": 3
+    },
+    {
+      "id": 277,
+      "index": 277,
+      "character": "PADDY",
+      "gender": "Male",
+      "line": "He came to see me.",
+      "wordCount": 5
+    },
+    {
+      "id": 278,
+      "index": 278,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "He came to see you?",
+      "wordCount": 5
+    },
+    {
+      "id": 279,
+      "index": 279,
+      "character": "PADDY",
+      "gender": "Male",
+      "line": "He's over at the house. We're doing a little training at Fitzy's. Remember Fitzy's? It ain't Fitzy's anymore.",
+      "wordCount": 18
+    },
+    {
+      "id": 280,
+      "index": 280,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "You and Tommy are training together?",
+      "wordCount": 6
+    },
+    {
+      "id": 281,
+      "index": 281,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "Tommy Conlon.",
+      "wordCount": 2
+    },
+    {
+      "id": 282,
+      "index": 282,
+      "character": "PADDY",
+      "gender": "Male",
+      "line": "Riordan. He's using your mother's maiden name now.",
+      "wordCount": 8
+    },
+    {
+      "id": 283,
+      "index": 283,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "I know what her name is.",
+      "wordCount": 6
+    },
+    {
+      "id": 284,
+      "index": 284,
+      "character": "PADDY",
+      "gender": "Male",
+      "line": "I thought you'd want to know he's back. That's why I drove all the way over here.",
+      "wordCount": 17
+    },
+    {
+      "id": 285,
+      "index": 285,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "I thought you came to break bread over a thousand days?",
+      "wordCount": 11
+    },
+    {
+      "id": 286,
+      "index": 286,
+      "character": "PADDY",
+      "gender": "Male",
+      "line": "That too.",
+      "wordCount": 2
+    },
+    {
+      "id": 287,
+      "index": 287,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "Did he say if he wants to see me?",
+      "wordCount": 9
+    },
+    {
+      "id": 288,
+      "index": 288,
+      "character": "PADDY",
+      "gender": "Male",
+      "line": "He doesn't say much. He's just not that happy kid he was.",
+      "wordCount": 12
+    },
+    {
+      "id": 289,
+      "index": 289,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "Wow, look at you. Mister inside man.",
+      "wordCount": 7
+    },
+    {
+      "id": 290,
+      "index": 290,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "You and Tommy training together like nothing ever happened. This is unbelievable. Now I know what you're really doing here.",
+      "wordCount": 20
+    },
+    {
+      "id": 291,
+      "index": 291,
+      "character": "PADDY",
+      "gender": "Male",
+      "line": "What's that?",
+      "wordCount": 2
+    },
+    {
+      "id": 292,
+      "index": 292,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "You came to gloat.",
+      "wordCount": 4
+    },
+    {
+      "id": 293,
+      "index": 293,
+      "character": "PADDY",
+      "gender": "Male",
+      "line": "I did not come to gloat. I came to get my son back.",
+      "wordCount": 13
+    },
+    {
+      "id": 294,
+      "index": 294,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "Well, there you go. You got your son back.",
+      "wordCount": 9
+    },
+    {
+      "id": 295,
+      "index": 295,
+      "character": "PADDY",
+      "gender": "Male",
+      "line": "I'm talking about you, Bren--",
+      "wordCount": 5
+    },
+    {
+      "id": 296,
+      "index": 296,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "You got your son back.",
+      "wordCount": 5
+    },
+    {
+      "id": 297,
+      "index": 297,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "You know, part of the reason I stuck around was `cause I thought I'd finally get you all to myself. But you didn't have any interest in training me. Tommy was the one.",
+      "wordCount": 33
+    },
+    {
+      "id": 298,
+      "index": 298,
+      "character": "PADDY",
+      "gender": "Male",
+      "line": "Ah, Brendan. I was a drunk. I mean, you know. I'm sorry.",
+      "wordCount": 12
+    },
+    {
+      "id": 299,
+      "index": 299,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "Forget it. You were always a front runner. You never had any interest in underdogs. But I was your son.",
+      "wordCount": 20
+    },
+    {
+      "id": 300,
+      "index": 300,
+      "character": "PADDY",
+      "gender": "Male",
+      "line": "You are my son.",
+      "wordCount": 4
+    },
+    {
+      "id": 301,
+      "index": 301,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "Am I?",
+      "wordCount": 2
+    },
+    {
+      "id": 302,
+      "index": 302,
+      "character": "PADDY",
+      "gender": "Male",
+      "line": "Yeah, you are. I'm just asking you to find just a little space in your heart to forgive me.",
+      "wordCount": 19
+    },
+    {
+      "id": 303,
+      "index": 303,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "Yeah. Alright. I forgive you. But I do not trust you. Tell Tommy this is where I am if he wants to see me.",
+      "wordCount": 24
+    },
+    {
+      "id": 304,
+      "index": 304,
+      "character": "PADDY",
+      "gender": "Male",
+      "line": "Alright. But they're not different things. You've gotta trust to FORGIVE--",
+      "wordCount": 11
+    },
+    {
+      "id": 305,
+      "index": 305,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "Goodnight, Pop.",
+      "wordCount": 2
+    },
+    {
+      "id": 306,
+      "index": 306,
+      "character": "PADDY",
+      "gender": "Male",
+      "line": "My God, is that Emily? Boy, she's grown, Brendan. Is that Rosie?",
+      "wordCount": 12
+    },
+    {
+      "id": 307,
+      "index": 307,
+      "character": "ROSIE",
+      "gender": "Female",
+      "line": "Daddy, who is that?",
+      "wordCount": 4
+    },
+    {
+      "id": 308,
+      "index": 308,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "Just some nice old man.",
+      "wordCount": 5
+    },
+    {
+      "id": 309,
+      "index": 309,
+      "character": "JON ANIK",
+      "gender": "NA",
+      "line": "Huge news breaking here at ESPN. Koba is coming to America and will fight at Sparta. Universally considered to be the greatest pound for pound fighter that ever lived, the mighty, mythical Russian has never fought on U.S. soil in his legendary career...",
+      "wordCount": 43
+    },
+    {
+      "id": 310,
+      "index": 310,
+      "character": "COLT BOYD",
+      "gender": "Male",
+      "line": "Tommy? Got some news for ya. I got you into Sparta. Took some doing, but I made it happen.. Thank you and 10 percent is customary.",
+      "wordCount": 26
+    },
+    {
+      "id": 311,
+      "index": 311,
+      "character": "PILAR",
+      "gender": "Female",
+      "line": "Bueno?",
+      "wordCount": 1
+    },
+    {
+      "id": 312,
+      "index": 312,
+      "character": "TOMMY",
+      "gender": "Male",
+      "line": "Pilar. It's Tommy.",
+      "wordCount": 3
+    },
+    {
+      "id": 313,
+      "index": 313,
+      "character": "PILAR",
+      "gender": "Female",
+      "line": "Tommy! Dios mio! I can't believe it! How are you?",
+      "wordCount": 10
+    },
+    {
+      "id": 314,
+      "index": 314,
+      "character": "TOMMY",
+      "gender": "Male",
+      "line": "Good good. How you doin'?",
+      "wordCount": 5
+    },
+    {
+      "id": 315,
+      "index": 315,
+      "character": "PILAR",
+      "gender": "Female",
+      "line": "OK. You know me, Tommy. I was getting really worried about you.",
+      "wordCount": 12
+    },
+    {
+      "id": 316,
+      "index": 316,
+      "character": "TOMMY",
+      "gender": "Male",
+      "line": "How're things? Kids are good?",
+      "wordCount": 5
+    },
+    {
+      "id": 317,
+      "index": 317,
+      "character": "PILAR",
+      "gender": "Female",
+      "line": "They're good. Maria's getting so big. She looks more like Manny every day.",
+      "wordCount": 13
+    },
+    {
+      "id": 318,
+      "index": 318,
+      "character": "TOMMY",
+      "gender": "Male",
+      "line": "How's little man?",
+      "wordCount": 3
+    },
+    {
+      "id": 319,
+      "index": 319,
+      "character": "PILAR",
+      "gender": "Female",
+      "line": "He's good. He's a good kid, Tommy. Takes care of his sister. He's a great kid. Everyone's good.",
+      "wordCount": 18
+    },
+    {
+      "id": 320,
+      "index": 320,
+      "character": "TOMMY",
+      "gender": "Male",
+      "line": "You know, Pilar, I haven't forgotten for one minute what I promised you. What I promised Manny. I've got an opportunity coming up to help you guys out. To take care of you guys.",
+      "wordCount": 34
+    },
+    {
+      "id": 321,
+      "index": 321,
+      "character": "PILAR",
+      "gender": "Female",
+      "line": "Whatever you can do, Tommy. I know Manny would really appreciate it. You worry too much. It's OK. We're hanging in there.",
+      "wordCount": 22
+    },
+    {
+      "id": 322,
+      "index": 322,
+      "character": "JON ANIK",
+      "gender": "NA",
+      "line": "With eight weeks left til Sparta, J.J. Riley and the TapOut crew take time out of their international press tour to join us.",
+      "wordCount": 23
+    },
+    {
+      "id": 323,
+      "index": 323,
+      "character": "J.J. RILEY",
+      "gender": "NA",
+      "line": "Well, Jon, you know as well as anyone that in Mixed Martial Arts, anyone can beat anyone on a given night...",
+      "wordCount": 21
+    },
+    {
+      "id": 324,
+      "index": 324,
+      "character": "J.J. RILEY",
+      "gender": "NA",
+      "line": "...but with this type of format, it's gonna be tough to deny who the champion is.",
+      "wordCount": 16
+    },
+    {
+      "id": 325,
+      "index": 325,
+      "character": "J.J. RILEY",
+      "gender": "NA",
+      "line": "You've got four fights in two nights, sixteen fighters down to one. Winners gonna be the last man standing.",
+      "wordCount": 19
+    },
+    {
+      "id": 326,
+      "index": 326,
+      "character": "JON ANIK",
+      "gender": "NA",
+      "line": "Only five weeks left `til Sparta and the hype continues for the War on the Shore. Fourth of July weekend in Atlantic City and you know what that means: the great Koba, bringing his act stateside. Let me ask you about the other guys. What are they thinking entering a winner take all tournament against a guy that seemingly can't be beat?",
+      "wordCount": 62
+    },
+    {
+      "id": 327,
+      "index": 327,
+      "character": "RASHOD EVANS",
+      "gender": "NA",
+      "line": "They're thinking five million dollars, and five million dollars is a lot of money, but they've gotta remember one thing: they're going against Koba. Mission impossible. Game over. Go home.",
+      "wordCount": 30
+    },
+    {
+      "id": 328,
+      "index": 328,
+      "character": "JON ANIK",
+      "gender": "NA",
+      "line": "The `Pittsburgh Beatdown' has become one of the most watched videos on YouTube this year. Now joining us via satellite is the victim of the infamous incident, Mad Dog Grimes. Mad Dog, what is your response to all the hoopla surrounding the video and Tommy Riordan?",
+      "wordCount": 46
+    },
+    {
+      "id": 329,
+      "index": 329,
+      "character": "MAD DOG",
+      "gender": "NA",
+      "line": "This guy's a nobody. It was just a sparring session. It is what it is, and he's gonna pay for it next month in Atlantic City.",
+      "wordCount": 26
+    },
+    {
+      "id": 330,
+      "index": 330,
+      "character": "JON ANIK",
+      "gender": "NA",
+      "line": "With Sparta now only two short weeks away, J.J. Riley and the TapOut crew returned to the U.S. after a world tour that saw them visit ten fighters in ten different countries.",
+      "wordCount": 32
+    },
+    {
+      "id": 331,
+      "index": 331,
+      "character": "JON ANIK",
+      "gender": "NA",
+      "line": "They stopped in Philadelphia today to check in on renowned trainer Frank Campana and top contender Marco Santos.",
+      "wordCount": 18
+    },
+    {
+      "id": 332,
+      "index": 332,
+      "character": "FRANK",
+      "gender": "Male",
+      "line": "You've gotta relax and stay calm in there. The cage is your home. You set the pace.",
+      "wordCount": 17
+    },
+    {
+      "id": 333,
+      "index": 333,
+      "character": "FRANK",
+      "gender": "Male",
+      "line": "You set the rhythm. Feel the Beethoven. Be smarter than him. More patient. Wait for him to make a mistake. And when he does, that's your moment.",
+      "wordCount": 27
+    },
+    {
+      "id": 334,
+      "index": 334,
+      "character": "FRANK",
+      "gender": "Male",
+      "line": "No he did not tap you! Physics teacher! That's the best in the world there, son.",
+      "wordCount": 16
+    },
+    {
+      "id": 335,
+      "index": 335,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "You gonna be OK? Wanna grab a bite?",
+      "wordCount": 8
+    },
+    {
+      "id": 336,
+      "index": 336,
+      "character": "FRANK",
+      "gender": "Male",
+      "line": "Nah. I'm gonna head home. I gotta call the boys and break the news. I'll call you tomorrow.",
+      "wordCount": 18
+    },
+    {
+      "id": 337,
+      "index": 337,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "Coach! Hey, I know this isn't a great time. And it's too bad about Marco. But what about me?",
+      "wordCount": 19
+    },
+    {
+      "id": 338,
+      "index": 338,
+      "character": "FRANK",
+      "gender": "Male",
+      "line": "You talking about Sparta? Brendan, please. You got a better chance of starting a boy band. I'll talk to you tomorrow.",
+      "wordCount": 21
+    },
+    {
+      "id": 339,
+      "index": 339,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "It's a grand prix tournament. Which means anything can happen. You know that as well as I do.",
+      "wordCount": 18
+    },
+    {
+      "id": 340,
+      "index": 340,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "They'll have to kill me to get me out of that cage.",
+      "wordCount": 12
+    },
+    {
+      "id": 341,
+      "index": 341,
+      "character": "FRANK",
+      "gender": "Male",
+      "line": "That's what I'm afraid of.",
+      "wordCount": 5
+    },
+    {
+      "id": 342,
+      "index": 342,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "Frank, I need this. You're real tight with those guys. You call them, they'll listen to you.",
+      "wordCount": 17
+    },
+    {
+      "id": 343,
+      "index": 343,
+      "character": "FRANK",
+      "gender": "Male",
+      "line": "You realize what you're asking me to do here, Brendan? We go down to AC and you get tapped out in five seconds, how does that benefit either one of us?",
+      "wordCount": 31
+    },
+    {
+      "id": 344,
+      "index": 344,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "That's not gonna happen.",
+      "wordCount": 4
+    },
+    {
+      "id": 345,
+      "index": 345,
+      "character": "FRANK",
+      "gender": "Male",
+      "line": "Not gonna happen. Wish I had a nickel for every time I heard that.",
+      "wordCount": 14
+    },
+    {
+      "id": 346,
+      "index": 346,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "It's not gonna happen.",
+      "wordCount": 4
+    },
+    {
+      "id": 347,
+      "index": 347,
+      "character": "FRANK",
+      "gender": "Male",
+      "line": "I'll make a call.",
+      "wordCount": 4
+    },
+    {
+      "id": 348,
+      "index": 348,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "I love my coach!",
+      "wordCount": 4
+    },
+    {
+      "id": 349,
+      "index": 349,
+      "character": "TESS",
+      "gender": "Female",
+      "line": "Yeah, the girls are good. They're good. Yeah, you should. You've been spending so much time with Brendan these days it's like you're part of the family or something. Yeah, he's right here. It's your boyfriend.",
+      "wordCount": 36
+    },
+    {
+      "id": 350,
+      "index": 350,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "Hey Frank. That's unbelievable. I can't thank you enough. I don't know what to say. Alright, listen, I've gotta call you back. Alright, bye.",
+      "wordCount": 24
+    },
+    {
+      "id": 351,
+      "index": 351,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "I'm in. I'm going.",
+      "wordCount": 4
+    },
+    {
+      "id": 352,
+      "index": 352,
+      "character": "TESS",
+      "gender": "Female",
+      "line": "Really? So that's your decision? You decided? `Cause I really enjoyed that conversation we just had about making that decision together.",
+      "wordCount": 21
+    },
+    {
+      "id": 353,
+      "index": 353,
+      "character": "TESS",
+      "gender": "Female",
+      "line": "You told me you were gonna fight guys that watched too much UFC. I saw that Koba dude on TV, and he's the guy they're watching.",
+      "wordCount": 26
+    },
+    {
+      "id": 354,
+      "index": 354,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "It's a lot of money, Tess.",
+      "wordCount": 6
+    },
+    {
+      "id": 355,
+      "index": 355,
+      "character": "TESS",
+      "gender": "Female",
+      "line": "I don't give a shit about the money, Brendan. I told you that. We're gonna end up cashing in your life insurance policy before we pick up that prize money.",
+      "wordCount": 30
+    },
+    {
+      "id": 356,
+      "index": 356,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "You don't think I can do it.",
+      "wordCount": 7
+    },
+    {
+      "id": 357,
+      "index": 357,
+      "character": "TESS",
+      "gender": "Female",
+      "line": "I think you can get killed.",
+      "wordCount": 6
+    },
+    {
+      "id": 358,
+      "index": 358,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "I'm not gonna get killed.",
+      "wordCount": 5
+    },
+    {
+      "id": 359,
+      "index": 359,
+      "character": "TESS",
+      "gender": "Female",
+      "line": "Fine, you're not going to get killed. But can you promise me you're not going to get hurt? You're not gonna end up in the hospital? You're not gonna end up paralyzed? We'll have no prize money. No house. Payments for HOSPITAL BILLS--",
+      "wordCount": 43
+    },
+    {
+      "id": 360,
+      "index": 360,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "Tess, I can promise you this: if I don't try, they're gonna take the house. How's that for a promise?",
+      "wordCount": 20
+    },
+    {
+      "id": 361,
+      "index": 361,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "So, I'm gonna go, OK? But I'd really love it if you'd be with me on this.",
+      "wordCount": 17
+    },
+    {
+      "id": 362,
+      "index": 362,
+      "character": "TESS",
+      "gender": "Female",
+      "line": "I'm not gonna watch you fight again. I'm not. I'm gonna get the girls breakfast.",
+      "wordCount": 15
+    },
+    {
+      "id": 363,
+      "index": 363,
+      "character": "CALLEN",
+      "gender": "Male",
+      "line": "Fourth of July weekend doesn't officially start until tomorrow...",
+      "wordCount": 9
+    },
+    {
+      "id": 364,
+      "index": 364,
+      "character": "CALLEN",
+      "gender": "Male",
+      "line": "...but fight fans are already descending on Atlantic City for the Super Bowl of Mixed Martial Arts, Sparta.",
+      "wordCount": 18
+    },
+    {
+      "id": 365,
+      "index": 365,
+      "character": "CALLEN",
+      "gender": "Male",
+      "line": "J.J., you've made a fortune with your hedge funds, yet you turned your back on Wall Street and dedicated your life to making Sparta happen. Tell us, why is this tournament so important to you?",
+      "wordCount": 35
+    },
+    {
+      "id": 366,
+      "index": 366,
+      "character": "J.J. RILEY",
+      "gender": "NA",
+      "line": "Growing up, we all wanted to know who the toughest kid in the neighborhood was, right? I wanna know who the toughest man on the planet is. That's why I put this together, that's what all these people are here to see, and come Saturday night, that's what we're gonna find out.",
+      "wordCount": 52
+    },
+    {
+      "id": 367,
+      "index": 367,
+      "character": "SHERIDAN",
+      "gender": "Male",
+      "line": "Thank you, J.J. And here's something fans never thought they'd see: Koba is here! The legend arriving to fight on U.S. soil for the very first time...",
+      "wordCount": 27
+    },
+    {
+      "id": 368,
+      "index": 368,
+      "character": "FRANK",
+      "gender": "Male",
+      "line": "Hey. Where'd you go? You can't leave me like that. They wanna talk to you, not me.",
+      "wordCount": 17
+    },
+    {
+      "id": 369,
+      "index": 369,
+      "character": "MICHELLE MOONEY",
+      "gender": "NA",
+      "line": "...the only fighter missing from the event was dark horse entry Tommy Riordan.",
+      "wordCount": 13
+    },
+    {
+      "id": 370,
+      "index": 370,
+      "character": "PADDY",
+      "gender": "Male",
+      "line": "Tommy!",
+      "wordCount": 1
+    },
+    {
+      "id": 371,
+      "index": 371,
+      "character": "BRADFORD",
+      "gender": "Male",
+      "line": "...the bridge just crumbled. The Amtrack was upside down. Water was coming in from everywhere. The water pressure was too much. We couldn't get the back hatch open.",
+      "wordCount": 28
+    },
+    {
+      "id": 372,
+      "index": 372,
+      "character": "BRADFORD",
+      "gender": "Male",
+      "line": "We were all drowning, man. It was a death trap.",
+      "wordCount": 10
+    },
+    {
+      "id": 373,
+      "index": 373,
+      "character": "BRADFORD",
+      "gender": "Male",
+      "line": "I couldn't have had more than another minute. Suddenly the back ramp gets ripped off, and there he was. Before I could get out and thank him, he was gone. He just vanished like a ghost.",
+      "wordCount": 36
+    },
+    {
+      "id": 374,
+      "index": 374,
+      "character": "TOMMY",
+      "gender": "Male",
+      "line": "I'm takin' a walk.",
+      "wordCount": 4
+    },
+    {
+      "id": 375,
+      "index": 375,
+      "character": "BRADFORD",
+      "gender": "Male",
+      "line": "You saved my life, brother. Anybody seeing this at Sparta, anybody out in Pittsburgh, reach out to Tommy Riordan. Tell him Mark said thank you.",
+      "wordCount": 25
+    },
+    {
+      "id": 376,
+      "index": 376,
+      "character": "MICHELLE MOONEY",
+      "gender": "NA",
+      "line": "Footage taken from a helmet camera on the ground captured the heroic incident...",
+      "wordCount": 13
+    },
+    {
+      "id": 377,
+      "index": 377,
+      "character": "PADDY",
+      "gender": "Male",
+      "line": "Hello? Brendan.",
+      "wordCount": 2
+    },
+    {
+      "id": 378,
+      "index": 378,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "Been looking all over for you. How's it going?",
+      "wordCount": 9
+    },
+    {
+      "id": 379,
+      "index": 379,
+      "character": "TOMMY",
+      "gender": "Male",
+      "line": "It's going.",
+      "wordCount": 2
+    },
+    {
+      "id": 380,
+      "index": 380,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "I was thinking maybe we could grab a coffee.",
+      "wordCount": 9
+    },
+    {
+      "id": 381,
+      "index": 381,
+      "character": "TOMMY",
+      "gender": "Male",
+      "line": "I don't drink coffee. Whattya want?",
+      "wordCount": 6
+    },
+    {
+      "id": 382,
+      "index": 382,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "You don't want to go sit down somewhere?",
+      "wordCount": 8
+    },
+    {
+      "id": 383,
+      "index": 383,
+      "character": "TOMMY",
+      "gender": "Male",
+      "line": "I'm good right here.",
+      "wordCount": 4
+    },
+    {
+      "id": 384,
+      "index": 384,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "Shit, Tommy. How was I supposed to know I was never gonna see you guys again?",
+      "wordCount": 16
+    },
+    {
+      "id": 385,
+      "index": 385,
+      "character": "TOMMY",
+      "gender": "Male",
+      "line": "You were briefed. You had the information. You chose the old man and the girl.",
+      "wordCount": 15
+    },
+    {
+      "id": 386,
+      "index": 386,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "She wasn't some girl. I married her. She's my wife.",
+      "wordCount": 10
+    },
+    {
+      "id": 387,
+      "index": 387,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "That's Tess. And that's Emily and Rosie. They're your nieces, Tommy.",
+      "wordCount": 11
+    },
+    {
+      "id": 388,
+      "index": 388,
+      "character": "TOMMY",
+      "gender": "Male",
+      "line": "Don't know `em.",
+      "wordCount": 3
+    },
+    {
+      "id": 389,
+      "index": 389,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "I know you don't know them. Of course you don't know them.",
+      "wordCount": 12
+    },
+    {
+      "id": 390,
+      "index": 390,
+      "character": "TOMMY",
+      "gender": "Male",
+      "line": "Why am I looking at pictures of people I don't know?",
+      "wordCount": 11
+    },
+    {
+      "id": 391,
+      "index": 391,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "Because that's my family.",
+      "wordCount": 4
+    },
+    {
+      "id": 392,
+      "index": 392,
+      "character": "TOMMY",
+      "gender": "Male",
+      "line": "And who are you exactly?",
+      "wordCount": 5
+    },
+    {
+      "id": 393,
+      "index": 393,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "I'm your brother, man.",
+      "wordCount": 4
+    },
+    {
+      "id": 394,
+      "index": 394,
+      "character": "TOMMY",
+      "gender": "Male",
+      "line": "You were in the Corps?",
+      "wordCount": 5
+    },
+    {
+      "id": 395,
+      "index": 395,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "What?",
+      "wordCount": 1
+    },
+    {
+      "id": 396,
+      "index": 396,
+      "character": "TOMMY",
+      "gender": "Male",
+      "line": "I said I didn't know you were in the Corps.",
+      "wordCount": 10
+    },
+    {
+      "id": 397,
+      "index": 397,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "I wasn't in the Corps.",
+      "wordCount": 5
+    },
+    {
+      "id": 398,
+      "index": 398,
+      "character": "TOMMY",
+      "gender": "Male",
+      "line": "Then you ain't no brother to me. My brother was in the Corps.",
+      "wordCount": 13
+    },
+    {
+      "id": 399,
+      "index": 399,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "Jesus, Tommy. I was a 16 year old kid. What the hell did I know?",
+      "wordCount": 15
+    },
+    {
+      "id": 400,
+      "index": 400,
+      "character": "TOMMY",
+      "gender": "Male",
+      "line": "I don't know what you know. Why don't you go ask your girlfriend about it?",
+      "wordCount": 15
+    },
+    {
+      "id": 401,
+      "index": 401,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "She's my wife, Tommy. So that's it? I stay with Tess and I never get to see you guys again? Not a single phone call? Nothing?",
+      "wordCount": 26
+    },
+    {
+      "id": 402,
+      "index": 402,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "God, man, I don't understand this. You won't forgive me, but you'll forgive Pop?",
+      "wordCount": 14
+    },
+    {
+      "id": 403,
+      "index": 403,
+      "character": "TOMMY",
+      "gender": "Male",
+      "line": "Shit. He's just some old vet I train with. He means nothing to me. From what I hear he means nothing to you, either, so you got balls talking about forgiveness.",
+      "wordCount": 31
+    },
+    {
+      "id": 404,
+      "index": 404,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "That's got nothing to do with forgiveness. I've got a family to protect. Everything I do is for them.",
+      "wordCount": 19
+    },
+    {
+      "id": 405,
+      "index": 405,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "But I forgave Pop. Just like I forgave you and Mom.",
+      "wordCount": 11
+    },
+    {
+      "id": 406,
+      "index": 406,
+      "character": "TOMMY",
+      "gender": "Male",
+      "line": "You forgave us?",
+      "wordCount": 3
+    },
+    {
+      "id": 407,
+      "index": 407,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "Yeah.",
+      "wordCount": 1
+    },
+    {
+      "id": 408,
+      "index": 408,
+      "character": "TOMMY",
+      "gender": "Male",
+      "line": "I'm not surprised you made the tournament, Brendan. You got some stones.",
+      "wordCount": 12
+    },
+    {
+      "id": 409,
+      "index": 409,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "I fell in love, Tommy. What the hell was I supposed to do?",
+      "wordCount": 13
+    },
+    {
+      "id": 410,
+      "index": 410,
+      "character": "TOMMY",
+      "gender": "Male",
+      "line": "You were supposed to stick to the plan. You were supposed to come with us. Mom needed you. I needed you. You were my big brother and you bailed on me.",
+      "wordCount": 31
+    },
+    {
+      "id": 411,
+      "index": 411,
+      "character": "TOMMY",
+      "gender": "Male",
+      "line": "Hey, I'm glad you stayed and everything worked out for you, Brendan. See, you leave, you get the opposite. You leave, you get to bury people.",
+      "wordCount": 26
+    },
+    {
+      "id": 412,
+      "index": 412,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "You're not the only one who suffered, Tommy. I didn't even know she was sick. I never even got the chance to say goodbye to my own mother. You had no right to keep that from me! That was not your decision to make!",
+      "wordCount": 44
+    },
+    {
+      "id": 413,
+      "index": 413,
+      "character": "TOMMY",
+      "gender": "Male",
+      "line": "You know what? You walk around with your pictures in your wallet and you're all, I forgive you, I forgive Pop. I forgive everyone. But you know what? You're full of shit.",
+      "wordCount": 32
+    },
+    {
+      "id": 414,
+      "index": 414,
+      "character": "TOMMY",
+      "gender": "Male",
+      "line": "Are we done, Brendan? Are we finished?",
+      "wordCount": 7
+    },
+    {
+      "id": 415,
+      "index": 415,
+      "character": "JOE ZITO",
+      "gender": "NA",
+      "line": "You realize you're supposed to seek my wise counsel when school's actually in session, right?",
+      "wordCount": 15
+    },
+    {
+      "id": 416,
+      "index": 416,
+      "character": "STEPHON",
+      "gender": "Male",
+      "line": "We want to use the auditorium this weekend to watch Mr. C in Sparta.",
+      "wordCount": 14
+    },
+    {
+      "id": 417,
+      "index": 417,
+      "character": "TITO",
+      "gender": "Male",
+      "line": "What do you say?",
+      "wordCount": 4
+    },
+    {
+      "id": 418,
+      "index": 418,
+      "character": "JOE ZITO",
+      "gender": "NA",
+      "line": "Let me get this straight. You want to use the auditorium to watch a suspended teacher engage in the activity he was suspended for? Am I hearing this correctly? I gotta talk to your parents. You guys might need to be in summer school after all.",
+      "wordCount": 46
+    },
+    {
+      "id": 419,
+      "index": 419,
+      "character": "NASH",
+      "gender": "Male",
+      "line": "But everyone wants to see it.",
+      "wordCount": 6
+    },
+    {
+      "id": 420,
+      "index": 420,
+      "character": "KC",
+      "gender": "Female",
+      "line": "The gym's the only place that's big enough.",
+      "wordCount": 8
+    },
+    {
+      "id": 421,
+      "index": 421,
+      "character": "JOE ZITO",
+      "gender": "NA",
+      "line": "It's never gonna happen.",
+      "wordCount": 4
+    },
+    {
+      "id": 422,
+      "index": 422,
+      "character": "STEPHON",
+      "gender": "Male",
+      "line": "What if we get a petition?",
+      "wordCount": 6
+    },
+    {
+      "id": 423,
+      "index": 423,
+      "character": "TITO",
+      "gender": "Male",
+      "line": "Yeah. We'll get the whole school to sign it.",
+      "wordCount": 9
+    },
+    {
+      "id": 424,
+      "index": 424,
+      "character": "NASH",
+      "gender": "Male",
+      "line": "The power of democracy!",
+      "wordCount": 4
+    },
+    {
+      "id": 425,
+      "index": 425,
+      "character": "JOE ZITO",
+      "gender": "NA",
+      "line": "Look, I appreciate that you guys love your teacher. I really do. But there is nothing I can do for you.",
+      "wordCount": 21
+    },
+    {
+      "id": 426,
+      "index": 426,
+      "character": "CALLEN",
+      "gender": "Male",
+      "line": "The roof is about to blow clean off Boardwalk Hall Arena! It might be Fourth of July weekend, but this is Christmas Eve for fight fans! This is Atlantic City! This is the War on the Shore! And this is what everyone has been waiting for!",
+      "wordCount": 46
+    },
+    {
+      "id": 427,
+      "index": 427,
+      "character": "CALLEN",
+      "gender": "Male",
+      "line": "Sixteen of the baddest men on the planet duking it out over a 24-hour period for the largest purse in Mixed Martial Arts history. In the town everyone knows from the game of Monopoly, we've got ourselves a winner-take-all affair. Buckle your seatbelts, roll the dice, and take riiiiide on the Reading. Sparta. Is. Here!",
+      "wordCount": 55
+    },
+    {
+      "id": 428,
+      "index": 428,
+      "character": "CALLEN",
+      "gender": "Male",
+      "line": "Welcome, I'm Bryan Callen along with best-selling fight author Sam Sheridan. Sam, when J.J. Riley conceived Sparta he wanted to create, quite simply, the biggest Mixed Martial Arts spectacle in history.",
+      "wordCount": 31
+    },
+    {
+      "id": 429,
+      "index": 429,
+      "character": "SHERIDAN",
+      "gender": "Male",
+      "line": "Five million dollars, Bryan. Five million dollars. J.J. Riley put his money where his mouth is and put up the biggest purse this sport has ever seen.",
+      "wordCount": 27
+    },
+    {
+      "id": 430,
+      "index": 430,
+      "character": "CALLEN",
+      "gender": "Male",
+      "line": "It's unprecedented, Sam. As is the hoopla surrounding Tommy Riordan, the war hero who has become an overnight sensation...",
+      "wordCount": 19
+    },
+    {
+      "id": 431,
+      "index": 431,
+      "character": "OFFICIAL",
+      "gender": "NA",
+      "line": "Five minutes, Paddy.",
+      "wordCount": 3
+    },
+    {
+      "id": 432,
+      "index": 432,
+      "character": "SHERIDAN",
+      "gender": "Male",
+      "line": "It looks as though the moment of truth has arrived, because here comes Tommy Riordan.",
+      "wordCount": 15
+    },
+    {
+      "id": 433,
+      "index": 433,
+      "character": "CALLEN",
+      "gender": "Male",
+      "line": "Tommy Riordan's captured the media's attention, but the question still remains: who is this guy? And more importantly, can he compete in this talent pool? Can he win?",
+      "wordCount": 28
+    },
+    {
+      "id": 434,
+      "index": 434,
+      "character": "SHERIDAN",
+      "gender": "Male",
+      "line": "I wish I knew, Bryan. I wish I knew who he was, and I've gotta say the fact that I don't know is strange. In an internet age where there are no secrets, this guy is a complete mystery. I can't find out anything about him. Tommy Riordan is officially Google proof.",
+      "wordCount": 52
+    },
+    {
+      "id": 435,
+      "index": 435,
+      "character": "CALLEN",
+      "gender": "Male",
+      "line": "You gotta love this guy, Sam. No walk out music, no sponsors, no interviews. He skipped out on the press conference. Wouldn't have his picture take for the program. He's breaking every rule!",
+      "wordCount": 33
+    },
+    {
+      "id": 436,
+      "index": 436,
+      "character": "SHERIDAN",
+      "gender": "Male",
+      "line": "The only reason that Tommy is even in this tournament is because of a video showing him beating up Mad Dog Grimes in the gym.",
+      "wordCount": 25
+    },
+    {
+      "id": 437,
+      "index": 437,
+      "character": "CALLEN",
+      "gender": "Male",
+      "line": "But the reason a lot of his fans are in the stands is because of another video, which is even more stunning than the Mad Dog Grimes video. Let me describe it for you folks for the few who haven't seen it, and I don't know anyone who hasn't, but Tommy Riordan ripped the door off a tank in the heat of battle, saving lives in the process, and then walked away without claiming a medal. He ripped the door off a tank!",
+      "wordCount": 83
+    },
+    {
+      "id": 438,
+      "index": 438,
+      "character": "SHERIDAN",
+      "gender": "Male",
+      "line": "Tommy Riordan is a genuine war hero, I'm not taking anything away from the guy. He's a very, very tough guy, Bryan, but the tank don't hit back. We've seen YouTube sensations fail on the big stage before.",
+      "wordCount": 38
+    },
+    {
+      "id": 439,
+      "index": 439,
+      "character": "CALLEN",
+      "gender": "Male",
+      "line": "Sam. He ripped the door off a tank!",
+      "wordCount": 8
+    },
+    {
+      "id": 440,
+      "index": 440,
+      "character": "CALLEN",
+      "gender": "Male",
+      "line": "Tommy Riordan definitely has his hands full in his first opponent, Francisco Barbosa. Barbosa is nothing to scoff at.",
+      "wordCount": 19
+    },
+    {
+      "id": 441,
+      "index": 441,
+      "character": "SHERIDAN",
+      "gender": "Male",
+      "line": "Yeah, he's the real deal. Very tough guy. Very high caliber fighter. Tommy Riordan came out of nowhere, and I imagine he's going to disappear just as quickly.",
+      "wordCount": 28
+    },
+    {
+      "id": 442,
+      "index": 442,
+      "character": "SHERIDAN",
+      "gender": "Male",
+      "line": "Great story, but I think your boy is about to be exposed as a YouTube sensation.",
+      "wordCount": 16
+    },
+    {
+      "id": 443,
+      "index": 443,
+      "character": "JOSH ROSENTHAL",
+      "gender": "NA",
+      "line": "Gentlemen, you've been given your instructions. I expect a clean fight. Obey my commands at all times. Defend yourselves at all times. Touch gloves, go back, let's do this.",
+      "wordCount": 29
+    },
+    {
+      "id": 444,
+      "index": 444,
+      "character": "CALLEN",
+      "gender": "Male",
+      "line": "We're about to get the big answer to the big question: is Tommy Riordan for real? And here we go!",
+      "wordCount": 20
+    },
+    {
+      "id": 445,
+      "index": 445,
+      "character": "SHERIDAN",
+      "gender": "Male",
+      "line": "Barbosa's gonna be looking for a take down.",
+      "wordCount": 8
+    },
+    {
+      "id": 446,
+      "index": 446,
+      "character": "CALLEN",
+      "gender": "Male",
+      "line": "Definitely gonna be looking for a take down.",
+      "wordCount": 8
+    },
+    {
+      "id": 447,
+      "index": 447,
+      "character": "CALLEN",
+      "gender": "Male",
+      "line": "Barbosa is down! Barbosa has been knocked out! Tommy Riordan is most definitely for real!",
+      "wordCount": 15
+    },
+    {
+      "id": 448,
+      "index": 448,
+      "character": "CALLEN",
+      "gender": "Male",
+      "line": "And now he's walking out of the cage! He's leaving the cage! There goes another rule out the window!",
+      "wordCount": 19
+    },
+    {
+      "id": 449,
+      "index": 449,
+      "character": "SHERIDAN",
+      "gender": "Male",
+      "line": "Francisco Barbosa is out cold, and he is out of this tournament, Bryan.",
+      "wordCount": 13
+    },
+    {
+      "id": 450,
+      "index": 450,
+      "character": "OFFICIAL",
+      "gender": "NA",
+      "line": "Show time.",
+      "wordCount": 2
+    },
+    {
+      "id": 451,
+      "index": 451,
+      "character": "FRANK",
+      "gender": "Male",
+      "line": "You can do this.",
+      "wordCount": 4
+    },
+    {
+      "id": 452,
+      "index": 452,
+      "character": "FRANK",
+      "gender": "Male",
+      "line": "I want to hear you say it.",
+      "wordCount": 7
+    },
+    {
+      "id": 453,
+      "index": 453,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "I can do this.",
+      "wordCount": 4
+    },
+    {
+      "id": 454,
+      "index": 454,
+      "character": "FRANK",
+      "gender": "Male",
+      "line": "Then let's go do this.",
+      "wordCount": 5
+    },
+    {
+      "id": 455,
+      "index": 455,
+      "character": "SHERIDAN",
+      "gender": "Male",
+      "line": "J.J. Riley had less than 48 hours to fill Marco Santos' spot, and he basically had to rely on the word of Frank Campana.",
+      "wordCount": 24
+    },
+    {
+      "id": 456,
+      "index": 456,
+      "character": "CALLEN",
+      "gender": "Male",
+      "line": "And he chose Brendan Conlon, which quite frankly is something I just don't understand.",
+      "wordCount": 14
+    },
+    {
+      "id": 457,
+      "index": 457,
+      "character": "PADDY",
+      "gender": "Male",
+      "line": "Go get `em, son.",
+      "wordCount": 4
+    },
+    {
+      "id": 458,
+      "index": 458,
+      "character": "CALLEN",
+      "gender": "Male",
+      "line": "I can understand coming out to no music, by why in the world would you choose classical music for your entrance?",
+      "wordCount": 21
+    },
+    {
+      "id": 459,
+      "index": 459,
+      "character": "SHERIDAN",
+      "gender": "Male",
+      "line": "This is Beethoven, Bryan. This is Ode to Joy.",
+      "wordCount": 9
+    },
+    {
+      "id": 460,
+      "index": 460,
+      "character": "CALLEN",
+      "gender": "Male",
+      "line": "My apologies, Mr. Renaissance man.",
+      "wordCount": 5
+    },
+    {
+      "id": 461,
+      "index": 461,
+      "character": "SHERIDAN",
+      "gender": "Male",
+      "line": "You want to talk about renaissance men, you gotta talk about Frank Campana. Very unorthodox trainer, and one of the best in the game. He's well known for using classical music to train his fighters to remain calm, to remain patient, and to remain composed under pressure.",
+      "wordCount": 47
+    },
+    {
+      "id": 462,
+      "index": 462,
+      "character": "CALLEN",
+      "gender": "Male",
+      "line": "Classical music is about as fitting to this setting as Brendan Conlon is to this tournament. In fact, let me show you something.",
+      "wordCount": 23
+    },
+    {
+      "id": 463,
+      "index": 463,
+      "character": "CALLEN",
+      "gender": "Male",
+      "line": "This is Brendan Conlon. He's a feeder fish, and he's about to get dropped into a shark tank.",
+      "wordCount": 18
+    },
+    {
+      "id": 464,
+      "index": 464,
+      "character": "SHERIDAN",
+      "gender": "Male",
+      "line": "C'mon, give the guy a break. At least we've seen him fight before. He was in the UFC. We remember him.",
+      "wordCount": 21
+    },
+    {
+      "id": 465,
+      "index": 465,
+      "character": "CALLEN",
+      "gender": "Male",
+      "line": "I remember him, too. I remember him being very unmemorable.",
+      "wordCount": 10
+    },
+    {
+      "id": 466,
+      "index": 466,
+      "character": "SHERIDAN",
+      "gender": "Male",
+      "line": "Midnight Le getting ready to climb into the cage and go to work.",
+      "wordCount": 13
+    },
+    {
+      "id": 467,
+      "index": 467,
+      "character": "CALLEN",
+      "gender": "Male",
+      "line": "When the brackets were announced, Midnight thought he'd be going up against Marco Santos. He's gotta be thrilled to be seeing Brendan Conlon standing across from him.",
+      "wordCount": 27
+    },
+    {
+      "id": 468,
+      "index": 468,
+      "character": "FRANK",
+      "gender": "Male",
+      "line": "You asked for it.",
+      "wordCount": 4
+    },
+    {
+      "id": 469,
+      "index": 469,
+      "character": "SHERIDAN",
+      "gender": "Male",
+      "line": "Brendan retired from fighting some years ago, he's actually a high school Physics teacher now, and Midnight had some fun with that at the press conference.",
+      "wordCount": 26
+    },
+    {
+      "id": 470,
+      "index": 470,
+      "character": "CALLEN",
+      "gender": "Male",
+      "line": "He said he was gonna give the teacher a serious lesson, and that getting killed was no way to spend a summer vacation.",
+      "wordCount": 23
+    },
+    {
+      "id": 471,
+      "index": 471,
+      "character": "JOSH ROSENTHAL",
+      "gender": "NA",
+      "line": "Alright, gentleman, you've been given your instructions, I expect a clean fight. Obey my commands at all times. Defend yourselves at all times. Touch gloves, go back, let's do this.",
+      "wordCount": 30
+    },
+    {
+      "id": 472,
+      "index": 472,
+      "character": "FRANK",
+      "gender": "Male",
+      "line": "Have some fun, baby.",
+      "wordCount": 4
+    },
+    {
+      "id": 473,
+      "index": 473,
+      "character": "ZITO",
+      "gender": "Male",
+      "line": "Move! You gotta move!",
+      "wordCount": 4
+    },
+    {
+      "id": 474,
+      "index": 474,
+      "character": "SHERIDAN",
+      "gender": "Male",
+      "line": "Midnight is all over Brendan.",
+      "wordCount": 5
+    },
+    {
+      "id": 475,
+      "index": 475,
+      "character": "CALLEN",
+      "gender": "Male",
+      "line": "This can't last much longer. This won't last much longer. The teacher just has no answers.",
+      "wordCount": 16
+    },
+    {
+      "id": 476,
+      "index": 476,
+      "character": "ZITO",
+      "gender": "Male",
+      "line": "C'mon, Brendan, get outta there!",
+      "wordCount": 5
+    },
+    {
+      "id": 477,
+      "index": 477,
+      "character": "FRANK",
+      "gender": "Male",
+      "line": "Get out of there! Get out of there!",
+      "wordCount": 8
+    },
+    {
+      "id": 478,
+      "index": 478,
+      "character": "CALLEN",
+      "gender": "Male",
+      "line": "And now he's got the hooks in. 20 seconds left.",
+      "wordCount": 10
+    },
+    {
+      "id": 479,
+      "index": 479,
+      "character": "SHERIDAN",
+      "gender": "Male",
+      "line": "The end is near. Can he make it to the end of the round is the question.",
+      "wordCount": 17
+    },
+    {
+      "id": 480,
+      "index": 480,
+      "character": "CALLEN",
+      "gender": "Male",
+      "line": "10 seconds left, and Brendan's face is turning purple. Conlon's whole world is about to go from day to night.",
+      "wordCount": 20
+    },
+    {
+      "id": 481,
+      "index": 481,
+      "character": "FRANK",
+      "gender": "Male",
+      "line": "Beautiful! Beautiful! He doesn't know what hit him!",
+      "wordCount": 8
+    },
+    {
+      "id": 482,
+      "index": 482,
+      "character": "SHERIDAN",
+      "gender": "Male",
+      "line": "He's got a Kimura locked in.",
+      "wordCount": 6
+    },
+    {
+      "id": 483,
+      "index": 483,
+      "character": "CALLEN",
+      "gender": "Male",
+      "line": "Are you kidding me?",
+      "wordCount": 4
+    },
+    {
+      "id": 484,
+      "index": 484,
+      "character": "CALLEN",
+      "gender": "Male",
+      "line": "Midnight is in big trouble!",
+      "wordCount": 5
+    },
+    {
+      "id": 485,
+      "index": 485,
+      "character": "SHERIDAN",
+      "gender": "Male",
+      "line": "I don't think he's got anywhere to go!",
+      "wordCount": 8
+    },
+    {
+      "id": 486,
+      "index": 486,
+      "character": "CALLEN",
+      "gender": "Male",
+      "line": "This isn't happening! This can't happen!",
+      "wordCount": 6
+    },
+    {
+      "id": 487,
+      "index": 487,
+      "character": "SHERIDAN",
+      "gender": "Male",
+      "line": "It just did, Bryan.",
+      "wordCount": 4
+    },
+    {
+      "id": 488,
+      "index": 488,
+      "character": "CALLEN",
+      "gender": "Male",
+      "line": "Brendan Conlon tapped Midnight! I can't believe it!",
+      "wordCount": 8
+    },
+    {
+      "id": 489,
+      "index": 489,
+      "character": "ZITO",
+      "gender": "Male",
+      "line": "He tapped him out! He tapped him out! He did it! He did it! He did it!",
+      "wordCount": 17
+    },
+    {
+      "id": 490,
+      "index": 490,
+      "character": "SHERIDAN",
+      "gender": "Male",
+      "line": "This is what makes Mixed Martial Arts so great. There's so many ways to lose. One tiny miscalculation at any time and that's it.",
+      "wordCount": 24
+    },
+    {
+      "id": 491,
+      "index": 491,
+      "character": "CALLEN",
+      "gender": "Male",
+      "line": "Frank Campana embracing his man, Brendan Conlon. I don't think either one of them can believe what just happened.",
+      "wordCount": 19
+    },
+    {
+      "id": 492,
+      "index": 492,
+      "character": "SHERIDAN",
+      "gender": "Male",
+      "line": "Great show of sportsmanship from the teacher.",
+      "wordCount": 7
+    },
+    {
+      "id": 493,
+      "index": 493,
+      "character": "CALLEN",
+      "gender": "Male",
+      "line": "That's a hallmark of Frank Campana's philosophy right there.",
+      "wordCount": 9
+    },
+    {
+      "id": 494,
+      "index": 494,
+      "character": "SHERIDAN",
+      "gender": "Male",
+      "line": "Midnight Le is shocked. He thought he had a free pass into the second round, but instead he's going home. He dominated the fight the entire way, but fell prey to a very technical finish.",
+      "wordCount": 35
+    },
+    {
+      "id": 495,
+      "index": 495,
+      "character": "CALLEN",
+      "gender": "Male",
+      "line": "Very technical finish, but come on, that's a fluke.",
+      "wordCount": 9
+    },
+    {
+      "id": 496,
+      "index": 496,
+      "character": "SHERIDAN",
+      "gender": "Male",
+      "line": "You call it a fluke. I call it a guy maintaining composure and waiting for his opportunity.",
+      "wordCount": 17
+    },
+    {
+      "id": 497,
+      "index": 497,
+      "character": "CALLEN",
+      "gender": "Male",
+      "line": "Conlon beats Midnight!",
+      "wordCount": 3
+    },
+    {
+      "id": 498,
+      "index": 498,
+      "character": "SHERIDAN",
+      "gender": "Male",
+      "line": "I hope you got a receipt for your goldfish.",
+      "wordCount": 9
+    },
+    {
+      "id": 499,
+      "index": 499,
+      "character": "TESS",
+      "gender": "Female",
+      "line": "Yes!",
+      "wordCount": 1
+    },
+    {
+      "id": 500,
+      "index": 500,
+      "character": "CALLEN",
+      "gender": "Male",
+      "line": "We're down to eight fighters, soon to be seven as Koba prepares to go to work for the second time tonight.",
+      "wordCount": 21
+    },
+    {
+      "id": 501,
+      "index": 501,
+      "character": "CALLEN",
+      "gender": "Male",
+      "line": "That was quick.",
+      "wordCount": 3
+    },
+    {
+      "id": 502,
+      "index": 502,
+      "character": "SHERIDAN",
+      "gender": "Male",
+      "line": "Wow. Once again, Koba does not break a sweat.",
+      "wordCount": 9
+    },
+    {
+      "id": 503,
+      "index": 503,
+      "character": "CALLEN",
+      "gender": "Male",
+      "line": "I'm afraid he might have broken something else, Sam.",
+      "wordCount": 9
+    },
+    {
+      "id": 504,
+      "index": 504,
+      "character": "SHERIDAN",
+      "gender": "Male",
+      "line": "It's certainly possible, Bryan. Koba moving on to tomorrow night.",
+      "wordCount": 10
+    },
+    {
+      "id": 505,
+      "index": 505,
+      "character": "CALLEN",
+      "gender": "Male",
+      "line": "Mad Dog fighting like a man possessed. Like a man with something to prove.",
+      "wordCount": 14
+    },
+    {
+      "id": 506,
+      "index": 506,
+      "character": "SHERIDAN",
+      "gender": "Male",
+      "line": "Mad Dog said he had a message for Tommy Riordan and there it is right there.",
+      "wordCount": 16
+    },
+    {
+      "id": 507,
+      "index": 507,
+      "character": "SHERIDAN",
+      "gender": "Male",
+      "line": "Here comes the underdog, Brendan Conlon.",
+      "wordCount": 6
+    },
+    {
+      "id": 508,
+      "index": 508,
+      "character": "CALLEN",
+      "gender": "Male",
+      "line": "The teacher miraculously passed his first test, but now he's gotta face The Dane.",
+      "wordCount": 14
+    },
+    {
+      "id": 509,
+      "index": 509,
+      "character": "PADDY",
+      "gender": "Male",
+      "line": "You can do it, Brendan.",
+      "wordCount": 5
+    },
+    {
+      "id": 510,
+      "index": 510,
+      "character": "SHERIDAN",
+      "gender": "Male",
+      "line": "Halfway through round three now and the beating continues.",
+      "wordCount": 9
+    },
+    {
+      "id": 511,
+      "index": 511,
+      "character": "CALLEN",
+      "gender": "Male",
+      "line": "I honestly don't know how Brendan Conlon is still standing, Sam.",
+      "wordCount": 11
+    },
+    {
+      "id": 512,
+      "index": 512,
+      "character": "CALLEN",
+      "gender": "Male",
+      "line": "He has been absolutely battered in both his fights tonight.",
+      "wordCount": 10
+    },
+    {
+      "id": 513,
+      "index": 513,
+      "character": "FRANK",
+      "gender": "Male",
+      "line": "Take him down!",
+      "wordCount": 3
+    },
+    {
+      "id": 514,
+      "index": 514,
+      "character": "PADDY",
+      "gender": "Male",
+      "line": "That's it, Brendan!",
+      "wordCount": 3
+    },
+    {
+      "id": 515,
+      "index": 515,
+      "character": "CALLEN",
+      "gender": "Male",
+      "line": "Do it one time, it's a fluke, do it twice, that's something else!",
+      "wordCount": 13
+    },
+    {
+      "id": 516,
+      "index": 516,
+      "character": "CALLEN",
+      "gender": "Male",
+      "line": "Pull the bandwagon over, I think I'm hopping on! I think I'm a believer!",
+      "wordCount": 14
+    },
+    {
+      "id": 517,
+      "index": 517,
+      "character": "PADDY",
+      "gender": "Male",
+      "line": "Way to go, Brendan!",
+      "wordCount": 4
+    },
+    {
+      "id": 518,
+      "index": 518,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "I'd doing this!",
+      "wordCount": 3
+    },
+    {
+      "id": 519,
+      "index": 519,
+      "character": "PADDY",
+      "gender": "Male",
+      "line": "OK, son.",
+      "wordCount": 2
+    },
+    {
+      "id": 520,
+      "index": 520,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "I'm doing it!",
+      "wordCount": 3
+    },
+    {
+      "id": 521,
+      "index": 521,
+      "character": "CALLEN",
+      "gender": "Male",
+      "line": "The crowd catching fire for war hero Tommy Riordan.",
+      "wordCount": 9
+    },
+    {
+      "id": 522,
+      "index": 522,
+      "character": "SHERIDAN",
+      "gender": "Male",
+      "line": "He doesn't seem to want anything to do with all this adulation, Bryan. He's just here to fight.",
+      "wordCount": 18
+    },
+    {
+      "id": 523,
+      "index": 523,
+      "character": "JOSH ROSENTHAL",
+      "gender": "NA",
+      "line": "Gentlemen, you ready? You ready? Let's go to war!",
+      "wordCount": 9
+    },
+    {
+      "id": 524,
+      "index": 524,
+      "character": "CALLEN",
+      "gender": "Male",
+      "line": "Here he comes again like a buzzsaw. Tommy is all over Diego Santana!",
+      "wordCount": 13
+    },
+    {
+      "id": 525,
+      "index": 525,
+      "character": "CALLEN",
+      "gender": "Male",
+      "line": "There he goes again! Storming right out of the cage!",
+      "wordCount": 10
+    },
+    {
+      "id": 526,
+      "index": 526,
+      "character": "CALLEN",
+      "gender": "Male",
+      "line": "Tommy Riordan marching through the crowd, and straight into the final four!",
+      "wordCount": 12
+    },
+    {
+      "id": 527,
+      "index": 527,
+      "character": "PADDY",
+      "gender": "Male",
+      "line": "Can't sleep, huh?",
+      "wordCount": 3
+    },
+    {
+      "id": 528,
+      "index": 528,
+      "character": "PADDY",
+      "gender": "Male",
+      "line": "I know that other thing's bothering the hell out of you, but I'm proud of you. What you did for that kid in the tank? That was really something.",
+      "wordCount": 29
+    },
+    {
+      "id": 529,
+      "index": 529,
+      "character": "TOMMY",
+      "gender": "Male",
+      "line": "How about deserting my unit? Is that really something, too? Yeah. I was on my way outta country when I came across those guys. What was I supposed to do, let `em drown?",
+      "wordCount": 33
+    },
+    {
+      "id": 530,
+      "index": 530,
+      "character": "PADDY",
+      "gender": "Male",
+      "line": "No. What'd you do?",
+      "wordCount": 4
+    },
+    {
+      "id": 531,
+      "index": 531,
+      "character": "TOMMY",
+      "gender": "Male",
+      "line": "What'd I do? I took off.",
+      "wordCount": 6
+    },
+    {
+      "id": 532,
+      "index": 532,
+      "character": "PADDY",
+      "gender": "Male",
+      "line": "That's why you go by Riordan. That's why the press can't find your service records.",
+      "wordCount": 15
+    },
+    {
+      "id": 533,
+      "index": 533,
+      "character": "PADDY",
+      "gender": "Male",
+      "line": "What the hell happened over there, Tommy?",
+      "wordCount": 7
+    },
+    {
+      "id": 534,
+      "index": 534,
+      "character": "TOMMY",
+      "gender": "Male",
+      "line": "That is none of your business.",
+      "wordCount": 6
+    },
+    {
+      "id": 535,
+      "index": 535,
+      "character": "PADDY",
+      "gender": "Male",
+      "line": "Come on, kiddo. I've been there. I've done it. I've seen it. You can trust me. I'll understand.",
+      "wordCount": 18
+    },
+    {
+      "id": 536,
+      "index": 536,
+      "character": "TOMMY",
+      "gender": "Male",
+      "line": "Spare me the compassionate father routine, Pop. The suit don't fit.",
+      "wordCount": 11
+    },
+    {
+      "id": 537,
+      "index": 537,
+      "character": "PADDY",
+      "gender": "Male",
+      "line": "I'm really trying here, Tommy.",
+      "wordCount": 5
+    },
+    {
+      "id": 538,
+      "index": 538,
+      "character": "TOMMY",
+      "gender": "Male",
+      "line": "You're trying? Now? Where were you when it mattered? I needed this guy back when I was a kid. I don't need you now. It's too late now. Everything's already happened. You and Brendan don't seem to understand that. Let me explain something to you: the only thing I have in common with Brendan Conlon is that we have absolutely no use for you.",
+      "wordCount": 64
+    },
+    {
+      "id": 539,
+      "index": 539,
+      "character": "TOMMY",
+      "gender": "Male",
+      "line": "Look at you. Yeah, I was right. I think I liked you better when you were a drunk. At least you had some balls then. Not like now. Tip toeing around like some beggar with your cup out. Take it somewhere else, old man.",
+      "wordCount": 44
+    },
+    {
+      "id": 540,
+      "index": 540,
+      "character": "TOMMY",
+      "gender": "Male",
+      "line": "In fact, you know what? Here's a cup. Why don't you take this and go buy some more of your shitty tapes?",
+      "wordCount": 22
+    },
+    {
+      "id": 541,
+      "index": 541,
+      "character": "TOMMY",
+      "gender": "Male",
+      "line": "Go back to the room and listen to some more fish stories no one gives a shit about. Go on, get outta here. Get the fuck outta here!",
+      "wordCount": 28
+    },
+    {
+      "id": 542,
+      "index": 542,
+      "character": "PADDY",
+      "gender": "Male",
+      "line": "God pity `em! All shall perish except me! You bastards! Stop the ship, you bastards!",
+      "wordCount": 15
+    },
+    {
+      "id": 543,
+      "index": 543,
+      "character": "PADDY",
+      "gender": "Male",
+      "line": "Ishmael! God pity `em! Stop the ship! Please stop the ship! Somebody help `em!",
+      "wordCount": 14
+    },
+    {
+      "id": 544,
+      "index": 544,
+      "character": "PADDY",
+      "gender": "Male",
+      "line": "Ahab! You Godless sonofabitch!",
+      "wordCount": 4
+    },
+    {
+      "id": 545,
+      "index": 545,
+      "character": "PADDY",
+      "gender": "Male",
+      "line": "You stop the ship, you Godless sonofabitch!",
+      "wordCount": 7
+    },
+    {
+      "id": 546,
+      "index": 546,
+      "character": "PADDY",
+      "gender": "Male",
+      "line": "Captain. Oh captain. Stop the ship. For the love of God. We're lost.",
+      "wordCount": 13
+    },
+    {
+      "id": 547,
+      "index": 547,
+      "character": "PADDY",
+      "gender": "Male",
+      "line": "Please stop the ship.",
+      "wordCount": 4
+    },
+    {
+      "id": 548,
+      "index": 548,
+      "character": "PADDY",
+      "gender": "Male",
+      "line": "We're lost. We're all lost, Tommy. We'll never make it back.",
+      "wordCount": 11
+    },
+    {
+      "id": 549,
+      "index": 549,
+      "character": "PADDY",
+      "gender": "Male",
+      "line": "I always loved you. You know that, don't you Tommy? I always loved you. You and your brother. My two boys.",
+      "wordCount": 21
+    },
+    {
+      "id": 550,
+      "index": 550,
+      "character": "CALLEN",
+      "gender": "Male",
+      "line": "Tommy Riordan, coming down the tunnel without his trainer.",
+      "wordCount": 9
+    },
+    {
+      "id": 551,
+      "index": 551,
+      "character": "SHERIDAN",
+      "gender": "Male",
+      "line": "Once again, no walk out music.",
+      "wordCount": 6
+    },
+    {
+      "id": 552,
+      "index": 552,
+      "character": "CALLEN",
+      "gender": "Male",
+      "line": "I wouldn't say no walk out music, Sam. Listen to this.",
+      "wordCount": 11
+    },
+    {
+      "id": 553,
+      "index": 553,
+      "character": "MARINES",
+      "gender": "NA",
+      "line": "From the halls of Montezuma to the shores of Tripoli, we will fight our country's battles in the air, on land, and sea...",
+      "wordCount": 23
+    },
+    {
+      "id": 554,
+      "index": 554,
+      "character": "SHERIDAN",
+      "gender": "Male",
+      "line": "It sounds like VJ Day in Times Square, Bryan. I've never seen anything like it!",
+      "wordCount": 15
+    },
+    {
+      "id": 555,
+      "index": 555,
+      "character": "CALLEN",
+      "gender": "Male",
+      "line": "Tommy acknowledging his comrades for the first time, and climbing into the cage.",
+      "wordCount": 13
+    },
+    {
+      "id": 556,
+      "index": 556,
+      "character": "CALLEN",
+      "gender": "Male",
+      "line": "Mad Dog Grimes has been looking for revenge ever since the day Tommy Riordan walked into his gym in Pittsburgh and turned his life upside down.",
+      "wordCount": 26
+    },
+    {
+      "id": 557,
+      "index": 557,
+      "character": "SHERIDAN",
+      "gender": "Male",
+      "line": "It's been a very long, very miserable few months for Mad Dog to say the least.",
+      "wordCount": 16
+    },
+    {
+      "id": 558,
+      "index": 558,
+      "character": "CALLEN",
+      "gender": "Male",
+      "line": "Mad Dog mocking Tommy with a camouflage motif for his mohawk tonight and the Marines are really letting Mad Dog have it.",
+      "wordCount": 22
+    },
+    {
+      "id": 559,
+      "index": 559,
+      "character": "JOSH ROSENTHAL",
+      "gender": "NA",
+      "line": "Alright gentlemen, you've been given your instructions. I expect a clean fight. Obey my commands at all times. Defend yourselves at all times. Touch gloves, go back, let's do this.",
+      "wordCount": 30
+    },
+    {
+      "id": 560,
+      "index": 560,
+      "character": "MAD DOG",
+      "gender": "NA",
+      "line": "It's not gonna happen again.",
+      "wordCount": 5
+    },
+    {
+      "id": 561,
+      "index": 561,
+      "character": "CALLEN",
+      "gender": "Male",
+      "line": "Mad Dog predicted an early knockout. Said he was gonna knock Tommy out with one punch.",
+      "wordCount": 16
+    },
+    {
+      "id": 562,
+      "index": 562,
+      "character": "SHERIDAN",
+      "gender": "Male",
+      "line": "Let's see what Tommy has to say about that.",
+      "wordCount": 9
+    },
+    {
+      "id": 563,
+      "index": 563,
+      "character": "JOSH ROSENTHAL",
+      "gender": "NA",
+      "line": "Gentlemen, you ready? You ready? Let's go to war!",
+      "wordCount": 9
+    },
+    {
+      "id": 564,
+      "index": 564,
+      "character": "CALLEN",
+      "gender": "Male",
+      "line": "And they are off!",
+      "wordCount": 4
+    },
+    {
+      "id": 565,
+      "index": 565,
+      "character": "CALLEN",
+      "gender": "Male",
+      "line": "Tommy tackles him and he's on top! He's raining blows!",
+      "wordCount": 10
+    },
+    {
+      "id": 566,
+      "index": 566,
+      "character": "SHERIDAN",
+      "gender": "Male",
+      "line": "Someone has to stop this.",
+      "wordCount": 5
+    },
+    {
+      "id": 567,
+      "index": 567,
+      "character": "COLT BOYD",
+      "gender": "Male",
+      "line": "Stop it! Stop the fight!",
+      "wordCount": 5
+    },
+    {
+      "id": 568,
+      "index": 568,
+      "character": "CALLEN",
+      "gender": "Male",
+      "line": "That's the fastest knockout I think I've ever seen.",
+      "wordCount": 9
+    },
+    {
+      "id": 569,
+      "index": 569,
+      "character": "SHERIDAN",
+      "gender": "Male",
+      "line": "Mad Dog Grimes has been poleaxed. He is not moving.",
+      "wordCount": 10
+    },
+    {
+      "id": 570,
+      "index": 570,
+      "character": "CALLEN",
+      "gender": "Male",
+      "line": "I'll tell you what: you do that to someone on the street and they'd lock you up and throw away the key! Break out the yellow tape, Sam. Tommy's walking away from the cage like he's leaving a crime scene.",
+      "wordCount": 40
+    },
+    {
+      "id": 571,
+      "index": 571,
+      "character": "SHERIDAN",
+      "gender": "Male",
+      "line": "Brendan Conlon came into this tournament as a 1000 to 1 underdog, and now here he is in the final four. The crowd's showing their appreciation. They're giving him quite the reception.",
+      "wordCount": 32
+    },
+    {
+      "id": 572,
+      "index": 572,
+      "character": "CALLEN",
+      "gender": "Male",
+      "line": "He's getting a huge reception. I mean, this guy shocked everybody last night.",
+      "wordCount": 13
+    },
+    {
+      "id": 573,
+      "index": 573,
+      "character": "FRANK",
+      "gender": "Male",
+      "line": "You've got a visitor. Second row, 10 o'clock.",
+      "wordCount": 8
+    },
+    {
+      "id": 574,
+      "index": 574,
+      "character": "FRANK",
+      "gender": "Male",
+      "line": "You alright with that?",
+      "wordCount": 4
+    },
+    {
+      "id": 575,
+      "index": 575,
+      "character": "CALLEN",
+      "gender": "Male",
+      "line": "And here comes the great Russian Koba.",
+      "wordCount": 7
+    },
+    {
+      "id": 576,
+      "index": 576,
+      "character": "SHERIDAN",
+      "gender": "Male",
+      "line": "Koba is so intimidating. His reputation is larger than life.",
+      "wordCount": 10
+    },
+    {
+      "id": 577,
+      "index": 577,
+      "character": "FRANK",
+      "gender": "Male",
+      "line": "I want you to look right at him when he comes in here. Don't take your eyes off him.",
+      "wordCount": 19
+    },
+    {
+      "id": 578,
+      "index": 578,
+      "character": "FRANK",
+      "gender": "Male",
+      "line": "I'm proud of you brother. This is your cage.",
+      "wordCount": 9
+    },
+    {
+      "id": 579,
+      "index": 579,
+      "character": "JOSH ROSENTHAL",
+      "gender": "NA",
+      "line": "Alright, gentlemen, you've been given your instructions. I expect a clean fight.",
+      "wordCount": 12
+    },
+    {
+      "id": 580,
+      "index": 580,
+      "character": "JOSH ROSENTHAL",
+      "gender": "NA",
+      "line": "Obey my commands at all times. Defend yourselves at all times. Touch gloves, go back, let's do this.",
+      "wordCount": 18
+    },
+    {
+      "id": 581,
+      "index": 581,
+      "character": "CALLEN",
+      "gender": "Male",
+      "line": "Should I be nervous for Brendan? `Cause I am. I want to stop the fight before it even begins.",
+      "wordCount": 19
+    },
+    {
+      "id": 582,
+      "index": 582,
+      "character": "JOSH ROSENTHAL",
+      "gender": "NA",
+      "line": "Gentlemen, you ready? You ready? Let's go to war!",
+      "wordCount": 9
+    },
+    {
+      "id": 583,
+      "index": 583,
+      "character": "CALLEN",
+      "gender": "Male",
+      "line": "Now the question is, how long can Brendan Conlon stay alive?",
+      "wordCount": 11
+    },
+    {
+      "id": 584,
+      "index": 584,
+      "character": "CALLEN",
+      "gender": "Male",
+      "line": "Koba just pounding on Brendan Conlon! He's pounding on him like a side of beef!",
+      "wordCount": 15
+    },
+    {
+      "id": 585,
+      "index": 585,
+      "character": "CALLEN",
+      "gender": "Male",
+      "line": "Koba's got him in the air. Oh no!",
+      "wordCount": 8
+    },
+    {
+      "id": 586,
+      "index": 586,
+      "character": "SHERIDAN",
+      "gender": "Male",
+      "line": "Frank Campana has to think seriously about stopping this.",
+      "wordCount": 9
+    },
+    {
+      "id": 587,
+      "index": 587,
+      "character": "CALLEN",
+      "gender": "Male",
+      "line": "Seriously, Sam. How much abuse can one man take?",
+      "wordCount": 9
+    },
+    {
+      "id": 588,
+      "index": 588,
+      "character": "JOSH ROSENTHAL",
+      "gender": "NA",
+      "line": "Let's go to war!",
+      "wordCount": 4
+    },
+    {
+      "id": 589,
+      "index": 589,
+      "character": "SHERIDAN",
+      "gender": "Male",
+      "line": "Uh oh, Brendan's going for ride!",
+      "wordCount": 6
+    },
+    {
+      "id": 590,
+      "index": 590,
+      "character": "CALLEN",
+      "gender": "Male",
+      "line": "That one shook the entire building!",
+      "wordCount": 6
+    },
+    {
+      "id": 591,
+      "index": 591,
+      "character": "SHERIDAN",
+      "gender": "Male",
+      "line": "Everyone has gotta be concerned about Brendan Conlon's bravery getting him into trouble here.",
+      "wordCount": 14
+    },
+    {
+      "id": 592,
+      "index": 592,
+      "character": "CALLEN",
+      "gender": "Male",
+      "line": "His bravery can get him killed, Sam. He's got nothing more to prove. He's already lasted two rounds against Koba, which is more than anyone else can say. You wonder what's keeping this guy up.",
+      "wordCount": 35
+    },
+    {
+      "id": 593,
+      "index": 593,
+      "character": "FRANK",
+      "gender": "Male",
+      "line": "Sit down. Breathe. Look at me! Look at me! Why are we here, Brendan? Why are we here? Are we here to win this fight? You tell me, `cause if we're not, I'll throw in the towel right now. We'll get Tess and we will go home. You don't knock him out, you lose the fight. Understand me? You don't knock him out, you don't have a home.",
+      "wordCount": 68
+    },
+    {
+      "id": 594,
+      "index": 594,
+      "character": "JOSH ROSENTHAL",
+      "gender": "NA",
+      "line": "Let's go to war!",
+      "wordCount": 4
+    },
+    {
+      "id": 595,
+      "index": 595,
+      "character": "CALLEN",
+      "gender": "Male",
+      "line": "Conlon somehow answering the bell for round three, but Koba's all over him again.",
+      "wordCount": 14
+    },
+    {
+      "id": 596,
+      "index": 596,
+      "character": "SHERIDAN",
+      "gender": "Male",
+      "line": "Brendan's giving back, Bryan. There are signs of life in Brendan Conlon. He's starting to mix it up!",
+      "wordCount": 18
+    },
+    {
+      "id": 597,
+      "index": 597,
+      "character": "CALLEN",
+      "gender": "Male",
+      "line": "Koba's got him caught in an iron vice, squeezing for all it's worth and trying to choke the teacher out.",
+      "wordCount": 20
+    },
+    {
+      "id": 598,
+      "index": 598,
+      "character": "CALLEN",
+      "gender": "Male",
+      "line": "He just launched Koba! Can you believe this? Conlon just shook off a guillotine!",
+      "wordCount": 14
+    },
+    {
+      "id": 599,
+      "index": 599,
+      "character": "CALLEN",
+      "gender": "Male",
+      "line": "Conlon's staying after him! He's squeezing him! The tables have turned, and the boy scout is squeezing the bear!",
+      "wordCount": 19
+    },
+    {
+      "id": 600,
+      "index": 600,
+      "character": "SHERIDAN",
+      "gender": "Male",
+      "line": "Conlon standing and trading with the Russian! I've never seen this!",
+      "wordCount": 11
+    },
+    {
+      "id": 601,
+      "index": 601,
+      "character": "CALLEN",
+      "gender": "Male",
+      "line": "This is a fight! We've got ourselves a fight!",
+      "wordCount": 9
+    },
+    {
+      "id": 602,
+      "index": 602,
+      "character": "CALLEN",
+      "gender": "Male",
+      "line": "Conlon going for a knee bar! He's got it very deep!",
+      "wordCount": 11
+    },
+    {
+      "id": 603,
+      "index": 603,
+      "character": "SHERIDAN",
+      "gender": "Male",
+      "line": "He's deep on that knee bar!",
+      "wordCount": 6
+    },
+    {
+      "id": 604,
+      "index": 604,
+      "character": "FRANK",
+      "gender": "Male",
+      "line": "Crank it! Crank it!",
+      "wordCount": 4
+    },
+    {
+      "id": 605,
+      "index": 605,
+      "character": "CALLEN",
+      "gender": "Male",
+      "line": "Brendan Conlon wrenching that knee for all it's worth! He's putting everything he has in it, and Koba is screaming in pain!",
+      "wordCount": 22
+    },
+    {
+      "id": 606,
+      "index": 606,
+      "character": "CALLEN",
+      "gender": "Male",
+      "line": "He did it! Brendan Conlon has tapped Koba! I can't believe it! He can't believe it! Frank Campana can't believe it! This whole place can't believe it!",
+      "wordCount": 27
+    },
+    {
+      "id": 607,
+      "index": 607,
+      "character": "CALLEN",
+      "gender": "Male",
+      "line": "That's gotta be the biggest upset in MMA history! Brendan Conlon has tapped the great Koba!",
+      "wordCount": 16
+    },
+    {
+      "id": 608,
+      "index": 608,
+      "character": "CALLEN",
+      "gender": "Male",
+      "line": "Brendan Conlon, the Physics teacher! Brendan Conlon, the civilian! He's done the impossible! He's pulled off a miracle! This place is going crazy `cause we've just seen a miracle!",
+      "wordCount": 29
+    },
+    {
+      "id": 609,
+      "index": 609,
+      "character": "ANNOUNCER",
+      "gender": "NA",
+      "line": "This is CNN breaking news...",
+      "wordCount": 5
+    },
+    {
+      "id": 610,
+      "index": 610,
+      "character": "DON LEMON",
+      "gender": "NA",
+      "line": "A surprising turn in the story of Iraq War hero Tommy Riordan. CNN has learned that Riordan's true identity is that of Marine Staff Sergeant Thomas Conlon, who went AWOL from his unit earlier this year following the friendly fire death of his brother-in-arms, Sergeant Manny Fernandez. Fernandez' wife, Pilar Fernandez, spoke with me in an exclusive interview moments ago.",
+      "wordCount": 60
+    },
+    {
+      "id": 611,
+      "index": 611,
+      "character": "PILAR",
+      "gender": "Female",
+      "line": "Bombs started dropping. They were coming from U.S. planes. Tommy and Manny were waving their flags to let them know they were Americans, but they didn't stop. Everyone died. Everyone except Tommy. You know, my Manny used to say Tommy was the brother he never had.",
+      "wordCount": 46
+    },
+    {
+      "id": 612,
+      "index": 612,
+      "character": "DON LEMON",
+      "gender": "NA",
+      "line": "Conlon, who is fighting in the Mixed Martial Arts mega tournament Sparta, is expected to be taken into custody by military police following tonight's winner take all finale in Atlantic City.",
+      "wordCount": 31
+    },
+    {
+      "id": 613,
+      "index": 613,
+      "character": "DON LEMON",
+      "gender": "NA",
+      "line": "If victorious, he has pledged his five million dollar purse to the widow of his fallen comrade.",
+      "wordCount": 17
+    },
+    {
+      "id": 614,
+      "index": 614,
+      "character": "CALLEN",
+      "gender": "Male",
+      "line": "We've just got some incredible news that I'm having trouble putting into context, but here it is: the two men fighting for the championship tonight, for the five million dollar prize, for the middle weight championship of the world, are brothers.",
+      "wordCount": 41
+    },
+    {
+      "id": 615,
+      "index": 615,
+      "character": "TESS",
+      "gender": "Female",
+      "line": "What are you gonna do?",
+      "wordCount": 5
+    },
+    {
+      "id": 616,
+      "index": 616,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "I'm gonna fight him.",
+      "wordCount": 4
+    },
+    {
+      "id": 617,
+      "index": 617,
+      "character": "FRANK",
+      "gender": "Male",
+      "line": "One more time.",
+      "wordCount": 3
+    },
+    {
+      "id": 618,
+      "index": 618,
+      "character": "JOSH ROSENTHAL",
+      "gender": "NA",
+      "line": "Gentlemen, this is the final. Five rounds. I expect a clean fight. Obey my commands at all times. Defend yourselves at all times. Touch gloves, go back, let's do this.",
+      "wordCount": 30
+    },
+    {
+      "id": 619,
+      "index": 619,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "Where's Pop?",
+      "wordCount": 2
+    },
+    {
+      "id": 620,
+      "index": 620,
+      "character": "JOSH ROSENTHAL",
+      "gender": "NA",
+      "line": "Gentlemen, are you ready? Are you ready? Let's go to war!",
+      "wordCount": 11
+    },
+    {
+      "id": 621,
+      "index": 621,
+      "character": "TESS",
+      "gender": "Female",
+      "line": "What was that!",
+      "wordCount": 3
+    },
+    {
+      "id": 622,
+      "index": 622,
+      "character": "FRANK",
+      "gender": "Male",
+      "line": "C'mon, Josh!",
+      "wordCount": 2
+    },
+    {
+      "id": 623,
+      "index": 623,
+      "character": "FRANK",
+      "gender": "Male",
+      "line": "Sit down. Look at me. Look at me, Brendan! Let it go! Breathe.",
+      "wordCount": 13
+    },
+    {
+      "id": 624,
+      "index": 624,
+      "character": "FRANK",
+      "gender": "Male",
+      "line": "Beethoven. He's coming hard, just like we planned. I want you to angle out, hit, and move.",
+      "wordCount": 17
+    },
+    {
+      "id": 625,
+      "index": 625,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "Angle out, hit, and move.",
+      "wordCount": 5
+    },
+    {
+      "id": 626,
+      "index": 626,
+      "character": "FRANK",
+      "gender": "Male",
+      "line": "Good. Breathe. Relax. He's not your brother, right? He's just a guy who's in the way.",
+      "wordCount": 16
+    },
+    {
+      "id": 627,
+      "index": 627,
+      "character": "FRANK",
+      "gender": "Male",
+      "line": "I'm taking a little more time for the cheap shot! Do your job, Josh!",
+      "wordCount": 14
+    },
+    {
+      "id": 628,
+      "index": 628,
+      "character": "CALLEN",
+      "gender": "Male",
+      "line": "Here we go, Mom! Time to lock up your china, the boys are at it again!",
+      "wordCount": 16
+    },
+    {
+      "id": 629,
+      "index": 629,
+      "character": "FRANK",
+      "gender": "Male",
+      "line": "Switch! Switch!",
+      "wordCount": 2
+    },
+    {
+      "id": 630,
+      "index": 630,
+      "character": "SHERIDAN",
+      "gender": "Male",
+      "line": "Oh my God, that's a deep omoplata!",
+      "wordCount": 7
+    },
+    {
+      "id": 631,
+      "index": 631,
+      "character": "CALLEN",
+      "gender": "Male",
+      "line": "He's doing it again! Conlon's doing it again! This is going to be over!",
+      "wordCount": 14
+    },
+    {
+      "id": 632,
+      "index": 632,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "Tap, Tommy!",
+      "wordCount": 2
+    },
+    {
+      "id": 633,
+      "index": 633,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "Tap!",
+      "wordCount": 1
+    },
+    {
+      "id": 634,
+      "index": 634,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "I popped his shoulder.",
+      "wordCount": 4
+    },
+    {
+      "id": 635,
+      "index": 635,
+      "character": "FRANK",
+      "gender": "Male",
+      "line": "Relax, breathe.",
+      "wordCount": 2
+    },
+    {
+      "id": 636,
+      "index": 636,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "I heard it tear.",
+      "wordCount": 4
+    },
+    {
+      "id": 637,
+      "index": 637,
+      "character": "FRANK",
+      "gender": "Male",
+      "line": "You popped his shoulder? Good. I want you to pop his other shoulder.",
+      "wordCount": 13
+    },
+    {
+      "id": 638,
+      "index": 638,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "Josh!",
+      "wordCount": 1
+    },
+    {
+      "id": 639,
+      "index": 639,
+      "character": "FRANK",
+      "gender": "Male",
+      "line": "Hey! Hey! No Josh! Look at me! You got two rounds left! You need both rounds! Go in there, kick him in the head, take him down, and finish him!",
+      "wordCount": 30
+    },
+    {
+      "id": 640,
+      "index": 640,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "Tommy! What are you doing?",
+      "wordCount": 5
+    },
+    {
+      "id": 641,
+      "index": 641,
+      "character": "TOMMY",
+      "gender": "Male",
+      "line": "Shut up! C'mon.",
+      "wordCount": 3
+    },
+    {
+      "id": 642,
+      "index": 642,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "What are you that crazy?",
+      "wordCount": 5
+    },
+    {
+      "id": 643,
+      "index": 643,
+      "character": "JOSH ROSENTHAL",
+      "gender": "NA",
+      "line": "Let's go to war!",
+      "wordCount": 4
+    },
+    {
+      "id": 644,
+      "index": 644,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "What are you doing? It's over!",
+      "wordCount": 6
+    },
+    {
+      "id": 645,
+      "index": 645,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "It's over, Tommy. C'mon. We don't have to do this.",
+      "wordCount": 10
+    },
+    {
+      "id": 646,
+      "index": 646,
+      "character": "FRANK",
+      "gender": "Male",
+      "line": "Finish him! You finish him!",
+      "wordCount": 5
+    },
+    {
+      "id": 647,
+      "index": 647,
+      "character": "JOSH ROSENTHAL",
+      "gender": "NA",
+      "line": "Break! Break!",
+      "wordCount": 2
+    },
+    {
+      "id": 648,
+      "index": 648,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "I'm sorry, Tommy! I'm sorry!",
+      "wordCount": 5
+    },
+    {
+      "id": 649,
+      "index": 649,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "Tap, Tommy! Tap!",
+      "wordCount": 3
+    },
+    {
+      "id": 650,
+      "index": 650,
+      "character": "BRENDAN",
+      "gender": "Male",
+      "line": "I love you, Tommy! I love you!",
+      "wordCount": 7
+    },
+    {
+      "id": 651,
+      "index": 651,
+      "character": "",
+      "gender": "Male"
+    }
+  ]
+}

@@ -1,0 +1,6596 @@
+{
+  "fileName": "Indiana-Jones-and-the-Last-Crusade_dialogue.txt",
+  "title": "Indiana Jones and the Last Crusade",
+  "data": [
+    {
+      "id": 0,
+      "index": 0,
+      "character": "OFFICER",
+      "gender": "NA",
+      "line": "Dis-mount!",
+      "wordCount": 1
+    },
+    {
+      "id": 1,
+      "index": 1,
+      "character": "FIRST SCOUT",
+      "gender": "NA",
+      "line": "Herman's horsesick!",
+      "wordCount": 2
+    },
+    {
+      "id": 2,
+      "index": 2,
+      "character": "SCOUTMASTER",
+      "gender": "NA",
+      "line": "Chaps, don't anybody wander off. Some of the passageways in here can run for miles.",
+      "wordCount": 15
+    },
+    {
+      "id": 3,
+      "index": 3,
+      "character": "HERMAN",
+      "gender": "Male",
+      "line": "I don't think this is such a good idea.",
+      "wordCount": 9
+    },
+    {
+      "id": 4,
+      "index": 4,
+      "character": "HERMAN",
+      "gender": "Male",
+      "line": "What is it?",
+      "wordCount": 3
+    },
+    {
+      "id": 5,
+      "index": 5,
+      "character": "FEDORA",
+      "gender": "Male",
+      "line": "Alfred, did you get anything yet?",
+      "wordCount": 6
+    },
+    {
+      "id": 6,
+      "index": 6,
+      "character": "MAN",
+      "gender": "Male",
+      "line": "Nothing. Dig in.",
+      "wordCount": 3
+    },
+    {
+      "id": 7,
+      "index": 7,
+      "character": "ROSCOE",
+      "gender": "Male",
+      "line": "Hey, I've got something!",
+      "wordCount": 4
+    },
+    {
+      "id": 8,
+      "index": 8,
+      "character": "ROSCOE",
+      "gender": "Male",
+      "line": "I got something, Garth!",
+      "wordCount": 4
+    },
+    {
+      "id": 9,
+      "index": 9,
+      "character": "ROSCOE",
+      "gender": "Male",
+      "line": "I got something... I got something right here.",
+      "wordCount": 8
+    },
+    {
+      "id": 10,
+      "index": 10,
+      "character": "ROSCOE",
+      "gender": "Male",
+      "line": "Oh, look at thatl We're richl We're rich!",
+      "wordCount": 8
+    },
+    {
+      "id": 11,
+      "index": 11,
+      "character": "HALFBREED",
+      "gender": "NA",
+      "line": "Shut up. Shut up.",
+      "wordCount": 4
+    },
+    {
+      "id": 12,
+      "index": 12,
+      "character": "ROSCOE",
+      "gender": "Male",
+      "line": "Well, we're rich, ain't we?l",
+      "wordCount": 5
+    },
+    {
+      "id": 13,
+      "index": 13,
+      "character": "HERMAN",
+      "gender": "Male",
+      "line": "Indy? Indy? What are they doing? Indiana? Indiana?",
+      "wordCount": 8
+    },
+    {
+      "id": 14,
+      "index": 14,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Shhhl",
+      "wordCount": 1
+    },
+    {
+      "id": 15,
+      "index": 15,
+      "character": "HALFBREED",
+      "gender": "NA",
+      "line": "Hey, we got to find more stuff to bring back.",
+      "wordCount": 10
+    },
+    {
+      "id": 16,
+      "index": 16,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "It's the Cross of Coronadol Cortes gave it to him in 15201",
+      "wordCount": 12
+    },
+    {
+      "id": 17,
+      "index": 17,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "That Cross is an important artifact. It belongs in a museum.",
+      "wordCount": 11
+    },
+    {
+      "id": 18,
+      "index": 18,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Run back and find the others. Tell Mister Havelock that there are men looting in the caves.",
+      "wordCount": 17
+    },
+    {
+      "id": 19,
+      "index": 19,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Have him bring the sheriff.",
+      "wordCount": 5
+    },
+    {
+      "id": 20,
+      "index": 20,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "It's only a snake.",
+      "wordCount": 4
+    },
+    {
+      "id": 21,
+      "index": 21,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Did you hear what I said?",
+      "wordCount": 6
+    },
+    {
+      "id": 22,
+      "index": 22,
+      "character": "HERMAN",
+      "gender": "Male",
+      "line": "Right. Run back. Mister Havelock. The Sheriff. What, what are you gonna do?",
+      "wordCount": 13
+    },
+    {
+      "id": 23,
+      "index": 23,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "I don't know... I'll think of something.",
+      "wordCount": 7
+    },
+    {
+      "id": 24,
+      "index": 24,
+      "character": "FEDORA",
+      "gender": "Male",
+      "line": "Dig with your hands.",
+      "wordCount": 4
+    },
+    {
+      "id": 25,
+      "index": 25,
+      "character": "ROSCOE",
+      "gender": "Male",
+      "line": "He's got our thing!",
+      "wordCount": 4
+    },
+    {
+      "id": 26,
+      "index": 26,
+      "character": "HALFBREED",
+      "gender": "NA",
+      "line": "Get 'im!",
+      "wordCount": 2
+    },
+    {
+      "id": 27,
+      "index": 27,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Mister Havelock! Anybody Everybody's lost but me!",
+      "wordCount": 7
+    },
+    {
+      "id": 28,
+      "index": 28,
+      "character": "FEDORA",
+      "gender": "Male",
+      "line": "There he isl",
+      "wordCount": 3
+    },
+    {
+      "id": 29,
+      "index": 29,
+      "character": "MEN",
+      "gender": "NA",
+      "line": "Let's go! Let's get him! Let's go!",
+      "wordCount": 7
+    },
+    {
+      "id": 30,
+      "index": 30,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Hyahl Hyah!",
+      "wordCount": 2
+    },
+    {
+      "id": 31,
+      "index": 31,
+      "character": "ROSCOE",
+      "gender": "Male",
+      "line": "Hey! Come back here!",
+      "wordCount": 4
+    },
+    {
+      "id": 32,
+      "index": 32,
+      "character": "PANAMA HAT",
+      "gender": "Male",
+      "line": "Come on. Get him!",
+      "wordCount": 4
+    },
+    {
+      "id": 33,
+      "index": 33,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Oh...",
+      "wordCount": 1
+    },
+    {
+      "id": 34,
+      "index": 34,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Oh... Oh...",
+      "wordCount": 2
+    },
+    {
+      "id": 35,
+      "index": 35,
+      "character": "ROUGH RIDER",
+      "gender": "NA",
+      "line": "Here, let me.",
+      "wordCount": 3
+    },
+    {
+      "id": 36,
+      "index": 36,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Holy smokes!",
+      "wordCount": 2
+    },
+    {
+      "id": 37,
+      "index": 37,
+      "character": "FEDORA",
+      "gender": "Male",
+      "line": "Come on, kid. There's no way out of this.",
+      "wordCount": 9
+    },
+    {
+      "id": 38,
+      "index": 38,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Ohhh!",
+      "wordCount": 1
+    },
+    {
+      "id": 39,
+      "index": 39,
+      "character": "FEDORA",
+      "gender": "Male",
+      "line": "Toss up the whip.",
+      "wordCount": 4
+    },
+    {
+      "id": 40,
+      "index": 40,
+      "character": "FEDORA",
+      "gender": "Male",
+      "line": "You've got heart, kid. But that belongs to me.",
+      "wordCount": 9
+    },
+    {
+      "id": 41,
+      "index": 41,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "It belongs to Coronado.",
+      "wordCount": 4
+    },
+    {
+      "id": 42,
+      "index": 42,
+      "character": "FEDORA",
+      "gender": "Male",
+      "line": "Coronado is dead. And so are all his grandchildren.",
+      "wordCount": 9
+    },
+    {
+      "id": 43,
+      "index": 43,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "This should be in a museum.",
+      "wordCount": 6
+    },
+    {
+      "id": 44,
+      "index": 44,
+      "character": "ROSCOE",
+      "gender": "Male",
+      "line": "Now give me thatl",
+      "wordCount": 4
+    },
+    {
+      "id": 45,
+      "index": 45,
+      "character": "FEDORA",
+      "gender": "Male",
+      "line": "Don't let him get awayl",
+      "wordCount": 5
+    },
+    {
+      "id": 46,
+      "index": 46,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Magic?",
+      "wordCount": 1
+    },
+    {
+      "id": 47,
+      "index": 47,
+      "character": "FEDORA",
+      "gender": "Male",
+      "line": "Hold it. Make sure he doesn't double back.",
+      "wordCount": 8
+    },
+    {
+      "id": 48,
+      "index": 48,
+      "character": "FEDORA",
+      "gender": "Male",
+      "line": "Okay, kid. out of the box. Now.",
+      "wordCount": 7
+    },
+    {
+      "id": 49,
+      "index": 49,
+      "character": "FEDORA",
+      "gender": "Male",
+      "line": "Damn.",
+      "wordCount": 1
+    },
+    {
+      "id": 50,
+      "index": 50,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Dad!",
+      "wordCount": 1
+    },
+    {
+      "id": 51,
+      "index": 51,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Dad!",
+      "wordCount": 1
+    },
+    {
+      "id": 52,
+      "index": 52,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Dad!",
+      "wordCount": 1
+    },
+    {
+      "id": 53,
+      "index": 53,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Dad!",
+      "wordCount": 1
+    },
+    {
+      "id": 54,
+      "index": 54,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "Out!",
+      "wordCount": 1
+    },
+    {
+      "id": 55,
+      "index": 55,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "It's important!",
+      "wordCount": 2
+    },
+    {
+      "id": 56,
+      "index": 56,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "Then waitcount to twenty.",
+      "wordCount": 4
+    },
+    {
+      "id": 57,
+      "index": 57,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "No, Dad. You listen to me",
+      "wordCount": 6
+    },
+    {
+      "id": 58,
+      "index": 58,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "Junior!",
+      "wordCount": 1
+    },
+    {
+      "id": 59,
+      "index": 59,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "One, two, three, four...",
+      "wordCount": 4
+    },
+    {
+      "id": 60,
+      "index": 60,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "In Greek.",
+      "wordCount": 2
+    },
+    {
+      "id": 61,
+      "index": 61,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "One... two... three... four...",
+      "wordCount": 4
+    },
+    {
+      "id": 62,
+      "index": 62,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "May he who illuminated this... illuminate me...",
+      "wordCount": 7
+    },
+    {
+      "id": 63,
+      "index": 63,
+      "character": "HERMAN",
+      "gender": "Male",
+      "line": "I brought the Sheriff.",
+      "wordCount": 4
+    },
+    {
+      "id": 64,
+      "index": 64,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Just the man I want to see! Now, there were five or six of them.",
+      "wordCount": 15
+    },
+    {
+      "id": 65,
+      "index": 65,
+      "character": "SHERIFF",
+      "gender": "NA",
+      "line": "All right, son.",
+      "wordCount": 3
+    },
+    {
+      "id": 66,
+      "index": 66,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "... they came after... me...",
+      "wordCount": 5
+    },
+    {
+      "id": 67,
+      "index": 67,
+      "character": "SHERIFF",
+      "gender": "NA",
+      "line": "You still got it?",
+      "wordCount": 4
+    },
+    {
+      "id": 68,
+      "index": 68,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Well, yes, sir. It's right here!",
+      "wordCount": 6
+    },
+    {
+      "id": 69,
+      "index": 69,
+      "character": "SHERIFF",
+      "gender": "NA",
+      "line": "I'm glad to see that... because the rightful owner of this Cross won't press charges, if you give it back.",
+      "wordCount": 20
+    },
+    {
+      "id": 70,
+      "index": 70,
+      "character": "SHERIFF",
+      "gender": "NA",
+      "line": "He's got witnesses, five or six of them.",
+      "wordCount": 8
+    },
+    {
+      "id": 71,
+      "index": 71,
+      "character": "ROSCOE",
+      "gender": "Male",
+      "line": "Yahoo!",
+      "wordCount": 1
+    },
+    {
+      "id": 72,
+      "index": 72,
+      "character": "SHERIFF",
+      "gender": "NA",
+      "line": "Good day.",
+      "wordCount": 2
+    },
+    {
+      "id": 73,
+      "index": 73,
+      "character": "FEDORA",
+      "gender": "Male",
+      "line": "You lost today, kid, but that doesn't mean you have to like it.",
+      "wordCount": 13
+    },
+    {
+      "id": 74,
+      "index": 74,
+      "character": "PANAMA HAT",
+      "gender": "Male",
+      "line": "Small world, Doctor Jones.",
+      "wordCount": 4
+    },
+    {
+      "id": 75,
+      "index": 75,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Too small for two of us.",
+      "wordCount": 6
+    },
+    {
+      "id": 76,
+      "index": 76,
+      "character": "PANAMA HAT",
+      "gender": "Male",
+      "line": "This is the second time I've had to reclaim my property from you",
+      "wordCount": 13
+    },
+    {
+      "id": 77,
+      "index": 77,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "That belongs in a museum",
+      "wordCount": 5
+    },
+    {
+      "id": 78,
+      "index": 78,
+      "character": "PANAMA HAT",
+      "gender": "Male",
+      "line": "So do you. Throw him over the side.",
+      "wordCount": 8
+    },
+    {
+      "id": 79,
+      "index": 79,
+      "character": "PANAMA HAT",
+      "gender": "Male",
+      "line": "Grab him, he's getting away! Grab him!",
+      "wordCount": 7
+    },
+    {
+      "id": 80,
+      "index": 80,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "... the search for fact. Not truth. If it's truth you're interested in, Doctor Tyree's Philosophy class is right down the hall.",
+      "wordCount": 22
+    },
+    {
+      "id": 81,
+      "index": 81,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "So forget any ideas you've got about lost cities, exotic travel, and digging up the world. Eve do not follow maps to buried treasure and \"X\" never, ever, marks the spot.",
+      "wordCount": 31
+    },
+    {
+      "id": 82,
+      "index": 82,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Seventy percent of all archaeology is done in the library. Research. Reading.",
+      "wordCount": 12
+    },
+    {
+      "id": 83,
+      "index": 83,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "We cannot afford to take mythology at face value.",
+      "wordCount": 9
+    },
+    {
+      "id": 84,
+      "index": 84,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Next week: \"Egyptology.\" Starting with the excavation of Naukratis by Blinders Petrie in 1885. I will be in my office if anybody's got any problems for the next hour and a half.",
+      "wordCount": 32
+    },
+    {
+      "id": 85,
+      "index": 85,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Marcus! I did it!",
+      "wordCount": 4
+    },
+    {
+      "id": 86,
+      "index": 86,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "You've got itl",
+      "wordCount": 3
+    },
+    {
+      "id": 87,
+      "index": 87,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "You know how long I've been looking for that?!",
+      "wordCount": 9
+    },
+    {
+      "id": 88,
+      "index": 88,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "All your life.",
+      "wordCount": 3
+    },
+    {
+      "id": 89,
+      "index": 89,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "All my life!",
+      "wordCount": 3
+    },
+    {
+      "id": 90,
+      "index": 90,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Well done, Indy. Very well done, indeed This will find a place of honor in our Spanish collection.",
+      "wordCount": 18
+    },
+    {
+      "id": 91,
+      "index": 91,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "We can discuss my honorarium over dinner and champagne tonight.",
+      "wordCount": 10
+    },
+    {
+      "id": 92,
+      "index": 92,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Your treat.",
+      "wordCount": 2
+    },
+    {
+      "id": 93,
+      "index": 93,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Yes. My treat.",
+      "wordCount": 3
+    },
+    {
+      "id": 94,
+      "index": 94,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Shush! Shush! Shushl",
+      "wordCount": 3
+    },
+    {
+      "id": 95,
+      "index": 95,
+      "character": "IRENE",
+      "gender": "NA",
+      "line": "Doctor Jones! I'm so glad you're back! Your mail is on your desk. Here are your phone messages.",
+      "wordCount": 18
+    },
+    {
+      "id": 96,
+      "index": 96,
+      "character": "MALE STUDENT",
+      "gender": "NA",
+      "line": "Doctor Jones, you promised... Doctor Jones",
+      "wordCount": 6
+    },
+    {
+      "id": 97,
+      "index": 97,
+      "character": "IRENE",
+      "gender": "NA",
+      "line": "This is your appointment schedule. And these term papers still haven't been graded.",
+      "wordCount": 13
+    },
+    {
+      "id": 98,
+      "index": 98,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Okay. Irene, put everyone's name on a list, in the order they arrived, and I'll see each and every one of them in turn.",
+      "wordCount": 24
+    },
+    {
+      "id": 99,
+      "index": 99,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "\"Venice, Italy.\"",
+      "wordCount": 2
+    },
+    {
+      "id": 100,
+      "index": 100,
+      "character": "MAN",
+      "gender": "Male",
+      "line": "Doctor Jonesl",
+      "wordCount": 2
+    },
+    {
+      "id": 101,
+      "index": 101,
+      "character": "MAN",
+      "gender": "Male",
+      "line": "Doctor Jones?",
+      "wordCount": 2
+    },
+    {
+      "id": 102,
+      "index": 102,
+      "character": "DONOVAN",
+      "gender": "Male",
+      "line": "I trust your trip down was comfortable, Doctor Jones. My men didn't alarm you, I hope.",
+      "wordCount": 16
+    },
+    {
+      "id": 103,
+      "index": 103,
+      "character": "DONOVAN",
+      "gender": "Male",
+      "line": "My name is Donovan. Walter Donovan.",
+      "wordCount": 6
+    },
+    {
+      "id": 104,
+      "index": 104,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "I know who you are Mr. Donovan. Your contributions to the museum over the years have been extremely generous. Some of the pieces in your collection here are very impressive.",
+      "wordCount": 30
+    },
+    {
+      "id": 105,
+      "index": 105,
+      "character": "DONOVAN",
+      "gender": "Male",
+      "line": "Well, like yourself, Doctor Jones, I have a passion for antiquities. Have a look over here. This might interest you.",
+      "wordCount": 20
+    },
+    {
+      "id": 106,
+      "index": 106,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Well, it's sandstone. Christian symbol. Early Latin text. Mid- Twelfth Century, I should think.",
+      "wordCount": 14
+    },
+    {
+      "id": 107,
+      "index": 107,
+      "character": "DONOVAN",
+      "gender": "Male",
+      "line": "That was our assessment as well.",
+      "wordCount": 6
+    },
+    {
+      "id": 108,
+      "index": 108,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Where did this come from?",
+      "wordCount": 5
+    },
+    {
+      "id": 109,
+      "index": 109,
+      "character": "DONOVAN",
+      "gender": "Male",
+      "line": "My engineers unearthed it in the mountain region north of Ankara while excavating for copper. Can you translate the inscription?",
+      "wordCount": 20
+    },
+    {
+      "id": 110,
+      "index": 110,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "\"... who drinks the water I shall give him, says the Lord, will have a spring inside him welling up for eternal life. Let them bring me to your holy mountain in the place where you dwell.",
+      "wordCount": 37
+    },
+    {
+      "id": 111,
+      "index": 111,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Across the desert and through the mountain to the Canyon of the Crescent Moon, to the Temple where the cup that\"",
+      "wordCount": 21
+    },
+    {
+      "id": 112,
+      "index": 112,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "\"Where the cup that holds the blood of Jesus Christ resides forever. \"",
+      "wordCount": 13
+    },
+    {
+      "id": 113,
+      "index": 113,
+      "character": "DONOVAN",
+      "gender": "Male",
+      "line": "The Holy Grail, Doctor Jones. The chalice used by Christ during the Last Supper. The cup that caught His blood at the Crucifixion and was entrusted to Joseph of Arimathaea.",
+      "wordCount": 30
+    },
+    {
+      "id": 114,
+      "index": 114,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "The Arthur Legend. I've heard this bedtime story before.",
+      "wordCount": 9
+    },
+    {
+      "id": 115,
+      "index": 115,
+      "character": "DONOVAN",
+      "gender": "Male",
+      "line": "Eternal life, Doctor Jones! The gift of youth to whoever drinks from the Grail. Oh, now that's a bedtime story I'd like to wake up to!",
+      "wordCount": 26
+    },
+    {
+      "id": 116,
+      "index": 116,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "An old man's dream.",
+      "wordCount": 4
+    },
+    {
+      "id": 117,
+      "index": 117,
+      "character": "DONOVAN",
+      "gender": "Male",
+      "line": "Every man's dream. Including your father's, I believe.",
+      "wordCount": 8
+    },
+    {
+      "id": 118,
+      "index": 118,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Grail lore is his hobby. He's a teacher of Medieval Literature. The one the students hope they don't get.",
+      "wordCount": 19
+    },
+    {
+      "id": 119,
+      "index": 119,
+      "character": "MRS. DONOVAN",
+      "gender": "Female",
+      "line": "Walter, you're neglecting our guests.",
+      "wordCount": 5
+    },
+    {
+      "id": 120,
+      "index": 120,
+      "character": "DONOVAN",
+      "gender": "Male",
+      "line": "Be along in a moment, dear.",
+      "wordCount": 6
+    },
+    {
+      "id": 121,
+      "index": 121,
+      "character": "DONOVAN",
+      "gender": "Male",
+      "line": "Hard to resist, isn't it? The Holy Grail's final resting place described in detail!",
+      "wordCount": 14
+    },
+    {
+      "id": 122,
+      "index": 122,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "What good is it? This Grail Tablet speaks of deserts and mountains and canyons. Pretty vague. Where do you start looking? Maybe if the Tablet were intact, you'd have something to go on. But the entire top portion is missing.",
+      "wordCount": 40
+    },
+    {
+      "id": 123,
+      "index": 123,
+      "character": "DONOVAN",
+      "gender": "Male",
+      "line": "Just the same, an attempt to recover the Grail is currently underway.",
+      "wordCount": 12
+    },
+    {
+      "id": 124,
+      "index": 124,
+      "character": "DONOVAN",
+      "gender": "Male",
+      "line": "Let me tell you another \"bedtime story, \" Doctor Jones. After the Grail was entrusted to Joseph of Arimathaea, it disappeared and was lost for a thousand years before it was found again by three Knights of the First Crusade. Three brothers, to be exact.",
+      "wordCount": 45
+    },
+    {
+      "id": 125,
+      "index": 125,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "I've heard this one as well. Two of these brothers walked out of the desert one hundred and fifty years after having found the Grail and began the long journey back to France. But only one of them made it. And before dying of extreme old age, he supposedly imparted his tale to ato a Franciscan friar, I think.",
+      "wordCount": 59
+    },
+    {
+      "id": 126,
+      "index": 126,
+      "character": "DONOVAN",
+      "gender": "Male",
+      "line": "Not \"supposedly,\" Doctor Jones.",
+      "wordCount": 4
+    },
+    {
+      "id": 127,
+      "index": 127,
+      "character": "DONOVAN",
+      "gender": "Male",
+      "line": "This is the manuscript in which the friar chronicled the Knight's story... it doesn't reveal on location of the Grail, I'm afraid... but the Knight promised that two \"markers\" that had been left behind would. This Tablet is one of those \"markers.\" It proves the Knight's story is true. But as you pointed outit's incomplete. Now, the second \"marker\" is entombed with the Knight's dead brother. Our project leader believes that tomb to be located within the city of Venice, Italy. As you can now see, Doctor Jones, we're about to complete a great quest that began almost two thousand years ago. We're only one step away.",
+      "wordCount": 107
+    },
+    {
+      "id": 128,
+      "index": 128,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "That's usually when the ground falls out from underneath your feet.",
+      "wordCount": 11
+    },
+    {
+      "id": 129,
+      "index": 129,
+      "character": "DONOVAN",
+      "gender": "Male",
+      "line": "You could be more right than you know.",
+      "wordCount": 8
+    },
+    {
+      "id": 130,
+      "index": 130,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Yes?",
+      "wordCount": 1
+    },
+    {
+      "id": 131,
+      "index": 131,
+      "character": "DONOVAN",
+      "gender": "Male",
+      "line": "We've hit a snag. our project leader has vanished. Along with all his research. Uh, we received a cable from his colleague, Doctor Schneider, who has no idea of his whereabouts or what's become of him. I want you to pick up the trail where he left off. Find the man and you will find the Grail.",
+      "wordCount": 57
+    },
+    {
+      "id": 132,
+      "index": 132,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "You've got the wrong Jones, Mister Donovan. Why don't you try my father?",
+      "wordCount": 13
+    },
+    {
+      "id": 133,
+      "index": 133,
+      "character": "DONOVAN",
+      "gender": "Male",
+      "line": "We already have. Your father is the man who's disappeared.",
+      "wordCount": 10
+    },
+    {
+      "id": 134,
+      "index": 134,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Your father and I have been friends since time began. I've watched you grow up, Indy. And I've watched the two of you grow apart. I've never seen you this concerned about him before.",
+      "wordCount": 34
+    },
+    {
+      "id": 135,
+      "index": 135,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Dad? He's an academic A bookworm. He's not a field mans",
+      "wordCount": 11
+    },
+    {
+      "id": 136,
+      "index": 136,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Dad? Dad?",
+      "wordCount": 2
+    },
+    {
+      "id": 137,
+      "index": 137,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Dear God.",
+      "wordCount": 2
+    },
+    {
+      "id": 138,
+      "index": 138,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "What has the old fool got himself into now?",
+      "wordCount": 9
+    },
+    {
+      "id": 139,
+      "index": 139,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "I don't know. But whatever it is, he's in over his head!",
+      "wordCount": 12
+    },
+    {
+      "id": 140,
+      "index": 140,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Dad?",
+      "wordCount": 1
+    },
+    {
+      "id": 141,
+      "index": 141,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "It's today's mail. And it's been opened.",
+      "wordCount": 7
+    },
+    {
+      "id": 142,
+      "index": 142,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Mail! That's it, Marcus!",
+      "wordCount": 4
+    },
+    {
+      "id": 143,
+      "index": 143,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Venice, Italy!",
+      "wordCount": 2
+    },
+    {
+      "id": 144,
+      "index": 144,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "What is it?",
+      "wordCount": 3
+    },
+    {
+      "id": 145,
+      "index": 145,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "It's Dad's Grail Diary. Every clue he ever followed. Every discovery he made. A complete record of his search for the Holy Grail. This is his whole life. Why would he have sent this to me?",
+      "wordCount": 36
+    },
+    {
+      "id": 146,
+      "index": 146,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "I don't know. But someone must want it pretty badly.",
+      "wordCount": 10
+    },
+    {
+      "id": 147,
+      "index": 147,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Do you believe, Marcus?",
+      "wordCount": 4
+    },
+    {
+      "id": 148,
+      "index": 148,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Do you believe the Grail actually exists?",
+      "wordCount": 7
+    },
+    {
+      "id": 149,
+      "index": 149,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "The search for the Cup of Christ is the search for the divine in all of us.",
+      "wordCount": 17
+    },
+    {
+      "id": 150,
+      "index": 150,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "But if you want facts, Indy, I have none to give you. At my age, I'm prepared to take a few things on faith.",
+      "wordCount": 24
+    },
+    {
+      "id": 151,
+      "index": 151,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Call Donovan, Marcus. Tell him I'll take that ticket to Venice now.",
+      "wordCount": 12
+    },
+    {
+      "id": 152,
+      "index": 152,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "I'll tell him we'll take two.",
+      "wordCount": 6
+    },
+    {
+      "id": 153,
+      "index": 153,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Tell me, what's going to happen when we get to Venice?",
+      "wordCount": 11
+    },
+    {
+      "id": 154,
+      "index": 154,
+      "character": "DONOVAN",
+      "gender": "Male",
+      "line": "Don't worry. Doctor Schneider will be there to meet you.",
+      "wordCount": 10
+    },
+    {
+      "id": 155,
+      "index": 155,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Schneider?",
+      "wordCount": 1
+    },
+    {
+      "id": 156,
+      "index": 156,
+      "character": "DONOVAN",
+      "gender": "Male",
+      "line": "I maintain an apartment in Venice, at your disposal.",
+      "wordCount": 9
+    },
+    {
+      "id": 157,
+      "index": 157,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Oh, well. That's good. Thank you.",
+      "wordCount": 6
+    },
+    {
+      "id": 158,
+      "index": 158,
+      "character": "DONOVAN",
+      "gender": "Male",
+      "line": "Doctor Jones. Good luck. Be very careful. Don't trust anvbody.",
+      "wordCount": 10
+    },
+    {
+      "id": 159,
+      "index": 159,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Ah, Venice...",
+      "wordCount": 2
+    },
+    {
+      "id": 160,
+      "index": 160,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Yes. Uh, how will we recognize this Doctor Schneider when we see him?",
+      "wordCount": 13
+    },
+    {
+      "id": 161,
+      "index": 161,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "I don't know. Maybe he'll know us.",
+      "wordCount": 7
+    },
+    {
+      "id": 162,
+      "index": 162,
+      "character": "ELSA",
+      "gender": "Female",
+      "line": "Doctor Jones?",
+      "wordCount": 2
+    },
+    {
+      "id": 163,
+      "index": 163,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Yes?",
+      "wordCount": 1
+    },
+    {
+      "id": 164,
+      "index": 164,
+      "character": "ELSA",
+      "gender": "Female",
+      "line": "I knew it was you",
+      "wordCount": 5
+    },
+    {
+      "id": 165,
+      "index": 165,
+      "character": "ELSA",
+      "gender": "Female",
+      "line": "you have your father's eyes.",
+      "wordCount": 5
+    },
+    {
+      "id": 166,
+      "index": 166,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "And my mother's ears. But the rest belongs to you.",
+      "wordCount": 10
+    },
+    {
+      "id": 167,
+      "index": 167,
+      "character": "ELSA",
+      "gender": "Female",
+      "line": "Looks like the best parts have already been spoken for.",
+      "wordCount": 10
+    },
+    {
+      "id": 168,
+      "index": 168,
+      "character": "ELSA",
+      "gender": "Female",
+      "line": "Marcus Brody?",
+      "wordCount": 2
+    },
+    {
+      "id": 169,
+      "index": 169,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "That's right.",
+      "wordCount": 2
+    },
+    {
+      "id": 170,
+      "index": 170,
+      "character": "ELSA",
+      "gender": "Female",
+      "line": "Doctor Elsa Schneider.",
+      "wordCount": 3
+    },
+    {
+      "id": 171,
+      "index": 171,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Uh... how do you do?",
+      "wordCount": 5
+    },
+    {
+      "id": 172,
+      "index": 172,
+      "character": "ELSA",
+      "gender": "Female",
+      "line": "The last time I saw your father we were in the library. He was very close to tracking down the Knight's Tomb. I've never seen him so excited. He was as giddy as a schoolboy.",
+      "wordCount": 35
+    },
+    {
+      "id": 173,
+      "index": 173,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Who? Attila the Professor? He was never giddy, even when he was a schoolboy!",
+      "wordCount": 14
+    },
+    {
+      "id": 174,
+      "index": 174,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Frauleinwill you permit me?",
+      "wordCount": 4
+    },
+    {
+      "id": 175,
+      "index": 175,
+      "character": "ELSA",
+      "gender": "Female",
+      "line": "I usually don't.",
+      "wordCount": 3
+    },
+    {
+      "id": 176,
+      "index": 176,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "I usually don't either.",
+      "wordCount": 4
+    },
+    {
+      "id": 177,
+      "index": 177,
+      "character": "ELSA",
+      "gender": "Female",
+      "line": "In that case, I permit you.",
+      "wordCount": 6
+    },
+    {
+      "id": 178,
+      "index": 178,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "It would make me very happy.",
+      "wordCount": 6
+    },
+    {
+      "id": 179,
+      "index": 179,
+      "character": "ELSA",
+      "gender": "Female",
+      "line": "But I'm already sadby tomorrow it will have faded.",
+      "wordCount": 9
+    },
+    {
+      "id": 180,
+      "index": 180,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Tomorrow I'll steal you another.",
+      "wordCount": 5
+    },
+    {
+      "id": 181,
+      "index": 181,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "I hate to interrupt youbut the reason we're here",
+      "wordCount": 9
+    },
+    {
+      "id": 182,
+      "index": 182,
+      "character": "ELSA",
+      "gender": "Female",
+      "line": "Yes. I have something to show you.",
+      "wordCount": 7
+    },
+    {
+      "id": 183,
+      "index": 183,
+      "character": "ELSA",
+      "gender": "Female",
+      "line": "I left your father working in the library. He sent me to the map section to fetch an ancient plan of the city. When I got back to his tablehe'd gonewith all his papersexcept for that scrap which I found near his chair.",
+      "wordCount": 43
+    },
+    {
+      "id": 184,
+      "index": 184,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Roman numerals.",
+      "wordCount": 2
+    },
+    {
+      "id": 185,
+      "index": 185,
+      "character": "ELSA",
+      "gender": "Female",
+      "line": "Here is the library.",
+      "wordCount": 4
+    },
+    {
+      "id": 186,
+      "index": 186,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "That doesn't look much like a library.",
+      "wordCount": 7
+    },
+    {
+      "id": 187,
+      "index": 187,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "It looks like a converted church.",
+      "wordCount": 6
+    },
+    {
+      "id": 188,
+      "index": 188,
+      "character": "ELSA",
+      "gender": "Female",
+      "line": "In this case it's the literal truth. We're on holy ground. These columns over here...",
+      "wordCount": 15
+    },
+    {
+      "id": 189,
+      "index": 189,
+      "character": "ELSA",
+      "gender": "Female",
+      "line": "... were brought back as spoils of war after the sacking of Byzantium during the Crusades.",
+      "wordCount": 16
+    },
+    {
+      "id": 190,
+      "index": 190,
+      "character": "ELSA",
+      "gender": "Female",
+      "line": "Now please excuse me. The library's closing in a few moments. I'll arrange for us to stay a little longer.",
+      "wordCount": 20
+    },
+    {
+      "id": 191,
+      "index": 191,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "MarcusI've seen this window before.",
+      "wordCount": 5
+    },
+    {
+      "id": 192,
+      "index": 192,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Where?",
+      "wordCount": 1
+    },
+    {
+      "id": 193,
+      "index": 193,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Right here. In Dad's Diary. You see?",
+      "wordCount": 7
+    },
+    {
+      "id": 194,
+      "index": 194,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Look, Indy. The Roman numerals!",
+      "wordCount": 5
+    },
+    {
+      "id": 195,
+      "index": 195,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Dad was onto something here!",
+      "wordCount": 5
+    },
+    {
+      "id": 196,
+      "index": 196,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Well, now we know the source of the numbers, but we still don't know what they mean.",
+      "wordCount": 17
+    },
+    {
+      "id": 197,
+      "index": 197,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "My dad sent me this Diary for a reason. Until we find out why, I suggest we keep it to ourselves.",
+      "wordCount": 21
+    },
+    {
+      "id": 198,
+      "index": 198,
+      "character": "ELSA",
+      "gender": "Female",
+      "line": "Find something?",
+      "wordCount": 2
+    },
+    {
+      "id": 199,
+      "index": 199,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Uh, yes. Three, seven and tent That window seems to be the source of the Roman numerals.",
+      "wordCount": 17
+    },
+    {
+      "id": 200,
+      "index": 200,
+      "character": "ELSA",
+      "gender": "Female",
+      "line": "My God, I must be blind",
+      "wordCount": 6
+    },
+    {
+      "id": 201,
+      "index": 201,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Dad wasn't looking for a book about the Knight's Tomb... he was looking for the Tomb itself",
+      "wordCount": 17
+    },
+    {
+      "id": 202,
+      "index": 202,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Don't you get it? The Tomb is somewhere in the library! You said yourself it used to be a church! Look.",
+      "wordCount": 21
+    },
+    {
+      "id": 203,
+      "index": 203,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Three.",
+      "wordCount": 1
+    },
+    {
+      "id": 204,
+      "index": 204,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Three!",
+      "wordCount": 1
+    },
+    {
+      "id": 205,
+      "index": 205,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Seven.",
+      "wordCount": 1
+    },
+    {
+      "id": 206,
+      "index": 206,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Seven... Ten.",
+      "wordCount": 2
+    },
+    {
+      "id": 207,
+      "index": 207,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "And ten. Now where's the ten? Look around for the ten.",
+      "wordCount": 11
+    },
+    {
+      "id": 208,
+      "index": 208,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Three, seven and ten.",
+      "wordCount": 4
+    },
+    {
+      "id": 209,
+      "index": 209,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Ten. \"X\" marks the spot.",
+      "wordCount": 5
+    },
+    {
+      "id": 210,
+      "index": 210,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Bingo.",
+      "wordCount": 1
+    },
+    {
+      "id": 211,
+      "index": 211,
+      "character": "ELSA",
+      "gender": "Female",
+      "line": "You don't disappoint, Doctor Jones. You're a great deal like your father.",
+      "wordCount": 12
+    },
+    {
+      "id": 212,
+      "index": 212,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Except he's lost, and I'm not.",
+      "wordCount": 6
+    },
+    {
+      "id": 213,
+      "index": 213,
+      "character": "ELSA",
+      "gender": "Female",
+      "line": "Lower me down.",
+      "wordCount": 3
+    },
+    {
+      "id": 214,
+      "index": 214,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Look after this for me, will you?",
+      "wordCount": 7
+    },
+    {
+      "id": 215,
+      "index": 215,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Come on.",
+      "wordCount": 2
+    },
+    {
+      "id": 216,
+      "index": 216,
+      "character": "ELSA",
+      "gender": "Female",
+      "line": "Pagan symbols. Fourth or Fifth Century.",
+      "wordCount": 6
+    },
+    {
+      "id": 217,
+      "index": 217,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Right. Six hundred years before the Crusades.",
+      "wordCount": 7
+    },
+    {
+      "id": 218,
+      "index": 218,
+      "character": "ELSA",
+      "gender": "Female",
+      "line": "The Christians would have dug their own passages and burial chambers centuries later.",
+      "wordCount": 13
+    },
+    {
+      "id": 219,
+      "index": 219,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "That's right. If there's a Knight of the First Crusade entombed down here, that's where we'll find him.",
+      "wordCount": 18
+    },
+    {
+      "id": 220,
+      "index": 220,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Ohhhh. . .",
+      "wordCount": 3
+    },
+    {
+      "id": 221,
+      "index": 221,
+      "character": "ELSA",
+      "gender": "Female",
+      "line": "What's this one?",
+      "wordCount": 3
+    },
+    {
+      "id": 222,
+      "index": 222,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "The Ark of the Covenant.",
+      "wordCount": 5
+    },
+    {
+      "id": 223,
+      "index": 223,
+      "character": "ELSA",
+      "gender": "Female",
+      "line": "Are you sure?",
+      "wordCount": 3
+    },
+    {
+      "id": 224,
+      "index": 224,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Pretty sure.",
+      "wordCount": 2
+    },
+    {
+      "id": 225,
+      "index": 225,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Watch out.",
+      "wordCount": 2
+    },
+    {
+      "id": 226,
+      "index": 226,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Petroleum. I could sink a well down here and retire.",
+      "wordCount": 10
+    },
+    {
+      "id": 227,
+      "index": 227,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Give me the lighter.",
+      "wordCount": 4
+    },
+    {
+      "id": 228,
+      "index": 228,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Oh, rats...",
+      "wordCount": 2
+    },
+    {
+      "id": 229,
+      "index": 229,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Come onl",
+      "wordCount": 2
+    },
+    {
+      "id": 230,
+      "index": 230,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Come here.",
+      "wordCount": 2
+    },
+    {
+      "id": 231,
+      "index": 231,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Look. . .",
+      "wordCount": 3
+    },
+    {
+      "id": 232,
+      "index": 232,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "It must be one of these...",
+      "wordCount": 6
+    },
+    {
+      "id": 233,
+      "index": 233,
+      "character": "ELSA",
+      "gender": "Female",
+      "line": "Look at the artistry of these carvings and the scrollwork.",
+      "wordCount": 10
+    },
+    {
+      "id": 234,
+      "index": 234,
+      "character": "ELSA",
+      "gender": "Female",
+      "line": "It's this one.",
+      "wordCount": 3
+    },
+    {
+      "id": 235,
+      "index": 235,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "This is itl we found it! Look the engraving on the Shield. It's the same as on the Grail Tablets The Shield is the Second Marker!",
+      "wordCount": 26
+    },
+    {
+      "id": 236,
+      "index": 236,
+      "character": "ELSA",
+      "gender": "Female",
+      "line": "What's that?",
+      "wordCount": 2
+    },
+    {
+      "id": 237,
+      "index": 237,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "It's a rubbing Dad made of the Grail Tablet.",
+      "wordCount": 9
+    },
+    {
+      "id": 238,
+      "index": 238,
+      "character": "ELSA",
+      "gender": "Female",
+      "line": "Just like your fathergiddy as a schoolboy.",
+      "wordCount": 7
+    },
+    {
+      "id": 239,
+      "index": 239,
+      "character": "ELSA",
+      "gender": "Female",
+      "line": "Wouldn't it be wonderful if he were here now to see this?",
+      "wordCount": 12
+    },
+    {
+      "id": 240,
+      "index": 240,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "He never would have made it past the rats! He hates rats! He's scared to death of them!",
+      "wordCount": 18
+    },
+    {
+      "id": 241,
+      "index": 241,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Get back! Back against the wall.",
+      "wordCount": 6
+    },
+    {
+      "id": 242,
+      "index": 242,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Quick! Under it!",
+      "wordCount": 3
+    },
+    {
+      "id": 243,
+      "index": 243,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Air pocket!",
+      "wordCount": 2
+    },
+    {
+      "id": 244,
+      "index": 244,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Don't wander off.",
+      "wordCount": 3
+    },
+    {
+      "id": 245,
+      "index": 245,
+      "character": "ELSA",
+      "gender": "Female",
+      "line": "What?",
+      "wordCount": 1
+    },
+    {
+      "id": 246,
+      "index": 246,
+      "character": "ELSA",
+      "gender": "Female",
+      "line": "What?",
+      "wordCount": 1
+    },
+    {
+      "id": 247,
+      "index": 247,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "I think I've found a way out. Deep breath.",
+      "wordCount": 9
+    },
+    {
+      "id": 248,
+      "index": 248,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Ah, Venicel",
+      "wordCount": 2
+    },
+    {
+      "id": 249,
+      "index": 249,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Are you crazy?! You don't go between them!",
+      "wordCount": 8
+    },
+    {
+      "id": 250,
+      "index": 250,
+      "character": "ELSA",
+      "gender": "Female",
+      "line": "Go between them? Are you crazy?!",
+      "wordCount": 6
+    },
+    {
+      "id": 251,
+      "index": 251,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "I said go around!",
+      "wordCount": 4
+    },
+    {
+      "id": 252,
+      "index": 252,
+      "character": "ELSA",
+      "gender": "Female",
+      "line": "You said go between them!",
+      "wordCount": 5
+    },
+    {
+      "id": 253,
+      "index": 253,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "I said don't go between them!",
+      "wordCount": 6
+    },
+    {
+      "id": 254,
+      "index": 254,
+      "character": "ELSA",
+      "gender": "Female",
+      "line": "No!!",
+      "wordCount": 1
+    },
+    {
+      "id": 255,
+      "index": 255,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Why are you trying to kill us?",
+      "wordCount": 7
+    },
+    {
+      "id": 256,
+      "index": 256,
+      "character": "KAZIM",
+      "gender": "Male",
+      "line": "Because you're looking for the Holy Grail.",
+      "wordCount": 7
+    },
+    {
+      "id": 257,
+      "index": 257,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "My father was looking for the Holy Grail. Did you kill him too?",
+      "wordCount": 13
+    },
+    {
+      "id": 258,
+      "index": 258,
+      "character": "KAZIM",
+      "gender": "Male",
+      "line": "No.",
+      "wordCount": 1
+    },
+    {
+      "id": 259,
+      "index": 259,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Where is he? Talkor you're dead. Damn it, tell me! Tell me!",
+      "wordCount": 12
+    },
+    {
+      "id": 260,
+      "index": 260,
+      "character": "KAZIM",
+      "gender": "Male",
+      "line": "If you don't let go, Doctor Jones, we'll both die.",
+      "wordCount": 10
+    },
+    {
+      "id": 261,
+      "index": 261,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Then we'll die.",
+      "wordCount": 3
+    },
+    {
+      "id": 262,
+      "index": 262,
+      "character": "KAZIM",
+      "gender": "Male",
+      "line": "My soul is prepared. How's yours?",
+      "wordCount": 6
+    },
+    {
+      "id": 263,
+      "index": 263,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "This is your last chance.",
+      "wordCount": 5
+    },
+    {
+      "id": 264,
+      "index": 264,
+      "character": "KAZIM",
+      "gender": "Male",
+      "line": "No, Doctor Jones. It's yours!",
+      "wordCount": 5
+    },
+    {
+      "id": 265,
+      "index": 265,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "All right! Where's my father",
+      "wordCount": 5
+    },
+    {
+      "id": 266,
+      "index": 266,
+      "character": "KAZIM",
+      "gender": "Male",
+      "line": "If you let me go, I will tell you where he is.",
+      "wordCount": 12
+    },
+    {
+      "id": 267,
+      "index": 267,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Who are you?",
+      "wordCount": 3
+    },
+    {
+      "id": 268,
+      "index": 268,
+      "character": "KAZIM",
+      "gender": "Male",
+      "line": "My name is Kazim.",
+      "wordCount": 4
+    },
+    {
+      "id": 269,
+      "index": 269,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "And why were you trying to kill me?",
+      "wordCount": 8
+    },
+    {
+      "id": 270,
+      "index": 270,
+      "character": "KAZIM",
+      "gender": "Male",
+      "line": "The secret of the Grail has been safe for a thousand years. And for all that time the Brotherhood of the Cruciform Sword has been prepared to do anything to keep it safe.",
+      "wordCount": 33
+    },
+    {
+      "id": 271,
+      "index": 271,
+      "character": "KAZIM",
+      "gender": "Male",
+      "line": "Let me get off at this jetty.",
+      "wordCount": 7
+    },
+    {
+      "id": 272,
+      "index": 272,
+      "character": "KAZIM",
+      "gender": "Male",
+      "line": "Ask yourself, why do you seek the Cup of Christ? Is it for His glory, or for yours?",
+      "wordCount": 18
+    },
+    {
+      "id": 273,
+      "index": 273,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "I didn't come for the Cup of Christ. I came to find my father.",
+      "wordCount": 14
+    },
+    {
+      "id": 274,
+      "index": 274,
+      "character": "KAZIM",
+      "gender": "Male",
+      "line": "In that case, God be with you in your quest. Your father is being held in the Castle of Brunwald on the Austrian-German border.",
+      "wordCount": 24
+    },
+    {
+      "id": 275,
+      "index": 275,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "How's the head?",
+      "wordCount": 3
+    },
+    {
+      "id": 276,
+      "index": 276,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "It's better, now I've seen this. It's the name of a city. \"Alexandretta?\" Hmmm...",
+      "wordCount": 14
+    },
+    {
+      "id": 277,
+      "index": 277,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "The Knights of the First Crusade laid siege to the city of Alexandretta for over a year. The entire city was destroyed.",
+      "wordCount": 22
+    },
+    {
+      "id": 278,
+      "index": 278,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "The present city of Iskenderun is built on its ruins. Marcus you remember what the Grail Tablet said. \"Across the desert and through the mountain to the Canyon of the Crescent Moon.\" But where exactly?",
+      "wordCount": 35
+    },
+    {
+      "id": 279,
+      "index": 279,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Your father would know. Your father did know. Look. He made a map.",
+      "wordCount": 13
+    },
+    {
+      "id": 280,
+      "index": 280,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "He must have pieced it together from clues scattered through the whole history of the Grail Quest. A map with no names.",
+      "wordCount": 22
+    },
+    {
+      "id": 281,
+      "index": 281,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Now, he knew there was a city with an oasis due east. Here. He knew the course turned south through the desert to a river, and the river led into the mountains. Here. Straight to the canyon. He knew everything except where to begin, the name of the city.",
+      "wordCount": 49
+    },
+    {
+      "id": 282,
+      "index": 282,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Alexandretta. Now we know.",
+      "wordCount": 4
+    },
+    {
+      "id": 283,
+      "index": 283,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Yes. Now we know.",
+      "wordCount": 4
+    },
+    {
+      "id": 284,
+      "index": 284,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Marcus, get hold of Sallah. Tell him to meet you in Iskenderun.",
+      "wordCount": 12
+    },
+    {
+      "id": 285,
+      "index": 285,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "What about you?",
+      "wordCount": 3
+    },
+    {
+      "id": 286,
+      "index": 286,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "I'm going after Dad.",
+      "wordCount": 4
+    },
+    {
+      "id": 287,
+      "index": 287,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Elsa?",
+      "wordCount": 1
+    },
+    {
+      "id": 288,
+      "index": 288,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Elsa?",
+      "wordCount": 1
+    },
+    {
+      "id": 289,
+      "index": 289,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Elsa?",
+      "wordCount": 1
+    },
+    {
+      "id": 290,
+      "index": 290,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Elsa?",
+      "wordCount": 1
+    },
+    {
+      "id": 291,
+      "index": 291,
+      "character": "ELSA",
+      "gender": "Female",
+      "line": "My room!",
+      "wordCount": 2
+    },
+    {
+      "id": 292,
+      "index": 292,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Mine, too.",
+      "wordCount": 2
+    },
+    {
+      "id": 293,
+      "index": 293,
+      "character": "ELSA",
+      "gender": "Female",
+      "line": "What were they looking for?",
+      "wordCount": 5
+    },
+    {
+      "id": 294,
+      "index": 294,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "This.",
+      "wordCount": 1
+    },
+    {
+      "id": 295,
+      "index": 295,
+      "character": "ELSA",
+      "gender": "Female",
+      "line": "The Grail Diary.",
+      "wordCount": 3
+    },
+    {
+      "id": 296,
+      "index": 296,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Uh-huh.",
+      "wordCount": 1
+    },
+    {
+      "id": 297,
+      "index": 297,
+      "character": "ELSA",
+      "gender": "Female",
+      "line": "You had it? You didn't trust me!",
+      "wordCount": 7
+    },
+    {
+      "id": 298,
+      "index": 298,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "I didn't know you.",
+      "wordCount": 4
+    },
+    {
+      "id": 299,
+      "index": 299,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "At least I let you tag along.",
+      "wordCount": 7
+    },
+    {
+      "id": 300,
+      "index": 300,
+      "character": "ELSA",
+      "gender": "Female",
+      "line": "Oh, yes. Give them a flower and they'll follow you anywhere.",
+      "wordCount": 11
+    },
+    {
+      "id": 301,
+      "index": 301,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Knock it off. You're not mad.",
+      "wordCount": 6
+    },
+    {
+      "id": 302,
+      "index": 302,
+      "character": "ELSA",
+      "gender": "Female",
+      "line": "No?",
+      "wordCount": 1
+    },
+    {
+      "id": 303,
+      "index": 303,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "No. You like the way I do things.",
+      "wordCount": 8
+    },
+    {
+      "id": 304,
+      "index": 304,
+      "character": "ELSA",
+      "gender": "Female",
+      "line": "It's lucky I don't do things the same way. You'd still be standing at the Venice pier.",
+      "wordCount": 17
+    },
+    {
+      "id": 305,
+      "index": 305,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Look, what do you think is going on here? Since I've met you, I've nearly been incinerated, drowned, shot at, and chopped into fish bait. We're caught in the middle of something sinister here. My guess is Dad found out more than he was looking for. And until I'm sure, I'm going to continue to do things the way I think they should be done.",
+      "wordCount": 65
+    },
+    {
+      "id": 306,
+      "index": 306,
+      "character": "ELSA",
+      "gender": "Female",
+      "line": "How dare you kiss me!",
+      "wordCount": 5
+    },
+    {
+      "id": 307,
+      "index": 307,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Leave me alone. I don't like fast women.",
+      "wordCount": 8
+    },
+    {
+      "id": 308,
+      "index": 308,
+      "character": "ELSA",
+      "gender": "Female",
+      "line": "And I hate arrogant men.",
+      "wordCount": 5
+    },
+    {
+      "id": 309,
+      "index": 309,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Ahh, Venice.",
+      "wordCount": 2
+    },
+    {
+      "id": 310,
+      "index": 310,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "What do you know about this place?",
+      "wordCount": 7
+    },
+    {
+      "id": 311,
+      "index": 311,
+      "character": "ELSA",
+      "gender": "Female",
+      "line": "I know the Brunwalds are famous art collectors.",
+      "wordCount": 8
+    },
+    {
+      "id": 312,
+      "index": 312,
+      "character": "ELSA",
+      "gender": "Female",
+      "line": "What are you going to do?",
+      "wordCount": 6
+    },
+    {
+      "id": 313,
+      "index": 313,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Don't know. Think of something.",
+      "wordCount": 5
+    },
+    {
+      "id": 314,
+      "index": 314,
+      "character": "BUTLER",
+      "gender": "Male",
+      "line": "Yes?",
+      "wordCount": 1
+    },
+    {
+      "id": 315,
+      "index": 315,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "And not before time! Did you intend to leave us standing on the doorstep all day? We're drenched!",
+      "wordCount": 18
+    },
+    {
+      "id": 316,
+      "index": 316,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Now look! I've gone and caught a sniffle.",
+      "wordCount": 8
+    },
+    {
+      "id": 317,
+      "index": 317,
+      "character": "BUTLER",
+      "gender": "Male",
+      "line": "Are you expected?",
+      "wordCount": 3
+    },
+    {
+      "id": 318,
+      "index": 318,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Don't take that tone with me, my good man. Now buttle off and tell Baron Brunwald that Lord Clarence MacDonald and his lovely assistant are here to view the tapestries.",
+      "wordCount": 30
+    },
+    {
+      "id": 319,
+      "index": 319,
+      "character": "BUTLER",
+      "gender": "Male",
+      "line": "Tapestries?",
+      "wordCount": 1
+    },
+    {
+      "id": 320,
+      "index": 320,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Dear me, the man is dense. This is a castle, isn't it? There are tapestries?",
+      "wordCount": 15
+    },
+    {
+      "id": 321,
+      "index": 321,
+      "character": "BUTLER",
+      "gender": "Male",
+      "line": "This is a castle. And we have many tapestries. But if you're a Scottish lord, then I am Mickey Mouse.",
+      "wordCount": 20
+    },
+    {
+      "id": 322,
+      "index": 322,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "How dare he?!",
+      "wordCount": 3
+    },
+    {
+      "id": 323,
+      "index": 323,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Nazis. I hate these guys.",
+      "wordCount": 5
+    },
+    {
+      "id": 324,
+      "index": 324,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "This one. I think he's in here.",
+      "wordCount": 7
+    },
+    {
+      "id": 325,
+      "index": 325,
+      "character": "ELSA",
+      "gender": "Female",
+      "line": "How do you know?",
+      "wordCount": 4
+    },
+    {
+      "id": 326,
+      "index": 326,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Because it's wired.",
+      "wordCount": 3
+    },
+    {
+      "id": 327,
+      "index": 327,
+      "character": "ELSA",
+      "gender": "Female",
+      "line": "Indy? Indy?",
+      "wordCount": 2
+    },
+    {
+      "id": 328,
+      "index": 328,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Don't worry... this is kid's play. I'll be right back.",
+      "wordCount": 10
+    },
+    {
+      "id": 329,
+      "index": 329,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "Junior?",
+      "wordCount": 1
+    },
+    {
+      "id": 330,
+      "index": 330,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Yes, sirl",
+      "wordCount": 2
+    },
+    {
+      "id": 331,
+      "index": 331,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "It is you Junior!",
+      "wordCount": 4
+    },
+    {
+      "id": 332,
+      "index": 332,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Don't call me that, please.",
+      "wordCount": 5
+    },
+    {
+      "id": 333,
+      "index": 333,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "But what are you doing here?",
+      "wordCount": 6
+    },
+    {
+      "id": 334,
+      "index": 334,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "I came to get you! What do you think?",
+      "wordCount": 9
+    },
+    {
+      "id": 335,
+      "index": 335,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "Late Fourteenth Century, Ming Dynasty.",
+      "wordCount": 5
+    },
+    {
+      "id": 336,
+      "index": 336,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "Oh, it breaks the heart.",
+      "wordCount": 5
+    },
+    {
+      "id": 337,
+      "index": 337,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "And the head. You hit me, Dad!",
+      "wordCount": 7
+    },
+    {
+      "id": 338,
+      "index": 338,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "I'll never forgive myself",
+      "wordCount": 4
+    },
+    {
+      "id": 339,
+      "index": 339,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Don't worryI'm fine.",
+      "wordCount": 3
+    },
+    {
+      "id": 340,
+      "index": 340,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "Thank God!",
+      "wordCount": 2
+    },
+    {
+      "id": 341,
+      "index": 341,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "... it's fake. See, you can tell by the cross section.",
+      "wordCount": 11
+    },
+    {
+      "id": 342,
+      "index": 342,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "No! Dad, get your stuff. We've got to get out of here.",
+      "wordCount": 12
+    },
+    {
+      "id": 343,
+      "index": 343,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "Well, I am sorry about your head, though. But I thought you were one of them.",
+      "wordCount": 16
+    },
+    {
+      "id": 344,
+      "index": 344,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Dad, they come in through the doors.",
+      "wordCount": 7
+    },
+    {
+      "id": 345,
+      "index": 345,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "Good point.",
+      "wordCount": 2
+    },
+    {
+      "id": 346,
+      "index": 346,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "But better safe than sorry.",
+      "wordCount": 5
+    },
+    {
+      "id": 347,
+      "index": 347,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "Humpfso I was wrong this time. But by God, I wasn't wrong when I mailed you my Diary. You obviously got it.",
+      "wordCount": 22
+    },
+    {
+      "id": 348,
+      "index": 348,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "I got it and I used it. We found the entrance to the catacombs.",
+      "wordCount": 14
+    },
+    {
+      "id": 349,
+      "index": 349,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "Through the library?",
+      "wordCount": 3
+    },
+    {
+      "id": 350,
+      "index": 350,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Right.",
+      "wordCount": 1
+    },
+    {
+      "id": 351,
+      "index": 351,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "I knew it. And the tomb of Sir Richard?",
+      "wordCount": 9
+    },
+    {
+      "id": 352,
+      "index": 352,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Found it.",
+      "wordCount": 2
+    },
+    {
+      "id": 353,
+      "index": 353,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "He was actually there? You saw him?",
+      "wordCount": 7
+    },
+    {
+      "id": 354,
+      "index": 354,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Well, what was left of him.",
+      "wordCount": 6
+    },
+    {
+      "id": 355,
+      "index": 355,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "And his shield... the inscription on Sir Richard's shield...?",
+      "wordCount": 9
+    },
+    {
+      "id": 356,
+      "index": 356,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Alexandretta.",
+      "wordCount": 1
+    },
+    {
+      "id": 357,
+      "index": 357,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "Alexandretta... of course... on the pilgrim trail from the Eastern Empire. Oh, Junior...",
+      "wordCount": 13
+    },
+    {
+      "id": 358,
+      "index": 358,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "... you did it.",
+      "wordCount": 4
+    },
+    {
+      "id": 359,
+      "index": 359,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "No, Dad. You did. Forty years.",
+      "wordCount": 6
+    },
+    {
+      "id": 360,
+      "index": 360,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "If only I could have been with you.",
+      "wordCount": 8
+    },
+    {
+      "id": 361,
+      "index": 361,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "There were rats, Dad.",
+      "wordCount": 4
+    },
+    {
+      "id": 362,
+      "index": 362,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "Rats?",
+      "wordCount": 1
+    },
+    {
+      "id": 363,
+      "index": 363,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Yeah. big ones. What do the Nazis want with you Dad?",
+      "wordCount": 11
+    },
+    {
+      "id": 364,
+      "index": 364,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "They want my diary.",
+      "wordCount": 4
+    },
+    {
+      "id": 365,
+      "index": 365,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Yeah?",
+      "wordCount": 1
+    },
+    {
+      "id": 366,
+      "index": 366,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "I knew I had to get that book as far away from me as I possibly could.",
+      "wordCount": 17
+    },
+    {
+      "id": 367,
+      "index": 367,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Yeah. . .",
+      "wordCount": 3
+    },
+    {
+      "id": 368,
+      "index": 368,
+      "character": "S.S. OFFICER",
+      "gender": "NA",
+      "line": "Doctor Jones!!",
+      "wordCount": 2
+    },
+    {
+      "id": 369,
+      "index": 369,
+      "character": "S.S. OFFICER",
+      "gender": "NA",
+      "line": "I will take the book now.",
+      "wordCount": 6
+    },
+    {
+      "id": 370,
+      "index": 370,
+      "character": "INDY/HENRY",
+      "gender": "NA",
+      "line": "What book?",
+      "wordCount": 2
+    },
+    {
+      "id": 371,
+      "index": 371,
+      "character": "S.S. OFFICER",
+      "gender": "NA",
+      "line": "You have the Diary in your pocket.",
+      "wordCount": 7
+    },
+    {
+      "id": 372,
+      "index": 372,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "You doltl Do you think that my son would be that stupid that he would bring my Diary all the way back here?",
+      "wordCount": 23
+    },
+    {
+      "id": 373,
+      "index": 373,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "You didn't, did you? You didn't bring it, did you?",
+      "wordCount": 10
+    },
+    {
+      "id": 374,
+      "index": 374,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Well, uh...",
+      "wordCount": 2
+    },
+    {
+      "id": 375,
+      "index": 375,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "You did!!",
+      "wordCount": 2
+    },
+    {
+      "id": 376,
+      "index": 376,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Look, can we discuss this later?",
+      "wordCount": 6
+    },
+    {
+      "id": 377,
+      "index": 377,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "I should have mailed it to the Marx Brothers.",
+      "wordCount": 9
+    },
+    {
+      "id": 378,
+      "index": 378,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Will you take it easy....!",
+      "wordCount": 5
+    },
+    {
+      "id": 379,
+      "index": 379,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "Take it easy?! Why do you think I sent it home in the first place? So it wouldn't fall into their hands!!",
+      "wordCount": 22
+    },
+    {
+      "id": 380,
+      "index": 380,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "I came here to save you.",
+      "wordCount": 6
+    },
+    {
+      "id": 381,
+      "index": 381,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "Oh yeah? And who's gonna come to save you, Junior??",
+      "wordCount": 10
+    },
+    {
+      "id": 382,
+      "index": 382,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "I told you--",
+      "wordCount": 3
+    },
+    {
+      "id": 383,
+      "index": 383,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "--don't call me Junior!",
+      "wordCount": 4
+    },
+    {
+      "id": 384,
+      "index": 384,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "Look what you did!!",
+      "wordCount": 4
+    },
+    {
+      "id": 385,
+      "index": 385,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "I can't believe what you just....",
+      "wordCount": 6
+    },
+    {
+      "id": 386,
+      "index": 386,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Elsa? Elsa?",
+      "wordCount": 2
+    },
+    {
+      "id": 387,
+      "index": 387,
+      "character": "VOGEL",
+      "gender": "Male",
+      "line": "That's far enough Put down the gun, Doctor Jones. Put down the gun or the Fraulein dies.",
+      "wordCount": 17
+    },
+    {
+      "id": 388,
+      "index": 388,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "But she's one of them!",
+      "wordCount": 5
+    },
+    {
+      "id": 389,
+      "index": 389,
+      "character": "ELSA",
+      "gender": "Female",
+      "line": "Indy, please!",
+      "wordCount": 2
+    },
+    {
+      "id": 390,
+      "index": 390,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "She's a Nazi!",
+      "wordCount": 3
+    },
+    {
+      "id": 391,
+      "index": 391,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "What?!",
+      "wordCount": 1
+    },
+    {
+      "id": 392,
+      "index": 392,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "Trust me!",
+      "wordCount": 2
+    },
+    {
+      "id": 393,
+      "index": 393,
+      "character": "ELSA",
+      "gender": "Female",
+      "line": "Indy, no!",
+      "wordCount": 2
+    },
+    {
+      "id": 394,
+      "index": 394,
+      "character": "VOGEL",
+      "gender": "Male",
+      "line": "I will kill her!",
+      "wordCount": 4
+    },
+    {
+      "id": 395,
+      "index": 395,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "Oh yeah? Go ahead!",
+      "wordCount": 4
+    },
+    {
+      "id": 396,
+      "index": 396,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "No! Don't Shoot!",
+      "wordCount": 3
+    },
+    {
+      "id": 397,
+      "index": 397,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "Don't worry. He won't.",
+      "wordCount": 4
+    },
+    {
+      "id": 398,
+      "index": 398,
+      "character": "ELSA",
+      "gender": "Female",
+      "line": "Indy, please! Do what he says!",
+      "wordCount": 6
+    },
+    {
+      "id": 399,
+      "index": 399,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "And don't listen to her!",
+      "wordCount": 5
+    },
+    {
+      "id": 400,
+      "index": 400,
+      "character": "VOGEL",
+      "gender": "Male",
+      "line": "Enough! She diesl",
+      "wordCount": 3
+    },
+    {
+      "id": 401,
+      "index": 401,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Wait! Waitl",
+      "wordCount": 2
+    },
+    {
+      "id": 402,
+      "index": 402,
+      "character": "ELSA",
+      "gender": "Female",
+      "line": "I'm sorry.",
+      "wordCount": 2
+    },
+    {
+      "id": 403,
+      "index": 403,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "No, don't be.",
+      "wordCount": 3
+    },
+    {
+      "id": 404,
+      "index": 404,
+      "character": "ELSA",
+      "gender": "Female",
+      "line": "But you should have listened to your father.",
+      "wordCount": 8
+    },
+    {
+      "id": 405,
+      "index": 405,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "She ransacked her own room and I fell for it. How did you know she was a Nazi?",
+      "wordCount": 18
+    },
+    {
+      "id": 406,
+      "index": 406,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "Umh?",
+      "wordCount": 1
+    },
+    {
+      "id": 407,
+      "index": 407,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "How did you she was a Nazi?",
+      "wordCount": 7
+    },
+    {
+      "id": 408,
+      "index": 408,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "She talks in her sleep.",
+      "wordCount": 5
+    },
+    {
+      "id": 409,
+      "index": 409,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "I didn't trust her. Why did you?",
+      "wordCount": 7
+    },
+    {
+      "id": 410,
+      "index": 410,
+      "character": "MAN IN CHAIR",
+      "gender": "NA",
+      "line": "Because he didn't take my advice.",
+      "wordCount": 6
+    },
+    {
+      "id": 411,
+      "index": 411,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Donovan",
+      "wordCount": 1
+    },
+    {
+      "id": 412,
+      "index": 412,
+      "character": "DONOVAN",
+      "gender": "Male",
+      "line": "Didn't I warn you not to trust anybody, Doctor Jones?",
+      "wordCount": 10
+    },
+    {
+      "id": 413,
+      "index": 413,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "I misjudged you WalterI knew you'd sell your mother for an Etruscan vase. But I didn't know you'd sell your country and your soul to the slime of humanity.",
+      "wordCount": 29
+    },
+    {
+      "id": 414,
+      "index": 414,
+      "character": "DONOVAN",
+      "gender": "Male",
+      "line": "Doctor Schneider There're pages torn out of thisl",
+      "wordCount": 8
+    },
+    {
+      "id": 415,
+      "index": 415,
+      "character": "ELSA",
+      "gender": "Female",
+      "line": "This book contained a mapa map with no namesprecise directions from the unknown city to the secret Canyon of the Crescent Moon.",
+      "wordCount": 22
+    },
+    {
+      "id": 416,
+      "index": 416,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "So it did.",
+      "wordCount": 3
+    },
+    {
+      "id": 417,
+      "index": 417,
+      "character": "DONOVAN",
+      "gender": "Male",
+      "line": "Where are these missing pages? This maps we must have these pages backs",
+      "wordCount": 13
+    },
+    {
+      "id": 418,
+      "index": 418,
+      "character": "ELSA",
+      "gender": "Female",
+      "line": "You're wasting your breath. He won't tell us. And he doesn't have to... it's perfectly obvious where the pages are... ... he's given them to Marcus Brody.",
+      "wordCount": 27
+    },
+    {
+      "id": 419,
+      "index": 419,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "Marcus?! You didn't drag poor Marcus along, did you? He's not up to the challenge.",
+      "wordCount": 15
+    },
+    {
+      "id": 420,
+      "index": 420,
+      "character": "DONOVAN",
+      "gender": "Male",
+      "line": "He sticks out like a sore thumb. We'll find him.",
+      "wordCount": 10
+    },
+    {
+      "id": 421,
+      "index": 421,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "The hell you will. He's got a two-day head-start on you, which is more than he needs. Brody's got friends in every town and village from here to the Sudan. He speaks a dozen languages, knows every local custom. He'll blend in. Disappear. You'll never see him again. With any luck, he's got the Grail already.",
+      "wordCount": 56
+    },
+    {
+      "id": 422,
+      "index": 422,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Does anyone here speak English? Or even ancient Greek?",
+      "wordCount": 9
+    },
+    {
+      "id": 423,
+      "index": 423,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "No water, no thank you. No, fish make love in it.",
+      "wordCount": 11
+    },
+    {
+      "id": 424,
+      "index": 424,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Thank you so much. No, I don't like that. No, I really don't want... No, no, thank you very much. No, thank you, madam. I'm a vegetarian.",
+      "wordCount": 27
+    },
+    {
+      "id": 425,
+      "index": 425,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Does anyone understand a word I'm saying here?",
+      "wordCount": 8
+    },
+    {
+      "id": 426,
+      "index": 426,
+      "character": "SALLAH",
+      "gender": "Male",
+      "line": "Mister Brodyl",
+      "wordCount": 2
+    },
+    {
+      "id": 427,
+      "index": 427,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Oh, Sallahl What a relief!",
+      "wordCount": 5
+    },
+    {
+      "id": 428,
+      "index": 428,
+      "character": "SALLAH",
+      "gender": "Male",
+      "line": "Marcus Brody, sir. And where is Indy?",
+      "wordCount": 7
+    },
+    {
+      "id": 429,
+      "index": 429,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Oh, he's in Austria. A slight detour.",
+      "wordCount": 7
+    },
+    {
+      "id": 430,
+      "index": 430,
+      "character": "SALLAH",
+      "gender": "Male",
+      "line": "You are on your own?",
+      "wordCount": 5
+    },
+    {
+      "id": 431,
+      "index": 431,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Yes, but don't panic. Everything's under control. Have you. . .have you arranged our supplies?",
+      "wordCount": 15
+    },
+    {
+      "id": 432,
+      "index": 432,
+      "character": "SALLAH",
+      "gender": "Male",
+      "line": "Oh, yes, of course. But where are we going?",
+      "wordCount": 9
+    },
+    {
+      "id": 433,
+      "index": 433,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Oh, this map will show you. It was drawn by, uh...",
+      "wordCount": 11
+    },
+    {
+      "id": 434,
+      "index": 434,
+      "character": "SINISTER MAN",
+      "gender": "NA",
+      "line": "Mister Brody?",
+      "wordCount": 2
+    },
+    {
+      "id": 435,
+      "index": 435,
+      "character": "SINISTER MAN",
+      "gender": "NA",
+      "line": "Welcome to Iskenderun. The Director of the Museum of Antiquities has sent a car for you.",
+      "wordCount": 16
+    },
+    {
+      "id": 436,
+      "index": 436,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Oh, what?... your servant, sir.",
+      "wordCount": 5
+    },
+    {
+      "id": 437,
+      "index": 437,
+      "character": "SALLAH",
+      "gender": "Male",
+      "line": "And I am his.",
+      "wordCount": 4
+    },
+    {
+      "id": 438,
+      "index": 438,
+      "character": "SINISTER MAN",
+      "gender": "NA",
+      "line": "Follow me, please.",
+      "wordCount": 3
+    },
+    {
+      "id": 439,
+      "index": 439,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "My reputation precedes me.",
+      "wordCount": 4
+    },
+    {
+      "id": 440,
+      "index": 440,
+      "character": "SALLAH",
+      "gender": "Male",
+      "line": "There is no museum in Iskenderun.",
+      "wordCount": 6
+    },
+    {
+      "id": 441,
+      "index": 441,
+      "character": "SECOND MAN",
+      "gender": "NA",
+      "line": "Papers please.",
+      "wordCount": 2
+    },
+    {
+      "id": 442,
+      "index": 442,
+      "character": "SALLAH",
+      "gender": "Male",
+      "line": "Papers? Of course.",
+      "wordCount": 3
+    },
+    {
+      "id": 443,
+      "index": 443,
+      "character": "SALLAH",
+      "gender": "Male",
+      "line": "Run.",
+      "wordCount": 1
+    },
+    {
+      "id": 444,
+      "index": 444,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Yes.",
+      "wordCount": 1
+    },
+    {
+      "id": 445,
+      "index": 445,
+      "character": "SALLAH",
+      "gender": "Male",
+      "line": "Papers, sir. Got it here.",
+      "wordCount": 5
+    },
+    {
+      "id": 446,
+      "index": 446,
+      "character": "SALLAH",
+      "gender": "Male",
+      "line": "Just finished reading it myself. Run!",
+      "wordCount": 6
+    },
+    {
+      "id": 447,
+      "index": 447,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Yes.",
+      "wordCount": 1
+    },
+    {
+      "id": 448,
+      "index": 448,
+      "character": "SALLAH",
+      "gender": "Male",
+      "line": "Egyptian Mail. Morning edition. Run!",
+      "wordCount": 5
+    },
+    {
+      "id": 449,
+      "index": 449,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Did you say...? Uh, uh...",
+      "wordCount": 5
+    },
+    {
+      "id": 450,
+      "index": 450,
+      "character": "SALLAH",
+      "gender": "Male",
+      "line": "Run!",
+      "wordCount": 1
+    },
+    {
+      "id": 451,
+      "index": 451,
+      "character": "SALLAH",
+      "gender": "Male",
+      "line": "Okay, okay, quick, quick, quickl Hide in that doorl Hide in that door!",
+      "wordCount": 13
+    },
+    {
+      "id": 452,
+      "index": 452,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "Intolerable.",
+      "wordCount": 1
+    },
+    {
+      "id": 453,
+      "index": 453,
+      "character": "VOGEL",
+      "gender": "Male",
+      "line": "Doctor Schneider. Message from Berlin. You must return immediately: a rally at the Institute of Aryan Culture.",
+      "wordCount": 17
+    },
+    {
+      "id": 454,
+      "index": 454,
+      "character": "ELSA",
+      "gender": "Female",
+      "line": "So?",
+      "wordCount": 1
+    },
+    {
+      "id": 455,
+      "index": 455,
+      "character": "VOGEL",
+      "gender": "Male",
+      "line": "Your presence on the platform is requested... at the highest level.",
+      "wordCount": 11
+    },
+    {
+      "id": 456,
+      "index": 456,
+      "character": "ELSA",
+      "gender": "Female",
+      "line": "Thank you, Herr Oberst. I will meet you at Iskenderun.",
+      "wordCount": 10
+    },
+    {
+      "id": 457,
+      "index": 457,
+      "character": "DONOVAN",
+      "gender": "Male",
+      "line": "Take this Diary to the Reich Museum in Berlin. It will show them our progress, ahead of schedule. Without a map, I'm afraid it's no better than a souvenir.",
+      "wordCount": 29
+    },
+    {
+      "id": 458,
+      "index": 458,
+      "character": "VOGEL",
+      "gender": "Male",
+      "line": "Let me kill them now.",
+      "wordCount": 5
+    },
+    {
+      "id": 459,
+      "index": 459,
+      "character": "ELSA",
+      "gender": "Female",
+      "line": "No. If we fail to recover the pages from Brody, we'll need them alive.",
+      "wordCount": 14
+    },
+    {
+      "id": 460,
+      "index": 460,
+      "character": "DONOVAN",
+      "gender": "Male",
+      "line": "Always do what the doctor orders.",
+      "wordCount": 6
+    },
+    {
+      "id": 461,
+      "index": 461,
+      "character": "ELSA",
+      "gender": "Female",
+      "line": "Don't look at me like thatwe both wanted the Grail, I would have done anything to get it. You would have done the same.",
+      "wordCount": 24
+    },
+    {
+      "id": 462,
+      "index": 462,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "I'm sorry you think so.",
+      "wordCount": 5
+    },
+    {
+      "id": 463,
+      "index": 463,
+      "character": "ELSA",
+      "gender": "Female",
+      "line": "I can't forget... how wonderful it was.",
+      "wordCount": 7
+    },
+    {
+      "id": 464,
+      "index": 464,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "Thank you. It was rather wonderful.",
+      "wordCount": 6
+    },
+    {
+      "id": 465,
+      "index": 465,
+      "character": "VOGEL",
+      "gender": "Male",
+      "line": "Doctor Schneider! Your car is waiting.",
+      "wordCount": 6
+    },
+    {
+      "id": 466,
+      "index": 466,
+      "character": "ELSA",
+      "gender": "Female",
+      "line": "That's how Austrians say goodbye.",
+      "wordCount": 5
+    },
+    {
+      "id": 467,
+      "index": 467,
+      "character": "VOGEL",
+      "gender": "Male",
+      "line": "And this is how we say goodbye in Germany, Doctor Jones.",
+      "wordCount": 11
+    },
+    {
+      "id": 468,
+      "index": 468,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "Ohh. . .",
+      "wordCount": 3
+    },
+    {
+      "id": 469,
+      "index": 469,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Ooooh... I like the Austrian way better.",
+      "wordCount": 7
+    },
+    {
+      "id": 470,
+      "index": 470,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "So did I.",
+      "wordCount": 3
+    },
+    {
+      "id": 471,
+      "index": 471,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Let's try and get these ropes loose. We've got to get to Marcus before the Nazis do!",
+      "wordCount": 17
+    },
+    {
+      "id": 472,
+      "index": 472,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "You said he had two days' start. That he would blend in. Disappear!",
+      "wordCount": 13
+    },
+    {
+      "id": 473,
+      "index": 473,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Are you kidding?I made that up! You know Marcushe got lost once in his own museum!",
+      "wordCount": 16
+    },
+    {
+      "id": 474,
+      "index": 474,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Can you try and reach into my left jacket pocket?",
+      "wordCount": 10
+    },
+    {
+      "id": 475,
+      "index": 475,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "What am I looking for?",
+      "wordCount": 5
+    },
+    {
+      "id": 476,
+      "index": 476,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "My lucky charm.",
+      "wordCount": 3
+    },
+    {
+      "id": 477,
+      "index": 477,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "Feels like a cigarette lighter.",
+      "wordCount": 5
+    },
+    {
+      "id": 478,
+      "index": 478,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Try and burn through the ropes.",
+      "wordCount": 6
+    },
+    {
+      "id": 479,
+      "index": 479,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "Very good.",
+      "wordCount": 2
+    },
+    {
+      "id": 480,
+      "index": 480,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "I ought to tell you something.",
+      "wordCount": 6
+    },
+    {
+      "id": 481,
+      "index": 481,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Don't get sentimental now Dad save it 'til we get out of here.",
+      "wordCount": 13
+    },
+    {
+      "id": 482,
+      "index": 482,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "The floor's on fire! See?!",
+      "wordCount": 5
+    },
+    {
+      "id": 483,
+      "index": 483,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "What???",
+      "wordCount": 1
+    },
+    {
+      "id": 484,
+      "index": 484,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "And the chair.",
+      "wordCount": 3
+    },
+    {
+      "id": 485,
+      "index": 485,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "All right, movel Move! Rock your Chair. Do what I do.",
+      "wordCount": 11
+    },
+    {
+      "id": 486,
+      "index": 486,
+      "character": "LIEUTENANT",
+      "gender": "NA",
+      "line": "Etwas wichtig, mein Herr.",
+      "wordCount": 4
+    },
+    {
+      "id": 487,
+      "index": 487,
+      "character": "DONOVAN",
+      "gender": "Male",
+      "line": "Well, we have Marcus Brody. But more important, we have the map.",
+      "wordCount": 12
+    },
+    {
+      "id": 488,
+      "index": 488,
+      "character": "RADIO OPERATOR",
+      "gender": "NA",
+      "line": "Aus Berlin, mein Herr.",
+      "wordCount": 4
+    },
+    {
+      "id": 489,
+      "index": 489,
+      "character": "DONOVAN",
+      "gender": "Male",
+      "line": "\"By the personal command of the Fuhrer. Secrecy essential to success. Eliminate the American conspirators.\" Germany has declared war on the Jones boys. Los fahren.",
+      "wordCount": 25
+    },
+    {
+      "id": 490,
+      "index": 490,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Dad!",
+      "wordCount": 1
+    },
+    {
+      "id": 491,
+      "index": 491,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "What?",
+      "wordCount": 1
+    },
+    {
+      "id": 492,
+      "index": 492,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Dad!",
+      "wordCount": 1
+    },
+    {
+      "id": 493,
+      "index": 493,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "What?",
+      "wordCount": 1
+    },
+    {
+      "id": 494,
+      "index": 494,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Dad!",
+      "wordCount": 1
+    },
+    {
+      "id": 495,
+      "index": 495,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "What?",
+      "wordCount": 1
+    },
+    {
+      "id": 496,
+      "index": 496,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Head for the fireplace!",
+      "wordCount": 4
+    },
+    {
+      "id": 497,
+      "index": 497,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "Oh.",
+      "wordCount": 1
+    },
+    {
+      "id": 498,
+      "index": 498,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "I think I can get these ropes off.",
+      "wordCount": 8
+    },
+    {
+      "id": 499,
+      "index": 499,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Whoopsl",
+      "wordCount": 1
+    },
+    {
+      "id": 500,
+      "index": 500,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "Our situation has not improved.",
+      "wordCount": 5
+    },
+    {
+      "id": 501,
+      "index": 501,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Listen Dad... I'm almost free.",
+      "wordCount": 5
+    },
+    {
+      "id": 502,
+      "index": 502,
+      "character": "WOMAN",
+      "gender": "NA",
+      "line": "Alarm!",
+      "wordCount": 1
+    },
+    {
+      "id": 503,
+      "index": 503,
+      "character": "WOMAN",
+      "gender": "NA",
+      "line": "Schnel!!",
+      "wordCount": 1
+    },
+    {
+      "id": 504,
+      "index": 504,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "This is intolerable!",
+      "wordCount": 3
+    },
+    {
+      "id": 505,
+      "index": 505,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "I'm out, Dad!",
+      "wordCount": 3
+    },
+    {
+      "id": 506,
+      "index": 506,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "Well done, boy!",
+      "wordCount": 3
+    },
+    {
+      "id": 507,
+      "index": 507,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Come on Dad.",
+      "wordCount": 3
+    },
+    {
+      "id": 508,
+      "index": 508,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Dead end.",
+      "wordCount": 2
+    },
+    {
+      "id": 509,
+      "index": 509,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "There's got to be a... a secret door around. A passageway or something.",
+      "wordCount": 13
+    },
+    {
+      "id": 510,
+      "index": 510,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "I find that if I just sit down and think...",
+      "wordCount": 10
+    },
+    {
+      "id": 511,
+      "index": 511,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Dad!",
+      "wordCount": 1
+    },
+    {
+      "id": 512,
+      "index": 512,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "... the solution presents itself.",
+      "wordCount": 5
+    },
+    {
+      "id": 513,
+      "index": 513,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Great. More boats.",
+      "wordCount": 3
+    },
+    {
+      "id": 514,
+      "index": 514,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "Would you say this has been just another typical day for you? Huh?",
+      "wordCount": 13
+    },
+    {
+      "id": 515,
+      "index": 515,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Ooofl No! It's been better than most.",
+      "wordCount": 7
+    },
+    {
+      "id": 516,
+      "index": 516,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Come on, Dad. Come onl",
+      "wordCount": 5
+    },
+    {
+      "id": 517,
+      "index": 517,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "What about the boat? We're not going on the boat?",
+      "wordCount": 10
+    },
+    {
+      "id": 518,
+      "index": 518,
+      "character": "VOGEL",
+      "gender": "Male",
+      "line": "Sie alle ins Boat. Schnell!",
+      "wordCount": 5
+    },
+    {
+      "id": 519,
+      "index": 519,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Ha!",
+      "wordCount": 1
+    },
+    {
+      "id": 520,
+      "index": 520,
+      "character": "GUARD",
+      "gender": "NA",
+      "line": "Halt! Halt!",
+      "wordCount": 2
+    },
+    {
+      "id": 521,
+      "index": 521,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "Stop!",
+      "wordCount": 1
+    },
+    {
+      "id": 522,
+      "index": 522,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "What?",
+      "wordCount": 1
+    },
+    {
+      "id": 523,
+      "index": 523,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "Stop! Stop!",
+      "wordCount": 2
+    },
+    {
+      "id": 524,
+      "index": 524,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "You're going the wrong Way! We have to get to Berlin!",
+      "wordCount": 11
+    },
+    {
+      "id": 525,
+      "index": 525,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Brody's this way.",
+      "wordCount": 3
+    },
+    {
+      "id": 526,
+      "index": 526,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "My Diary's in Berlin.",
+      "wordCount": 4
+    },
+    {
+      "id": 527,
+      "index": 527,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "You don't need the Diary, Dad. Marcus has the map.",
+      "wordCount": 10
+    },
+    {
+      "id": 528,
+      "index": 528,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "There is more in the Diary than just the map.",
+      "wordCount": 10
+    },
+    {
+      "id": 529,
+      "index": 529,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "All right Dadtell me.",
+      "wordCount": 4
+    },
+    {
+      "id": 530,
+      "index": 530,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "Well, he who finds the Grail must face the final challenge.",
+      "wordCount": 11
+    },
+    {
+      "id": 531,
+      "index": 531,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "What final challenge?",
+      "wordCount": 3
+    },
+    {
+      "id": 532,
+      "index": 532,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "Three devices of such lethal cunning.",
+      "wordCount": 6
+    },
+    {
+      "id": 533,
+      "index": 533,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Booby traps?",
+      "wordCount": 2
+    },
+    {
+      "id": 534,
+      "index": 534,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "Oh, yes. But I found the clues that will safely take us through, in the Chronicles of St. Anselm.",
+      "wordCount": 19
+    },
+    {
+      "id": 535,
+      "index": 535,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "But what are they? Can't you remember?",
+      "wordCount": 7
+    },
+    {
+      "id": 536,
+      "index": 536,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "I wrote them down in my Diary so that I wouldn't have to remember",
+      "wordCount": 14
+    },
+    {
+      "id": 537,
+      "index": 537,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Half the German Army's on our tail and you want me to go to Berlin? Into the lion's den?",
+      "wordCount": 19
+    },
+    {
+      "id": 538,
+      "index": 538,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "Yes! The only thing that matters is the Grail.",
+      "wordCount": 9
+    },
+    {
+      "id": 539,
+      "index": 539,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "What about Marcus?",
+      "wordCount": 3
+    },
+    {
+      "id": 540,
+      "index": 540,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "Marcus would agree with me.",
+      "wordCount": 5
+    },
+    {
+      "id": 541,
+      "index": 541,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Two selfless martyrs. Jesus Christl",
+      "wordCount": 5
+    },
+    {
+      "id": 542,
+      "index": 542,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "That's for blasphemy. The quest for the Grail is not archaeology. It's a race against evil. If it is captured by the Nazis, the armies of darkness will march all over the face of the earth. Do you understand me?",
+      "wordCount": 40
+    },
+    {
+      "id": 543,
+      "index": 543,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "This is an obsession Dad. I never understood it. Never. Neither did Mom.",
+      "wordCount": 13
+    },
+    {
+      "id": 544,
+      "index": 544,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "Oh yes, she did. Only too well. Unfortunately she kept her illness from me until all I could do was mourn her.",
+      "wordCount": 22
+    },
+    {
+      "id": 545,
+      "index": 545,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "My boy, we are Pilgrims in an unholy land.",
+      "wordCount": 9
+    },
+    {
+      "id": 546,
+      "index": 546,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Fraulein Doctor. Where is it?",
+      "wordCount": 5
+    },
+    {
+      "id": 547,
+      "index": 547,
+      "character": "ELSA",
+      "gender": "Female",
+      "line": "How did you get here?",
+      "wordCount": 5
+    },
+    {
+      "id": 548,
+      "index": 548,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Where is it? I want it.",
+      "wordCount": 6
+    },
+    {
+      "id": 549,
+      "index": 549,
+      "character": "ELSA",
+      "gender": "Female",
+      "line": "You came back for the book? Whv?",
+      "wordCount": 7
+    },
+    {
+      "id": 550,
+      "index": 550,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "My father didn't want it incinerated.",
+      "wordCount": 6
+    },
+    {
+      "id": 551,
+      "index": 551,
+      "character": "ELSA",
+      "gender": "Female",
+      "line": "Is that what you think of me? I believe in the Grail, not the Swastika.",
+      "wordCount": 15
+    },
+    {
+      "id": 552,
+      "index": 552,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Yet you stood up to be counted with the enemy of everything the Grail stands forwho gives a damn what you think?",
+      "wordCount": 22
+    },
+    {
+      "id": 553,
+      "index": 553,
+      "character": "ELSA",
+      "gender": "Female",
+      "line": "You do.",
+      "wordCount": 2
+    },
+    {
+      "id": 554,
+      "index": 554,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "All I have to do is squeeze.",
+      "wordCount": 7
+    },
+    {
+      "id": 555,
+      "index": 555,
+      "character": "ELSA",
+      "gender": "Female",
+      "line": "All I have to do is scream.",
+      "wordCount": 7
+    },
+    {
+      "id": 556,
+      "index": 556,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "I've got it. Let's get the hell out of here.",
+      "wordCount": 10
+    },
+    {
+      "id": 557,
+      "index": 557,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "What did you get?",
+      "wordCount": 4
+    },
+    {
+      "id": 558,
+      "index": 558,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "I don't know. The first available flight out of Germany.",
+      "wordCount": 10
+    },
+    {
+      "id": 559,
+      "index": 559,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "Good.",
+      "wordCount": 1
+    },
+    {
+      "id": 560,
+      "index": 560,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Well, we made it.",
+      "wordCount": 4
+    },
+    {
+      "id": 561,
+      "index": 561,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "When we're airborne, with Germany behind us, then I'll share that sentiment.",
+      "wordCount": 12
+    },
+    {
+      "id": 562,
+      "index": 562,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Relax.",
+      "wordCount": 1
+    },
+    {
+      "id": 563,
+      "index": 563,
+      "character": "VOGEL",
+      "gender": "Male",
+      "line": "Nicht zumachen! Wir steigen ein!",
+      "wordCount": 5
+    },
+    {
+      "id": 564,
+      "index": 564,
+      "character": "VOGEL",
+      "gender": "Male",
+      "line": "Haben sie disen Mann gesehen?",
+      "wordCount": 5
+    },
+    {
+      "id": 565,
+      "index": 565,
+      "character": "FEMALE PASSENGER",
+      "gender": "NA",
+      "line": "Nein.",
+      "wordCount": 1
+    },
+    {
+      "id": 566,
+      "index": 566,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Fahrscheine, bitte.",
+      "wordCount": 2
+    },
+    {
+      "id": 567,
+      "index": 567,
+      "character": "MALE PASSENGER",
+      "gender": "NA",
+      "line": "Nein.",
+      "wordCount": 1
+    },
+    {
+      "id": 568,
+      "index": 568,
+      "character": "MALE PASSENGER",
+      "gender": "NA",
+      "line": "Ich habe ihn night gesehen.",
+      "wordCount": 5
+    },
+    {
+      "id": 569,
+      "index": 569,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Tickets please.",
+      "wordCount": 2
+    },
+    {
+      "id": 570,
+      "index": 570,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Fahrscheine meine Dame. Bitte.",
+      "wordCount": 4
+    },
+    {
+      "id": 571,
+      "index": 571,
+      "character": "VOGEL",
+      "gender": "Male",
+      "line": "Guten Tag, Herr Jones.",
+      "wordCount": 4
+    },
+    {
+      "id": 572,
+      "index": 572,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Fahrscheine meine Herr.",
+      "wordCount": 3
+    },
+    {
+      "id": 573,
+      "index": 573,
+      "character": "VOGEL",
+      "gender": "Male",
+      "line": "Weg.",
+      "wordCount": 1
+    },
+    {
+      "id": 574,
+      "index": 574,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Tickets please.",
+      "wordCount": 2
+    },
+    {
+      "id": 575,
+      "index": 575,
+      "character": "VOGEL",
+      "gender": "Male",
+      "line": "Was?",
+      "wordCount": 1
+    },
+    {
+      "id": 576,
+      "index": 576,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "No ticket.",
+      "wordCount": 2
+    },
+    {
+      "id": 577,
+      "index": 577,
+      "character": "VOGEL",
+      "gender": "Male",
+      "line": "Du wirst nochmal boren von mir!",
+      "wordCount": 6
+    },
+    {
+      "id": 578,
+      "index": 578,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "You know, sharing your adventures is an interesting experience.",
+      "wordCount": 9
+    },
+    {
+      "id": 579,
+      "index": 579,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "That's not all we shared. It's disgraceful. You're old enough to be her fa---er, her grandfather!",
+      "wordCount": 16
+    },
+    {
+      "id": 580,
+      "index": 580,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "Well, I'm as human as the next man.",
+      "wordCount": 8
+    },
+    {
+      "id": 581,
+      "index": 581,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "I was the next man.",
+      "wordCount": 5
+    },
+    {
+      "id": 582,
+      "index": 582,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "Ships that pass in the night...",
+      "wordCount": 6
+    },
+    {
+      "id": 583,
+      "index": 583,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Do you remember the last time we had a quiet drink? I had a milk shake.",
+      "wordCount": 16
+    },
+    {
+      "id": 584,
+      "index": 584,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "Hmmm... What did we talk about?",
+      "wordCount": 6
+    },
+    {
+      "id": 585,
+      "index": 585,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "We didn't talk. We never talked.",
+      "wordCount": 6
+    },
+    {
+      "id": 586,
+      "index": 586,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "And do I detect a rebuke?",
+      "wordCount": 6
+    },
+    {
+      "id": 587,
+      "index": 587,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "A regret. It was just the two of us, Dad. It was a lonely way to grow up. For you, too. If you had been an ordinary, average father like the other guys' dads, you'd have understood that.",
+      "wordCount": 38
+    },
+    {
+      "id": 588,
+      "index": 588,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "Actually, I was a wonderful father.",
+      "wordCount": 6
+    },
+    {
+      "id": 589,
+      "index": 589,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "When?",
+      "wordCount": 1
+    },
+    {
+      "id": 590,
+      "index": 590,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "Did I ever tell you to eat up? Go to bed? Wash your ears? Do your homework? No. I respected your privacy and I taught you self- reliance.",
+      "wordCount": 28
+    },
+    {
+      "id": 591,
+      "index": 591,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "What you taught me was that I was less important to you than people who had been dead for five hundred years in another country. And I learned it so well that we've hardly spoken for twenty years.",
+      "wordCount": 38
+    },
+    {
+      "id": 592,
+      "index": 592,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "You left just when you were becoming interesting.",
+      "wordCount": 8
+    },
+    {
+      "id": 593,
+      "index": 593,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Dad, how can you --?",
+      "wordCount": 5
+    },
+    {
+      "id": 594,
+      "index": 594,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "Very well. I'm here now.",
+      "wordCount": 5
+    },
+    {
+      "id": 595,
+      "index": 595,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "What do you want to talk about? Hmmm?",
+      "wordCount": 8
+    },
+    {
+      "id": 596,
+      "index": 596,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Well... I can't think of anything.",
+      "wordCount": 6
+    },
+    {
+      "id": 597,
+      "index": 597,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "Then what are you complaining about? Look, we have work to do. When we get to Alexandretta we will face three challenges. \"First, the breath of God. Only the penitent man will pass. Second, the Word of God, only in the footsteps of God will he proceed. Third, the Path of God, only in the leap from the lion's head will he prove his worth. \"",
+      "wordCount": 66
+    },
+    {
+      "id": 598,
+      "index": 598,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "What does that mean?",
+      "wordCount": 4
+    },
+    {
+      "id": 599,
+      "index": 599,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "I don't know. We'll find out.",
+      "wordCount": 6
+    },
+    {
+      "id": 600,
+      "index": 600,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "They're turning around. They're taking us back to Germany.",
+      "wordCount": 9
+    },
+    {
+      "id": 601,
+      "index": 601,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Well, I thought it would take them a lot longer to figure out the radio was dead. Come on, Dad. Move!",
+      "wordCount": 21
+    },
+    {
+      "id": 602,
+      "index": 602,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Come on, Dad. Come on!",
+      "wordCount": 5
+    },
+    {
+      "id": 603,
+      "index": 603,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "I didn't know you could fly a plane.",
+      "wordCount": 8
+    },
+    {
+      "id": 604,
+      "index": 604,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Fly--yes. Land--no.",
+      "wordCount": 2
+    },
+    {
+      "id": 605,
+      "index": 605,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Dad, you're gonna have to use the machine gun. Get it ready.",
+      "wordCount": 12
+    },
+    {
+      "id": 606,
+      "index": 606,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Eleven o'clock!",
+      "wordCount": 2
+    },
+    {
+      "id": 607,
+      "index": 607,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Dadeleven o'clock!!",
+      "wordCount": 2
+    },
+    {
+      "id": 608,
+      "index": 608,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "What happens at eleven o'clock?",
+      "wordCount": 5
+    },
+    {
+      "id": 609,
+      "index": 609,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Twelveeleventen. Eleven o'clock. Fire!",
+      "wordCount": 4
+    },
+    {
+      "id": 610,
+      "index": 610,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Dad, are we hit?!",
+      "wordCount": 4
+    },
+    {
+      "id": 611,
+      "index": 611,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "More or less.",
+      "wordCount": 3
+    },
+    {
+      "id": 612,
+      "index": 612,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "Son, I'm sorry. They got us.",
+      "wordCount": 6
+    },
+    {
+      "id": 613,
+      "index": 613,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Hang on, Dads We're going in!",
+      "wordCount": 6
+    },
+    {
+      "id": 614,
+      "index": 614,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "Nice landing.",
+      "wordCount": 2
+    },
+    {
+      "id": 615,
+      "index": 615,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Thanks.",
+      "wordCount": 1
+    },
+    {
+      "id": 616,
+      "index": 616,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "Those people are trying to kill us!",
+      "wordCount": 7
+    },
+    {
+      "id": 617,
+      "index": 617,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "I know, Dadl",
+      "wordCount": 3
+    },
+    {
+      "id": 618,
+      "index": 618,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "It's a new experience for me.",
+      "wordCount": 6
+    },
+    {
+      "id": 619,
+      "index": 619,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "It happens to me all the time.",
+      "wordCount": 7
+    },
+    {
+      "id": 620,
+      "index": 620,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "This is intolerable!",
+      "wordCount": 3
+    },
+    {
+      "id": 621,
+      "index": 621,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "This could be close.",
+      "wordCount": 4
+    },
+    {
+      "id": 622,
+      "index": 622,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "Faster, boy --faster!",
+      "wordCount": 3
+    },
+    {
+      "id": 623,
+      "index": 623,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "Well, they don't come any closer than that!",
+      "wordCount": 8
+    },
+    {
+      "id": 624,
+      "index": 624,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Dad, he's coming back.",
+      "wordCount": 4
+    },
+    {
+      "id": 625,
+      "index": 625,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "I suddenly remembered Charlemagne. \"Let my armies be the rocks and the trees and the birds in the sky.\"",
+      "wordCount": 19
+    },
+    {
+      "id": 626,
+      "index": 626,
+      "character": "DONOVAN",
+      "gender": "Male",
+      "line": "These pages are taken from Professor Jones' diary, Your Highness. And they include a map that pinpoints the exact location of the Grail.",
+      "wordCount": 23
+    },
+    {
+      "id": 627,
+      "index": 627,
+      "character": "DONOVAN",
+      "gender": "Male",
+      "line": "As you can see, the Grail is all but in our hands. However, Your Highness, we would not think of crossing your soil without your permission, nor of removing the Grail from your borders without suitable compensation.",
+      "wordCount": 37
+    },
+    {
+      "id": 628,
+      "index": 628,
+      "character": "SULTAN",
+      "gender": "Male",
+      "line": "What have you brought?",
+      "wordCount": 4
+    },
+    {
+      "id": 629,
+      "index": 629,
+      "character": "VOGEL",
+      "gender": "Male",
+      "line": "Bring den Schatzl",
+      "wordCount": 3
+    },
+    {
+      "id": 630,
+      "index": 630,
+      "character": "DONOVAN",
+      "gender": "Male",
+      "line": "Precious valuables, Your Highness, \"donated\" by some of the finest families in all of Germany.",
+      "wordCount": 15
+    },
+    {
+      "id": 631,
+      "index": 631,
+      "character": "SULTAN",
+      "gender": "Male",
+      "line": "Rolls-Royce Phantom Two. 4.3 litre, 30 horsepower, six cylinder engine, with Stromberg Downdraft carburetor.",
+      "wordCount": 14
+    },
+    {
+      "id": 632,
+      "index": 632,
+      "character": "SULTAN",
+      "gender": "Male",
+      "line": "Can go from zero to 100 kilometres an hour in 12.5 seconds. And I even like the color.",
+      "wordCount": 18
+    },
+    {
+      "id": 633,
+      "index": 633,
+      "character": "DONOVAN",
+      "gender": "Male",
+      "line": "The keys are in the ignition, Your Highness.",
+      "wordCount": 8
+    },
+    {
+      "id": 634,
+      "index": 634,
+      "character": "SULTAN",
+      "gender": "Male",
+      "line": "You shall have camels, horses, an armed escort, provisions, desert vehiclesand tanksl",
+      "wordCount": 12
+    },
+    {
+      "id": 635,
+      "index": 635,
+      "character": "DONOVAN",
+      "gender": "Male",
+      "line": "You're welcome.",
+      "wordCount": 2
+    },
+    {
+      "id": 636,
+      "index": 636,
+      "character": "ELSA",
+      "gender": "Female",
+      "line": "We have no time to lose. Indiana Jones and his father have escaped.",
+      "wordCount": 13
+    },
+    {
+      "id": 637,
+      "index": 637,
+      "character": "SALLAH",
+      "gender": "Male",
+      "line": "We go this way.",
+      "wordCount": 4
+    },
+    {
+      "id": 638,
+      "index": 638,
+      "character": "SALLAH",
+      "gender": "Male",
+      "line": "Get that camel out of the way!",
+      "wordCount": 7
+    },
+    {
+      "id": 639,
+      "index": 639,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "What happened to Marcus, Sallah?",
+      "wordCount": 5
+    },
+    {
+      "id": 640,
+      "index": 640,
+      "character": "SALLAH",
+      "gender": "Male",
+      "line": "Ah, they set out across the desert this afternoon. I believe they took Mister Brody with them.",
+      "wordCount": 17
+    },
+    {
+      "id": 641,
+      "index": 641,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "Now they have the map! And in this sort of race, there's no silver medal for finishing second.",
+      "wordCount": 18
+    },
+    {
+      "id": 642,
+      "index": 642,
+      "character": "DONOVAN",
+      "gender": "Male",
+      "line": "Care to wet your whistle, Marcus?",
+      "wordCount": 6
+    },
+    {
+      "id": 643,
+      "index": 643,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "I'd rather spit in your face. But as I haven't got any spit...",
+      "wordCount": 13
+    },
+    {
+      "id": 644,
+      "index": 644,
+      "character": "VOGEL",
+      "gender": "Male",
+      "line": "We must be within three or four miles. Otherwise we are off the map.",
+      "wordCount": 14
+    },
+    {
+      "id": 645,
+      "index": 645,
+      "character": "DONOVAN",
+      "gender": "Male",
+      "line": "Well, Marcus, we are on the brink of the recovery of the greatest artifact in the history of mankind.",
+      "wordCount": 19
+    },
+    {
+      "id": 646,
+      "index": 646,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "You're meddling with powers you cannot possibly comprehend.",
+      "wordCount": 8
+    },
+    {
+      "id": 647,
+      "index": 647,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Ah, I see Brody. He seems okay. They've got a tank. Six-pound gun.",
+      "wordCount": 13
+    },
+    {
+      "id": 648,
+      "index": 648,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "What do you think you're doing?! Get down!",
+      "wordCount": 8
+    },
+    {
+      "id": 649,
+      "index": 649,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Dad, we're well out of range.",
+      "wordCount": 6
+    },
+    {
+      "id": 650,
+      "index": 650,
+      "character": "SALLAH",
+      "gender": "Male",
+      "line": "That car belonged to my brother- in-law.",
+      "wordCount": 7
+    },
+    {
+      "id": 651,
+      "index": 651,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Come on--come on!",
+      "wordCount": 3
+    },
+    {
+      "id": 652,
+      "index": 652,
+      "character": "VOGEL",
+      "gender": "Male",
+      "line": "I can't see anyone up there.",
+      "wordCount": 6
+    },
+    {
+      "id": 653,
+      "index": 653,
+      "character": "DONOVAN",
+      "gender": "Male",
+      "line": "Maybe it wasn't even Jones.",
+      "wordCount": 5
+    },
+    {
+      "id": 654,
+      "index": 654,
+      "character": "ELSA",
+      "gender": "Female",
+      "line": "No. It's him all right. He's here somewhere.",
+      "wordCount": 8
+    },
+    {
+      "id": 655,
+      "index": 655,
+      "character": "DONOVAN",
+      "gender": "Male",
+      "line": "Put Brody in the tank.",
+      "wordCount": 5
+    },
+    {
+      "id": 656,
+      "index": 656,
+      "character": "DONOVAN",
+      "gender": "Male",
+      "line": "Well, in this sun, without transportation, they're as good as dead.",
+      "wordCount": 11
+    },
+    {
+      "id": 657,
+      "index": 657,
+      "character": "DONOVAN",
+      "gender": "Male",
+      "line": "It's Jones, all right.",
+      "wordCount": 4
+    },
+    {
+      "id": 658,
+      "index": 658,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "Now, who are all these people?",
+      "wordCount": 6
+    },
+    {
+      "id": 659,
+      "index": 659,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Who cares? As long as they're keeping Donovan busy. Dad, you stay here while Sallah and I organize some transportation.",
+      "wordCount": 20
+    },
+    {
+      "id": 660,
+      "index": 660,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "I'm going after those horses.",
+      "wordCount": 5
+    },
+    {
+      "id": 661,
+      "index": 661,
+      "character": "SALLAH",
+      "gender": "Male",
+      "line": "I'll take the camels.",
+      "wordCount": 4
+    },
+    {
+      "id": 662,
+      "index": 662,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "I don't need camels.",
+      "wordCount": 4
+    },
+    {
+      "id": 663,
+      "index": 663,
+      "character": "SALLAH",
+      "gender": "Male",
+      "line": "But, Indy",
+      "wordCount": 2
+    },
+    {
+      "id": 664,
+      "index": 664,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "No camels!",
+      "wordCount": 2
+    },
+    {
+      "id": 665,
+      "index": 665,
+      "character": "DONOVAN",
+      "gender": "Male",
+      "line": "Who is he?",
+      "wordCount": 3
+    },
+    {
+      "id": 666,
+      "index": 666,
+      "character": "KAZIM",
+      "gender": "Male",
+      "line": "A messenger from God. For the unrighteous, the Cup of Life holds everlasting damnation.",
+      "wordCount": 14
+    },
+    {
+      "id": 667,
+      "index": 667,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "Marcus!",
+      "wordCount": 1
+    },
+    {
+      "id": 668,
+      "index": 668,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Arghhh! Oh!",
+      "wordCount": 2
+    },
+    {
+      "id": 669,
+      "index": 669,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "\"Genius of the Restoration\"",
+      "wordCount": 4
+    },
+    {
+      "id": 670,
+      "index": 670,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "\"aid our own resuscitation!\"",
+      "wordCount": 4
+    },
+    {
+      "id": 671,
+      "index": 671,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Henryl What are you doing here?!",
+      "wordCount": 6
+    },
+    {
+      "id": 672,
+      "index": 672,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "It's a rescue, old boys Come on.",
+      "wordCount": 7
+    },
+    {
+      "id": 673,
+      "index": 673,
+      "character": "VOGEL",
+      "gender": "Male",
+      "line": "Search him.",
+      "wordCount": 2
+    },
+    {
+      "id": 674,
+      "index": 674,
+      "character": "VOGEL",
+      "gender": "Male",
+      "line": "What is in this book? That miserable little Diary of yours!",
+      "wordCount": 11
+    },
+    {
+      "id": 675,
+      "index": 675,
+      "character": "VOGEL",
+      "gender": "Male",
+      "line": "Here's the map. The book is useless, and yet you come all the way back to Berlin to get it. Why?",
+      "wordCount": 21
+    },
+    {
+      "id": 676,
+      "index": 676,
+      "character": "VOGEL",
+      "gender": "Male",
+      "line": "What are you hiding?",
+      "wordCount": 4
+    },
+    {
+      "id": 677,
+      "index": 677,
+      "character": "VOGEL",
+      "gender": "Male",
+      "line": "What does the Diary tell you that it doesn't tell us?!",
+      "wordCount": 11
+    },
+    {
+      "id": 678,
+      "index": 678,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "It tells me that goose-stepping morons like yourself should try reading books instead of burning them.",
+      "wordCount": 16
+    },
+    {
+      "id": 679,
+      "index": 679,
+      "character": "DONOVAN",
+      "gender": "Male",
+      "line": "Colonel? Jones is getting away.",
+      "wordCount": 5
+    },
+    {
+      "id": 680,
+      "index": 680,
+      "character": "VOGEL",
+      "gender": "Male",
+      "line": "I think not, Herr Donovan.",
+      "wordCount": 5
+    },
+    {
+      "id": 681,
+      "index": 681,
+      "character": "DONOVAN",
+      "gender": "Male",
+      "line": "Not that Jonesthe other Jones!",
+      "wordCount": 5
+    },
+    {
+      "id": 682,
+      "index": 682,
+      "character": "NAZI SOLDIER",
+      "gender": "NA",
+      "line": "Herr Colonel!",
+      "wordCount": 2
+    },
+    {
+      "id": 683,
+      "index": 683,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Sallah, I said no camels! That's five camels. Can't you Count?",
+      "wordCount": 11
+    },
+    {
+      "id": 684,
+      "index": 684,
+      "character": "SALLAH",
+      "gender": "Male",
+      "line": "Compensation for my brother-in- law's car. Indy, your father and Brody",
+      "wordCount": 11
+    },
+    {
+      "id": 685,
+      "index": 685,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Where's my father?",
+      "wordCount": 3
+    },
+    {
+      "id": 686,
+      "index": 686,
+      "character": "SALLAH",
+      "gender": "Male",
+      "line": "They have them. In the belly of that steel beast.",
+      "wordCount": 10
+    },
+    {
+      "id": 687,
+      "index": 687,
+      "character": "VOGEL",
+      "gender": "Male",
+      "line": "Fire!",
+      "wordCount": 1
+    },
+    {
+      "id": 688,
+      "index": 688,
+      "character": "VOGEL",
+      "gender": "Male",
+      "line": "Der Kubelwagon sprengen!",
+      "wordCount": 3
+    },
+    {
+      "id": 689,
+      "index": 689,
+      "character": "NAZI SOLDIER",
+      "gender": "NA",
+      "line": "Keine Bewegung.",
+      "wordCount": 2
+    },
+    {
+      "id": 690,
+      "index": 690,
+      "character": "NAZI SOLDIER",
+      "gender": "NA",
+      "line": "Keine Bewegung.",
+      "wordCount": 2
+    },
+    {
+      "id": 691,
+      "index": 691,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Dad! Dad! Dad!",
+      "wordCount": 3
+    },
+    {
+      "id": 692,
+      "index": 692,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "Junior? Junior? Junior!",
+      "wordCount": 3
+    },
+    {
+      "id": 693,
+      "index": 693,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Dad!",
+      "wordCount": 1
+    },
+    {
+      "id": 694,
+      "index": 694,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Dad! Dadl Get it!",
+      "wordCount": 4
+    },
+    {
+      "id": 695,
+      "index": 695,
+      "character": "PERISCOPE SOLDIER",
+      "gender": "NA",
+      "line": "Diese Amerikane. Sie Kampfen wie Weiber.",
+      "wordCount": 6
+    },
+    {
+      "id": 696,
+      "index": 696,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Henry, the pen",
+      "wordCount": 3
+    },
+    {
+      "id": 697,
+      "index": 697,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "What?",
+      "wordCount": 1
+    },
+    {
+      "id": 698,
+      "index": 698,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "But don't you see? The pen is mightier than the sword.",
+      "wordCount": 11
+    },
+    {
+      "id": 699,
+      "index": 699,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Look what you didl",
+      "wordCount": 4
+    },
+    {
+      "id": 700,
+      "index": 700,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "It's war.",
+      "wordCount": 2
+    },
+    {
+      "id": 701,
+      "index": 701,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "Didn't I tell you it was a rescue, huh?",
+      "wordCount": 9
+    },
+    {
+      "id": 702,
+      "index": 702,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Dad?",
+      "wordCount": 1
+    },
+    {
+      "id": 703,
+      "index": 703,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "You call this archaeology?",
+      "wordCount": 4
+    },
+    {
+      "id": 704,
+      "index": 704,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Get out of there, Dad!",
+      "wordCount": 5
+    },
+    {
+      "id": 705,
+      "index": 705,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "How does one get off this thing?",
+      "wordCount": 7
+    },
+    {
+      "id": 706,
+      "index": 706,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "Where's Marcus?!",
+      "wordCount": 2
+    },
+    {
+      "id": 707,
+      "index": 707,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Dad!",
+      "wordCount": 1
+    },
+    {
+      "id": 708,
+      "index": 708,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Hang on, Dad!",
+      "wordCount": 3
+    },
+    {
+      "id": 709,
+      "index": 709,
+      "character": "SALLAH",
+      "gender": "Male",
+      "line": "Father of Indygive me your hand!",
+      "wordCount": 6
+    },
+    {
+      "id": 710,
+      "index": 710,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Sallah! Get Dadl",
+      "wordCount": 3
+    },
+    {
+      "id": 711,
+      "index": 711,
+      "character": "SALLAH",
+      "gender": "Male",
+      "line": "Give me your hand!",
+      "wordCount": 4
+    },
+    {
+      "id": 712,
+      "index": 712,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "Junior?!",
+      "wordCount": 1
+    },
+    {
+      "id": 713,
+      "index": 713,
+      "character": "SALLAH",
+      "gender": "Male",
+      "line": "Indy?!",
+      "wordCount": 1
+    },
+    {
+      "id": 714,
+      "index": 714,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "Oh, God. I've lost him. And I never told him anything. I just wasn't ready, Marcus. Five minutes would have been enough.",
+      "wordCount": 22
+    },
+    {
+      "id": 715,
+      "index": 715,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "I thought I'd lost you, boy.",
+      "wordCount": 6
+    },
+    {
+      "id": 716,
+      "index": 716,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "I thought you had too, sir.",
+      "wordCount": 6
+    },
+    {
+      "id": 717,
+      "index": 717,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "Wellwell done! Come on!",
+      "wordCount": 4
+    },
+    {
+      "id": 718,
+      "index": 718,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "Let's go then. why are you sitting there resting when we're so near the end? Come on let's go!",
+      "wordCount": 19
+    },
+    {
+      "id": 719,
+      "index": 719,
+      "character": "DONOVAN",
+      "gender": "Male",
+      "line": "The Canyon of the Crescent Moon.",
+      "wordCount": 6
+    },
+    {
+      "id": 720,
+      "index": 720,
+      "character": "DONOVAN",
+      "gender": "Male",
+      "line": "Helmut, another volunteer!",
+      "wordCount": 3
+    },
+    {
+      "id": 721,
+      "index": 721,
+      "character": "ELSA",
+      "gender": "Female",
+      "line": "I never expected to see you again.",
+      "wordCount": 7
+    },
+    {
+      "id": 722,
+      "index": 722,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "I'm like a bad penny. I always turn up.",
+      "wordCount": 9
+    },
+    {
+      "id": 723,
+      "index": 723,
+      "character": "DONOVAN",
+      "gender": "Male",
+      "line": "Step back now, Doctor Schneider. Give Doctor Jones some room. He's going to recover the Grail for us.",
+      "wordCount": 18
+    },
+    {
+      "id": 724,
+      "index": 724,
+      "character": "DONOVAN",
+      "gender": "Male",
+      "line": "Impossible? What do you say, Jones? Ready to go down in history?",
+      "wordCount": 12
+    },
+    {
+      "id": 725,
+      "index": 725,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "As what? A Nazi stooge like you?",
+      "wordCount": 7
+    },
+    {
+      "id": 726,
+      "index": 726,
+      "character": "DONOVAN",
+      "gender": "Male",
+      "line": "Nazis?!Is that the limit of your vision?! The Nazis want to write themselves into the Grail legend and take on the world. Well, they're welcome. But I want the Grail itself. The cup that gives everlasting life. Hitler can have the world, but he can't take it with him. I'm going to be drinking my own health when he's gone the way of the Dodo. The Grail is mine, and you're going to get it for me.",
+      "wordCount": 77
+    },
+    {
+      "id": 727,
+      "index": 727,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Shooting me won't get you anywhere.",
+      "wordCount": 6
+    },
+    {
+      "id": 728,
+      "index": 728,
+      "character": "DONOVAN",
+      "gender": "Male",
+      "line": "You know something, Doctor Jones?... you're absolutely right.",
+      "wordCount": 8
+    },
+    {
+      "id": 729,
+      "index": 729,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Dad?!",
+      "wordCount": 1
+    },
+    {
+      "id": 730,
+      "index": 730,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "Junior. . .",
+      "wordCount": 3
+    },
+    {
+      "id": 731,
+      "index": 731,
+      "character": "ELSA",
+      "gender": "Female",
+      "line": "No!!",
+      "wordCount": 1
+    },
+    {
+      "id": 732,
+      "index": 732,
+      "character": "DONOVAN",
+      "gender": "Male",
+      "line": "Get back!",
+      "wordCount": 2
+    },
+    {
+      "id": 733,
+      "index": 733,
+      "character": "DONOVAN",
+      "gender": "Male",
+      "line": "You can't save him when you're dead.",
+      "wordCount": 7
+    },
+    {
+      "id": 734,
+      "index": 734,
+      "character": "DONOVAN",
+      "gender": "Male",
+      "line": "The healing power of the Grail is the only thing that can save your father now. It's time to ask yourself what you believe.",
+      "wordCount": 24
+    },
+    {
+      "id": 735,
+      "index": 735,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "\"The Breath of God... Only the penitent man will pass. Only the penitent man will pass. . . \"",
+      "wordCount": 19
+    },
+    {
+      "id": 736,
+      "index": 736,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "\"The penitent man will pass. The penitent man...\"",
+      "wordCount": 8
+    },
+    {
+      "id": 737,
+      "index": 737,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "\"Only the penitent man will pass. Only the penitent man will pass.\"",
+      "wordCount": 12
+    },
+    {
+      "id": 738,
+      "index": 738,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "The penitent man will pass. The penitent... the penitent. The penitent man...",
+      "wordCount": 12
+    },
+    {
+      "id": 739,
+      "index": 739,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "The penitent man. The penitent...",
+      "wordCount": 5
+    },
+    {
+      "id": 740,
+      "index": 740,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "The penitent man is humble before God.",
+      "wordCount": 7
+    },
+    {
+      "id": 741,
+      "index": 741,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "Penitent. Penitent...",
+      "wordCount": 2
+    },
+    {
+      "id": 742,
+      "index": 742,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "The penitent man is humble...",
+      "wordCount": 5
+    },
+    {
+      "id": 743,
+      "index": 743,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "He kneels before God. Kneel!!",
+      "wordCount": 5
+    },
+    {
+      "id": 744,
+      "index": 744,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "I'm through!",
+      "wordCount": 2
+    },
+    {
+      "id": 745,
+      "index": 745,
+      "character": "DONOVAN",
+      "gender": "Male",
+      "line": "We're through!",
+      "wordCount": 2
+    },
+    {
+      "id": 746,
+      "index": 746,
+      "character": "SALLAH",
+      "gender": "Male",
+      "line": "He's all right.",
+      "wordCount": 3
+    },
+    {
+      "id": 747,
+      "index": 747,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "No.",
+      "wordCount": 1
+    },
+    {
+      "id": 748,
+      "index": 748,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "\"The second challenge is the Word of God. Only in the footsteps of God will he proceed.\" The Word of God... The Word of...",
+      "wordCount": 24
+    },
+    {
+      "id": 749,
+      "index": 749,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "\"Proceed in the footsteps of the Word.\"",
+      "wordCount": 7
+    },
+    {
+      "id": 750,
+      "index": 750,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "The Word of God...",
+      "wordCount": 4
+    },
+    {
+      "id": 751,
+      "index": 751,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "No, Henry. Try not to talk.",
+      "wordCount": 6
+    },
+    {
+      "id": 752,
+      "index": 752,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "The Name of God...",
+      "wordCount": 4
+    },
+    {
+      "id": 753,
+      "index": 753,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "The Name of God... Jehovahl",
+      "wordCount": 5
+    },
+    {
+      "id": 754,
+      "index": 754,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "But in the Latin alphabet, \"Jehovah\" begins with an \"I.\"",
+      "wordCount": 10
+    },
+    {
+      "id": 755,
+      "index": 755,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "\"J.\"",
+      "wordCount": 1
+    },
+    {
+      "id": 756,
+      "index": 756,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "Oh dear!",
+      "wordCount": 2
+    },
+    {
+      "id": 757,
+      "index": 757,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "In Latin, \"Jehovah\" starts with an \"I.\" \"I\"...",
+      "wordCount": 8
+    },
+    {
+      "id": 758,
+      "index": 758,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "\"E\"... \"H\"... \"O\"... \"V\"... \"A\"...",
+      "wordCount": 5
+    },
+    {
+      "id": 759,
+      "index": 759,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "\"The path of flood. Only in the leap from the lion's head will he prove his worth.\"",
+      "wordCount": 17
+    },
+    {
+      "id": 760,
+      "index": 760,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Impossiblel Nobody can jump this!",
+      "wordCount": 5
+    },
+    {
+      "id": 761,
+      "index": 761,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Indy... Indy, you must hurry!! Come quickly!",
+      "wordCount": 7
+    },
+    {
+      "id": 762,
+      "index": 762,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "It's... a leap of faith. Oh, God.",
+      "wordCount": 7
+    },
+    {
+      "id": 763,
+      "index": 763,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "You must believe, boy. you must... believe.",
+      "wordCount": 7
+    },
+    {
+      "id": 764,
+      "index": 764,
+      "character": "KNIGHT",
+      "gender": "Male",
+      "line": "I knew you'd come, but my strength has left me.",
+      "wordCount": 10
+    },
+    {
+      "id": 765,
+      "index": 765,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Who are you?",
+      "wordCount": 3
+    },
+    {
+      "id": 766,
+      "index": 766,
+      "character": "KNIGHT",
+      "gender": "Male",
+      "line": "The last of three brothers who swore an oath to find the Grail and to guard it.",
+      "wordCount": 17
+    },
+    {
+      "id": 767,
+      "index": 767,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "That was seven hundred years ago.",
+      "wordCount": 6
+    },
+    {
+      "id": 768,
+      "index": 768,
+      "character": "KNIGHT",
+      "gender": "Male",
+      "line": "A long time to wait.",
+      "wordCount": 5
+    },
+    {
+      "id": 769,
+      "index": 769,
+      "character": "KNIGHT",
+      "gender": "Male",
+      "line": "You're strangely dressed...for a knight.",
+      "wordCount": 5
+    },
+    {
+      "id": 770,
+      "index": 770,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "I'm not exactly...a knight. What do you mean?",
+      "wordCount": 8
+    },
+    {
+      "id": 771,
+      "index": 771,
+      "character": "KNIGHT",
+      "gender": "Male",
+      "line": "I was chosen because I was the bravest and the most worthy. The honor was mine until another came to challenge me to single combat. I pass it to you who vanquished me.",
+      "wordCount": 33
+    },
+    {
+      "id": 772,
+      "index": 772,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Listen, I don't have time to explain, but",
+      "wordCount": 8
+    },
+    {
+      "id": 773,
+      "index": 773,
+      "character": "DONOVAN",
+      "gender": "Male",
+      "line": "Which one is it?",
+      "wordCount": 4
+    },
+    {
+      "id": 774,
+      "index": 774,
+      "character": "KNIGHT",
+      "gender": "Male",
+      "line": "You must choose. But choose wisely. For as the True Grail will bring you life the False Grail will take it from you.",
+      "wordCount": 23
+    },
+    {
+      "id": 775,
+      "index": 775,
+      "character": "DONOVAN",
+      "gender": "Male",
+      "line": "I'm not a historian. I have no idea what it looks like. Which one is it?",
+      "wordCount": 16
+    },
+    {
+      "id": 776,
+      "index": 776,
+      "character": "ELSA",
+      "gender": "Female",
+      "line": "Let me choose.",
+      "wordCount": 3
+    },
+    {
+      "id": 777,
+      "index": 777,
+      "character": "DONOVAN",
+      "gender": "Male",
+      "line": "Thank you, Doctor.",
+      "wordCount": 3
+    },
+    {
+      "id": 778,
+      "index": 778,
+      "character": "DONOVAN",
+      "gender": "Male",
+      "line": "Oh, yes. It's more beautiful than I'd ever imagined. This certainly is the cup of the King of Kings.",
+      "wordCount": 19
+    },
+    {
+      "id": 779,
+      "index": 779,
+      "character": "DONOVAN",
+      "gender": "Male",
+      "line": "Eternal life!",
+      "wordCount": 2
+    },
+    {
+      "id": 780,
+      "index": 780,
+      "character": "DONOVAN",
+      "gender": "Male",
+      "line": "What . . . is . . . happening. . . to . . . me. . .?",
+      "wordCount": 18
+    },
+    {
+      "id": 781,
+      "index": 781,
+      "character": "DONOVAN",
+      "gender": "Male",
+      "line": "What. . . is . . . happening. . . ?",
+      "wordCount": 11
+    },
+    {
+      "id": 782,
+      "index": 782,
+      "character": "KNIGHT",
+      "gender": "Male",
+      "line": "He chose...poorly.",
+      "wordCount": 2
+    },
+    {
+      "id": 783,
+      "index": 783,
+      "character": "ELSA",
+      "gender": "Female",
+      "line": "It would not be made out of gold.",
+      "wordCount": 8
+    },
+    {
+      "id": 784,
+      "index": 784,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "That's the cup of a carpenter.",
+      "wordCount": 6
+    },
+    {
+      "id": 785,
+      "index": 785,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "There's only one way to find out.",
+      "wordCount": 7
+    },
+    {
+      "id": 786,
+      "index": 786,
+      "character": "KNIGHT",
+      "gender": "Male",
+      "line": "You have chosen wisely. But the Grail cannot pass beyond the Great Seal. That is the boundary and the price of immortality.",
+      "wordCount": 22
+    },
+    {
+      "id": 787,
+      "index": 787,
+      "character": "SALLAH",
+      "gender": "Male",
+      "line": "Drop your guns. Please.",
+      "wordCount": 4
+    },
+    {
+      "id": 788,
+      "index": 788,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Dad, come on. Get to your feet.",
+      "wordCount": 7
+    },
+    {
+      "id": 789,
+      "index": 789,
+      "character": "ELSA",
+      "gender": "Female",
+      "line": "We have got it. Come on.",
+      "wordCount": 6
+    },
+    {
+      "id": 790,
+      "index": 790,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Elsa! Elsa, don't movel",
+      "wordCount": 4
+    },
+    {
+      "id": 791,
+      "index": 791,
+      "character": "ELSA",
+      "gender": "Female",
+      "line": "It's ours, Indy. Yours and mine.",
+      "wordCount": 6
+    },
+    {
+      "id": 792,
+      "index": 792,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Elsa, don't cross the Seal. The Knight warned us not to take the Grail from here.",
+      "wordCount": 16
+    },
+    {
+      "id": 793,
+      "index": 793,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "Junior! Junior!",
+      "wordCount": 2
+    },
+    {
+      "id": 794,
+      "index": 794,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Elsa. Elsa don't. Elsa. Elsa. Give me your other hand, honey. I can't hold you.",
+      "wordCount": 15
+    },
+    {
+      "id": 795,
+      "index": 795,
+      "character": "ELSA",
+      "gender": "Female",
+      "line": "I can reach it. I can reach it...",
+      "wordCount": 8
+    },
+    {
+      "id": 796,
+      "index": 796,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Elsa! Give me your hand. Give me your other hand!",
+      "wordCount": 10
+    },
+    {
+      "id": 797,
+      "index": 797,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Elsa!!",
+      "wordCount": 1
+    },
+    {
+      "id": 798,
+      "index": 798,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "Junior, give me your other hand! I can't hold on!!",
+      "wordCount": 10
+    },
+    {
+      "id": 799,
+      "index": 799,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "I can get itI can almost reach it, Dad.",
+      "wordCount": 9
+    },
+    {
+      "id": 800,
+      "index": 800,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "Indiana. Indiana!!",
+      "wordCount": 2
+    },
+    {
+      "id": 801,
+      "index": 801,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "... let it go...",
+      "wordCount": 4
+    },
+    {
+      "id": 802,
+      "index": 802,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Dad. . .",
+      "wordCount": 3
+    },
+    {
+      "id": 803,
+      "index": 803,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Please, Dad...",
+      "wordCount": 2
+    },
+    {
+      "id": 804,
+      "index": 804,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "Elsa never really believed in the Grail. She thought she'd found a prize.",
+      "wordCount": 13
+    },
+    {
+      "id": 805,
+      "index": 805,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "What did vou find, Dad?",
+      "wordCount": 5
+    },
+    {
+      "id": 806,
+      "index": 806,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "Me?... Illumination.",
+      "wordCount": 2
+    },
+    {
+      "id": 807,
+      "index": 807,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "What did you find, Junior?",
+      "wordCount": 5
+    },
+    {
+      "id": 808,
+      "index": 808,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Junior?! Dad...",
+      "wordCount": 2
+    },
+    {
+      "id": 809,
+      "index": 809,
+      "character": "SALLAH",
+      "gender": "Male",
+      "line": "Please...What does it always mean, this...this \"Junior?\"",
+      "wordCount": 7
+    },
+    {
+      "id": 810,
+      "index": 810,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "That's his name. Henry Jones, Junior.",
+      "wordCount": 6
+    },
+    {
+      "id": 811,
+      "index": 811,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "I like Indiana.",
+      "wordCount": 3
+    },
+    {
+      "id": 812,
+      "index": 812,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "We named the dog Indiana.",
+      "wordCount": 5
+    },
+    {
+      "id": 813,
+      "index": 813,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "May we go home now, please?",
+      "wordCount": 6
+    },
+    {
+      "id": 814,
+      "index": 814,
+      "character": "SALLAH",
+      "gender": "Male",
+      "line": "The dog!? You are named after the dog...",
+      "wordCount": 8
+    },
+    {
+      "id": 815,
+      "index": 815,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "I've got a lot of fond memories of that dog.",
+      "wordCount": 10
+    },
+    {
+      "id": 816,
+      "index": 816,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Ready?",
+      "wordCount": 1
+    },
+    {
+      "id": 817,
+      "index": 817,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "Ready.",
+      "wordCount": 1
+    },
+    {
+      "id": 818,
+      "index": 818,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Indy! Henryl Follow met I know the way! Haaa!",
+      "wordCount": 9
+    },
+    {
+      "id": 819,
+      "index": 819,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "Got lost in his own museum, huh?",
+      "wordCount": 7
+    },
+    {
+      "id": 820,
+      "index": 820,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Uh-huh.",
+      "wordCount": 1
+    },
+    {
+      "id": 821,
+      "index": 821,
+      "character": "HENRY",
+      "gender": "Male",
+      "line": "After you, Junior.",
+      "wordCount": 3
+    },
+    {
+      "id": 822,
+      "index": 822,
+      "character": "INDY",
+      "gender": "Male",
+      "line": "Yes, sir! Haaa!",
+      "wordCount": 3
+    },
+    {
+      "id": 823,
+      "index": 823,
+      "character": "",
+      "gender": "Male"
+    }
+  ]
+}

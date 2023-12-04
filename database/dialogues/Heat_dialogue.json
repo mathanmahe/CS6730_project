@@ -1,0 +1,7836 @@
+{
+  "fileName": "Heat_dialogue.txt",
+  "title": "Heat",
+  "data": [
+    {
+      "id": 0,
+      "index": 0,
+      "character": "CLERK",
+      "gender": "NA",
+      "line": "What you working on?",
+      "wordCount": 4
+    },
+    {
+      "id": 1,
+      "index": 1,
+      "character": "CHRIS",
+      "gender": "Male",
+      "line": "Drillin' some post holes into concrete ...",
+      "wordCount": 7
+    },
+    {
+      "id": 2,
+      "index": 2,
+      "character": "CLERK",
+      "gender": "NA",
+      "line": "With that you can ream solid steel. Check, charge, or cash?",
+      "wordCount": 11
+    },
+    {
+      "id": 3,
+      "index": 3,
+      "character": "CHRIS",
+      "gender": "Male",
+      "line": "Cash. Put \"Jack's Fencing\" on the receipt.",
+      "wordCount": 7
+    },
+    {
+      "id": 4,
+      "index": 4,
+      "character": "CLERK",
+      "gender": "NA",
+      "line": "$788. 30",
+      "wordCount": 2
+    },
+    {
+      "id": 5,
+      "index": 5,
+      "character": "CLERK",
+      "gender": "NA",
+      "line": "...that a good racket? I ought to get out from behind this counter...",
+      "wordCount": 13
+    },
+    {
+      "id": 6,
+      "index": 6,
+      "character": "CHRIS",
+      "gender": "Male",
+      "line": "Yeah. Take it easy.",
+      "wordCount": 4
+    },
+    {
+      "id": 7,
+      "index": 7,
+      "character": "CERRITO",
+      "gender": "NA",
+      "line": "Wrap this here up.",
+      "wordCount": 4
+    },
+    {
+      "id": 8,
+      "index": 8,
+      "character": "CLERK",
+      "gender": "NA",
+      "line": "Yessir. You're going to have a happy little girl.",
+      "wordCount": 9
+    },
+    {
+      "id": 9,
+      "index": 9,
+      "character": "CERRITO",
+      "gender": "NA",
+      "line": "Two. I got two girls.",
+      "wordCount": 5
+    },
+    {
+      "id": 10,
+      "index": 10,
+      "character": "CLERK",
+      "gender": "NA",
+      "line": "That's nice.",
+      "wordCount": 2
+    },
+    {
+      "id": 11,
+      "index": 11,
+      "character": "CERRITO",
+      "gender": "NA",
+      "line": "Yeah. And gimme those three masks there.",
+      "wordCount": 7
+    },
+    {
+      "id": 12,
+      "index": 12,
+      "character": "CERRITO",
+      "gender": "NA",
+      "line": "Gimme Donald Duck, too",
+      "wordCount": 4
+    },
+    {
+      "id": 13,
+      "index": 13,
+      "character": "CLERK",
+      "gender": "NA",
+      "line": "A little early for Halloween?",
+      "wordCount": 5
+    },
+    {
+      "id": 14,
+      "index": 14,
+      "character": "CERRITO",
+      "gender": "NA",
+      "line": "Yeah. Halloween's coming early this year. What do I owe you?",
+      "wordCount": 11
+    },
+    {
+      "id": 15,
+      "index": 15,
+      "character": "JUSTINE",
+      "gender": "Female",
+      "line": "... taking me out to breakfast?",
+      "wordCount": 6
+    },
+    {
+      "id": 16,
+      "index": 16,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "Can't. Bosko's waiting..",
+      "wordCount": 3
+    },
+    {
+      "id": 17,
+      "index": 17,
+      "character": "LAUREN",
+      "gender": "Female",
+      "line": "Hi Vincent. Mom, where's my barrettes?",
+      "wordCount": 6
+    },
+    {
+      "id": 18,
+      "index": 18,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "Hi, sweetie.",
+      "wordCount": 2
+    },
+    {
+      "id": 19,
+      "index": 19,
+      "character": "JUSTINE",
+      "gender": "Female",
+      "line": "I saw them on the kitchen Want me to make coffee?",
+      "wordCount": 11
+    },
+    {
+      "id": 20,
+      "index": 20,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "No school today?",
+      "wordCount": 3
+    },
+    {
+      "id": 21,
+      "index": 21,
+      "character": "LAUREN",
+      "gender": "Female",
+      "line": "Daddy's picking me up! We're going to see the new site and then shopping and lunch. They're not on the table.",
+      "wordCount": 21
+    },
+    {
+      "id": 22,
+      "index": 22,
+      "character": "JUSTINE",
+      "gender": "Female",
+      "line": "Then I don't know... He's already half an hour late.",
+      "wordCount": 10
+    },
+    {
+      "id": 23,
+      "index": 23,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "He gonna show? Or the son of a bitch gonna stand her up like last time?",
+      "wordCount": 16
+    },
+    {
+      "id": 24,
+      "index": 24,
+      "character": "JUSTINE",
+      "gender": "Female",
+      "line": "Want the coffee?",
+      "wordCount": 3
+    },
+    {
+      "id": 25,
+      "index": 25,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "I'm out of time...",
+      "wordCount": 4
+    },
+    {
+      "id": 26,
+      "index": 26,
+      "character": "JUSTINE",
+      "gender": "Female",
+      "line": "Falls back on the pillow, disappointed. It's as if she'd been stood-up. The bed sheet falls half off of her. She's exposed, vulnerable. She looks out the window, occluded by light muslin, away from us and exhales.",
+      "wordCount": 37
+    },
+    {
+      "id": 27,
+      "index": 27,
+      "character": "CERRITO",
+      "gender": "NA",
+      "line": "You Waingro?",
+      "wordCount": 2
+    },
+    {
+      "id": 28,
+      "index": 28,
+      "character": "WAINGRO",
+      "gender": "Male",
+      "line": "Yeah.",
+      "wordCount": 1
+    },
+    {
+      "id": 29,
+      "index": 29,
+      "character": "WAINGRO",
+      "gender": "Male",
+      "line": "You're Cerrito huh? What kinda guy is this Neil?",
+      "wordCount": 9
+    },
+    {
+      "id": 30,
+      "index": 30,
+      "character": "CERRITO",
+      "gender": "NA",
+      "line": "Okay.",
+      "wordCount": 1
+    },
+    {
+      "id": 31,
+      "index": 31,
+      "character": "WAINGRO",
+      "gender": "Male",
+      "line": "You guys always work together?",
+      "wordCount": 5
+    },
+    {
+      "id": 32,
+      "index": 32,
+      "character": "CERRITO",
+      "gender": "NA",
+      "line": "All the time.",
+      "wordCount": 3
+    },
+    {
+      "id": 33,
+      "index": 33,
+      "character": "WAINGRO",
+      "gender": "Male",
+      "line": "Real tight crew, huh?",
+      "wordCount": 4
+    },
+    {
+      "id": 34,
+      "index": 34,
+      "character": "CERRITO",
+      "gender": "NA",
+      "line": "That's right.",
+      "wordCount": 2
+    },
+    {
+      "id": 35,
+      "index": 35,
+      "character": "WAINGRO",
+      "gender": "Male",
+      "line": "This works good, maybe I could go again?",
+      "wordCount": 8
+    },
+    {
+      "id": 36,
+      "index": 36,
+      "character": "CERRITO",
+      "gender": "NA",
+      "line": "Yeah. Stop talking, slick...",
+      "wordCount": 4
+    },
+    {
+      "id": 37,
+      "index": 37,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "You ready if I need you?",
+      "wordCount": 6
+    },
+    {
+      "id": 38,
+      "index": 38,
+      "character": "TOWNER",
+      "gender": "NA",
+      "line": "Yeah.",
+      "wordCount": 1
+    },
+    {
+      "id": 39,
+      "index": 39,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "Got their air?",
+      "wordCount": 3
+    },
+    {
+      "id": 40,
+      "index": 40,
+      "character": "TOWNER",
+      "gender": "NA",
+      "line": "Yeah.",
+      "wordCount": 1
+    },
+    {
+      "id": 41,
+      "index": 41,
+      "character": "RADIO ANNOUNCER",
+      "gender": "NA",
+      "line": "...Daddio's jazz patio on KDCA. Brought to you this fine day, which is A-okay, by Twister. Hey, mister, go out and buy a bottle of that Twister...Wiiiiiine...",
+      "wordCount": 27
+    },
+    {
+      "id": 42,
+      "index": 42,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "Turn it off.",
+      "wordCount": 3
+    },
+    {
+      "id": 43,
+      "index": 43,
+      "character": "CERRITO",
+      "gender": "NA",
+      "line": "Time.",
+      "wordCount": 1
+    },
+    {
+      "id": 44,
+      "index": 44,
+      "character": "CHRIS",
+      "gender": "Male",
+      "line": "Their response time?",
+      "wordCount": 3
+    },
+    {
+      "id": 45,
+      "index": 45,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "Two minutes, fifty seconds.",
+      "wordCount": 4
+    },
+    {
+      "id": 46,
+      "index": 46,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "We ought to be down the chute into the escape route in 2:20. Here we go...",
+      "wordCount": 16
+    },
+    {
+      "id": 47,
+      "index": 47,
+      "character": "DISPATCHER",
+      "gender": "NA",
+      "line": "Car 74, what's your ETA to the 211 in progress Hoover and 14th? Over.",
+      "wordCount": 14
+    },
+    {
+      "id": 48,
+      "index": 48,
+      "character": "DISPATCHER",
+      "gender": "NA",
+      "line": "Car 74. Take it. Car 37, you're back-up. Car...",
+      "wordCount": 9
+    },
+    {
+      "id": 49,
+      "index": 49,
+      "character": "TOWNER",
+      "gender": "NA",
+      "line": "There's the call. Three minutes.",
+      "wordCount": 5
+    },
+    {
+      "id": 50,
+      "index": 50,
+      "character": "WATCH:",
+      "gender": "NA",
+      "line": "28, 29, 30, 31, 32...",
+      "wordCount": 5
+    },
+    {
+      "id": 51,
+      "index": 51,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "Next one blows you up! Out! Now... Now!",
+      "wordCount": 8
+    },
+    {
+      "id": 52,
+      "index": 52,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "Up against the wall!",
+      "wordCount": 4
+    },
+    {
+      "id": 53,
+      "index": 53,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "8o seconds left. Move it.",
+      "wordCount": 5
+    },
+    {
+      "id": 54,
+      "index": 54,
+      "character": "WAINGRO",
+      "gender": "Male",
+      "line": "Flatten - up against it! Higher!",
+      "wordCount": 6
+    },
+    {
+      "id": 55,
+      "index": 55,
+      "character": "GUARD TWO",
+      "gender": "NA",
+      "line": "...you didn't have that gun..",
+      "wordCount": 5
+    },
+    {
+      "id": 56,
+      "index": 56,
+      "character": "WAINGRO",
+      "gender": "Male",
+      "line": "What?!",
+      "wordCount": 1
+    },
+    {
+      "id": 57,
+      "index": 57,
+      "character": "CERRITO",
+      "gender": "NA",
+      "line": "That's true, slick, cause you're a real tough guy. But he has the gun. And me, too. So shut the fuck up.",
+      "wordCount": 22
+    },
+    {
+      "id": 58,
+      "index": 58,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "Move out! 38 seconds left!",
+      "wordCount": 5
+    },
+    {
+      "id": 59,
+      "index": 59,
+      "character": "WAINGRO",
+      "gender": "Male",
+      "line": "...hadda mouth off? In front of them?",
+      "wordCount": 7
+    },
+    {
+      "id": 60,
+      "index": 60,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "Ten. Nine. Blew the margin. Here we come.",
+      "wordCount": 8
+    },
+    {
+      "id": 61,
+      "index": 61,
+      "character": "TOWNER",
+      "gender": "NA",
+      "line": "One on your tail.",
+      "wordCount": 4
+    },
+    {
+      "id": 62,
+      "index": 62,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "Here we come.",
+      "wordCount": 3
+    },
+    {
+      "id": 63,
+      "index": 63,
+      "character": "NATE",
+      "gender": "Male",
+      "line": "A million, six at 40 cents onna dollar's 640. Here's a hundred forty thou front money. Get you the rest, 2-3 days.",
+      "wordCount": 22
+    },
+    {
+      "id": 64,
+      "index": 64,
+      "character": "NATE",
+      "gender": "Male",
+      "line": "What happened out there?",
+      "wordCount": 4
+    },
+    {
+      "id": 65,
+      "index": 65,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "I don't want to talk about it.",
+      "wordCount": 7
+    },
+    {
+      "id": 66,
+      "index": 66,
+      "character": "NATE",
+      "gender": "Male",
+      "line": "Wait a minute.",
+      "wordCount": 3
+    },
+    {
+      "id": 67,
+      "index": 67,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "What's the matter?",
+      "wordCount": 3
+    },
+    {
+      "id": 68,
+      "index": 68,
+      "character": "NATE",
+      "gender": "Male",
+      "line": "You know who these belong to?",
+      "wordCount": 6
+    },
+    {
+      "id": 69,
+      "index": 69,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "\"Malibu Securities ...",
+      "wordCount": 3
+    },
+    {
+      "id": 70,
+      "index": 70,
+      "character": "NATE",
+      "gender": "Male",
+      "line": "You know John Van Zant?",
+      "wordCount": 5
+    },
+    {
+      "id": 71,
+      "index": 71,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "No.",
+      "wordCount": 1
+    },
+    {
+      "id": 72,
+      "index": 72,
+      "character": "NATE",
+      "gender": "Male",
+      "line": "Malibu Securities is a brokerage he controls. Planned bankruptcies, made out during the S&L's, money laundering...",
+      "wordCount": 16
+    },
+    {
+      "id": 73,
+      "index": 73,
+      "character": "NATE",
+      "gender": "Male",
+      "line": "You ripped off his Treasury Certificates.",
+      "wordCount": 6
+    },
+    {
+      "id": 74,
+      "index": 74,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "So what?",
+      "wordCount": 2
+    },
+    {
+      "id": 75,
+      "index": 75,
+      "character": "NATE",
+      "gender": "Male",
+      "line": "That's the point. On top of collecting his insurance, maybe he wants to buy back his bonds. From him I can get you 60 cents on the dollar instead of 40. Means an extra 320 to you.",
+      "wordCount": 37
+    },
+    {
+      "id": 76,
+      "index": 76,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "Try it on.",
+      "wordCount": 3
+    },
+    {
+      "id": 77,
+      "index": 77,
+      "character": "NATE",
+      "gender": "Male",
+      "line": "You know Cezar Kelso?",
+      "wordCount": 4
+    },
+    {
+      "id": 78,
+      "index": 78,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "By reputation.",
+      "wordCount": 2
+    },
+    {
+      "id": 79,
+      "index": 79,
+      "character": "NATE",
+      "gender": "Male",
+      "line": "He's got this score he's putting out and wants you to look at.",
+      "wordCount": 13
+    },
+    {
+      "id": 80,
+      "index": 80,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "What do I need look at his score for? I got my own.",
+      "wordCount": 13
+    },
+    {
+      "id": 81,
+      "index": 81,
+      "character": "NATE",
+      "gender": "Male",
+      "line": "He said you'll get near eight figures. Very clean.",
+      "wordCount": 9
+    },
+    {
+      "id": 82,
+      "index": 82,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "9:00a.M. tomorrow.",
+      "wordCount": 2
+    },
+    {
+      "id": 83,
+      "index": 83,
+      "character": "NATE",
+      "gender": "Male",
+      "line": "Take it easy.",
+      "wordCount": 3
+    },
+    {
+      "id": 84,
+      "index": 84,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "Where's the ambulance?",
+      "wordCount": 3
+    },
+    {
+      "id": 85,
+      "index": 85,
+      "character": "HEINZ",
+      "gender": "NA",
+      "line": "They dumped it four blocks from here...",
+      "wordCount": 7
+    },
+    {
+      "id": 86,
+      "index": 86,
+      "character": "HEINZ",
+      "gender": "NA",
+      "line": "Masks, guns, radios - all left behind. No prints.",
+      "wordCount": 9
+    },
+    {
+      "id": 87,
+      "index": 87,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "What about the crash, the white towtruck.",
+      "wordCount": 7
+    },
+    {
+      "id": 88,
+      "index": 88,
+      "character": "HEINZ",
+      "gender": "NA",
+      "line": "Hasn't turned up. Got a witness: janitor next door.",
+      "wordCount": 9
+    },
+    {
+      "id": 89,
+      "index": 89,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "I.D. anybody? Plate? Description?",
+      "wordCount": 4
+    },
+    {
+      "id": 90,
+      "index": 90,
+      "character": "HEINZ",
+      "gender": "NA",
+      "line": "Shhaaapes ... One big. One thin. He heard it...",
+      "wordCount": 9
+    },
+    {
+      "id": 91,
+      "index": 91,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "What about them?",
+      "wordCount": 3
+    },
+    {
+      "id": 92,
+      "index": 92,
+      "character": "DRUCKER",
+      "gender": "Male",
+      "line": "According to the janitor, he... Started mouthing off to one of the gunmen.",
+      "wordCount": 13
+    },
+    {
+      "id": 93,
+      "index": 93,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "Oh, that was smart.",
+      "wordCount": 4
+    },
+    {
+      "id": 94,
+      "index": 94,
+      "character": "DRUCKER",
+      "gender": "Male",
+      "line": "I figure the other went for... ... that gun when the shooting started. One guy called a guard \"slick.\"",
+      "wordCount": 19
+    },
+    {
+      "id": 95,
+      "index": 95,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "\"Slick?\"",
+      "wordCount": 1
+    },
+    {
+      "id": 96,
+      "index": 96,
+      "character": "DRUCKER",
+      "gender": "Male",
+      "line": "Yeah. And they ignored the loose cash.",
+      "wordCount": 7
+    },
+    {
+      "id": 97,
+      "index": 97,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "'Cause they had no time, cause they knew our response time, cause they were on our air.",
+      "wordCount": 17
+    },
+    {
+      "id": 98,
+      "index": 98,
+      "character": "HEINZ",
+      "gender": "NA",
+      "line": "You recognize their m.o.?",
+      "wordCount": 4
+    },
+    {
+      "id": 99,
+      "index": 99,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "Yeah. Their m.o. is that they are good. Once it escalated into a Murder One beef for all of them after they killed the first two, they popped guard number three 'cause it didn't rake any difference anymore, so why leave a living witness? Drop of a hat? They'll rock and roll. Also: the way they went into the side indicates they are equipped to go in on the prowl. So also start looking for recent highline burgularies that have 'mystified' us. Run the \"slick\" bit to the FBI and see what it kicks out.",
+      "wordCount": 95
+    },
+    {
+      "id": 100,
+      "index": 100,
+      "character": "DRUCKER",
+      "gender": "Male",
+      "line": "I called it in already.",
+      "wordCount": 5
+    },
+    {
+      "id": 101,
+      "index": 101,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "Split the fences. I'll take Cuzomano and Torena. You take the East side. Go through the tapes of who we been listening to. Hang in with Forensics on all physical evidence. How'd they know the route of the van and what it was carrying? Does Gage print the day's routes? What do they do with the printouts? Who collects their trash? Run makes on all their middlemanagement. Did someone give this score up? Check the three guards. See if one of them was a tipster.",
+      "wordCount": 85
+    },
+    {
+      "id": 102,
+      "index": 102,
+      "character": "BOSKO",
+      "gender": "Male",
+      "line": "What's the vibe: home-grown or out-of-town?",
+      "wordCount": 6
+    },
+    {
+      "id": 103,
+      "index": 103,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "Out-of-town. Frankly, I hope they are scoring once and passing through. And I doubt it.",
+      "wordCount": 15
+    },
+    {
+      "id": 104,
+      "index": 104,
+      "character": "HEINZ",
+      "gender": "NA",
+      "line": "This going to stay in Area?",
+      "wordCount": 6
+    },
+    {
+      "id": 105,
+      "index": 105,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "This look like boosters working the local Seven Eleven to you? It goes to Major Crime. Go to work.",
+      "wordCount": 19
+    },
+    {
+      "id": 106,
+      "index": 106,
+      "character": "WAINGRO",
+      "gender": "Male",
+      "line": "Anybody want some pie?",
+      "wordCount": 4
+    },
+    {
+      "id": 107,
+      "index": 107,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "This is a partial split, but I took out of ours - every - to make up... ...his full end. Because I want to settle him up and get rid of this jagoff right now.",
+      "wordCount": 35
+    },
+    {
+      "id": 108,
+      "index": 108,
+      "character": "CERRITO",
+      "gender": "NA",
+      "line": "Okay.",
+      "wordCount": 1
+    },
+    {
+      "id": 109,
+      "index": 109,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "Fuck off.",
+      "wordCount": 2
+    },
+    {
+      "id": 110,
+      "index": 110,
+      "character": "WAINGRO",
+      "gender": "Male",
+      "line": "I had to dust him!",
+      "wordCount": 5
+    },
+    {
+      "id": 111,
+      "index": 111,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "Electricity and chemicals a little fucked up? You a shooter? Speed? What?",
+      "wordCount": 12
+    },
+    {
+      "id": 112,
+      "index": 112,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "You didn't have to. Now we got extra heat off a clean score.",
+      "wordCount": 13
+    },
+    {
+      "id": 113,
+      "index": 113,
+      "character": "CERRITO",
+      "gender": "NA",
+      "line": "Hold it.",
+      "wordCount": 2
+    },
+    {
+      "id": 114,
+      "index": 114,
+      "character": "CHARLENE",
+      "gender": "Female",
+      "line": "Where's the rest?",
+      "wordCount": 3
+    },
+    {
+      "id": 115,
+      "index": 115,
+      "character": "CHRIS",
+      "gender": "Male",
+      "line": "That's it.",
+      "wordCount": 2
+    },
+    {
+      "id": 116,
+      "index": 116,
+      "character": "CHARLENE",
+      "gender": "Female",
+      "line": "Eight thousand dollars? You gotta be kidding me!",
+      "wordCount": 8
+    },
+    {
+      "id": 117,
+      "index": 117,
+      "character": "CHRIS",
+      "gender": "Male",
+      "line": "I squared the bookies and we had to pay off some guy and were short to start 'cause the rest is comin', in a coupla days. So don't sweat it. We're late.",
+      "wordCount": 32
+    },
+    {
+      "id": 118,
+      "index": 118,
+      "character": "CHARLENE",
+      "gender": "Female",
+      "line": "Listen to me. \"As The World Turns\" can get interrupted with a news flash of you splattered all over the street ...",
+      "wordCount": 22
+    },
+    {
+      "id": 119,
+      "index": 119,
+      "character": "CHARLENE",
+      "gender": "Female",
+      "line": "I can get sent up on an accessory beef. Your son, Dominick, winds up in a home. For $8,000? Honey, for $8,000, it ain't worth the risk. Risk versus reward? Baby?",
+      "wordCount": 31
+    },
+    {
+      "id": 120,
+      "index": 120,
+      "character": "CHRIS",
+      "gender": "Male",
+      "line": "Don't worry about money. Neil's got... Hey, if we're goin', let's go.",
+      "wordCount": 12
+    },
+    {
+      "id": 121,
+      "index": 121,
+      "character": "CHARLENE",
+      "gender": "Female",
+      "line": "Where's the club you were going to open?",
+      "wordCount": 8
+    },
+    {
+      "id": 122,
+      "index": 122,
+      "character": "CHRIS",
+      "gender": "Male",
+      "line": "Here comes the \"showgirl with a future\" bit.",
+      "wordCount": 8
+    },
+    {
+      "id": 123,
+      "index": 123,
+      "character": "CHARLEJ",
+      "gender": "NA",
+      "line": "Shut up! I left for a good thing. Why am I even talking to you? I can't talk to you. All you are is a child growin' older...",
+      "wordCount": 28
+    },
+    {
+      "id": 124,
+      "index": 124,
+      "character": "CHRIS",
+      "gender": "Male",
+      "line": "The hell's that mean?",
+      "wordCount": 4
+    },
+    {
+      "id": 125,
+      "index": 125,
+      "character": "CHARLENE",
+      "gender": "Female",
+      "line": "It means we're not making forward progress like real adults and you won't listen.",
+      "wordCount": 14
+    },
+    {
+      "id": 126,
+      "index": 126,
+      "character": "CHRIS",
+      "gender": "Male",
+      "line": "I told you: me and Neil got planned ...",
+      "wordCount": 9
+    },
+    {
+      "id": 127,
+      "index": 127,
+      "character": "CHARLENE",
+      "gender": "Female",
+      "line": "\"Me and Neil.\" I'm married to you, now. This isn't the fucking joint.",
+      "wordCount": 13
+    },
+    {
+      "id": 128,
+      "index": 128,
+      "character": "CHRIS",
+      "gender": "Male",
+      "line": "Don't mouth off to me!",
+      "wordCount": 5
+    },
+    {
+      "id": 129,
+      "index": 129,
+      "character": "CHARLENE",
+      "gender": "Female",
+      "line": "I want out of here!",
+      "wordCount": 5
+    },
+    {
+      "id": 130,
+      "index": 130,
+      "character": "CHRIS",
+      "gender": "Male",
+      "line": "Well there's the fucking door! Only leave Dominick, the bank book and the car keys on the kitchen table!",
+      "wordCount": 19
+    },
+    {
+      "id": 131,
+      "index": 131,
+      "character": "CHARLENE",
+      "gender": "Female",
+      "line": "You can keep that other crap! But Dominick goes with me.",
+      "wordCount": 11
+    },
+    {
+      "id": 132,
+      "index": 132,
+      "character": "CHRIS",
+      "gender": "Male",
+      "line": "I'll find ya and kill you, you bitch, wherever you are - you ever try to take Dominick away from me.",
+      "wordCount": 21
+    },
+    {
+      "id": 133,
+      "index": 133,
+      "character": "ANITA",
+      "gender": "NA",
+      "line": "Daddy, daddy!",
+      "wordCount": 2
+    },
+    {
+      "id": 134,
+      "index": 134,
+      "character": "ELAINE",
+      "gender": "Female",
+      "line": "Hungry?",
+      "wordCount": 1
+    },
+    {
+      "id": 135,
+      "index": 135,
+      "character": "CERRITO",
+      "gender": "NA",
+      "line": "Starving.",
+      "wordCount": 1
+    },
+    {
+      "id": 136,
+      "index": 136,
+      "character": "ELAINE",
+      "gender": "Female",
+      "line": "You okay?",
+      "wordCount": 2
+    },
+    {
+      "id": 137,
+      "index": 137,
+      "character": "CERRITO",
+      "gender": "NA",
+      "line": "Put this away.",
+      "wordCount": 3
+    },
+    {
+      "id": 138,
+      "index": 138,
+      "character": "ANITA",
+      "gender": "NA",
+      "line": "Daddy, what's in the box?",
+      "wordCount": 5
+    },
+    {
+      "id": 139,
+      "index": 139,
+      "character": "CERRITO",
+      "gender": "NA",
+      "line": "What do you care?",
+      "wordCount": 4
+    },
+    {
+      "id": 140,
+      "index": 140,
+      "character": "CERRITO",
+      "gender": "NA",
+      "line": "Open it up.",
+      "wordCount": 3
+    },
+    {
+      "id": 141,
+      "index": 141,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "No thanks.",
+      "wordCount": 2
+    },
+    {
+      "id": 142,
+      "index": 142,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "You closing in a few minutes?",
+      "wordCount": 6
+    },
+    {
+      "id": 143,
+      "index": 143,
+      "character": "EADY",
+      "gender": "Female",
+      "line": "Yeah. Excuse me. You interested in metals?",
+      "wordCount": 7
+    },
+    {
+      "id": 144,
+      "index": 144,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "No. It's the color reproduction of these plates...",
+      "wordCount": 8
+    },
+    {
+      "id": 145,
+      "index": 145,
+      "character": "EADY",
+      "gender": "Female",
+      "line": "We have a first edition of Kandinsky's Theory of Color with hand pulled lithographic prints bound in. Would you like see it?",
+      "wordCount": 22
+    },
+    {
+      "id": 146,
+      "index": 146,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "Sure.",
+      "wordCount": 1
+    },
+    {
+      "id": 147,
+      "index": 147,
+      "character": "EADY",
+      "gender": "Female",
+      "line": "I see you in here before.",
+      "wordCount": 6
+    },
+    {
+      "id": 148,
+      "index": 148,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "You're open late. Not many open this late. What's your name?",
+      "wordCount": 11
+    },
+    {
+      "id": 149,
+      "index": 149,
+      "character": "EADY",
+      "gender": "Female",
+      "line": "Eady. Eady Tse. What's yours?",
+      "wordCount": 5
+    },
+    {
+      "id": 150,
+      "index": 150,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "Bukowski. Neil Bukowski.",
+      "wordCount": 3
+    },
+    {
+      "id": 151,
+      "index": 151,
+      "character": "CASALS",
+      "gender": "Male",
+      "line": "M. C. U.",
+      "wordCount": 3
+    },
+    {
+      "id": 152,
+      "index": 152,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "Bobby, it's me.",
+      "wordCount": 3
+    },
+    {
+      "id": 153,
+      "index": 153,
+      "character": "CASALS",
+      "gender": "Male",
+      "line": "Boss, whoever's fencing the Bearer Bonds is either highline or out- of-town. Everyone's talking about it. No one knows about it. Schwartz went through the indexes on recent surveillance tapes? No armored cars. No witnesses on who stole the ambulance.",
+      "wordCount": 40
+    },
+    {
+      "id": 154,
+      "index": 154,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "Albert Torena call me back?",
+      "wordCount": 5
+    },
+    {
+      "id": 155,
+      "index": 155,
+      "character": "CASALS",
+      "gender": "Male",
+      "line": "No.",
+      "wordCount": 1
+    },
+    {
+      "id": 156,
+      "index": 156,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "Hi.",
+      "wordCount": 1
+    },
+    {
+      "id": 157,
+      "index": 157,
+      "character": "JUSTINE",
+      "gender": "Female",
+      "line": "Where have you been?",
+      "wordCount": 4
+    },
+    {
+      "id": 158,
+      "index": 158,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "Work. Harvey show or'd Lauren get stood up again?",
+      "wordCount": 9
+    },
+    {
+      "id": 159,
+      "index": 159,
+      "character": "JUSTINE",
+      "gender": "Female",
+      "line": "He didn't even call her.",
+      "wordCount": 5
+    },
+    {
+      "id": 160,
+      "index": 160,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "What an asshole. She okay?",
+      "wordCount": 5
+    },
+    {
+      "id": 161,
+      "index": 161,
+      "character": "JUSTINE",
+      "gender": "Female",
+      "line": "She's been in her room all day and won't talk. So \"no,\" she's not okay. And neither am I. If I try to create something like a mood between us you back away. I made a great dinner for us. That was four hours ago. At least get yourself a plate...",
+      "wordCount": 51
+    },
+    {
+      "id": 162,
+      "index": 162,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "There's three dead bodies in an alley off Adams. I'm really sorry the lamb got overcooked.",
+      "wordCount": 16
+    },
+    {
+      "id": 163,
+      "index": 163,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "Looking after her is tired. Very tired. He doesn't know why he said what he did. He regrets it. So he turns on his TV to watch the news and his eyes glaze over.",
+      "wordCount": 34
+    },
+    {
+      "id": 164,
+      "index": 164,
+      "character": "EADY",
+      "gender": "Female",
+      "line": "What do you do?",
+      "wordCount": 4
+    },
+    {
+      "id": 165,
+      "index": 165,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "Swimming pools. Institutional. Schools, State, counties. I'm on the sales end.",
+      "wordCount": 11
+    },
+    {
+      "id": 166,
+      "index": 166,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "Let me have another coffee. You like selling books?",
+      "wordCount": 9
+    },
+    {
+      "id": 167,
+      "index": 167,
+      "character": "EADY",
+      "gender": "Female",
+      "line": "Yeah. Especially fine art books. I study them.",
+      "wordCount": 8
+    },
+    {
+      "id": 168,
+      "index": 168,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "Yeah? Like what?",
+      "wordCount": 3
+    },
+    {
+      "id": 169,
+      "index": 169,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "Tell me.",
+      "wordCount": 2
+    },
+    {
+      "id": 170,
+      "index": 170,
+      "character": "EADY",
+      "gender": "Female",
+      "line": "There's a Skira edition of Delacroix charcoal sketches, I like...",
+      "wordCount": 10
+    },
+    {
+      "id": 171,
+      "index": 171,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "What else?",
+      "wordCount": 2
+    },
+    {
+      "id": 172,
+      "index": 172,
+      "character": "EADY",
+      "gender": "Female",
+      "line": "Asian art work.",
+      "wordCount": 3
+    },
+    {
+      "id": 173,
+      "index": 173,
+      "character": "EADY",
+      "gender": "Female",
+      "line": "The plates are mezzotints. They evoke a feeling Japanese painters called \"sabi\". They believed there were eight scenes of transcendental loneliness. They painted them over and over again. One is a flock of geese hovering over a field. There's always mist. It's painted just as the leader touches down.",
+      "wordCount": 49
+    },
+    {
+      "id": 174,
+      "index": 174,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "City of lights.",
+      "wordCount": 3
+    },
+    {
+      "id": 175,
+      "index": 175,
+      "character": "EADY",
+      "gender": "Female",
+      "line": "Yeah.",
+      "wordCount": 1
+    },
+    {
+      "id": 176,
+      "index": 176,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "I flew over the arctic once at 40,000 feet. The moonlight was blue on all the snow. It felt like that.",
+      "wordCount": 21
+    },
+    {
+      "id": 177,
+      "index": 177,
+      "character": "EADY",
+      "gender": "Female",
+      "line": "Do you travel a lot?",
+      "wordCount": 5
+    },
+    {
+      "id": 178,
+      "index": 178,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "Yeah.",
+      "wordCount": 1
+    },
+    {
+      "id": 179,
+      "index": 179,
+      "character": "EADY",
+      "gender": "Female",
+      "line": "Are you lonely?",
+      "wordCount": 3
+    },
+    {
+      "id": 180,
+      "index": 180,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "I'm alone. Not lonely.",
+      "wordCount": 4
+    },
+    {
+      "id": 181,
+      "index": 181,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "You?",
+      "wordCount": 1
+    },
+    {
+      "id": 182,
+      "index": 182,
+      "character": "EADY",
+      "gender": "Female",
+      "line": "I get lonely.",
+      "wordCount": 3
+    },
+    {
+      "id": 183,
+      "index": 183,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "You were supposed to get back to me last night. So where the fuck were you, Albert?",
+      "wordCount": 17
+    },
+    {
+      "id": 184,
+      "index": 184,
+      "character": "ALBERT",
+      "gender": "NA",
+      "line": "I couldn't break free, man!",
+      "wordCount": 5
+    },
+    {
+      "id": 185,
+      "index": 185,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "I oughta violate your ass right now.",
+      "wordCount": 7
+    },
+    {
+      "id": 186,
+      "index": 186,
+      "character": "ALBERT",
+      "gender": "NA",
+      "line": "I was all night hitting up Los vatos like one of those flamenco matador guys. Cuttin' in real smooth. Generating leads and shit. I'm a dancer, man!",
+      "wordCount": 27
+    },
+    {
+      "id": 187,
+      "index": 187,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "You're a bust-out speed freak jackin' metamphetamine again. I'm in a hurry.",
+      "wordCount": 12
+    },
+    {
+      "id": 188,
+      "index": 188,
+      "character": "ALBERT",
+      "gender": "NA",
+      "line": "You talk to my brother, Raoul. He meet you tonight at...",
+      "wordCount": 11
+    },
+    {
+      "id": 189,
+      "index": 189,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "No. Right now.",
+      "wordCount": 3
+    },
+    {
+      "id": 190,
+      "index": 190,
+      "character": "ALBERT",
+      "gender": "NA",
+      "line": "I implore him, man. But he say \"no.\" He in Phoenix. Tonight's the best I can do for you. The Zebra on Crenshaw. Eleven o'clock.",
+      "wordCount": 25
+    },
+    {
+      "id": 191,
+      "index": 191,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "You be there, too.",
+      "wordCount": 4
+    },
+    {
+      "id": 192,
+      "index": 192,
+      "character": "ALBERT",
+      "gender": "NA",
+      "line": "Mon, I go",
+      "wordCount": 3
+    },
+    {
+      "id": 193,
+      "index": 193,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "Be there!",
+      "wordCount": 2
+    },
+    {
+      "id": 194,
+      "index": 194,
+      "character": "CEZAR",
+      "gender": "NA",
+      "line": "I picked you out to pitch it to first, but don't think you're the only action in town and I'm giving it away. 'Cause I'm not.",
+      "wordCount": 26
+    },
+    {
+      "id": 195,
+      "index": 195,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "What is it?",
+      "wordCount": 3
+    },
+    {
+      "id": 196,
+      "index": 196,
+      "character": "CEZAR",
+      "gender": "NA",
+      "line": "A bank. On Thursdays it gets cash deposits for distribution to other branches. The branches have to buttress their cash accounts to handle Friday payroll checks from a Toyota and Nissan plant, a steel mill and two refineries. One day a week, Thursday, the main branch carries the full whack.",
+      "wordCount": 50
+    },
+    {
+      "id": 197,
+      "index": 197,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "You want a $100,000 advance, against a full 101. Why?",
+      "wordCount": 10
+    },
+    {
+      "id": 198,
+      "index": 198,
+      "character": "CEZAR",
+      "gender": "NA",
+      "line": "'Cause I can get it. 'Cause this is the best thing I seen in three years. 'Cause a screw-up makes 10 percent of nothin' equal nothin'. And 'cause those are the terms and they ain't negotiable.",
+      "wordCount": 36
+    },
+    {
+      "id": 199,
+      "index": 199,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "On the prowl or strong?",
+      "wordCount": 5
+    },
+    {
+      "id": 200,
+      "index": 200,
+      "character": "CEZAR",
+      "gender": "NA",
+      "line": "Strong. Through the front door. During the day.",
+      "wordCount": 8
+    },
+    {
+      "id": 201,
+      "index": 201,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "How many guys?",
+      "wordCount": 3
+    },
+    {
+      "id": 202,
+      "index": 202,
+      "character": "CEZAR",
+      "gender": "NA",
+      "line": "Four. Three plus a driver.",
+      "wordCount": 5
+    },
+    {
+      "id": 203,
+      "index": 203,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "That's not a $100,000 worth anything. You're giving me an address to what's strictly a cowboy score: \"Get the guns and let's go!\" We smash, grab and boogie while they hit the alarm.",
+      "wordCount": 33
+    },
+    {
+      "id": 204,
+      "index": 204,
+      "character": "CEZAR",
+      "gender": "NA",
+      "line": "Three alarms. And that's why the price. 'Cause you chop-in through the roof the night before on the prowl and bypass 'em. I got circuit diagrams, blue prints, the works. So yeah, they hit the alarms, but nothing gonna happen.",
+      "wordCount": 40
+    },
+    {
+      "id": 205,
+      "index": 205,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "Do I have to kill people?",
+      "wordCount": 6
+    },
+    {
+      "id": 206,
+      "index": 206,
+      "character": "CEZAR",
+      "gender": "NA",
+      "line": "I doubt it. Two men have the two keys to open the box.",
+      "wordCount": 13
+    },
+    {
+      "id": 207,
+      "index": 207,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "Full architectural, plumbing and electric, camera placements?",
+      "wordCount": 7
+    },
+    {
+      "id": 208,
+      "index": 208,
+      "character": "CEZAR",
+      "gender": "NA",
+      "line": "All of it.",
+      "wordCount": 3
+    },
+    {
+      "id": 209,
+      "index": 209,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "What do you estimate?",
+      "wordCount": 4
+    },
+    {
+      "id": 210,
+      "index": 210,
+      "character": "CEZAR",
+      "gender": "NA",
+      "line": "Eight point, one. Eight point, two million dollars.",
+      "wordCount": 8
+    },
+    {
+      "id": 211,
+      "index": 211,
+      "character": "CEZAR",
+      "gender": "NA",
+      "line": "Where's Nate?",
+      "wordCount": 2
+    },
+    {
+      "id": 212,
+      "index": 212,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "He hadda make a call. You're on. Here's five grand earnest money. You get the rest after lunch.",
+      "wordCount": 18
+    },
+    {
+      "id": 213,
+      "index": 213,
+      "character": "NATE",
+      "gender": "Male",
+      "line": "Look, Van Zant. Nobody knew the merch was yours or they would have respected it. Be that as it may: now you get 100% from the insurance company and you're even, plus you can get the bonds back for 60 cents onna dollar. You make an additional 40%. Your operation doesn't skip a beat, and everybody's making out.",
+      "wordCount": 58
+    },
+    {
+      "id": 214,
+      "index": 214,
+      "character": "VAN ZANT",
+      "gender": "Male",
+      "line": "Sure. You got a deal.",
+      "wordCount": 5
+    },
+    {
+      "id": 215,
+      "index": 215,
+      "character": "VAN ZANT",
+      "gender": "Male",
+      "line": "Absolutely. You have your man call me to set the meet.",
+      "wordCount": 11
+    },
+    {
+      "id": 216,
+      "index": 216,
+      "character": "NATE",
+      "gender": "Male",
+      "line": "Usually I'm the mailman.",
+      "wordCount": 4
+    },
+    {
+      "id": 217,
+      "index": 217,
+      "character": "VAN ZANT",
+      "gender": "Male",
+      "line": "I don't want to involve extra people. What the fuck do I want all kinds of people meeting each other for?",
+      "wordCount": 21
+    },
+    {
+      "id": 218,
+      "index": 218,
+      "character": "NATE",
+      "gender": "Male",
+      "line": "Okay.",
+      "wordCount": 1
+    },
+    {
+      "id": 219,
+      "index": 219,
+      "character": "VAN ZANT",
+      "gender": "Male",
+      "line": "Nice talking to you... Van Zant hangs up. He's a tall avuncular man with a flabby belly and Arrow shirts: an accountant. HUGH BENNY, a very large juice collector, is in the office.",
+      "wordCount": 33
+    },
+    {
+      "id": 220,
+      "index": 220,
+      "character": "HUGH",
+      "gender": "NA",
+      "line": "You gonna deal with these people?",
+      "wordCount": 6
+    },
+    {
+      "id": 221,
+      "index": 221,
+      "character": "VAN ZANT",
+      "gender": "Male",
+      "line": "So word hits the streets it's okay to steal my stuff? I'm gonna kill the sonsa-bitches.",
+      "wordCount": 16
+    },
+    {
+      "id": 222,
+      "index": 222,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "I bought it.",
+      "wordCount": 3
+    },
+    {
+      "id": 223,
+      "index": 223,
+      "character": "NATE",
+      "gender": "Male",
+      "line": "What I tell you?",
+      "wordCount": 4
+    },
+    {
+      "id": 224,
+      "index": 224,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "The bonds?",
+      "wordCount": 2
+    },
+    {
+      "id": 225,
+      "index": 225,
+      "character": "NATE",
+      "gender": "Male",
+      "line": "We're on. You call him tomorrow... ... and set a meet.",
+      "wordCount": 11
+    },
+    {
+      "id": 226,
+      "index": 226,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "How is he?",
+      "wordCount": 3
+    },
+    {
+      "id": 227,
+      "index": 227,
+      "character": "NATE",
+      "gender": "Male",
+      "line": "Very cool. He's a businessman.",
+      "wordCount": 5
+    },
+    {
+      "id": 228,
+      "index": 228,
+      "character": "LILLIAN",
+      "gender": "NA",
+      "line": "Here it is. You okay?",
+      "wordCount": 5
+    },
+    {
+      "id": 229,
+      "index": 229,
+      "character": "BREEDAN",
+      "gender": "Male",
+      "line": "Don 't worry, baby. Gonna do good.",
+      "wordCount": 7
+    },
+    {
+      "id": 230,
+      "index": 230,
+      "character": "BREEDAN",
+      "gender": "Male",
+      "line": "I'm Breedan. You Solenko?",
+      "wordCount": 4
+    },
+    {
+      "id": 231,
+      "index": 231,
+      "character": "SOLENKO",
+      "gender": "NA",
+      "line": "Yeah. Fucking hillbilly grill ran didn't show. Been here since 4:30. You know this kinda operation?",
+      "wordCount": 16
+    },
+    {
+      "id": 232,
+      "index": 232,
+      "character": "BREEDAN",
+      "gender": "Male",
+      "line": "The grill. Yeah.",
+      "wordCount": 3
+    },
+    {
+      "id": 233,
+      "index": 233,
+      "character": "SOLENKO",
+      "gender": "NA",
+      "line": "Grill? Empty the garbage, mopout the toilets. You gimme a hard time, I'll find something to violate you back and blow your parole. You kick back 25% of your salary to me under the table. Grierson your parole officer? Right?",
+      "wordCount": 40
+    },
+    {
+      "id": 234,
+      "index": 234,
+      "character": "BREEDAN",
+      "gender": "Male",
+      "line": "Yeah.",
+      "wordCount": 1
+    },
+    {
+      "id": 235,
+      "index": 235,
+      "character": "SOLENKO",
+      "gender": "NA",
+      "line": "Check it out. Change in the back. Hurry up.",
+      "wordCount": 9
+    },
+    {
+      "id": 236,
+      "index": 236,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "Whaddaya hear, whaddaya say?.",
+      "wordCount": 4
+    },
+    {
+      "id": 237,
+      "index": 237,
+      "character": "CUZOMANO",
+      "gender": "NA",
+      "line": "Hiya, Vincent. About what?",
+      "wordCount": 4
+    },
+    {
+      "id": 238,
+      "index": 238,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "About this crew that knocked down three guards yesterday and took a Gates Armored truck. Bearer Bonds. Start making calls.",
+      "wordCount": 20
+    },
+    {
+      "id": 239,
+      "index": 239,
+      "character": "CUZOMANO",
+      "gender": "NA",
+      "line": "It's Cuzomano. Get me Francis. How'd I hear about this?",
+      "wordCount": 10
+    },
+    {
+      "id": 240,
+      "index": 240,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "Ridin' the airwaves. On every news channel. Turn on a fucking radio! Try to broker the Bonds. Make some money. Then you'll shift into Flip-o-matic and tell me who they are. And what they are doing next.",
+      "wordCount": 37
+    },
+    {
+      "id": 241,
+      "index": 241,
+      "character": "CUZOMANO",
+      "gender": "NA",
+      "line": "Hey, Francis! That score went down yesterday? Yeah, I'm lookin' to handle all or a piece of the merch. All I got are yo-yo's. One brings me a container of Armani suits? He didn't know they were knockoffs. Schmuck stole knockoffs. They should make stupidity a felony. You hear who they been downed to?",
+      "wordCount": 54
+    },
+    {
+      "id": 242,
+      "index": 242,
+      "character": "CHARLENE",
+      "gender": "Female",
+      "line": "Hello?",
+      "wordCount": 1
+    },
+    {
+      "id": 243,
+      "index": 243,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "Chris is here. I called so you shouldn't worry. What's wrong?",
+      "wordCount": 11
+    },
+    {
+      "id": 244,
+      "index": 244,
+      "character": "CHARLENE",
+      "gender": "Female",
+      "line": "Husband and wife stuff. That's all.",
+      "wordCount": 6
+    },
+    {
+      "id": 245,
+      "index": 245,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "He can sleep it off here.",
+      "wordCount": 6
+    },
+    {
+      "id": 246,
+      "index": 246,
+      "character": "CHARLENE",
+      "gender": "Female",
+      "line": "Thanks, Neil.",
+      "wordCount": 2
+    },
+    {
+      "id": 247,
+      "index": 247,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "What happened to you?",
+      "wordCount": 4
+    },
+    {
+      "id": 248,
+      "index": 248,
+      "character": "CHRIS",
+      "gender": "Male",
+      "line": "When you going to get some furniture?",
+      "wordCount": 7
+    },
+    {
+      "id": 249,
+      "index": 249,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "When I get around to it.",
+      "wordCount": 6
+    },
+    {
+      "id": 250,
+      "index": 250,
+      "character": "CHRIS",
+      "gender": "Male",
+      "line": "My mouth tastes like a sewer.",
+      "wordCount": 6
+    },
+    {
+      "id": 251,
+      "index": 251,
+      "character": "CHRIS",
+      "gender": "Male",
+      "line": "Charlene's going to leave me.",
+      "wordCount": 5
+    },
+    {
+      "id": 252,
+      "index": 252,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "Why?",
+      "wordCount": 1
+    },
+    {
+      "id": 253,
+      "index": 253,
+      "character": "CHRIS",
+      "gender": "Male",
+      "line": "There ain't no steaks in the freezer.",
+      "wordCount": 7
+    },
+    {
+      "id": 254,
+      "index": 254,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "With everything we been taking?",
+      "wordCount": 5
+    },
+    {
+      "id": 255,
+      "index": 255,
+      "character": "CHRIS",
+      "gender": "Male",
+      "line": "Last trip to Vegas and the Superbowl took care of that. When you gonna get an old lady?",
+      "wordCount": 18
+    },
+    {
+      "id": 256,
+      "index": 256,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "When I get around to it. You got something else on the side?",
+      "wordCount": 13
+    },
+    {
+      "id": 257,
+      "index": 257,
+      "character": "CHRIS",
+      "gender": "Male",
+      "line": "Nothing regular.",
+      "wordCount": 2
+    },
+    {
+      "id": 258,
+      "index": 258,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "She got another man?",
+      "wordCount": 4
+    },
+    {
+      "id": 259,
+      "index": 259,
+      "character": "CHRIS",
+      "gender": "Male",
+      "line": "No.",
+      "wordCount": 1
+    },
+    {
+      "id": 260,
+      "index": 260,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "You sure?",
+      "wordCount": 2
+    },
+    {
+      "id": 261,
+      "index": 261,
+      "character": "CHRIS",
+      "gender": "Male",
+      "line": "Yeah, I'm sure.",
+      "wordCount": 3
+    },
+    {
+      "id": 262,
+      "index": 262,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "Jimmy - whatsisname - Bohunk, in the joint used to say: \"On the street you wanna be makin' roves, you don't put anything in your life you can't walk out on in 30 seconds flat if you spot heat around the corner.\"",
+      "wordCount": 42
+    },
+    {
+      "id": 263,
+      "index": 263,
+      "character": "CHRIS",
+      "gender": "Male",
+      "line": "Jimmy Banghart. And to hell with Jimmy Banghart. I'd rather go ten rounds with Jesus Christ than fuck with her. But she and Dominick save my life, man; everyday. Everyday...",
+      "wordCount": 30
+    },
+    {
+      "id": 264,
+      "index": 264,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "So?",
+      "wordCount": 1
+    },
+    {
+      "id": 265,
+      "index": 265,
+      "character": "CHRIS",
+      "gender": "Male",
+      "line": "So.",
+      "wordCount": 1
+    },
+    {
+      "id": 266,
+      "index": 266,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "Taking delivery from Van Zant on the rest of the armored car cash. I gotta drop a deposit on Kelso. He's got a bank score.",
+      "wordCount": 25
+    },
+    {
+      "id": 267,
+      "index": 267,
+      "character": "CHRIS",
+      "gender": "Male",
+      "line": "What about the platinum? It's ready to fall ...",
+      "wordCount": 9
+    },
+    {
+      "id": 268,
+      "index": 268,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "That goes, too. Meet me at the coffee shop at noon. I got stuff to do...",
+      "wordCount": 16
+    },
+    {
+      "id": 269,
+      "index": 269,
+      "character": "MARCIANO",
+      "gender": "Male",
+      "line": "Hello?",
+      "wordCount": 1
+    },
+    {
+      "id": 270,
+      "index": 270,
+      "character": "CHARLENE",
+      "gender": "Female",
+      "line": "Alan.",
+      "wordCount": 1
+    },
+    {
+      "id": 271,
+      "index": 271,
+      "character": "MARCIANO",
+      "gender": "Male",
+      "line": "Hey!",
+      "wordCount": 1
+    },
+    {
+      "id": 272,
+      "index": 272,
+      "character": "CHARLENE",
+      "gender": "Female",
+      "line": "I've had it with him. I've had it. Can you get us out of here?",
+      "wordCount": 15
+    },
+    {
+      "id": 273,
+      "index": 273,
+      "character": "MARCIANO",
+      "gender": "Male",
+      "line": "Absolutely. I got a coupla orders to write. Meet you at 12.",
+      "wordCount": 12
+    },
+    {
+      "id": 274,
+      "index": 274,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "How you doing?",
+      "wordCount": 3
+    },
+    {
+      "id": 275,
+      "index": 275,
+      "character": "EADY",
+      "gender": "Female",
+      "line": "Neil. I wondered when you'd call.",
+      "wordCount": 6
+    },
+    {
+      "id": 276,
+      "index": 276,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "I been real busy.",
+      "wordCount": 4
+    },
+    {
+      "id": 277,
+      "index": 277,
+      "character": "EADY",
+      "gender": "Female",
+      "line": "Good.",
+      "wordCount": 1
+    },
+    {
+      "id": 278,
+      "index": 278,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "Can I see you?",
+      "wordCount": 4
+    },
+    {
+      "id": 279,
+      "index": 279,
+      "character": "EADY",
+      "gender": "Female",
+      "line": "I was worried... was just... ...the one night. You know?",
+      "wordCount": 10
+    },
+    {
+      "id": 280,
+      "index": 280,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "Not for me it wasn't.",
+      "wordCount": 5
+    },
+    {
+      "id": 281,
+      "index": 281,
+      "character": "EADY",
+      "gender": "Female",
+      "line": "Me either.",
+      "wordCount": 2
+    },
+    {
+      "id": 282,
+      "index": 282,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "Tonight. I'll pick you up at work.",
+      "wordCount": 7
+    },
+    {
+      "id": 283,
+      "index": 283,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "Change for a dollar?",
+      "wordCount": 4
+    },
+    {
+      "id": 284,
+      "index": 284,
+      "character": "COOK",
+      "gender": "NA",
+      "line": "There you go, honey.",
+      "wordCount": 4
+    },
+    {
+      "id": 285,
+      "index": 285,
+      "character": "TELEPHONIST",
+      "gender": "NA",
+      "line": "Malibu Securities.",
+      "wordCount": 2
+    },
+    {
+      "id": 286,
+      "index": 286,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "Yeah. Van Zant.",
+      "wordCount": 3
+    },
+    {
+      "id": 287,
+      "index": 287,
+      "character": "VAN ZAPT",
+      "gender": "NA",
+      "line": "Yes?",
+      "wordCount": 1
+    },
+    {
+      "id": 288,
+      "index": 288,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "About the merchandise. What's the story?",
+      "wordCount": 6
+    },
+    {
+      "id": 289,
+      "index": 289,
+      "character": "VAN ZANT",
+      "gender": "Male",
+      "line": "Give me your number and somebody will call you right back from a different line to set the meet.",
+      "wordCount": 19
+    },
+    {
+      "id": 290,
+      "index": 290,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "333-6089.",
+      "wordCount": 1
+    },
+    {
+      "id": 291,
+      "index": 291,
+      "character": "CHARLENE",
+      "gender": "Female",
+      "line": "Yes?",
+      "wordCount": 1
+    },
+    {
+      "id": 292,
+      "index": 292,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "Open up.",
+      "wordCount": 2
+    },
+    {
+      "id": 293,
+      "index": 293,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "Who was that guy?",
+      "wordCount": 4
+    },
+    {
+      "id": 294,
+      "index": 294,
+      "character": "CHARLENE",
+      "gender": "Female",
+      "line": "I won't tell you.",
+      "wordCount": 4
+    },
+    {
+      "id": 295,
+      "index": 295,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "Listen...",
+      "wordCount": 1
+    },
+    {
+      "id": 296,
+      "index": 296,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "We got to know who he is!",
+      "wordCount": 7
+    },
+    {
+      "id": 297,
+      "index": 297,
+      "character": "CHARLENE",
+      "gender": "Female",
+      "line": "Nobody, Neil! A liquor wholesaler from Las Vegas. Alan Marciano.",
+      "wordCount": 10
+    },
+    {
+      "id": 298,
+      "index": 298,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "What he tell you? How connected he is? Get you a spot in a show?",
+      "wordCount": 15
+    },
+    {
+      "id": 299,
+      "index": 299,
+      "character": "CHARLENE",
+      "gender": "Female",
+      "line": "I figured it out for myself!",
+      "wordCount": 6
+    },
+    {
+      "id": 300,
+      "index": 300,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "Chris is gonna straighten it up with you. And you ...",
+      "wordCount": 11
+    },
+    {
+      "id": 301,
+      "index": 301,
+      "character": "CHARLENE",
+      "gender": "Female",
+      "line": "It's too late! I'm sick of it! I'm sick of you.",
+      "wordCount": 11
+    },
+    {
+      "id": 302,
+      "index": 302,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "I'm not part of your situation!",
+      "wordCount": 6
+    },
+    {
+      "id": 303,
+      "index": 303,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "Not anymore. And Chris has got two big jobs back-to-bick. You will give Chris this shot. After that, he fucks up, then okay. I will finance setting you up, separate, myself. Dominick will go with you. And my word counts. But right now he is puttin' it all on the line. So for the three of you, you are goin', to give Chris one more shot.",
+      "wordCount": 66
+    },
+    {
+      "id": 304,
+      "index": 304,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "Now that is what it is gonna be",
+      "wordCount": 8
+    },
+    {
+      "id": 305,
+      "index": 305,
+      "character": "CHARLENE",
+      "gender": "Female",
+      "line": "All right.",
+      "wordCount": 2
+    },
+    {
+      "id": 306,
+      "index": 306,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "Gimme all your money!",
+      "wordCount": 4
+    },
+    {
+      "id": 307,
+      "index": 307,
+      "character": "ALPHONSE",
+      "gender": "NA",
+      "line": "Cuz, one day you get coldblasted with that shit.",
+      "wordCount": 9
+    },
+    {
+      "id": 308,
+      "index": 308,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "Ain't gonna be you, mo-fo.",
+      "wordCount": 5
+    },
+    {
+      "id": 309,
+      "index": 309,
+      "character": "ALPHONSE",
+      "gender": "NA",
+      "line": "Homeboys talkin' about it. Nothin' solid. Just B-boy jive 'bout outta-towners. Crew's from outta town. I hear something; I drop a dime.",
+      "wordCount": 22
+    },
+    {
+      "id": 310,
+      "index": 310,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "You holdin'?",
+      "wordCount": 2
+    },
+    {
+      "id": 311,
+      "index": 311,
+      "character": "ALPHONSE",
+      "gender": "NA",
+      "line": "Onna house.",
+      "wordCount": 2
+    },
+    {
+      "id": 312,
+      "index": 312,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "What do you got?",
+      "wordCount": 4
+    },
+    {
+      "id": 313,
+      "index": 313,
+      "character": "RAOUL",
+      "gender": "NA",
+      "line": "This crew's ripping Porsches out of Orange County. Horrell, Piper and Voight. They're working in the back of a trim shop on Irvine. Somebody was to pay him a visit this weekend, they'd find a metallic blue Turbo...",
+      "wordCount": 38
+    },
+    {
+      "id": 314,
+      "index": 314,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "...lookin' for me to rid you of your competition?",
+      "wordCount": 9
+    },
+    {
+      "id": 315,
+      "index": 315,
+      "character": "RAOUL",
+      "gender": "NA",
+      "line": "I'm a good citizen.",
+      "wordCount": 4
+    },
+    {
+      "id": 316,
+      "index": 316,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "You got something to say, or what?",
+      "wordCount": 7
+    },
+    {
+      "id": 317,
+      "index": 317,
+      "character": "RAOUL",
+      "gender": "NA",
+      "line": "Mi carnal: if I tell you what I got to tell you, how do I know you gonna do what the fuck I just told you I need to get done?",
+      "wordCount": 31
+    },
+    {
+      "id": 318,
+      "index": 318,
+      "character": "ALBERT",
+      "gender": "NA",
+      "line": "Raoul, Hanna do what he say! That's why I reached for you..",
+      "wordCount": 12
+    },
+    {
+      "id": 319,
+      "index": 319,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "I'm not your 'carnal, you little motherfucker. And you 'know' 'cause I say so... after I hear what you got to tell me!",
+      "wordCount": 23
+    },
+    {
+      "id": 320,
+      "index": 320,
+      "character": "RAOUL",
+      "gender": "NA",
+      "line": "Okay! Okay...",
+      "wordCount": 2
+    },
+    {
+      "id": 321,
+      "index": 321,
+      "character": "RAOUL",
+      "gender": "NA",
+      "line": "This is valuable shit! I could get killed telling you this shit!",
+      "wordCount": 12
+    },
+    {
+      "id": 322,
+      "index": 322,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "You can get killed ... walking down the street...",
+      "wordCount": 9
+    },
+    {
+      "id": 323,
+      "index": 323,
+      "character": "RAOUL",
+      "gender": "NA",
+      "line": "A dude I knew in McNeil's been out a couple, three years.",
+      "wordCount": 12
+    },
+    {
+      "id": 324,
+      "index": 324,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "Yeah?",
+      "wordCount": 1
+    },
+    {
+      "id": 325,
+      "index": 325,
+      "character": "RAOUL",
+      "gender": "NA",
+      "line": "He's an action junkie. If he'd said nothin', I'd a thought nothin'. But he goes on and on into extra overtime on how he ain't been do-in' nothin' and then I know this cat's got something goin' down...",
+      "wordCount": 38
+    },
+    {
+      "id": 326,
+      "index": 326,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "What's wrong with you? You drag me here to waste my time like this? You saw a guy on the street... who's an ex-con?",
+      "wordCount": 24
+    },
+    {
+      "id": 327,
+      "index": 327,
+      "character": "RAOUL",
+      "gender": "NA",
+      "line": "Yeah.",
+      "wordCount": 1
+    },
+    {
+      "id": 328,
+      "index": 328,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "...what do you expect for that? A Junior G-Man badge?",
+      "wordCount": 10
+    },
+    {
+      "id": 329,
+      "index": 329,
+      "character": "RAOUL",
+      "gender": "NA",
+      "line": "You gonna make the call on the Porsches?",
+      "wordCount": 8
+    },
+    {
+      "id": 330,
+      "index": 330,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "Are you kidding?",
+      "wordCount": 3
+    },
+    {
+      "id": 331,
+      "index": 331,
+      "character": "RAOUL",
+      "gender": "NA",
+      "line": "I'm telling you this slick is double-duty! A real doubleblank mo-fo.",
+      "wordCount": 11
+    },
+    {
+      "id": 332,
+      "index": 332,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "What?",
+      "wordCount": 1
+    },
+    {
+      "id": 333,
+      "index": 333,
+      "character": "RAOUL",
+      "gender": "NA",
+      "line": "Huh ... ?",
+      "wordCount": 3
+    },
+    {
+      "id": 334,
+      "index": 334,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "You said \"slick.\"",
+      "wordCount": 3
+    },
+    {
+      "id": 335,
+      "index": 335,
+      "character": "RAOUL",
+      "gender": "NA",
+      "line": "Yeah, that's what he calls people. \"Slick.\"",
+      "wordCount": 7
+    },
+    {
+      "id": 336,
+      "index": 336,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "Tell me about him...",
+      "wordCount": 4
+    },
+    {
+      "id": 337,
+      "index": 337,
+      "character": "RAOUL",
+      "gender": "NA",
+      "line": "Six feet, built. Lotta jailhouse tattoos. Peacock right here. Probably was a shooter once Heavy time: Attica, Marion, could do a nickel or dine standing on his",
+      "wordCount": 27
+    },
+    {
+      "id": 338,
+      "index": 338,
+      "character": "RAOUL",
+      "gender": "NA",
+      "line": "ear. He's in C-block two days, and in the shower some Muslim comes up into his face and he cuts the guy a new opening for a colostomy bag and goes back to shampooing his hair...",
+      "wordCount": 36
+    },
+    {
+      "id": 339,
+      "index": 339,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "What's his ... name..",
+      "wordCount": 4
+    },
+    {
+      "id": 340,
+      "index": 340,
+      "character": "RAOUL",
+      "gender": "NA",
+      "line": "Cerrito. Michael Cerrito.",
+      "wordCount": 3
+    },
+    {
+      "id": 341,
+      "index": 341,
+      "character": "BOSKO",
+      "gender": "Male",
+      "line": "Jacket's two inches thick. 38 busts since 1976.",
+      "wordCount": 8
+    },
+    {
+      "id": 342,
+      "index": 342,
+      "character": "BOSKO",
+      "gender": "Male",
+      "line": "Two for murder one. Eleven for armed robbery. Three convictions. Two out of a three year beef in Attica. Three years in Statesville. Five years in Riker's Island off a knock-back to involuntary manslaughter Narcotics record. Methadone treatment. Two kids. Wife's named Elaine. Strictly a cowboy.",
+      "wordCount": 46
+    },
+    {
+      "id": 343,
+      "index": 343,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "Who else have I got?",
+      "wordCount": 5
+    },
+    {
+      "id": 344,
+      "index": 344,
+      "character": "SCHWARTZ",
+      "gender": "NA",
+      "line": "Drucker, Casals and me, boss",
+      "wordCount": 5
+    },
+    {
+      "id": 345,
+      "index": 345,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "Bob, get on the house.",
+      "wordCount": 5
+    },
+    {
+      "id": 346,
+      "index": 346,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "24 hour surveillance, title search, the works. Drucker and Casals bug the car and whatever else we need, remembering it won't be evidentiary. When he moves or sits - like in a restaurant.",
+      "wordCount": 33
+    },
+    {
+      "id": 347,
+      "index": 347,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "I want pictures of who he moves and sits with. Then run makes on them and their cars. They got jackets? I want to see who they move and they sit with and give them the same treatment. Bosko. Work the neighborhood. Tail the wife. Look for a drop that could garage a work car and tools. That's it.",
+      "wordCount": 59
+    },
+    {
+      "id": 348,
+      "index": 348,
+      "character": "BOSKO",
+      "gender": "Male",
+      "line": "Richie the Medical Examiner's holding.",
+      "wordCount": 5
+    },
+    {
+      "id": 349,
+      "index": 349,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "Conference him in. Yeah? Richie?",
+      "wordCount": 5
+    },
+    {
+      "id": 350,
+      "index": 350,
+      "character": "RICHIE",
+      "gender": "NA",
+      "line": "Vincent, can you fall by a crime scene on the strip? I think I got another one.",
+      "wordCount": 17
+    },
+    {
+      "id": 351,
+      "index": 351,
+      "character": "RICHIE",
+      "gender": "NA",
+      "line": "Here's how we found her.",
+      "wordCount": 5
+    },
+    {
+      "id": 352,
+      "index": 352,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "How old?",
+      "wordCount": 2
+    },
+    {
+      "id": 353,
+      "index": 353,
+      "character": "RICHIE",
+      "gender": "NA",
+      "line": "Sixteen, seventeen.",
+      "wordCount": 2
+    },
+    {
+      "id": 354,
+      "index": 354,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "How'd she die, Richie?",
+      "wordCount": 4
+    },
+    {
+      "id": 355,
+      "index": 355,
+      "character": "RICHIE",
+      "gender": "NA",
+      "line": "Blunt instrument. Cerebral hematoma.",
+      "wordCount": 4
+    },
+    {
+      "id": 356,
+      "index": 356,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "Who are they?",
+      "wordCount": 3
+    },
+    {
+      "id": 357,
+      "index": 357,
+      "character": "RICHIE",
+      "gender": "NA",
+      "line": "The family.",
+      "wordCount": 2
+    },
+    {
+      "id": 358,
+      "index": 358,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "What the hell are they doin' here?",
+      "wordCount": 7
+    },
+    {
+      "id": 359,
+      "index": 359,
+      "character": "RICHIE",
+      "gender": "NA",
+      "line": "It's fucked up. Somebody inside knew the girl and called the family.",
+      "wordCount": 12
+    },
+    {
+      "id": 360,
+      "index": 360,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "Oh, this is nice.",
+      "wordCount": 4
+    },
+    {
+      "id": 361,
+      "index": 361,
+      "character": "RICHIE",
+      "gender": "NA",
+      "line": "I wanted you to see this 'cause I got a feeling it's serial and gonna end up in your court.",
+      "wordCount": 20
+    },
+    {
+      "id": 362,
+      "index": 362,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "Homicide getting anywhere?",
+      "wordCount": 3
+    },
+    {
+      "id": 363,
+      "index": 363,
+      "character": "RICHIE",
+      "gender": "NA",
+      "line": "Nowhere.",
+      "wordCount": 1
+    },
+    {
+      "id": 364,
+      "index": 364,
+      "character": "MOTHER",
+      "gender": "NA",
+      "line": "Baby! Where's my baby.!",
+      "wordCount": 4
+    },
+    {
+      "id": 365,
+      "index": 365,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "You keep your hands in sight! I tell you what to do, how to do it.",
+      "wordCount": 16
+    },
+    {
+      "id": 366,
+      "index": 366,
+      "character": "DRIVER",
+      "gender": "NA",
+      "line": "Yessir. I'm just the delivery boy.",
+      "wordCount": 6
+    },
+    {
+      "id": 367,
+      "index": 367,
+      "character": "REAR SHOTS",
+      "gender": "NA",
+      "line": "Of the two vehicles. Out of the covered bed of the pick-up a small man slowly slips out.",
+      "wordCount": 18
+    },
+    {
+      "id": 368,
+      "index": 368,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "Now, with your right hand only: throw the envelope in my back seat.",
+      "wordCount": 13
+    },
+    {
+      "id": 369,
+      "index": 369,
+      "character": "GUNMAN",
+      "gender": "NA",
+      "line": "Can I Make it?",
+      "wordCount": 4
+    },
+    {
+      "id": 370,
+      "index": 370,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "You're all done, pal.",
+      "wordCount": 4
+    },
+    {
+      "id": 371,
+      "index": 371,
+      "character": "GUNMAN",
+      "gender": "NA",
+      "line": "Do it.",
+      "wordCount": 2
+    },
+    {
+      "id": 372,
+      "index": 372,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "John Van Zant?",
+      "wordCount": 3
+    },
+    {
+      "id": 373,
+      "index": 373,
+      "character": "VAN ZANT",
+      "gender": "Male",
+      "line": "Yeah. Who's this?",
+      "wordCount": 3
+    },
+    {
+      "id": 374,
+      "index": 374,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "Neil McCauley.",
+      "wordCount": 2
+    },
+    {
+      "id": 375,
+      "index": 375,
+      "character": "VAN ZANT",
+      "gender": "Male",
+      "line": "This kid I sent to straighten you up on the money... didn't call. Is ... uh... everything alright?",
+      "wordCount": 18
+    },
+    {
+      "id": 376,
+      "index": 376,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "Tell you what: keep the money.",
+      "wordCount": 6
+    },
+    {
+      "id": 377,
+      "index": 377,
+      "character": "VAN ZANT",
+      "gender": "Male",
+      "line": "What?",
+      "wordCount": 1
+    },
+    {
+      "id": 378,
+      "index": 378,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "\"... keep ... the ... money.\"",
+      "wordCount": 6
+    },
+    {
+      "id": 379,
+      "index": 379,
+      "character": "VAN ZANT",
+      "gender": "Male",
+      "line": "It's a lot of money! What are you doing?",
+      "wordCount": 9
+    },
+    {
+      "id": 380,
+      "index": 380,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "What am I doin' I'm talking into an empty telephone.",
+      "wordCount": 10
+    },
+    {
+      "id": 381,
+      "index": 381,
+      "character": "VAN ZANT",
+      "gender": "Male",
+      "line": "I don't understand.",
+      "wordCount": 3
+    },
+    {
+      "id": 382,
+      "index": 382,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "'Cause there is a dead man on the other end of this line...",
+      "wordCount": 13
+    },
+    {
+      "id": 383,
+      "index": 383,
+      "character": "VAN ZANT",
+      "gender": "Male",
+      "line": "Who are these people? Huh?!",
+      "wordCount": 5
+    },
+    {
+      "id": 384,
+      "index": 384,
+      "character": "KELSO",
+      "gender": "Male",
+      "line": "Yeah?",
+      "wordCount": 1
+    },
+    {
+      "id": 385,
+      "index": 385,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "You got a clean line?",
+      "wordCount": 5
+    },
+    {
+      "id": 386,
+      "index": 386,
+      "character": "KELSO",
+      "gender": "Male",
+      "line": "Yeah.",
+      "wordCount": 1
+    },
+    {
+      "id": 387,
+      "index": 387,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "I got a delay dropping the $50,000.",
+      "wordCount": 7
+    },
+    {
+      "id": 388,
+      "index": 388,
+      "character": "KELSO",
+      "gender": "Male",
+      "line": "You don't have a delay. What you don't have is a deal. Swing by and collect your envelope sometime. Goodbye.",
+      "wordCount": 20
+    },
+    {
+      "id": 389,
+      "index": 389,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "Wait a minute, pal-o!!",
+      "wordCount": 4
+    },
+    {
+      "id": 390,
+      "index": 390,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "You're going to wait for me for a week. I'll buy a week with the five. It's above and beyond the fifty and if I wash, you keep it. You're going to wait for me 'cause you want me to take it down. You know it's got better odds with me in. Now do we have an understanding?",
+      "wordCount": 58
+    },
+    {
+      "id": 391,
+      "index": 391,
+      "character": "KELSO",
+      "gender": "Male",
+      "line": "Seven days.",
+      "wordCount": 2
+    },
+    {
+      "id": 392,
+      "index": 392,
+      "character": "VOICES",
+      "gender": "NA",
+      "line": "...Happy anniversary to you. Happy anniversary dear Michael and Elaine. Happy anniversary to you.",
+      "wordCount": 14
+    },
+    {
+      "id": 393,
+      "index": 393,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "We'll down platinum through Nate. The deal is 72% of today's quote on the Bourse in the New York Times.",
+      "wordCount": 20
+    },
+    {
+      "id": 394,
+      "index": 394,
+      "character": "CERRITO",
+      "gender": "NA",
+      "line": "You got the black boxes for the alarms?",
+      "wordCount": 8
+    },
+    {
+      "id": 395,
+      "index": 395,
+      "character": "CHRIS",
+      "gender": "Male",
+      "line": "Yeah. Towner delivered. They're in the drop.",
+      "wordCount": 7
+    },
+    {
+      "id": 396,
+      "index": 396,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "We pass by couple times tomorrow afternoon. Check nothing strange in the neighborhood. Tomorrow night: we take it down. You set on the rear door.",
+      "wordCount": 25
+    },
+    {
+      "id": 397,
+      "index": 397,
+      "character": "CHRIS",
+      "gender": "Male",
+      "line": "I'm going to punch it... What do we do about Van Zant?",
+      "wordCount": 12
+    },
+    {
+      "id": 398,
+      "index": 398,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "Kill him...after the score.",
+      "wordCount": 4
+    },
+    {
+      "id": 399,
+      "index": 399,
+      "character": "CHRIS",
+      "gender": "Male",
+      "line": "Kelso?",
+      "wordCount": 1
+    },
+    {
+      "id": 400,
+      "index": 400,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "We'll use Nate's advance off the platinum when I down the merch to pay Kelso for the bank package.",
+      "wordCount": 19
+    },
+    {
+      "id": 401,
+      "index": 401,
+      "character": "CHRIS",
+      "gender": "Male",
+      "line": "You okay?",
+      "wordCount": 2
+    },
+    {
+      "id": 402,
+      "index": 402,
+      "character": "CHARLENE",
+      "gender": "Female",
+      "line": "I'm fine.",
+      "wordCount": 2
+    },
+    {
+      "id": 403,
+      "index": 403,
+      "character": "CHRIS",
+      "gender": "Male",
+      "line": "Makin' it happen this time...",
+      "wordCount": 5
+    },
+    {
+      "id": 404,
+      "index": 404,
+      "character": "CHARLENE",
+      "gender": "Female",
+      "line": "I hope so. I really hope so.",
+      "wordCount": 7
+    },
+    {
+      "id": 405,
+      "index": 405,
+      "character": "MICHAEL",
+      "gender": "Male",
+      "line": "Hey!",
+      "wordCount": 1
+    },
+    {
+      "id": 406,
+      "index": 406,
+      "character": "CHRIS",
+      "gender": "Male",
+      "line": "Let me have it!",
+      "wordCount": 4
+    },
+    {
+      "id": 407,
+      "index": 407,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "I got it.",
+      "wordCount": 3
+    },
+    {
+      "id": 408,
+      "index": 408,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "A goddamn convention.",
+      "wordCount": 3
+    },
+    {
+      "id": 409,
+      "index": 409,
+      "character": "CASALS",
+      "gender": "Male",
+      "line": "Who's \"slick?\"",
+      "wordCount": 2
+    },
+    {
+      "id": 410,
+      "index": 410,
+      "character": "DRUCKER",
+      "gender": "Male",
+      "line": "Cerrito, the wide one. He's hugged twice. One if he finds it behind the wheel wall. The back-up's in the firewall. We got their plates.",
+      "wordCount": 25
+    },
+    {
+      "id": 411,
+      "index": 411,
+      "character": "CASALS",
+      "gender": "Male",
+      "line": "Yeah.",
+      "wordCount": 1
+    },
+    {
+      "id": 412,
+      "index": 412,
+      "character": "DRUCKER",
+      "gender": "Male",
+      "line": "One with the hair is Shiherlis. Got a revolving tail and a tap on the house phone.",
+      "wordCount": 17
+    },
+    {
+      "id": 413,
+      "index": 413,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "Who's the big guy?",
+      "wordCount": 4
+    },
+    {
+      "id": 414,
+      "index": 414,
+      "character": "DRUCKER",
+      "gender": "Male",
+      "line": "First time we're seeing him.",
+      "wordCount": 5
+    },
+    {
+      "id": 415,
+      "index": 415,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "Next time this crew scores? When they walk in that door? They will get the surprise of a lifetime.",
+      "wordCount": 19
+    },
+    {
+      "id": 416,
+      "index": 416,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "Come away with me.",
+      "wordCount": 4
+    },
+    {
+      "id": 417,
+      "index": 417,
+      "character": "EADY",
+      "gender": "Female",
+      "line": "What? Where?",
+      "wordCount": 2
+    },
+    {
+      "id": 418,
+      "index": 418,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "New Zealand.",
+      "wordCount": 2
+    },
+    {
+      "id": 419,
+      "index": 419,
+      "character": "EADY",
+      "gender": "Female",
+      "line": "When?",
+      "wordCount": 1
+    },
+    {
+      "id": 420,
+      "index": 420,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "Soon.",
+      "wordCount": 1
+    },
+    {
+      "id": 421,
+      "index": 421,
+      "character": "EADY",
+      "gender": "Female",
+      "line": "You're kidding.",
+      "wordCount": 2
+    },
+    {
+      "id": 422,
+      "index": 422,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "What's stopping you? What's here?",
+      "wordCount": 5
+    },
+    {
+      "id": 423,
+      "index": 423,
+      "character": "EADY",
+      "gender": "Female",
+      "line": "I don't know you.",
+      "wordCount": 4
+    },
+    {
+      "id": 424,
+      "index": 424,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "What's to know?",
+      "wordCount": 3
+    },
+    {
+      "id": 425,
+      "index": 425,
+      "character": "EADY",
+      "gender": "Female",
+      "line": "Are you married?",
+      "wordCount": 3
+    },
+    {
+      "id": 426,
+      "index": 426,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "Why?",
+      "wordCount": 1
+    },
+    {
+      "id": 427,
+      "index": 427,
+      "character": "EADY",
+      "gender": "Female",
+      "line": "Way you come and go.",
+      "wordCount": 5
+    },
+    {
+      "id": 428,
+      "index": 428,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "I deal with state officials. County. Weird hours. A lot of traveling, entertaining.",
+      "wordCount": 13
+    },
+    {
+      "id": 429,
+      "index": 429,
+      "character": "EADY",
+      "gender": "Female",
+      "line": "You don't know me at all, Neil...",
+      "wordCount": 7
+    },
+    {
+      "id": 430,
+      "index": 430,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "I know enough.",
+      "wordCount": 3
+    },
+    {
+      "id": 431,
+      "index": 431,
+      "character": "EADY",
+      "gender": "Female",
+      "line": "My father wanted me to marry someone in Taipei. It was like I was a piece of furniture: \"Go be his wife.\" After I left he won't talk to me. Because I went on my own. I can't let people tell roe what to do again. And that trust comes from knowing someone over time. This is hard between us for me. Because I like you very much.",
+      "wordCount": 68
+    },
+    {
+      "id": 432,
+      "index": 432,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "I have to leave. Come away with me. No one will ever tell you what to do... You'll never lose yourself with me.",
+      "wordCount": 23
+    },
+    {
+      "id": 433,
+      "index": 433,
+      "character": "PROSTITUTE",
+      "gender": "NA",
+      "line": "Hey, baby.",
+      "wordCount": 2
+    },
+    {
+      "id": 434,
+      "index": 434,
+      "character": "WAINGRO",
+      "gender": "Male",
+      "line": "Showed you a good time? Huh?",
+      "wordCount": 6
+    },
+    {
+      "id": 435,
+      "index": 435,
+      "character": "PROSTITUTE",
+      "gender": "NA",
+      "line": "Oh, yeah. You fly. You cool.",
+      "wordCount": 6
+    },
+    {
+      "id": 436,
+      "index": 436,
+      "character": "WAINGRO",
+      "gender": "Male",
+      "line": "Don't lie to me. I can always tell when people lie to me.",
+      "wordCount": 13
+    },
+    {
+      "id": 437,
+      "index": 437,
+      "character": "PROSTITUTE",
+      "gender": "NA",
+      "line": "I ain't lyin'! You a hot dog. You a cowboy. You hung like a horse and this was the monster fuck of my young life. Now I gotta get my ass streetside.",
+      "wordCount": 32
+    },
+    {
+      "id": 438,
+      "index": 438,
+      "character": "WAINGRO",
+      "gender": "Male",
+      "line": "You don't have a truth-telling style.",
+      "wordCount": 6
+    },
+    {
+      "id": 439,
+      "index": 439,
+      "character": "PROSTITUTE",
+      "gender": "NA",
+      "line": "The fuck's wrong with you?",
+      "wordCount": 5
+    },
+    {
+      "id": 440,
+      "index": 440,
+      "character": "WAINGRO",
+      "gender": "Male",
+      "line": "You think I'm some john? I'm a stone killer! I'm a sky-blue bad ass, bitch!",
+      "wordCount": 15
+    },
+    {
+      "id": 441,
+      "index": 441,
+      "character": "BARTENDER",
+      "gender": "NA",
+      "line": "Once again?",
+      "wordCount": 2
+    },
+    {
+      "id": 442,
+      "index": 442,
+      "character": "WAINGRO",
+      "gender": "Male",
+      "line": "Sure, good buddy. Set it up.",
+      "wordCount": 6
+    },
+    {
+      "id": 443,
+      "index": 443,
+      "character": "WAINGRO",
+      "gender": "Male",
+      "line": "I'm looking to get into something.",
+      "wordCount": 6
+    },
+    {
+      "id": 444,
+      "index": 444,
+      "character": "BARTENDER",
+      "gender": "NA",
+      "line": "Yeah? Where you been?",
+      "wordCount": 4
+    },
+    {
+      "id": 445,
+      "index": 445,
+      "character": "WAINGRO",
+      "gender": "Male",
+      "line": "Chino, Tracy. I'm a cowboy, heavy-hitter. Billy Ricketts said to come see you.",
+      "wordCount": 13
+    },
+    {
+      "id": 446,
+      "index": 446,
+      "character": "BARTENDER",
+      "gender": "NA",
+      "line": "Go see this guy. This guy always putting guys on.",
+      "wordCount": 10
+    },
+    {
+      "id": 447,
+      "index": 447,
+      "character": "WAINGRO",
+      "gender": "Male",
+      "line": "Thanks.",
+      "wordCount": 1
+    },
+    {
+      "id": 448,
+      "index": 448,
+      "character": "LILLIAN",
+      "gender": "NA",
+      "line": "Get your fucking hand off my arm!",
+      "wordCount": 7
+    },
+    {
+      "id": 449,
+      "index": 449,
+      "character": "RADIO ANNOUNCER",
+      "gender": "NA",
+      "line": "Hey, hey! ...there, old aware ones, and you, too, my fair ones. When tears are falling like rain the groove is strictly Col-trane...",
+      "wordCount": 23
+    },
+    {
+      "id": 450,
+      "index": 450,
+      "character": "BREEDAN",
+      "gender": "Male",
+      "line": "Hey!",
+      "wordCount": 1
+    },
+    {
+      "id": 451,
+      "index": 451,
+      "character": "LILLIAN",
+      "gender": "NA",
+      "line": "Let's go, baby.",
+      "wordCount": 3
+    },
+    {
+      "id": 452,
+      "index": 452,
+      "character": "BREEDAN",
+      "gender": "Male",
+      "line": "I got any left?",
+      "wordCount": 4
+    },
+    {
+      "id": 453,
+      "index": 453,
+      "character": "LILLIAN",
+      "gender": "NA",
+      "line": "There's other paychecks. You blow it off. It's worth it, baby, cause you mess with that man and you be violated right back to San Quentin. So you got to handle it 'til we get you a different job.",
+      "wordCount": 39
+    },
+    {
+      "id": 454,
+      "index": 454,
+      "character": "BREEDAN",
+      "gender": "Male",
+      "line": "Yeah. That motherfucker ain't invented the hard time this gangster can't handle!. Why you stickin' with me, Lillian? Why?",
+      "wordCount": 19
+    },
+    {
+      "id": 455,
+      "index": 455,
+      "character": "LILLIAN",
+      "gender": "NA",
+      "line": "'Cause I'm proud of you. Proud you my man.",
+      "wordCount": 9
+    },
+    {
+      "id": 456,
+      "index": 456,
+      "character": "BREEDAN",
+      "gender": "Male",
+      "line": "Proud of me?",
+      "wordCount": 3
+    },
+    {
+      "id": 457,
+      "index": 457,
+      "character": "BREEDAN",
+      "gender": "Male",
+      "line": "What you proud of me for?",
+      "wordCount": 6
+    },
+    {
+      "id": 458,
+      "index": 458,
+      "character": "LILLIAN",
+      "gender": "NA",
+      "line": "Come on home.",
+      "wordCount": 3
+    },
+    {
+      "id": 459,
+      "index": 459,
+      "character": "BRUCE",
+      "gender": "NA",
+      "line": "Okay. Captain Jackson wants to know what's goin' on.",
+      "wordCount": 9
+    },
+    {
+      "id": 460,
+      "index": 460,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "Nothing. Clear the air.",
+      "wordCount": 4
+    },
+    {
+      "id": 461,
+      "index": 461,
+      "character": "JACKSON",
+      "gender": "NA",
+      "line": "Where'd...they...go?",
+      "wordCount": 1
+    },
+    {
+      "id": 462,
+      "index": 462,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "Fell back to see if the alarm bypasses held. If they did, they'll be back. Stay the fuck off the radio!",
+      "wordCount": 21
+    },
+    {
+      "id": 463,
+      "index": 463,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "Quiet! !",
+      "wordCount": 2
+    },
+    {
+      "id": 464,
+      "index": 464,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "...We walk.",
+      "wordCount": 2
+    },
+    {
+      "id": 465,
+      "index": 465,
+      "character": "CHRIS",
+      "gender": "Male",
+      "line": "I'm 60 seconds away. It's a rat or something.",
+      "wordCount": 9
+    },
+    {
+      "id": 466,
+      "index": 466,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "It is not an animal sound. We are out of here.",
+      "wordCount": 11
+    },
+    {
+      "id": 467,
+      "index": 467,
+      "character": "CHRIS",
+      "gender": "Male",
+      "line": "We need the cash!!",
+      "wordCount": 4
+    },
+    {
+      "id": 468,
+      "index": 468,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "We walk!! Now.",
+      "wordCount": 3
+    },
+    {
+      "id": 469,
+      "index": 469,
+      "character": "JACKSON",
+      "gender": "NA",
+      "line": "They're leaving. Why are they leaving?!",
+      "wordCount": 6
+    },
+    {
+      "id": 470,
+      "index": 470,
+      "character": "JACKSON",
+      "gender": "NA",
+      "line": "I can take 'em, now!",
+      "wordCount": 5
+    },
+    {
+      "id": 471,
+      "index": 471,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "Let 'em go.",
+      "wordCount": 3
+    },
+    {
+      "id": 472,
+      "index": 472,
+      "character": "JACKSON",
+      "gender": "NA",
+      "line": "At least we got 'em on a...",
+      "wordCount": 7
+    },
+    {
+      "id": 473,
+      "index": 473,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "Let em go. We got nothing! Not even a burglary. They didn't fucking steal anything yet. Don't you get it? All we've got's breaking and entry.",
+      "wordCount": 26
+    },
+    {
+      "id": 474,
+      "index": 474,
+      "character": "JACKSON",
+      "gender": "NA",
+      "line": "I'm not letting them walk!",
+      "wordCount": 5
+    },
+    {
+      "id": 475,
+      "index": 475,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "The fuck you aren't! That's exactly what you are gonna do. It's my investigation. And my authority supersedes your rank! And I am not settling for some chicken shit misdemeanor!",
+      "wordCount": 30
+    },
+    {
+      "id": 476,
+      "index": 476,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "Back to work.",
+      "wordCount": 3
+    },
+    {
+      "id": 477,
+      "index": 477,
+      "character": "MARCIANO",
+      "gender": "Male",
+      "line": "What can I do for you guys? Ignores his hand and shoves him back into his office chair with an open hand.",
+      "wordCount": 22
+    },
+    {
+      "id": 478,
+      "index": 478,
+      "character": "MARCIANO",
+      "gender": "Male",
+      "line": "L.A.P.D. Who the hell you think you're pushing around? You got no jurisdiction and I know people here!",
+      "wordCount": 18
+    },
+    {
+      "id": 479,
+      "index": 479,
+      "character": "SCHWARTZ",
+      "gender": "NA",
+      "line": "Who? The fucking Tooth Fairy! So what?",
+      "wordCount": 7
+    },
+    {
+      "id": 480,
+      "index": 480,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "You go back to Newark on a New Jersey warrant for smuggling cigarettes up from North Carolina three years ago or you go to work for us. Cut and dried. That...is...it.",
+      "wordCount": 31
+    },
+    {
+      "id": 481,
+      "index": 481,
+      "character": "MARCIANO",
+      "gender": "Male",
+      "line": "Oh, my God...",
+      "wordCount": 3
+    },
+    {
+      "id": 482,
+      "index": 482,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "Charlene Shiherlis.",
+      "wordCount": 2
+    },
+    {
+      "id": 483,
+      "index": 483,
+      "character": "MARCIANO",
+      "gender": "Male",
+      "line": "Who?",
+      "wordCount": 1
+    },
+    {
+      "id": 484,
+      "index": 484,
+      "character": "SCHWARTZ",
+      "gender": "NA",
+      "line": "\"Who?\" The stranger you been talkin' dirty to on the telephone every day for the last month.",
+      "wordCount": 17
+    },
+    {
+      "id": 485,
+      "index": 485,
+      "character": "MARCIANO",
+      "gender": "Male",
+      "line": "You can't tie me to her!",
+      "wordCount": 6
+    },
+    {
+      "id": 486,
+      "index": 486,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "Who has to. You're onna plane to New Jersey, jagoff.",
+      "wordCount": 10
+    },
+    {
+      "id": 487,
+      "index": 487,
+      "character": "MARCIANO",
+      "gender": "Male",
+      "line": "Oh, man... Why did I get mixed up with that bitch?",
+      "wordCount": 11
+    },
+    {
+      "id": 488,
+      "index": 488,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "'Cause she's got a great ass and you goT your head all the way up it.",
+      "wordCount": 16
+    },
+    {
+      "id": 489,
+      "index": 489,
+      "character": "MARCIANO",
+      "gender": "Male",
+      "line": "So?",
+      "wordCount": 1
+    },
+    {
+      "id": 490,
+      "index": 490,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "So it's no big thing. I don't even want her. You can have her, after. I want her husband and all his buddies; that's all. And you're gonna help.",
+      "wordCount": 29
+    },
+    {
+      "id": 491,
+      "index": 491,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "LAPD? The G? What? Where the hell did this heat come from?",
+      "wordCount": 12
+    },
+    {
+      "id": 492,
+      "index": 492,
+      "character": "CHRIS",
+      "gender": "Male",
+      "line": "Maybe it's only the EMA score, not us.",
+      "wordCount": 8
+    },
+    {
+      "id": 493,
+      "index": 493,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "Wake up! Assume they got our phones, our houses bugged, I beepers on all the cars. We got major problems.. Where's Cerrito?",
+      "wordCount": 22
+    },
+    {
+      "id": 494,
+      "index": 494,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "Recognize the cook?",
+      "wordCount": 3
+    },
+    {
+      "id": 495,
+      "index": 495,
+      "character": "CHRIS",
+      "gender": "Male",
+      "line": "No.",
+      "wordCount": 1
+    },
+    {
+      "id": 496,
+      "index": 496,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "D Block. San Q. Did a nickel on armed robbery.",
+      "wordCount": 10
+    },
+    {
+      "id": 497,
+      "index": 497,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "Hey, David. How you doing?",
+      "wordCount": 5
+    },
+    {
+      "id": 498,
+      "index": 498,
+      "character": "BREEDAN",
+      "gender": "Male",
+      "line": "Hey, Homeboy! All right! How bout you?",
+      "wordCount": 7
+    },
+    {
+      "id": 499,
+      "index": 499,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "Gettin' by. You okay?",
+      "wordCount": 4
+    },
+    {
+      "id": 500,
+      "index": 500,
+      "character": "BREEDAN",
+      "gender": "Male",
+      "line": "Yeah. Temporary. Know what I mean?",
+      "wordCount": 6
+    },
+    {
+      "id": 501,
+      "index": 501,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "Sure. See you around.",
+      "wordCount": 4
+    },
+    {
+      "id": 502,
+      "index": 502,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "What took you so long?",
+      "wordCount": 5
+    },
+    {
+      "id": 503,
+      "index": 503,
+      "character": "CERRITO",
+      "gender": "NA",
+      "line": "My car. Bugs. Two of 'em. Count 'em. One in the wheel well. Second behind the fire wall. Night of the party? I dropped Elaine and swung by EMA to check out the junction box...",
+      "wordCount": 35
+    },
+    {
+      "id": 504,
+      "index": 504,
+      "character": "CHRIS",
+      "gender": "Male",
+      "line": "Without the platinum how do we buy the bank score?",
+      "wordCount": 10
+    },
+    {
+      "id": 505,
+      "index": 505,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "I cash in T-bills to pay-off Kelso. That's not our problem.",
+      "wordCount": 11
+    },
+    {
+      "id": 506,
+      "index": 506,
+      "character": "CERRITO",
+      "gender": "NA",
+      "line": "What the hell happened to Van Zant and our 750?",
+      "wordCount": 10
+    },
+    {
+      "id": 507,
+      "index": 507,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "With the heat we got, you wanna play World War Two in the streets with Van Zant?",
+      "wordCount": 17
+    },
+    {
+      "id": 508,
+      "index": 508,
+      "character": "CERRITO",
+      "gender": "NA",
+      "line": "Van Zant gets a pass?!",
+      "wordCount": 5
+    },
+    {
+      "id": 509,
+      "index": 509,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "Fuck Van Zant. I got more motivation to whack him than you do. He is a luxury. Our problem is: jam and take the bank or split. And I mean right fucking now. Do not go home, pack, nothing. Thirty seconds from now we are on the road. Gone.",
+      "wordCount": 49
+    },
+    {
+      "id": 510,
+      "index": 510,
+      "character": "CHRIS",
+      "gender": "Male",
+      "line": "For me, the bank's worth the stretch. I say accept the risk, stay.",
+      "wordCount": 13
+    },
+    {
+      "id": 511,
+      "index": 511,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "Michael?",
+      "wordCount": 1
+    },
+    {
+      "id": 512,
+      "index": 512,
+      "character": "CERRITO",
+      "gender": "NA",
+      "line": "I roll with you. Whatever...",
+      "wordCount": 5
+    },
+    {
+      "id": 513,
+      "index": 513,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "Not on this one, Michael. On this one you make up your own mind.",
+      "wordCount": 14
+    },
+    {
+      "id": 514,
+      "index": 514,
+      "character": "CERRITO",
+      "gender": "NA",
+      "line": "...you figure this the best thing to do?",
+      "wordCount": 8
+    },
+    {
+      "id": 515,
+      "index": 515,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "I got some plans. To go away after. So for me, it's worth the stretch.",
+      "wordCount": 15
+    },
+    {
+      "id": 516,
+      "index": 516,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "But, Elaine takes good care of you. You got plenty put away. T. Bonds; real estate. If I were you, I'd be smart and cut loose of this.",
+      "wordCount": 28
+    },
+    {
+      "id": 517,
+      "index": 517,
+      "character": "CERRITO",
+      "gender": "NA",
+      "line": "Hey. To me the action's half the juice anyway. I'm in.",
+      "wordCount": 11
+    },
+    {
+      "id": 518,
+      "index": 518,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "All right. All right.",
+      "wordCount": 4
+    },
+    {
+      "id": 519,
+      "index": 519,
+      "character": "CERRITO",
+      "gender": "NA",
+      "line": "That the place?",
+      "wordCount": 3
+    },
+    {
+      "id": 520,
+      "index": 520,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "Yeah. You see how the road leads back around?",
+      "wordCount": 9
+    },
+    {
+      "id": 521,
+      "index": 521,
+      "character": "CERRITO",
+      "gender": "NA",
+      "line": "Yeah.",
+      "wordCount": 1
+    },
+    {
+      "id": 522,
+      "index": 522,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "That's the escape route...",
+      "wordCount": 4
+    },
+    {
+      "id": 523,
+      "index": 523,
+      "character": "SCHWARTZ",
+      "gender": "NA",
+      "line": "This is it.",
+      "wordCount": 3
+    },
+    {
+      "id": 524,
+      "index": 524,
+      "character": "CASALS",
+      "gender": "Male",
+      "line": "I know. Let's go!",
+      "wordCount": 4
+    },
+    {
+      "id": 525,
+      "index": 525,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "What are they taking down out here?",
+      "wordCount": 7
+    },
+    {
+      "id": 526,
+      "index": 526,
+      "character": "CASALS",
+      "gender": "Male",
+      "line": "They were looking at something southwest...",
+      "wordCount": 6
+    },
+    {
+      "id": 527,
+      "index": 527,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "What's's that down there?",
+      "wordCount": 4
+    },
+    {
+      "id": 528,
+      "index": 528,
+      "character": "CASALS",
+      "gender": "Male",
+      "line": "An auto parts company. They're going to knock over a payroll?",
+      "wordCount": 11
+    },
+    {
+      "id": 529,
+      "index": 529,
+      "character": "SCHWARTZ",
+      "gender": "NA",
+      "line": "The company only pays by check.",
+      "wordCount": 6
+    },
+    {
+      "id": 530,
+      "index": 530,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "Maybe they're gonna steal the hub caps ...",
+      "wordCount": 8
+    },
+    {
+      "id": 531,
+      "index": 531,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "A billboard. Oil pumps. What the hell's goin' on?",
+      "wordCount": 9
+    },
+    {
+      "id": 532,
+      "index": 532,
+      "character": "SCHWARTZ",
+      "gender": "NA",
+      "line": "That's what we were trying to figure.",
+      "wordCount": 7
+    },
+    {
+      "id": 533,
+      "index": 533,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "I got an idea what they're looking at. You know what they're looking at?",
+      "wordCount": 14
+    },
+    {
+      "id": 534,
+      "index": 534,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "Is that guy something; or is that guy something? I mean, you gotta give this crew credit. They are so fucking good... Know what he's looking at?",
+      "wordCount": 27
+    },
+    {
+      "id": 535,
+      "index": 535,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "Us. The L.A.P.D. The Police Department. We just got made...",
+      "wordCount": 10
+    },
+    {
+      "id": 536,
+      "index": 536,
+      "character": "NATE",
+      "gender": "Male",
+      "line": "Worth it?",
+      "wordCount": 2
+    },
+    {
+      "id": 537,
+      "index": 537,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "There's enough circuit diagrams and blueprints here to build the bank. It's terrific.",
+      "wordCount": 13
+    },
+    {
+      "id": 538,
+      "index": 538,
+      "character": "NATE",
+      "gender": "Male",
+      "line": "His name is Hanna; first name, Vincent. I smeared this sergeant in vice five yards. Hanna's all over you. He's a hot dog. Lieutenant in major Crimes Unit. He's taken down some heavy crews. Blew away Frankie Yonder in Chicago and he was a fucking maniac. Was working Narcotics before that. He's good, Neil. Dedicated. Divorced three times. Current wife's Justine. He's why the extra heat. Vice sergeant says Hanna likes you. Thinks you're some kind of 'star.' 'You do this sharp, you do that sharp. Look how sharp this guy is to figure that.'",
+      "wordCount": 95
+    },
+    {
+      "id": 539,
+      "index": 539,
+      "character": "NATE",
+      "gender": "Male",
+      "line": "Funny as a heart attack. With this guy and this much heat, you should pass on the bank.",
+      "wordCount": 18
+    },
+    {
+      "id": 540,
+      "index": 540,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "I've had heat before.",
+      "wordCount": 4
+    },
+    {
+      "id": 541,
+      "index": 541,
+      "character": "NATE",
+      "gender": "Male",
+      "line": "That's not the point.",
+      "wordCount": 4
+    },
+    {
+      "id": 542,
+      "index": 542,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "This one's worth the stretch",
+      "wordCount": 5
+    },
+    {
+      "id": 543,
+      "index": 543,
+      "character": "NATE",
+      "gender": "Male",
+      "line": "You sure?",
+      "wordCount": 2
+    },
+    {
+      "id": 544,
+      "index": 544,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "I'm sure. Drop me at the garage.",
+      "wordCount": 7
+    },
+    {
+      "id": 545,
+      "index": 545,
+      "character": "HUGH",
+      "gender": "NA",
+      "line": "Hear from him yet?",
+      "wordCount": 4
+    },
+    {
+      "id": 546,
+      "index": 546,
+      "character": "VAN ZANT",
+      "gender": "Male",
+      "line": "Not a thing.",
+      "wordCount": 3
+    },
+    {
+      "id": 547,
+      "index": 547,
+      "character": "HUGH",
+      "gender": "NA",
+      "line": "Maybe he went away.",
+      "wordCount": 4
+    },
+    {
+      "id": 548,
+      "index": 548,
+      "character": "VAN ZANT",
+      "gender": "Male",
+      "line": "Yeah. Sure. Not hearing bothers me more... Where's this guy?",
+      "wordCount": 10
+    },
+    {
+      "id": 549,
+      "index": 549,
+      "character": "HUGH",
+      "gender": "NA",
+      "line": "This guy here...we put him on. Turns out he knows McCauley.",
+      "wordCount": 11
+    },
+    {
+      "id": 550,
+      "index": 550,
+      "character": "WAINGRO",
+      "gender": "Male",
+      "line": "Waingro. My name's Waingro.",
+      "wordCount": 4
+    },
+    {
+      "id": 551,
+      "index": 551,
+      "character": "VAN ZANT",
+      "gender": "Male",
+      "line": "I been living in this office day and night. What's with your friend?",
+      "wordCount": 13
+    },
+    {
+      "id": 552,
+      "index": 552,
+      "character": "WAINGRO",
+      "gender": "Male",
+      "line": "I know all about how he thinks. We took some major scores together. He's probably busy right now. But he's real thorough. He won't forget you...",
+      "wordCount": 26
+    },
+    {
+      "id": 553,
+      "index": 553,
+      "character": "VAN ZANT",
+      "gender": "Male",
+      "line": "That's reassuring.",
+      "wordCount": 2
+    },
+    {
+      "id": 554,
+      "index": 554,
+      "character": "WAINGRO",
+      "gender": "Male",
+      "line": "Yeah, I got some moves I could make here, that could be a big help to you...",
+      "wordCount": 17
+    },
+    {
+      "id": 555,
+      "index": 555,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "Justine?",
+      "wordCount": 1
+    },
+    {
+      "id": 556,
+      "index": 556,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "Where we going?",
+      "wordCount": 3
+    },
+    {
+      "id": 557,
+      "index": 557,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "Where are you going?",
+      "wordCount": 4
+    },
+    {
+      "id": 558,
+      "index": 558,
+      "character": "JUSTINE",
+      "gender": "Female",
+      "line": "Out.",
+      "wordCount": 1
+    },
+    {
+      "id": 559,
+      "index": 559,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "You know I'm on you. Let's talk.",
+      "wordCount": 7
+    },
+    {
+      "id": 560,
+      "index": 560,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "Sure. Buy me a cup of coffee.",
+      "wordCount": 7
+    },
+    {
+      "id": 561,
+      "index": 561,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "Seven years in San Quentin. In the hole for three. McNeil before that.",
+      "wordCount": 13
+    },
+    {
+      "id": 562,
+      "index": 562,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "Yeah.",
+      "wordCount": 1
+    },
+    {
+      "id": 563,
+      "index": 563,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "Was McNeil as tough as they say?",
+      "wordCount": 7
+    },
+    {
+      "id": 564,
+      "index": 564,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "You looking to become a penologist?",
+      "wordCount": 6
+    },
+    {
+      "id": 565,
+      "index": 565,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "You looking to go back? I chased some crews, the guys were lookin' to fuck up and get busted back.",
+      "wordCount": 20
+    },
+    {
+      "id": 566,
+      "index": 566,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "You must have worked some dipshit crews.",
+      "wordCount": 7
+    },
+    {
+      "id": 567,
+      "index": 567,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "I worked all kinds.",
+      "wordCount": 4
+    },
+    {
+      "id": 568,
+      "index": 568,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "You see me doing thrill-seeker liquor store holdups with a \"Born to Lose\" tattoo on my chest?",
+      "wordCount": 17
+    },
+    {
+      "id": 569,
+      "index": 569,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "No, I do not.",
+      "wordCount": 4
+    },
+    {
+      "id": 570,
+      "index": 570,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "Right. And I...",
+      "wordCount": 3
+    },
+    {
+      "id": 571,
+      "index": 571,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "I am never going back.",
+      "wordCount": 5
+    },
+    {
+      "id": 572,
+      "index": 572,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "Then don't take down scores.",
+      "wordCount": 5
+    },
+    {
+      "id": 573,
+      "index": 573,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "I do what I do best. I take scores. You do what you do best trying to stop guys like me.",
+      "wordCount": 21
+    },
+    {
+      "id": 574,
+      "index": 574,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "You never wanted a normal-type life?",
+      "wordCount": 6
+    },
+    {
+      "id": 575,
+      "index": 575,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "What the fuck is that? Barbecues and ballgames?",
+      "wordCount": 8
+    },
+    {
+      "id": 576,
+      "index": 576,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "That's part of it.",
+      "wordCount": 4
+    },
+    {
+      "id": 577,
+      "index": 577,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "That's nice. That your life?",
+      "wordCount": 5
+    },
+    {
+      "id": 578,
+      "index": 578,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "No. My wife spends half her time on the couch. My stepdaughter's got problems 'cause her real father's a world class asshole. And every moment I got, I'm chasing guys like you.",
+      "wordCount": 32
+    },
+    {
+      "id": 579,
+      "index": 579,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "A man told me once: you want to make moves? Don't keep anything in your life you're not willing to walk out on in 30 seconds flat if you feel the heat around the corner. So if you're chasing me and you gotta move when I move, how do you expect to keep a family?",
+      "wordCount": 55
+    },
+    {
+      "id": 580,
+      "index": 580,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "What are you, a monk?",
+      "wordCount": 5
+    },
+    {
+      "id": 581,
+      "index": 581,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "No. I got a woman.",
+      "wordCount": 5
+    },
+    {
+      "id": 582,
+      "index": 582,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "What do you tell her?",
+      "wordCount": 5
+    },
+    {
+      "id": 583,
+      "index": 583,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "She thinks I sell swimming pools.",
+      "wordCount": 6
+    },
+    {
+      "id": 584,
+      "index": 584,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "And if you spot me around the corner. You gonna walk out on her? Leave her flat? Like that? Not even say goodbye?",
+      "wordCount": 23
+    },
+    {
+      "id": 585,
+      "index": 585,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "That's the discipline.",
+      "wordCount": 3
+    },
+    {
+      "id": 586,
+      "index": 586,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "What you're left with is pretty empty.",
+      "wordCount": 7
+    },
+    {
+      "id": 587,
+      "index": 587,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "Yeah? Then maybe you and me, we should both go do somethin' else, pal.",
+      "wordCount": 14
+    },
+    {
+      "id": 588,
+      "index": 588,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "I don't know how to do anything else.",
+      "wordCount": 8
+    },
+    {
+      "id": 589,
+      "index": 589,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "...neither do I.",
+      "wordCount": 3
+    },
+    {
+      "id": 590,
+      "index": 590,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "And I don't much want to.",
+      "wordCount": 6
+    },
+    {
+      "id": 591,
+      "index": 591,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "Neither do I.",
+      "wordCount": 3
+    },
+    {
+      "id": 592,
+      "index": 592,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "We're sitting here like a coupla regular fellas. You do what you do. I do what I gotta do. What happens if I am there and I got to put you away? I won't like it. But, if it's between you and some poor bastard whose wife you're going to make into a widow, brother, you are gonna go down. 'Cause you don't",
+      "wordCount": 63
+    },
+    {
+      "id": 593,
+      "index": 593,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "have to be there. You coulda gone and been a... a mailman.",
+      "wordCount": 12
+    },
+    {
+      "id": 594,
+      "index": 594,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "There's a flip side to that coin. What if you got me boxed in and I gotta put you down? 'Cause no matter what, you will not get in my way. But now that we been face to face, I would not feel good about that. But I won't hesitate. Not for one second.",
+      "wordCount": 54
+    },
+    {
+      "id": 595,
+      "index": 595,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "Maybe it'll happen that way. Or who knows ...",
+      "wordCount": 9
+    },
+    {
+      "id": 596,
+      "index": 596,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "...maybe we'll never see each other again.",
+      "wordCount": 7
+    },
+    {
+      "id": 597,
+      "index": 597,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "Can we have the bill.",
+      "wordCount": 5
+    },
+    {
+      "id": 598,
+      "index": 598,
+      "character": "DRUCKER",
+      "gender": "Male",
+      "line": "They dumped us!",
+      "wordCount": 3
+    },
+    {
+      "id": 599,
+      "index": 599,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "What?",
+      "wordCount": 1
+    },
+    {
+      "id": 600,
+      "index": 600,
+      "character": "DRUCKER",
+      "gender": "Male",
+      "line": "They dumped us.",
+      "wordCount": 3
+    },
+    {
+      "id": 601,
+      "index": 601,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "I was just with him!",
+      "wordCount": 5
+    },
+    {
+      "id": 602,
+      "index": 602,
+      "character": "DRUCKER",
+      "gender": "Male",
+      "line": "With who?",
+      "wordCount": 2
+    },
+    {
+      "id": 603,
+      "index": 603,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "Whattaya mean, \"they dumped us\"?!",
+      "wordCount": 5
+    },
+    {
+      "id": 604,
+      "index": 604,
+      "character": "DRUCKER",
+      "gender": "Male",
+      "line": "Chris slipped his tail. And Chris doesn't talk about jobs with Charlene so there's nothing for Marciano to get from her.",
+      "wordCount": 21
+    },
+    {
+      "id": 605,
+      "index": 605,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "Cerrito?",
+      "wordCount": 1
+    },
+    {
+      "id": 606,
+      "index": 606,
+      "character": "CASALS",
+      "gender": "Male",
+      "line": "Disappeared. No calls to the house. Not home.",
+      "wordCount": 8
+    },
+    {
+      "id": 607,
+      "index": 607,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "Locators on their cars?!",
+      "wordCount": 4
+    },
+    {
+      "id": 608,
+      "index": 608,
+      "character": "CASALS",
+      "gender": "Male",
+      "line": "Cerrito dumped his on a UPS van. Surveillance tailed a UPS van to Oxnard.",
+      "wordCount": 14
+    },
+    {
+      "id": 609,
+      "index": 609,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "They dumped all our tails?!!",
+      "wordCount": 5
+    },
+    {
+      "id": 610,
+      "index": 610,
+      "character": "CASALS",
+      "gender": "Male",
+      "line": "Yeah.",
+      "wordCount": 1
+    },
+    {
+      "id": 611,
+      "index": 611,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "I had coffee with McCauley half an hour ago. What happened?",
+      "wordCount": 11
+    },
+    {
+      "id": 612,
+      "index": 612,
+      "character": "CASALS",
+      "gender": "Male",
+      "line": "Our tail saw you. McCauley pulled into a car wash. Car came out. He didn't.",
+      "wordCount": 15
+    },
+    {
+      "id": 613,
+      "index": 613,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "Does anybody have Any idea where the fuck these people are at? 'Cause whatever they are gonna do, they are doing it right now!",
+      "wordCount": 24
+    },
+    {
+      "id": 614,
+      "index": 614,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "Got it. it's eighteen inches in.",
+      "wordCount": 6
+    },
+    {
+      "id": 615,
+      "index": 615,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "Where the hell's Towner? I wanted to pass by early. I want to check the slot for the work car.",
+      "wordCount": 20
+    },
+    {
+      "id": 616,
+      "index": 616,
+      "character": "SOLENKO",
+      "gender": "NA",
+      "line": "How long those guys been sitting back there?",
+      "wordCount": 8
+    },
+    {
+      "id": 617,
+      "index": 617,
+      "character": "CASHIER",
+      "gender": "NA",
+      "line": "Hour or so...",
+      "wordCount": 3
+    },
+    {
+      "id": 618,
+      "index": 618,
+      "character": "SOLENKO",
+      "gender": "NA",
+      "line": "They think this a hotel?",
+      "wordCount": 5
+    },
+    {
+      "id": 619,
+      "index": 619,
+      "character": "SOLENKO",
+      "gender": "NA",
+      "line": "Twenty minutes, then I toss their asses out of here.",
+      "wordCount": 10
+    },
+    {
+      "id": 620,
+      "index": 620,
+      "character": "BREEDAN",
+      "gender": "Male",
+      "line": "You spell me? I didn't take my break yet ...",
+      "wordCount": 10
+    },
+    {
+      "id": 621,
+      "index": 621,
+      "character": "SOLENKO",
+      "gender": "NA",
+      "line": "That spic, Cisco Kid, whatever, didn't show. After the lunch rush, haul out the garbage and mop the back. Take your break later.",
+      "wordCount": 23
+    },
+    {
+      "id": 622,
+      "index": 622,
+      "character": "CERRITO",
+      "gender": "NA",
+      "line": "Here he is.",
+      "wordCount": 3
+    },
+    {
+      "id": 623,
+      "index": 623,
+      "character": "TOWNER",
+      "gender": "NA",
+      "line": "Hey! I'm out! I can't go.",
+      "wordCount": 6
+    },
+    {
+      "id": 624,
+      "index": 624,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "What are you talking about?",
+      "wordCount": 5
+    },
+    {
+      "id": 625,
+      "index": 625,
+      "character": "TOWNER",
+      "gender": "NA",
+      "line": "Anna's got a perforated appendix. We took her to the hospital.",
+      "wordCount": 11
+    },
+    {
+      "id": 626,
+      "index": 626,
+      "character": "TOWNER",
+      "gender": "NA",
+      "line": "They're operating right now. It's a mess. I got to get back there...",
+      "wordCount": 13
+    },
+    {
+      "id": 627,
+      "index": 627,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "What the hell I do for a driver?!",
+      "wordCount": 8
+    },
+    {
+      "id": 628,
+      "index": 628,
+      "character": "TOWNER",
+      "gender": "NA",
+      "line": "Look, I got her sister there, waiting at the hospital. I came over 'cause I didn't want to talk on the phone. I got to get back. Last thing I'd do is let you down, Neil...",
+      "wordCount": 36
+    },
+    {
+      "id": 629,
+      "index": 629,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "What do you call this? Backing me up?",
+      "wordCount": 8
+    },
+    {
+      "id": 630,
+      "index": 630,
+      "character": "TOWNER",
+      "gender": "NA",
+      "line": "I waited too long trying to get past today! So now maybe she got peritonitis. I got to be there...",
+      "wordCount": 20
+    },
+    {
+      "id": 631,
+      "index": 631,
+      "character": "CHRIS",
+      "gender": "Male",
+      "line": "What the fuck do we do now?",
+      "wordCount": 7
+    },
+    {
+      "id": 632,
+      "index": 632,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "Here comes your second chance for a change of luck...",
+      "wordCount": 10
+    },
+    {
+      "id": 633,
+      "index": 633,
+      "character": "BREEDAN",
+      "gender": "Male",
+      "line": "Yeah?",
+      "wordCount": 1
+    },
+    {
+      "id": 634,
+      "index": 634,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "Need a driver. Remember the drill?",
+      "wordCount": 6
+    },
+    {
+      "id": 635,
+      "index": 635,
+      "character": "BREEDAN",
+      "gender": "Male",
+      "line": "Yeah. When?",
+      "wordCount": 2
+    },
+    {
+      "id": 636,
+      "index": 636,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "To-day.",
+      "wordCount": 1
+    },
+    {
+      "id": 637,
+      "index": 637,
+      "character": "BREEDAN",
+      "gender": "Male",
+      "line": "You're on.",
+      "wordCount": 2
+    },
+    {
+      "id": 638,
+      "index": 638,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "Out back in five.",
+      "wordCount": 4
+    },
+    {
+      "id": 639,
+      "index": 639,
+      "character": "SOLENKO",
+      "gender": "NA",
+      "line": "Where the fuck you going?",
+      "wordCount": 5
+    },
+    {
+      "id": 640,
+      "index": 640,
+      "character": "WAINGRO",
+      "gender": "Male",
+      "line": "They buy it?",
+      "wordCount": 3
+    },
+    {
+      "id": 641,
+      "index": 641,
+      "character": "TOWNER",
+      "gender": "NA",
+      "line": "Yeah.",
+      "wordCount": 1
+    },
+    {
+      "id": 642,
+      "index": 642,
+      "character": "WAINGRO",
+      "gender": "Male",
+      "line": "I got to hand it to you, sport. You're slick, pal smart how you handled all this. On the ball. Yeah.",
+      "wordCount": 21
+    },
+    {
+      "id": 643,
+      "index": 643,
+      "character": "TOWNER",
+      "gender": "NA",
+      "line": "Thanks. Where's Anna?",
+      "wordCount": 3
+    },
+    {
+      "id": 644,
+      "index": 644,
+      "character": "WAINGRO",
+      "gender": "Male",
+      "line": "She's resting. It's going down anyway? On schedule?",
+      "wordCount": 8
+    },
+    {
+      "id": 645,
+      "index": 645,
+      "character": "TOWNER",
+      "gender": "NA",
+      "line": "That's right.",
+      "wordCount": 2
+    },
+    {
+      "id": 646,
+      "index": 646,
+      "character": "WAINGRO",
+      "gender": "Male",
+      "line": "Make the call.",
+      "wordCount": 3
+    },
+    {
+      "id": 647,
+      "index": 647,
+      "character": "TOWNER",
+      "gender": "NA",
+      "line": "Where's she?",
+      "wordCount": 2
+    },
+    {
+      "id": 648,
+      "index": 648,
+      "character": "WAINGRO",
+      "gender": "Male",
+      "line": "I dunno.",
+      "wordCount": 2
+    },
+    {
+      "id": 649,
+      "index": 649,
+      "character": "TOWNER",
+      "gender": "NA",
+      "line": "Know what happens when Neil finds out? To both of us?",
+      "wordCount": 11
+    },
+    {
+      "id": 650,
+      "index": 650,
+      "character": "WAINGRO",
+      "gender": "Male",
+      "line": "I know what's gonna happen. Nothing's gonna happen. 'Cause I got it master minded. I got it jammed. This is solid. Take it from the kid.",
+      "wordCount": 26
+    },
+    {
+      "id": 651,
+      "index": 651,
+      "character": "TOWNER",
+      "gender": "NA",
+      "line": "You hope. What do you mean, you don't know where she is?",
+      "wordCount": 12
+    },
+    {
+      "id": 652,
+      "index": 652,
+      "character": "TOWNER",
+      "gender": "NA",
+      "line": "Anna?",
+      "wordCount": 1
+    },
+    {
+      "id": 653,
+      "index": 653,
+      "character": "WAINGRO",
+      "gender": "Male",
+      "line": "...showing her a good time.",
+      "wordCount": 5
+    },
+    {
+      "id": 654,
+      "index": 654,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "There's the slot.",
+      "wordCount": 3
+    },
+    {
+      "id": 655,
+      "index": 655,
+      "character": "BREEDAN",
+      "gender": "Male",
+      "line": "Looks right. Come out the door, your angle takes you into the car. Don't have to run around the doors. You want them open?",
+      "wordCount": 24
+    },
+    {
+      "id": 656,
+      "index": 656,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "No. 'Cause time is not a problem. And I want nothing to look weird.",
+      "wordCount": 14
+    },
+    {
+      "id": 657,
+      "index": 657,
+      "character": "BREEDAN",
+      "gender": "Male",
+      "line": "Po-lice response time?",
+      "wordCount": 3
+    },
+    {
+      "id": 658,
+      "index": 658,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "There is none.",
+      "wordCount": 3
+    },
+    {
+      "id": 659,
+      "index": 659,
+      "character": "BREEDAN",
+      "gender": "Male",
+      "line": "Why?",
+      "wordCount": 1
+    },
+    {
+      "id": 660,
+      "index": 660,
+      "character": "CHRIS",
+      "gender": "Male",
+      "line": "Cause we bypassed all the alarms last night. For you this whole gig is a slow cruise down Hawthorne...",
+      "wordCount": 19
+    },
+    {
+      "id": 661,
+      "index": 661,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "Drop us in the slot. Let's take it down.",
+      "wordCount": 9
+    },
+    {
+      "id": 662,
+      "index": 662,
+      "character": "DIETER",
+      "gender": "NA",
+      "line": "Hey, Casals. I got this tip phoned in about this bank. It mean anything to you?",
+      "wordCount": 16
+    },
+    {
+      "id": 663,
+      "index": 663,
+      "character": "CASALS",
+      "gender": "Male",
+      "line": "Vincent! Vincent!",
+      "wordCount": 2
+    },
+    {
+      "id": 664,
+      "index": 664,
+      "character": "WIDE",
+      "gender": "NA",
+      "line": "Hanna comes up, coffee in his hand.",
+      "wordCount": 7
+    },
+    {
+      "id": 665,
+      "index": 665,
+      "character": "CASALS",
+      "gender": "Male",
+      "line": "Commercial Bank! Wilmington! 2:50!",
+      "wordCount": 4
+    },
+    {
+      "id": 666,
+      "index": 666,
+      "character": "RADIO ANNOUNCER",
+      "gender": "NA",
+      "line": "This is L.A.'s all news, 24-hour, around the clock coverage of the day's local, national and international news, sports, finance and weather, brought to you by ...",
+      "wordCount": 27
+    },
+    {
+      "id": 667,
+      "index": 667,
+      "character": "JOHN",
+      "gender": "NA",
+      "line": "Hi!",
+      "wordCount": 1
+    },
+    {
+      "id": 668,
+      "index": 668,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "Hi!",
+      "wordCount": 1
+    },
+    {
+      "id": 669,
+      "index": 669,
+      "character": "JOHN",
+      "gender": "NA",
+      "line": "Sure thing!",
+      "wordCount": 2
+    },
+    {
+      "id": 670,
+      "index": 670,
+      "character": "CERRITO",
+      "gender": "NA",
+      "line": "Say, Frank...?",
+      "wordCount": 2
+    },
+    {
+      "id": 671,
+      "index": 671,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "Ladies and gentlemen! We are holding up this bank. We want to hurt nobody. You do exactly like we say and you come away okay. We're here for the bank's money, not your money...",
+      "wordCount": 34
+    },
+    {
+      "id": 672,
+      "index": 672,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "...you people behind the windows: the salaries this bank pays aren't big enough to take risks for, so think of your take-home pay before you risk your life.",
+      "wordCount": 28
+    },
+    {
+      "id": 673,
+      "index": 673,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "...don't forget your money is insured by the Federal Government. You're not going to lose a penny. Relax and you'll get through this okay.",
+      "wordCount": 24
+    },
+    {
+      "id": 674,
+      "index": 674,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "Any of the ladies feel ill or anybody with heart trouble wants to sit down, go right ahead.",
+      "wordCount": 18
+    },
+    {
+      "id": 675,
+      "index": 675,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "The key.",
+      "wordCount": 2
+    },
+    {
+      "id": 676,
+      "index": 676,
+      "character": "TIMMONS",
+      "gender": "NA",
+      "line": "What key?",
+      "wordCount": 2
+    },
+    {
+      "id": 677,
+      "index": 677,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "Don't touch your face. Let it bleed.",
+      "wordCount": 7
+    },
+    {
+      "id": 678,
+      "index": 678,
+      "character": "SCHWARTZ",
+      "gender": "NA",
+      "line": "Too many people. This isn't how to handle it Vincent! Fuck this crew! Let 'em go!",
+      "wordCount": 16
+    },
+    {
+      "id": 679,
+      "index": 679,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "Left flanking fire. street.",
+      "wordCount": 4
+    },
+    {
+      "id": 680,
+      "index": 680,
+      "character": "BOSKO",
+      "gender": "Male",
+      "line": "Get the bus out of here..",
+      "wordCount": 6
+    },
+    {
+      "id": 681,
+      "index": 681,
+      "character": "CERRITO",
+      "gender": "NA",
+      "line": "C'mon! C'mon! C'mon!",
+      "wordCount": 3
+    },
+    {
+      "id": 682,
+      "index": 682,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "Go!! Go!!",
+      "wordCount": 2
+    },
+    {
+      "id": 683,
+      "index": 683,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "Get down! Get down",
+      "wordCount": 4
+    },
+    {
+      "id": 684,
+      "index": 684,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "This is Hanna! Come in...",
+      "wordCount": 5
+    },
+    {
+      "id": 685,
+      "index": 685,
+      "character": "CERRITO",
+      "gender": "NA",
+      "line": "C'mere, honey.",
+      "wordCount": 2
+    },
+    {
+      "id": 686,
+      "index": 686,
+      "character": "BOB",
+      "gender": "NA",
+      "line": "Bottom tray.",
+      "wordCount": 2
+    },
+    {
+      "id": 687,
+      "index": 687,
+      "character": "DOC",
+      "gender": "NA",
+      "line": "Blood loss and shock and he'll have a lot of pain in the shoulder and back, but I'll give you quarter-grain phials of morphine. Subcutaneous injections.",
+      "wordCount": 26
+    },
+    {
+      "id": 688,
+      "index": 688,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "What's the bottom line?",
+      "wordCount": 4
+    },
+    {
+      "id": 689,
+      "index": 689,
+      "character": "DR. BOB",
+      "gender": "NA",
+      "line": "Missed the carotid artery by millimeters. There is mostly tissue damage. And the collar a bone's smashed. Can he rest awhile?",
+      "wordCount": 21
+    },
+    {
+      "id": 690,
+      "index": 690,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "Six, seven hours. What do I owe you?",
+      "wordCount": 8
+    },
+    {
+      "id": 691,
+      "index": 691,
+      "character": "DR. BOB",
+      "gender": "NA",
+      "line": "It's got to be twenty thou.",
+      "wordCount": 6
+    },
+    {
+      "id": 692,
+      "index": 692,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "What is this?",
+      "wordCount": 3
+    },
+    {
+      "id": 693,
+      "index": 693,
+      "character": "DR. BOB",
+      "gender": "NA",
+      "line": "You're number one with a bullet on the six o'clock news. It's at least double the risk. So I'm doubling my price.",
+      "wordCount": 22
+    },
+    {
+      "id": 694,
+      "index": 694,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "You're wrong. It's four times the risk. 'Cause something happens to him, I'm coming back for you. And I'm double the worst trouble you ever had.",
+      "wordCount": 26
+    },
+    {
+      "id": 695,
+      "index": 695,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "I'll be back for you.",
+      "wordCount": 5
+    },
+    {
+      "id": 696,
+      "index": 696,
+      "character": "CHRIS",
+      "gender": "Male",
+      "line": "Charlene? Get her out!",
+      "wordCount": 4
+    },
+    {
+      "id": 697,
+      "index": 697,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "First, I got to know if our escape route got ratted-out along with everything else.",
+      "wordCount": 15
+    },
+    {
+      "id": 698,
+      "index": 698,
+      "character": "CHRIS",
+      "gender": "Male",
+      "line": "Who...",
+      "wordCount": 1
+    },
+    {
+      "id": 699,
+      "index": 699,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "Who wasn't around Towner.",
+      "wordCount": 4
+    },
+    {
+      "id": 700,
+      "index": 700,
+      "character": "ELAINE",
+      "gender": "Female",
+      "line": "Get out of my way! Michael. Michael. Michael. Michael!!!",
+      "wordCount": 9
+    },
+    {
+      "id": 701,
+      "index": 701,
+      "character": "LILLIAN",
+      "gender": "NA",
+      "line": "Say, bartender... ?",
+      "wordCount": 3
+    },
+    {
+      "id": 702,
+      "index": 702,
+      "character": "BARTENDER",
+      "gender": "NA",
+      "line": "In a minute, lady.",
+      "wordCount": 4
+    },
+    {
+      "id": 703,
+      "index": 703,
+      "character": "LILLIAN",
+      "gender": "NA",
+      "line": "You seen that fella I pulled out of here the other night? Big fella with a beard?",
+      "wordCount": 17
+    },
+    {
+      "id": 704,
+      "index": 704,
+      "character": "TV ANNOUNCER",
+      "gender": "NA",
+      "line": "...dead were Michael T. Cerrito, Caucasian male and the driver, an unidentified black male in his early 30's, who died enroute to St. Vincent's Hospital...",
+      "wordCount": 25
+    },
+    {
+      "id": 705,
+      "index": 705,
+      "character": "BARTENDER",
+      "gender": "NA",
+      "line": "What can I get you, ma'am? Lady, you okay.",
+      "wordCount": 9
+    },
+    {
+      "id": 706,
+      "index": 706,
+      "character": "MARCIANO",
+      "gender": "Male",
+      "line": "Yeah.",
+      "wordCount": 1
+    },
+    {
+      "id": 707,
+      "index": 707,
+      "character": "CHARLENE",
+      "gender": "Female",
+      "line": "Harry? If you want me, Come right down and get me and Dominick out.",
+      "wordCount": 14
+    },
+    {
+      "id": 708,
+      "index": 708,
+      "character": "MARCIANO",
+      "gender": "Male",
+      "line": "Sugar. I'll catch the 8 o'clock and rent a car. I'll be there at your place in two hours.",
+      "wordCount": 19
+    },
+    {
+      "id": 709,
+      "index": 709,
+      "character": "MARCIANO",
+      "gender": "Male",
+      "line": "Get packed. Okay? I'll be right there.",
+      "wordCount": 7
+    },
+    {
+      "id": 710,
+      "index": 710,
+      "character": "PLAINCLOTHESMAN",
+      "gender": "NA",
+      "line": "Let's get you on that plane.",
+      "wordCount": 6
+    },
+    {
+      "id": 711,
+      "index": 711,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "Who?",
+      "wordCount": 1
+    },
+    {
+      "id": 712,
+      "index": 712,
+      "character": "TOWNER",
+      "gender": "NA",
+      "line": "Made me...Anna...?",
+      "wordCount": 2
+    },
+    {
+      "id": 713,
+      "index": 713,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "She's dead... So's Cerrito and Breedan...the guy who stood in...for you. Who did this...?",
+      "wordCount": 14
+    },
+    {
+      "id": 714,
+      "index": 714,
+      "character": "TOWNER",
+      "gender": "NA",
+      "line": "They had Anna.",
+      "wordCount": 3
+    },
+    {
+      "id": 715,
+      "index": 715,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "Who?",
+      "wordCount": 1
+    },
+    {
+      "id": 716,
+      "index": 716,
+      "character": "TOWNER",
+      "gender": "NA",
+      "line": "Waingro.",
+      "wordCount": 1
+    },
+    {
+      "id": 717,
+      "index": 717,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "Waingro? On his own?",
+      "wordCount": 4
+    },
+    {
+      "id": 718,
+      "index": 718,
+      "character": "TOWNER",
+      "gender": "NA",
+      "line": "Uh-uh. For someone. The other worked for...said...",
+      "wordCount": 7
+    },
+    {
+      "id": 719,
+      "index": 719,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "Van Zant?",
+      "wordCount": 2
+    },
+    {
+      "id": 720,
+      "index": 720,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "You sure?",
+      "wordCount": 2
+    },
+    {
+      "id": 721,
+      "index": 721,
+      "character": "TOWNER",
+      "gender": "NA",
+      "line": "Uh-huh.",
+      "wordCount": 1
+    },
+    {
+      "id": 722,
+      "index": 722,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "You say anything about our exit? Our out?",
+      "wordCount": 8
+    },
+    {
+      "id": 723,
+      "index": 723,
+      "character": "TOWNER",
+      "gender": "NA",
+      "line": "...don't remember. I...",
+      "wordCount": 3
+    },
+    {
+      "id": 724,
+      "index": 724,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "C ' mon!",
+      "wordCount": 3
+    },
+    {
+      "id": 725,
+      "index": 725,
+      "character": "TOWNER",
+      "gender": "NA",
+      "line": "Neil...Neil...I don't think so.",
+      "wordCount": 4
+    },
+    {
+      "id": 726,
+      "index": 726,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "The house clean?",
+      "wordCount": 3
+    },
+    {
+      "id": 727,
+      "index": 727,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "I'll call the medics.",
+      "wordCount": 4
+    },
+    {
+      "id": 728,
+      "index": 728,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "...Nate.",
+      "wordCount": 1
+    },
+    {
+      "id": 729,
+      "index": 729,
+      "character": "NATE",
+      "gender": "Male",
+      "line": "You on a cellular?",
+      "wordCount": 4
+    },
+    {
+      "id": 730,
+      "index": 730,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "No.",
+      "wordCount": 1
+    },
+    {
+      "id": 731,
+      "index": 731,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "Next: Waingro. Okay?",
+      "wordCount": 3
+    },
+    {
+      "id": 732,
+      "index": 732,
+      "character": "NATE",
+      "gender": "Male",
+      "line": "You got the time...?",
+      "wordCount": 4
+    },
+    {
+      "id": 733,
+      "index": 733,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "I'll make time. I need a new \"out\" laid on.",
+      "wordCount": 10
+    },
+    {
+      "id": 734,
+      "index": 734,
+      "character": "NATE",
+      "gender": "Male",
+      "line": "Do you know it's blown?",
+      "wordCount": 5
+    },
+    {
+      "id": 735,
+      "index": 735,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "How can I trust it?",
+      "wordCount": 5
+    },
+    {
+      "id": 736,
+      "index": 736,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "Things are screwed up. You're not flying out after me. We go together.",
+      "wordCount": 13
+    },
+    {
+      "id": 737,
+      "index": 737,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "You and me got to straighten something up first. I'll be by later.",
+      "wordCount": 13
+    },
+    {
+      "id": 738,
+      "index": 738,
+      "character": "VKN ZANT",
+      "gender": "NA",
+      "line": "Who is it?",
+      "wordCount": 3
+    },
+    {
+      "id": 739,
+      "index": 739,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "Waingro. Where is he?",
+      "wordCount": 4
+    },
+    {
+      "id": 740,
+      "index": 740,
+      "character": "VAN ZANT",
+      "gender": "Male",
+      "line": "How the hell should I know?",
+      "wordCount": 6
+    },
+    {
+      "id": 741,
+      "index": 741,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "How much?",
+      "wordCount": 2
+    },
+    {
+      "id": 742,
+      "index": 742,
+      "character": "NATE",
+      "gender": "Male",
+      "line": "$165,000.",
+      "wordCount": 1
+    },
+    {
+      "id": 743,
+      "index": 743,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "That's a rip-off.",
+      "wordCount": 3
+    },
+    {
+      "id": 744,
+      "index": 744,
+      "character": "NATE",
+      "gender": "Male",
+      "line": "You want a good getaway and you're hot with a big score in your pocket. You're a media event. What the fuck do you expect?",
+      "wordCount": 25
+    },
+    {
+      "id": 745,
+      "index": 745,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "What do I get for those dollars?",
+      "wordCount": 7
+    },
+    {
+      "id": 746,
+      "index": 746,
+      "character": "NATE",
+      "gender": "Male",
+      "line": "You end up in Ireland with good papers and plastic.",
+      "wordCount": 10
+    },
+    {
+      "id": 747,
+      "index": 747,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "Via what?",
+      "wordCount": 2
+    },
+    {
+      "id": 748,
+      "index": 748,
+      "character": "NATE",
+      "gender": "Male",
+      "line": "Lear jet to Vancouver. Then commercial to Reykjavik; then Dublin.",
+      "wordCount": 10
+    },
+    {
+      "id": 749,
+      "index": 749,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "Reliable?",
+      "wordCount": 1
+    },
+    {
+      "id": 750,
+      "index": 750,
+      "character": "NATE",
+      "gender": "Male",
+      "line": "For those bucks? 100 per cent. I got the plastic on me. The passports will be on the plane. Who's the third?",
+      "wordCount": 22
+    },
+    {
+      "id": 751,
+      "index": 751,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "A girl. With her own papers. What are these good for?",
+      "wordCount": 11
+    },
+    {
+      "id": 752,
+      "index": 752,
+      "character": "NATE",
+      "gender": "Male",
+      "line": "Forty-five to sixty days.",
+      "wordCount": 4
+    },
+    {
+      "id": 753,
+      "index": 753,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "How soon?",
+      "wordCount": 2
+    },
+    {
+      "id": 754,
+      "index": 754,
+      "character": "NATE",
+      "gender": "Male",
+      "line": "Twenty-four hours.",
+      "wordCount": 2
+    },
+    {
+      "id": 755,
+      "index": 755,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "Make it twelve.",
+      "wordCount": 3
+    },
+    {
+      "id": 756,
+      "index": 756,
+      "character": "NATE",
+      "gender": "Male",
+      "line": "You're going for an important ride. If they say twenty-four for it to be right, then it's twenty-four!",
+      "wordCount": 18
+    },
+    {
+      "id": 757,
+      "index": 757,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "You checked all around?",
+      "wordCount": 4
+    },
+    {
+      "id": 758,
+      "index": 758,
+      "character": "NATE",
+      "gender": "Male",
+      "line": "All around. You and I go way back, kiddo, I bought you the best.",
+      "wordCount": 14
+    },
+    {
+      "id": 759,
+      "index": 759,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "Where's the pick-up?",
+      "wordCount": 3
+    },
+    {
+      "id": 760,
+      "index": 760,
+      "character": "NATE",
+      "gender": "Male",
+      "line": "Santa Monica Airport. They're a legit operation. I won't have details until tomorrow morning.",
+      "wordCount": 14
+    },
+    {
+      "id": 761,
+      "index": 761,
+      "character": "NATE",
+      "gender": "Male",
+      "line": "What is it?",
+      "wordCount": 3
+    },
+    {
+      "id": 762,
+      "index": 762,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "Kelso's share. Ten per cent. $400,000. That's less the 50 advance. The other bag was with Cerrito.",
+      "wordCount": 17
+    },
+    {
+      "id": 763,
+      "index": 763,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "You stick with the Charlene Shiherlis piece.",
+      "wordCount": 7
+    },
+    {
+      "id": 764,
+      "index": 764,
+      "character": "FARINA",
+      "gender": "NA",
+      "line": "Marciano's on a plane in here from, Las Vegas to pick her up. We got a house I set..",
+      "wordCount": 19
+    },
+    {
+      "id": 765,
+      "index": 765,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "Maybe Chris or Neil will come for her. Frankly, I doubt it. You work Neil's transport from here on the phones.",
+      "wordCount": 21
+    },
+    {
+      "id": 766,
+      "index": 766,
+      "character": "DRUCKER",
+      "gender": "Male",
+      "line": "McCauley's gotta be gone. He hadda have a getaway planned.",
+      "wordCount": 10
+    },
+    {
+      "id": 767,
+      "index": 767,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "And now he's gotta get a new one! Would you trust it after this afternoon? Someone, somewhere's agenting it for him. That's a main track. We got Shiherlis setting up. That's a main track. I want more.",
+      "wordCount": 37
+    },
+    {
+      "id": 768,
+      "index": 768,
+      "character": "FARINA",
+      "gender": "NA",
+      "line": "How much time we got?",
+      "wordCount": 5
+    },
+    {
+      "id": 769,
+      "index": 769,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "Eight, ten, twelve hours. For him to set up a new out. After that? He's gone. Bam! Bye- bye.",
+      "wordCount": 19
+    },
+    {
+      "id": 770,
+      "index": 770,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "He's the burglary cop with the \"terrific tip?\"",
+      "wordCount": 8
+    },
+    {
+      "id": 771,
+      "index": 771,
+      "character": "BOSKO",
+      "gender": "Male",
+      "line": "Yeah.",
+      "wordCount": 1
+    },
+    {
+      "id": 772,
+      "index": 772,
+      "character": "DIETER",
+      "gender": "NA",
+      "line": "Who are you?",
+      "wordCount": 3
+    },
+    {
+      "id": 773,
+      "index": 773,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "Hanna. Where'd it come from?",
+      "wordCount": 5
+    },
+    {
+      "id": 774,
+      "index": 774,
+      "character": "DIETER",
+      "gender": "NA",
+      "line": "I got my informants. Just like you got...",
+      "wordCount": 8
+    },
+    {
+      "id": 775,
+      "index": 775,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "I got Schwartz. Dead. Casals got no liver. He's dying. Don't come on to me with \"confidential source\" crap!",
+      "wordCount": 19
+    },
+    {
+      "id": 776,
+      "index": 776,
+      "character": "DIETER",
+      "gender": "NA",
+      "line": "Hugh. Hugh Benny. He gives me tips...!",
+      "wordCount": 7
+    },
+    {
+      "id": 777,
+      "index": 777,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "Who ratted-out McCauley? C'mon! Who? You?",
+      "wordCount": 6
+    },
+    {
+      "id": 778,
+      "index": 778,
+      "character": "CHARLENE",
+      "gender": "Female",
+      "line": "Whose side are you on?",
+      "wordCount": 5
+    },
+    {
+      "id": 779,
+      "index": 779,
+      "character": "MARCIANO",
+      "gender": "Male",
+      "line": "I'm on yours.",
+      "wordCount": 3
+    },
+    {
+      "id": 780,
+      "index": 780,
+      "character": "CHARLENE",
+      "gender": "Female",
+      "line": "You slimy piece of shit. What a joke.",
+      "wordCount": 8
+    },
+    {
+      "id": 781,
+      "index": 781,
+      "character": "MARCIANO",
+      "gender": "Male",
+      "line": "You told me you want out from under? You're scared to death of Neil. You wanted out? This is out!",
+      "wordCount": 20
+    },
+    {
+      "id": 782,
+      "index": 782,
+      "character": "CHARLENE",
+      "gender": "Female",
+      "line": "What's your end?",
+      "wordCount": 3
+    },
+    {
+      "id": 783,
+      "index": 783,
+      "character": "MARCIANO",
+      "gender": "Male",
+      "line": "You dump broad! How'd I get into this?",
+      "wordCount": 8
+    },
+    {
+      "id": 784,
+      "index": 784,
+      "character": "FARINA",
+      "gender": "NA",
+      "line": "Hey, hey! Go easy on the lady!",
+      "wordCount": 7
+    },
+    {
+      "id": 785,
+      "index": 785,
+      "character": "MARCIANO",
+      "gender": "Male",
+      "line": "Huh?",
+      "wordCount": 1
+    },
+    {
+      "id": 786,
+      "index": 786,
+      "character": "FARINA",
+      "gender": "NA",
+      "line": "You heard me. She had a rough ride. Go mix her a drink. Cabinet above the sink.",
+      "wordCount": 17
+    },
+    {
+      "id": 787,
+      "index": 787,
+      "character": "MARCIANO",
+      "gender": "Male",
+      "line": "Fuck her.",
+      "wordCount": 2
+    },
+    {
+      "id": 788,
+      "index": 788,
+      "character": "FARINA",
+      "gender": "NA",
+      "line": "Get the fuck in there!",
+      "wordCount": 5
+    },
+    {
+      "id": 789,
+      "index": 789,
+      "character": "FARINA",
+      "gender": "NA",
+      "line": "He's right. And you know it. You think you'd be betraying Chris?",
+      "wordCount": 12
+    },
+    {
+      "id": 790,
+      "index": 790,
+      "character": "CHARLENE",
+      "gender": "Female",
+      "line": "Yes.",
+      "wordCount": 1
+    },
+    {
+      "id": 791,
+      "index": 791,
+      "character": "FARINA",
+      "gender": "NA",
+      "line": "Well, you're right. You would be. But if you don't betray Chris, you betray Dominick. Because he becomes an orphan when you go to prison as an accessory 'cause you got no living parents to take him. Then he ends up state-raised and fucked for life. Your son Dominick's innocent. He didn't choose a life like that. Chris did.",
+      "wordCount": 59
+    },
+    {
+      "id": 792,
+      "index": 792,
+      "character": "FARINA",
+      "gender": "NA",
+      "line": "Give up Chris. You get off clean. Do it for your kid.",
+      "wordCount": 12
+    },
+    {
+      "id": 793,
+      "index": 793,
+      "character": "FARINA",
+      "gender": "NA",
+      "line": "Vincent. It's me. We're set here. She'll make the call.",
+      "wordCount": 10
+    },
+    {
+      "id": 794,
+      "index": 794,
+      "character": "CHARLENE",
+      "gender": "Female",
+      "line": "I'm going to give you an address of where I'm staying. Could you get it to Chris?",
+      "wordCount": 17
+    },
+    {
+      "id": 795,
+      "index": 795,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "Okay.",
+      "wordCount": 1
+    },
+    {
+      "id": 796,
+      "index": 796,
+      "character": "DRUCKER",
+      "gender": "Male",
+      "line": "M. C. U.",
+      "wordCount": 3
+    },
+    {
+      "id": 797,
+      "index": 797,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "It's me. Tracks back to this union guy, Van Zant. He had some beef with Neil. Neil already settled it. Van Zant got dead earlier tonight. Now Hugh Benny has reformed his wayward life and become a born- again good citizen. So, he's revealed the key player is this cowboy Waingro. Used to be part of Neil's crew. Waingro committed a double murder today on Towner, a driver, and his old lady. Meanwhile Waingro's checked into the Airport Hyatt House under \"Jamieson.\" Maybe Neil will make a move on him, but not likely. Get the word to bailbondsmen, bookies, snitches in County, etc. where Waingro is. And get a team down there to set it up.",
+      "wordCount": 116
+    },
+    {
+      "id": 798,
+      "index": 798,
+      "character": "DRUCKER",
+      "gender": "Male",
+      "line": "Want me to do it?",
+      "wordCount": 5
+    },
+    {
+      "id": 799,
+      "index": 799,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "No. You stay on who's agenting Neil's getaway. What have you got?",
+      "wordCount": 12
+    },
+    {
+      "id": 800,
+      "index": 800,
+      "character": "DRUCKER",
+      "gender": "Male",
+      "line": "Nothing yet.",
+      "wordCount": 2
+    },
+    {
+      "id": 801,
+      "index": 801,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "He's here. He's still here. I can feel it.",
+      "wordCount": 9
+    },
+    {
+      "id": 802,
+      "index": 802,
+      "character": "BERRYMAN",
+      "gender": "NA",
+      "line": "For how long?",
+      "wordCount": 3
+    },
+    {
+      "id": 803,
+      "index": 803,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "Eight, ten hours max.",
+      "wordCount": 4
+    },
+    {
+      "id": 804,
+      "index": 804,
+      "character": "EADY",
+      "gender": "Female",
+      "line": "What did you do? Was that you?",
+      "wordCount": 7
+    },
+    {
+      "id": 805,
+      "index": 805,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "It's what I don't do. I don't sell swimming pools. It would have been okay. You would have flown out after. You didn't need to do a thing. Now I'm jammed. We got to go together. Because we get dropped in a place and then I decide: New Zealand or Brazil or Tunisia, whatever. I can't leave a string back here to where I am.",
+      "wordCount": 65
+    },
+    {
+      "id": 806,
+      "index": 806,
+      "character": "EADY",
+      "gender": "Female",
+      "line": "What.",
+      "wordCount": 1
+    },
+    {
+      "id": 807,
+      "index": 807,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "I rob and steal for a living. Do you understand?",
+      "wordCount": 10
+    },
+    {
+      "id": 808,
+      "index": 808,
+      "character": "EADY",
+      "gender": "Female",
+      "line": "You killed people?",
+      "wordCount": 3
+    },
+    {
+      "id": 809,
+      "index": 809,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "If they got in the way. Yes. It's their problem.",
+      "wordCount": 10
+    },
+    {
+      "id": 810,
+      "index": 810,
+      "character": "EADY",
+      "gender": "Female",
+      "line": "The woman on the grass...where her husband got shot..",
+      "wordCount": 9
+    },
+    {
+      "id": 811,
+      "index": 811,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "Elaine Cerrito. Michael Cerrito's wife. Michael was my friend. He knew the risks. He didn't have to be there. He coulda been a...been a mailman.",
+      "wordCount": 25
+    },
+    {
+      "id": 812,
+      "index": 812,
+      "character": "EADY",
+      "gender": "Female",
+      "line": "I don't believe it.",
+      "wordCount": 4
+    },
+    {
+      "id": 813,
+      "index": 813,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "Believe it.",
+      "wordCount": 2
+    },
+    {
+      "id": 814,
+      "index": 814,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "Eady. Get packed. Get dressed. Let's go.",
+      "wordCount": 7
+    },
+    {
+      "id": 815,
+      "index": 815,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "Eady! !",
+      "wordCount": 2
+    },
+    {
+      "id": 816,
+      "index": 816,
+      "character": "EADY",
+      "gender": "Female",
+      "line": "Why you do this to me! What I do to you?!",
+      "wordCount": 11
+    },
+    {
+      "id": 817,
+      "index": 817,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "Shut up!",
+      "wordCount": 2
+    },
+    {
+      "id": 818,
+      "index": 818,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "Use these credit cards. They say \"Mr. and Mrs.\" I reserved the car. Buy me some clothes. Here's a list. I can't go home for my stuff. Can you do it?",
+      "wordCount": 31
+    },
+    {
+      "id": 819,
+      "index": 819,
+      "character": "EADY",
+      "gender": "Female",
+      "line": "When's it over?",
+      "wordCount": 3
+    },
+    {
+      "id": 820,
+      "index": 820,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "Twenty-two hours. Then we fly out of here...clean.",
+      "wordCount": 8
+    },
+    {
+      "id": 821,
+      "index": 821,
+      "character": "EADY",
+      "gender": "Female",
+      "line": "I want you to let me go. When will you let me go?",
+      "wordCount": 13
+    },
+    {
+      "id": 822,
+      "index": 822,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "You can go now. There's the door, you want out...",
+      "wordCount": 10
+    },
+    {
+      "id": 823,
+      "index": 823,
+      "character": "EADY",
+      "gender": "Female",
+      "line": "No, I have to do what you say. But will you let me leave after?",
+      "wordCount": 15
+    },
+    {
+      "id": 824,
+      "index": 824,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "It will be different...",
+      "wordCount": 4
+    },
+    {
+      "id": 825,
+      "index": 825,
+      "character": "JUSTINE",
+      "gender": "Female",
+      "line": "It's ready...",
+      "wordCount": 2
+    },
+    {
+      "id": 826,
+      "index": 826,
+      "character": "JUSTINE",
+      "gender": "Female",
+      "line": "Oh. Meet Vincent.",
+      "wordCount": 3
+    },
+    {
+      "id": 827,
+      "index": 827,
+      "character": "RALPH",
+      "gender": "NA",
+      "line": "Excuse me. You didn't tell me you were...",
+      "wordCount": 8
+    },
+    {
+      "id": 828,
+      "index": 828,
+      "character": "RALPH",
+      "gender": "NA",
+      "line": "Oh, my God...",
+      "wordCount": 3
+    },
+    {
+      "id": 829,
+      "index": 829,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "What's your name?",
+      "wordCount": 3
+    },
+    {
+      "id": 830,
+      "index": 830,
+      "character": "RALPH",
+      "gender": "NA",
+      "line": "I should....Ralph...I'm...",
+      "wordCount": 2
+    },
+    {
+      "id": 831,
+      "index": 831,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "I'm Vincent Hanna.",
+      "wordCount": 3
+    },
+    {
+      "id": 832,
+      "index": 832,
+      "character": "JUSTINE",
+      "gender": "Female",
+      "line": "Don't you even get angry?",
+      "wordCount": 5
+    },
+    {
+      "id": 833,
+      "index": 833,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "I'm angry. Ralph, you can ball my wife. You can lounge around her $1.7 million condominium on her sofa. You can do all those things. But you do not get to watch my fucking TV...!",
+      "wordCount": 35
+    },
+    {
+      "id": 834,
+      "index": 834,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "I've never screwed around. I've been true blue to you since the day we met.",
+      "wordCount": 15
+    },
+    {
+      "id": 835,
+      "index": 835,
+      "character": "JUSTINE",
+      "gender": "Female",
+      "line": "It would have been preferable if you had! You made me do this!",
+      "wordCount": 13
+    },
+    {
+      "id": 836,
+      "index": 836,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "Right I had Ralph fuck you 'cause it makes me feel so good.",
+      "wordCount": 13
+    },
+    {
+      "id": 837,
+      "index": 837,
+      "character": "JUSTINE",
+      "gender": "Female",
+      "line": "Put down the television. You look ridiculous. Dr. Prince says I'm trying to get your attention. Christ! I have to pay someone to figure out my life with you.",
+      "wordCount": 29
+    },
+    {
+      "id": 838,
+      "index": 838,
+      "character": "RALPH",
+      "gender": "NA",
+      "line": "Maybe I should...",
+      "wordCount": 3
+    },
+    {
+      "id": 839,
+      "index": 839,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "Shut up!",
+      "wordCount": 2
+    },
+    {
+      "id": 840,
+      "index": 840,
+      "character": "JUSTINE",
+      "gender": "Female",
+      "line": "Why's it my job to figure it all out and explain it to you?",
+      "wordCount": 14
+    },
+    {
+      "id": 841,
+      "index": 841,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "'Cause you're the one who spends all the time on the couch.",
+      "wordCount": 12
+    },
+    {
+      "id": 842,
+      "index": 842,
+      "character": "JUSTINE",
+      "gender": "Female",
+      "line": "And what do you do?",
+      "wordCount": 5
+    },
+    {
+      "id": 843,
+      "index": 843,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "What do I do? I speak the English language. Words. Sentences even.",
+      "wordCount": 12
+    },
+    {
+      "id": 844,
+      "index": 844,
+      "character": "JUSTINE",
+      "gender": "Female",
+      "line": "How admirable: proletarian candor.",
+      "wordCount": 4
+    },
+    {
+      "id": 845,
+      "index": 845,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "Thank you.",
+      "wordCount": 2
+    },
+    {
+      "id": 846,
+      "index": 846,
+      "character": "JUSTINE",
+      "gender": "Female",
+      "line": "Except you don't say a damned thing. You neglect me. You don't call. I can worry about you or not. So I withdraw. You don't notice. You're walking through our life chloroformed, Vincent. Wake up. It's almost over.",
+      "wordCount": 38
+    },
+    {
+      "id": 847,
+      "index": 847,
+      "character": "NATE",
+      "gender": "Male",
+      "line": "I got Cerrito's share deposited in the Delaware Trust for Elaine. She's pretty bad... Passports. Traveler's checks. Plastic. Hangar 17. Plane call letters are 1011 Sierra. Touches down, holds for five minutes and splits. The plane will stand an FAA check. Filed flight plan. The works.",
+      "wordCount": 46
+    },
+    {
+      "id": 848,
+      "index": 848,
+      "character": "NATE",
+      "gender": "Male",
+      "line": "Here's the address Charlene said she was at. But I don't have documents for her.",
+      "wordCount": 15
+    },
+    {
+      "id": 849,
+      "index": 849,
+      "character": "CHRIS",
+      "gender": "Male",
+      "line": "I'm not flying. I'm drivin'.",
+      "wordCount": 5
+    },
+    {
+      "id": 850,
+      "index": 850,
+      "character": "NATE",
+      "gender": "Male",
+      "line": "Fly. Send for her later. Can't you talk to him?",
+      "wordCount": 10
+    },
+    {
+      "id": 851,
+      "index": 851,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "I been trying.",
+      "wordCount": 3
+    },
+    {
+      "id": 852,
+      "index": 852,
+      "character": "NATE",
+      "gender": "Male",
+      "line": "Talk to you in three hours in case there's changes.",
+      "wordCount": 10
+    },
+    {
+      "id": 853,
+      "index": 853,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "Use the Camaro. Its clean and will stand a DMV check.",
+      "wordCount": 11
+    },
+    {
+      "id": 854,
+      "index": 854,
+      "character": "CHRIS",
+      "gender": "Male",
+      "line": "How you getting around?",
+      "wordCount": 4
+    },
+    {
+      "id": 855,
+      "index": 855,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "Someone's picking me up.",
+      "wordCount": 4
+    },
+    {
+      "id": 856,
+      "index": 856,
+      "character": "CHRIS",
+      "gender": "Male",
+      "line": "A girl on the side?",
+      "wordCount": 5
+    },
+    {
+      "id": 857,
+      "index": 857,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "See you, cowboy.",
+      "wordCount": 3
+    },
+    {
+      "id": 858,
+      "index": 858,
+      "character": "CHRIS",
+      "gender": "Male",
+      "line": "So long, brother.",
+      "wordCount": 3
+    },
+    {
+      "id": 859,
+      "index": 859,
+      "character": "EADY",
+      "gender": "Female",
+      "line": "Clothes are in the trunk.",
+      "wordCount": 5
+    },
+    {
+      "id": 860,
+      "index": 860,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "Any trouble?",
+      "wordCount": 2
+    },
+    {
+      "id": 861,
+      "index": 861,
+      "character": "EADY",
+      "gender": "Female",
+      "line": "No. When's it over?",
+      "wordCount": 4
+    },
+    {
+      "id": 862,
+      "index": 862,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "Six hours. 8 p.m.",
+      "wordCount": 4
+    },
+    {
+      "id": 863,
+      "index": 863,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "I'll buy you lunch. Everything's smooth. We're going to fly away...",
+      "wordCount": 11
+    },
+    {
+      "id": 864,
+      "index": 864,
+      "character": "FARINA",
+      "gender": "NA",
+      "line": "Not a thing. What about you?",
+      "wordCount": 6
+    },
+    {
+      "id": 865,
+      "index": 865,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "Someone's agenting Neil's stuff?",
+      "wordCount": 4
+    },
+    {
+      "id": 866,
+      "index": 866,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "Who? The Tooth Fairy? Talk to you later.",
+      "wordCount": 8
+    },
+    {
+      "id": 867,
+      "index": 867,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "...how did Charlene get the Marina address passed to Chris?",
+      "wordCount": 10
+    },
+    {
+      "id": 868,
+      "index": 868,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "I don't believe I didn't think of this. Farina?",
+      "wordCount": 9
+    },
+    {
+      "id": 869,
+      "index": 869,
+      "character": "NATE",
+      "gender": "Male",
+      "line": "Yeah?",
+      "wordCount": 1
+    },
+    {
+      "id": 870,
+      "index": 870,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "Hi ya.",
+      "wordCount": 2
+    },
+    {
+      "id": 871,
+      "index": 871,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "Yeah, Breedan's end?",
+      "wordCount": 3
+    },
+    {
+      "id": 872,
+      "index": 872,
+      "character": "NATE",
+      "gender": "Male",
+      "line": "Still can't find nobody. It's in the Delaware Trust. You tell me later what to do. And about your ride. No changes. Right on schedule.",
+      "wordCount": 25
+    },
+    {
+      "id": 873,
+      "index": 873,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "Okay...",
+      "wordCount": 1
+    },
+    {
+      "id": 874,
+      "index": 874,
+      "character": "NATE",
+      "gender": "Male",
+      "line": "I figured you wouldn't waste the time.",
+      "wordCount": 7
+    },
+    {
+      "id": 875,
+      "index": 875,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "You figured right. Take it easy, old man.",
+      "wordCount": 8
+    },
+    {
+      "id": 876,
+      "index": 876,
+      "character": "NATE",
+      "gender": "Male",
+      "line": "You take it easy. Be careful, huh?",
+      "wordCount": 7
+    },
+    {
+      "id": 877,
+      "index": 877,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "That was the last bridge.",
+      "wordCount": 5
+    },
+    {
+      "id": 878,
+      "index": 878,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "He blows out of here, you'll do his time. I want...",
+      "wordCount": 11
+    },
+    {
+      "id": 879,
+      "index": 879,
+      "character": "NATE",
+      "gender": "Male",
+      "line": "Screw what you want. Who the fuck are you?",
+      "wordCount": 9
+    },
+    {
+      "id": 880,
+      "index": 880,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "Your worst nightmare. Hard time, Nate!",
+      "wordCount": 6
+    },
+    {
+      "id": 881,
+      "index": 881,
+      "character": "NATE",
+      "gender": "Male",
+      "line": "I ain't looking at shit, and you know it! So don't con me.",
+      "wordCount": 13
+    },
+    {
+      "id": 882,
+      "index": 882,
+      "character": "BOSKO",
+      "gender": "Male",
+      "line": "I'll work him...",
+      "wordCount": 3
+    },
+    {
+      "id": 883,
+      "index": 883,
+      "character": "NATE",
+      "gender": "Male",
+      "line": "Go ahead!",
+      "wordCount": 2
+    },
+    {
+      "id": 884,
+      "index": 884,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "Don't touch him! Accessory. Armed robbery and murder one. Dealing stolen merchandise and securities. You agent for Neil. At least the armored car and bank. Everything I tie him into, I tie you into. Two cops dead. Other bodies on the sidewalk. You understand that kind of heat? You fucking get it!",
+      "wordCount": 52
+    },
+    {
+      "id": 885,
+      "index": 885,
+      "character": "NATE",
+      "gender": "Male",
+      "line": "Neil who...?",
+      "wordCount": 2
+    },
+    {
+      "id": 886,
+      "index": 886,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "Book him on Accessory to Armed Robbery, Murder One, A.D.W., and Trafficking Stolen Merchandise. The Nazi's in Quentin will turn your ass into a satchel. You're an old man. Gimme Neil!",
+      "wordCount": 31
+    },
+    {
+      "id": 887,
+      "index": 887,
+      "character": "NATE",
+      "gender": "Male",
+      "line": "What I'll give you is so many false arrest lawsuits, you won't have time to write traffic tickets!",
+      "wordCount": 18
+    },
+    {
+      "id": 888,
+      "index": 888,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "Get me Farina.",
+      "wordCount": 3
+    },
+    {
+      "id": 889,
+      "index": 889,
+      "character": "DRUCKER",
+      "gender": "Male",
+      "line": "Can we put Nate away?",
+      "wordCount": 5
+    },
+    {
+      "id": 890,
+      "index": 890,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "With a staff of five or six marshaling physical evidence for six months after two years' worth of continuances...maybe he'll do 18 months. Won't fucking happen. Check the bait.",
+      "wordCount": 29
+    },
+    {
+      "id": 891,
+      "index": 891,
+      "character": "BOSKO",
+      "gender": "Male",
+      "line": "Waingro?",
+      "wordCount": 1
+    },
+    {
+      "id": 892,
+      "index": 892,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "Yeah. At the hotel.",
+      "wordCount": 4
+    },
+    {
+      "id": 893,
+      "index": 893,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "Look over there.",
+      "wordCount": 3
+    },
+    {
+      "id": 894,
+      "index": 894,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "I don't even know how to think like this...cause this has happened to me late in my life. But I got some expectations. For us. You can walk right now if you want. Walk away. Or you...on your own...you choose to come with me. I got enough in there to take care of us for forever.",
+      "wordCount": 56
+    },
+    {
+      "id": 895,
+      "index": 895,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "Eady.",
+      "wordCount": 1
+    },
+    {
+      "id": 896,
+      "index": 896,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "Eady?",
+      "wordCount": 1
+    },
+    {
+      "id": 897,
+      "index": 897,
+      "character": "FARINA",
+      "gender": "NA",
+      "line": "I copy.",
+      "wordCount": 2
+    },
+    {
+      "id": 898,
+      "index": 898,
+      "character": "FARINA",
+      "gender": "NA",
+      "line": "Got a live one.",
+      "wordCount": 4
+    },
+    {
+      "id": 899,
+      "index": 899,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "I'll hold.",
+      "wordCount": 2
+    },
+    {
+      "id": 900,
+      "index": 900,
+      "character": "FARINA",
+      "gender": "NA",
+      "line": "C'mon, sugar: show yourself",
+      "wordCount": 4
+    },
+    {
+      "id": 901,
+      "index": 901,
+      "character": "MARCIANO",
+      "gender": "Male",
+      "line": "Do it!",
+      "wordCount": 2
+    },
+    {
+      "id": 902,
+      "index": 902,
+      "character": "FARINA",
+      "gender": "NA",
+      "line": "Shut up!!",
+      "wordCount": 2
+    },
+    {
+      "id": 903,
+      "index": 903,
+      "character": "FARINA",
+      "gender": "NA",
+      "line": "One second at the window. Then it's all over...",
+      "wordCount": 9
+    },
+    {
+      "id": 904,
+      "index": 904,
+      "character": "CHARLENE",
+      "gender": "Female",
+      "line": "looks at Farina. She slowly crosses to the window. Marciano has faded to the back of the room.",
+      "wordCount": 18
+    },
+    {
+      "id": 905,
+      "index": 905,
+      "character": "CHARLENE",
+      "gender": "Female",
+      "line": "For Christ's sake...that's not even him. That's not Chris.",
+      "wordCount": 9
+    },
+    {
+      "id": 906,
+      "index": 906,
+      "character": "CHRIS",
+      "gender": "Male",
+      "line": "Any of you guys know anything for rent around here?",
+      "wordCount": 10
+    },
+    {
+      "id": 907,
+      "index": 907,
+      "character": "FARINA",
+      "gender": "NA",
+      "line": "Unit two. This is command. Take him at the street. Check him out.",
+      "wordCount": 13
+    },
+    {
+      "id": 908,
+      "index": 908,
+      "character": "MARCIANO",
+      "gender": "Male",
+      "line": "Where the hell is he?",
+      "wordCount": 5
+    },
+    {
+      "id": 909,
+      "index": 909,
+      "character": "CHARLENE",
+      "gender": "Female",
+      "line": "Maybe he's not coming.",
+      "wordCount": 4
+    },
+    {
+      "id": 910,
+      "index": 910,
+      "character": "MARCIANO",
+      "gender": "Male",
+      "line": "You better hope he shows! Or you're going to the can, you two dollar...",
+      "wordCount": 14
+    },
+    {
+      "id": 911,
+      "index": 911,
+      "character": "FARINA",
+      "gender": "NA",
+      "line": "Get him the hell out of here!",
+      "wordCount": 7
+    },
+    {
+      "id": 912,
+      "index": 912,
+      "character": "UNIT TWO",
+      "gender": "NA",
+      "line": "Command.",
+      "wordCount": 1
+    },
+    {
+      "id": 913,
+      "index": 913,
+      "character": "FARINA",
+      "gender": "NA",
+      "line": "Yeah?",
+      "wordCount": 1
+    },
+    {
+      "id": 914,
+      "index": 914,
+      "character": "UNIT TWO",
+      "gender": "NA",
+      "line": "This guy's John Pearson. Valid I.D. car's registered to one Bukowski. Ran a make to DMV. It's clean. So's the car.",
+      "wordCount": 21
+    },
+    {
+      "id": 915,
+      "index": 915,
+      "character": "FARINA",
+      "gender": "NA",
+      "line": "Let him go.",
+      "wordCount": 3
+    },
+    {
+      "id": 916,
+      "index": 916,
+      "character": "FARINA",
+      "gender": "NA",
+      "line": "Want a cup of coffee while we wait, Mrs. Shiherlis?",
+      "wordCount": 10
+    },
+    {
+      "id": 917,
+      "index": 917,
+      "character": "CHARLENE",
+      "gender": "Female",
+      "line": "That would be nice.",
+      "wordCount": 4
+    },
+    {
+      "id": 918,
+      "index": 918,
+      "character": "FARINA",
+      "gender": "NA",
+      "line": "False alarm, Lieutenant.",
+      "wordCount": 3
+    },
+    {
+      "id": 919,
+      "index": 919,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "What's the score?",
+      "wordCount": 3
+    },
+    {
+      "id": 920,
+      "index": 920,
+      "character": "DESK CLERK/COP",
+      "gender": "NA",
+      "line": "On this Waingro?",
+      "wordCount": 3
+    },
+    {
+      "id": 921,
+      "index": 921,
+      "character": "DESK CLERK/COP",
+      "gender": "NA",
+      "line": "I just told Bosko. Zero. Nothing's happening.",
+      "wordCount": 7
+    },
+    {
+      "id": 922,
+      "index": 922,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "You know what? Neil's gone. Bam! Flyin' like' a bird.",
+      "wordCount": 10
+    },
+    {
+      "id": 923,
+      "index": 923,
+      "character": "BOSKO",
+      "gender": "Male",
+      "line": "C'mon! How do you know? We still got...",
+      "wordCount": 8
+    },
+    {
+      "id": 924,
+      "index": 924,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "What do we got? Bon voyage, motherfucker, you were good. I'm going to the hotel. I'm gonna take a shower. I'm gonna sleep for a month.",
+      "wordCount": 26
+    },
+    {
+      "id": 925,
+      "index": 925,
+      "character": "LAUREN",
+      "gender": "Female",
+      "line": "...Daddy?",
+      "wordCount": 1
+    },
+    {
+      "id": 926,
+      "index": 926,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "You're gonna be okay, baby. Your mommy and me are here. Everybody's here. We're going to take care of you. We love you...",
+      "wordCount": 23
+    },
+    {
+      "id": 927,
+      "index": 927,
+      "character": "ORDERLY",
+      "gender": "NA",
+      "line": "Let me take her.",
+      "wordCount": 4
+    },
+    {
+      "id": 928,
+      "index": 928,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "I got her.",
+      "wordCount": 3
+    },
+    {
+      "id": 929,
+      "index": 929,
+      "character": "DOCTOR",
+      "gender": "NA",
+      "line": "Watch her tongue!",
+      "wordCount": 3
+    },
+    {
+      "id": 930,
+      "index": 930,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "She's not epileptic! This isn't a seizure.",
+      "wordCount": 7
+    },
+    {
+      "id": 931,
+      "index": 931,
+      "character": "DOCTOR",
+      "gender": "NA",
+      "line": "5 mg of Thorazine.",
+      "wordCount": 4
+    },
+    {
+      "id": 932,
+      "index": 932,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "You okay, baby?",
+      "wordCount": 3
+    },
+    {
+      "id": 933,
+      "index": 933,
+      "character": "RADIO ANNOUNCER",
+      "gender": "NA",
+      "line": "Hey there, old aware ones, and you, too, my fair ones ...",
+      "wordCount": 12
+    },
+    {
+      "id": 934,
+      "index": 934,
+      "character": "EADY",
+      "gender": "Female",
+      "line": "What is it?",
+      "wordCount": 3
+    },
+    {
+      "id": 935,
+      "index": 935,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "Nothing.",
+      "wordCount": 1
+    },
+    {
+      "id": 936,
+      "index": 936,
+      "character": "RADIO ANNOUNCER",
+      "gender": "NA",
+      "line": "Brought to you this fine day which is A-okay!",
+      "wordCount": 9
+    },
+    {
+      "id": 937,
+      "index": 937,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "I got this errand to run that I forgot.",
+      "wordCount": 9
+    },
+    {
+      "id": 938,
+      "index": 938,
+      "character": "EADY",
+      "gender": "Female",
+      "line": "The airport is right there. Is there time?",
+      "wordCount": 8
+    },
+    {
+      "id": 939,
+      "index": 939,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "Sure. It's a thing I got to take care of... is all.",
+      "wordCount": 12
+    },
+    {
+      "id": 940,
+      "index": 940,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "Leave it running.",
+      "wordCount": 3
+    },
+    {
+      "id": 941,
+      "index": 941,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "...be right back, Eady.",
+      "wordCount": 4
+    },
+    {
+      "id": 942,
+      "index": 942,
+      "character": "EADY",
+      "gender": "Female",
+      "line": "Neil...?",
+      "wordCount": 1
+    },
+    {
+      "id": 943,
+      "index": 943,
+      "character": "PAINTER TWO",
+      "gender": "NA",
+      "line": "What's going on?",
+      "wordCount": 3
+    },
+    {
+      "id": 944,
+      "index": 944,
+      "character": "PAINTER ONE",
+      "gender": "NA",
+      "line": "Nothing. He's watching TV.",
+      "wordCount": 4
+    },
+    {
+      "id": 945,
+      "index": 945,
+      "character": "PAINTER TWO",
+      "gender": "NA",
+      "line": "We going to finish this game or what?",
+      "wordCount": 8
+    },
+    {
+      "id": 946,
+      "index": 946,
+      "character": "OPERATOR",
+      "gender": "NA",
+      "line": "Hyatt House.",
+      "wordCount": 2
+    },
+    {
+      "id": 947,
+      "index": 947,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "Hi. It's the kitchen again. A... \"Jamieson\" ordered a BLT and they got his room number screwed up.",
+      "wordCount": 18
+    },
+    {
+      "id": 948,
+      "index": 948,
+      "character": "OPERATOR",
+      "gender": "NA",
+      "line": "They're always doing that.",
+      "wordCount": 4
+    },
+    {
+      "id": 949,
+      "index": 949,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "Thanks, love.",
+      "wordCount": 2
+    },
+    {
+      "id": 950,
+      "index": 950,
+      "character": "PA",
+      "gender": "NA",
+      "line": "A fire has been reported. Please leave your rooms now. Proceed down marked fire exits. Use the staircases. Do not use the elevators. This is NOT a drill. A fire...etc.",
+      "wordCount": 30
+    },
+    {
+      "id": 951,
+      "index": 951,
+      "character": "PAINTER ONE",
+      "gender": "NA",
+      "line": "Yeah. Whyn't you call out for pizza? Sausage, peppers, onions... Hey.",
+      "wordCount": 11
+    },
+    {
+      "id": 952,
+      "index": 952,
+      "character": "PAINTER TWO",
+      "gender": "NA",
+      "line": "What?",
+      "wordCount": 1
+    },
+    {
+      "id": 953,
+      "index": 953,
+      "character": "PAINTER ONE",
+      "gender": "NA",
+      "line": "That chick on the ninth floor got naked and she's pressing herself against the glass again.",
+      "wordCount": 16
+    },
+    {
+      "id": 954,
+      "index": 954,
+      "character": "PAINTER TWO",
+      "gender": "NA",
+      "line": "Let me see.",
+      "wordCount": 3
+    },
+    {
+      "id": 955,
+      "index": 955,
+      "character": "PAINTER TWO",
+      "gender": "NA",
+      "line": "Oh, boy...!",
+      "wordCount": 2
+    },
+    {
+      "id": 956,
+      "index": 956,
+      "character": "OPERATOR",
+      "gender": "NA",
+      "line": "Lt. Hanna. Telephone. Lt. Hanna.",
+      "wordCount": 5
+    },
+    {
+      "id": 957,
+      "index": 957,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "Fuck McCauley. You handle it. Call Bosko and Drucker in. Get me at the hospital after.",
+      "wordCount": 16
+    },
+    {
+      "id": 958,
+      "index": 958,
+      "character": "JUSTINE",
+      "gender": "Female",
+      "line": "...Will things change between us?",
+      "wordCount": 5
+    },
+    {
+      "id": 959,
+      "index": 959,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "I don't know... Probably not... ...but I am reminded of how much I love you. But that may not be enough.",
+      "wordCount": 21
+    },
+    {
+      "id": 960,
+      "index": 960,
+      "character": "JUSTINE",
+      "gender": "Female",
+      "line": "You have to go to work, don't you?",
+      "wordCount": 8
+    },
+    {
+      "id": 961,
+      "index": 961,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "Yeah.",
+      "wordCount": 1
+    },
+    {
+      "id": 962,
+      "index": 962,
+      "character": "JUSTINE",
+      "gender": "Female",
+      "line": "Be careful, Vincent. Be very careful... Let's keep on trying?",
+      "wordCount": 10
+    },
+    {
+      "id": 963,
+      "index": 963,
+      "character": "WAINGRO",
+      "gender": "Male",
+      "line": "Yeah?",
+      "wordCount": 1
+    },
+    {
+      "id": 964,
+      "index": 964,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "I'm hotel security. We're evacuating the floor.",
+      "wordCount": 7
+    },
+    {
+      "id": 965,
+      "index": 965,
+      "character": "WAINGRO",
+      "gender": "Male",
+      "line": "I can't leave.",
+      "wordCount": 3
+    },
+    {
+      "id": 966,
+      "index": 966,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "Sir, I'm afraid you'll have to.",
+      "wordCount": 6
+    },
+    {
+      "id": 967,
+      "index": 967,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "I should have dumped you in that parking lot. Look at me, you sick fuck.",
+      "wordCount": 15
+    },
+    {
+      "id": 968,
+      "index": 968,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "Gimme your eyes. 'Cause you're gonna die.",
+      "wordCount": 7
+    },
+    {
+      "id": 969,
+      "index": 969,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "Casals come in.",
+      "wordCount": 3
+    },
+    {
+      "id": 970,
+      "index": 970,
+      "character": "CASALS",
+      "gender": "Male",
+      "line": "Vincent. I'm in the southeast stairwell.",
+      "wordCount": 6
+    },
+    {
+      "id": 971,
+      "index": 971,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "What's the situation?",
+      "wordCount": 3
+    },
+    {
+      "id": 972,
+      "index": 972,
+      "character": "CASALS",
+      "gender": "Male",
+      "line": "Three teams are moving up the other three stairwells to the 14th floor. Elevators are out of commission because of the fire alarm. Surveillance said McCauley looked right at 'em. Didn't seem surprised.",
+      "wordCount": 33
+    },
+    {
+      "id": 973,
+      "index": 973,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "It means he knew we were here and came anyway.",
+      "wordCount": 10
+    },
+    {
+      "id": 974,
+      "index": 974,
+      "character": "CASALS",
+      "gender": "Male",
+      "line": "I got two Special Weapons Teams deployed at the front and back exits. Choppers.",
+      "wordCount": 14
+    },
+    {
+      "id": 975,
+      "index": 975,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "Yeah, yeah, that's fine. Stay on it. 10-4.",
+      "wordCount": 8
+    },
+    {
+      "id": 976,
+      "index": 976,
+      "character": "NEIL",
+      "gender": "Male",
+      "line": "...not half bad.",
+      "wordCount": 3
+    },
+    {
+      "id": 977,
+      "index": 977,
+      "character": "HANNA",
+      "gender": "Male",
+      "line": "...pretty good your own self.",
+      "wordCount": 5
+    },
+    {
+      "id": 978,
+      "index": 978,
+      "character": "",
+      "gender": "Male"
+    }
+  ]
+}

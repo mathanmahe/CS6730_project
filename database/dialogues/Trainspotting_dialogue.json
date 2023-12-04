@@ -1,0 +1,172 @@
+{
+  "fileName": "Trainspotting_dialogue.txt",
+  "title": "Trainspotting",
+  "data": [
+    {
+      "id": 0,
+      "index": 0,
+      "character": "RENTON",
+      "gender": "Male",
+      "line": "Right. So we all get old and then we can't hack it any more. Is that it? SICK BOY",
+      "wordCount": 19
+    },
+    {
+      "id": 1,
+      "index": 1,
+      "character": "SPUD",
+      "gender": "Male",
+      "line": "I guess this means I'll never get to have sex with Gail.",
+      "wordCount": 12
+    },
+    {
+      "id": 2,
+      "index": 2,
+      "character": "DIANE",
+      "gender": "Female",
+      "line": "I don't see why not.",
+      "wordCount": 5
+    },
+    {
+      "id": 3,
+      "index": 3,
+      "character": "SPUD",
+      "gender": "Male",
+      "line": "Calm down, calm down. It's going to be all right, everything's going to be just fine.",
+      "wordCount": 16
+    },
+    {
+      "id": 4,
+      "index": 4,
+      "character": "SICK BOY",
+      "gender": "Male",
+      "line": "Oh, fuck. Sick Boy reaches out to Allison.",
+      "wordCount": 8
+    },
+    {
+      "id": 5,
+      "index": 5,
+      "character": "SICK BOY",
+      "gender": "Male",
+      "line": "Say something, Mark, say something --",
+      "wordCount": 6
+    },
+    {
+      "id": 6,
+      "index": 6,
+      "character": "RENTON",
+      "gender": "Male",
+      "line": "I'm cooking' up. There is a silence. Renton begins scrambling around through the works. ALLISON",
+      "wordCount": 15
+    },
+    {
+      "id": 7,
+      "index": 7,
+      "character": "RENTON",
+      "gender": "Male",
+      "line": "Nor did I. Our only response was to keep on going and fuck everything. Pile misery upon misery, heap it up on a spoon and dissolve it with a drop of bile, then squirt it into a stinking purulent vein and do it all over again. Keep on going: getting up, going out, robbing, stealing, fucking people over, propelling ourselves with longing towards the day it would all go wrong. As seen in the opening scene, Renton is nearly hit by a car that screeches to a halt as he crosses a road. He looks at the driver, at Spud running away and the Store Detectives approaching. Because no matter how much you stash or how much you steal, you never have enough. No matter how often you go out and rob and fuck people over you always need to get up and do it all again. Renton smiles and waits. Sooner or later, this sort of thing was bound to happen. One of the Detectives runs straight past him, after Spud. The other Detective crashes into Renton with a mighty punch in the stomach.",
+      "wordCount": 185
+    },
+    {
+      "id": 8,
+      "index": 8,
+      "character": "MOTHER",
+      "gender": "Female",
+      "line": "Mark...Mark, you've got a house. House! House! For goodness's sake, Mark. They bustle around him and pass his card to the front.",
+      "wordCount": 22
+    },
+    {
+      "id": 9,
+      "index": 9,
+      "character": "SWANNEY",
+      "gender": "Male",
+      "line": "Sure will, pal, sure will.",
+      "wordCount": 5
+    },
+    {
+      "id": 10,
+      "index": 10,
+      "character": "SICK BOY",
+      "gender": "Male",
+      "line": "Eughh. Sounds horrible.",
+      "wordCount": 3
+    },
+    {
+      "id": 11,
+      "index": 11,
+      "character": "RENTON",
+      "gender": "Male",
+      "line": "It wasn't that bad.",
+      "wordCount": 4
+    },
+    {
+      "id": 12,
+      "index": 12,
+      "character": "SICK BOY",
+      "gender": "Male",
+      "line": "Did he -- you know?",
+      "wordCount": 5
+    },
+    {
+      "id": 13,
+      "index": 13,
+      "character": "RENTON",
+      "gender": "Male",
+      "line": "What?",
+      "wordCount": 1
+    },
+    {
+      "id": 14,
+      "index": 14,
+      "character": "SICK BOY",
+      "gender": "Male",
+      "line": "You know.",
+      "wordCount": 2
+    },
+    {
+      "id": 15,
+      "index": 15,
+      "character": "RENTON",
+      "gender": "Male",
+      "line": "No, he didn't make me touch it.",
+      "wordCount": 7
+    },
+    {
+      "id": 16,
+      "index": 16,
+      "character": "SICK BOY",
+      "gender": "Male",
+      "line": "Oh no, don't even mention it.",
+      "wordCount": 6
+    },
+    {
+      "id": 17,
+      "index": 17,
+      "character": "RENTON",
+      "gender": "Male",
+      "line": "He made me lick it.",
+      "wordCount": 5
+    },
+    {
+      "id": 18,
+      "index": 18,
+      "character": "SICK BOY",
+      "gender": "Male",
+      "line": "God, you're sick. RENTON",
+      "wordCount": 4
+    },
+    {
+      "id": 19,
+      "index": 19,
+      "character": "RENTON",
+      "gender": "Male",
+      "line": "It's good, it's fucking good.",
+      "wordCount": 5
+    },
+    {
+      "id": 20,
+      "index": 20,
+      "character": "",
+      "gender": "Male"
+    }
+  ]
+}

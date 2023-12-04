@@ -1,0 +1,5884 @@
+{
+  "fileName": "American-Beauty_dialogue.txt",
+  "title": "American Beauty",
+  "data": [
+    {
+      "id": 0,
+      "index": 0,
+      "character": "JANE",
+      "gender": "Female",
+      "line": "I need a father who's a role model, not some horny geek-boy who's gonna spray his shorts whenever I bring a girlfriend home from school. What a lame-o. Somebody really should put him out of his misery.",
+      "wordCount": 37
+    },
+    {
+      "id": 1,
+      "index": 1,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "Want me to kill him for you?",
+      "wordCount": 7
+    },
+    {
+      "id": 2,
+      "index": 2,
+      "character": "JANE",
+      "gender": "Female",
+      "line": "Yeah, would you?",
+      "wordCount": 3
+    },
+    {
+      "id": 3,
+      "index": 3,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "My name is Lester Burnham. This is my neighborhood. This is my street. This... is my life. I'm forty-two years old. In less than a year, I'll be dead.",
+      "wordCount": 29
+    },
+    {
+      "id": 4,
+      "index": 4,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Of course, I don't know that yet. He rolls over, looks up at us and sighs. He doesn't seem too thrilled at the prospect of a new day.",
+      "wordCount": 28
+    },
+    {
+      "id": 5,
+      "index": 5,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "And in a way, I'm dead already.",
+      "wordCount": 7
+    },
+    {
+      "id": 6,
+      "index": 6,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Look at me, jerking off in the shower. This will be the high point of my day. It's all downhill from here.",
+      "wordCount": 22
+    },
+    {
+      "id": 7,
+      "index": 7,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "That's my wife Carolyn. See the way the handle on those pruning shears matches her gardening clogs? That's not an accident.",
+      "wordCount": 21
+    },
+    {
+      "id": 8,
+      "index": 8,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "That's our next-door neighbor Jim.",
+      "wordCount": 5
+    },
+    {
+      "id": 9,
+      "index": 9,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "And that's his lover, Jim.",
+      "wordCount": 5
+    },
+    {
+      "id": 10,
+      "index": 10,
+      "character": "CAROLYN",
+      "gender": "Female",
+      "line": "Good morning, Jim!",
+      "wordCount": 3
+    },
+    {
+      "id": 11,
+      "index": 11,
+      "character": "CAROLYN",
+      "gender": "Female",
+      "line": "I just love your tie! That color!",
+      "wordCount": 7
+    },
+    {
+      "id": 12,
+      "index": 12,
+      "character": "CAROLYN",
+      "gender": "Female",
+      "line": "Well, I'll tell you. Egg shells and Miracle Grow.",
+      "wordCount": 9
+    },
+    {
+      "id": 13,
+      "index": 13,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Man. I get exhausted just watching her.",
+      "wordCount": 7
+    },
+    {
+      "id": 14,
+      "index": 14,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "She wasn't always like this. She used to be happy. We used to be happy.",
+      "wordCount": 15
+    },
+    {
+      "id": 15,
+      "index": 15,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "My daughter Jane. Only child.",
+      "wordCount": 5
+    },
+    {
+      "id": 16,
+      "index": 16,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Janie's a pretty typical teenager. Angry, insecure, confused. I wish I could tell her that's all going to pass...",
+      "wordCount": 19
+    },
+    {
+      "id": 17,
+      "index": 17,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "But I don't want to lie to her.",
+      "wordCount": 8
+    },
+    {
+      "id": 18,
+      "index": 18,
+      "character": "CAROLYN",
+      "gender": "Female",
+      "line": "Jane. Honey. Are you trying to look unattractive?",
+      "wordCount": 8
+    },
+    {
+      "id": 19,
+      "index": 19,
+      "character": "JANE",
+      "gender": "Female",
+      "line": "Yes.",
+      "wordCount": 1
+    },
+    {
+      "id": 20,
+      "index": 20,
+      "character": "CAROLYN",
+      "gender": "Female",
+      "line": "Well, congratulations. You've succeeded admirably.",
+      "wordCount": 5
+    },
+    {
+      "id": 21,
+      "index": 21,
+      "character": "CAROLYN",
+      "gender": "Female",
+      "line": "Lester, could you make me a little later, please? Because I'm not quite late enough.",
+      "wordCount": 15
+    },
+    {
+      "id": 22,
+      "index": 22,
+      "character": "JANE",
+      "gender": "Female",
+      "line": "Nice going, Dad.",
+      "wordCount": 3
+    },
+    {
+      "id": 23,
+      "index": 23,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Both my wife and daughter think I'm this gigantic loser, and... they're right.",
+      "wordCount": 13
+    },
+    {
+      "id": 24,
+      "index": 24,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "I have lost something. I'm not exactly sure what it is, but I know I didn't always feel this... sedated. But you know what? It's never too late to get it back.",
+      "wordCount": 32
+    },
+    {
+      "id": 25,
+      "index": 25,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Hello, this is Lester Burnham from Media Monthly magazine, I'm calling for Mr. Tamblin, please?... Well, we're all under a deadline here, uh, but you see, there is some basic information about the product launch that isn't even covered in your press release and I... Yeah. Can I ask you a question? Who is Tamblin? Does he exist? 'Cause he doesn't ever seem to come in... Yeah, okay, I'll leave my number...",
+      "wordCount": 72
+    },
+    {
+      "id": 26,
+      "index": 26,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "It's 555 0199. Lester Burnham. Thank you!",
+      "wordCount": 7
+    },
+    {
+      "id": 27,
+      "index": 27,
+      "character": "BRAD",
+      "gender": "Male",
+      "line": "Hey Les. You got a minute?",
+      "wordCount": 6
+    },
+    {
+      "id": 28,
+      "index": 28,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "For you, Brad? I've got five.",
+      "wordCount": 6
+    },
+    {
+      "id": 29,
+      "index": 29,
+      "character": "BRAD",
+      "gender": "Male",
+      "line": "I'm sure you can understand our need to cut corners around here.",
+      "wordCount": 12
+    },
+    {
+      "id": 30,
+      "index": 30,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Oh, sure. Times are tight, and you gotta free up cash. Gotta spend money to make money. Right?",
+      "wordCount": 18
+    },
+    {
+      "id": 31,
+      "index": 31,
+      "character": "BRAD",
+      "gender": "Male",
+      "line": "Exactly. So...",
+      "wordCount": 2
+    },
+    {
+      "id": 32,
+      "index": 32,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Like the time when Mr. Flournoy used the company MasterCard to pay for that hooker, and then she used the card numbers and stayed at the St. Regis for, what was it, like, three months?",
+      "wordCount": 35
+    },
+    {
+      "id": 33,
+      "index": 33,
+      "character": "BRAD",
+      "gender": "Male",
+      "line": "That's unsubstantiated gossip.",
+      "wordCount": 3
+    },
+    {
+      "id": 34,
+      "index": 34,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "That's fifty thousand dollars. That's somebody's salary. That's somebody who's gonna get fired because Craig has to pay women to fuck him!",
+      "wordCount": 22
+    },
+    {
+      "id": 35,
+      "index": 35,
+      "character": "BRAD",
+      "gender": "Male",
+      "line": "Jesus. Calm down. Nobody's getting fired yet. That's why we're having everyone write out a job description, mapping out in detail how they contribute. That way, management can assess who's valuable and--",
+      "wordCount": 32
+    },
+    {
+      "id": 36,
+      "index": 36,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Who's expendable.",
+      "wordCount": 2
+    },
+    {
+      "id": 37,
+      "index": 37,
+      "character": "BRAD",
+      "gender": "Male",
+      "line": "It's just business.",
+      "wordCount": 3
+    },
+    {
+      "id": 38,
+      "index": 38,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "I've been writing for this magazine for fourteen years, Brad. You've been here how long, a whole month?",
+      "wordCount": 18
+    },
+    {
+      "id": 39,
+      "index": 39,
+      "character": "BRAD",
+      "gender": "Male",
+      "line": "I'm one of the good guys, Les. I'm trying to level with you. This is your one chance to save your job.",
+      "wordCount": 22
+    },
+    {
+      "id": 40,
+      "index": 40,
+      "character": "CAROLYN",
+      "gender": "Female",
+      "line": "--there is no decision, you just write the damn thing!",
+      "wordCount": 10
+    },
+    {
+      "id": 41,
+      "index": 41,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "You don't think it's weird and kinda fascist?",
+      "wordCount": 8
+    },
+    {
+      "id": 42,
+      "index": 42,
+      "character": "CAROLYN",
+      "gender": "Female",
+      "line": "Possibly. But you don't want to be unemployed.",
+      "wordCount": 8
+    },
+    {
+      "id": 43,
+      "index": 43,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Oh, well, let's just all sell our souls and work for Satan, because it's more convenient that way.",
+      "wordCount": 18
+    },
+    {
+      "id": 44,
+      "index": 44,
+      "character": "CAROLYN",
+      "gender": "Female",
+      "line": "Could you be just a little bit more dramatic, please, huh?",
+      "wordCount": 11
+    },
+    {
+      "id": 45,
+      "index": 45,
+      "character": "CAROLYN",
+      "gender": "Female",
+      "line": "So we've finally got new neighbors. You know, if the Lomans had let me represent them, instead of-- --\"The Real Estate King,\" that house would never have sat on the market for six months.",
+      "wordCount": 34
+    },
+    {
+      "id": 46,
+      "index": 46,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Well, they were still mad at you for cutting down their sycamore.",
+      "wordCount": 12
+    },
+    {
+      "id": 47,
+      "index": 47,
+      "character": "CAROLYN",
+      "gender": "Female",
+      "line": "Their sycamore? C'mon! A substantial portion of the root structure was on our property. You know that. How can you call it their sycamore? I wouldn't have the heart to just cut down something if it wasn't partially mine, which of course it was.",
+      "wordCount": 44
+    },
+    {
+      "id": 48,
+      "index": 48,
+      "character": "JANE",
+      "gender": "Female",
+      "line": "Mom, do we always have to listen to this elevator music?",
+      "wordCount": 11
+    },
+    {
+      "id": 49,
+      "index": 49,
+      "character": "CAROLYN",
+      "gender": "Female",
+      "line": "No. No, we don't. As soon as you've prepared a nutritious yet savory meal that I'm about to eat, you can listen to whatever you like.",
+      "wordCount": 26
+    },
+    {
+      "id": 50,
+      "index": 50,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "So Janie, how was school?",
+      "wordCount": 5
+    },
+    {
+      "id": 51,
+      "index": 51,
+      "character": "JANE",
+      "gender": "Female",
+      "line": "It was okay.",
+      "wordCount": 3
+    },
+    {
+      "id": 52,
+      "index": 52,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Just okay?",
+      "wordCount": 2
+    },
+    {
+      "id": 53,
+      "index": 53,
+      "character": "JANE",
+      "gender": "Female",
+      "line": "No, Dad. It was spec-tac-ular.",
+      "wordCount": 5
+    },
+    {
+      "id": 54,
+      "index": 54,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Well, you want to know how things went at my job today?",
+      "wordCount": 12
+    },
+    {
+      "id": 55,
+      "index": 55,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "They've hired this efficiency expert, this really friendly guy named Brad, how perfect is that? And he's basically there to make it seem like they're justified in firing somebody, because they couldn't just come right out and say that, could they? No, no, that would be too... honest. And so they've asked us-- --you couldn't possibly care any less, could you?",
+      "wordCount": 61
+    },
+    {
+      "id": 56,
+      "index": 56,
+      "character": "JANE",
+      "gender": "Female",
+      "line": "Well, what do you expect? You can't all of a sudden be my best friend, just because you had a bad day.",
+      "wordCount": 22
+    },
+    {
+      "id": 57,
+      "index": 57,
+      "character": "JANE",
+      "gender": "Female",
+      "line": "I mean, hello. You've barely even spoken to me for months.",
+      "wordCount": 11
+    },
+    {
+      "id": 58,
+      "index": 58,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Oh, what, you're mother-of-the-year? You treat her like an employee.",
+      "wordCount": 10
+    },
+    {
+      "id": 59,
+      "index": 59,
+      "character": "CAROLYN",
+      "gender": "Female",
+      "line": "What?!",
+      "wordCount": 1
+    },
+    {
+      "id": 60,
+      "index": 60,
+      "character": "CAROLYN",
+      "gender": "Female",
+      "line": "What?",
+      "wordCount": 1
+    },
+    {
+      "id": 61,
+      "index": 61,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "I'm going to get some ice cream.",
+      "wordCount": 7
+    },
+    {
+      "id": 62,
+      "index": 62,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Honey, I'm sorry. I...",
+      "wordCount": 4
+    },
+    {
+      "id": 63,
+      "index": 63,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "I'm sorry I haven't been more available, I just... I'm...",
+      "wordCount": 10
+    },
+    {
+      "id": 64,
+      "index": 64,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "You know, you don't always have to wait for me to come to you...",
+      "wordCount": 14
+    },
+    {
+      "id": 65,
+      "index": 65,
+      "character": "JANE",
+      "gender": "Female",
+      "line": "Oh, great. So now it's my fault?",
+      "wordCount": 7
+    },
+    {
+      "id": 66,
+      "index": 66,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "I didn't say that. It's nobody's fault. Janie, what happened? You and I used to be pals.",
+      "wordCount": 17
+    },
+    {
+      "id": 67,
+      "index": 67,
+      "character": "CAROLYN",
+      "gender": "Female",
+      "line": "I will sell this house today.",
+      "wordCount": 6
+    },
+    {
+      "id": 68,
+      "index": 68,
+      "character": "CAROLYN",
+      "gender": "Female",
+      "line": "I will sell this house today. I will sell this house today. I will sell this house today.",
+      "wordCount": 18
+    },
+    {
+      "id": 69,
+      "index": 69,
+      "character": "CAROLYN",
+      "gender": "Female",
+      "line": "I will sell this house today.",
+      "wordCount": 6
+    },
+    {
+      "id": 70,
+      "index": 70,
+      "character": "CAROLYN",
+      "gender": "Female",
+      "line": "Welcome. I'm Carolyn Burnham!",
+      "wordCount": 4
+    },
+    {
+      "id": 71,
+      "index": 71,
+      "character": "CAROLYN",
+      "gender": "Female",
+      "line": "This living room is very dramatic. Wait 'til you see the native stone fireplace!",
+      "wordCount": 14
+    },
+    {
+      "id": 72,
+      "index": 72,
+      "character": "CAROLYN",
+      "gender": "Female",
+      "line": "A simple cream would really lighten things up. You could even put in a skylight.",
+      "wordCount": 15
+    },
+    {
+      "id": 73,
+      "index": 73,
+      "character": "CAROLYN",
+      "gender": "Female",
+      "line": "Well, why don't we go into the kitchen?",
+      "wordCount": 8
+    },
+    {
+      "id": 74,
+      "index": 74,
+      "character": "CAROLYN",
+      "gender": "Female",
+      "line": "It's a dream come true for any cook. Just filled with positive energy. Huh?",
+      "wordCount": 14
+    },
+    {
+      "id": 75,
+      "index": 75,
+      "character": "CAROLYN",
+      "gender": "Female",
+      "line": "...and you'll be surprised how much a ceiling fan can cut down on your energy costs.",
+      "wordCount": 16
+    },
+    {
+      "id": 76,
+      "index": 76,
+      "character": "CAROLYN",
+      "gender": "Female",
+      "line": "You know, you could have some really fun backyard get-togethers out here.",
+      "wordCount": 12
+    },
+    {
+      "id": 77,
+      "index": 77,
+      "character": "CAROLYN",
+      "gender": "Female",
+      "line": "What do you call this? Is this not a plant? If you have a problem with the plants, I can always call my landscape architect. Solved.",
+      "wordCount": 26
+    },
+    {
+      "id": 78,
+      "index": 78,
+      "character": "CAROLYN",
+      "gender": "Female",
+      "line": "I have some tiki torches in the garage.",
+      "wordCount": 8
+    },
+    {
+      "id": 79,
+      "index": 79,
+      "character": "CAROLYN",
+      "gender": "Female",
+      "line": "Shut up. Stop it. You... Weak!",
+      "wordCount": 6
+    },
+    {
+      "id": 80,
+      "index": 80,
+      "character": "CAROLYN",
+      "gender": "Female",
+      "line": "Weak. Baby. Shut up. Shut up! Shut up!",
+      "wordCount": 8
+    },
+    {
+      "id": 81,
+      "index": 81,
+      "character": "ANGELA",
+      "gender": "Female",
+      "line": "Who are you looking for?",
+      "wordCount": 5
+    },
+    {
+      "id": 82,
+      "index": 82,
+      "character": "JANE",
+      "gender": "Female",
+      "line": "My parents are coming tonight. They're trying to, you know, take an active interest in me.",
+      "wordCount": 16
+    },
+    {
+      "id": 83,
+      "index": 83,
+      "character": "ANGELA",
+      "gender": "Female",
+      "line": "Gross. I hate it when my mom does that.",
+      "wordCount": 9
+    },
+    {
+      "id": 84,
+      "index": 84,
+      "character": "JANE",
+      "gender": "Female",
+      "line": "They're such assholes. Why can't they just have their own lives?",
+      "wordCount": 11
+    },
+    {
+      "id": 85,
+      "index": 85,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "What makes you so sure she wants us to be there? Did she ask us to come?",
+      "wordCount": 17
+    },
+    {
+      "id": 86,
+      "index": 86,
+      "character": "CAROLYN",
+      "gender": "Female",
+      "line": "Of course not. She doesn't want us to know how important this is to her. But she's been practicing her steps for weeks.",
+      "wordCount": 23
+    },
+    {
+      "id": 87,
+      "index": 87,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Well, I bet money she's going to resent it. And I'm missing the James Bond marathon on TNT.",
+      "wordCount": 18
+    },
+    {
+      "id": 88,
+      "index": 88,
+      "character": "CAROLYN",
+      "gender": "Female",
+      "line": "Lester, this is important. I'm sensing a real distance growing between you and Jane.",
+      "wordCount": 14
+    },
+    {
+      "id": 89,
+      "index": 89,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Growing? She hates me.",
+      "wordCount": 4
+    },
+    {
+      "id": 90,
+      "index": 90,
+      "character": "CAROLYN",
+      "gender": "Female",
+      "line": "She's just willful.",
+      "wordCount": 3
+    },
+    {
+      "id": 91,
+      "index": 91,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "She hates you too.",
+      "wordCount": 4
+    },
+    {
+      "id": 92,
+      "index": 92,
+      "character": "ANNOUNCER",
+      "gender": "NA",
+      "line": "And now, for your half-time entertainment, Rockwell High's award- winning Dancing Spartanettes!",
+      "wordCount": 12
+    },
+    {
+      "id": 93,
+      "index": 93,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "We can leave right after this, right?",
+      "wordCount": 7
+    },
+    {
+      "id": 94,
+      "index": 94,
+      "character": "JANE",
+      "gender": "Female",
+      "line": "Oh shit, they're still here.",
+      "wordCount": 5
+    },
+    {
+      "id": 95,
+      "index": 95,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Janie!",
+      "wordCount": 1
+    },
+    {
+      "id": 96,
+      "index": 96,
+      "character": "CAROLYN",
+      "gender": "Female",
+      "line": "Hi! I really enjoyed that!",
+      "wordCount": 5
+    },
+    {
+      "id": 97,
+      "index": 97,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Congratulations, honey, you were great.",
+      "wordCount": 5
+    },
+    {
+      "id": 98,
+      "index": 98,
+      "character": "JANE",
+      "gender": "Female",
+      "line": "I didn't win anything.",
+      "wordCount": 4
+    },
+    {
+      "id": 99,
+      "index": 99,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Hi, I'm Lester. Janie's dad.",
+      "wordCount": 5
+    },
+    {
+      "id": 100,
+      "index": 100,
+      "character": "ANGELA",
+      "gender": "Female",
+      "line": "Oh. Hi.",
+      "wordCount": 2
+    },
+    {
+      "id": 101,
+      "index": 101,
+      "character": "JANE",
+      "gender": "Female",
+      "line": "This is my friend, Angela Hayes.",
+      "wordCount": 6
+    },
+    {
+      "id": 102,
+      "index": 102,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Okay, good to meet you. You were also good tonight. Very... precise.",
+      "wordCount": 12
+    },
+    {
+      "id": 103,
+      "index": 103,
+      "character": "ANGELA",
+      "gender": "Female",
+      "line": "Thanks.",
+      "wordCount": 1
+    },
+    {
+      "id": 104,
+      "index": 104,
+      "character": "CAROLYN",
+      "gender": "Female",
+      "line": "Nice to meet you, Angela. Honey, I'm so proud of you. I watched you very closely, and you didn't screw up once. Okay, we have to go.",
+      "wordCount": 27
+    },
+    {
+      "id": 105,
+      "index": 105,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "So, what are you girls doing now?",
+      "wordCount": 7
+    },
+    {
+      "id": 106,
+      "index": 106,
+      "character": "JANE",
+      "gender": "Female",
+      "line": "Dad.",
+      "wordCount": 1
+    },
+    {
+      "id": 107,
+      "index": 107,
+      "character": "ANGELA",
+      "gender": "Female",
+      "line": "We're going out for pizza.",
+      "wordCount": 5
+    },
+    {
+      "id": 108,
+      "index": 108,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Oh really, do you need a ride? We can give you a ride. I have a car. You wanna come with us?",
+      "wordCount": 22
+    },
+    {
+      "id": 109,
+      "index": 109,
+      "character": "ANGELA",
+      "gender": "Female",
+      "line": "Thanks... but I have a car.",
+      "wordCount": 6
+    },
+    {
+      "id": 110,
+      "index": 110,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Oh, you have a car. Oh. That's great! That's great, because Janie's thinking about getting a car soon too, aren't you, honey?",
+      "wordCount": 22
+    },
+    {
+      "id": 111,
+      "index": 111,
+      "character": "JANE",
+      "gender": "Female",
+      "line": "Dad. Mom's waiting for you.",
+      "wordCount": 5
+    },
+    {
+      "id": 112,
+      "index": 112,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Well, it was very nice meeting you, Angela. Any, uh, friend of Janie's is a friend of mine.",
+      "wordCount": 18
+    },
+    {
+      "id": 113,
+      "index": 113,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Well... I'll be seeing you around then.",
+      "wordCount": 7
+    },
+    {
+      "id": 114,
+      "index": 114,
+      "character": "JANE",
+      "gender": "Female",
+      "line": "Could he be any more pathetic?",
+      "wordCount": 6
+    },
+    {
+      "id": 115,
+      "index": 115,
+      "character": "ANGELA",
+      "gender": "Female",
+      "line": "I think it's sweet. And I think he and your mother have not had sex in a long time.",
+      "wordCount": 19
+    },
+    {
+      "id": 116,
+      "index": 116,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "It's the weirdest thing.",
+      "wordCount": 4
+    },
+    {
+      "id": 117,
+      "index": 117,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "I feel like I've been in a coma for about twenty years, and I'm just now waking up.",
+      "wordCount": 18
+    },
+    {
+      "id": 118,
+      "index": 118,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Spec-tac-ular.",
+      "wordCount": 1
+    },
+    {
+      "id": 119,
+      "index": 119,
+      "character": "JANE",
+      "gender": "Female",
+      "line": "I'm sorry my dad was so weird tonight.",
+      "wordCount": 8
+    },
+    {
+      "id": 120,
+      "index": 120,
+      "character": "ANGELA",
+      "gender": "Female",
+      "line": "It's okay. I'm used to guys drooling over me. It started when I was about twelve, I'd go out to dinner with my parents. Every Thursday night, Red Lobster. And every guy there would stare at me when I walked in. And I knew what they were thinking. Just like I knew guys at school thought about me when they jerked off.",
+      "wordCount": 62
+    },
+    {
+      "id": 121,
+      "index": 121,
+      "character": "JANE",
+      "gender": "Female",
+      "line": "Vomit.",
+      "wordCount": 1
+    },
+    {
+      "id": 122,
+      "index": 122,
+      "character": "ANGELA",
+      "gender": "Female",
+      "line": "No, I liked it. And I still like it. If people I don't even know look at me and want to fuck me, it means I really have a shot at being a model. Which is great, because there's nothing worse in life than being ordinary.",
+      "wordCount": 46
+    },
+    {
+      "id": 123,
+      "index": 123,
+      "character": "JANE",
+      "gender": "Female",
+      "line": "I really think it'll happen for you.",
+      "wordCount": 7
+    },
+    {
+      "id": 124,
+      "index": 124,
+      "character": "ANGELA",
+      "gender": "Female",
+      "line": "Oh, I know. Because everything that was meant to happen, does. Eventually.",
+      "wordCount": 12
+    },
+    {
+      "id": 125,
+      "index": 125,
+      "character": "JANE",
+      "gender": "Female",
+      "line": "Asshole.",
+      "wordCount": 1
+    },
+    {
+      "id": 126,
+      "index": 126,
+      "character": "ANGELA",
+      "gender": "Female",
+      "line": "Hello? Hello?",
+      "wordCount": 2
+    },
+    {
+      "id": 127,
+      "index": 127,
+      "character": "JANE",
+      "gender": "Female",
+      "line": "Hello?",
+      "wordCount": 1
+    },
+    {
+      "id": 128,
+      "index": 128,
+      "character": "ANGELA",
+      "gender": "Female",
+      "line": "Why'd you call me?",
+      "wordCount": 4
+    },
+    {
+      "id": 129,
+      "index": 129,
+      "character": "JANE",
+      "gender": "Female",
+      "line": "I didn't.",
+      "wordCount": 2
+    },
+    {
+      "id": 130,
+      "index": 130,
+      "character": "ANGELA",
+      "gender": "Female",
+      "line": "Well, my phone just rang and I answered it and somebody hung up and then I star sixty-nined and it called you back.",
+      "wordCount": 23
+    },
+    {
+      "id": 131,
+      "index": 131,
+      "character": "JANE",
+      "gender": "Female",
+      "line": "I was in the shower.",
+      "wordCount": 5
+    },
+    {
+      "id": 132,
+      "index": 132,
+      "character": "JANE",
+      "gender": "Female",
+      "line": "Oh, gross.",
+      "wordCount": 2
+    },
+    {
+      "id": 133,
+      "index": 133,
+      "character": "WOMAN'S VOICE",
+      "gender": "NA",
+      "line": "Rick-y! Break-fast!",
+      "wordCount": 2
+    },
+    {
+      "id": 134,
+      "index": 134,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "Be right there.",
+      "wordCount": 3
+    },
+    {
+      "id": 135,
+      "index": 135,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "Mom.",
+      "wordCount": 1
+    },
+    {
+      "id": 136,
+      "index": 136,
+      "character": "BARBARA",
+      "gender": "Female",
+      "line": "Hello.",
+      "wordCount": 1
+    },
+    {
+      "id": 137,
+      "index": 137,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "I don't eat bacon, remember?",
+      "wordCount": 5
+    },
+    {
+      "id": 138,
+      "index": 138,
+      "character": "BARBARA",
+      "gender": "Female",
+      "line": "I'm sorry, I must have forgotten.",
+      "wordCount": 6
+    },
+    {
+      "id": 139,
+      "index": 139,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "What's new in the world, Dad?",
+      "wordCount": 6
+    },
+    {
+      "id": 140,
+      "index": 140,
+      "character": "COLONEL",
+      "gender": "Male",
+      "line": "This country is going straight to hell.",
+      "wordCount": 7
+    },
+    {
+      "id": 141,
+      "index": 141,
+      "character": "COLONEL",
+      "gender": "Male",
+      "line": "Are you expecting anyone?",
+      "wordCount": 4
+    },
+    {
+      "id": 142,
+      "index": 142,
+      "character": "BARBARA",
+      "gender": "Female",
+      "line": "No. No.",
+      "wordCount": 2
+    },
+    {
+      "id": 143,
+      "index": 143,
+      "character": "COLONEL",
+      "gender": "Male",
+      "line": "Colonel Frank Fitts, U.S. Marine Corps.",
+      "wordCount": 6
+    },
+    {
+      "id": 144,
+      "index": 144,
+      "character": "COLONEL",
+      "gender": "Male",
+      "line": "Let's cut to the chase, okay? What are you guys selling?",
+      "wordCount": 11
+    },
+    {
+      "id": 145,
+      "index": 145,
+      "character": "COLONEL",
+      "gender": "Male",
+      "line": "Yeah, yeah, yeah. But you said you're partners. So what's your business?",
+      "wordCount": 12
+    },
+    {
+      "id": 146,
+      "index": 146,
+      "character": "COLONEL",
+      "gender": "Male",
+      "line": "How come these faggots always have to rub it in your face? How can they be so shameless?",
+      "wordCount": 18
+    },
+    {
+      "id": 147,
+      "index": 147,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "That's the whole thing, Dad. They don't feel like it's anything to be ashamed of.",
+      "wordCount": 15
+    },
+    {
+      "id": 148,
+      "index": 148,
+      "character": "COLONEL",
+      "gender": "Male",
+      "line": "Well, it is.",
+      "wordCount": 3
+    },
+    {
+      "id": 149,
+      "index": 149,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "Yeah, you're right.",
+      "wordCount": 3
+    },
+    {
+      "id": 150,
+      "index": 150,
+      "character": "COLONEL",
+      "gender": "Male",
+      "line": "Don't placate me like I'm your mother, boy.",
+      "wordCount": 8
+    },
+    {
+      "id": 151,
+      "index": 151,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "Forgive me, sir, for speaking so bluntly, but those fags make me want to puke my fucking guts out.",
+      "wordCount": 19
+    },
+    {
+      "id": 152,
+      "index": 152,
+      "character": "COLONEL",
+      "gender": "Male",
+      "line": "Me too, son. Me too.",
+      "wordCount": 5
+    },
+    {
+      "id": 153,
+      "index": 153,
+      "character": "ANGELA",
+      "gender": "Female",
+      "line": "I'm serious, he just pulled down his pants and yanked it out. You know, like, say hello to Mr. Happy.",
+      "wordCount": 20
+    },
+    {
+      "id": 154,
+      "index": 154,
+      "character": "ANGELA",
+      "gender": "Female",
+      "line": "It wasn't gross. It was kind of cool.",
+      "wordCount": 8
+    },
+    {
+      "id": 155,
+      "index": 155,
+      "character": "ANGELA",
+      "gender": "Female",
+      "line": "Of course I did. He is a really well- known photographer? He shoots for Elle on like, a regular basis? It would have been so majorly stupid of me to turn him down.",
+      "wordCount": 33
+    },
+    {
+      "id": 156,
+      "index": 156,
+      "character": "ANGELA",
+      "gender": "Female",
+      "line": "Hey. That's how things really are. You just don't know, because you're this pampered little suburban chick.",
+      "wordCount": 17
+    },
+    {
+      "id": 157,
+      "index": 157,
+      "character": "ANGELA",
+      "gender": "Female",
+      "line": "Cunt! I am so sick of people taking their insecurities out on me.",
+      "wordCount": 13
+    },
+    {
+      "id": 158,
+      "index": 158,
+      "character": "JANE",
+      "gender": "Female",
+      "line": "Oh my God. That's the pervert who filmed me last night.",
+      "wordCount": 11
+    },
+    {
+      "id": 159,
+      "index": 159,
+      "character": "ANGELA",
+      "gender": "Female",
+      "line": "Him? Jane. No way. He's a total lunatic.",
+      "wordCount": 8
+    },
+    {
+      "id": 160,
+      "index": 160,
+      "character": "JANE",
+      "gender": "Female",
+      "line": "You know him?",
+      "wordCount": 3
+    },
+    {
+      "id": 161,
+      "index": 161,
+      "character": "ANGELA",
+      "gender": "Female",
+      "line": "Yeah. We were on the same lunch shift when I was in ninth grade, and he would always say the most random, weird things, and then one day, he was just like, gone. And then, Connie Cardullo told me he his parents had to put him in a mental institution.",
+      "wordCount": 50
+    },
+    {
+      "id": 162,
+      "index": 162,
+      "character": "JANE",
+      "gender": "Female",
+      "line": "Why? What did he do?",
+      "wordCount": 5
+    },
+    {
+      "id": 163,
+      "index": 163,
+      "character": "ANGELA",
+      "gender": "Female",
+      "line": "What do you mean?",
+      "wordCount": 4
+    },
+    {
+      "id": 164,
+      "index": 164,
+      "character": "JANE",
+      "gender": "Female",
+      "line": "Well, they can't put you away just for saying weird things.",
+      "wordCount": 11
+    },
+    {
+      "id": 165,
+      "index": 165,
+      "character": "ANGELA",
+      "gender": "Female",
+      "line": "You total slut. You've got a crush on him.",
+      "wordCount": 9
+    },
+    {
+      "id": 166,
+      "index": 166,
+      "character": "JANE",
+      "gender": "Female",
+      "line": "What? Please.",
+      "wordCount": 2
+    },
+    {
+      "id": 167,
+      "index": 167,
+      "character": "ANGELA",
+      "gender": "Female",
+      "line": "You were defending him! You love him. You want to have like, ten thousand of his babies.",
+      "wordCount": 17
+    },
+    {
+      "id": 168,
+      "index": 168,
+      "character": "JANE",
+      "gender": "Female",
+      "line": "Shut up.",
+      "wordCount": 2
+    },
+    {
+      "id": 169,
+      "index": 169,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "Hi. My name's Ricky. I just moved next door to you.",
+      "wordCount": 11
+    },
+    {
+      "id": 170,
+      "index": 170,
+      "character": "JANE",
+      "gender": "Female",
+      "line": "I know. I kinda remember this really creepy incident when you were filming me last night?",
+      "wordCount": 16
+    },
+    {
+      "id": 171,
+      "index": 171,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "I didn't mean to scare you. I just think you're interesting.",
+      "wordCount": 11
+    },
+    {
+      "id": 172,
+      "index": 172,
+      "character": "JANE",
+      "gender": "Female",
+      "line": "Thanks, but I really don't need to have some psycho obsessing about me right now.",
+      "wordCount": 15
+    },
+    {
+      "id": 173,
+      "index": 173,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "I'm not obsessing. I'm just curious.",
+      "wordCount": 6
+    },
+    {
+      "id": 174,
+      "index": 174,
+      "character": "ANGELA",
+      "gender": "Female",
+      "line": "What a freak. And why does he dress like a Bible salesman?",
+      "wordCount": 12
+    },
+    {
+      "id": 175,
+      "index": 175,
+      "character": "JANE",
+      "gender": "Female",
+      "line": "He's like, so confident. That can't be real.",
+      "wordCount": 8
+    },
+    {
+      "id": 176,
+      "index": 176,
+      "character": "ANGELA",
+      "gender": "Female",
+      "line": "I don't believe him. I mean, he didn't even like, look at me once.",
+      "wordCount": 14
+    },
+    {
+      "id": 177,
+      "index": 177,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "Hey.",
+      "wordCount": 1
+    },
+    {
+      "id": 178,
+      "index": 178,
+      "character": "BARBARA",
+      "gender": "Female",
+      "line": "I'm sorry, what?",
+      "wordCount": 3
+    },
+    {
+      "id": 179,
+      "index": 179,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "Mom. Nobody said anything.",
+      "wordCount": 4
+    },
+    {
+      "id": 180,
+      "index": 180,
+      "character": "BARBARA",
+      "gender": "Female",
+      "line": "Oh. I'm sorry.",
+      "wordCount": 3
+    },
+    {
+      "id": 181,
+      "index": 181,
+      "character": "CAROLYN",
+      "gender": "Female",
+      "line": "--everyone here is with their spouse or their significant other. How would it look if I showed up with no one?",
+      "wordCount": 21
+    },
+    {
+      "id": 182,
+      "index": 182,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Well, you always end up ignoring me and going off--",
+      "wordCount": 10
+    },
+    {
+      "id": 183,
+      "index": 183,
+      "character": "CAROLYN",
+      "gender": "Female",
+      "line": "Now listen to me. This is an important business function. As you know, my business is selling an image. And part of my job is to live that image--",
+      "wordCount": 29
+    },
+    {
+      "id": 184,
+      "index": 184,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Just say whatever you want to say and spare me the propaganda.",
+      "wordCount": 12
+    },
+    {
+      "id": 185,
+      "index": 185,
+      "character": "CAROLYN",
+      "gender": "Female",
+      "line": "Hi, Shirley! Listen, just do me a favor. Act happy tonight?",
+      "wordCount": 11
+    },
+    {
+      "id": 186,
+      "index": 186,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "I am happy, honey.",
+      "wordCount": 4
+    },
+    {
+      "id": 187,
+      "index": 187,
+      "character": "CAROLYN",
+      "gender": "Female",
+      "line": "Oh! Buddy!",
+      "wordCount": 2
+    },
+    {
+      "id": 188,
+      "index": 188,
+      "character": "CAROLYN",
+      "gender": "Female",
+      "line": "Buddy! Buddy. Hi! Good to see you again.",
+      "wordCount": 8
+    },
+    {
+      "id": 189,
+      "index": 189,
+      "character": "BUDDY",
+      "gender": "Male",
+      "line": "It's so good to see you too, Catherine.",
+      "wordCount": 8
+    },
+    {
+      "id": 190,
+      "index": 190,
+      "character": "CAROLYN",
+      "gender": "Female",
+      "line": "Carolyn.",
+      "wordCount": 1
+    },
+    {
+      "id": 191,
+      "index": 191,
+      "character": "BUDDY",
+      "gender": "Male",
+      "line": "Carolyn! Of course. How are you?",
+      "wordCount": 6
+    },
+    {
+      "id": 192,
+      "index": 192,
+      "character": "CAROLYN",
+      "gender": "Female",
+      "line": "Very well, thank you. Hello, Christy.",
+      "wordCount": 6
+    },
+    {
+      "id": 193,
+      "index": 193,
+      "character": "CHRISTY",
+      "gender": "NA",
+      "line": "Hello.",
+      "wordCount": 1
+    },
+    {
+      "id": 194,
+      "index": 194,
+      "character": "CAROLYN",
+      "gender": "Female",
+      "line": "My husband, Lester--",
+      "wordCount": 3
+    },
+    {
+      "id": 195,
+      "index": 195,
+      "character": "BUDDY",
+      "gender": "Male",
+      "line": "It's a pleasure.",
+      "wordCount": 3
+    },
+    {
+      "id": 196,
+      "index": 196,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Oh, we've met before, actually. This thing last year. Or the Christmas thing at the Sheraton.",
+      "wordCount": 16
+    },
+    {
+      "id": 197,
+      "index": 197,
+      "character": "BUDDY",
+      "gender": "Male",
+      "line": "Oh, yes.",
+      "wordCount": 2
+    },
+    {
+      "id": 198,
+      "index": 198,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "It's okay. I wouldn't remember me either.",
+      "wordCount": 7
+    },
+    {
+      "id": 199,
+      "index": 199,
+      "character": "CAROLYN",
+      "gender": "Female",
+      "line": "Honey. Don't be weird.",
+      "wordCount": 4
+    },
+    {
+      "id": 200,
+      "index": 200,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "All right, honey. I won't be weird. I'll be whatever you want me to be.",
+      "wordCount": 15
+    },
+    {
+      "id": 201,
+      "index": 201,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "We have a very healthy relationship.",
+      "wordCount": 6
+    },
+    {
+      "id": 202,
+      "index": 202,
+      "character": "BUDDY",
+      "gender": "Male",
+      "line": "I see.",
+      "wordCount": 2
+    },
+    {
+      "id": 203,
+      "index": 203,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Well. I don't know about you, but I need a drink.",
+      "wordCount": 11
+    },
+    {
+      "id": 204,
+      "index": 204,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Whoa. Put a little more in there, cowboy.",
+      "wordCount": 8
+    },
+    {
+      "id": 205,
+      "index": 205,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "Excuse me. Don't you live on Robin Hood Trail? The house with the red door?",
+      "wordCount": 15
+    },
+    {
+      "id": 206,
+      "index": 206,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Yeah.",
+      "wordCount": 1
+    },
+    {
+      "id": 207,
+      "index": 207,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "I'm Ricky Fitts. I just moved into the house next to you.",
+      "wordCount": 12
+    },
+    {
+      "id": 208,
+      "index": 208,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Oh. Hi, Ricky Fitts. I'm Lester Burnham.",
+      "wordCount": 7
+    },
+    {
+      "id": 209,
+      "index": 209,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "Hi, Lester Burnham.",
+      "wordCount": 3
+    },
+    {
+      "id": 210,
+      "index": 210,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "Do you party?",
+      "wordCount": 3
+    },
+    {
+      "id": 211,
+      "index": 211,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Excuse me?",
+      "wordCount": 2
+    },
+    {
+      "id": 212,
+      "index": 212,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "Do you get high?",
+      "wordCount": 4
+    },
+    {
+      "id": 213,
+      "index": 213,
+      "character": "CAROLYN",
+      "gender": "Female",
+      "line": "You know, I probably wouldn't even tell you this if I weren't a little tipsy, but... I am in complete awe of you. I mean, your firm is, hands down, the Rolls Royce of local Real Estate firms, and your personal sales record is, is, is very intimidating. You know, I'd love to sit down with you and just pick your brain, if you'd ever be willing. I suppose, technically, I'm the \"competition,\" but... I mean, hey, I don't flatter myself that I'm even in the same league as you...",
+      "wordCount": 90
+    },
+    {
+      "id": 214,
+      "index": 214,
+      "character": "BUDDY",
+      "gender": "Male",
+      "line": "I'd love to.",
+      "wordCount": 3
+    },
+    {
+      "id": 215,
+      "index": 215,
+      "character": "CAROLYN",
+      "gender": "Female",
+      "line": "Really?",
+      "wordCount": 1
+    },
+    {
+      "id": 216,
+      "index": 216,
+      "character": "BUDDY",
+      "gender": "Male",
+      "line": "Absolutely. Call my secretary and have her schedule a lunch.",
+      "wordCount": 10
+    },
+    {
+      "id": 217,
+      "index": 217,
+      "character": "CAROLYN",
+      "gender": "Female",
+      "line": "I'll do that. Thank you.",
+      "wordCount": 5
+    },
+    {
+      "id": 218,
+      "index": 218,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "...did you ever see that movie, where the body's walking around holding its own head? And then the head goes down on that babe?",
+      "wordCount": 24
+    },
+    {
+      "id": 219,
+      "index": 219,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "Re-Animator.",
+      "wordCount": 1
+    },
+    {
+      "id": 220,
+      "index": 220,
+      "character": "CATERING BOSS",
+      "gender": "NA",
+      "line": "Look. I'm not paying you to... ...do whatever it is you're doing out here.",
+      "wordCount": 14
+    },
+    {
+      "id": 221,
+      "index": 221,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "Fine. So don't pay me.",
+      "wordCount": 5
+    },
+    {
+      "id": 222,
+      "index": 222,
+      "character": "CATERING BOSS",
+      "gender": "NA",
+      "line": "Excuse me?",
+      "wordCount": 2
+    },
+    {
+      "id": 223,
+      "index": 223,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "I quit. So you don't have to pay me. Now, leave me alone.",
+      "wordCount": 13
+    },
+    {
+      "id": 224,
+      "index": 224,
+      "character": "CATERING BOSS",
+      "gender": "NA",
+      "line": "Asshole.",
+      "wordCount": 1
+    },
+    {
+      "id": 225,
+      "index": 225,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "I think you just became my personal hero. Doesn't that make you nervous, just quitting your job like that? Well, I guess when you're all of, what? Sixteen?",
+      "wordCount": 28
+    },
+    {
+      "id": 226,
+      "index": 226,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "Eighteen. I just do these gigs as a cover. I have other sources of income. But my dad interferes less in my life when I pretend to be an upstanding young citizen with a respectable job.",
+      "wordCount": 36
+    },
+    {
+      "id": 227,
+      "index": 227,
+      "character": "CAROLYN",
+      "gender": "Female",
+      "line": "Lester?",
+      "wordCount": 1
+    },
+    {
+      "id": 228,
+      "index": 228,
+      "character": "CAROLYN",
+      "gender": "Female",
+      "line": "What are you doing?",
+      "wordCount": 4
+    },
+    {
+      "id": 229,
+      "index": 229,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Honey, this is... Ricky Fitts. This is Ricky Fitts.",
+      "wordCount": 9
+    },
+    {
+      "id": 230,
+      "index": 230,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "I'm Ricky Fitts, I just moved in the house next to you. I go to school with your daughter.",
+      "wordCount": 19
+    },
+    {
+      "id": 231,
+      "index": 231,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "With Jane? Really?",
+      "wordCount": 3
+    },
+    {
+      "id": 232,
+      "index": 232,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "Yeah. Jane.",
+      "wordCount": 2
+    },
+    {
+      "id": 233,
+      "index": 233,
+      "character": "CAROLYN",
+      "gender": "Female",
+      "line": "Hi. I'm ready to go. I'll meet you out front.",
+      "wordCount": 10
+    },
+    {
+      "id": 234,
+      "index": 234,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Uh-oh. I'm in trouble. Nice meeting you, Ricky Fitts. Thanks for the, uh, thing.",
+      "wordCount": 14
+    },
+    {
+      "id": 235,
+      "index": 235,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "Any time.",
+      "wordCount": 2
+    },
+    {
+      "id": 236,
+      "index": 236,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "Lester. If you want any more, you know where I live.",
+      "wordCount": 11
+    },
+    {
+      "id": 237,
+      "index": 237,
+      "character": "JANE",
+      "gender": "Female",
+      "line": "Oh, shit. They're home. Quick, let's go up to my room.",
+      "wordCount": 11
+    },
+    {
+      "id": 238,
+      "index": 238,
+      "character": "ANGELA",
+      "gender": "Female",
+      "line": "I should say hi to your dad. I don't want to be rude.",
+      "wordCount": 13
+    },
+    {
+      "id": 239,
+      "index": 239,
+      "character": "ANGELA",
+      "gender": "Female",
+      "line": "Nice suit.",
+      "wordCount": 2
+    },
+    {
+      "id": 240,
+      "index": 240,
+      "character": "ANGELA",
+      "gender": "Female",
+      "line": "You're looking good, Mr. Burnham.",
+      "wordCount": 5
+    },
+    {
+      "id": 241,
+      "index": 241,
+      "character": "ANGELA",
+      "gender": "Female",
+      "line": "Last time I saw you, you looked kind of wound up. Ooh, is that root beer?",
+      "wordCount": 16
+    },
+    {
+      "id": 242,
+      "index": 242,
+      "character": "ANGELA",
+      "gender": "Female",
+      "line": "I love root beer, don't you?",
+      "wordCount": 6
+    },
+    {
+      "id": 243,
+      "index": 243,
+      "character": "JANE",
+      "gender": "Female",
+      "line": "Mom, you remember Angela.",
+      "wordCount": 4
+    },
+    {
+      "id": 244,
+      "index": 244,
+      "character": "CAROLYN",
+      "gender": "Female",
+      "line": "Yes, of course!",
+      "wordCount": 3
+    },
+    {
+      "id": 245,
+      "index": 245,
+      "character": "JANE",
+      "gender": "Female",
+      "line": "I forgot to tell you, she's spending the night. Is that okay?",
+      "wordCount": 12
+    },
+    {
+      "id": 246,
+      "index": 246,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Sure!",
+      "wordCount": 1
+    },
+    {
+      "id": 247,
+      "index": 247,
+      "character": "JANE",
+      "gender": "Female",
+      "line": "I'm sorry about my dad.",
+      "wordCount": 5
+    },
+    {
+      "id": 248,
+      "index": 248,
+      "character": "ANGELA",
+      "gender": "Female",
+      "line": "Don't be. I think it's funny.",
+      "wordCount": 6
+    },
+    {
+      "id": 249,
+      "index": 249,
+      "character": "JANE",
+      "gender": "Female",
+      "line": "Yeah, to you, he's just another guy who wants to jump your bones. But to me... he's just too embarrassing to live.",
+      "wordCount": 22
+    },
+    {
+      "id": 250,
+      "index": 250,
+      "character": "ANGELA",
+      "gender": "Female",
+      "line": "Your mom's the one who's embarrassing. What a phony.",
+      "wordCount": 9
+    },
+    {
+      "id": 251,
+      "index": 251,
+      "character": "ANGELA",
+      "gender": "Female",
+      "line": "Your dad's actually kind of cute.",
+      "wordCount": 6
+    },
+    {
+      "id": 252,
+      "index": 252,
+      "character": "JANE",
+      "gender": "Female",
+      "line": "Shut up.",
+      "wordCount": 2
+    },
+    {
+      "id": 253,
+      "index": 253,
+      "character": "ANGELA",
+      "gender": "Female",
+      "line": "He is. If he just worked out a little, he'd be hot.",
+      "wordCount": 12
+    },
+    {
+      "id": 254,
+      "index": 254,
+      "character": "JANE",
+      "gender": "Female",
+      "line": "Shut up.",
+      "wordCount": 2
+    },
+    {
+      "id": 255,
+      "index": 255,
+      "character": "ANGELA",
+      "gender": "Female",
+      "line": "Oh, come on. Like you've never sneaked a peek at him in his underwear? I bet he's got a big dick.",
+      "wordCount": 21
+    },
+    {
+      "id": 256,
+      "index": 256,
+      "character": "JANE",
+      "gender": "Female",
+      "line": "You are so grossing me out right now.",
+      "wordCount": 8
+    },
+    {
+      "id": 257,
+      "index": 257,
+      "character": "ANGELA",
+      "gender": "Female",
+      "line": "If he built up his chest and arms, I would totally fuck him.",
+      "wordCount": 13
+    },
+    {
+      "id": 258,
+      "index": 258,
+      "character": "ANGELA",
+      "gender": "Female",
+      "line": "I would! I would suck your dad's big fat dick, and then I would fuck him 'til his eyes rolled back in his head! What was that noise? Jane.",
+      "wordCount": 29
+    },
+    {
+      "id": 259,
+      "index": 259,
+      "character": "ANGELA",
+      "gender": "Female",
+      "line": "I swear I heard something.",
+      "wordCount": 5
+    },
+    {
+      "id": 260,
+      "index": 260,
+      "character": "JANE",
+      "gender": "Female",
+      "line": "Yeah, it was the sound of you being a huge disgusting pig.",
+      "wordCount": 12
+    },
+    {
+      "id": 261,
+      "index": 261,
+      "character": "ANGELA",
+      "gender": "Female",
+      "line": "I'm serious.",
+      "wordCount": 2
+    },
+    {
+      "id": 262,
+      "index": 262,
+      "character": "ANGELA",
+      "gender": "Female",
+      "line": "See?",
+      "wordCount": 1
+    },
+    {
+      "id": 263,
+      "index": 263,
+      "character": "ANGELA",
+      "gender": "Female",
+      "line": "Oh my God. Jane.",
+      "wordCount": 4
+    },
+    {
+      "id": 264,
+      "index": 264,
+      "character": "ANGELA",
+      "gender": "Female",
+      "line": "It's that psycho next door. Jane, what if he worships you? What if he's got a shrine with pictures of you surrounded by dead people's heads and stuff?",
+      "wordCount": 28
+    },
+    {
+      "id": 265,
+      "index": 265,
+      "character": "JANE",
+      "gender": "Female",
+      "line": "Shit. I bet he's filming us right now.",
+      "wordCount": 8
+    },
+    {
+      "id": 266,
+      "index": 266,
+      "character": "ANGELA",
+      "gender": "Female",
+      "line": "Really?",
+      "wordCount": 1
+    },
+    {
+      "id": 267,
+      "index": 267,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Shit. Shit!",
+      "wordCount": 2
+    },
+    {
+      "id": 268,
+      "index": 268,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "Welcome to America's Weirdest Home Videos.",
+      "wordCount": 6
+    },
+    {
+      "id": 269,
+      "index": 269,
+      "character": "COLONEL",
+      "gender": "Male",
+      "line": "Ricky!",
+      "wordCount": 1
+    },
+    {
+      "id": 270,
+      "index": 270,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "Coming, Dad.",
+      "wordCount": 2
+    },
+    {
+      "id": 271,
+      "index": 271,
+      "character": "COLONEL",
+      "gender": "Male",
+      "line": "You know I don't like locked doors in my house, boy.",
+      "wordCount": 11
+    },
+    {
+      "id": 272,
+      "index": 272,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "I'm sorry, I must have locked it by accident. So what's up?",
+      "wordCount": 12
+    },
+    {
+      "id": 273,
+      "index": 273,
+      "character": "COLONEL",
+      "gender": "Male",
+      "line": "I need a urine sample.",
+      "wordCount": 5
+    },
+    {
+      "id": 274,
+      "index": 274,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "Wow. It's been six months already. Can I give it to you in the morning? I just took a whiz.",
+      "wordCount": 20
+    },
+    {
+      "id": 275,
+      "index": 275,
+      "character": "COLONEL",
+      "gender": "Male",
+      "line": "Yeah, I suppose. Well. Good night, son.",
+      "wordCount": 7
+    },
+    {
+      "id": 276,
+      "index": 276,
+      "character": "ANGELA",
+      "gender": "Female",
+      "line": "I've been waiting for you.",
+      "wordCount": 5
+    },
+    {
+      "id": 277,
+      "index": 277,
+      "character": "ANGELA",
+      "gender": "Female",
+      "line": "You've been working out, haven't you? I can tell.",
+      "wordCount": 9
+    },
+    {
+      "id": 278,
+      "index": 278,
+      "character": "ANGELA",
+      "gender": "Female",
+      "line": "I was hoping you'd give me a bath... I'm very, very dirty.",
+      "wordCount": 12
+    },
+    {
+      "id": 279,
+      "index": 279,
+      "character": "CAROLYN",
+      "gender": "Female",
+      "line": "What are you doing?",
+      "wordCount": 4
+    },
+    {
+      "id": 280,
+      "index": 280,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Nothing.",
+      "wordCount": 1
+    },
+    {
+      "id": 281,
+      "index": 281,
+      "character": "CAROLYN",
+      "gender": "Female",
+      "line": "You were masturbating.",
+      "wordCount": 3
+    },
+    {
+      "id": 282,
+      "index": 282,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "I was not.",
+      "wordCount": 3
+    },
+    {
+      "id": 283,
+      "index": 283,
+      "character": "CAROLYN",
+      "gender": "Female",
+      "line": "Yes, you were.",
+      "wordCount": 3
+    },
+    {
+      "id": 284,
+      "index": 284,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "All right, so shoot me. I was whacking off.",
+      "wordCount": 9
+    },
+    {
+      "id": 285,
+      "index": 285,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "That's right. I was choking the bishop. Shaving the carrot. Saying hi to my monster.",
+      "wordCount": 15
+    },
+    {
+      "id": 286,
+      "index": 286,
+      "character": "CAROLYN",
+      "gender": "Female",
+      "line": "That's disgusting.",
+      "wordCount": 2
+    },
+    {
+      "id": 287,
+      "index": 287,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Well, excuse me, but I still have blood pumping through my veins!",
+      "wordCount": 12
+    },
+    {
+      "id": 288,
+      "index": 288,
+      "character": "CAROLYN",
+      "gender": "Female",
+      "line": "So do I!",
+      "wordCount": 3
+    },
+    {
+      "id": 289,
+      "index": 289,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Really? I'm the only one who seems to be doing anything about it.",
+      "wordCount": 13
+    },
+    {
+      "id": 290,
+      "index": 290,
+      "character": "CAROLYN",
+      "gender": "Female",
+      "line": "Lester. I refuse to live like this. This is not a marriage.",
+      "wordCount": 12
+    },
+    {
+      "id": 291,
+      "index": 291,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "This hasn't been a marriage for years. But you were happy as long as I kept my mouth shut. Well, guess what? I've changed. And the new me whacks off when he feels horny, because you're obviously not going to help me out in that department.",
+      "wordCount": 46
+    },
+    {
+      "id": 292,
+      "index": 292,
+      "character": "CAROLYN",
+      "gender": "Female",
+      "line": "Oh. I see. You think you're the only one who's sexually frustrated?",
+      "wordCount": 12
+    },
+    {
+      "id": 293,
+      "index": 293,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "I'm not? Well then, come on, baby! I'm ready.",
+      "wordCount": 9
+    },
+    {
+      "id": 294,
+      "index": 294,
+      "character": "CAROLYN",
+      "gender": "Female",
+      "line": "Do not mess with me, mister, or I will divorce you so fast it'll make your head spin!",
+      "wordCount": 18
+    },
+    {
+      "id": 295,
+      "index": 295,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "On what grounds? I'm not a drunk, I don't fuck other women, I don't mistreat you, I've never hit you, or even tried to touch you since you made it so abundantly clear just how unnecessary you consider me to be. But. I did support you while you got your license. And some people might think that entitles me to half of what's yours.",
+      "wordCount": 64
+    },
+    {
+      "id": 296,
+      "index": 296,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Turn out the light when you come to bed, okay?",
+      "wordCount": 10
+    },
+    {
+      "id": 297,
+      "index": 297,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "It's a great thing when you realize you still have the ability to surprise yourself. Makes you wonder what else you can do that you've forgotten about.",
+      "wordCount": 27
+    },
+    {
+      "id": 298,
+      "index": 298,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Hey! You guys!",
+      "wordCount": 3
+    },
+    {
+      "id": 299,
+      "index": 299,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Well, I just started.",
+      "wordCount": 4
+    },
+    {
+      "id": 300,
+      "index": 300,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "I figured you guys might be able to give me some pointers. I need to shape up. Fast.",
+      "wordCount": 18
+    },
+    {
+      "id": 301,
+      "index": 301,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "I want to look good naked.",
+      "wordCount": 6
+    },
+    {
+      "id": 302,
+      "index": 302,
+      "character": "COLONEL",
+      "gender": "Male",
+      "line": "What is this, the fucking gay pride parade?",
+      "wordCount": 8
+    },
+    {
+      "id": 303,
+      "index": 303,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Hey! Yo! Ricky! My entire life is passing before my eyes, and those two have barely broken a sweat.",
+      "wordCount": 19
+    },
+    {
+      "id": 304,
+      "index": 304,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Sorry, hi. Lester Burnham, I live next door. We haven't met.",
+      "wordCount": 11
+    },
+    {
+      "id": 305,
+      "index": 305,
+      "character": "COLONEL",
+      "gender": "Male",
+      "line": "COLONEL Frank Fitts, U.S. Marine Corps.",
+      "wordCount": 6
+    },
+    {
+      "id": 306,
+      "index": 306,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Whoa. Welcome to the neighborhood, sir.",
+      "wordCount": 6
+    },
+    {
+      "id": 307,
+      "index": 307,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "So, Ricky, uh, I was thinking about the, uh... I was gonna... the movie we talked about...",
+      "wordCount": 17
+    },
+    {
+      "id": 308,
+      "index": 308,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "Re-Animator.",
+      "wordCount": 1
+    },
+    {
+      "id": 309,
+      "index": 309,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Yeah!",
+      "wordCount": 1
+    },
+    {
+      "id": 310,
+      "index": 310,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "You want to borrow it? Okay, it's up in my room. Come on.",
+      "wordCount": 13
+    },
+    {
+      "id": 311,
+      "index": 311,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "Can you hold this for a sec?",
+      "wordCount": 7
+    },
+    {
+      "id": 312,
+      "index": 312,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Sure.",
+      "wordCount": 1
+    },
+    {
+      "id": 313,
+      "index": 313,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "I don't think my dad would try to come in when somebody else is here, but you never know.",
+      "wordCount": 19
+    },
+    {
+      "id": 314,
+      "index": 314,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "What is this?",
+      "wordCount": 3
+    },
+    {
+      "id": 315,
+      "index": 315,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "Urine. I have to take a drug test every six months to make sure I'm clean.",
+      "wordCount": 16
+    },
+    {
+      "id": 316,
+      "index": 316,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Are you kidding? You just smoked with me last night.",
+      "wordCount": 10
+    },
+    {
+      "id": 317,
+      "index": 317,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "It's not mine. One of my clients is a nurse in a pediatrician's office. I cut her a deal, she keeps me in clean piss.",
+      "wordCount": 25
+    },
+    {
+      "id": 318,
+      "index": 318,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "You like Pink Floyd?",
+      "wordCount": 4
+    },
+    {
+      "id": 319,
+      "index": 319,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "I like a lot of music.",
+      "wordCount": 6
+    },
+    {
+      "id": 320,
+      "index": 320,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Man, I haven't listened to this album in years.",
+      "wordCount": 9
+    },
+    {
+      "id": 321,
+      "index": 321,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "How much do you want?",
+      "wordCount": 5
+    },
+    {
+      "id": 322,
+      "index": 322,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "I don't know, it's been a while. How much is an ounce?",
+      "wordCount": 12
+    },
+    {
+      "id": 323,
+      "index": 323,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "Well, this is totally decent, and it's three hundred.",
+      "wordCount": 9
+    },
+    {
+      "id": 324,
+      "index": 324,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Wow.",
+      "wordCount": 1
+    },
+    {
+      "id": 325,
+      "index": 325,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "But this shit is top of the line. It's called G-13. Genetically engineered by the U.S. Government. Extremely potent. But a completely mellow high, no paranoia.",
+      "wordCount": 26
+    },
+    {
+      "id": 326,
+      "index": 326,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Is that what we smoked last night?",
+      "wordCount": 7
+    },
+    {
+      "id": 327,
+      "index": 327,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "This is all I ever smoke.",
+      "wordCount": 6
+    },
+    {
+      "id": 328,
+      "index": 328,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "How much?",
+      "wordCount": 2
+    },
+    {
+      "id": 329,
+      "index": 329,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "Two grand.",
+      "wordCount": 2
+    },
+    {
+      "id": 330,
+      "index": 330,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Jesus. Things have changed since 1973.",
+      "wordCount": 6
+    },
+    {
+      "id": 331,
+      "index": 331,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "You don't have to pay now. I know you're good for it.",
+      "wordCount": 12
+    },
+    {
+      "id": 332,
+      "index": 332,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Thanks.",
+      "wordCount": 1
+    },
+    {
+      "id": 333,
+      "index": 333,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "There's a card in there with my beeper number, call me anytime day or night. And I only accept cash.",
+      "wordCount": 20
+    },
+    {
+      "id": 334,
+      "index": 334,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Well, now I know how you can afford all this equipment. When I was your age, I flipped burgers all summer just to be able to buy an eight track.",
+      "wordCount": 30
+    },
+    {
+      "id": 335,
+      "index": 335,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "That sucks.",
+      "wordCount": 2
+    },
+    {
+      "id": 336,
+      "index": 336,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "No actually, it was great. All I did was party and get laid. I had my whole life ahead of me...",
+      "wordCount": 21
+    },
+    {
+      "id": 337,
+      "index": 337,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "My dad thinks I pay for all this with catering jobs. Never underestimate the power of denial.",
+      "wordCount": 17
+    },
+    {
+      "id": 338,
+      "index": 338,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Uh-oh, mom's mad.",
+      "wordCount": 3
+    },
+    {
+      "id": 339,
+      "index": 339,
+      "character": "CAROLYN",
+      "gender": "Female",
+      "line": "What the hell do you think you're doing?",
+      "wordCount": 8
+    },
+    {
+      "id": 340,
+      "index": 340,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Bench presses. I'm going to wail on my pecs, and then I'm going to do my back.",
+      "wordCount": 17
+    },
+    {
+      "id": 341,
+      "index": 341,
+      "character": "CAROLYN",
+      "gender": "Female",
+      "line": "I see you're smoking pot now. I'm so glad. I think using illegal psychotropic substances is a very positive example to set for our daughter.",
+      "wordCount": 25
+    },
+    {
+      "id": 342,
+      "index": 342,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "You're one to talk, you bloodless, money- grubbing freak.",
+      "wordCount": 9
+    },
+    {
+      "id": 343,
+      "index": 343,
+      "character": "CAROLYN",
+      "gender": "Female",
+      "line": "Lester. You have such hostility in you!",
+      "wordCount": 7
+    },
+    {
+      "id": 344,
+      "index": 344,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Do you mind? I'm trying to work out here. Unless you want to spot me.",
+      "wordCount": 15
+    },
+    {
+      "id": 345,
+      "index": 345,
+      "character": "CAROLYN",
+      "gender": "Female",
+      "line": "You will not get away with this. You can be sure of that!",
+      "wordCount": 13
+    },
+    {
+      "id": 346,
+      "index": 346,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "That's. What. You. Think.",
+      "wordCount": 4
+    },
+    {
+      "id": 347,
+      "index": 347,
+      "character": "BRAD",
+      "gender": "Male",
+      "line": "\"...my job consists of basically masking my contempt for the assholes in charge, and, at least once a day, retiring to the men's room so I can jerk off, while I fantasize about a life that doesn't so closely resemble hell.\" Well, you obviously have no interest in saving yourself.",
+      "wordCount": 50
+    },
+    {
+      "id": 348,
+      "index": 348,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Brad, for fourteen years I've been a whore for the advertising industry. The only way I could save myself now is if I start firebombing.",
+      "wordCount": 25
+    },
+    {
+      "id": 349,
+      "index": 349,
+      "character": "BRAD",
+      "gender": "Male",
+      "line": "Whatever. Management wants you gone by the end of the day.",
+      "wordCount": 11
+    },
+    {
+      "id": 350,
+      "index": 350,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Well, just what sort of severance package is \"management\" prepared to offer me?",
+      "wordCount": 13
+    },
+    {
+      "id": 351,
+      "index": 351,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Considering the information I have about our editorial director buying pussy with company money.",
+      "wordCount": 14
+    },
+    {
+      "id": 352,
+      "index": 352,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Which I'm sure would interest the I.R.S., since it technically constitutes fraud. And I'm sure that some of our advertisers and rival publications might like to know about it as well. Not to mention, Craig's wife.",
+      "wordCount": 36
+    },
+    {
+      "id": 353,
+      "index": 353,
+      "character": "BRAD",
+      "gender": "Male",
+      "line": "What do you want?",
+      "wordCount": 4
+    },
+    {
+      "id": 354,
+      "index": 354,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "One year's salary, with benefits.",
+      "wordCount": 5
+    },
+    {
+      "id": 355,
+      "index": 355,
+      "character": "BRAD",
+      "gender": "Male",
+      "line": "That's not going to happen.",
+      "wordCount": 5
+    },
+    {
+      "id": 356,
+      "index": 356,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Well, what do you say I throw in a little sexual harassment charge to boot?",
+      "wordCount": 15
+    },
+    {
+      "id": 357,
+      "index": 357,
+      "character": "BRAD",
+      "gender": "Male",
+      "line": "Against who?",
+      "wordCount": 2
+    },
+    {
+      "id": 358,
+      "index": 358,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Against you.",
+      "wordCount": 2
+    },
+    {
+      "id": 359,
+      "index": 359,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Can you prove you didn't offer to save my job if I'd let you blow me?",
+      "wordCount": 16
+    },
+    {
+      "id": 360,
+      "index": 360,
+      "character": "BRAD",
+      "gender": "Male",
+      "line": "Man. You are one twisted fuck.",
+      "wordCount": 6
+    },
+    {
+      "id": 361,
+      "index": 361,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Nope. I'm just an ordinary guy with nothing to lose.",
+      "wordCount": 10
+    },
+    {
+      "id": 362,
+      "index": 362,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Yeah!",
+      "wordCount": 1
+    },
+    {
+      "id": 363,
+      "index": 363,
+      "character": "BUDDY",
+      "gender": "Male",
+      "line": "Carolyn.",
+      "wordCount": 1
+    },
+    {
+      "id": 364,
+      "index": 364,
+      "character": "CAROLYN",
+      "gender": "Female",
+      "line": "Buddy.",
+      "wordCount": 1
+    },
+    {
+      "id": 365,
+      "index": 365,
+      "character": "BUDDY",
+      "gender": "Male",
+      "line": "I'm so sorry I kept you waiting. Christy left for New York this morning, and... let's just say things were very hectic around the house.",
+      "wordCount": 25
+    },
+    {
+      "id": 366,
+      "index": 366,
+      "character": "CAROLYN",
+      "gender": "Female",
+      "line": "What's she doing in New York?",
+      "wordCount": 6
+    },
+    {
+      "id": 367,
+      "index": 367,
+      "character": "BUDDY",
+      "gender": "Male",
+      "line": "She's moving there. Yes. We are splitting up.",
+      "wordCount": 8
+    },
+    {
+      "id": 368,
+      "index": 368,
+      "character": "CAROLYN",
+      "gender": "Female",
+      "line": "Buddy. I'm so sorry.",
+      "wordCount": 4
+    },
+    {
+      "id": 369,
+      "index": 369,
+      "character": "BUDDY",
+      "gender": "Male",
+      "line": "Yes, according to her, I'm too focused on my career. As if being driven to succeed is some sort of character flaw. Well, she certainly knew how to take advantage of the lifestyle my success afforded her. Oh. Wow. Ah, it's for the best.",
+      "wordCount": 44
+    },
+    {
+      "id": 370,
+      "index": 370,
+      "character": "CAROLYN",
+      "gender": "Female",
+      "line": "When I saw you two at the party the other night, you seemed perfectly happy.",
+      "wordCount": 15
+    },
+    {
+      "id": 371,
+      "index": 371,
+      "character": "BUDDY",
+      "gender": "Male",
+      "line": "Well, call me crazy, but it is my philosophy that in order to be successful, one must project an image of success, at all times.",
+      "wordCount": 25
+    },
+    {
+      "id": 372,
+      "index": 372,
+      "character": "ANGELA",
+      "gender": "Female",
+      "line": "What are you doing?",
+      "wordCount": 4
+    },
+    {
+      "id": 373,
+      "index": 373,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "I was filming this dead bird.",
+      "wordCount": 6
+    },
+    {
+      "id": 374,
+      "index": 374,
+      "character": "ANGELA",
+      "gender": "Female",
+      "line": "Why?",
+      "wordCount": 1
+    },
+    {
+      "id": 375,
+      "index": 375,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "Because it's beautiful.",
+      "wordCount": 3
+    },
+    {
+      "id": 376,
+      "index": 376,
+      "character": "ANGELA",
+      "gender": "Female",
+      "line": "I think maybe you forgot your medication today, mental boy.",
+      "wordCount": 10
+    },
+    {
+      "id": 377,
+      "index": 377,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "Hi, Jane.",
+      "wordCount": 2
+    },
+    {
+      "id": 378,
+      "index": 378,
+      "character": "JANE",
+      "gender": "Female",
+      "line": "Look. I want you to stop filming me.",
+      "wordCount": 8
+    },
+    {
+      "id": 379,
+      "index": 379,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "Okay.",
+      "wordCount": 1
+    },
+    {
+      "id": 380,
+      "index": 380,
+      "character": "ANGELA",
+      "gender": "Female",
+      "line": "Well, whatever. This is boring. Let's go.",
+      "wordCount": 7
+    },
+    {
+      "id": 381,
+      "index": 381,
+      "character": "JANE",
+      "gender": "Female",
+      "line": "Do you need a ride?",
+      "wordCount": 5
+    },
+    {
+      "id": 382,
+      "index": 382,
+      "character": "ANGELA",
+      "gender": "Female",
+      "line": "Are you crazy? I don't want to end up hacked to pieces in a dumpster somewhere.",
+      "wordCount": 16
+    },
+    {
+      "id": 383,
+      "index": 383,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "It's okay. I'll walk. But thanks.",
+      "wordCount": 6
+    },
+    {
+      "id": 384,
+      "index": 384,
+      "character": "ANGELA",
+      "gender": "Female",
+      "line": "Yeah, see? He doesn't want to go anyway. C'mon, let's go.",
+      "wordCount": 11
+    },
+    {
+      "id": 385,
+      "index": 385,
+      "character": "JANE",
+      "gender": "Female",
+      "line": "I think I'm going to walk, too.",
+      "wordCount": 7
+    },
+    {
+      "id": 386,
+      "index": 386,
+      "character": "ANGELA",
+      "gender": "Female",
+      "line": "What? Jane, that's like, almost a mile.",
+      "wordCount": 7
+    },
+    {
+      "id": 387,
+      "index": 387,
+      "character": "CAROLYN",
+      "gender": "Female",
+      "line": "Yes! Oh, God! I love it!",
+      "wordCount": 6
+    },
+    {
+      "id": 388,
+      "index": 388,
+      "character": "BUDDY",
+      "gender": "Male",
+      "line": "You like getting nailed by the king?",
+      "wordCount": 7
+    },
+    {
+      "id": 389,
+      "index": 389,
+      "character": "CAROLYN",
+      "gender": "Female",
+      "line": "Oh yes! I love it! Fuck me, your majesty!",
+      "wordCount": 9
+    },
+    {
+      "id": 390,
+      "index": 390,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "AMERICAN WOMAN, STAY AWAY FROM ME... AMERICAN WOMAN, MAMA LET ME BE... DON'T COME A HANGIN' AROUND MY DOOR... I DON'T WANT TO SEE YOUR FACE NO MORE...",
+      "wordCount": 28
+    },
+    {
+      "id": 391,
+      "index": 391,
+      "character": "DRIVE-THRU GIRL",
+      "gender": "NA",
+      "line": "Smile you're at Mr. Smiley's.",
+      "wordCount": 5
+    },
+    {
+      "id": 392,
+      "index": 392,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "What?",
+      "wordCount": 1
+    },
+    {
+      "id": 393,
+      "index": 393,
+      "character": "DRIVE-THRU GIRL",
+      "gender": "NA",
+      "line": "Would you like to try our new bacon and egg fajita just a dollar twenty-nine for a limited time only.",
+      "wordCount": 20
+    },
+    {
+      "id": 394,
+      "index": 394,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Uh... no. But thank you. I'll have a Big Barn Burger, Smiley fries, and an orange soda.",
+      "wordCount": 17
+    },
+    {
+      "id": 395,
+      "index": 395,
+      "character": "DRIVE-THRU GIRL",
+      "gender": "NA",
+      "line": "Please drive up to the window, thank you.",
+      "wordCount": 8
+    },
+    {
+      "id": 396,
+      "index": 396,
+      "character": "DRIVE-THRU GIRL",
+      "gender": "NA",
+      "line": "Smile, you're at Mr. Smiley's, that'll be four eighty-nine, please.",
+      "wordCount": 10
+    },
+    {
+      "id": 397,
+      "index": 397,
+      "character": "COUNTER GIRL",
+      "gender": "NA",
+      "line": "Would you like some Smiley Sauce?",
+      "wordCount": 6
+    },
+    {
+      "id": 398,
+      "index": 398,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "No. No, actually... I'd like to fill out an application.",
+      "wordCount": 10
+    },
+    {
+      "id": 399,
+      "index": 399,
+      "character": "COUNTER GIRL",
+      "gender": "NA",
+      "line": "There's not jobs for manager, it's just for counter.",
+      "wordCount": 9
+    },
+    {
+      "id": 400,
+      "index": 400,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Good. I'm looking for the least possible amount of responsibility.",
+      "wordCount": 10
+    },
+    {
+      "id": 401,
+      "index": 401,
+      "character": "MANAGER",
+      "gender": "NA",
+      "line": "I don't think you'd fit in here.",
+      "wordCount": 7
+    },
+    {
+      "id": 402,
+      "index": 402,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "I have fast food experience.",
+      "wordCount": 5
+    },
+    {
+      "id": 403,
+      "index": 403,
+      "character": "MANAGER",
+      "gender": "NA",
+      "line": "Yeah, like twenty years ago.",
+      "wordCount": 5
+    },
+    {
+      "id": 404,
+      "index": 404,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Well, I'm sure there have been amazing technological advances in the industry, but surely you have some sort of training process. It seems unfair to presume I won't be able to learn.",
+      "wordCount": 32
+    },
+    {
+      "id": 405,
+      "index": 405,
+      "character": "CAROLYN",
+      "gender": "Female",
+      "line": "That was exactly what I needed. The royal treatment, so to speak.",
+      "wordCount": 12
+    },
+    {
+      "id": 406,
+      "index": 406,
+      "character": "CAROLYN",
+      "gender": "Female",
+      "line": "I was so stressed out.",
+      "wordCount": 5
+    },
+    {
+      "id": 407,
+      "index": 407,
+      "character": "BUDDY",
+      "gender": "Male",
+      "line": "Know what I do when I feel like that?",
+      "wordCount": 9
+    },
+    {
+      "id": 408,
+      "index": 408,
+      "character": "CAROLYN",
+      "gender": "Female",
+      "line": "What?",
+      "wordCount": 1
+    },
+    {
+      "id": 409,
+      "index": 409,
+      "character": "BUDDY",
+      "gender": "Male",
+      "line": "I fire a gun.",
+      "wordCount": 4
+    },
+    {
+      "id": 410,
+      "index": 410,
+      "character": "CAROLYN",
+      "gender": "Female",
+      "line": "Really.",
+      "wordCount": 1
+    },
+    {
+      "id": 411,
+      "index": 411,
+      "character": "BUDDY",
+      "gender": "Male",
+      "line": "Oh yeah, I go to this little firing range downtown, and I just pop off a few rounds.",
+      "wordCount": 18
+    },
+    {
+      "id": 412,
+      "index": 412,
+      "character": "CAROLYN",
+      "gender": "Female",
+      "line": "I've never fired a gun before.",
+      "wordCount": 6
+    },
+    {
+      "id": 413,
+      "index": 413,
+      "character": "BUDDY",
+      "gender": "Male",
+      "line": "Oh, you've gotta try it. Nothing makes you feel more powerful. Well, almost nothing.",
+      "wordCount": 14
+    },
+    {
+      "id": 414,
+      "index": 414,
+      "character": "JANE",
+      "gender": "Female",
+      "line": "So how do you like your new house?",
+      "wordCount": 8
+    },
+    {
+      "id": 415,
+      "index": 415,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "I like it.",
+      "wordCount": 3
+    },
+    {
+      "id": 416,
+      "index": 416,
+      "character": "JANE",
+      "gender": "Female",
+      "line": "The people who used to live there fed these stray cats, so they were always around, and it drove my mother nuts. And then she cut down their tree.",
+      "wordCount": 29
+    },
+    {
+      "id": 417,
+      "index": 417,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "Have you ever known anybody who died?",
+      "wordCount": 7
+    },
+    {
+      "id": 418,
+      "index": 418,
+      "character": "JANE",
+      "gender": "Female",
+      "line": "No. Have you?",
+      "wordCount": 3
+    },
+    {
+      "id": 419,
+      "index": 419,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "No, but I did see this homeless woman who froze to death once. Just laying there on the sidewalk. She looked really sad.",
+      "wordCount": 23
+    },
+    {
+      "id": 420,
+      "index": 420,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "I got that homeless woman on video.",
+      "wordCount": 7
+    },
+    {
+      "id": 421,
+      "index": 421,
+      "character": "JANE",
+      "gender": "Female",
+      "line": "Why would you film that?",
+      "wordCount": 5
+    },
+    {
+      "id": 422,
+      "index": 422,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "Because it was amazing.",
+      "wordCount": 4
+    },
+    {
+      "id": 423,
+      "index": 423,
+      "character": "JANE",
+      "gender": "Female",
+      "line": "What was amazing about it?",
+      "wordCount": 5
+    },
+    {
+      "id": 424,
+      "index": 424,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "When you see something like that, it's like God is looking right at you, just for a second. And if you're careful, you can look right back.",
+      "wordCount": 27
+    },
+    {
+      "id": 425,
+      "index": 425,
+      "character": "JANE",
+      "gender": "Female",
+      "line": "And what do you see?",
+      "wordCount": 5
+    },
+    {
+      "id": 426,
+      "index": 426,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "Beauty.",
+      "wordCount": 1
+    },
+    {
+      "id": 427,
+      "index": 427,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "Mom, I want you to meet somebody. Mom.",
+      "wordCount": 8
+    },
+    {
+      "id": 428,
+      "index": 428,
+      "character": "BARBARA",
+      "gender": "Female",
+      "line": "Yes?",
+      "wordCount": 1
+    },
+    {
+      "id": 429,
+      "index": 429,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "I want you to meet somebody. This is Jane.",
+      "wordCount": 9
+    },
+    {
+      "id": 430,
+      "index": 430,
+      "character": "JANE",
+      "gender": "Female",
+      "line": "Hi.",
+      "wordCount": 1
+    },
+    {
+      "id": 431,
+      "index": 431,
+      "character": "BARBARA",
+      "gender": "Female",
+      "line": "Oh, my. I apologize for the way things look around here.",
+      "wordCount": 11
+    },
+    {
+      "id": 432,
+      "index": 432,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "This is where my dad hides out.",
+      "wordCount": 7
+    },
+    {
+      "id": 433,
+      "index": 433,
+      "character": "JANE",
+      "gender": "Female",
+      "line": "I take it he's got a thing for guns.",
+      "wordCount": 9
+    },
+    {
+      "id": 434,
+      "index": 434,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "You got to see this one thing...",
+      "wordCount": 7
+    },
+    {
+      "id": 435,
+      "index": 435,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "My dad would kill me if he knew I was in here.",
+      "wordCount": 12
+    },
+    {
+      "id": 436,
+      "index": 436,
+      "character": "JANE",
+      "gender": "Female",
+      "line": "Did you steal his keys?",
+      "wordCount": 5
+    },
+    {
+      "id": 437,
+      "index": 437,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "No. One of my clients is a locksmith. He was short on cash one night, so I let him pay me in trade.",
+      "wordCount": 23
+    },
+    {
+      "id": 438,
+      "index": 438,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "Turn it over.",
+      "wordCount": 3
+    },
+    {
+      "id": 439,
+      "index": 439,
+      "character": "JANE",
+      "gender": "Female",
+      "line": "Oh my God.",
+      "wordCount": 3
+    },
+    {
+      "id": 440,
+      "index": 440,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "It's like official state china of the Third Reich. There's a whole subculture of people who collect this Nazi shit. But my dad just has this one thing.",
+      "wordCount": 28
+    },
+    {
+      "id": 441,
+      "index": 441,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "What's wrong?",
+      "wordCount": 2
+    },
+    {
+      "id": 442,
+      "index": 442,
+      "character": "JANE",
+      "gender": "Female",
+      "line": "Nothing.",
+      "wordCount": 1
+    },
+    {
+      "id": 443,
+      "index": 443,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "No, you're scared of me.",
+      "wordCount": 5
+    },
+    {
+      "id": 444,
+      "index": 444,
+      "character": "JANE",
+      "gender": "Female",
+      "line": "No I'm not.",
+      "wordCount": 3
+    },
+    {
+      "id": 445,
+      "index": 445,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "You want to see the most beautiful thing I've ever filmed?",
+      "wordCount": 11
+    },
+    {
+      "id": 446,
+      "index": 446,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "It was one of those days when it's a minute away from snowing. And there's this electricity in the air, you can almost hear it, right? And this bag was just... dancing with me. Like a little kid begging me to play with it. For fifteen minutes. That's the day I realized that there was this entire life behind things, and this incredibly benevolent force that wanted me to know there was no reason to be afraid. Ever.",
+      "wordCount": 78
+    },
+    {
+      "id": 447,
+      "index": 447,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "Video's a poor excuse, I know. But it helps me remember... I need to remember...",
+      "wordCount": 15
+    },
+    {
+      "id": 448,
+      "index": 448,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "Sometimes there's so much beauty in the world I feel like I can't take it... and my heart is going to cave in.",
+      "wordCount": 23
+    },
+    {
+      "id": 449,
+      "index": 449,
+      "character": "JANE",
+      "gender": "Female",
+      "line": "Oh my God. What time is it?",
+      "wordCount": 7
+    },
+    {
+      "id": 450,
+      "index": 450,
+      "character": "JANE",
+      "gender": "Female",
+      "line": "Sorry I'm late.",
+      "wordCount": 3
+    },
+    {
+      "id": 451,
+      "index": 451,
+      "character": "CAROLYN",
+      "gender": "Female",
+      "line": "No, no, that's quite all right, dear. Your father and I were just discussing his day at work. Why don't you tell our daughter about it, honey?",
+      "wordCount": 27
+    },
+    {
+      "id": 452,
+      "index": 452,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Janie, today I quit my job. And then I told my boss to fuck himself, and then I blackmailed him for almost sixty thousand dollars. Pass the asparagus.",
+      "wordCount": 28
+    },
+    {
+      "id": 453,
+      "index": 453,
+      "character": "CAROLYN",
+      "gender": "Female",
+      "line": "Your father seems to think this kind of behavior is something to be proud of.",
+      "wordCount": 15
+    },
+    {
+      "id": 454,
+      "index": 454,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "And your mother seems to prefer I go through life like a fucking prisoner while she keeps my dick in a mason jar under the sink.",
+      "wordCount": 26
+    },
+    {
+      "id": 455,
+      "index": 455,
+      "character": "CAROLYN",
+      "gender": "Female",
+      "line": "How dare you speak to me that way in front of her? And I marvel that you can be so contemptuous of me, on the same day that you lose your job!",
+      "wordCount": 32
+    },
+    {
+      "id": 456,
+      "index": 456,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Lose it? I didn't lose it. It's not like, \"Oops, where'd my job go?\" I quit. Someone pass me the asparagus.",
+      "wordCount": 21
+    },
+    {
+      "id": 457,
+      "index": 457,
+      "character": "CAROLYN",
+      "gender": "Female",
+      "line": "Oh! Oh! And I want to thank you for putting me under the added pressure of being the sole breadwinner now--",
+      "wordCount": 21
+    },
+    {
+      "id": 458,
+      "index": 458,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "I already have a job.",
+      "wordCount": 5
+    },
+    {
+      "id": 459,
+      "index": 459,
+      "character": "CAROLYN",
+      "gender": "Female",
+      "line": "No, no, don't give a second thought as to who's going to pay the mortgage. We'll just leave it all up to Carolyn. You mean, you're going to take care of everything now, Carolyn? Yes. I don't mind. I really don't. You mean, everything? You don't mind having the sole responsibility, your husband feels he can just quit his job--",
+      "wordCount": 60
+    },
+    {
+      "id": 460,
+      "index": 460,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Will someone pass me the fucking asparagus?",
+      "wordCount": 7
+    },
+    {
+      "id": 461,
+      "index": 461,
+      "character": "JANE",
+      "gender": "Female",
+      "line": "Okay, I'm not going to be a part of this--",
+      "wordCount": 10
+    },
+    {
+      "id": 462,
+      "index": 462,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Sit down.",
+      "wordCount": 2
+    },
+    {
+      "id": 463,
+      "index": 463,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "I'm sick and tired of being treated like I don't exist. You two do whatever you want to do whenever you want to do it and I don't complain. All I want is the same courtesy--",
+      "wordCount": 36
+    },
+    {
+      "id": 464,
+      "index": 464,
+      "character": "CAROLYN",
+      "gender": "Female",
+      "line": "Oh, you don't complain? Oh, excuse me. Excuse me. I must be psychotic then, if you don't complain. What is this?! Am I locked away in a padded cell somewhere, hallucinating? That's the only explanation I can think of--",
+      "wordCount": 39
+    },
+    {
+      "id": 465,
+      "index": 465,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Don't interrupt me, honey.",
+      "wordCount": 4
+    },
+    {
+      "id": 466,
+      "index": 466,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Oh, and another thing. From now on, we're going to alternate our dinner music. Because frankly, and I don't think I'm alone here, I'm really tired of this Lawrence Welk shit.",
+      "wordCount": 31
+    },
+    {
+      "id": 467,
+      "index": 467,
+      "character": "JANE",
+      "gender": "Female",
+      "line": "Go. Away.",
+      "wordCount": 2
+    },
+    {
+      "id": 468,
+      "index": 468,
+      "character": "CAROLYN",
+      "gender": "Female",
+      "line": "Honey, please let me in.",
+      "wordCount": 5
+    },
+    {
+      "id": 469,
+      "index": 469,
+      "character": "CAROLYN",
+      "gender": "Female",
+      "line": "I wish that you hadn't witnessed that awful scene tonight. But in a way, I'm glad.",
+      "wordCount": 16
+    },
+    {
+      "id": 470,
+      "index": 470,
+      "character": "JANE",
+      "gender": "Female",
+      "line": "Why, so I could see what freaks you and Dad really are?",
+      "wordCount": 12
+    },
+    {
+      "id": 471,
+      "index": 471,
+      "character": "CAROLYN",
+      "gender": "Female",
+      "line": "Me?",
+      "wordCount": 1
+    },
+    {
+      "id": 472,
+      "index": 472,
+      "character": "JANE",
+      "gender": "Female",
+      "line": "Aw, Christ, Mom.",
+      "wordCount": 3
+    },
+    {
+      "id": 473,
+      "index": 473,
+      "character": "CAROLYN",
+      "gender": "Female",
+      "line": "No, I'm glad because you're old enough now to learn the most important lesson in life: you cannot count on anyone except yourself. You cannot count on anyone except yourself. It's sad, but true, and the sooner you learn it, the better.",
+      "wordCount": 42
+    },
+    {
+      "id": 474,
+      "index": 474,
+      "character": "JANE",
+      "gender": "Female",
+      "line": "Look, Mom, I really don't feel like having a Kodak moment here, okay?",
+      "wordCount": 13
+    },
+    {
+      "id": 475,
+      "index": 475,
+      "character": "CAROLYN",
+      "gender": "Female",
+      "line": "You ungrateful little brat. Just look at everything you have. When I was your age, I lived in a duplex. We didn't even have our own house.",
+      "wordCount": 27
+    },
+    {
+      "id": 476,
+      "index": 476,
+      "character": "COLONEL",
+      "gender": "Male",
+      "line": "You little bastard--",
+      "wordCount": 3
+    },
+    {
+      "id": 477,
+      "index": 477,
+      "character": "COLONEL",
+      "gender": "Male",
+      "line": "How did you get in there?",
+      "wordCount": 6
+    },
+    {
+      "id": 478,
+      "index": 478,
+      "character": "COLONEL",
+      "gender": "Male",
+      "line": "How!? How?! C'mon, get up! Fight back, you little pussy!",
+      "wordCount": 10
+    },
+    {
+      "id": 479,
+      "index": 479,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "No, sir. I won't fight you.",
+      "wordCount": 6
+    },
+    {
+      "id": 480,
+      "index": 480,
+      "character": "COLONEL",
+      "gender": "Male",
+      "line": "How did you get in there?",
+      "wordCount": 6
+    },
+    {
+      "id": 481,
+      "index": 481,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "I picked the lock, sir.",
+      "wordCount": 5
+    },
+    {
+      "id": 482,
+      "index": 482,
+      "character": "COLONEL",
+      "gender": "Male",
+      "line": "What were you looking for? Money? Are you on dope again?",
+      "wordCount": 11
+    },
+    {
+      "id": 483,
+      "index": 483,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "No, sir. I wanted to show my girlfriend your Nazi plate.",
+      "wordCount": 11
+    },
+    {
+      "id": 484,
+      "index": 484,
+      "character": "COLONEL",
+      "gender": "Male",
+      "line": "Girlfriend?",
+      "wordCount": 1
+    },
+    {
+      "id": 485,
+      "index": 485,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "Yes, sir. She lives next door.",
+      "wordCount": 6
+    },
+    {
+      "id": 486,
+      "index": 486,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "Her name's Jane.",
+      "wordCount": 3
+    },
+    {
+      "id": 487,
+      "index": 487,
+      "character": "COLONEL",
+      "gender": "Male",
+      "line": "This is for your own good, boy. You have no respect for other people's things, for authority, for...",
+      "wordCount": 18
+    },
+    {
+      "id": 488,
+      "index": 488,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "Sir, I'm sorry.",
+      "wordCount": 3
+    },
+    {
+      "id": 489,
+      "index": 489,
+      "character": "COLONEL",
+      "gender": "Male",
+      "line": "You can't just go around doing whatever you feel like, you can't--there are rules in life--",
+      "wordCount": 16
+    },
+    {
+      "id": 490,
+      "index": 490,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "Yes, sir.",
+      "wordCount": 2
+    },
+    {
+      "id": 491,
+      "index": 491,
+      "character": "COLONEL",
+      "gender": "Male",
+      "line": "You need structure, you need discipline--",
+      "wordCount": 6
+    },
+    {
+      "id": 492,
+      "index": 492,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "Discipline. Yes, sir, thank you for trying to teach me. Don't give up on me, Dad.",
+      "wordCount": 16
+    },
+    {
+      "id": 493,
+      "index": 493,
+      "character": "COLONEL",
+      "gender": "Male",
+      "line": "Oh, Ricky...",
+      "wordCount": 2
+    },
+    {
+      "id": 494,
+      "index": 494,
+      "character": "COLONEL",
+      "gender": "Male",
+      "line": "You stay out of there.",
+      "wordCount": 5
+    },
+    {
+      "id": 495,
+      "index": 495,
+      "character": "ATTENDANT",
+      "gender": "NA",
+      "line": "I gotta say, Mrs. Burnham, when you first came here I thought you would be hopeless. But you're a natural.",
+      "wordCount": 20
+    },
+    {
+      "id": 496,
+      "index": 496,
+      "character": "CAROLYN",
+      "gender": "Female",
+      "line": "Well, all I know is... I love shooting this gun!",
+      "wordCount": 10
+    },
+    {
+      "id": 497,
+      "index": 497,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "What?",
+      "wordCount": 1
+    },
+    {
+      "id": 498,
+      "index": 498,
+      "character": "CAROLYN",
+      "gender": "Female",
+      "line": "Ah, whose car is that out front?",
+      "wordCount": 7
+    },
+    {
+      "id": 499,
+      "index": 499,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Mine. 1970 Pontiac Firebird. The car I always wanted and now I have it. I rule!",
+      "wordCount": 16
+    },
+    {
+      "id": 500,
+      "index": 500,
+      "character": "CAROLYN",
+      "gender": "Female",
+      "line": "Where's the Camry?",
+      "wordCount": 3
+    },
+    {
+      "id": 501,
+      "index": 501,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "I traded it in.",
+      "wordCount": 4
+    },
+    {
+      "id": 502,
+      "index": 502,
+      "character": "CAROLYN",
+      "gender": "Female",
+      "line": "Shouldn't you have consulted me first?",
+      "wordCount": 6
+    },
+    {
+      "id": 503,
+      "index": 503,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Hmm, let me think... No. You never drove it. Have you done something different? You look great.",
+      "wordCount": 17
+    },
+    {
+      "id": 504,
+      "index": 504,
+      "character": "CAROLYN",
+      "gender": "Female",
+      "line": "Where's Jane?",
+      "wordCount": 2
+    },
+    {
+      "id": 505,
+      "index": 505,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Jane not home. We have the whole house to ourselves.",
+      "wordCount": 10
+    },
+    {
+      "id": 506,
+      "index": 506,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Christ, Carolyn. When did you become so... joyless?",
+      "wordCount": 8
+    },
+    {
+      "id": 507,
+      "index": 507,
+      "character": "CAROLYN",
+      "gender": "Female",
+      "line": "Joyless?! I am not joyless! There happens to be a lot about me that you don't know, mister smarty man. There is plenty of joy in my life.",
+      "wordCount": 28
+    },
+    {
+      "id": 508,
+      "index": 508,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Whatever happened to that girl who used to fake seizures at frat parties when she got bored? And who used to run up to the roof of our first apartment building to flash the traffic helicopters? Have you totally forgotten about her? Because I haven't.",
+      "wordCount": 45
+    },
+    {
+      "id": 509,
+      "index": 509,
+      "character": "CAROLYN",
+      "gender": "Female",
+      "line": "Lester. You're going to spill beer on the couch.",
+      "wordCount": 9
+    },
+    {
+      "id": 510,
+      "index": 510,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "So what? It's just a couch.",
+      "wordCount": 6
+    },
+    {
+      "id": 511,
+      "index": 511,
+      "character": "CAROLYN",
+      "gender": "Female",
+      "line": "This is a four thousand dollar sofa upholstered in Italian silk. This is not \"just a couch.\"",
+      "wordCount": 17
+    },
+    {
+      "id": 512,
+      "index": 512,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "It's just a couch!",
+      "wordCount": 4
+    },
+    {
+      "id": 513,
+      "index": 513,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "This isn't life. This is just stuff. And it's become more important to you than living. Well, honey, that's just nuts.",
+      "wordCount": 21
+    },
+    {
+      "id": 514,
+      "index": 514,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "I'm only trying to help you.",
+      "wordCount": 6
+    },
+    {
+      "id": 515,
+      "index": 515,
+      "character": "JANE",
+      "gender": "Female",
+      "line": "Don't.",
+      "wordCount": 1
+    },
+    {
+      "id": 516,
+      "index": 516,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "Why?",
+      "wordCount": 1
+    },
+    {
+      "id": 517,
+      "index": 517,
+      "character": "JANE",
+      "gender": "Female",
+      "line": "It's weird, watching myself. I don't like how I look.",
+      "wordCount": 10
+    },
+    {
+      "id": 518,
+      "index": 518,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "I can't believe you don't know how beautiful you are.",
+      "wordCount": 10
+    },
+    {
+      "id": 519,
+      "index": 519,
+      "character": "JANE",
+      "gender": "Female",
+      "line": "I'm not going to sit here for that shit.",
+      "wordCount": 9
+    },
+    {
+      "id": 520,
+      "index": 520,
+      "character": "JANE",
+      "gender": "Female",
+      "line": "Ha. How does it feel now?",
+      "wordCount": 6
+    },
+    {
+      "id": 521,
+      "index": 521,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "Fine.",
+      "wordCount": 1
+    },
+    {
+      "id": 522,
+      "index": 522,
+      "character": "JANE",
+      "gender": "Female",
+      "line": "You don't feel naked?",
+      "wordCount": 4
+    },
+    {
+      "id": 523,
+      "index": 523,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "I am naked.",
+      "wordCount": 3
+    },
+    {
+      "id": 524,
+      "index": 524,
+      "character": "JANE",
+      "gender": "Female",
+      "line": "You know what I mean.",
+      "wordCount": 5
+    },
+    {
+      "id": 525,
+      "index": 525,
+      "character": "JANE",
+      "gender": "Female",
+      "line": "Tell me about being in the hospital.",
+      "wordCount": 7
+    },
+    {
+      "id": 526,
+      "index": 526,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "When I was fifteen, my dad caught me smoking dope. He totally freaked and decided to send me to military school. I told you his whole thing about structure and discipline, right? Well, of course, I got kicked out. Dad and I had this huge fight, and he hit me... and then the next day at school, some kid made a crack about my haircut, and... I just snapped. I wanted to kill him. And I would have. Killed him. If they hadn't pulled me off. That's when my dad put me in the hospital. Then they drugged me up and left me in there for two years.",
+      "wordCount": 108
+    },
+    {
+      "id": 527,
+      "index": 527,
+      "character": "JANE",
+      "gender": "Female",
+      "line": "Wow. You must really hate him.",
+      "wordCount": 6
+    },
+    {
+      "id": 528,
+      "index": 528,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "He's not a bad man.",
+      "wordCount": 5
+    },
+    {
+      "id": 529,
+      "index": 529,
+      "character": "JANE",
+      "gender": "Female",
+      "line": "Well... you better believe I'd hate my father if he did something like that to me. Wait. I do hate my father.",
+      "wordCount": 22
+    },
+    {
+      "id": 530,
+      "index": 530,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "Why?",
+      "wordCount": 1
+    },
+    {
+      "id": 531,
+      "index": 531,
+      "character": "JANE",
+      "gender": "Female",
+      "line": "He's a total asshole and he's got this crush on my friend Angela and it's disgusting.",
+      "wordCount": 16
+    },
+    {
+      "id": 532,
+      "index": 532,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "You'd rather he had the crush on you?",
+      "wordCount": 8
+    },
+    {
+      "id": 533,
+      "index": 533,
+      "character": "JANE",
+      "gender": "Female",
+      "line": "Gross, no! But it'd be nice if I was anywhere near as important to him as she is.",
+      "wordCount": 18
+    },
+    {
+      "id": 534,
+      "index": 534,
+      "character": "JANE",
+      "gender": "Female",
+      "line": "I know you think my dad's harmless, but you're wrong. He's doing massive psychological damage to me.",
+      "wordCount": 17
+    },
+    {
+      "id": 535,
+      "index": 535,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "How?",
+      "wordCount": 1
+    },
+    {
+      "id": 536,
+      "index": 536,
+      "character": "JANE",
+      "gender": "Female",
+      "line": "Well, now, I too need structure. A little fucking discipline.",
+      "wordCount": 10
+    },
+    {
+      "id": 537,
+      "index": 537,
+      "character": "JANE",
+      "gender": "Female",
+      "line": "I'm serious, though. How could he not be damaging me? I need a father who's a role model, not some horny geek-boy who's gonna spray his shorts whenever I bring a girlfriend home from school. What a lame-o. Somebody really should put him out of his misery.",
+      "wordCount": 47
+    },
+    {
+      "id": 538,
+      "index": 538,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "Want me to kill him for you?",
+      "wordCount": 7
+    },
+    {
+      "id": 539,
+      "index": 539,
+      "character": "JANE",
+      "gender": "Female",
+      "line": "Yeah, would you?",
+      "wordCount": 3
+    },
+    {
+      "id": 540,
+      "index": 540,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "It'll cost you.",
+      "wordCount": 3
+    },
+    {
+      "id": 541,
+      "index": 541,
+      "character": "JANE",
+      "gender": "Female",
+      "line": "Well, I've been baby-sitting since I was about ten. I've got almost three thousand dollars. 'Course, I was saving it up for a boob job.",
+      "wordCount": 25
+    },
+    {
+      "id": 542,
+      "index": 542,
+      "character": "JANE",
+      "gender": "Female",
+      "line": "But my tits can wait, huh?",
+      "wordCount": 6
+    },
+    {
+      "id": 543,
+      "index": 543,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "You know, that's not a very nice thing to do, hiring somebody to kill your dad.",
+      "wordCount": 16
+    },
+    {
+      "id": 544,
+      "index": 544,
+      "character": "JANE",
+      "gender": "Female",
+      "line": "Well, I guess I'm just not a very nice girl, then, am I?",
+      "wordCount": 13
+    },
+    {
+      "id": 545,
+      "index": 545,
+      "character": "JANE",
+      "gender": "Female",
+      "line": "You know I'm not serious, right?",
+      "wordCount": 6
+    },
+    {
+      "id": 546,
+      "index": 546,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "Of course.",
+      "wordCount": 2
+    },
+    {
+      "id": 547,
+      "index": 547,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "Do you know how lucky we are to have found each other?",
+      "wordCount": 12
+    },
+    {
+      "id": 548,
+      "index": 548,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Remember those posters that said, \"Today is the first day of the rest of your life?\" Well, that's true of every day except one. The day you die.",
+      "wordCount": 28
+    },
+    {
+      "id": 549,
+      "index": 549,
+      "character": "CAROLYN",
+      "gender": "Female",
+      "line": "Jane, hurry up. I've got a very important appointment--",
+      "wordCount": 9
+    },
+    {
+      "id": 550,
+      "index": 550,
+      "character": "JANE",
+      "gender": "Female",
+      "line": "Mom, is it okay if Angela sleeps over tonight?",
+      "wordCount": 9
+    },
+    {
+      "id": 551,
+      "index": 551,
+      "character": "CAROLYN",
+      "gender": "Female",
+      "line": "Well, of course, she's always welcome. You know, I thought maybe you two had a fight. I haven't seen her around here in a while.",
+      "wordCount": 25
+    },
+    {
+      "id": 552,
+      "index": 552,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "What?",
+      "wordCount": 1
+    },
+    {
+      "id": 553,
+      "index": 553,
+      "character": "JANE",
+      "gender": "Female",
+      "line": "I've been too embarrassed to bring her over. Because of you, and the way that you behave.",
+      "wordCount": 17
+    },
+    {
+      "id": 554,
+      "index": 554,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "What are you talking about? I've barely even spoken to her.",
+      "wordCount": 11
+    },
+    {
+      "id": 555,
+      "index": 555,
+      "character": "JANE",
+      "gender": "Female",
+      "line": "Dad! You stare at her all the time, like you're drunk! It's disgusting!",
+      "wordCount": 13
+    },
+    {
+      "id": 556,
+      "index": 556,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "You better watch yourself, Janie, or you're going to turn into a real bitch, just like your mother.",
+      "wordCount": 18
+    },
+    {
+      "id": 557,
+      "index": 557,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Fuck.",
+      "wordCount": 1
+    },
+    {
+      "id": 558,
+      "index": 558,
+      "character": "COLONEL",
+      "gender": "Male",
+      "line": "You ready to go?",
+      "wordCount": 4
+    },
+    {
+      "id": 559,
+      "index": 559,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "Oh, I don't need a ride. I'm going to go in with Jane and her mom.",
+      "wordCount": 16
+    },
+    {
+      "id": 560,
+      "index": 560,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Yo, Ricky. How's it going?",
+      "wordCount": 5
+    },
+    {
+      "id": 561,
+      "index": 561,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "Pretty decent, Mr. Burnham.",
+      "wordCount": 4
+    },
+    {
+      "id": 562,
+      "index": 562,
+      "character": "CO-WORKER",
+      "gender": "NA",
+      "line": "Hey Lester, I need that Super Smiley with cheese, A.S.A.P.",
+      "wordCount": 10
+    },
+    {
+      "id": 563,
+      "index": 563,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "You need more than that, my little hombre.",
+      "wordCount": 8
+    },
+    {
+      "id": 564,
+      "index": 564,
+      "character": "CAROLYN",
+      "gender": "Female",
+      "line": "What's good here?",
+      "wordCount": 3
+    },
+    {
+      "id": 565,
+      "index": 565,
+      "character": "BUDDY",
+      "gender": "Male",
+      "line": "Nothing.",
+      "wordCount": 1
+    },
+    {
+      "id": 566,
+      "index": 566,
+      "character": "CAROLYN",
+      "gender": "Female",
+      "line": "Then I guess we'll just have to be bad, won't we? I think I'll have a double Smiley Sandwich and curly fries, and a vanilla shake.",
+      "wordCount": 26
+    },
+    {
+      "id": 567,
+      "index": 567,
+      "character": "BUDDY",
+      "gender": "Male",
+      "line": "Make that two.",
+      "wordCount": 3
+    },
+    {
+      "id": 568,
+      "index": 568,
+      "character": "COUNTER GIRL",
+      "gender": "NA",
+      "line": "Please drive around thank you.",
+      "wordCount": 5
+    },
+    {
+      "id": 569,
+      "index": 569,
+      "character": "CAROLYN",
+      "gender": "Female",
+      "line": "I think we deserve a little junk food, after the workout we had this morning.",
+      "wordCount": 15
+    },
+    {
+      "id": 570,
+      "index": 570,
+      "character": "BUDDY",
+      "gender": "Male",
+      "line": "I'm flattered.",
+      "wordCount": 2
+    },
+    {
+      "id": 571,
+      "index": 571,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Smile! You're at Mr. Smiley's!",
+      "wordCount": 5
+    },
+    {
+      "id": 572,
+      "index": 572,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Would you like to try our new beef and cheese pot pie on a stick, just a dollar ninety-nine for a limited time only?",
+      "wordCount": 24
+    },
+    {
+      "id": 573,
+      "index": 573,
+      "character": "CAROLYN",
+      "gender": "Female",
+      "line": "We were just at a seminar. Buddy, this is my--",
+      "wordCount": 10
+    },
+    {
+      "id": 574,
+      "index": 574,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Her husband. We've met before, but something tells me you're going to remember me this time.",
+      "wordCount": 16
+    },
+    {
+      "id": 575,
+      "index": 575,
+      "character": "COUNTER GIRL",
+      "gender": "NA",
+      "line": "Whoa. You are so busted.",
+      "wordCount": 5
+    },
+    {
+      "id": 576,
+      "index": 576,
+      "character": "CAROLYN",
+      "gender": "Female",
+      "line": "You know, this really doesn't concern you.",
+      "wordCount": 7
+    },
+    {
+      "id": 577,
+      "index": 577,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Actually, Janeane is senior drive-thru manager, so you kind of are on her turf. So. This makes sense.",
+      "wordCount": 18
+    },
+    {
+      "id": 578,
+      "index": 578,
+      "character": "CAROLYN",
+      "gender": "Female",
+      "line": "Oh, Lester--",
+      "wordCount": 2
+    },
+    {
+      "id": 579,
+      "index": 579,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Honey, it's okay. I want you to be happy. Would you like Smiley Sauce with that?",
+      "wordCount": 16
+    },
+    {
+      "id": 580,
+      "index": 580,
+      "character": "CAROLYN",
+      "gender": "Female",
+      "line": "Lester, just stop it!",
+      "wordCount": 4
+    },
+    {
+      "id": 581,
+      "index": 581,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Uh-uh. You don't get to tell me what to do. Ever again.",
+      "wordCount": 12
+    },
+    {
+      "id": 582,
+      "index": 582,
+      "character": "BUDDY",
+      "gender": "Male",
+      "line": "I'm sorry. I guess we should cool it for a while. I'm facing a potentially very expensive divorce.",
+      "wordCount": 18
+    },
+    {
+      "id": 583,
+      "index": 583,
+      "character": "CAROLYN",
+      "gender": "Female",
+      "line": "Oh, no. I understand completely. In order to be successful, one must project an image of success. At all times.",
+      "wordCount": 20
+    },
+    {
+      "id": 584,
+      "index": 584,
+      "character": "CAROLYN",
+      "gender": "Female",
+      "line": "Stop it. Stop it!",
+      "wordCount": 4
+    },
+    {
+      "id": 585,
+      "index": 585,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Shit.",
+      "wordCount": 1
+    },
+    {
+      "id": 586,
+      "index": 586,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "I have to run next door. Jane left her geometry book in my bag and she needs it to do her homework.",
+      "wordCount": 22
+    },
+    {
+      "id": 587,
+      "index": 587,
+      "character": "ANGELA",
+      "gender": "Female",
+      "line": "So you and psycho boy are fucking on like, a regular basis now, right?",
+      "wordCount": 14
+    },
+    {
+      "id": 588,
+      "index": 588,
+      "character": "JANE",
+      "gender": "Female",
+      "line": "No.",
+      "wordCount": 1
+    },
+    {
+      "id": 589,
+      "index": 589,
+      "character": "ANGELA",
+      "gender": "Female",
+      "line": "Oh, come on. You can tell me. Does he have a big dick?",
+      "wordCount": 13
+    },
+    {
+      "id": 590,
+      "index": 590,
+      "character": "JANE",
+      "gender": "Female",
+      "line": "Look, I'm not gonna talk about his dick with you, okay? It's not like that.",
+      "wordCount": 15
+    },
+    {
+      "id": 591,
+      "index": 591,
+      "character": "ANGELA",
+      "gender": "Female",
+      "line": "Not like what? Doesn't he have one? Why don't you want to talk about it? I mean, I tell you every single detail about every guy that I fuck.",
+      "wordCount": 29
+    },
+    {
+      "id": 592,
+      "index": 592,
+      "character": "JANE",
+      "gender": "Female",
+      "line": "Yeah, and maybe you shouldn't, all right? Maybe I don't really want to hear all that.",
+      "wordCount": 16
+    },
+    {
+      "id": 593,
+      "index": 593,
+      "character": "ANGELA",
+      "gender": "Female",
+      "line": "Oh, so now that you have a boyfriend, you're like, above it? We gotta get you a real man.",
+      "wordCount": 19
+    },
+    {
+      "id": 594,
+      "index": 594,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "You got any papers?",
+      "wordCount": 4
+    },
+    {
+      "id": 595,
+      "index": 595,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Yeah, in the cigar box, right over there. You know, put up a fight, dude! You are such a pushover. \"No I can't. Really. Okay.\"",
+      "wordCount": 25
+    },
+    {
+      "id": 596,
+      "index": 596,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "You should learn to roll a joint.",
+      "wordCount": 7
+    },
+    {
+      "id": 597,
+      "index": 597,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Oh. Hi.",
+      "wordCount": 2
+    },
+    {
+      "id": 598,
+      "index": 598,
+      "character": "JANE",
+      "gender": "Female",
+      "line": "Where's Mom?",
+      "wordCount": 2
+    },
+    {
+      "id": 599,
+      "index": 599,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Don't know.",
+      "wordCount": 2
+    },
+    {
+      "id": 600,
+      "index": 600,
+      "character": "ANGELA",
+      "gender": "Female",
+      "line": "Hi, Mr. Burnham.",
+      "wordCount": 3
+    },
+    {
+      "id": 601,
+      "index": 601,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Hi.",
+      "wordCount": 1
+    },
+    {
+      "id": 602,
+      "index": 602,
+      "character": "ANGELA",
+      "gender": "Female",
+      "line": "Wow. Look at you. Have you been working out?",
+      "wordCount": 9
+    },
+    {
+      "id": 603,
+      "index": 603,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Some.",
+      "wordCount": 1
+    },
+    {
+      "id": 604,
+      "index": 604,
+      "character": "ANGELA",
+      "gender": "Female",
+      "line": "You can really tell. Look at those arms.",
+      "wordCount": 8
+    },
+    {
+      "id": 605,
+      "index": 605,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "You like muscles?",
+      "wordCount": 3
+    },
+    {
+      "id": 606,
+      "index": 606,
+      "character": "ANGELA",
+      "gender": "Female",
+      "line": "I--I should probably go see what Jane's up to.",
+      "wordCount": 9
+    },
+    {
+      "id": 607,
+      "index": 607,
+      "character": "COLONEL",
+      "gender": "Male",
+      "line": "Where'd you get that?",
+      "wordCount": 4
+    },
+    {
+      "id": 608,
+      "index": 608,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "From my job.",
+      "wordCount": 3
+    },
+    {
+      "id": 609,
+      "index": 609,
+      "character": "COLONEL",
+      "gender": "Male",
+      "line": "Don't lie to me. I saw you with him.",
+      "wordCount": 9
+    },
+    {
+      "id": 610,
+      "index": 610,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "You were watching me?",
+      "wordCount": 4
+    },
+    {
+      "id": 611,
+      "index": 611,
+      "character": "COLONEL",
+      "gender": "Male",
+      "line": "What did he make you do?",
+      "wordCount": 6
+    },
+    {
+      "id": 612,
+      "index": 612,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "Dad, you don't really think... me and Mr. Burnham?",
+      "wordCount": 9
+    },
+    {
+      "id": 613,
+      "index": 613,
+      "character": "COLONEL",
+      "gender": "Male",
+      "line": "Don't you laugh at me!",
+      "wordCount": 5
+    },
+    {
+      "id": 614,
+      "index": 614,
+      "character": "COLONEL",
+      "gender": "Male",
+      "line": "I will not sit back and watch my only son become a cocksucker!",
+      "wordCount": 13
+    },
+    {
+      "id": 615,
+      "index": 615,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "Jesus, what is with you--",
+      "wordCount": 5
+    },
+    {
+      "id": 616,
+      "index": 616,
+      "character": "COLONEL",
+      "gender": "Male",
+      "line": "I swear to God, I will throw you out of this house and never look at you again.",
+      "wordCount": 18
+    },
+    {
+      "id": 617,
+      "index": 617,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "You mean that?",
+      "wordCount": 3
+    },
+    {
+      "id": 618,
+      "index": 618,
+      "character": "COLONEL",
+      "gender": "Male",
+      "line": "Damn straight I do. I'd rather you were dead than be a fucking faggot.",
+      "wordCount": 14
+    },
+    {
+      "id": 619,
+      "index": 619,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "You're right. I suck dick for money.",
+      "wordCount": 7
+    },
+    {
+      "id": 620,
+      "index": 620,
+      "character": "COLONEL",
+      "gender": "Male",
+      "line": "Boy--",
+      "wordCount": 1
+    },
+    {
+      "id": 621,
+      "index": 621,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "Two thousand dollars. I'm that good.",
+      "wordCount": 6
+    },
+    {
+      "id": 622,
+      "index": 622,
+      "character": "COLONEL",
+      "gender": "Male",
+      "line": "Get out.",
+      "wordCount": 2
+    },
+    {
+      "id": 623,
+      "index": 623,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "And you should see me fuck. I'm the best piece of ass in three states.",
+      "wordCount": 15
+    },
+    {
+      "id": 624,
+      "index": 624,
+      "character": "COLONEL",
+      "gender": "Male",
+      "line": "Get out!! I don't ever want to see you again!!",
+      "wordCount": 10
+    },
+    {
+      "id": 625,
+      "index": 625,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "What a sad old man you are.",
+      "wordCount": 7
+    },
+    {
+      "id": 626,
+      "index": 626,
+      "character": "COLONEL",
+      "gender": "Male",
+      "line": "Get out.",
+      "wordCount": 2
+    },
+    {
+      "id": 627,
+      "index": 627,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "Mom, I'm leaving.",
+      "wordCount": 3
+    },
+    {
+      "id": 628,
+      "index": 628,
+      "character": "BARBARA",
+      "gender": "Female",
+      "line": "Okay, wear a raincoat.",
+      "wordCount": 4
+    },
+    {
+      "id": 629,
+      "index": 629,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "I wish things would have been better for you. Take care of Dad.",
+      "wordCount": 13
+    },
+    {
+      "id": 630,
+      "index": 630,
+      "character": "TAPE VOICE",
+      "gender": "NA",
+      "line": "--disinvesting problems of their power, and removing their ability to make us afraid. This is the secret to \"me- centered\" living.",
+      "wordCount": 21
+    },
+    {
+      "id": 631,
+      "index": 631,
+      "character": "TAPE VOICE",
+      "gender": "NA",
+      "line": "Only by taking full responsibility for your problems--and their solutions--will you ever be able to break free from the constant cycle of victimhood.",
+      "wordCount": 23
+    },
+    {
+      "id": 632,
+      "index": 632,
+      "character": "TAPE VOICE",
+      "gender": "NA",
+      "line": "Remember, you are only a victim if you choose to be a victim...",
+      "wordCount": 13
+    },
+    {
+      "id": 633,
+      "index": 633,
+      "character": "JANE",
+      "gender": "Female",
+      "line": "I don't think we could be friends anymore.",
+      "wordCount": 8
+    },
+    {
+      "id": 634,
+      "index": 634,
+      "character": "ANGELA",
+      "gender": "Female",
+      "line": "You are way too uptight about sex.",
+      "wordCount": 7
+    },
+    {
+      "id": 635,
+      "index": 635,
+      "character": "JANE",
+      "gender": "Female",
+      "line": "Just don't fuck my dad, all right? Please?",
+      "wordCount": 8
+    },
+    {
+      "id": 636,
+      "index": 636,
+      "character": "ANGELA",
+      "gender": "Female",
+      "line": "Why not?",
+      "wordCount": 2
+    },
+    {
+      "id": 637,
+      "index": 637,
+      "character": "JANE",
+      "gender": "Female",
+      "line": "Dad! Leave us alone!",
+      "wordCount": 4
+    },
+    {
+      "id": 638,
+      "index": 638,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "It's me.",
+      "wordCount": 2
+    },
+    {
+      "id": 639,
+      "index": 639,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "If I had to leave tonight, would you come with me?",
+      "wordCount": 11
+    },
+    {
+      "id": 640,
+      "index": 640,
+      "character": "JANE",
+      "gender": "Female",
+      "line": "What?",
+      "wordCount": 1
+    },
+    {
+      "id": 641,
+      "index": 641,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "If I had to go to New York. To live. Tonight. Would you come with me?",
+      "wordCount": 16
+    },
+    {
+      "id": 642,
+      "index": 642,
+      "character": "JANE",
+      "gender": "Female",
+      "line": "Yes.",
+      "wordCount": 1
+    },
+    {
+      "id": 643,
+      "index": 643,
+      "character": "ANGELA",
+      "gender": "Female",
+      "line": "You guys can't be serious. You're just a kid. And he's like, a mental case. You'll end up living in a box on the street.",
+      "wordCount": 25
+    },
+    {
+      "id": 644,
+      "index": 644,
+      "character": "JANE",
+      "gender": "Female",
+      "line": "I'm no more a kid than you are! We can use my plastic surgery money.",
+      "wordCount": 15
+    },
+    {
+      "id": 645,
+      "index": 645,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "We won't have to. I have over forty thousand dollars. And I know people in the city who can help us get set up.",
+      "wordCount": 24
+    },
+    {
+      "id": 646,
+      "index": 646,
+      "character": "ANGELA",
+      "gender": "Female",
+      "line": "What, other drug dealers?",
+      "wordCount": 4
+    },
+    {
+      "id": 647,
+      "index": 647,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "Yes.",
+      "wordCount": 1
+    },
+    {
+      "id": 648,
+      "index": 648,
+      "character": "ANGELA",
+      "gender": "Female",
+      "line": "Jane, you'd be out of your mind to go with him.",
+      "wordCount": 11
+    },
+    {
+      "id": 649,
+      "index": 649,
+      "character": "JANE",
+      "gender": "Female",
+      "line": "Why do you even care?",
+      "wordCount": 5
+    },
+    {
+      "id": 650,
+      "index": 650,
+      "character": "ANGELA",
+      "gender": "Female",
+      "line": "Because you're my friend!",
+      "wordCount": 4
+    },
+    {
+      "id": 651,
+      "index": 651,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "She's not your friend. She's somebody you use to feel better about yourself.",
+      "wordCount": 13
+    },
+    {
+      "id": 652,
+      "index": 652,
+      "character": "ANGELA",
+      "gender": "Female",
+      "line": "Go fuck yourself, psycho!",
+      "wordCount": 4
+    },
+    {
+      "id": 653,
+      "index": 653,
+      "character": "JANE",
+      "gender": "Female",
+      "line": "You shut up, bitch!",
+      "wordCount": 4
+    },
+    {
+      "id": 654,
+      "index": 654,
+      "character": "ANGELA",
+      "gender": "Female",
+      "line": "Jane! He is a freak!",
+      "wordCount": 5
+    },
+    {
+      "id": 655,
+      "index": 655,
+      "character": "JANE",
+      "gender": "Female",
+      "line": "Well, then so am I! And we'll always be freaks and we'll never be like other people. And you'll never be a freak because you're just too perfect.",
+      "wordCount": 28
+    },
+    {
+      "id": 656,
+      "index": 656,
+      "character": "ANGELA",
+      "gender": "Female",
+      "line": "Oh, yeah? Well, at least I'm not ugly.",
+      "wordCount": 8
+    },
+    {
+      "id": 657,
+      "index": 657,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "Yes, you are. And you're boring. And you're totally ordinary. And you know it.",
+      "wordCount": 14
+    },
+    {
+      "id": 658,
+      "index": 658,
+      "character": "ANGELA",
+      "gender": "Female",
+      "line": "You two deserve each other.",
+      "wordCount": 5
+    },
+    {
+      "id": 659,
+      "index": 659,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Jesus, man. You're soaked.",
+      "wordCount": 4
+    },
+    {
+      "id": 660,
+      "index": 660,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "You want me to get Ricky? He's in Jane's room.",
+      "wordCount": 10
+    },
+    {
+      "id": 661,
+      "index": 661,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "You okay?",
+      "wordCount": 2
+    },
+    {
+      "id": 662,
+      "index": 662,
+      "character": "COLONEL",
+      "gender": "Male",
+      "line": "Where's your wife?",
+      "wordCount": 3
+    },
+    {
+      "id": 663,
+      "index": 663,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Uh... I don't know. Probably out fucking that dorky prince of real estate asshole. And you know what? I don't care.",
+      "wordCount": 21
+    },
+    {
+      "id": 664,
+      "index": 664,
+      "character": "COLONEL",
+      "gender": "Male",
+      "line": "Your wife is with another man and you don't care?",
+      "wordCount": 10
+    },
+    {
+      "id": 665,
+      "index": 665,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Nope, our marriage is just for show. A commercial, for how normal we are. When we are anything but.",
+      "wordCount": 19
+    },
+    {
+      "id": 666,
+      "index": 666,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "You're shaking.",
+      "wordCount": 2
+    },
+    {
+      "id": 667,
+      "index": 667,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "We really should get you out of these clothes.",
+      "wordCount": 9
+    },
+    {
+      "id": 668,
+      "index": 668,
+      "character": "COLONEL",
+      "gender": "Male",
+      "line": "Yes...",
+      "wordCount": 1
+    },
+    {
+      "id": 669,
+      "index": 669,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "It's okay.",
+      "wordCount": 2
+    },
+    {
+      "id": 670,
+      "index": 670,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Just tell me what you need.",
+      "wordCount": 6
+    },
+    {
+      "id": 671,
+      "index": 671,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Whoa, whoa, whoa. I'm sorry. You got the wrong idea.",
+      "wordCount": 10
+    },
+    {
+      "id": 672,
+      "index": 672,
+      "character": "TAPE VOICE",
+      "gender": "NA",
+      "line": "\"I refuse to be a victim.\" When this becomes your mantra, constantly running through your head--",
+      "wordCount": 16
+    },
+    {
+      "id": 673,
+      "index": 673,
+      "character": "CAROLYN",
+      "gender": "Female",
+      "line": "I refuse to be a victim.",
+      "wordCount": 6
+    },
+    {
+      "id": 674,
+      "index": 674,
+      "character": "ANGELA",
+      "gender": "Female",
+      "line": "I hope you don't mind if I play the stereo.",
+      "wordCount": 10
+    },
+    {
+      "id": 675,
+      "index": 675,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Not at all. Bad night?",
+      "wordCount": 5
+    },
+    {
+      "id": 676,
+      "index": 676,
+      "character": "ANGELA",
+      "gender": "Female",
+      "line": "Not really bad, just... strange.",
+      "wordCount": 5
+    },
+    {
+      "id": 677,
+      "index": 677,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Believe me. It couldn't possibly be any stranger than mine.",
+      "wordCount": 10
+    },
+    {
+      "id": 678,
+      "index": 678,
+      "character": "ANGELA",
+      "gender": "Female",
+      "line": "Jane and I had a fight. It was about you.",
+      "wordCount": 10
+    },
+    {
+      "id": 679,
+      "index": 679,
+      "character": "ANGELA",
+      "gender": "Female",
+      "line": "She's mad at me because I said I think you're sexy.",
+      "wordCount": 11
+    },
+    {
+      "id": 680,
+      "index": 680,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Do you want a sip?",
+      "wordCount": 5
+    },
+    {
+      "id": 681,
+      "index": 681,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "So... are you going to tell me? What you want?",
+      "wordCount": 10
+    },
+    {
+      "id": 682,
+      "index": 682,
+      "character": "ANGELA",
+      "gender": "Female",
+      "line": "I don't know.",
+      "wordCount": 3
+    },
+    {
+      "id": 683,
+      "index": 683,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "You don't know?",
+      "wordCount": 3
+    },
+    {
+      "id": 684,
+      "index": 684,
+      "character": "ANGELA",
+      "gender": "Female",
+      "line": "What do you want?",
+      "wordCount": 4
+    },
+    {
+      "id": 685,
+      "index": 685,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Are you kidding? I want you. I've wanted you since the first moment I saw you. You are the most beautiful thing I have ever seen.",
+      "wordCount": 26
+    },
+    {
+      "id": 686,
+      "index": 686,
+      "character": "ANGELA",
+      "gender": "Female",
+      "line": "You don't think I'm ordinary?",
+      "wordCount": 5
+    },
+    {
+      "id": 687,
+      "index": 687,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "You couldn't be ordinary if you tried.",
+      "wordCount": 7
+    },
+    {
+      "id": 688,
+      "index": 688,
+      "character": "ANGELA",
+      "gender": "Female",
+      "line": "Thank you. I don't think there's anything worse than being ordinary...",
+      "wordCount": 11
+    },
+    {
+      "id": 689,
+      "index": 689,
+      "character": "CAROLYN",
+      "gender": "Female",
+      "line": "I refuse to be a victim. I refuse to be a victim. I refuse to be a victim... Lester, I have something I have to say to you...",
+      "wordCount": 28
+    },
+    {
+      "id": 690,
+      "index": 690,
+      "character": "JANE",
+      "gender": "Female",
+      "line": "Are you scared?",
+      "wordCount": 3
+    },
+    {
+      "id": 691,
+      "index": 691,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "I don't get scared.",
+      "wordCount": 4
+    },
+    {
+      "id": 692,
+      "index": 692,
+      "character": "JANE",
+      "gender": "Female",
+      "line": "My parents will try to find me.",
+      "wordCount": 7
+    },
+    {
+      "id": 693,
+      "index": 693,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "Mine won't.",
+      "wordCount": 2
+    },
+    {
+      "id": 694,
+      "index": 694,
+      "character": "ANGELA",
+      "gender": "Female",
+      "line": "This is my first time.",
+      "wordCount": 5
+    },
+    {
+      "id": 695,
+      "index": 695,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "You're kidding.",
+      "wordCount": 2
+    },
+    {
+      "id": 696,
+      "index": 696,
+      "character": "ANGELA",
+      "gender": "Female",
+      "line": "I'm sorry.",
+      "wordCount": 2
+    },
+    {
+      "id": 697,
+      "index": 697,
+      "character": "ANGELA",
+      "gender": "Female",
+      "line": "I still want to do it... I just thought I should tell you... in case you wondered why I wasn't... better.",
+      "wordCount": 21
+    },
+    {
+      "id": 698,
+      "index": 698,
+      "character": "ANGELA",
+      "gender": "Female",
+      "line": "What's wrong? I thought you said I was beautiful.",
+      "wordCount": 9
+    },
+    {
+      "id": 699,
+      "index": 699,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "You are beautiful.",
+      "wordCount": 3
+    },
+    {
+      "id": 700,
+      "index": 700,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "You are so beautiful... and I would be a very lucky man...",
+      "wordCount": 12
+    },
+    {
+      "id": 701,
+      "index": 701,
+      "character": "ANGELA",
+      "gender": "Female",
+      "line": "I feel so stupid.",
+      "wordCount": 4
+    },
+    {
+      "id": 702,
+      "index": 702,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Don't.",
+      "wordCount": 1
+    },
+    {
+      "id": 703,
+      "index": 703,
+      "character": "ANGELA",
+      "gender": "Female",
+      "line": "I'm sorry.",
+      "wordCount": 2
+    },
+    {
+      "id": 704,
+      "index": 704,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "You have nothing to be sorry about.",
+      "wordCount": 7
+    },
+    {
+      "id": 705,
+      "index": 705,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "It's okay. Everything's okay.",
+      "wordCount": 4
+    },
+    {
+      "id": 706,
+      "index": 706,
+      "character": "ANGELA",
+      "gender": "Female",
+      "line": "Wow. I was starving.",
+      "wordCount": 4
+    },
+    {
+      "id": 707,
+      "index": 707,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Do you want me to make you another one?",
+      "wordCount": 9
+    },
+    {
+      "id": 708,
+      "index": 708,
+      "character": "ANGELA",
+      "gender": "Female",
+      "line": "No, no, no. I'm fine.",
+      "wordCount": 5
+    },
+    {
+      "id": 709,
+      "index": 709,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "You sure?",
+      "wordCount": 2
+    },
+    {
+      "id": 710,
+      "index": 710,
+      "character": "ANGELA",
+      "gender": "Female",
+      "line": "I mean, I'm still a little weirded out, but... ...I feel better. Thanks.",
+      "wordCount": 13
+    },
+    {
+      "id": 711,
+      "index": 711,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "How's Jane?",
+      "wordCount": 2
+    },
+    {
+      "id": 712,
+      "index": 712,
+      "character": "ANGELA",
+      "gender": "Female",
+      "line": "What do you mean?",
+      "wordCount": 4
+    },
+    {
+      "id": 713,
+      "index": 713,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "I mean, how's her life? Is she happy? Is she miserable? I'd really like to know, and she'd die before she'd ever tell me about it.",
+      "wordCount": 26
+    },
+    {
+      "id": 714,
+      "index": 714,
+      "character": "ANGELA",
+      "gender": "Female",
+      "line": "She's... she's really happy. She thinks she's in love.",
+      "wordCount": 9
+    },
+    {
+      "id": 715,
+      "index": 715,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Good for her.",
+      "wordCount": 3
+    },
+    {
+      "id": 716,
+      "index": 716,
+      "character": "ANGELA",
+      "gender": "Female",
+      "line": "How are you?",
+      "wordCount": 3
+    },
+    {
+      "id": 717,
+      "index": 717,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "God, it's been a long time since anybody asked me that. I'm great.",
+      "wordCount": 13
+    },
+    {
+      "id": 718,
+      "index": 718,
+      "character": "ANGELA",
+      "gender": "Female",
+      "line": "I've gotta go to the bathroom.",
+      "wordCount": 6
+    },
+    {
+      "id": 719,
+      "index": 719,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "I'm great.",
+      "wordCount": 2
+    },
+    {
+      "id": 720,
+      "index": 720,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Man oh man... Man oh man oh man...",
+      "wordCount": 8
+    },
+    {
+      "id": 721,
+      "index": 721,
+      "character": "JANE",
+      "gender": "Female",
+      "line": "Oh God.",
+      "wordCount": 2
+    },
+    {
+      "id": 722,
+      "index": 722,
+      "character": "RICKY",
+      "gender": "Male",
+      "line": "Wow.",
+      "wordCount": 1
+    },
+    {
+      "id": 723,
+      "index": 723,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "I had always heard your entire life flashes in front of your eyes the second before you die.",
+      "wordCount": 18
+    },
+    {
+      "id": 724,
+      "index": 724,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "First of all, that one second isn't a second at all, it stretches on forever, like an ocean of time...",
+      "wordCount": 20
+    },
+    {
+      "id": 725,
+      "index": 725,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "For me, it was lying on my back at Boy Scout camp, watching falling stars...",
+      "wordCount": 15
+    },
+    {
+      "id": 726,
+      "index": 726,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "And yellow leaves, from the maple trees, that lined my street...",
+      "wordCount": 11
+    },
+    {
+      "id": 727,
+      "index": 727,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "Or my grandmother's hands, and the way her skin seemed like paper...",
+      "wordCount": 12
+    },
+    {
+      "id": 728,
+      "index": 728,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "And the first time I saw my cousin Tony's brand new Firebird...",
+      "wordCount": 12
+    },
+    {
+      "id": 729,
+      "index": 729,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "And Janie...",
+      "wordCount": 2
+    },
+    {
+      "id": 730,
+      "index": 730,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "And Janie...",
+      "wordCount": 2
+    },
+    {
+      "id": 731,
+      "index": 731,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "And... Carolyn.",
+      "wordCount": 2
+    },
+    {
+      "id": 732,
+      "index": 732,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "I guess I could be pretty pissed off about what happened to me... but it's hard to stay mad, when there's so much beauty in the world. Sometimes I feel like I'm seeing it all at once, and it's too much, my heart fills up like a balloon that's about to burst...",
+      "wordCount": 52
+    },
+    {
+      "id": 733,
+      "index": 733,
+      "character": "LESTER",
+      "gender": "Male",
+      "line": "...and then I remember to relax, and stop trying to hold on to it, and then it flows through me like rain and I can't feel anything but gratitude for every single moment of my stupid little life... You have no idea what I'm talking about, I'm sure. But don't worry...",
+      "wordCount": 51
+    },
+    {
+      "id": 734,
+      "index": 734,
+      "character": "",
+      "gender": "Male"
+    }
+  ]
+}
