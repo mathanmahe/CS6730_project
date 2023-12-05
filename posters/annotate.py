@@ -146,7 +146,7 @@ class Mouse_Click_Correspondence(object):
         #np.save('p1.npy', points_1)
         #np.save('p2.npy', points_2)
 
-    def driver2(self,img, imgname):
+    def driver2(self,img, imgname, rank):
         self.img = img
 
 
@@ -185,10 +185,13 @@ class Mouse_Click_Correspondence(object):
         return points1, genders
 
 # run `echo {} > 1_125.json` before running your script
+start = 126
 for i in sorted(os.listdir('.')):
         if i[-3:] == 'jpg':
-            if int(i.split('_')[0]) < 126: # You can make it >125
+            rank = i.split('_')[0]
+            if int(rank) < 126 or int(rank) < start: # You can make it >125
                 continue
+            print(int(i.split('_')[0]))
             image = cv2.imread(i)
-            Mouse_Click_Correspondence().driver2(image, i)
+            Mouse_Click_Correspondence().driver2(image, i, rank)
 
