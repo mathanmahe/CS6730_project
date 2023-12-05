@@ -1,167 +1,123 @@
-import { useEffect, useState } from "react";
+import { useEffect, useState, useRef } from "react";
 import * as d3 from "d3";
 import { useResponsiveChart } from "./hooks/useResponsiveChart";
-import { parseDialogue, splitArray, getFemalePercentage } from "./utils/script";
 import "./Plot.scss";
+import { getAxis } from "./utils/axis";
+import {
+  data,
+  bechdelDomain,
+  decadesDomain,
+  genreDomain,
+  allGenreData,
+  filteredGenreDomain,
+  filteredGenreData,
+  directorsDomain,
+} from "./utils/data";
+import { prepareStackedArea } from "./utils/stackedArea";
+import { prepareGenreUnits, prepareUnits } from "./utils/unitVis";
+import { beeswarmForce, getBeeswarmData } from "./utils/beeswarmForce";
 import classNames from "classnames";
-import { DialogueDataset, ChunkedDialogueDataset } from "./types";
-
-const tempData = Array(100)
-  .fill(0)
-  .map((d, i) => ({
-    id: i,
-    value: i,
-    bechdel: Math.floor(Math.random() * 4),
-    year: Math.floor(Math.random() * 30) + 1990,
-  }));
 
 const Plot = ({ activeStep }: { activeStep: number }) => {
-  // TODO use real data
-  const data = tempData;
-
-  //TODO use preprocessed data
-  const [isLoading, setIsLoading] = useState(true);
-  const [dialogueDataset, setDialogueDataset] = useState<DialogueDataset>([]);
-  const [chunkedDataset, setChunkedDataset] = useState<ChunkedDialogueDataset>(
-    []
-  );
-
-  const chunkSize = 100;
-  useEffect(() => {
-    const getLines = async () => {
-      const titles = [
-        "10-Things-I-Hate-About-You_dialogue",
-        "12-and-Holding_dialogue",
-      ];
-
-      Promise.all(
-        titles.map((title) => {
-          return fetch(`./dialogue/${title}.txt`).then((d) => d.text());
-        })
-      ).then((arr) => {
-        // get dialogue data
-        const data = arr.map((d, i) => ({
-          title: titles[i],
-          data: parseDialogue(d),
-        }));
-        setDialogueDataset(data);
-
-        // get chunked data
-        const chunked = data.map(({ title, data }) => {
-          const chunk = splitArray(data, chunkSize);
-          return {
-            title,
-            data: chunk.map((d, i) => ({
-              chunkIndex: i,
-              data: d,
-              femalePercentage: getFemalePercentage(d),
-            })),
-          };
-        });
-        setChunkedDataset(chunked);
-        setIsLoading(false);
-      });
-    };
-    getLines();
-  }, []);
-  /***********/
-
   const { width, height, svgRef, getContainerSize } = useResponsiveChart();
-
   const [functionMap, setFunctionMap] = useState<Record<string, () => void>>(
     {}
   );
+  const tooltipRef = useRef();
+  const [tooltipData, setTooltipData] = useState();
 
   useEffect(() => {
     if (!width || !height) return;
 
     // Selection
     const svg = d3.select(svgRef.current);
-    const dialogueDiv = d3.select(".dialogue-container");
 
-    // Scatter plot axis
-    const plotHeight = Math.min(300, height);
-    const scatterYRange = [
-      height / 2 + plotHeight / 2,
-      height / 2 - plotHeight / 2,
-    ];
+    const {
+      resetAxis,
+      plotHeight,
+      leftMargin,
+      scatterYRange,
+      xYear,
+      xYearAxis,
+      xYearAxisGroup,
+      xDecade,
+      xDecadeAxis,
+      xDecadeAxisGroup,
+      yBechdel,
+      yBechdelAxis,
+      yBechdelAxisGroup,
+      yCount,
+      yCountAxis,
+      yCountAxisGroup,
+      yGenre,
+      yGenreAxis,
+      yGenreAxisGroup,
+      xDirector,
+      xDirectorAxis,
+      xDirectorAxisGroup,
+    } = getAxis({
+      svg,
+      data,
+      height,
+      width,
+      decadesDomain,
+      bechdelDomain,
+      genreDomain: filteredGenreDomain,
+      directorsDomain,
+    });
 
-    const y = d3
-      .scaleLinear()
-      .domain(d3.extent(data, (d) => d.bechdel) as [number, number])
-      .range(scatterYRange)
-      .nice();
-
-    const x = d3
-      .scaleTime()
-      .domain(d3.extent(data, (d) => d.year) as [number, number])
-      .range([0, width]);
-
-    const yAxis = d3.axisLeft(y).tickFormat((d) => `${d}`);
-    const yAxisGroup = svg.select("g.y-axis").call(yAxis);
-
-    const xAxis = d3.axisBottom(x);
-    const xAxisGroup = svg
-      .select("g.x-axis")
-      .style("transform", `translateY(${scatterYRange[0]}px)`)
-      .call(xAxis);
-
-    xAxisGroup.attr("opacity", 0);
-    yAxisGroup.attr("opacity", 0);
+    // color scale
+    const bechdelColorScale = d3
+      .scaleOrdinal()
+      .domain(bechdelDomain)
+      .range(["#27A7C1", "#B4DFED", "#F9CBD4", "#E35E6D"]);
 
     // Scatter plot marks
-    const marksGroup = svg.select("g.marks");
-    marksGroup
-      .selectAll("rect.mark")
-      .data(data)
-      .join("rect")
-      .attr("class", "mark")
-      .attr("class", (d, i) => {
-        //TODO use movie id
-        if (i === 0) return "mark compare movie1";
-        else if (i === 1) return "mark compare movie2";
-        else return "mark";
-      })
-      .style("fill", "#ff8018")
-      .attr("opacity", 0);
-
-    // 2 movies comparison bins
-    const dialoguePlotGroup = svg.select("g.dialogue-plots-group");
-
-    dialoguePlotGroup
-      .selectAll("g.dialogue-plot")
-      .data(chunkedDataset)
-      .join("g")
-      .attr("class", (d, i) => `dialogue-plot movie-${i}`)
-      .selectAll("rect.bin")
-      .data((d) => d.data)
-      .join("rect")
-      .attr("class", "bin");
-    /** */
-
-    const resetDialoguePlot = () => {
-      dialoguePlotGroup
-        .selectAll("rect")
-        .transition()
-        .duration(200)
-        .attr("width", 0)
-        .attr("height", 0.5)
-        .attr("stroke", "none");
-    };
+    const { marksGroup, marks, resetMarks } = prepareUnits({
+      svg,
+      data,
+      bechdelColorScale,
+    });
+    // Scatter plot marks of all genre flattend
+    const { genreMarksGroup, genreMarks, resetGenreMarks } = prepareGenreUnits({
+      svg,
+      data: filteredGenreData,
+      bechdelColorScale,
+    });
+    // bechdel over time stacked area
+    const {
+      decadeGroup,
+      areaTransitionEnd,
+      areaTransitionStart,
+      stacked,
+      resetStackedArea,
+    } = prepareStackedArea({
+      svg,
+      data,
+      decadesDomain,
+      bechdelDomain,
+      xDecade,
+      yCount,
+      bechdelColorScale,
+    });
 
     // Step0: title
     const showTitle = () => {
-      resetDialoguePlot();
-      xAxisGroup.transition().duration(200).attr("opacity", 0);
-      yAxisGroup.transition().duration(200).attr("opacity", 0);
+      // resetDialoguePlot(0);
+      resetMarks(0, true);
+      resetGenreMarks(0, false);
+      resetAxis(0);
+      resetStackedArea(0);
 
       const squareSizeW = 100;
       const squareSizeH = 140;
       const squarePad = 5;
-      const numPerRow = Math.floor(width / (squareSizeW + squarePad));
+      const numPerRow = Math.ceil(width / (squareSizeW + squarePad));
 
-      svg
-        .selectAll(".mark")
+      const totalW = numPerRow * squareSizeW + (numPerRow - 1) * squarePad;
+      const leftOffset = (totalW - width) / 2;
+
+      marks
         .transition()
         .duration(600)
         .delay((d, i) => {
@@ -171,183 +127,249 @@ const Plot = ({ activeStep }: { activeStep: number }) => {
         .attr("height", squareSizeH)
         .attr("x", (d, i) => {
           const col = Math.floor(i % numPerRow);
-          return col * (squareSizeW + squarePad);
+          return col * (squareSizeW + squarePad) - leftOffset;
         })
         .attr("y", (d, i) => {
-          const col = Math.floor(i % numPerRow);
           const row = Math.floor(i / numPerRow);
           return row * (squareSizeH + squarePad);
-          // + (col % 2 > 0 ? 70 : 0);
         })
         .attr("opacity", 1);
     };
 
-    // Step1: Scatter plot
+    // Step1: timeline unit
     const showStep1 = () => {
-      resetDialoguePlot();
-      xAxisGroup.transition().duration(1600).attr("opacity", 1);
-      yAxisGroup.transition().duration(1600).attr("opacity", 1);
+      // resetDialoguePlot();
+      resetMarks(0, true);
+      resetGenreMarks(0, false);
+      resetAxis(0, { xDecade: false });
+      resetStackedArea(0);
 
-      svg
-        .selectAll(".mark")
+      xDecadeAxisGroup
+        .transition()
+        .duration(1000)
+        .attr("opacity", 1)
+        .style("transform", `translateY(${scatterYRange[0]}px)`);
+
+      const sizeW = xDecade.bandwidth();
+      const sizeH = 10;
+      const marginTop = 3;
+
+      marks
         .transition()
         .duration(600)
         .delay((d, i) => {
-          return 5 * i;
+          return 3 * i;
         })
-        .attr("width", 12)
-        .attr("height", 12)
-        .attr("x", (d) => x(d.year) - 6)
-        .attr("y", (d) => y(d.bechdel) - 6)
+        .attr("width", sizeW)
+        .attr("height", sizeH)
+        .attr("x", (d) => xDecade(d.decade))
+        .attr("y", (d) => {
+          const offset = scatterYRange[0] - sizeH - 5;
+          const yearIdx = decadeGroup
+            .get(d.decade)
+            .findIndex((groupItem) => groupItem.id === d.id);
+          return offset + yearIdx * (sizeH + marginTop) * -1;
+        })
         .attr("opacity", 1);
     };
 
-    // Step2: Select 2 movies.
+    // Step2: bechdel + time alluvial
     const showStep2 = () => {
-      resetDialoguePlot();
+      // resetDialoguePlot();
+      // resetMarks(0, true);
+      resetGenreMarks(0, false);
+      resetAxis(600, { xDecade: false, yCount: false });
+      // resetStackedArea(0);
 
-      dialogueDiv.transition().duration(600).style("opacity", 0);
+      xDecadeAxisGroup
+        .transition()
+        .duration(1000)
+        .attr("opacity", 1)
+        .style("transform", `translateY(${scatterYRange[0]}px)`);
+      yCountAxisGroup.transition().duration(1600).attr("opacity", 1);
+      // .style("transform", `translateX(${10}px)`);
 
-      xAxisGroup.transition().duration(600).attr("opacity", 0);
-      yAxisGroup.transition().duration(600).attr("opacity", 0);
-
-      svg
-        .selectAll(".mark")
+      // remove mark
+      marks
         .transition()
         .duration(600)
         .delay((d, i) => {
-          return 5 * i;
+          return 3 * i;
         })
-        .attr("width", 12)
-        .attr("height", 12)
-        .attr("x", (d) => x(d.year) - 6)
-        .attr("y", (d) => y(d.bechdel) - 6)
+        .attr("y", scatterYRange[0] - 20)
+        .attr("opacity", 0);
+
+      // show area
+      stacked
+        .attr("d", areaTransitionStart)
+        .attr("opacity", 1)
+        .transition()
+        .duration(1000)
+        .delay((d, i) => {
+          return 300 + 50 * i;
+        })
+        .attr("d", areaTransitionEnd);
+    };
+
+    // step3: beeswarm gere + time
+    const genreDecadeGrossBeeswarmData = getBeeswarmData({
+      data: filteredGenreData,
+      x: (d) => xDecade(d.decade) + xDecade.bandwidth() / 2,
+      y: (d) => yGenre(d.genre) + yGenre.bandwidth() / 2,
+      sizeAttribute: "worldGross",
+      yStrength: 10,
+    });
+
+    const showStep3 = () => {
+      resetAxis(600, { yGenre: false, xDecade: false });
+      resetMarks(0, false);
+      resetGenreMarks(0, true);
+
+      yGenreAxisGroup.transition().duration(600).attr("opacity", 1);
+      xDecadeAxisGroup
+        .transition()
+        .duration(600)
+        .attr("opacity", 1)
+        .style("transform", `translateY(${scatterYRange[0]}px)`);
+
+      // hide stacked
+      stacked
+        .transition()
+        .duration(600)
+        .delay((d, i) => {
+          return 50 * i;
+        })
+        .attr("d", areaTransitionStart);
+
+      // show unit
+      genreMarks
+        .attr("x", (d) => xDecade(d.decade))
+        .attr("y", scatterYRange[0] - 20)
+        .attr("width", (d, i) => genreDecadeGrossBeeswarmData[i].r)
+        .attr("height", (d, i) => genreDecadeGrossBeeswarmData[i].r)
+        .attr("opacity", 1)
+        .transition()
+        .duration(600)
+        .delay((d, i) => {
+          return 300 + 2 * i;
+        })
+        .attr("x", (d, i) => genreDecadeGrossBeeswarmData[i].x)
+        .attr("y", (d, i) => genreDecadeGrossBeeswarmData[i].y);
+    };
+
+    // step4: director gender + genre
+    const genreDirectorGrossBeeswarmData = getBeeswarmData({
+      data: filteredGenreData,
+      x: (d) =>
+        xDirector(
+          d.directorList.every((director) => director.gender === "Male")
+            ? "Male"
+            : "Female"
+        ) +
+        xDirector.bandwidth() / 2,
+      y: (d) => yGenre(d.genre) + yGenre.bandwidth() / 2,
+      sizeAttribute: "worldGross",
+      yStrength: 1,
+    });
+
+    const showStep4 = () => {
+      resetAxis(600, { yGenre: false, xDirector: false });
+      resetMarks(0, false);
+      resetStackedArea(0);
+
+      yGenreAxisGroup.transition().duration(600).attr("opacity", 1);
+      xDirectorAxisGroup
+        .transition()
+        .duration(600)
+        .attr("opacity", 1)
+        .style("transform", `translateY(${scatterYRange[0]}px)`);
+
+      // show unit
+      genreMarks
+        .attr("width", (d, i) => genreDirectorGrossBeeswarmData[i].r)
+        .attr("height", (d, i) => genreDirectorGrossBeeswarmData[i].r)
+        .attr("opacity", 1)
+        .transition()
+        .duration(600)
+        .delay((d, i) => {
+          return 300 + 2 * i;
+        })
+        .attr("x", (d, i) => genreDirectorGrossBeeswarmData[i].x)
+        .attr("y", (d, i) => genreDirectorGrossBeeswarmData[i].y);
+    };
+
+    // Step5: Select 2 movies.
+    const showStep5 = () => {
+      // resetDialoguePlot(0);
+      resetAxis();
+      resetMarks(0, false);
+      resetStackedArea(0);
+
+      const size = 50;
+      genreMarks
+        .transition()
+        .duration(300)
+        .delay((d, i) => {
+          return 2 * i;
+        })
         .attr("opacity", (d, i) => {
           //TODO use movie id
           if (i === 0 || i === 1) return 1;
           else return 0;
-        });
-    };
-
-    const scriptBoxWidth = 200;
-    const scriptBoxGap = 200;
-
-    // Step2: Explain dialog analysis.
-    const showStep3 = () => {
-      resetDialoguePlot();
-
-      dialogueDiv
-        .selectAll("p")
-        .style("background-color", "transparent")
-        .style("color", "#fff");
-
-      dialogueDiv.style("gap", scriptBoxGap + "px");
-      dialogueDiv
-        .selectAll(`.dialogue`)
-        .style("width", scriptBoxWidth + "px")
-        .style("font-size", 13 + "px");
-
-      svg
-        .selectAll(".mark.compare")
-        .transition()
-        .duration(400)
-        .attr("x", (d, i) => i * scriptBoxWidth + i * scriptBoxGap)
-        .attr("y", 0)
-        .attr("width", scriptBoxWidth)
-        .transition()
-        .duration(500)
-        .attr(
-          "height",
-          (d, i) =>
-            dialogueDiv.select(`.dialogue.movie-${i}`)?.node()?.clientHeight
-        )
-        .attr("opacity", 1)
-        .on("end", () => {
-          dialogueDiv.transition().duration(400).style("opacity", 1);
         })
-        .transition()
-        .duration(400)
-        .attr("opacity", 0);
-    };
-
-    const showStep4 = () => {
-      dialogueDiv.transition().duration(200).style("opacity", 1);
-      svg.selectAll(".mark.compare").attr("opacity", 0);
-      resetDialoguePlot();
-
-      dialogueDiv
-        .selectAll(`.dialogue`)
-        .transition()
-        .duration(1000)
-        .style("font-size", 2.5 + "px")
-        .on("end", (_, idx, nodes) => {
-          dialogueDiv
-            .selectAll("p.female")
+        .on("end", () => {
+          svg
+            .selectAll(".genre-mark.compare")
             .transition()
-            .delay(200)
-            .duration(3000)
-            .style("color", "#ff8018")
-            .style("background-color", "#ff8018");
-
-          dialogueDiv
-            .selectAll("p.male")
-            .transition()
-            .duration(3000)
-            .style("color", "#000");
+            .duration(500)
+            .attr("width", size)
+            .attr("height", size);
         });
     };
 
-    const showStep5 = () => {
-      dialogueDiv.transition().delay(1000).duration(1000).style("opacity", 0);
+    // Step6: Explain dialog analysis.
+    // const dialogueContainer = d3.select(".dialogue-container");
+    // const scriptBoxWidth = 200;
+    // const scriptBoxGap = 200;
 
-      const divs = dialogueDiv.selectAll(`.dialogue`).nodes();
+    // const showStep6 = () => {
+    //   // resetDialoguePlot();
 
-      divs.forEach((div, idx) => {
-        const boxHeight = div?.clientHeight;
-        const chunkHeight = boxHeight / chunkSize;
-        const dialoguePlot = dialoguePlotGroup.select(
-          `g.dialogue-plot.movie-${idx}`
-        );
+    //   dialogueContainer
+    //     .selectAll("p")
+    //     .style("background-color", "transparent")
+    //     .style("color", "#fff");
 
-        const binSize = 30;
-        const binPad = 0;
-        const numPerRow = Math.sqrt(chunkSize);
-        const boxPosX = idx * scriptBoxWidth + idx * scriptBoxGap;
+    //   dialogueContainer.style("gap", scriptBoxGap + "px");
+    //   dialogueContainer
+    //     .selectAll(`.dialogue`)
+    //     .style("transform", `translateX(${leftMargin}px)`)
+    //     .style("width", scriptBoxWidth + "px")
+    //     .style("font-size", 13 + "px");
 
-        const pad = 10;
-        dialoguePlot
-          .selectAll("rect")
-          .attr("x", idx * scriptBoxWidth + idx * scriptBoxGap - pad)
-          .attr("y", (d, i) => i * chunkHeight)
-          .attr("width", 0)
-          .attr("height", chunkHeight)
-          .attr("stroke", "#fff")
-          .attr("stroke-width", 0.2)
-          .attr("fill-opacity", 0)
-          .attr("fill", "#ff8018")
-          .transition()
-          .duration(1000)
-          .attr("width", scriptBoxWidth + pad * 2)
-          .transition()
-          .duration(1000)
-          .attr("fill-opacity", (d) => d.femalePercentage.toFixed(2))
-          .transition()
-          .duration(1000)
-          .delay((d, i) => {
-            return 10 * i;
-          })
-          .attr("width", binSize)
-          .attr("height", binSize)
-          .attr("x", (d, i) => {
-            const col = Math.floor(i % numPerRow);
-            return col * (binSize + binPad) + boxPosX;
-          })
-          .attr("y", (d, i) => {
-            const row = Math.floor(i / numPerRow);
-            return row * (binSize + binPad);
-          });
-      });
-    };
+    //   svg
+    //     .selectAll(".mark.compare")
+    //     .transition()
+    //     .duration(400)
+    //     .attr("x", (d, i) => leftMargin + i * scriptBoxWidth + i * scriptBoxGap)
+    //     .attr("y", 0)
+    //     .attr("width", scriptBoxWidth)
+    //     .transition()
+    //     .duration(500)
+    //     .attr(
+    //       "height",
+    //       (d, i) =>
+    //         dialogueContainer.select(`.dialogue.movie-${i}`)?.node()
+    //           ?.clientHeight
+    //     )
+    //     .attr("opacity", 1)
+    //     .on("end", () => {
+    //       dialogueContainer.transition().duration(400).style("opacity", 1);
+    //     })
+    //     .transition()
+    //     .duration(400)
+    //     .attr("opacity", 0);
+    // };
 
     setFunctionMap({
       0: showTitle,
@@ -355,7 +377,11 @@ const Plot = ({ activeStep }: { activeStep: number }) => {
       2: showStep2,
       3: showStep3,
       4: showStep4,
+      // script alanysis
       5: showStep5,
+      // 6: showStep6,
+      // 7: showStep7,
+      // 8: showStep8,
     });
   }, [width, height, data]);
 
@@ -364,13 +390,13 @@ const Plot = ({ activeStep }: { activeStep: number }) => {
     functionMap?.[activeStep]?.();
   }, [activeStep, functionMap]);
 
-  return isLoading ? null : (
+  return (
     <div
       className="chart"
       style={{
         width: "100%",
         height: "100%",
-        padding: "60px",
+        padding: "100px",
       }}
     >
       <svg
@@ -379,13 +405,18 @@ const Plot = ({ activeStep }: { activeStep: number }) => {
           getContainerSize();
         }}
       >
-        <g className="axis y-axis"></g>
-        <g className="axis x-axis"></g>
+        <g className="axis y-axis y-axis-bechdel"></g>
+        <g className="axis y-axis y-axis-genre"></g>
+        <g className="axis y-axis y-axis-count"></g>
+        <g className="axis x-axis x-axis-year"></g>
+        <g className="axis x-axis x-axis-decade"></g>
+        <g className="axis x-axis x-axis-director"></g>
         <g className="marks"></g>
+        <g className="genre-marks"></g>
+        <g className="stacks"></g>
         <g className="dialogue-plots-group"></g>
       </svg>
-      <div className="tooltip"></div>
-      <div className="dialogue-container">
+      {/* <div className="dialogue-container">
         {dialogueDataset.map(({ title, data }, i) => (
           <div className={classNames("dialogue", `movie-${i}`)} key={i}>
             {data.map((d) => (
@@ -401,7 +432,16 @@ const Plot = ({ activeStep }: { activeStep: number }) => {
             ))}
           </div>
         ))}
-      </div>
+      </div> */}
+      {tooltipData && (
+        <div
+          className="tooltip"
+          ref={tooltipRef}
+          style={{ left: tooltipData.left, top: tooltipData.top }}
+        >
+          <div className="title">{tooltipData.title}</div>
+        </div>
+      )}
     </div>
   );
 };

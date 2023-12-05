@@ -1,0 +1,60 @@
+{
+  "fileName": "Alien_dialogue.txt",
+  "title": "Alien",
+  "data": [
+    {
+      "id": 0,
+      "index": 0,
+      "character": "CHAZ STANDARD,",
+      "gender": "NA",
+      "line": "Captain.................A leader and a politician. Believes that any action is better than no action.",
+      "wordCount": 14
+    },
+    {
+      "id": 1,
+      "index": 1,
+      "character": "MARTIN ROBY,",
+      "gender": "NA",
+      "line": "Executive Officer.......Cautious but intelligent -- a survivor.",
+      "wordCount": 7
+    },
+    {
+      "id": 2,
+      "index": 2,
+      "character": "DELL BROUSSARD,",
+      "gender": "NA",
+      "line": "Navigator...............Adventurer; brash glory-hound.",
+      "wordCount": 3
+    },
+    {
+      "id": 3,
+      "index": 3,
+      "character": "SANDY MELKONIS,",
+      "gender": "NA",
+      "line": "Communications..........Tech Intellectual; a romantic.",
+      "wordCount": 4
+    },
+    {
+      "id": 4,
+      "index": 4,
+      "character": "CLEAVE HUNTER,",
+      "gender": "NA",
+      "line": "Mining Engineer.........High-strung; came along to make his fortune.",
+      "wordCount": 8
+    },
+    {
+      "id": 5,
+      "index": 5,
+      "character": "JAY FAUST,",
+      "gender": "NA",
+      "line": "Engine Tech.............A worker. Unimaginative.",
+      "wordCount": 4
+    },
+    {
+      "id": 6,
+      "index": 6,
+      "character": "",
+      "gender": "Female"
+    }
+  ]
+}

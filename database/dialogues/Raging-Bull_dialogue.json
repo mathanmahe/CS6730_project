@@ -1,0 +1,5516 @@
+{
+  "fileName": "Raging-Bull_dialogue.txt",
+  "title": "Raging Bull",
+  "data": [
+    {
+      "id": 0,
+      "index": 0,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Good evening, ladies and gentlemen. It's a thrill to be standing here talking to you wonderful people. In fact, it's a thrill to be standing! I haven't seen so many people since my last fight at Madison Square Garden. After that fight, a reporter asked me, 'Jake, where do you go from here?' I said, 'To a hospital!' I fought one hundred and six professional fights and still none of them bums figured out how to fight me -- they kept hitting me in the head! And that's why I'm here tonight... 'When the fighter's not engaged in his employment, his employment, although he was Champ and quite the rage, he must go somewhere else to seek employment, seek employment. But a fighter's life is not a bowl of cherries, still I'd rather have an egg than a fist upon my face... That's Entertainment!'",
+      "wordCount": 144
+    },
+    {
+      "id": 1,
+      "index": 1,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "You didn't have to come to Cleveland to get beat by a \"moulan yan,\" Jake!",
+      "wordCount": 15
+    },
+    {
+      "id": 2,
+      "index": 2,
+      "character": "TONY",
+      "gender": "NA",
+      "line": "He's got you, Jake! You're outpointed! You're coming up for the tenth. You gotta knock him out!",
+      "wordCount": 17
+    },
+    {
+      "id": 3,
+      "index": 3,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "A grand apiece! We got a grand apiece on this, Jake! A fucking grand!",
+      "wordCount": 14
+    },
+    {
+      "id": 4,
+      "index": 4,
+      "character": "REFEREE",
+      "gender": "NA",
+      "line": "One, two, three, four...",
+      "wordCount": 4
+    },
+    {
+      "id": 5,
+      "index": 5,
+      "character": "ANNOUNCER",
+      "gender": "Male",
+      "line": "Ladies and Gentlemen, the winner, under the rules of the Cleveland Boxing Commission, after ten rounds, by a decision -- Jimmy Reeves.",
+      "wordCount": 22
+    },
+    {
+      "id": 6,
+      "index": 6,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "Don't get out of the ring. You won the fight -- let him go out first.",
+      "wordCount": 16
+    },
+    {
+      "id": 7,
+      "index": 7,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "Salvy, would I steer you wrong? Let's say that's the truck; it's full of cigarettes, right? Now, two o'clock this morning we move the truck from here to there, (he points; the CAMERA",
+      "wordCount": 33
+    },
+    {
+      "id": 8,
+      "index": 8,
+      "character": "PANS)",
+      "gender": "NA",
+      "line": "take the cigarettes out, sell 'em, make some cash.",
+      "wordCount": 9
+    },
+    {
+      "id": 9,
+      "index": 9,
+      "character": "SALVY",
+      "gender": "Male",
+      "line": "Hey but Joey, you're thinking nickels and dimes. The money's with your brother.",
+      "wordCount": 13
+    },
+    {
+      "id": 10,
+      "index": 10,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "What do you want from my life, Salvy? He's my brother.",
+      "wordCount": 11
+    },
+    {
+      "id": 11,
+      "index": 11,
+      "character": "SALVY",
+      "gender": "Male",
+      "line": "He ain't doin' the right thing. He's makin' beans compared to what he should be makin'. Can't you make him understand that?",
+      "wordCount": 22
+    },
+    {
+      "id": 12,
+      "index": 12,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "Hey, leave the kids alone.",
+      "wordCount": 5
+    },
+    {
+      "id": 13,
+      "index": 13,
+      "character": "SALVY",
+      "gender": "Male",
+      "line": "Get lost. Hey kids, \"A cop is a rat.\" Remember that, \"A rat.\"",
+      "wordCount": 13
+    },
+    {
+      "id": 14,
+      "index": 14,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "Hey Jimmy, here's a dollar for your trouble. There's some bums around the corner -- they need your help.",
+      "wordCount": 19
+    },
+    {
+      "id": 15,
+      "index": 15,
+      "character": "COP",
+      "gender": "NA",
+      "line": "Keep the dollar, Joey. Get yourself a new suit.",
+      "wordCount": 9
+    },
+    {
+      "id": 16,
+      "index": 16,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "Here's my new suit. Right here.",
+      "wordCount": 6
+    },
+    {
+      "id": 17,
+      "index": 17,
+      "character": "COP",
+      "gender": "NA",
+      "line": "Hey, don't get wise!",
+      "wordCount": 4
+    },
+    {
+      "id": 18,
+      "index": 18,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "Just kidding, take it easy. No fuckin' sense of humor.",
+      "wordCount": 10
+    },
+    {
+      "id": 19,
+      "index": 19,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "This looks done.",
+      "wordCount": 3
+    },
+    {
+      "id": 20,
+      "index": 20,
+      "character": "IRMA",
+      "gender": "Female",
+      "line": "It's not done.",
+      "wordCount": 3
+    },
+    {
+      "id": 21,
+      "index": 21,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "It looks done. I'll take it the way it is.",
+      "wordCount": 10
+    },
+    {
+      "id": 22,
+      "index": 22,
+      "character": "IRMA",
+      "gender": "Female",
+      "line": "Here's your steak. You can't wait for it to be done. Here.",
+      "wordCount": 12
+    },
+    {
+      "id": 23,
+      "index": 23,
+      "character": "IRMA",
+      "gender": "Female",
+      "line": "Here's your carrots. You're in such a hurry. You can't wait.",
+      "wordCount": 11
+    },
+    {
+      "id": 24,
+      "index": 24,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "No, I can't wait. You know when I wait? When it's important to wait. It's not important to wait for no steak. It's important to wait for Reeves to leave the ring. It ain't important to wait for no steak! I won that fight. So, I stayed in the ring, and that way I made sure everybody knew it. I shoulda knocked him out earlier, sonofabitch.",
+      "wordCount": 66
+    },
+    {
+      "id": 25,
+      "index": 25,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Wait! I'll wait. But let me tell you, if this steak was the middleweight championship, I'd show you how I'd wait. I'd eat it raw. I'd drink the blood. I'd eat it before it came out of the cow -- that's how I'd wait.",
+      "wordCount": 44
+    },
+    {
+      "id": 26,
+      "index": 26,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "I can't convince him. He's got such a thick head, I'd like to crack it open myself. Believe me, my own brother. It's very hard. You don't have to convince me -- I know we should be with Tommy. You talk to him. He don't listen to nobody.",
+      "wordCount": 48
+    },
+    {
+      "id": 27,
+      "index": 27,
+      "character": "SALVY",
+      "gender": "Male",
+      "line": "Look, I'm just tellin' you how Tommy feels. Jake is makin' it hard on himself. Tommy wants him with us. It's as simple as that.",
+      "wordCount": 25
+    },
+    {
+      "id": 28,
+      "index": 28,
+      "character": "SALVY",
+      "gender": "Male",
+      "line": "Talk some sense into him, will ya? You're still his brother. If he ain't gonna listen to you, he ain't gonna listen to nobody!",
+      "wordCount": 24
+    },
+    {
+      "id": 29,
+      "index": 29,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "All right, I'll try. See you later.",
+      "wordCount": 7
+    },
+    {
+      "id": 30,
+      "index": 30,
+      "character": "SALVY",
+      "gender": "Male",
+      "line": "Tomorrow, at the gym. Don't forget.",
+      "wordCount": 6
+    },
+    {
+      "id": 31,
+      "index": 31,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "Right, the gym.",
+      "wordCount": 3
+    },
+    {
+      "id": 32,
+      "index": 32,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "What's the matter?",
+      "wordCount": 3
+    },
+    {
+      "id": 33,
+      "index": 33,
+      "character": "IRMA",
+      "gender": "Female",
+      "line": "He's doing it again.",
+      "wordCount": 4
+    },
+    {
+      "id": 34,
+      "index": 34,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "What's the matter? You're drinking. You're eating like an animal.",
+      "wordCount": 10
+    },
+    {
+      "id": 35,
+      "index": 35,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "What's wrong?",
+      "wordCount": 2
+    },
+    {
+      "id": 36,
+      "index": 36,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Nothing...",
+      "wordCount": 1
+    },
+    {
+      "id": 37,
+      "index": 37,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "Hey, c'mon, what's the matter?",
+      "wordCount": 5
+    },
+    {
+      "id": 38,
+      "index": 38,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "I ain't ever gonna fight Joe Louis, that's what's the matter.",
+      "wordCount": 11
+    },
+    {
+      "id": 39,
+      "index": 39,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "What're you talking about? He's a heavyweight. You're a middleweight.",
+      "wordCount": 10
+    },
+    {
+      "id": 40,
+      "index": 40,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Look at these hands. These fuckin' hands. I was born with a girl's hands. And even if I put on enough weight to be a heavyweight, I'd be too slow to fight. No matter how big I get, I'll never be big enough to fight Louis.",
+      "wordCount": 46
+    },
+    {
+      "id": 41,
+      "index": 41,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "That's what I'm sayin'. You shouldn't even think like that. It's crazy.",
+      "wordCount": 12
+    },
+    {
+      "id": 42,
+      "index": 42,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "I tell you one thing. Ok, I'll never be big enough to fight Louis, but I know Joey, I know...",
+      "wordCount": 20
+    },
+    {
+      "id": 43,
+      "index": 43,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "You know?",
+      "wordCount": 2
+    },
+    {
+      "id": 44,
+      "index": 44,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Yeah. Do me a favor.",
+      "wordCount": 5
+    },
+    {
+      "id": 45,
+      "index": 45,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "Sure. What is it?",
+      "wordCount": 4
+    },
+    {
+      "id": 46,
+      "index": 46,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Hit me in the face.",
+      "wordCount": 5
+    },
+    {
+      "id": 47,
+      "index": 47,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "You want me to do what?",
+      "wordCount": 6
+    },
+    {
+      "id": 48,
+      "index": 48,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "You heard me, I said hit me.",
+      "wordCount": 7
+    },
+    {
+      "id": 49,
+      "index": 49,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "C'mon, Jack. You had a few drinks.",
+      "wordCount": 7
+    },
+    {
+      "id": 50,
+      "index": 50,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Go ahead. I ain't drunk. Take your best shot. On the jaw.",
+      "wordCount": 12
+    },
+    {
+      "id": 51,
+      "index": 51,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "Jack, I got no gloves.",
+      "wordCount": 5
+    },
+    {
+      "id": 52,
+      "index": 52,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Here's your glove.",
+      "wordCount": 3
+    },
+    {
+      "id": 53,
+      "index": 53,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Go ahead. Hit me. C'mon, don't worry about it. I want you to hit me with everything you got.",
+      "wordCount": 19
+    },
+    {
+      "id": 54,
+      "index": 54,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Again. Harder.",
+      "wordCount": 2
+    },
+    {
+      "id": 55,
+      "index": 55,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Harder. Go 'head.",
+      "wordCount": 3
+    },
+    {
+      "id": 56,
+      "index": 56,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Harder. Take the towel off.",
+      "wordCount": 5
+    },
+    {
+      "id": 57,
+      "index": 57,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "Jack! Enough!",
+      "wordCount": 2
+    },
+    {
+      "id": 58,
+      "index": 58,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Go ahead.",
+      "wordCount": 2
+    },
+    {
+      "id": 59,
+      "index": 59,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "What was that for? I know you can take punches. I can hit you from now to doomsday. What the fuck does that prove?",
+      "wordCount": 24
+    },
+    {
+      "id": 60,
+      "index": 60,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "See that, I don't feel it. I can take it. I know I can take anybody.",
+      "wordCount": 16
+    },
+    {
+      "id": 61,
+      "index": 61,
+      "character": "SALVY",
+      "gender": "Male",
+      "line": "Hey Joey --",
+      "wordCount": 3
+    },
+    {
+      "id": 62,
+      "index": 62,
+      "character": "SALVY",
+      "gender": "Male",
+      "line": "Jake, how you doin'?",
+      "wordCount": 4
+    },
+    {
+      "id": 63,
+      "index": 63,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Did you know they were coming up here?",
+      "wordCount": 8
+    },
+    {
+      "id": 64,
+      "index": 64,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Answer me when I talk to you.",
+      "wordCount": 7
+    },
+    {
+      "id": 65,
+      "index": 65,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "Yeah, yeah. They just wanted to talk to you. So I...",
+      "wordCount": 11
+    },
+    {
+      "id": 66,
+      "index": 66,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Don't ever bring those kids up here again! I'm working out, I'm killin' myself in here, and they walk around like they fuckin' own the neighborhood.",
+      "wordCount": 26
+    },
+    {
+      "id": 67,
+      "index": 67,
+      "character": "SALVY",
+      "gender": "Male",
+      "line": "Hey Joey, we better go. See you later.",
+      "wordCount": 8
+    },
+    {
+      "id": 68,
+      "index": 68,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Go 'head. Wave goodbye. They're your friends.",
+      "wordCount": 7
+    },
+    {
+      "id": 69,
+      "index": 69,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "And that hard-on, Salvy. Who's he think he is? I'm gonna let that fuckin' hard-on come up here and act like a big shot.",
+      "wordCount": 24
+    },
+    {
+      "id": 70,
+      "index": 70,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "What are you getting so hot about -- Tommy Como told him to come down here...",
+      "wordCount": 16
+    },
+    {
+      "id": 71,
+      "index": 71,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Hey, I don't care about Tommy Como. I don't care about Jesus Christ on the fuckin' cross. I gotta give them a percentage of what I make! I'm in here breaking my ass, not them. Don't ever bring them up here again.",
+      "wordCount": 42
+    },
+    {
+      "id": 72,
+      "index": 72,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "I didn't tell them to come. Tommy Como...",
+      "wordCount": 8
+    },
+    {
+      "id": 73,
+      "index": 73,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "That's right, fight back. I got laid three times before I came up here this morning and I can still break your ass.",
+      "wordCount": 23
+    },
+    {
+      "id": 74,
+      "index": 74,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "You cocksucker.",
+      "wordCount": 2
+    },
+    {
+      "id": 75,
+      "index": 75,
+      "character": "FAN",
+      "gender": "NA",
+      "line": "Hey, Jake.",
+      "wordCount": 2
+    },
+    {
+      "id": 76,
+      "index": 76,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Who's that?",
+      "wordCount": 2
+    },
+    {
+      "id": 77,
+      "index": 77,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "Whadda you care?",
+      "wordCount": 3
+    },
+    {
+      "id": 78,
+      "index": 78,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Whadda ya mean, whadda I care? Who is she? What's a matter? You afraid I'm gonna take her on you?",
+      "wordCount": 20
+    },
+    {
+      "id": 79,
+      "index": 79,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "No, I'm not afraid. Why? You wanna meet her?",
+      "wordCount": 9
+    },
+    {
+      "id": 80,
+      "index": 80,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Yeah --",
+      "wordCount": 2
+    },
+    {
+      "id": 81,
+      "index": 81,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "Cause I'll go right over there and bring her here.",
+      "wordCount": 10
+    },
+    {
+      "id": 82,
+      "index": 82,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Go 'head.",
+      "wordCount": 2
+    },
+    {
+      "id": 83,
+      "index": 83,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "You sure you wanna meet her? Don't make me go over there, you change your mind and you make me look bad, cause she's really a knockout. She's 15, this kid -- a great piece of ass.",
+      "wordCount": 37
+    },
+    {
+      "id": 84,
+      "index": 84,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "How do you know? You know her that good?",
+      "wordCount": 9
+    },
+    {
+      "id": 85,
+      "index": 85,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "No, I see her around the pool. I know her. I know her like that -- not like that.",
+      "wordCount": 19
+    },
+    {
+      "id": 86,
+      "index": 86,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Nah, not now... I wanna wait. I don't feel right...",
+      "wordCount": 10
+    },
+    {
+      "id": 87,
+      "index": 87,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "I'm tellin' you, she'll be there, I know she'll be there.",
+      "wordCount": 11
+    },
+    {
+      "id": 88,
+      "index": 88,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "'Cause I wanna catch her alone.",
+      "wordCount": 6
+    },
+    {
+      "id": 89,
+      "index": 89,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "How you gonna catch anybody alone at a dance?... I don't know if she'll be there alone... She'll probably be there with her girlfriends or something.",
+      "wordCount": 26
+    },
+    {
+      "id": 90,
+      "index": 90,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "She ever go with them? Like Salvy?",
+      "wordCount": 7
+    },
+    {
+      "id": 91,
+      "index": 91,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "Nah, she don't go with nobody. She's only 15 years old.",
+      "wordCount": 11
+    },
+    {
+      "id": 92,
+      "index": 92,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "What does that have to do with it? She don't look 15 to me. I heard somethin' with Salvy. She was with him once or somethin', I think. It was like some blonde. That's the one...",
+      "wordCount": 36
+    },
+    {
+      "id": 93,
+      "index": 93,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "Probably. You know she talks to everybody, and not just him.",
+      "wordCount": 11
+    },
+    {
+      "id": 94,
+      "index": 94,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Yeah, she's nice.",
+      "wordCount": 3
+    },
+    {
+      "id": 95,
+      "index": 95,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "Ah, some piece of ass, I'm tellin' you.",
+      "wordCount": 8
+    },
+    {
+      "id": 96,
+      "index": 96,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "You wasn't with her, were you?",
+      "wordCount": 6
+    },
+    {
+      "id": 97,
+      "index": 97,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "Huh?",
+      "wordCount": 1
+    },
+    {
+      "id": 98,
+      "index": 98,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "You wasn't with her?",
+      "wordCount": 4
+    },
+    {
+      "id": 99,
+      "index": 99,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "With her? How?",
+      "wordCount": 3
+    },
+    {
+      "id": 100,
+      "index": 100,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "You know, like bang her or anything?",
+      "wordCount": 7
+    },
+    {
+      "id": 101,
+      "index": 101,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "Ah, no, no. I didn't bang her. I know her from around here, that's all. You want to meet her or what?",
+      "wordCount": 22
+    },
+    {
+      "id": 102,
+      "index": 102,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Nah, not now -- all those hard-ons around. I'll wait. Not now.",
+      "wordCount": 12
+    },
+    {
+      "id": 103,
+      "index": 103,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "I'm tellin' you, she'll be there, I know she'll be there. Dressed up and everything.",
+      "wordCount": 15
+    },
+    {
+      "id": 104,
+      "index": 104,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "I don't like all those other clowns around. That's all I know.",
+      "wordCount": 12
+    },
+    {
+      "id": 105,
+      "index": 105,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "C'mon, hurry up. We're never gonna get outa here tonight.",
+      "wordCount": 10
+    },
+    {
+      "id": 106,
+      "index": 106,
+      "character": "IRMA",
+      "gender": "Female",
+      "line": "Where you going at this hour?",
+      "wordCount": 6
+    },
+    {
+      "id": 107,
+      "index": 107,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "What're you, a cop? I'm goin' out -- business.",
+      "wordCount": 9
+    },
+    {
+      "id": 108,
+      "index": 108,
+      "character": "IRMA",
+      "gender": "Female",
+      "line": "You fuckin' worm, if you're going out, I'm going out.",
+      "wordCount": 10
+    },
+    {
+      "id": 109,
+      "index": 109,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "And where you goin'?",
+      "wordCount": 4
+    },
+    {
+      "id": 110,
+      "index": 110,
+      "character": "IRMA",
+      "gender": "Female",
+      "line": "None of your fuckin' business.",
+      "wordCount": 5
+    },
+    {
+      "id": 111,
+      "index": 111,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Eh, go out. Do what you're gonna do. What do I care?",
+      "wordCount": 12
+    },
+    {
+      "id": 112,
+      "index": 112,
+      "character": "IRMA",
+      "gender": "Female",
+      "line": "That's right -- run out. I ain't gonna be here when you get back.",
+      "wordCount": 14
+    },
+    {
+      "id": 113,
+      "index": 113,
+      "character": "IRMA",
+      "gender": "Female",
+      "line": "Bunch of guys. You all hang out together. Yeah, you're all going out on business. You're all gonna suck each other off.",
+      "wordCount": 22
+    },
+    {
+      "id": 114,
+      "index": 114,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "What a mouth on her -- you shoulda hit her -- no good fuckin' Jewish cunt -- breakin' our balls. You shoulda hit her with a chair.",
+      "wordCount": 27
+    },
+    {
+      "id": 115,
+      "index": 115,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Hey, watch your mouth. Don't talk like that. She's still my wife.",
+      "wordCount": 12
+    },
+    {
+      "id": 116,
+      "index": 116,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "No, but Jake... how much abuse can you take.",
+      "wordCount": 9
+    },
+    {
+      "id": 117,
+      "index": 117,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "How many times do I have to hit her? I hit her enough.",
+      "wordCount": 13
+    },
+    {
+      "id": 118,
+      "index": 118,
+      "character": "IRMA",
+      "gender": "Female",
+      "line": "Go ahead -- that's all you're good for -- to go out and leave me here like a dog. You and your brother! You don't even look like brothers. You look like faggots! That's what you look like -- faggots!",
+      "wordCount": 40
+    },
+    {
+      "id": 119,
+      "index": 119,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "Look, could you move a little. Would you mind, darling?",
+      "wordCount": 10
+    },
+    {
+      "id": 120,
+      "index": 120,
+      "character": "VERA",
+      "gender": "NA",
+      "line": "Mind what, Mr. Big Shot?",
+      "wordCount": 5
+    },
+    {
+      "id": 121,
+      "index": 121,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Eh, girlie, take a walk.",
+      "wordCount": 5
+    },
+    {
+      "id": 122,
+      "index": 122,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "All right, darling, I'll just stand here and wait.",
+      "wordCount": 9
+    },
+    {
+      "id": 123,
+      "index": 123,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Do you see her yet?",
+      "wordCount": 5
+    },
+    {
+      "id": 124,
+      "index": 124,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "Give me a chance. Let me look.",
+      "wordCount": 7
+    },
+    {
+      "id": 125,
+      "index": 125,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "THERE she is over there on the other side. What did I tell you? Oh, ain't she nice? Ain't she a fuckin' doll?",
+      "wordCount": 23
+    },
+    {
+      "id": 126,
+      "index": 126,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Be right back.",
+      "wordCount": 3
+    },
+    {
+      "id": 127,
+      "index": 127,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "Hey, Vickie, c'mere. Don't be afraid. C'mere. Just say hello. This is my brother.",
+      "wordCount": 14
+    },
+    {
+      "id": 128,
+      "index": 128,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "Vickie, I want you to meet my brother, Jake. He's gonna be the next champ.",
+      "wordCount": 15
+    },
+    {
+      "id": 129,
+      "index": 129,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Joey said you wanted to meet me. Is that right? You wanted to meet me?",
+      "wordCount": 15
+    },
+    {
+      "id": 130,
+      "index": 130,
+      "character": "VICKIE",
+      "gender": "Female",
+      "line": "I just wanted to say hello.",
+      "wordCount": 6
+    },
+    {
+      "id": 131,
+      "index": 131,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "You wanted to say hello, eh? I can't believe it. When did you fall outa heaven? Anyone ever tell you you're the most beautiful one here, princess of the pool. You got a baby face. Look at mine. Whatcha wanna meet me for?",
+      "wordCount": 43
+    },
+    {
+      "id": 132,
+      "index": 132,
+      "character": "VICKIE",
+      "gender": "Female",
+      "line": "I don't know. 'Cause you're cute.",
+      "wordCount": 6
+    },
+    {
+      "id": 133,
+      "index": 133,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Ya hear, Joey? She thinks this face is cute? Hey, whatcha doin' now? You wanna go for a ride?",
+      "wordCount": 19
+    },
+    {
+      "id": 134,
+      "index": 134,
+      "character": "VICKIE",
+      "gender": "Female",
+      "line": "Sure. Gimme a few minutes.",
+      "wordCount": 5
+    },
+    {
+      "id": 135,
+      "index": 135,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Hey...",
+      "wordCount": 1
+    },
+    {
+      "id": 136,
+      "index": 136,
+      "character": "VICKIE",
+      "gender": "Female",
+      "line": "You don't talk very much.",
+      "wordCount": 5
+    },
+    {
+      "id": 137,
+      "index": 137,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "I ain't ever talked to a movie star before.",
+      "wordCount": 9
+    },
+    {
+      "id": 138,
+      "index": 138,
+      "character": "VICKIE",
+      "gender": "Female",
+      "line": "I ain't no movie star. I'm just in high school.",
+      "wordCount": 10
+    },
+    {
+      "id": 139,
+      "index": 139,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Oh no? I thought you was a movie star.",
+      "wordCount": 9
+    },
+    {
+      "id": 140,
+      "index": 140,
+      "character": "VICKIE",
+      "gender": "Female",
+      "line": "Jake! The bus!",
+      "wordCount": 3
+    },
+    {
+      "id": 141,
+      "index": 141,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Any bus gives you trouble, I knock it out for ya.",
+      "wordCount": 11
+    },
+    {
+      "id": 142,
+      "index": 142,
+      "character": "VICKIE",
+      "gender": "Female",
+      "line": "You go first. Let me watch how to do this.",
+      "wordCount": 10
+    },
+    {
+      "id": 143,
+      "index": 143,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "You don't get nothin' done by watchin'. You just gotta do it. Here, I'll help you.",
+      "wordCount": 16
+    },
+    {
+      "id": 144,
+      "index": 144,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "That's it. Just grip up a little tighter. That's it. You're gonna be real good at this. How does that feel?",
+      "wordCount": 21
+    },
+    {
+      "id": 145,
+      "index": 145,
+      "character": "VICKIE",
+      "gender": "Female",
+      "line": "It feels real good.",
+      "wordCount": 4
+    },
+    {
+      "id": 146,
+      "index": 146,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Just keep your eye on the ball.",
+      "wordCount": 7
+    },
+    {
+      "id": 147,
+      "index": 147,
+      "character": "VICKIE",
+      "gender": "Female",
+      "line": "Should I hit it?",
+      "wordCount": 4
+    },
+    {
+      "id": 148,
+      "index": 148,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Just give it a nice little tap.",
+      "wordCount": 7
+    },
+    {
+      "id": 149,
+      "index": 149,
+      "character": "VICKIE",
+      "gender": "Female",
+      "line": "I can't find my ball.",
+      "wordCount": 5
+    },
+    {
+      "id": 150,
+      "index": 150,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Can you see it?",
+      "wordCount": 4
+    },
+    {
+      "id": 151,
+      "index": 151,
+      "character": "VICKIE",
+      "gender": "Female",
+      "line": "No.",
+      "wordCount": 1
+    },
+    {
+      "id": 152,
+      "index": 152,
+      "character": "VICKIE",
+      "gender": "Female",
+      "line": "Can you see it?",
+      "wordCount": 4
+    },
+    {
+      "id": 153,
+      "index": 153,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "No.",
+      "wordCount": 1
+    },
+    {
+      "id": 154,
+      "index": 154,
+      "character": "VICKIE",
+      "gender": "Female",
+      "line": "What does that mean?",
+      "wordCount": 4
+    },
+    {
+      "id": 155,
+      "index": 155,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "It means the game is over.",
+      "wordCount": 6
+    },
+    {
+      "id": 156,
+      "index": 156,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Let's get outa here.",
+      "wordCount": 4
+    },
+    {
+      "id": 157,
+      "index": 157,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Hi Pop. This is my new girlfriend, Vickie. V for victory. How do you like that Pop?",
+      "wordCount": 17
+    },
+    {
+      "id": 158,
+      "index": 158,
+      "character": "JOE LAMOTTA",
+      "gender": "NA",
+      "line": "V for victory.",
+      "wordCount": 3
+    },
+    {
+      "id": 159,
+      "index": 159,
+      "character": "VICKIE",
+      "gender": "Female",
+      "line": "It's a pleasure to meet you, Mr. LaMotta.",
+      "wordCount": 8
+    },
+    {
+      "id": 160,
+      "index": 160,
+      "character": "JOE LAMOTTA",
+      "gender": "NA",
+      "line": "Sit down. Eat something.",
+      "wordCount": 4
+    },
+    {
+      "id": 161,
+      "index": 161,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "C'mon, Pop. You've been in America so many years. Speak English.",
+      "wordCount": 11
+    },
+    {
+      "id": 162,
+      "index": 162,
+      "character": "JOE LAMOTTA",
+      "gender": "NA",
+      "line": "You want me to speak English -- Fuck you. That's English.",
+      "wordCount": 11
+    },
+    {
+      "id": 163,
+      "index": 163,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Pop, don't curse. There's a girl here. I'm gonna show her around the house. Why don't you just finish your wine?",
+      "wordCount": 21
+    },
+    {
+      "id": 164,
+      "index": 164,
+      "character": "VICKIE",
+      "gender": "Female",
+      "line": "Jake, this is your father's bedroom.",
+      "wordCount": 6
+    },
+    {
+      "id": 165,
+      "index": 165,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "That's all right. He don't mind.",
+      "wordCount": 6
+    },
+    {
+      "id": 166,
+      "index": 166,
+      "character": "VICKIE",
+      "gender": "Female",
+      "line": "Jake...",
+      "wordCount": 1
+    },
+    {
+      "id": 167,
+      "index": 167,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "It's OK.",
+      "wordCount": 2
+    },
+    {
+      "id": 168,
+      "index": 168,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "The fuckin' papers are full of Robinson and nothing on Jake -- and Jake knocked him clear outa the ring in Detroit. He's the only guy ever to beat Robinson. Whatsa matter with you? I thought we had an arrangement.",
+      "wordCount": 40
+    },
+    {
+      "id": 169,
+      "index": 169,
+      "character": "REPORTER",
+      "gender": "NA",
+      "line": "We do Joey. You know we do.",
+      "wordCount": 7
+    },
+    {
+      "id": 170,
+      "index": 170,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "You holding me up for more cash or what?",
+      "wordCount": 9
+    },
+    {
+      "id": 171,
+      "index": 171,
+      "character": "REPORTER",
+      "gender": "NA",
+      "line": "I can't print nothing if Jake won't give me nothing.",
+      "wordCount": 10
+    },
+    {
+      "id": 172,
+      "index": 172,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "C'mon, Jake. You're makin' us look stupid. I brought these guys up here, now you don't wanna talk to them? What are ya doin'? Open your mouth, for Christsake.",
+      "wordCount": 29
+    },
+    {
+      "id": 173,
+      "index": 173,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "I'm tallin' you now, when I read this, it better not make me look bad.",
+      "wordCount": 15
+    },
+    {
+      "id": 174,
+      "index": 174,
+      "character": "REPORTER",
+      "gender": "NA",
+      "line": "Jake, did I ever make you look bad before?",
+      "wordCount": 9
+    },
+    {
+      "id": 175,
+      "index": 175,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Maybe it wasn't you, but you know what I'm talkin' about.",
+      "wordCount": 11
+    },
+    {
+      "id": 176,
+      "index": 176,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "Don't worry. Don't worry. It's gonna be all right. Ask him your questions.",
+      "wordCount": 13
+    },
+    {
+      "id": 177,
+      "index": 177,
+      "character": "REPORTER",
+      "gender": "NA",
+      "line": "All right, Jake, you're being talked about as the top middleweight contender. Do you think another victory over Sugar Ray will get you a shot at the title?",
+      "wordCount": 28
+    },
+    {
+      "id": 178,
+      "index": 178,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Why not? There's nobody else around who wants to fight me; they're all afraid. I don't see why I shouldn't have a shot at the title right now.",
+      "wordCount": 28
+    },
+    {
+      "id": 179,
+      "index": 179,
+      "character": "REPORTER",
+      "gender": "NA",
+      "line": "Well, the word is to get a title shot you have to cooperate with the people who control boxing, in New York. And they're saying that you don't cooperate.",
+      "wordCount": 29
+    },
+    {
+      "id": 180,
+      "index": 180,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "You guys know more about that than I do. I just fight...",
+      "wordCount": 12
+    },
+    {
+      "id": 181,
+      "index": 181,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "He fights the toughest guys around that everybody else is afraid to fight...",
+      "wordCount": 13
+    },
+    {
+      "id": 182,
+      "index": 182,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "I'm the only guy ever to beat Sugar Ray, and I still don't have a shot at the title.",
+      "wordCount": 19
+    },
+    {
+      "id": 183,
+      "index": 183,
+      "character": "REPORTER",
+      "gender": "NA",
+      "line": "You just fought Sugar Ray two weeks ago and you're training like this right now... Are you afraid Sugar Ray might beat you this time?",
+      "wordCount": 25
+    },
+    {
+      "id": 184,
+      "index": 184,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "I tell you what. You hit me here. Sugar Ray hits me here. I can't tell the difference. I just fight.",
+      "wordCount": 21
+    },
+    {
+      "id": 185,
+      "index": 185,
+      "character": "VICKIE",
+      "gender": "Female",
+      "line": "Are you sure we should be doing this?",
+      "wordCount": 8
+    },
+    {
+      "id": 186,
+      "index": 186,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Come over here.",
+      "wordCount": 3
+    },
+    {
+      "id": 187,
+      "index": 187,
+      "character": "VICKIE",
+      "gender": "Female",
+      "line": "You said never to touch you before a fight.",
+      "wordCount": 9
+    },
+    {
+      "id": 188,
+      "index": 188,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "If you let me do it, I'll murder you. Come here.",
+      "wordCount": 11
+    },
+    {
+      "id": 189,
+      "index": 189,
+      "character": "VICKIE",
+      "gender": "Female",
+      "line": "You said I couldn't. You've been good for two weeks...",
+      "wordCount": 10
+    },
+    {
+      "id": 190,
+      "index": 190,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Come here.",
+      "wordCount": 2
+    },
+    {
+      "id": 191,
+      "index": 191,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Take off my pants.",
+      "wordCount": 4
+    },
+    {
+      "id": 192,
+      "index": 192,
+      "character": "VICKIE",
+      "gender": "Female",
+      "line": "Jake...",
+      "wordCount": 1
+    },
+    {
+      "id": 193,
+      "index": 193,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Do what I say.",
+      "wordCount": 4
+    },
+    {
+      "id": 194,
+      "index": 194,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Now take the rest off.",
+      "wordCount": 5
+    },
+    {
+      "id": 195,
+      "index": 195,
+      "character": "VICKIE",
+      "gender": "Female",
+      "line": "Jake, you made me promise not to get you excited.",
+      "wordCount": 10
+    },
+    {
+      "id": 196,
+      "index": 196,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Go 'head. Do it.",
+      "wordCount": 4
+    },
+    {
+      "id": 197,
+      "index": 197,
+      "character": "VICKIE",
+      "gender": "Female",
+      "line": "I like the gym smell.",
+      "wordCount": 5
+    },
+    {
+      "id": 198,
+      "index": 198,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Now take your panties off.",
+      "wordCount": 5
+    },
+    {
+      "id": 199,
+      "index": 199,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Now, touch me... ... here.",
+      "wordCount": 5
+    },
+    {
+      "id": 200,
+      "index": 200,
+      "character": "VICKIE",
+      "gender": "Female",
+      "line": "Oh, Jake.",
+      "wordCount": 2
+    },
+    {
+      "id": 201,
+      "index": 201,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "I can't do it. I can't fool around. This Robinson, I gotta beat him again. I can't fool around. Don't come near me.",
+      "wordCount": 23
+    },
+    {
+      "id": 202,
+      "index": 202,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "They robbed us! Those fuckin' judges -- What the fuck fight were they watching? If I see them on the street, I'll break their heads. Decision Robinson, my fuckin' ass! Those judges give him the decision 'cause he's goin in the army next week! How else could this have happened?... What do you think they gave him the decision for, that's why.",
+      "wordCount": 62
+    },
+    {
+      "id": 203,
+      "index": 203,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Whadda I gotta do, Joey? I knocked him down. What did I do wrong? I don't understand.",
+      "wordCount": 17
+    },
+    {
+      "id": 204,
+      "index": 204,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "You won and was robbed! You didn't do nothin' wrong.",
+      "wordCount": 10
+    },
+    {
+      "id": 205,
+      "index": 205,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "I dunno. Maybe I don't deserve to win. I've done a lot of bad things. I dunno...",
+      "wordCount": 17
+    },
+    {
+      "id": 206,
+      "index": 206,
+      "character": "JOYE",
+      "gender": "NA",
+      "line": "Fuck that. This was the fight. This coulda done it. This was our shot. They out and out robbed us.",
+      "wordCount": 20
+    },
+    {
+      "id": 207,
+      "index": 207,
+      "character": "MARIO",
+      "gender": "Male",
+      "line": "Vickie is here, Jake.",
+      "wordCount": 4
+    },
+    {
+      "id": 208,
+      "index": 208,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "I don't wanna see nobody.",
+      "wordCount": 5
+    },
+    {
+      "id": 209,
+      "index": 209,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "You want us to wait for you?",
+      "wordCount": 7
+    },
+    {
+      "id": 210,
+      "index": 210,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "No, take her home. I wanna be alone for a while. Everybody go.",
+      "wordCount": 13
+    },
+    {
+      "id": 211,
+      "index": 211,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "I just weighed myself - I'm 161. No more deals like this Janiro bullshit. I didn't tell you to do it in the first place.",
+      "wordCount": 25
+    },
+    {
+      "id": 212,
+      "index": 212,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "Jake, you're the one who said you could get down to 155! What did I do, pull it out of the fuckin' hat?",
+      "wordCount": 23
+    },
+    {
+      "id": 213,
+      "index": 213,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Well, sometimes you shouldn't listen to me! Now I don't know if I can make it down to 155. I'm having trouble making 160, and without telling me, you sign me for a fight at 155 pounds, and if I don't make 155, I forfeit $15,000! You're supposed to know what you're doin'. You're supposed to be a manager!",
+      "wordCount": 59
+    },
+    {
+      "id": 214,
+      "index": 214,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "You want the title shot?",
+      "wordCount": 5
+    },
+    {
+      "id": 215,
+      "index": 215,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Say what you're gonna say.",
+      "wordCount": 5
+    },
+    {
+      "id": 216,
+      "index": 216,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "You want the title shot or not?",
+      "wordCount": 7
+    },
+    {
+      "id": 217,
+      "index": 217,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Say what you gotta say. Don't be a smart ass.",
+      "wordCount": 10
+    },
+    {
+      "id": 218,
+      "index": 218,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "This Janiro's an up-and-coming fighter, this kid you gotta knock out. Knockout this fuckin' kid! I'm telling you, this is your step towards getting a shot at the title. Listen to me: I'm telling you. You been killin' yourself for three years. There's nobody left -- they're afraid to fight you. This Janiro's up-and-coming. He don't know. Fuckin' tear him apart, wipe him out! What are you worried about? Your weight? Look, even if you lose they're gonna think you're weak; they're gonna think you're not the fighter you used to be. They'll match you with guys they were afraid to match you with before, and then you'll kill them and you'll get your title shot. And if you beat this kid Janiro, they gotta give you a shot at the title because there's nobody else. Either way you win and you do it on your own -- just like you want it. All right?",
+      "wordCount": 155
+    },
+    {
+      "id": 219,
+      "index": 219,
+      "character": "VICKIE",
+      "gender": "Female",
+      "line": "Joey's right. Janiro's up-and coming, he's good looking...",
+      "wordCount": 8
+    },
+    {
+      "id": 220,
+      "index": 220,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "What do you mean, \"good looking?\"",
+      "wordCount": 6
+    },
+    {
+      "id": 221,
+      "index": 221,
+      "character": "VICKIE",
+      "gender": "Female",
+      "line": "Well, he's popular. A lotta people like Janiro. You beat him and it only figures they'll wanna see you get a title shot. But, what do I know? I should keep my mouth shut, I should...",
+      "wordCount": 36
+    },
+    {
+      "id": 222,
+      "index": 222,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Who asked you?",
+      "wordCount": 3
+    },
+    {
+      "id": 223,
+      "index": 223,
+      "character": "VICKIE",
+      "gender": "Female",
+      "line": "But, Jake, I was just...",
+      "wordCount": 5
+    },
+    {
+      "id": 224,
+      "index": 224,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Who asked you?",
+      "wordCount": 3
+    },
+    {
+      "id": 225,
+      "index": 225,
+      "character": "VICKIE",
+      "gender": "Female",
+      "line": "I was just...",
+      "wordCount": 3
+    },
+    {
+      "id": 226,
+      "index": 226,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Who asked you?",
+      "wordCount": 3
+    },
+    {
+      "id": 227,
+      "index": 227,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "All right, manager. Everybody had their say around here. Now this is what I'm gonna say. I'm gonna get down to 155, and I'm gonna destroy this kid -- get my title shot. And don't ever bet 15 thousand without my sayso again.",
+      "wordCount": 43
+    },
+    {
+      "id": 228,
+      "index": 228,
+      "character": "COMEDIAN",
+      "gender": "Male",
+      "line": "Ladies and gentlemen, I'd like to point out a special guest we have with us tonight -- The Raging Bull, The Bronx Bull, Mr. Jake LaMotta.",
+      "wordCount": 26
+    },
+    {
+      "id": 229,
+      "index": 229,
+      "character": "COMEDIAN",
+      "gender": "Male",
+      "line": "Stand up, Jake, c'mon. Oh, you are standing. Sorry. Just kiddin', Jake.",
+      "wordCount": 12
+    },
+    {
+      "id": 230,
+      "index": 230,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Look at this abuse I gotta take.",
+      "wordCount": 7
+    },
+    {
+      "id": 231,
+      "index": 231,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "What's so funny? Cheers! Post-time. Joey, Vickie, and... What's your name again, darling?",
+      "wordCount": 13
+    },
+    {
+      "id": 232,
+      "index": 232,
+      "character": "JANET",
+      "gender": "NA",
+      "line": "Janet.",
+      "wordCount": 1
+    },
+    {
+      "id": 233,
+      "index": 233,
+      "character": "SALVY",
+      "gender": "Male",
+      "line": "Hi, Joey. Jake, how you doin'? Vickie...",
+      "wordCount": 7
+    },
+    {
+      "id": 234,
+      "index": 234,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "What're you lookin' at? You lookin' at him?",
+      "wordCount": 8
+    },
+    {
+      "id": 235,
+      "index": 235,
+      "character": "VICKIE",
+      "gender": "Female",
+      "line": "No, I'm not. I'm looking at you.",
+      "wordCount": 7
+    },
+    {
+      "id": 236,
+      "index": 236,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Don't tell me \"No.\" I saw you lookin' at him. Why, you like him?",
+      "wordCount": 14
+    },
+    {
+      "id": 237,
+      "index": 237,
+      "character": "VICKIE",
+      "gender": "Female",
+      "line": "I'm not interested in him.",
+      "wordCount": 5
+    },
+    {
+      "id": 238,
+      "index": 238,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "You're not interested in him?",
+      "wordCount": 5
+    },
+    {
+      "id": 239,
+      "index": 239,
+      "character": "VICKIE",
+      "gender": "Female",
+      "line": "No, I'm not.",
+      "wordCount": 3
+    },
+    {
+      "id": 240,
+      "index": 240,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "In other words, you're not interested in him but you'd be interested in somebody else, right?",
+      "wordCount": 16
+    },
+    {
+      "id": 241,
+      "index": 241,
+      "character": "VICKIE",
+      "gender": "Female",
+      "line": "Jake, c'mon now. Don't start.",
+      "wordCount": 5
+    },
+    {
+      "id": 242,
+      "index": 242,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Look at this, all of a sudden everybody's a fuckin' Romeo around here. Did you see the way she was lookin' at him?",
+      "wordCount": 23
+    },
+    {
+      "id": 243,
+      "index": 243,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "Nah, she would never...",
+      "wordCount": 4
+    },
+    {
+      "id": 244,
+      "index": 244,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Didn't you just see her lookin' at him? She told me no, but I don't believe her.",
+      "wordCount": 17
+    },
+    {
+      "id": 245,
+      "index": 245,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "C'mon, Jake. You know she's crazy about you.",
+      "wordCount": 8
+    },
+    {
+      "id": 246,
+      "index": 246,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "I'd just love to catch her. Oooooh, I'd just love to catch her once.",
+      "wordCount": 14
+    },
+    {
+      "id": 247,
+      "index": 247,
+      "character": "WAITER",
+      "gender": "NA",
+      "line": "These are from Tommy Como.",
+      "wordCount": 5
+    },
+    {
+      "id": 248,
+      "index": 248,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "Excuse me for a minute. Be right back.",
+      "wordCount": 8
+    },
+    {
+      "id": 249,
+      "index": 249,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Don't be long. I'm afraid with all these tough guys here.",
+      "wordCount": 11
+    },
+    {
+      "id": 250,
+      "index": 250,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "Jake, come over for a few minutes. Tommy wants to say hello to you. C'mon, just come and say hello.",
+      "wordCount": 20
+    },
+    {
+      "id": 251,
+      "index": 251,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Hi, Tommy. How are you?",
+      "wordCount": 5
+    },
+    {
+      "id": 252,
+      "index": 252,
+      "character": "TOMMY",
+      "gender": "Male",
+      "line": "Jake, sit down for a minute.",
+      "wordCount": 6
+    },
+    {
+      "id": 253,
+      "index": 253,
+      "character": "TOMMY",
+      "gender": "Male",
+      "line": "Fuckin' kid! You're the best fuckin' fighter around. Loved what you did to Satterfield. Them \"moulan yans\" -- forget about it. They're all afraid to fight you.",
+      "wordCount": 27
+    },
+    {
+      "id": 254,
+      "index": 254,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "C'mon, Tommy --",
+      "wordCount": 3
+    },
+    {
+      "id": 255,
+      "index": 255,
+      "character": "TOMMY",
+      "gender": "Male",
+      "line": "How you feelin'? Ok? You feelin' good?",
+      "wordCount": 7
+    },
+    {
+      "id": 256,
+      "index": 256,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Never felt better.",
+      "wordCount": 3
+    },
+    {
+      "id": 257,
+      "index": 257,
+      "character": "TOMMY",
+      "gender": "Male",
+      "line": "Tony Janiro's gotta watch out, eh?",
+      "wordCount": 6
+    },
+    {
+      "id": 258,
+      "index": 258,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "He should.",
+      "wordCount": 2
+    },
+    {
+      "id": 259,
+      "index": 259,
+      "character": "TOMMY",
+      "gender": "Male",
+      "line": "This Janiro's a good fiahter, pretty good-lookin' kid.",
+      "wordCount": 8
+    },
+    {
+      "id": 260,
+      "index": 260,
+      "character": "SALVY",
+      "gender": "Male",
+      "line": "Bet on him three times. Always come through for me.",
+      "wordCount": 10
+    },
+    {
+      "id": 261,
+      "index": 261,
+      "character": "TOMMY",
+      "gender": "Male",
+      "line": "How's the weight? Ok?",
+      "wordCount": 4
+    },
+    {
+      "id": 262,
+      "index": 262,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Yeah, the weight's Ok.",
+      "wordCount": 4
+    },
+    {
+      "id": 263,
+      "index": 263,
+      "character": "TOMMY",
+      "gender": "Male",
+      "line": "All right, lemme ask you something. Let's say I was a good friend of yours. And I was telling you I was gonna bet a lot of money on you in this Janiro fight. What would you tell me?",
+      "wordCount": 39
+    },
+    {
+      "id": 264,
+      "index": 264,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "I'd tell you to bet a bundle.",
+      "wordCount": 7
+    },
+    {
+      "id": 265,
+      "index": 265,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Vickie?... Vickie, you asleep?",
+      "wordCount": 4
+    },
+    {
+      "id": 266,
+      "index": 266,
+      "character": "VICKIE",
+      "gender": "Female",
+      "line": "What?",
+      "wordCount": 1
+    },
+    {
+      "id": 267,
+      "index": 267,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "You asleep?",
+      "wordCount": 2
+    },
+    {
+      "id": 268,
+      "index": 268,
+      "character": "VICKIE",
+      "gender": "Female",
+      "line": "Yeah.",
+      "wordCount": 1
+    },
+    {
+      "id": 269,
+      "index": 269,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Huh?",
+      "wordCount": 1
+    },
+    {
+      "id": 270,
+      "index": 270,
+      "character": "VICKIE",
+      "gender": "Female",
+      "line": "Yeah, what?",
+      "wordCount": 2
+    },
+    {
+      "id": 271,
+      "index": 271,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Tell me, you think of anybody else when I'm making love to you?",
+      "wordCount": 13
+    },
+    {
+      "id": 272,
+      "index": 272,
+      "character": "VICKIE",
+      "gender": "Female",
+      "line": "Nobody. I love you, remember?",
+      "wordCount": 5
+    },
+    {
+      "id": 273,
+      "index": 273,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Then why'd you say that thing about Tony Janiro?",
+      "wordCount": 9
+    },
+    {
+      "id": 274,
+      "index": 274,
+      "character": "VICKIE",
+      "gender": "Female",
+      "line": "What did I say?",
+      "wordCount": 4
+    },
+    {
+      "id": 275,
+      "index": 275,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "That he's got a pretty face.",
+      "wordCount": 6
+    },
+    {
+      "id": 276,
+      "index": 276,
+      "character": "VICKIE",
+      "gender": "Female",
+      "line": "I never noticed his face.",
+      "wordCount": 5
+    },
+    {
+      "id": 277,
+      "index": 277,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "You sure you're not thinking of him right now?",
+      "wordCount": 9
+    },
+    {
+      "id": 278,
+      "index": 278,
+      "character": "VICKIE",
+      "gender": "Female",
+      "line": "Positive.",
+      "wordCount": 1
+    },
+    {
+      "id": 279,
+      "index": 279,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "You're the one who said he was good looking. You think he's good looking 'cause I know you think he's good-looking. I'll smash his face inside out. I'll make him into dog meat. Nobody's gonna think he's good-looking when I get through with him. So you just go ahead and think about who you want.",
+      "wordCount": 55
+    },
+    {
+      "id": 280,
+      "index": 280,
+      "character": "EAGAN",
+      "gender": "Male",
+      "line": "Tony Janiro, 151 lbs. and one half.",
+      "wordCount": 7
+    },
+    {
+      "id": 281,
+      "index": 281,
+      "character": "EAGAN",
+      "gender": "Male",
+      "line": "Jake LaMotta, 155 lbs. and one fourth.",
+      "wordCount": 7
+    },
+    {
+      "id": 282,
+      "index": 282,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Just a minute.",
+      "wordCount": 3
+    },
+    {
+      "id": 283,
+      "index": 283,
+      "character": "EAGAN",
+      "gender": "Male",
+      "line": "Ok. This is official.",
+      "wordCount": 4
+    },
+    {
+      "id": 284,
+      "index": 284,
+      "character": "EAGAN",
+      "gender": "Male",
+      "line": "LaMotta, 155 lbs. on the nose.",
+      "wordCount": 6
+    },
+    {
+      "id": 285,
+      "index": 285,
+      "character": "CROWD",
+      "gender": "NA",
+      "line": "LaMotta.",
+      "wordCount": 1
+    },
+    {
+      "id": 286,
+      "index": 286,
+      "character": "ANNOUNCER",
+      "gender": "Male",
+      "line": "The winner, by unanimous decision, in ten rounds, Jake LaMotta!",
+      "wordCount": 10
+    },
+    {
+      "id": 287,
+      "index": 287,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "I love you.",
+      "wordCount": 3
+    },
+    {
+      "id": 288,
+      "index": 288,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "This is my night! Listen to them! I'm gonna be champ!",
+      "wordCount": 11
+    },
+    {
+      "id": 289,
+      "index": 289,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "I'm making everything up to you.",
+      "wordCount": 6
+    },
+    {
+      "id": 290,
+      "index": 290,
+      "character": "DETROIT PROMOTER",
+      "gender": "NA",
+      "line": "When we gonna get Jake back in Detroit? Jesus, he really did a job on Janiro. Who you after next, Joey?",
+      "wordCount": 21
+    },
+    {
+      "id": 291,
+      "index": 291,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "I dunno. We're working on it. He's training at the camp now.",
+      "wordCount": 12
+    },
+    {
+      "id": 292,
+      "index": 292,
+      "character": "JACKIE CURTIE",
+      "gender": "NA",
+      "line": "After what I seen, they gotta give him a shot at the title.",
+      "wordCount": 13
+    },
+    {
+      "id": 293,
+      "index": 293,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "We're gonna get our shot.",
+      "wordCount": 5
+    },
+    {
+      "id": 294,
+      "index": 294,
+      "character": "DETROIT PROMOTER",
+      "gender": "NA",
+      "line": "Oh Joey, this is Jackie Curtie. He handles a lot of business in South Ohio.",
+      "wordCount": 15
+    },
+    {
+      "id": 295,
+      "index": 295,
+      "character": "JACKIE CURTIE",
+      "gender": "NA",
+      "line": "I like your brother. Made a lot of money on him.",
+      "wordCount": 11
+    },
+    {
+      "id": 296,
+      "index": 296,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "Betcha more than he has.",
+      "wordCount": 5
+    },
+    {
+      "id": 297,
+      "index": 297,
+      "character": "JACKIE CURTIE",
+      "gender": "NA",
+      "line": "Made a little cabbage on the Tommy Bell fight too. Whatever happened to him?",
+      "wordCount": 14
+    },
+    {
+      "id": 298,
+      "index": 298,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "Ain't he dead?",
+      "wordCount": 3
+    },
+    {
+      "id": 299,
+      "index": 299,
+      "character": "DETROIT PROMOTER",
+      "gender": "NA",
+      "line": "Nah. He's got a job downtown. Runs an elevator in some building.",
+      "wordCount": 12
+    },
+    {
+      "id": 300,
+      "index": 300,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "Yeah?",
+      "wordCount": 1
+    },
+    {
+      "id": 301,
+      "index": 301,
+      "character": "DETROIT PROMOTER",
+      "gender": "NA",
+      "line": "Went down to see him the other day. I says, \"Tommy, take me up to the fifth floor.\" And you know, he took me right up there.",
+      "wordCount": 27
+    },
+    {
+      "id": 302,
+      "index": 302,
+      "character": "JACKIE CURTIE",
+      "gender": "NA",
+      "line": "Yeah, Tommy always was a stand-up guy.",
+      "wordCount": 7
+    },
+    {
+      "id": 303,
+      "index": 303,
+      "character": "DETROIT PROMOTER",
+      "gender": "NA",
+      "line": "Joey, let me get you another drink.",
+      "wordCount": 7
+    },
+    {
+      "id": 304,
+      "index": 304,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "Just a minute. Excuse me. I'll be right back.",
+      "wordCount": 9
+    },
+    {
+      "id": 305,
+      "index": 305,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "C'mere, let me talk to you for a minute.",
+      "wordCount": 9
+    },
+    {
+      "id": 306,
+      "index": 306,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "What're you doin' with Salvy? You shouldn't be here with him. Jake's away killin' himself. Suppose he found out.",
+      "wordCount": 19
+    },
+    {
+      "id": 307,
+      "index": 307,
+      "character": "VICKIE",
+      "gender": "Female",
+      "line": "What the hell am I doing wrong? Just because Jake is training, I can't go out? What am I, a goddamn prisoner?",
+      "wordCount": 22
+    },
+    {
+      "id": 308,
+      "index": 308,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "No, you're his wife.",
+      "wordCount": 4
+    },
+    {
+      "id": 309,
+      "index": 309,
+      "character": "VICKIE",
+      "gender": "Female",
+      "line": "I'm not doing anythina wrong. I'm just trying to have a good time. Do I have to be cooped up in the house all the time?",
+      "wordCount": 26
+    },
+    {
+      "id": 310,
+      "index": 310,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "It don't look right.",
+      "wordCount": 4
+    },
+    {
+      "id": 311,
+      "index": 311,
+      "character": "VICKIE",
+      "gender": "Female",
+      "line": "Well, go ahead, tell Jake. He's gonna kill me anyway. It's a matter of time.",
+      "wordCount": 15
+    },
+    {
+      "id": 312,
+      "index": 312,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "I'm not gonna tell him nothing; but if he finds out, he will kill you. What's the matter with you? Aren't you happy? You got everything you want.",
+      "wordCount": 28
+    },
+    {
+      "id": 313,
+      "index": 313,
+      "character": "VICKIE",
+      "gender": "Female",
+      "line": "You don't sleep with him. I do. I don't get to breathe without tellin' him. He keeps me in a cage. If he thinks I'm lookin' at somebody the wrong way, I get used as a punching bag. He don't trust nobody. If he saw the two of us talking together right now, you'd be in trouble too -- believe me. Look at me, Joey. I'm 19 years old. I wanna enjoy my life. I love Jake, but you don't know. He gets crazy sometimes. I'm scared.",
+      "wordCount": 87
+    },
+    {
+      "id": 314,
+      "index": 314,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "Try to understand, Vickie. Jake's got a lotta aggravation. He's been a top contender too long.",
+      "wordCount": 16
+    },
+    {
+      "id": 315,
+      "index": 315,
+      "character": "VICKIE",
+      "gender": "Female",
+      "line": "That's right, take his part. You're his brother. He's never gonna be champ. Too many people are against him.",
+      "wordCount": 19
+    },
+    {
+      "id": 316,
+      "index": 316,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "And you're drinking with them right now.",
+      "wordCount": 7
+    },
+    {
+      "id": 317,
+      "index": 317,
+      "character": "VICKIE",
+      "gender": "Female",
+      "line": "And I'm gonna finish my drink. And, I'm gonna have a good time, because I ain't doing nothing wrong.",
+      "wordCount": 19
+    },
+    {
+      "id": 318,
+      "index": 318,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "You're wrong to be here. Let's go.",
+      "wordCount": 7
+    },
+    {
+      "id": 319,
+      "index": 319,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "I said, let's go.",
+      "wordCount": 4
+    },
+    {
+      "id": 320,
+      "index": 320,
+      "character": "SALVY",
+      "gender": "Male",
+      "line": "Joey, relax. You're taking this the wrong way. Why don't you sit down and have a drink?",
+      "wordCount": 17
+    },
+    {
+      "id": 321,
+      "index": 321,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "Excuse me, I'm talking to my sister in-law.",
+      "wordCount": 8
+    },
+    {
+      "id": 322,
+      "index": 322,
+      "character": "SALVY",
+      "gender": "Male",
+      "line": "Excuse me for living.",
+      "wordCount": 4
+    },
+    {
+      "id": 323,
+      "index": 323,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "What do you think, I'm blind? My brother's breaking his ass in a ring, and you're here with his wife.",
+      "wordCount": 20
+    },
+    {
+      "id": 324,
+      "index": 324,
+      "character": "SALVY",
+      "gender": "Male",
+      "line": "Hey Joey, I'm here with Patsy and Vera and Sandy. And Vickie just happened to come along. We're just trying to have a good time. What do you want from me? So, why don't you just take it easy before this gets out of hand.",
+      "wordCount": 45
+    },
+    {
+      "id": 325,
+      "index": 325,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "Get the fuck outa here. What did you do, take your gangster pills today? I'll tear your fuckin' head off your shoulders!",
+      "wordCount": 22
+    },
+    {
+      "id": 326,
+      "index": 326,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "Hey, wait --",
+      "wordCount": 3
+    },
+    {
+      "id": 327,
+      "index": 327,
+      "character": "PAUL",
+      "gender": "NA",
+      "line": "Ain't you forgettin' something? Ain't there never supposed to be no trouble in this joint?",
+      "wordCount": 15
+    },
+    {
+      "id": 328,
+      "index": 328,
+      "character": "SALVY",
+      "gender": "Male",
+      "line": "Hey Joey, whadda ya lookin' to die young?",
+      "wordCount": 8
+    },
+    {
+      "id": 329,
+      "index": 329,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "I'll suck your eyes out! I'll fuckin' take the two of you.",
+      "wordCount": 12
+    },
+    {
+      "id": 330,
+      "index": 330,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "Fuckin' low-life, cocksucker, etc.",
+      "wordCount": 4
+    },
+    {
+      "id": 331,
+      "index": 331,
+      "character": "PATSY",
+      "gender": "Male",
+      "line": "Don't fuckin' put your hands on me! You're gonna near about this, Paul.",
+      "wordCount": 13
+    },
+    {
+      "id": 332,
+      "index": 332,
+      "character": "PAUL",
+      "gender": "NA",
+      "line": "Get the fuck outa here. Don't come in my place and start fuckin' trouble -- I don't care who you are! Get outa here. Go on.",
+      "wordCount": 26
+    },
+    {
+      "id": 333,
+      "index": 333,
+      "character": "COMO",
+      "gender": "Male",
+      "line": "All rightg I don't have to hear any more. I think I understand what happened. I understand it was your brother's wife and there was probably a misunderstanding. I'm not sayin' Salvy shouldn't have acted the way he did. But, Joey, you don't raise your hands. You don't do that kind of thing. This time we forget about it but no more after this. You understand?",
+      "wordCount": 66
+    },
+    {
+      "id": 334,
+      "index": 334,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "Yeah, I understand, Tommy.",
+      "wordCount": 4
+    },
+    {
+      "id": 335,
+      "index": 335,
+      "character": "COMO",
+      "gender": "Male",
+      "line": "All right, you guys, shake hands.",
+      "wordCount": 6
+    },
+    {
+      "id": 336,
+      "index": 336,
+      "character": "COMO",
+      "gender": "Male",
+      "line": "Go 'head. Be friends. That's it. All right, lemme be alone with him for a minute.",
+      "wordCount": 16
+    },
+    {
+      "id": 337,
+      "index": 337,
+      "character": "COMO",
+      "gender": "Male",
+      "line": "Aside from everything else, your family all right?",
+      "wordCount": 8
+    },
+    {
+      "id": 338,
+      "index": 338,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "Yeah, they're good. They're good, Tommy.",
+      "wordCount": 6
+    },
+    {
+      "id": 339,
+      "index": 339,
+      "character": "COMO",
+      "gender": "Male",
+      "line": "What is it with you? Can't you talk? You got like a funny attitude. I can't figure you out, Joey. What's with you and the quick answers? You wanna get outa here fast?",
+      "wordCount": 33
+    },
+    {
+      "id": 340,
+      "index": 340,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "Aw, Tommy, c'mon, it ain't that.",
+      "wordCount": 6
+    },
+    {
+      "id": 341,
+      "index": 341,
+      "character": "COMO",
+      "gender": "Male",
+      "line": "Look Joey, I wanna tell you something. Your brother ain't gonna get nowhere without us -- nowhere. And I'm tellin' you between the two of us, it's gettin' to the point where it's gettin' to be a real embarrassment to me, a real embarrassment.",
+      "wordCount": 44
+    },
+    {
+      "id": 342,
+      "index": 342,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "How can he embarrass you?",
+      "wordCount": 5
+    },
+    {
+      "id": 343,
+      "index": 343,
+      "character": "COMO",
+      "gender": "Male",
+      "line": "He's an embarrassment because Frankie and the other guys are expectin' me to do something about it, and I'm lookin' very bad. I can't deliver a kid from my own neighborhood. Why's he make it so hard on himself? He comes to me, I can make it easier for him.",
+      "wordCount": 50
+    },
+    {
+      "id": 344,
+      "index": 344,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "Tommy, Jake respects you. He won't even say hello to anybody else -- you know that. But you know when Jake gets set on somethin', Jesus Christ Almighty could get off the fuckin' cross and he ain't gonna talk him out of it. I'm his kid brother. I got no say with Jake on this. He thinks he can buck everybody and make it on his own.",
+      "wordCount": 67
+    },
+    {
+      "id": 345,
+      "index": 345,
+      "character": "COMO",
+      "gender": "Male",
+      "line": "Make it on his own? Does he know the kind of money involved? I mean the real money. He thinks he's gonna become champ on his own? We're gonna sit by and see some nut come in there and hold one of the most important titles in the world? A nut who don't listen to nobody or respect nobody? Is he really crazy? Listen, Joey, you understand, you tell him. I don't care how great he is or how colorful. He could beat all the Sugar Ray Robinsons and all the Janiros he wants to. He ain't gonna get a shot at the title without us. I'm not askin' you to do another thing except get that message into that thick head!",
+      "wordCount": 122
+    },
+    {
+      "id": 346,
+      "index": 346,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "Whatcha doin'?",
+      "wordCount": 2
+    },
+    {
+      "id": 347,
+      "index": 347,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "I remember the first time I met Vickie... I know there's somethin' up. I know she's doin' somethin', but I can't catch her...",
+      "wordCount": 23
+    },
+    {
+      "id": 348,
+      "index": 348,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "Maybe she's afraid you're gonna hit her so she can't talk to you the way she wants to.",
+      "wordCount": 18
+    },
+    {
+      "id": 349,
+      "index": 349,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "What do you mean?",
+      "wordCount": 4
+    },
+    {
+      "id": 350,
+      "index": 350,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "Try talkin' to her. She's your wife -- ask her what's the matter.",
+      "wordCount": 13
+    },
+    {
+      "id": 351,
+      "index": 351,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "When I'm away, did you ever notice anythin' funny with her? Tell me the truth.",
+      "wordCount": 15
+    },
+    {
+      "id": 352,
+      "index": 352,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "Jack, if there was anything funny, I would tell you.",
+      "wordCount": 10
+    },
+    {
+      "id": 353,
+      "index": 353,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "I want you to keep an eye on her when I'm not here. Understand?",
+      "wordCount": 14
+    },
+    {
+      "id": 354,
+      "index": 354,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "Sure, I'll keep an eye on her.",
+      "wordCount": 7
+    },
+    {
+      "id": 355,
+      "index": 355,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "What did Tommy say?",
+      "wordCount": 4
+    },
+    {
+      "id": 356,
+      "index": 356,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "I got good news, and I got bad news. The good news is you got your shot at the title. The bad news is...",
+      "wordCount": 24
+    },
+    {
+      "id": 357,
+      "index": 357,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Yeah, I know.",
+      "wordCount": 3
+    },
+    {
+      "id": 358,
+      "index": 358,
+      "character": "EAGAN",
+      "gender": "Male",
+      "line": "Billy Fox, 173 3/4 pounds.",
+      "wordCount": 5
+    },
+    {
+      "id": 359,
+      "index": 359,
+      "character": "EAGAN",
+      "gender": "Male",
+      "line": "Jake LaMotta, 167 pounds.",
+      "wordCount": 4
+    },
+    {
+      "id": 360,
+      "index": 360,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "What's up, Colonel?",
+      "wordCount": 3
+    },
+    {
+      "id": 361,
+      "index": 361,
+      "character": "EAGAN",
+      "gender": "Male",
+      "line": "I'd like to talk to Jake a minute.",
+      "wordCount": 8
+    },
+    {
+      "id": 362,
+      "index": 362,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "Sure.",
+      "wordCount": 1
+    },
+    {
+      "id": 363,
+      "index": 363,
+      "character": "EAGAN",
+      "gender": "Male",
+      "line": "I suppose you heard what everybody's been saying, Jake.",
+      "wordCount": 9
+    },
+    {
+      "id": 364,
+      "index": 364,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "What who's been sayin'?",
+      "wordCount": 4
+    },
+    {
+      "id": 365,
+      "index": 365,
+      "character": "EAGAN",
+      "gender": "Male",
+      "line": "You were a big favorite in this fight. Then two days ago the odds start jumping all over the place until you're a 12-5 underdog.",
+      "wordCount": 25
+    },
+    {
+      "id": 366,
+      "index": 366,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "I don't follow no gamblin' Commissioner. I'm just a fighter.",
+      "wordCount": 10
+    },
+    {
+      "id": 367,
+      "index": 367,
+      "character": "EAGAN",
+      "gender": "Male",
+      "line": "Now the fight's off the books altogether. Meyer Lansky couldn't get a bet down on this fight. Some people are saying you're going into the tank.",
+      "wordCount": 26
+    },
+    {
+      "id": 368,
+      "index": 368,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Believe what you want.",
+      "wordCount": 4
+    },
+    {
+      "id": 369,
+      "index": 369,
+      "character": "EAGAN",
+      "gender": "Male",
+      "line": "I want to believe you, LaMotta.",
+      "wordCount": 6
+    },
+    {
+      "id": 370,
+      "index": 370,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "I'm gonna kill him. That fuckin' jig's gonna wish he never came outa the jungle. You got any money?",
+      "wordCount": 19
+    },
+    {
+      "id": 371,
+      "index": 371,
+      "character": "EACAN",
+      "gender": "NA",
+      "line": "What?",
+      "wordCount": 1
+    },
+    {
+      "id": 372,
+      "index": 372,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "You got any money you want to bet on Billy Fox, you can put it right here... 'cause Jake LaMotta don't go down for nobody.",
+      "wordCount": 25
+    },
+    {
+      "id": 373,
+      "index": 373,
+      "character": "EAGAN",
+      "gender": "Male",
+      "line": "That's all I wanted to hear.",
+      "wordCount": 6
+    },
+    {
+      "id": 374,
+      "index": 374,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Stand up! What the fuck are you doin'?",
+      "wordCount": 8
+    },
+    {
+      "id": 375,
+      "index": 375,
+      "character": "CROWD",
+      "gender": "NA",
+      "line": "Got your swimming trunks on, Jake? I hope they're paying you enough. Fake, fake.",
+      "wordCount": 14
+    },
+    {
+      "id": 376,
+      "index": 376,
+      "character": "TONY",
+      "gender": "NA",
+      "line": "What's the matter with you? What's the matter with you?",
+      "wordCount": 10
+    },
+    {
+      "id": 377,
+      "index": 377,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Hit me! Hit me! What's the matter with you, you motherfucker? Hit me!",
+      "wordCount": 13
+    },
+    {
+      "id": 378,
+      "index": 378,
+      "character": "TONY",
+      "gender": "NA",
+      "line": "Don't fight anymore! It's a free country, don't fight anymore!",
+      "wordCount": 10
+    },
+    {
+      "id": 379,
+      "index": 379,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Why did they have to stop it? Why did they have to stop it?",
+      "wordCount": 14
+    },
+    {
+      "id": 380,
+      "index": 380,
+      "character": "REPORTER",
+      "gender": "NA",
+      "line": "What happened?",
+      "wordCount": 2
+    },
+    {
+      "id": 381,
+      "index": 381,
+      "character": "HANDLER",
+      "gender": "NA",
+      "line": "He must've been really hurt in the 2nd. He didn't answer me when I tried to tell him something in the corner.",
+      "wordCount": 22
+    },
+    {
+      "id": 382,
+      "index": 382,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Get everyone out of here!",
+      "wordCount": 5
+    },
+    {
+      "id": 383,
+      "index": 383,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "It woulda been so easy, Jack. So easy...",
+      "wordCount": 8
+    },
+    {
+      "id": 384,
+      "index": 384,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "Stick out your hands, Jake.",
+      "wordCount": 5
+    },
+    {
+      "id": 385,
+      "index": 385,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "C'mon, Joey.",
+      "wordCount": 2
+    },
+    {
+      "id": 386,
+      "index": 386,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "G'wan, do it. Protect yourself, rummy.",
+      "wordCount": 6
+    },
+    {
+      "id": 387,
+      "index": 387,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "See? That's all there was to it.",
+      "wordCount": 7
+    },
+    {
+      "id": 388,
+      "index": 388,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "What the fuck they want? I took the dive. They want me to fall down too? I don't fall down for nobody. I never went down in my life. Joey, what do I gotta do? Crawl on my hands and knees? I made an asshole of myself in the fuckin' Garden! All the newspaper writers make fun of me. I'm the bum of the year. All I want is a shot. Just a fuckin' shot. What do I gotta do? I'll do anything.",
+      "wordCount": 83
+    },
+    {
+      "id": 389,
+      "index": 389,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "Except fall down like a normal person.",
+      "wordCount": 7
+    },
+    {
+      "id": 390,
+      "index": 390,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Yeah, except fall down. That's right.",
+      "wordCount": 6
+    },
+    {
+      "id": 391,
+      "index": 391,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "All right, you don't wanna fall down, so now you gotta take a rest. So, you enjoy the suspension. 'Cause there's nothin' you can do about it. Let the Commissioner and the D.A. jerk you around. So you wait.",
+      "wordCount": 39
+    },
+    {
+      "id": 392,
+      "index": 392,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Jesus Christ! Seven months! What am I gonna do for seven months? I'm gonna go crazy. How do I keep my strength? By that time I'll be too weak to win the title. And my weight? Forget about it -- I'm gonna blow up like a balloon. I ain't never gonna hold my weight down. Seven months! I don't know...",
+      "wordCount": 60
+    },
+    {
+      "id": 393,
+      "index": 393,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "We did what we had to do. Tommy don't forget. Sooner or later you'll get your shot -- if Tommy don't die.",
+      "wordCount": 22
+    },
+    {
+      "id": 394,
+      "index": 394,
+      "character": "BELL CAPTAIN",
+      "gender": "NA",
+      "line": "Mr. Williams.",
+      "wordCount": 2
+    },
+    {
+      "id": 395,
+      "index": 395,
+      "character": "DETROIT PROMOTER",
+      "gender": "NA",
+      "line": "It's official. The fight's been postponed twenty-four hours.",
+      "wordCount": 8
+    },
+    {
+      "id": 396,
+      "index": 396,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "That's right. \"No comment.\" You like that? Good, 'cause I got a lot more \"No comments\" where that one came from.",
+      "wordCount": 21
+    },
+    {
+      "id": 397,
+      "index": 397,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "I'm gonna order up some stuff. Have a steak.",
+      "wordCount": 9
+    },
+    {
+      "id": 398,
+      "index": 398,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "I can't eat a steak. If I eat a steak, I'm gonna have trouble making the weigh-in.",
+      "wordCount": 17
+    },
+    {
+      "id": 399,
+      "index": 399,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "So eat just a little. You gotta eat something.",
+      "wordCount": 9
+    },
+    {
+      "id": 400,
+      "index": 400,
+      "character": "JARS",
+      "gender": "NA",
+      "line": "What am I gonna do for 24 hours? I can't even eat!",
+      "wordCount": 12
+    },
+    {
+      "id": 401,
+      "index": 401,
+      "character": "DOCTOR",
+      "gender": "NA",
+      "line": "How's that?",
+      "wordCount": 2
+    },
+    {
+      "id": 402,
+      "index": 402,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "How long did it take you?",
+      "wordCount": 6
+    },
+    {
+      "id": 403,
+      "index": 403,
+      "character": "DOCTOR",
+      "gender": "NA",
+      "line": "45 seconds.",
+      "wordCount": 2
+    },
+    {
+      "id": 404,
+      "index": 404,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "No good. Try to get it down. It's gotta be no more than 30 seconds to be on the safe side if we gotta stitch him up.",
+      "wordCount": 27
+    },
+    {
+      "id": 405,
+      "index": 405,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "Jake, somebody wants to say hello to you.",
+      "wordCount": 8
+    },
+    {
+      "id": 406,
+      "index": 406,
+      "character": "COMO",
+      "gender": "Male",
+      "line": "Hey champ!",
+      "wordCount": 2
+    },
+    {
+      "id": 407,
+      "index": 407,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Tommy, thanks for coming over.",
+      "wordCount": 5
+    },
+    {
+      "id": 408,
+      "index": 408,
+      "character": "COMO",
+      "gender": "Male",
+      "line": "You just take it easy, now. You'll do all right. Feelin' Ok?",
+      "wordCount": 12
+    },
+    {
+      "id": 409,
+      "index": 409,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "I'm Ok.",
+      "wordCount": 2
+    },
+    {
+      "id": 410,
+      "index": 410,
+      "character": "COMO",
+      "gender": "Male",
+      "line": "Just come by to wish you luck. Need anything?",
+      "wordCount": 9
+    },
+    {
+      "id": 411,
+      "index": 411,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "No, we're all right. Thanks anyway, Tommy.",
+      "wordCount": 7
+    },
+    {
+      "id": 412,
+      "index": 412,
+      "character": "COMO",
+      "gender": "Male",
+      "line": "Ok, champ.",
+      "wordCount": 2
+    },
+    {
+      "id": 413,
+      "index": 413,
+      "character": "COMO",
+      "gender": "Male",
+      "line": "Look at her. As beautiful as always. Take care of that guy, will ya?",
+      "wordCount": 14
+    },
+    {
+      "id": 414,
+      "index": 414,
+      "character": "VICKIE",
+      "gender": "Female",
+      "line": "I'll take care of him. Thanks, Tommy. Bye.",
+      "wordCount": 8
+    },
+    {
+      "id": 415,
+      "index": 415,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "C'mere.",
+      "wordCount": 1
+    },
+    {
+      "id": 416,
+      "index": 416,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Hey, you don't say goodbye to him like that.",
+      "wordCount": 9
+    },
+    {
+      "id": 417,
+      "index": 417,
+      "character": "VICKIE",
+      "gender": "Female",
+      "line": "What did I do?",
+      "wordCount": 4
+    },
+    {
+      "id": 418,
+      "index": 418,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "You don't kiss like that. Hello and goodbye, that's all you do.",
+      "wordCount": 12
+    },
+    {
+      "id": 419,
+      "index": 419,
+      "character": "VICKIE",
+      "gender": "Female",
+      "line": "All I did...",
+      "wordCount": 3
+    },
+    {
+      "id": 420,
+      "index": 420,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "You know what I'm talking about. Don't ever make me look bad on the night of my big fight.",
+      "wordCount": 19
+    },
+    {
+      "id": 421,
+      "index": 421,
+      "character": "VICKIE",
+      "gender": "Female",
+      "line": "You're hurting my arm.",
+      "wordCount": 4
+    },
+    {
+      "id": 422,
+      "index": 422,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Shut up. You just say hello and goodbye to him. You don't kiss him the way you did. That's out of line.",
+      "wordCount": 22
+    },
+    {
+      "id": 423,
+      "index": 423,
+      "character": "VICKIE",
+      "gender": "Female",
+      "line": "But Jake... I didn't say anything...",
+      "wordCount": 6
+    },
+    {
+      "id": 424,
+      "index": 424,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Don't ever do that again. You don't do it!",
+      "wordCount": 9
+    },
+    {
+      "id": 425,
+      "index": 425,
+      "character": "VICKIE",
+      "gender": "Female",
+      "line": "Jake...",
+      "wordCount": 1
+    },
+    {
+      "id": 426,
+      "index": 426,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "You hear what I said? You don't do it.",
+      "wordCount": 9
+    },
+    {
+      "id": 427,
+      "index": 427,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "You don't do it.",
+      "wordCount": 4
+    },
+    {
+      "id": 428,
+      "index": 428,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "Jake, Jake...",
+      "wordCount": 2
+    },
+    {
+      "id": 429,
+      "index": 429,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "She ain't gonna ruin this fight for me.",
+      "wordCount": 8
+    },
+    {
+      "id": 430,
+      "index": 430,
+      "character": "ANNOUNCER",
+      "gender": "Male",
+      "line": "And here is the young man who has inherited Marcel Cerdan's European championship - Laurent Dauthuille.",
+      "wordCount": 16
+    },
+    {
+      "id": 431,
+      "index": 431,
+      "character": "ANNOUNCER",
+      "gender": "Male",
+      "line": "And our very special guest tonight needs no introduction. The only man to defend the heavyweight crown a remarkable twenty-five times, the king of all heavyweights, the Brown Bomber, Joe Louis. Come into the ring, Joe.",
+      "wordCount": 36
+    },
+    {
+      "id": 432,
+      "index": 432,
+      "character": "JOE LOUIS",
+      "gender": "NA",
+      "line": "Thank you, Johnny. Let's bring the middleweight crown back to the old U.S.A. where it belongs.",
+      "wordCount": 16
+    },
+    {
+      "id": 433,
+      "index": 433,
+      "character": "ANNOUNCER",
+      "gender": "Male",
+      "line": "And in this corner, the middleweight champion of the world, from Casablanca, Morocco, the Casablanca Clouter, Marcel Cerdan!",
+      "wordCount": 18
+    },
+    {
+      "id": 434,
+      "index": 434,
+      "character": "ANNOUNCER",
+      "gender": "Male",
+      "line": "And in the opposite corner, from New York, New York, the challenger, the Bronx Bull, Jake LaMotta!",
+      "wordCount": 17
+    },
+    {
+      "id": 435,
+      "index": 435,
+      "character": "JAYE",
+      "gender": "NA",
+      "line": "I only wish it was you, Joe.",
+      "wordCount": 7
+    },
+    {
+      "id": 436,
+      "index": 436,
+      "character": "JOE LOUIS",
+      "gender": "NA",
+      "line": "Win the belt back for us, Jake. Good luck.",
+      "wordCount": 9
+    },
+    {
+      "id": 437,
+      "index": 437,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "Look at him, Jackie! You got at! The fuckin' championship! He's yours! Finish him off.",
+      "wordCount": 15
+    },
+    {
+      "id": 438,
+      "index": 438,
+      "character": "ANNOUNCER",
+      "gender": "Male",
+      "line": "The new middleweight champion of the world by a knockout after nine rounds, the Bronx Bull, Jake LaMotta!",
+      "wordCount": 18
+    },
+    {
+      "id": 439,
+      "index": 439,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Good evening, ladies and gentlemen. It's a thrill to be standin' here talking to you wonderful people. In fact, it's a thrill to be standin'. I haven't seen so many people since my last fight at Madison Square Garden. After that fight a reporter asked me, \"Jake, where do you go from here?\" I said, \"To a hospital.\"",
+      "wordCount": 58
+    },
+    {
+      "id": 440,
+      "index": 440,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "I fought one hundred and six professional fights and none of them bums figured out how to fight me -- they kept hitting me in the head! Will somebody at the bar -- Linda? - get me a drink. I figure if I'm gonna work to drunks I might as well be one of 'em! I like this place. It's a family type club... every night I see a lot of fathers sitting out there with their young daughters! That's nice.",
+      "wordCount": 81
+    },
+    {
+      "id": 441,
+      "index": 441,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Thanks, honey. -- She's terrific. The kinda girl you wanta take home to meet your father. Especially if your old man's a degenerate! -- Here's a toast! \"To your health! You only live once. But if you play it right, once is enough.\" I shouldn't be drinkin' like this 'cause I'm tryin' to lose weight. I'm on this terrific diet -- I'm allowed to eat anything I want. As long as I don't swallow it! Well, I never had much luck with my weight. In fact, -- I never had much luck with anything -- until about a few years ago, when this happened --",
+      "wordCount": 105
+    },
+    {
+      "id": 442,
+      "index": 442,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "... thanks, I'm glad to see you remember. For those of you that don't... that's me takin' the title from Cerdan. You know, the tough thing about winnin' the title... the next thing you gotta do is have a rematch... just to show it wasn't no fluke. So what happens? Marcel Cerdan, a really great champ, after I beat him... he gets himself killed in that airplane crash... a pretty rotten break for him. That's why I don't like to fly. People say to me, \"Look, Jake, when your time is up, your time is up.\" And I say, \"Yeah, but suppose I'm on the plane and the pilot's time is up?\" As good as Cerdan was, I could've taken him again. But I never got the chance to prove it wasn't no fluke. He got killed but he got to be what they call a legend. I don't know what's worse -- bein' a fluke or bein' a legend. -- That's the kinda luck I got. That's why I quit the ring and moved down here from New York. My wife said, \"You gotta get outa this town, Jake.\" Come to think of it... the boxing commission said the same thing! But I don't miss New York. Give me Miami any day.",
+      "wordCount": 213
+    },
+    {
+      "id": 443,
+      "index": 443,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Miami's a great place. I get along with everybody in this town... even the police force... They got the best cops here money can buy! -- Only kiddin'. By the way... me and my wife Vickie's gettin' ready to celibrate our eleventh wedding anniversary.",
+      "wordCount": 44
+    },
+    {
+      "id": 444,
+      "index": 444,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "We get along real great. We fight a little but I never really belted her on purpose. Once in a while I'm standin' there doin' little shadow-boxin' and she happens to walk right into the shadow... I can't help that. She says, \"Whataya hittin' me for?\" I says, \"It's nothin'. It's only a love tap.\" She says, \"It's a good thing you're not crazy about me!\" -- I am crazy about her. I heard her talkin' to a friend on the phone and she was sayin', \"After eleven years, I'm still in love with the same guy.\" -- If I ever find out who the bum is, I'll kill him! Women. You can't live with 'em, you can't live without 'em.",
+      "wordCount": 121
+    },
+    {
+      "id": 445,
+      "index": 445,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "\"'Oh, beware, my lord, of jealousy. It is the green-eyed monster, which doth mock the meat it feeds on. That cuckold lives in bliss who, certain of his fate, loves not his woronger; But O, what damned minutes tells he o'er who dotes, yet doubts -- suspects, yet fondly loves!\" -- That's from somethin' called \"Othello\" --",
+      "wordCount": 57
+    },
+    {
+      "id": 446,
+      "index": 446,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Is whispering nothing? Is leaning cheek to cheek? Is meeting noses? Kissing with inside lip? Stopping the career of laughter with a sign? -- A note infallible of breaking honesty -- horsing foot on foot? Skulking in corners? Wishing clocks more swift? Hours, minutes? Noon, midnight? and all eyes blind with the pin and web but theirs, theirs only, that would unseen be wicked? Is this nothing? Why, then the world and all that's in't is nothing; The covering sky is nothing; Bohemia nothing; My wife is nothing; nor nothing have these nothings, if this be nothing.\" -- That's from something called \"The Winter's Tale\" -- Shakespeare! You all remember Shakespeare. He wrote all them famous plays one after the other, then he went into a big slump and he ain't done anything good in years. That speech is about jealousy -- jealousy's a bad thing. Jealousy bothers a lot of guys... take me... I almost killed my brother... I love him... he's my family... I mean, there's nothin' he wouldn't do for me. And that's the way we been goin' thru life -- doin' nothin' for each other! Anytime he got in trouble when we was kids, I got him out of it. You know, he used to steal little things when we was growin' up. But he was particular... only stole things that begin with an 'a' -- a watch, a car, a suit, a ring... But I was wrong... I shoulda never hit my brother. Afterwards, I was sorry. Now every time I need somethin' I gotta go shoppin' for it! A psychiatrist once told me, \"When you hit your brother you're really hittin' your mother, but you can't admit it to yourself.\" He's really crazy. I woulda never hit my mother. I mean, only in self-defense!",
+      "wordCount": 300
+    },
+    {
+      "id": 447,
+      "index": 447,
+      "character": "VICKIE",
+      "gender": "Female",
+      "line": "Jake, you're home.",
+      "wordCount": 3
+    },
+    {
+      "id": 448,
+      "index": 448,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "Hi, Vickie.",
+      "wordCount": 2
+    },
+    {
+      "id": 449,
+      "index": 449,
+      "character": "VICKIE",
+      "gender": "Female",
+      "line": "What's the matter with you?",
+      "wordCount": 5
+    },
+    {
+      "id": 450,
+      "index": 450,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Tryin' to get this fuckin' TV to work. Paid all this money for it and still can't get a station a mile away. And Mr. Wizard here ain't no help.",
+      "wordCount": 30
+    },
+    {
+      "id": 451,
+      "index": 451,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "Screw you, Jack.",
+      "wordCount": 3
+    },
+    {
+      "id": 452,
+      "index": 452,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Where you been?",
+      "wordCount": 3
+    },
+    {
+      "id": 453,
+      "index": 453,
+      "character": "VICKIE",
+      "gender": "Female",
+      "line": "I went out.",
+      "wordCount": 3
+    },
+    {
+      "id": 454,
+      "index": 454,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "What's that kissing on the mouth shit?",
+      "wordCount": 7
+    },
+    {
+      "id": 455,
+      "index": 455,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "What? I just said hello. Since when I can't kiss my sister-in-law?",
+      "wordCount": 12
+    },
+    {
+      "id": 456,
+      "index": 456,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Ain't a cheek ever good enough for you? I never even kissed Mama on the mouth.",
+      "wordCount": 16
+    },
+    {
+      "id": 457,
+      "index": 457,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "Well, you're not supposed to kiss your mother on the mouth.",
+      "wordCount": 11
+    },
+    {
+      "id": 458,
+      "index": 458,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Well, that's what I mean.",
+      "wordCount": 5
+    },
+    {
+      "id": 459,
+      "index": 459,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "How's that?",
+      "wordCount": 2
+    },
+    {
+      "id": 460,
+      "index": 460,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "I can't tell. You're stomach's in the way.",
+      "wordCount": 8
+    },
+    {
+      "id": 461,
+      "index": 461,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "Don't give me those looks. I'm just your manager. The minute you start to be champ, you start eating like there's no tomorrow. And you giving me looks. All I know is that I don't have to defend my title next month.",
+      "wordCount": 42
+    },
+    {
+      "id": 462,
+      "index": 462,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Answer me somethin'. What happened at the Copa with Salvy when I was out of town?",
+      "wordCount": 16
+    },
+    {
+      "id": 463,
+      "index": 463,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "When?",
+      "wordCount": 1
+    },
+    {
+      "id": 464,
+      "index": 464,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "You know, when you gave him a beatin'.",
+      "wordCount": 8
+    },
+    {
+      "id": 465,
+      "index": 465,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "Nothin'. Salvy was out of line. He was drunk or somethin', I dunno. Anyway, the windup was I gave him a beatin'. Tommy called me down, and we straightened it out. It's all forgotten about.",
+      "wordCount": 35
+    },
+    {
+      "id": 466,
+      "index": 466,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Why didn't you tell me about it?",
+      "wordCount": 7
+    },
+    {
+      "id": 467,
+      "index": 467,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "It didn't have nothin' to do with you.",
+      "wordCount": 8
+    },
+    {
+      "id": 468,
+      "index": 468,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Didn't it have nothin' to do with me?",
+      "wordCount": 8
+    },
+    {
+      "id": 469,
+      "index": 469,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "No, I just told you what happened.",
+      "wordCount": 7
+    },
+    {
+      "id": 470,
+      "index": 470,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Who did it have anything to do with... Vickie?",
+      "wordCount": 9
+    },
+    {
+      "id": 471,
+      "index": 471,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "Jack, no. I just explained the whole thing to you. It was just between me and Salvy, if it had anything to do with you and Vickie, I woulda told you about it.",
+      "wordCount": 33
+    },
+    {
+      "id": 472,
+      "index": 472,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Well, I heard some things.",
+      "wordCount": 5
+    },
+    {
+      "id": 473,
+      "index": 473,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "\"You heard some things.\" Will you stop worryin' about that shit? Forget about it. You know you got a title fight comin' up.",
+      "wordCount": 23
+    },
+    {
+      "id": 474,
+      "index": 474,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "Whatever you touched, that's good now.",
+      "wordCount": 6
+    },
+    {
+      "id": 475,
+      "index": 475,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Did Salvy fuck Vickie?",
+      "wordCount": 4
+    },
+    {
+      "id": 476,
+      "index": 476,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "What?",
+      "wordCount": 1
+    },
+    {
+      "id": 477,
+      "index": 477,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "You're supposed to keep an eye on her for me. I'm askin'...",
+      "wordCount": 12
+    },
+    {
+      "id": 478,
+      "index": 478,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "I did keep an eye...",
+      "wordCount": 5
+    },
+    {
+      "id": 479,
+      "index": 479,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Then why did you give him a beatin' if he didn't do anything? You and him been friends a long time.",
+      "wordCount": 21
+    },
+    {
+      "id": 480,
+      "index": 480,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "Some things changed between us. Now, he thinks who the fuck he is. He's been passing certain remarks that I don't like.",
+      "wordCount": 22
+    },
+    {
+      "id": 481,
+      "index": 481,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Don't bullshit me, Joey. You ain't tellin' me the truth.",
+      "wordCount": 10
+    },
+    {
+      "id": 482,
+      "index": 482,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "What bullshit? Hey, I'm your brother. You wanna believe me - you trust me?",
+      "wordCount": 14
+    },
+    {
+      "id": 483,
+      "index": 483,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "When it comes to her, I don't trust nobody. I'm askin' you somethin'.",
+      "wordCount": 13
+    },
+    {
+      "id": 484,
+      "index": 484,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "Well, you're wrong Jack. I'm tellin\" you what happened. He got outta line, we had a fight, and it's staightened out now.",
+      "wordCount": 22
+    },
+    {
+      "id": 485,
+      "index": 485,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "You givin' me that look. I gotta accept your word, but if I find out anythin', I'm gonna kill somebody...",
+      "wordCount": 20
+    },
+    {
+      "id": 486,
+      "index": 486,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "So, go ahead. Kill everybody. Kill Salvy, kill Vickie, kill Tommy Como, kill me while you're at it. What do I care? You're killing yourself the way you're eating, the way you worry about things you don't have to worry about.",
+      "wordCount": 41
+    },
+    {
+      "id": 487,
+      "index": 487,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "What do you mean, \"you\"?",
+      "wordCount": 5
+    },
+    {
+      "id": 488,
+      "index": 488,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "What?",
+      "wordCount": 1
+    },
+    {
+      "id": 489,
+      "index": 489,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "What do you mean, \"you\"?",
+      "wordCount": 5
+    },
+    {
+      "id": 490,
+      "index": 490,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "I meant, kill everybody. You or me or anybody. You're a big shot. Kill, kill... g'head.",
+      "wordCount": 16
+    },
+    {
+      "id": 491,
+      "index": 491,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "But you said \"you.\"",
+      "wordCount": 4
+    },
+    {
+      "id": 492,
+      "index": 492,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "So what?",
+      "wordCount": 2
+    },
+    {
+      "id": 493,
+      "index": 493,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Eh, Joey, even you don't know what you meant. You mentioned Salvy, Tommy Como, you -- that means somethin'. Why'd you say them? You coulda said anybody.",
+      "wordCount": 27
+    },
+    {
+      "id": 494,
+      "index": 494,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "You're worried about this girl, you're gonna let this girl ruin you're life for you... You wanna worry, worry about your fuckin' stomach that you can't bend over -- that you gotta step in the ring in a month.",
+      "wordCount": 39
+    },
+    {
+      "id": 495,
+      "index": 495,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Did you ever fuck my wife?",
+      "wordCount": 6
+    },
+    {
+      "id": 496,
+      "index": 496,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "What?",
+      "wordCount": 1
+    },
+    {
+      "id": 497,
+      "index": 497,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "I don't mean now. I mean before -- before we met.",
+      "wordCount": 11
+    },
+    {
+      "id": 498,
+      "index": 498,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "Whadda ya mean?",
+      "wordCount": 3
+    },
+    {
+      "id": 499,
+      "index": 499,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Did you ever fuck my wife?",
+      "wordCount": 6
+    },
+    {
+      "id": 500,
+      "index": 500,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "Whatsa matter with you?",
+      "wordCount": 4
+    },
+    {
+      "id": 501,
+      "index": 501,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "You're very smart, Joey, very smart. Nobody gives me a straight answer around here. You're givin' me these answers, but you still didn't answer my question. Did you fuck Vickie?",
+      "wordCount": 30
+    },
+    {
+      "id": 502,
+      "index": 502,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "I gotta go. I gotta get outta here. I can't take this shit. Lenore is waitin' for me. I gotta go. You're a definite wacko. You're fuckin' crazy, you know that, crazy.",
+      "wordCount": 32
+    },
+    {
+      "id": 503,
+      "index": 503,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Where you been all day?",
+      "wordCount": 5
+    },
+    {
+      "id": 504,
+      "index": 504,
+      "character": "VICKIE",
+      "gender": "Female",
+      "line": "I took the kids to my sister's.",
+      "wordCount": 7
+    },
+    {
+      "id": 505,
+      "index": 505,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "I called. You weren't there.",
+      "wordCount": 5
+    },
+    {
+      "id": 506,
+      "index": 506,
+      "character": "VICKIE",
+      "gender": "Female",
+      "line": "I got bored so I went to the movies.",
+      "wordCount": 9
+    },
+    {
+      "id": 507,
+      "index": 507,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "What'd you see?",
+      "wordCount": 3
+    },
+    {
+      "id": 508,
+      "index": 508,
+      "character": "VICKIE",
+      "gender": "Female",
+      "line": "I went to the movies.",
+      "wordCount": 5
+    },
+    {
+      "id": 509,
+      "index": 509,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "What'd you see?",
+      "wordCount": 3
+    },
+    {
+      "id": 510,
+      "index": 510,
+      "character": "VICKIE",
+      "gender": "Female",
+      "line": "\"Father of the Bride.\"",
+      "wordCount": 4
+    },
+    {
+      "id": 511,
+      "index": 511,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "What was it about?",
+      "wordCount": 4
+    },
+    {
+      "id": 512,
+      "index": 512,
+      "character": "VICKIE",
+      "gender": "Female",
+      "line": "Oh, c'mon. For Christsake, do I have to tell you everything?",
+      "wordCount": 11
+    },
+    {
+      "id": 513,
+      "index": 513,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Did you ever go to the Copa when I was away?",
+      "wordCount": 11
+    },
+    {
+      "id": 514,
+      "index": 514,
+      "character": "VICKIE",
+      "gender": "Female",
+      "line": "What're you talking about?",
+      "wordCount": 4
+    },
+    {
+      "id": 515,
+      "index": 515,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Answer me when I talk to you. What happened that night?",
+      "wordCount": 11
+    },
+    {
+      "id": 516,
+      "index": 516,
+      "character": "VICKIE",
+      "gender": "Female",
+      "line": "I am answering...",
+      "wordCount": 3
+    },
+    {
+      "id": 517,
+      "index": 517,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "What do I have to do to get a straight answer around here.",
+      "wordCount": 13
+    },
+    {
+      "id": 518,
+      "index": 518,
+      "character": "VICKIE",
+      "gender": "Female",
+      "line": "Jake, no --",
+      "wordCount": 3
+    },
+    {
+      "id": 519,
+      "index": 519,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Do I have to kill you, eh? Do I have to kill somebody to get an answer? I know about you at the Copa. I know all about it.",
+      "wordCount": 29
+    },
+    {
+      "id": 520,
+      "index": 520,
+      "character": "VICKIE",
+      "gender": "Female",
+      "line": "I didn't do anything wrong. I swear. I just had a few drinks.",
+      "wordCount": 13
+    },
+    {
+      "id": 521,
+      "index": 521,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "With Salvy, eh?",
+      "wordCount": 3
+    },
+    {
+      "id": 522,
+      "index": 522,
+      "character": "VICKIE",
+      "gender": "Female",
+      "line": "I went with Sandy and Vera. Salvy was there. Stop it. I just had a drink, that's all. I didn't do anything wrong.",
+      "wordCount": 23
+    },
+    {
+      "id": 523,
+      "index": 523,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Come out of there! Did you fuck Salvy? Answer me. Open this fuckin' door, you fuckin' cunt! Who've you been fuckin'?",
+      "wordCount": 21
+    },
+    {
+      "id": 524,
+      "index": 524,
+      "character": "VICKIE",
+      "gender": "Female",
+      "line": "Nobody, I tell you. Jake stop it.",
+      "wordCount": 7
+    },
+    {
+      "id": 525,
+      "index": 525,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "You're a fuckin' liar.",
+      "wordCount": 4
+    },
+    {
+      "id": 526,
+      "index": 526,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Who've you been fuckin'? Salvy? Tommy Como? I can't trust nobody. Did you fuck Joey? Who you been fuckin'?",
+      "wordCount": 19
+    },
+    {
+      "id": 527,
+      "index": 527,
+      "character": "VICKIE",
+      "gender": "Female",
+      "line": "All right, I fucked everybody! Go ahead, kill me, kill me.",
+      "wordCount": 11
+    },
+    {
+      "id": 528,
+      "index": 528,
+      "character": "VICKIE",
+      "gender": "Female",
+      "line": "I'll say anything you want me to say. I fuckled Salvy. I fucked Tommy. I fucked your brother. I fucked everybody! What do you want to hear? I sucked your brother's fuckin' cock!",
+      "wordCount": 33
+    },
+    {
+      "id": 529,
+      "index": 529,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "You did?",
+      "wordCount": 2
+    },
+    {
+      "id": 530,
+      "index": 530,
+      "character": "VICKIE",
+      "gender": "Female",
+      "line": "Yeah, I sucked his cock.",
+      "wordCount": 5
+    },
+    {
+      "id": 531,
+      "index": 531,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "Don't hit your brother! Be nice.",
+      "wordCount": 6
+    },
+    {
+      "id": 532,
+      "index": 532,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "Jake, stop it.",
+      "wordCount": 3
+    },
+    {
+      "id": 533,
+      "index": 533,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Was Vickie part of the deal with Tommy? Was my wife part of the deal? Tell me, was that it?",
+      "wordCount": 20
+    },
+    {
+      "id": 534,
+      "index": 534,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "Stop it. What're you, crazy?",
+      "wordCount": 5
+    },
+    {
+      "id": 535,
+      "index": 535,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "You didn't tell me. You didn't tell me. You let me marry her. You let me marry her.",
+      "wordCount": 18
+    },
+    {
+      "id": 536,
+      "index": 536,
+      "character": "VICKIE",
+      "gender": "Female",
+      "line": "You're killing him. You're killing him for nothing. Stop it.",
+      "wordCount": 10
+    },
+    {
+      "id": 537,
+      "index": 537,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Get the fuck outa here. Whadda you mean nothing'? You stupid bitch!",
+      "wordCount": 12
+    },
+    {
+      "id": 538,
+      "index": 538,
+      "character": "VICKIE",
+      "gender": "Female",
+      "line": "Nothing is what I said! Go on, kull me. Kill me. I'm not afraid of you anymore. I don't care if you kill me like you're killing him. You're a sick animal.",
+      "wordCount": 32
+    },
+    {
+      "id": 539,
+      "index": 539,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "You're the fuckin' animal! You ran around with every guy I knew while I was breakin' my ass for you.",
+      "wordCount": 20
+    },
+    {
+      "id": 540,
+      "index": 540,
+      "character": "VICKIE",
+      "gender": "Female",
+      "line": "You're not only an animal, you're a stupid animal. You're rotten. Rotten. Rotten. You're a sick maniac. A maniac! You belong in a mental hospital.",
+      "wordCount": 25
+    },
+    {
+      "id": 541,
+      "index": 541,
+      "character": "VICKIE",
+      "gender": "Female",
+      "line": "Well, he ain't dead in case you're interested. I'm leaving you. And I don't care if you do try to kill me. Go ahead. I'm not afraid of you anymore. There's worse things than being dead and one of them's living with you -- I'm leaving tonight. I must have been crazier than you are for stayin' with you this long. You're hopeless. You're not gonna let anybody love you. I kept thinking that you'd change when you got to be the champ... But I just can't take it anymore. I'm taking the kids and I'm leavin'.",
+      "wordCount": 97
+    },
+    {
+      "id": 542,
+      "index": 542,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Aw, Vickie, aw Vickie, please no. Vickie, no... don't leave me. Christ, I'm pleading... I know, I know all the bad things, but I need you. I'm a bum without you and the kids. I'll change. Aw, Vickie, maybe I don't do it the right way, but I love you. I love you.",
+      "wordCount": 53
+    },
+    {
+      "id": 543,
+      "index": 543,
+      "character": "VICKIE",
+      "gender": "Female",
+      "line": "You know, if there's one thing -- I just don't understand you, not one single little bit. You love me?",
+      "wordCount": 20
+    },
+    {
+      "id": 544,
+      "index": 544,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Yeah --",
+      "wordCount": 2
+    },
+    {
+      "id": 545,
+      "index": 545,
+      "character": "TONY",
+      "gender": "NA",
+      "line": "It ain't worth it, Jake. Get out.",
+      "wordCount": 7
+    },
+    {
+      "id": 546,
+      "index": 546,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "What time is it?",
+      "wordCount": 4
+    },
+    {
+      "id": 547,
+      "index": 547,
+      "character": "TONY",
+      "gender": "NA",
+      "line": "Nine o'clock.",
+      "wordCount": 2
+    },
+    {
+      "id": 548,
+      "index": 548,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "At night?",
+      "wordCount": 2
+    },
+    {
+      "id": 549,
+      "index": 549,
+      "character": "TONY",
+      "gender": "NA",
+      "line": "Yeah. At night.",
+      "wordCount": 3
+    },
+    {
+      "id": 550,
+      "index": 550,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "How many pounds I gotta lose?",
+      "wordCount": 6
+    },
+    {
+      "id": 551,
+      "index": 551,
+      "character": "TONY",
+      "gender": "NA",
+      "line": "Three more, I figure.",
+      "wordCount": 4
+    },
+    {
+      "id": 552,
+      "index": 552,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Just give me a chip of ice to put in my mouth. Just a chip of ice.",
+      "wordCount": 17
+    },
+    {
+      "id": 553,
+      "index": 553,
+      "character": "TONY",
+      "gender": "NA",
+      "line": "I'll give you anything you want, Jake. I think you should come out for a few minutes -- give yourself a break.",
+      "wordCount": 22
+    },
+    {
+      "id": 554,
+      "index": 554,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Are you outa your mind? If I come out, I'll lose the title.",
+      "wordCount": 13
+    },
+    {
+      "id": 555,
+      "index": 555,
+      "character": "VICKIE",
+      "gender": "Female",
+      "line": "Jake, why don't you just try lying down and get some rest.",
+      "wordCount": 12
+    },
+    {
+      "id": 556,
+      "index": 556,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "I don't know what it is. I dunno, it's the kind of thing that -- the words won't come out.",
+      "wordCount": 20
+    },
+    {
+      "id": 557,
+      "index": 557,
+      "character": "VICKIE",
+      "gender": "Female",
+      "line": "Jake --",
+      "wordCount": 2
+    },
+    {
+      "id": 558,
+      "index": 558,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "What?",
+      "wordCount": 1
+    },
+    {
+      "id": 559,
+      "index": 559,
+      "character": "VICKIE",
+      "gender": "Female",
+      "line": "I want to say something to you without you blowing your stack.",
+      "wordCount": 12
+    },
+    {
+      "id": 560,
+      "index": 560,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "OK. Talk.",
+      "wordCount": 2
+    },
+    {
+      "id": 561,
+      "index": 561,
+      "character": "VICKIE",
+      "gender": "Female",
+      "line": "Why don't you just call him up?",
+      "wordCount": 7
+    },
+    {
+      "id": 562,
+      "index": 562,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "What do I say to him? Call him up on the phone and say, \"Joey, I'm sorry about that little trouble we had. How about havin' dinner?\" Is that what I say?",
+      "wordCount": 32
+    },
+    {
+      "id": 563,
+      "index": 563,
+      "character": "VICKIE",
+      "gender": "Female",
+      "line": "No, not that.",
+      "wordCount": 3
+    },
+    {
+      "id": 564,
+      "index": 564,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Then what?",
+      "wordCount": 2
+    },
+    {
+      "id": 565,
+      "index": 565,
+      "character": "VICKIE",
+      "gender": "Female",
+      "line": "I don't know.",
+      "wordCount": 3
+    },
+    {
+      "id": 566,
+      "index": 566,
+      "character": "RINGSIDE ANNOUNCER",
+      "gender": "NA",
+      "line": "... Ladies and gentlemen, I've sat in front of these microphones for over twenty years but this is the strangest championship bout I've ever seen. With two minutes to go in the final round, the champion, the mighty Bull from the Bronx, is just simply taking punch after punch from the challenger. Dauthuille scores a combination, then backpedals. LaMotta pursues him. One minute to go. Laurent DauthuiLlle, who has already beat Lamotta in a non-title bout, is about to fulfill a dream -- to bring the middleweight crown back to France.",
+      "wordCount": 91
+    },
+    {
+      "id": 567,
+      "index": 567,
+      "character": "RINGSIDE'ANNOUNCER",
+      "gender": "NA",
+      "line": "Thirty seconds to go. The Bull starts to swing. LaMotta comes in for a brutal body combinaticn: one, two, three, four punches. LaMotta has landed a solid left hook to the Frenchman's jaw! Dauthuille seems confused. LaMotta is swinging wildly now: right, left, right, left! Dauthuille is backing off! Everyone is on their feet! I can hardly see, ladies and gentlemen. Dauthuille is on the ropes. LaMotta hits a right -- Dauthuille is down! Dauthuille is down! Referee Lou Handler is counting him out -- three, four, five -- if Dauthuille can stand, he'll win the decision -- eight, nine -- Dauthuille is on one knee -- ten! It's all over! With thirteen seconds left on the clock, Jake LaMotta has retained his middleweight championship in one of the most remarkable combacks in boxing! Dauthuille is standing now, confused. But the fight is over.",
+      "wordCount": 144
+    },
+    {
+      "id": 568,
+      "index": 568,
+      "character": "ANNOUNCER",
+      "gender": "Male",
+      "line": "The middleweight champion, and still champion by a knockout in fifteen rounds, the Bronx Bull, the Raging Bull, Jake LaMotta!",
+      "wordCount": 20
+    },
+    {
+      "id": 569,
+      "index": 569,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "I miss Joey. I wish Joey was here.",
+      "wordCount": 8
+    },
+    {
+      "id": 570,
+      "index": 570,
+      "character": "VICKIE",
+      "gender": "Female",
+      "line": "Why don't you just call him?",
+      "wordCount": 6
+    },
+    {
+      "id": 571,
+      "index": 571,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "I dunno.",
+      "wordCount": 2
+    },
+    {
+      "id": 572,
+      "index": 572,
+      "character": "VICKIE",
+      "gender": "Female",
+      "line": "Tell him how you feel -- you miss him. Tell him you're sorry.",
+      "wordCount": 13
+    },
+    {
+      "id": 573,
+      "index": 573,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Ok, all right. Telephone's in the hall. Dial his number.",
+      "wordCount": 10
+    },
+    {
+      "id": 574,
+      "index": 574,
+      "character": "THE HALLWAY",
+      "gender": "NA",
+      "line": "As the number starts to ring, VICKIE hands the phone to JAKE.",
+      "wordCount": 12
+    },
+    {
+      "id": 575,
+      "index": 575,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "Hello... hello...",
+      "wordCount": 2
+    },
+    {
+      "id": 576,
+      "index": 576,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "What's this, a joke? Hello... Hey!",
+      "wordCount": 6
+    },
+    {
+      "id": 577,
+      "index": 577,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "Well, if there's somebody listenin', their mother's a fuckin' whore who takes it in the ass.",
+      "wordCount": 16
+    },
+    {
+      "id": 578,
+      "index": 578,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "I shoulda never hit my brother. Afterwards I was sorry. Now every time I need somethin' I gotta go shoppin' for it! A psychiatrist once told me, \"When you hit your brother you're really hittin' your mother but you can't admit it to yourself.\" He's really crazy. I woulda never hit my mother. I mean, only in self-defense! A lot of people wanta know who was the best guy I ever fought. Let's see... there was that one I fought twice... the other Frenchman... you know who I mean... ... Dauthuille! He was tough, but I beat him... I had to! I mean, how would it sound losin' to a guy whose name you can't even pronounce? But... Robinson. I can say that alright. I fought Sugar Ray so many times it's a wonder I don't have diabetes! Linda... get me another drink! Linda's the most popular waitress here... you can tell by her tips! She's the kinda girl I go for. You oughta see the ones I get.",
+      "wordCount": 169
+    },
+    {
+      "id": 579,
+      "index": 579,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "... Thanks, babe. She's a nice kid. She'll only do it with a guy if she really likes him. She's got a lot in common with Will Rogers -- never met a man she didn't like! ... I was talkin' about Sugar Ray. Some of you think I was better than him... but you know, it's a toss up. Except the last fight... February 14, 1951.",
+      "wordCount": 66
+    },
+    {
+      "id": 580,
+      "index": 580,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Valentine's Day. The anniversary of the St. Valentine's Massacre. Robinson didn't use a machine gun but it was still a massacre...",
+      "wordCount": 21
+    },
+    {
+      "id": 581,
+      "index": 581,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Actually, I was doin' okay at first. In fact, by the end of the fifth round I really had him worried -- he thought he killed me.",
+      "wordCount": 27
+    },
+    {
+      "id": 582,
+      "index": 582,
+      "character": "LENORE",
+      "gender": "Female",
+      "line": "Look at that. The sonofabitch is outboxing Robinson.",
+      "wordCount": 8
+    },
+    {
+      "id": 583,
+      "index": 583,
+      "character": "JOEY",
+      "gender": "Male",
+      "line": "I can't believe he's getting that jab in.",
+      "wordCount": 8
+    },
+    {
+      "id": 584,
+      "index": 584,
+      "character": "PABST COMMERCIAL",
+      "gender": "NA",
+      "line": "\"Friend, the quality that has carried Pabst Blue Ribbon around the world is yours for the asking. Next time that friendly bartender says, 'What'll you have?' give him the answer the whole world gives, Pabst Blue Ribbon!\"",
+      "wordCount": 37
+    },
+    {
+      "id": 585,
+      "index": 585,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "He ain't hurting me, but I can't get him down.",
+      "wordCount": 10
+    },
+    {
+      "id": 586,
+      "index": 586,
+      "character": "TONY",
+      "gender": "NA",
+      "line": "Don't talk. Keep at it. Jab, jab, jab. You're ahead on points.",
+      "wordCount": 12
+    },
+    {
+      "id": 587,
+      "index": 587,
+      "character": "S.R.'S TRAINER",
+      "gender": "NA",
+      "line": "He's going, Sugar. He's old. He ain't Jake LaMotta no more. Make your move, Sugar. Kill him!",
+      "wordCount": 17
+    },
+    {
+      "id": 588,
+      "index": 588,
+      "character": "TV ANNOUNCER",
+      "gender": "NA",
+      "line": "LaMotta's on queer street, but he's still standing. Robinson throws a right, a left, a right, a right and a right again! How can LaMotta stay on his feet?",
+      "wordCount": 29
+    },
+    {
+      "id": 589,
+      "index": 589,
+      "character": "TV ANNOUNCER",
+      "gender": "NA",
+      "line": "No man can take this kind of punishment. LaMotta is just a rag doll now. God knows what's holding him up. This is an historic beating. Sugar Rav staggers LaMotta with a left and comes across with a blackjack punch to the champion's head. The referee is stepping in, Robinson has LaMotta on the ropes. That's it! Sugar Ray Robinson, former welterweight champion, has taken the middleweight crown from Jake LaMota.",
+      "wordCount": 71
+    },
+    {
+      "id": 590,
+      "index": 590,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "You never knocked me down. You could never knock me down.",
+      "wordCount": 11
+    },
+    {
+      "id": 591,
+      "index": 591,
+      "character": "ROBINSON",
+      "gender": "NA",
+      "line": "So what?",
+      "wordCount": 2
+    },
+    {
+      "id": 592,
+      "index": 592,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "I'm pulling out of next Wednesday's TV bout 'cause I can't make the weight. I'm fighting at light heavyweight, and I still can't make the weight.",
+      "wordCount": 26
+    },
+    {
+      "id": 593,
+      "index": 593,
+      "character": "REPORTER",
+      "gender": "NA",
+      "line": "Does that mean...",
+      "wordCount": 3
+    },
+    {
+      "id": 594,
+      "index": 594,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "It means I'm through with boxing. I'm tired with tryin' to make the weight anymore. I'm sick of thinkin' about weight, weight, weight.",
+      "wordCount": 23
+    },
+    {
+      "id": 595,
+      "index": 595,
+      "character": "REPORTER",
+      "gender": "NA",
+      "line": "You sound bitter.",
+      "wordCount": 3
+    },
+    {
+      "id": 596,
+      "index": 596,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Why should I be bitter? Boxing's been good to me. I got a nice house, three kids, a beautiful wife -- take a picture of her. Vickie.",
+      "wordCount": 27
+    },
+    {
+      "id": 597,
+      "index": 597,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Ain't she beautiful? Coulda been Mrs. America if I didn't pull her outa the contest. Didn't want her wearing a swimsuit for nobody but me.",
+      "wordCount": 25
+    },
+    {
+      "id": 598,
+      "index": 598,
+      "character": "REPORTER",
+      "gender": "NA",
+      "line": "What do you think of Jake's retirement, Mrs. LaMotta?",
+      "wordCount": 9
+    },
+    {
+      "id": 599,
+      "index": 599,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "I also bought a club on Collins Avenue, and I'm gonna open it real soon. Know what I'm gonna call it? \"Jake LaMotta's.\"",
+      "wordCount": 23
+    },
+    {
+      "id": 600,
+      "index": 600,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Valentine's Day. The anniversary of the St. Valentine's Day Massacre. Robinsin didn't use a machine gun but it was still a massacre... Actually, I was doin' okay at first. In fact, by the end of the fifth round I really had him worried --- he thought he killed me. You know, I could keep tellin' you this brilliant material all night -- but you'd only laugh. Now I'm gonna sing. -- Any requests? I mean, besides \"don't\"! -- In the key of H. You're laughin'. Give me the right key and I'll play in anybody's flat! I sing for a reason. When I finish, you'll be so sobered up, we'll sell a lot of booze.",
+      "wordCount": 115
+    },
+    {
+      "id": 601,
+      "index": 601,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "\"When the fighter's not engaged in his employment, his employment, although he was Champ and quite the rage, he must go somewhere else to seek employment, seek employment. So what does he do? He goes upon the stage and meets his true adversaries, all you members of the human race. But a fighter's life is not a bowl of cherries, still I'd rather have an egg than a fist upon my face... That's Entertainment!",
+      "wordCount": 74
+    },
+    {
+      "id": 602,
+      "index": 602,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "J.R., glad you could make it.",
+      "wordCount": 6
+    },
+    {
+      "id": 603,
+      "index": 603,
+      "character": "J.R.",
+      "gender": "NA",
+      "line": "You were great, Jake. Just like old times. Good thing Sugar Ray wasn't here tonight. Oh Jake, this is State's Attorney Bronson and his wife.",
+      "wordCount": 25
+    },
+    {
+      "id": 604,
+      "index": 604,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Sorry, empty! Heh, heh! Oh, I didn't mean that. If I don't give your husband no money, he won't have enough to buy you a drink. To show you I'm a nice guy, this one's on me. The last one was your payment for this month.",
+      "wordCount": 46
+    },
+    {
+      "id": 605,
+      "index": 605,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "You're a good sport, lady.",
+      "wordCount": 5
+    },
+    {
+      "id": 606,
+      "index": 606,
+      "character": "J.R.",
+      "gender": "NA",
+      "line": "I saw you fight Bob Satterfield in '46, Jake. In Chicago. You were great.",
+      "wordCount": 14
+    },
+    {
+      "id": 607,
+      "index": 607,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Yeah, I really cleaned up on him.",
+      "wordCount": 7
+    },
+    {
+      "id": 608,
+      "index": 608,
+      "character": "J.R.",
+      "gender": "NA",
+      "line": "Where's your wife, Jake?",
+      "wordCount": 4
+    },
+    {
+      "id": 609,
+      "index": 609,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Do you think I'd let her in a place like this with guys like you hangin' around?",
+      "wordCount": 17
+    },
+    {
+      "id": 610,
+      "index": 610,
+      "character": "J. R.",
+      "gender": "NA",
+      "line": "You ought to see his wife.",
+      "wordCount": 6
+    },
+    {
+      "id": 611,
+      "index": 611,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Hey, Ricky, glad you came.",
+      "wordCount": 5
+    },
+    {
+      "id": 612,
+      "index": 612,
+      "character": "RICKY",
+      "gender": "NA",
+      "line": "Wouldn't miss it, Jake.",
+      "wordCount": 4
+    },
+    {
+      "id": 613,
+      "index": 613,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Hey, honey, give these fellas a round on me. I can tell they're gonna be regular customers.",
+      "wordCount": 17
+    },
+    {
+      "id": 614,
+      "index": 614,
+      "character": "WAITRESS",
+      "gender": "NA",
+      "line": "I'll have to ask for your I.D.",
+      "wordCount": 7
+    },
+    {
+      "id": 615,
+      "index": 615,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Whew! Any girl that can kiss like that can drink in my club any time!",
+      "wordCount": 15
+    },
+    {
+      "id": 616,
+      "index": 616,
+      "character": "VICKIE",
+      "gender": "Female",
+      "line": "Jake.",
+      "wordCount": 1
+    },
+    {
+      "id": 617,
+      "index": 617,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "I'm sorry. I had to work late last night. Slept at the club.",
+      "wordCount": 13
+    },
+    {
+      "id": 618,
+      "index": 618,
+      "character": "VICKIE",
+      "gender": "Female",
+      "line": "I'm leaving your Jake.",
+      "wordCount": 4
+    },
+    {
+      "id": 619,
+      "index": 619,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Sure, what else is new?",
+      "wordCount": 5
+    },
+    {
+      "id": 620,
+      "index": 620,
+      "character": "VICKIE",
+      "gender": "Female",
+      "line": "No. This time it's true. I didn't bother to tell you until I had everything worked out.",
+      "wordCount": 17
+    },
+    {
+      "id": 621,
+      "index": 621,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Open the door, Vickie.",
+      "wordCount": 4
+    },
+    {
+      "id": 622,
+      "index": 622,
+      "character": "VICKIE",
+      "gender": "Female",
+      "line": "No. I won't talk to you where you can use your hands on me.",
+      "wordCount": 14
+    },
+    {
+      "id": 623,
+      "index": 623,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Aw, c'mon. Don't say that.",
+      "wordCount": 5
+    },
+    {
+      "id": 624,
+      "index": 624,
+      "character": "VICKIE",
+      "gender": "Female",
+      "line": "I got a lawyer, Jake. We're getting a divorce. I'm getting custody of the kids.",
+      "wordCount": 15
+    },
+    {
+      "id": 625,
+      "index": 625,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Aw, c'mon, Vick --",
+      "wordCount": 4
+    },
+    {
+      "id": 626,
+      "index": 626,
+      "character": "VICKIE",
+      "gender": "Female",
+      "line": "I'm sick of it. I can't watch you this way. You're too drunk all the time. There's too many girls. I can't... I don't wanna talk about it. I made up my mind.",
+      "wordCount": 33
+    },
+    {
+      "id": 627,
+      "index": 627,
+      "character": "VICKIE",
+      "gender": "Female",
+      "line": "You got three days to get your stuff out of the house. After that, the cops will be there. I have the kids with me. I never want to see you again.",
+      "wordCount": 32
+    },
+    {
+      "id": 628,
+      "index": 628,
+      "character": "1ST DEPUTY",
+      "gender": "NA",
+      "line": "Let's go, Jake, wake up!",
+      "wordCount": 5
+    },
+    {
+      "id": 629,
+      "index": 629,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Huh? Whadda ya mean, get up?",
+      "wordCount": 6
+    },
+    {
+      "id": 630,
+      "index": 630,
+      "character": "1ST DEPUTY",
+      "gender": "NA",
+      "line": "We're from...",
+      "wordCount": 2
+    },
+    {
+      "id": 631,
+      "index": 631,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "I know where you're from. You guys look the same every place.",
+      "wordCount": 12
+    },
+    {
+      "id": 632,
+      "index": 632,
+      "character": "1ST DEPUTY",
+      "gender": "NA",
+      "line": "They wanna talk to you.",
+      "wordCount": 5
+    },
+    {
+      "id": 633,
+      "index": 633,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "About what?",
+      "wordCount": 2
+    },
+    {
+      "id": 634,
+      "index": 634,
+      "character": "1ST DEPUTY",
+      "gender": "NA",
+      "line": "I don't run the joint. They just told me to bring you in.",
+      "wordCount": 13
+    },
+    {
+      "id": 635,
+      "index": 635,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "For what?",
+      "wordCount": 2
+    },
+    {
+      "id": 636,
+      "index": 636,
+      "character": "2ND DEPUTY",
+      "gender": "NA",
+      "line": "C'mon, get dressed.",
+      "wordCount": 3
+    },
+    {
+      "id": 637,
+      "index": 637,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Hey, I'm a big tax payer down here. Don't that entitle me to some information what this is all about?",
+      "wordCount": 20
+    },
+    {
+      "id": 638,
+      "index": 638,
+      "character": "2ND DEPUTY",
+      "gender": "NA",
+      "line": "You recognize this girl? She been in the club?",
+      "wordCount": 9
+    },
+    {
+      "id": 639,
+      "index": 639,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "I dunno.",
+      "wordCount": 2
+    },
+    {
+      "id": 640,
+      "index": 640,
+      "character": "2ND DEPUTY",
+      "gender": "NA",
+      "line": "She says you introduced her to men.",
+      "wordCount": 7
+    },
+    {
+      "id": 641,
+      "index": 641,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "I introduced a lot of people to men. So what? What does that mean?",
+      "wordCount": 14
+    },
+    {
+      "id": 642,
+      "index": 642,
+      "character": "2ND DEPUTY",
+      "gender": "NA",
+      "line": "She's fourteen.",
+      "wordCount": 2
+    },
+    {
+      "id": 643,
+      "index": 643,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Vickie, open up. I need to come in.",
+      "wordCount": 8
+    },
+    {
+      "id": 644,
+      "index": 644,
+      "character": "VICKIE",
+      "gender": "Female",
+      "line": "Are you drunk?",
+      "wordCount": 3
+    },
+    {
+      "id": 645,
+      "index": 645,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "No. Open the door.",
+      "wordCount": 4
+    },
+    {
+      "id": 646,
+      "index": 646,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Please, Vick. I won't bother you. I'm out on bail. You can send the kids next door. I just gotta pick one thing up, then I'll get outa here.",
+      "wordCount": 29
+    },
+    {
+      "id": 647,
+      "index": 647,
+      "character": "VICKIE",
+      "gender": "Female",
+      "line": "The kids are sleeping.",
+      "wordCount": 4
+    },
+    {
+      "id": 648,
+      "index": 648,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "I promise I just gotta pick up one thing.",
+      "wordCount": 9
+    },
+    {
+      "id": 649,
+      "index": 649,
+      "character": "VICKIE",
+      "gender": "Female",
+      "line": "All right, just don't make any noise.",
+      "wordCount": 7
+    },
+    {
+      "id": 650,
+      "index": 650,
+      "character": "VICKIE",
+      "gender": "Female",
+      "line": "What are you doing?",
+      "wordCount": 4
+    },
+    {
+      "id": 651,
+      "index": 651,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "I need ten thousand dollars. My lawyer says if we can spread ten thousand bucks around, we can get the case dropped.",
+      "wordCount": 22
+    },
+    {
+      "id": 652,
+      "index": 652,
+      "character": "VICKIE",
+      "gender": "Female",
+      "line": "But they don't have a case against you.",
+      "wordCount": 8
+    },
+    {
+      "id": 653,
+      "index": 653,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Are you kiddin'? Did you ever see a 14-year-old testify in court? Did you see the papers? \"LaMotta on Vice Rap.\" Everybody likes a shot at the Champ.",
+      "wordCount": 28
+    },
+    {
+      "id": 654,
+      "index": 654,
+      "character": "VICKIE",
+      "gender": "Female",
+      "line": "Jake, be careful! What're you doing to the belt?!",
+      "wordCount": 9
+    },
+    {
+      "id": 655,
+      "index": 655,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Don't make no difference no more.",
+      "wordCount": 6
+    },
+    {
+      "id": 656,
+      "index": 656,
+      "character": "VICKIE",
+      "gender": "Female",
+      "line": "Can't you get the money from your friends?",
+      "wordCount": 8
+    },
+    {
+      "id": 657,
+      "index": 657,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "What friends?",
+      "wordCount": 2
+    },
+    {
+      "id": 658,
+      "index": 658,
+      "character": "JEWELER",
+      "gender": "NA",
+      "line": "Didn't you also wish to sell the Championship Belt, Mr. LaMotta?",
+      "wordCount": 11
+    },
+    {
+      "id": 659,
+      "index": 659,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "That's it. Those are the jewels that were in the belt.",
+      "wordCount": 11
+    },
+    {
+      "id": 660,
+      "index": 660,
+      "character": "JEWELER",
+      "gender": "NA",
+      "line": "But where's the belt?",
+      "wordCount": 4
+    },
+    {
+      "id": 661,
+      "index": 661,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "You want the jewels or the belt?",
+      "wordCount": 7
+    },
+    {
+      "id": 662,
+      "index": 662,
+      "character": "JEWELER",
+      "gender": "NA",
+      "line": "Both. These stones are worth about fifteen hudred dollars, but the belt of a champion is a very rare item. The belt with the stones untouched would have been worth near five thousand dollars.",
+      "wordCount": 34
+    },
+    {
+      "id": 663,
+      "index": 663,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "I can't raise the ten thousand. Fuck 'em. Let 'em put me on trial.",
+      "wordCount": 14
+    },
+    {
+      "id": 664,
+      "index": 664,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "So there I am in the can... and not the one that says \"gentlemen\" on the door. I'm talkin' about jail! Down south! I mean, jail up north is gotta be like summer camp compared to jail down in cracker country. And if you're a guy like me, you ain't got a chance in a place like that. Especially if you're Italian... you come from the Bronx... and you're an ex-champ. As soon as they saw me... soon as they heard me... I know I'm in trouble. To me, they got an accent, and to them, I got an accent! You gotta get the picture -- I'm big, I got small hands, I walk like I'm still in the ring... the balls of my feet pop up and down, you know... and whenever I get the chance, I read a lot. So naturally, takin' all this into co sideration, they figure it adds up to one thing -- I'm queer! Now I didn't mind too much when they called me \"Queer\" or \"Mr. Tough Guy\" or \"Yankee Punk\"... But one day these screws got to me... I was workin' on the work gang, pickin' up some trees that were knocked down by a storm or somethin' and puttin' 'em on this truck. All of a sudden... one of the trees slipped and fell on me and pinned me to the ground. I'm lyin' there with a tree across my chest! This screw walks over, takin' his time, he looks down at me and says, \"Well, Champ Pimp... you lyin' down on the job again?\"! They got a great sense of humor when they're standin' there with a gun in their arms and you got a tree on your chest! So I look up at him and say, \"Oh, this tree... it fell on me.\" And he says, \"Oh, I'm sorry... If I'd have known, I would've yelled 'timber'\" I said, \"Hey, look... it hurts. I think maybe I broke somethin'!\" He says, \"Well, whaddaya know... Champ PImp's got himself a boo-boo.\" Then I got as stupid as him. I said, \"If I'm Champ Pimp... how 'bout givin' me the money you made last night?\"! Then another screw comes over and says, \"This Yankee creep givin' you trouble?\" -- What kind of trouble? What am I gonna do -- hit 'em with the tree? Now anybody else in their right mind would've said, \"No sir, I wouldn't think of giving any of you gentlemen trouble... I just want to serve my time and get the hell out of here as soon as I can.\" That's anybody else. When I said it... it was a little different. \"You stupid cracker... take your hands off me or I'll get up and kick your brains out -- but first you gotta bend over so I can find 'em!\" Next thing I know I'm in the hole. Solitary confinement. All my life I had guys in my corner yellin' \"Go get 'em, jake... kill 'em! You're the greatest.\" Now there's nobody rootin' for me. But it wasn't so bad. I learned things there. I learned how to scratch a calendar on the wall. I never knew how to do that before. Now I know. Monday is one scratch. Tuesday is two scratches. Wednesday is three scratches. And so on. Except for Sundays. Sundays is no scratches. Sundays rested.",
+      "wordCount": 563
+    },
+    {
+      "id": 665,
+      "index": 665,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Why, why, why? I'm a man, I'm a man. I'm no faggot. I'm not a faggot. Ma, why? What do they want? My cock's not enough. What do they want from me? Why? Ma? Why?",
+      "wordCount": 35
+    },
+    {
+      "id": 666,
+      "index": 666,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Why, why, why me? You took it away from me. They took everything away. What do they want from me? What the fuck do they want from me? I ain't bad. I ain't bad. I'm not that guy. I'm not that guy. I'm not a monster. I'm not an animal.",
+      "wordCount": 50
+    },
+    {
+      "id": 667,
+      "index": 667,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "I'm not like that. Please. I'm not like that. Please. Please. Please.",
+      "wordCount": 12
+    },
+    {
+      "id": 668,
+      "index": 668,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "And so, as Shakespeare said, I've been down so low there's nowhere else to go.",
+      "wordCount": 15
+    },
+    {
+      "id": 669,
+      "index": 669,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Except here, gentlemen, with you bums. I call you \"gentlemen\"... but you know what you really are! You know, this place used to be pretty exclusive... now they got bouncers outside to throw the drunks in! My first night here I said to the boss, \"Where's the toilet?\" -- He said, \"You're in it!\" By the way, this engagement is just a stepping stone for me. If I do good here, I'm ready to get out of the business!",
+      "wordCount": 79
+    },
+    {
+      "id": 670,
+      "index": 670,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "OK, OK, I know what you're waitin' for -- and from the looks of you, you been waitin' for it for a long time. I had my own joint in Miami Beach once... it was too high-class for you guys... we had a 50-cent minimum charge just to keep out the riff-raff!",
+      "wordCount": 52
+    },
+    {
+      "id": 671,
+      "index": 671,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Hey, sorry. Here's your girls. Yeah, she's here... just like it's advertised out front. She's come back. A girl who's seen the Lower Depths... who's been as far as I have in that direction. She's on her way back up now... give you an idea how low she was! Let's give her a warm welcome... make her glad she's back, boys. -- Miss Emma 48's!",
+      "wordCount": 65
+    },
+    {
+      "id": 672,
+      "index": 672,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Look, sweetie, be a good girl. Here's some money. Take a cab. Go home by yourself. Just wanna walk around a little, sort of unwind. OK?",
+      "wordCount": 26
+    },
+    {
+      "id": 673,
+      "index": 673,
+      "character": "EMMA",
+      "gender": "Female",
+      "line": "Will I see you later?",
+      "wordCount": 5
+    },
+    {
+      "id": 674,
+      "index": 674,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Yeah. I dunno... I'll call you.",
+      "wordCount": 6
+    },
+    {
+      "id": 675,
+      "index": 675,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Hey, Joey --",
+      "wordCount": 3
+    },
+    {
+      "id": 676,
+      "index": 676,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "No, Joey, no. Look, wait a minute, please --",
+      "wordCount": 9
+    },
+    {
+      "id": 677,
+      "index": 677,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Aw, Joey --",
+      "wordCount": 3
+    },
+    {
+      "id": 678,
+      "index": 678,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "You're right. You're perfectly right. You got every right in the world to hate my guts.",
+      "wordCount": 16
+    },
+    {
+      "id": 679,
+      "index": 679,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "No, please. I know I was a cocksucker. You're right. I shoulda never raised my hands to you.",
+      "wordCount": 18
+    },
+    {
+      "id": 680,
+      "index": 680,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "No, Joey, listen to me --",
+      "wordCount": 6
+    },
+    {
+      "id": 681,
+      "index": 681,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "Go ahead. Hit me again. I deserve it... Pay me back... More...",
+      "wordCount": 12
+    },
+    {
+      "id": 682,
+      "index": 682,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "More. Go ahead, Joey. I deserve it.",
+      "wordCount": 7
+    },
+    {
+      "id": 683,
+      "index": 683,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "You know, I'm not a philosopher or anything like that but I been around a little and the way I look at it is -- We're, all of us, lookin' for the same thing: a shot at the title. No matter what you wanta be... you wanta shot at bein' the best. Well, I had mine and it'll always be in the record books... it don't make no difference what happens to me from here on in -- I got my shot and that's a fact. Some guys weren't that lucky... like the one Marlon Brando played in \"On the Waterfront\" -- an up and comer who's now a down and outer. You remember... there was this scene in the back of the car with his brother Charlie, a small-time racket guy, and it went somethin' like this -- \"It wasn't him, Charlie. It was you. You 'member that night in the Garden you came down my dressing room and said. 'Kid, this ain't your night. We're going for the price on Wilson.' You 'member that? 'This ain't your night!' My night -- I coulda taken Wilson apart! So what happens? He gets the title shot outdoors on the ballpark, and what do I get? A one-way ticket to Palookaville. I never was no good after that night. It was like a peak you reach. Then it went downhill. It was you, Charlie. You was my brother, Charlie. You shoulda looked out for me a little bit. You shoulda taken care of me just a little bit so I wouldn't have to take them dives for the short end money... You don't understand! I coulda had class. I coulda been a contender. I coulda been somebody -- instead of a bum, which is what I am. Let's face it. It was you, Charlie.\"",
+      "wordCount": 303
+    },
+    {
+      "id": 684,
+      "index": 684,
+      "character": "STAGEHAND",
+      "gender": "NA",
+      "line": "Hey Jake, how you doing?",
+      "wordCount": 5
+    },
+    {
+      "id": 685,
+      "index": 685,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "How long do I have?",
+      "wordCount": 5
+    },
+    {
+      "id": 686,
+      "index": 686,
+      "character": "STAGEHAND",
+      "gender": "NA",
+      "line": "About five minutes",
+      "wordCount": 3
+    },
+    {
+      "id": 687,
+      "index": 687,
+      "character": "JAKE",
+      "gender": "Male",
+      "line": "OK.",
+      "wordCount": 1
+    },
+    {
+      "id": 688,
+      "index": 688,
+      "character": "",
+      "gender": "Male"
+    }
+  ]
+}

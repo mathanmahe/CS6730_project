@@ -1,0 +1,6708 @@
+{
+  "fileName": "American-History-X_dialogue.txt",
+  "title": "American History X",
+  "data": [
+    {
+      "id": 0,
+      "index": 0,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "Holy shit.",
+      "wordCount": 2
+    },
+    {
+      "id": 1,
+      "index": 1,
+      "character": "STACEY",
+      "gender": "Female",
+      "line": "Fucking pervert, Dan!",
+      "wordCount": 3
+    },
+    {
+      "id": 2,
+      "index": 2,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "There's a black guy outside Der... breaking into your car.",
+      "wordCount": 10
+    },
+    {
+      "id": 3,
+      "index": 3,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "How long has he been out there?",
+      "wordCount": 7
+    },
+    {
+      "id": 4,
+      "index": 4,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "Not long.",
+      "wordCount": 2
+    },
+    {
+      "id": 5,
+      "index": 5,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "Nobody. Relax.",
+      "wordCount": 2
+    },
+    {
+      "id": 6,
+      "index": 6,
+      "character": "STACEY",
+      "gender": "Female",
+      "line": "Who's out there, Derek?",
+      "wordCount": 4
+    },
+    {
+      "id": 7,
+      "index": 7,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "Not right now, honey. How many?",
+      "wordCount": 6
+    },
+    {
+      "id": 8,
+      "index": 8,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "One...I think.",
+      "wordCount": 2
+    },
+    {
+      "id": 9,
+      "index": 9,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "Is he strapped?",
+      "wordCount": 3
+    },
+    {
+      "id": 10,
+      "index": 10,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "Hunh?",
+      "wordCount": 1
+    },
+    {
+      "id": 11,
+      "index": 11,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "Does he have a fucking gun, Dan?",
+      "wordCount": 7
+    },
+    {
+      "id": 12,
+      "index": 12,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "I'm not sure.",
+      "wordCount": 3
+    },
+    {
+      "id": 13,
+      "index": 13,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "Is there a driver?",
+      "wordCount": 4
+    },
+    {
+      "id": 14,
+      "index": 14,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "Okay. Stay the luck here.",
+      "wordCount": 5
+    },
+    {
+      "id": 15,
+      "index": 15,
+      "character": "STACEY",
+      "gender": "Female",
+      "line": "Derek? Be careful.",
+      "wordCount": 3
+    },
+    {
+      "id": 16,
+      "index": 16,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "Fuck you!",
+      "wordCount": 2
+    },
+    {
+      "id": 17,
+      "index": 17,
+      "character": "DORIS",
+      "gender": "Female",
+      "line": "STAY DOWN, HONEY! DANNY?!",
+      "wordCount": 4
+    },
+    {
+      "id": 18,
+      "index": 18,
+      "character": "STACEY",
+      "gender": "Female",
+      "line": "Get down, Danny! Jesus!",
+      "wordCount": 4
+    },
+    {
+      "id": 19,
+      "index": 19,
+      "character": "SWEENEY",
+      "gender": "Male",
+      "line": "Captain Rasmussen?",
+      "wordCount": 2
+    },
+    {
+      "id": 20,
+      "index": 20,
+      "character": "DESK SERGEANT",
+      "gender": "NA",
+      "line": "Briefing room. Down that hall...third door on the left.",
+      "wordCount": 9
+    },
+    {
+      "id": 21,
+      "index": 21,
+      "character": "RASMUSSEN",
+      "gender": "Male",
+      "line": "All right. Moving on-- Good Morning, Doctor.",
+      "wordCount": 7
+    },
+    {
+      "id": 22,
+      "index": 22,
+      "character": "SWEENEY",
+      "gender": "Male",
+      "line": "Good morning.",
+      "wordCount": 2
+    },
+    {
+      "id": 23,
+      "index": 23,
+      "character": "RASMUSSEN",
+      "gender": "Male",
+      "line": "Gentlemen, this is Dr. Bob Sweeney. He's Principal over at Venice High and for some time now he's done a load of outreach work with gangs...in and out of the can.",
+      "wordCount": 31
+    },
+    {
+      "id": 24,
+      "index": 24,
+      "character": "RASMUSSEN",
+      "gender": "Male",
+      "line": "Three years ago a local kid named Derek Vinyard gets sent up for murdering a couple of Crips who were trying to jack his car. Bob taught Vinyard back in high school and has followed the case closely.",
+      "wordCount": 38
+    },
+    {
+      "id": 25,
+      "index": 25,
+      "character": "YOUNG COP",
+      "gender": "NA",
+      "line": "He was a skinhead, right?",
+      "wordCount": 5
+    },
+    {
+      "id": 26,
+      "index": 26,
+      "character": "SWEENEY",
+      "gender": "Male",
+      "line": "Derek was more like...the skinhead. He and Cameron Alexander.",
+      "wordCount": 9
+    },
+    {
+      "id": 27,
+      "index": 27,
+      "character": "RASMUSSEN",
+      "gender": "Male",
+      "line": "Cammeron Alexander is probably the biggest writer and distributor of white power literature in LA County. He promotes white power bands, writes reviews, columns, all at the ripe age of forty.",
+      "wordCount": 31
+    },
+    {
+      "id": 28,
+      "index": 28,
+      "character": "YOUNG COP",
+      "gender": "NA",
+      "line": "He's forty? Jesus.",
+      "wordCount": 3
+    },
+    {
+      "id": 29,
+      "index": 29,
+      "character": "RASMUSSEN",
+      "gender": "Male",
+      "line": "Pretty clean record...runs everything out of his house down by the beach.",
+      "wordCount": 12
+    },
+    {
+      "id": 30,
+      "index": 30,
+      "character": "SWEENEY",
+      "gender": "Male",
+      "line": "There weren't any organized white gangs around Venice before those two hooked up. Very few, if any. It was mostly just black and Mexican. But it was tiny. They hit it off though... and Alexander hit the jackpot with Derek.",
+      "wordCount": 40
+    },
+    {
+      "id": 31,
+      "index": 31,
+      "character": "RASMUSSEN",
+      "gender": "Male",
+      "line": "We got some uncut footage here. Courtesy of NBC.",
+      "wordCount": 9
+    },
+    {
+      "id": 32,
+      "index": 32,
+      "character": "REPORTER",
+      "gender": "NA",
+      "line": "Earlier this evening...LA County Firefighter Dennis Vinyard was shot and killed while putting out a fire in a suspected Compton drug den.",
+      "wordCount": 22
+    },
+    {
+      "id": 33,
+      "index": 33,
+      "character": "RASMUSSEN",
+      "gender": "Male",
+      "line": "This being February of '90.",
+      "wordCount": 5
+    },
+    {
+      "id": 34,
+      "index": 34,
+      "character": "REPORTER",
+      "gender": "NA",
+      "line": "To my right I have Lieutenant Vinyard's oldest son Derek. How do you feel about all this, son?",
+      "wordCount": 18
+    },
+    {
+      "id": 35,
+      "index": 35,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "How do I feel? How do you think I feel? It's typical.",
+      "wordCount": 12
+    },
+    {
+      "id": 36,
+      "index": 36,
+      "character": "REPORTER",
+      "gender": "NA",
+      "line": "Typical how, Derek?",
+      "wordCount": 3
+    },
+    {
+      "id": 37,
+      "index": 37,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "Well...look at our country. It's a haven for criminals. Black...brown... yellow...whatever.",
+      "wordCount": 11
+    },
+    {
+      "id": 38,
+      "index": 38,
+      "character": "REPORTER",
+      "gender": "NA",
+      "line": "So you're saying the murder of your father is \"race\" related?",
+      "wordCount": 11
+    },
+    {
+      "id": 39,
+      "index": 39,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "Every problem in this country is \"race\" related. Every problem, not just crime. These problems are rooted in the black community, the Hispanic community, the Asian...every non- Protestant group in our society. Look at the shit. Immigration... welfare...AIDS...they're all the problems of the non-white. Look at the statistics.",
+      "wordCount": 48
+    },
+    {
+      "id": 40,
+      "index": 40,
+      "character": "REPORTER",
+      "gender": "NA",
+      "line": "Most of these issues you're referring to though son are related to--",
+      "wordCount": 12
+    },
+    {
+      "id": 41,
+      "index": 41,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "No no no! Don't say poverty right now cause that's not it. They're not a product of our fucking environment either! Minorities don't give two shits about this country! They're here to exploit...not embrace.",
+      "wordCount": 34
+    },
+    {
+      "id": 42,
+      "index": 42,
+      "character": "RASMUSSEN",
+      "gender": "Male",
+      "line": "When Alexander got his hands on this segment...he copied it, sent it out and it became the Gettysberg Address for hate groups across the country.",
+      "wordCount": 25
+    },
+    {
+      "id": 43,
+      "index": 43,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "Millions of white Europeans came to this country and flourished within a generation! A generation! So what the fuck is wrong with these people?!",
+      "wordCount": 24
+    },
+    {
+      "id": 44,
+      "index": 44,
+      "character": "REPORTER",
+      "gender": "NA",
+      "line": "What does any of this have to do with your father?",
+      "wordCount": 11
+    },
+    {
+      "id": 45,
+      "index": 45,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "Because my father was doing his fucking job! Saving a nigger neighborhood he didn't give two shits about! And he got killed by some drug dealer who still collects a fucking welfare check.",
+      "wordCount": 33
+    },
+    {
+      "id": 46,
+      "index": 46,
+      "character": "RASMUSSEN",
+      "gender": "Male",
+      "line": "Vinyard was quietly released from Chino on Saturday after three and some odd years. And I think it's something we might want to keep an eye on for a few days.",
+      "wordCount": 31
+    },
+    {
+      "id": 47,
+      "index": 47,
+      "character": "SWEENEY",
+      "gender": "Male",
+      "line": "I don't wanna be an alarmist. But payback is out there. I know it is. And in this particular case...if Vinyard gets popped...more people will get popped.",
+      "wordCount": 27
+    },
+    {
+      "id": 48,
+      "index": 48,
+      "character": "RASMUSSEN",
+      "gender": "Male",
+      "line": "It's not exactly LAPD policy but I want 24-hour surveillance on Vinyard for a few days.",
+      "wordCount": 16
+    },
+    {
+      "id": 49,
+      "index": 49,
+      "character": "RASMUSSEN",
+      "gender": "Male",
+      "line": "Just for a few days.",
+      "wordCount": 5
+    },
+    {
+      "id": 50,
+      "index": 50,
+      "character": "ANOTHER COP",
+      "gender": "NA",
+      "line": "He doesn't sound like Mr. Lovely here, Captain. You want us to bust him or protect him?",
+      "wordCount": 17
+    },
+    {
+      "id": 51,
+      "index": 51,
+      "character": "SWEENEY",
+      "gender": "Male",
+      "line": "I don't think Vinyard's gonna be the one to start anything. It's his following.",
+      "wordCount": 14
+    },
+    {
+      "id": 52,
+      "index": 52,
+      "character": "RASMUSSEN",
+      "gender": "Male",
+      "line": "Either way...let's keep it low.",
+      "wordCount": 5
+    },
+    {
+      "id": 53,
+      "index": 53,
+      "character": "LIZZY",
+      "gender": "Female",
+      "line": "Hi Danny.",
+      "wordCount": 2
+    },
+    {
+      "id": 54,
+      "index": 54,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "Hey Lizzy.",
+      "wordCount": 2
+    },
+    {
+      "id": 55,
+      "index": 55,
+      "character": "LITTLE HENRY",
+      "gender": "Male",
+      "line": "Tellin' Baker I'm fuckin' cheatin'? I've never cheated in my life.",
+      "wordCount": 11
+    },
+    {
+      "id": 56,
+      "index": 56,
+      "character": "LITTLE HENRY",
+      "gender": "Male",
+      "line": "Why you trippin' on me?",
+      "wordCount": 5
+    },
+    {
+      "id": 57,
+      "index": 57,
+      "character": "DARYL",
+      "gender": "NA",
+      "line": "I didn't say anything, Henry. I swear.",
+      "wordCount": 7
+    },
+    {
+      "id": 58,
+      "index": 58,
+      "character": "LITTLE HENRY",
+      "gender": "Male",
+      "line": "Next time, man.",
+      "wordCount": 3
+    },
+    {
+      "id": 59,
+      "index": 59,
+      "character": "OFFSCREEN VOICE",
+      "gender": "NA",
+      "line": "Vinyard!?",
+      "wordCount": 1
+    },
+    {
+      "id": 60,
+      "index": 60,
+      "character": "OLDER TEACHER",
+      "gender": "NA",
+      "line": "You're late.",
+      "wordCount": 2
+    },
+    {
+      "id": 61,
+      "index": 61,
+      "character": "OLD TEACHER",
+      "gender": "NA",
+      "line": "But it looks like you got bigger problems.",
+      "wordCount": 8
+    },
+    {
+      "id": 62,
+      "index": 62,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "Oh, man! Come on. Get a job.",
+      "wordCount": 7
+    },
+    {
+      "id": 63,
+      "index": 63,
+      "character": "MURRAY",
+      "gender": "Male",
+      "line": "I do not have a problem with him as an individual, alright!?",
+      "wordCount": 12
+    },
+    {
+      "id": 64,
+      "index": 64,
+      "character": "SWEENEY",
+      "gender": "Male",
+      "line": "Oh shit Murray sure you do. You hate this kid.",
+      "wordCount": 10
+    },
+    {
+      "id": 65,
+      "index": 65,
+      "character": "MURRAY",
+      "gender": "Male",
+      "line": "This paper is a travesty, Bob! Arguing for Hitler as a civil rights hero?! You've gotta draw a line.",
+      "wordCount": 19
+    },
+    {
+      "id": 66,
+      "index": 66,
+      "character": "SWEENEY",
+      "gender": "Male",
+      "line": "Murray...it says in your syllabus that they could do their report on any book related to the struggle for Civil Rights.",
+      "wordCount": 21
+    },
+    {
+      "id": 67,
+      "index": 67,
+      "character": "MURRAY",
+      "gender": "Male",
+      "line": "Oh come on, Bob!",
+      "wordCount": 4
+    },
+    {
+      "id": 68,
+      "index": 68,
+      "character": "SWEENEY",
+      "gender": "Male",
+      "line": "Let me finish! He needs help...I'm not disputing that. But I read it and I'm not going to throw him out.",
+      "wordCount": 21
+    },
+    {
+      "id": 69,
+      "index": 69,
+      "character": "MURRAY",
+      "gender": "Male",
+      "line": "His brother probably put him up to it.",
+      "wordCount": 8
+    },
+    {
+      "id": 70,
+      "index": 70,
+      "character": "SWEENEY",
+      "gender": "Male",
+      "line": "I can guarantee you his brother didn't have anything to do with it, Murray.",
+      "wordCount": 14
+    },
+    {
+      "id": 71,
+      "index": 71,
+      "character": "MURRAY",
+      "gender": "Male",
+      "line": "Don't let him walk scot-free here. For his sake...not mine. You might be all he has left.",
+      "wordCount": 17
+    },
+    {
+      "id": 72,
+      "index": 72,
+      "character": "MURRAY",
+      "gender": "Male",
+      "line": "Thanks, Bob.",
+      "wordCount": 2
+    },
+    {
+      "id": 73,
+      "index": 73,
+      "character": "SWEENEY",
+      "gender": "Male",
+      "line": "Okay. Get in here, Dan!",
+      "wordCount": 5
+    },
+    {
+      "id": 74,
+      "index": 74,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "I knew it was you.",
+      "wordCount": 5
+    },
+    {
+      "id": 75,
+      "index": 75,
+      "character": "SWEENEY",
+      "gender": "Male",
+      "line": "Shut up and get your ass in here!",
+      "wordCount": 8
+    },
+    {
+      "id": 76,
+      "index": 76,
+      "character": "SWEENEY",
+      "gender": "Male",
+      "line": "What's it gonna be, Dan?",
+      "wordCount": 5
+    },
+    {
+      "id": 77,
+      "index": 77,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "What's what going to be?",
+      "wordCount": 5
+    },
+    {
+      "id": 78,
+      "index": 78,
+      "character": "SWEENEY",
+      "gender": "Male",
+      "line": "This petty shit you're pullin'.",
+      "wordCount": 5
+    },
+    {
+      "id": 79,
+      "index": 79,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "Well...I don't know.",
+      "wordCount": 3
+    },
+    {
+      "id": 80,
+      "index": 80,
+      "character": "SWEENEY",
+      "gender": "Male",
+      "line": "You said it, all right. Sit down.",
+      "wordCount": 7
+    },
+    {
+      "id": 81,
+      "index": 81,
+      "character": "SWEENEY",
+      "gender": "Male",
+      "line": "Are you okay?",
+      "wordCount": 3
+    },
+    {
+      "id": 82,
+      "index": 82,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "Yeah.",
+      "wordCount": 1
+    },
+    {
+      "id": 83,
+      "index": 83,
+      "character": "SWEENEY",
+      "gender": "Male",
+      "line": "Any time you wanna talk, Dan--",
+      "wordCount": 6
+    },
+    {
+      "id": 84,
+      "index": 84,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "Okay.",
+      "wordCount": 1
+    },
+    {
+      "id": 85,
+      "index": 85,
+      "character": "SWEENEY",
+      "gender": "Male",
+      "line": "How's Derek?",
+      "wordCount": 2
+    },
+    {
+      "id": 86,
+      "index": 86,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "Fine.",
+      "wordCount": 1
+    },
+    {
+      "id": 87,
+      "index": 87,
+      "character": "SWEENEY",
+      "gender": "Male",
+      "line": "Adjusting okay?",
+      "wordCount": 2
+    },
+    {
+      "id": 88,
+      "index": 88,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "Yeah.",
+      "wordCount": 1
+    },
+    {
+      "id": 89,
+      "index": 89,
+      "character": "SWEENEY",
+      "gender": "Male",
+      "line": "He was a student of mine. Honors English. He was a great student... like you...but he hung out with scumbags. Also like you. That's why he ended up in the pen, hunh?",
+      "wordCount": 32
+    },
+    {
+      "id": 90,
+      "index": 90,
+      "character": "SWEENEY",
+      "gender": "Male",
+      "line": "Great writing. I can't correct it though. It wreaks too much of shit.",
+      "wordCount": 13
+    },
+    {
+      "id": 91,
+      "index": 91,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "Come on, man! I followed directions and wrote an \"A\" paper. It's got nothing to do with Derek.",
+      "wordCount": 18
+    },
+    {
+      "id": 92,
+      "index": 92,
+      "character": "SWEENEY",
+      "gender": "Male",
+      "line": "Everything you do now has something to do with Derek. Who told you to do this?",
+      "wordCount": 16
+    },
+    {
+      "id": 93,
+      "index": 93,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "Let us get on with our lives, man!",
+      "wordCount": 8
+    },
+    {
+      "id": 94,
+      "index": 94,
+      "character": "SWEENEY",
+      "gender": "Male",
+      "line": "Hey, I'm not worried about Derek--he can take care of himself. I'm worried about his little brother. Mein Kampf, Dan? I should expel you!",
+      "wordCount": 24
+    },
+    {
+      "id": 95,
+      "index": 95,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "Do it. What? You don't think I could handle it?",
+      "wordCount": 10
+    },
+    {
+      "id": 96,
+      "index": 96,
+      "character": "SWEENEY",
+      "gender": "Male",
+      "line": "The street would kill you, Danny. You're not tough. The second a brother pulls a gun on your ass you'll be holierin' for Doris. So here's the drill. Take it or leave it cause I'm sick of babysitting. I'm your history teacher from here on out. We're gonna deal with shit happening right now. Call it American History...X. I see your ass once a day. Any more, any less, and you're a memory at Venice High. Clear?",
+      "wordCount": 77
+    },
+    {
+      "id": 97,
+      "index": 97,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "It took me a week to read Mein Kampf. Come on, Sweeney.",
+      "wordCount": 12
+    },
+    {
+      "id": 98,
+      "index": 98,
+      "character": "SWEENEY",
+      "gender": "Male",
+      "line": "My name is Dr. Sweeney. And I want a another paper on my desk tomorrow.",
+      "wordCount": 15
+    },
+    {
+      "id": 99,
+      "index": 99,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "What am I doing it on then?",
+      "wordCount": 7
+    },
+    {
+      "id": 100,
+      "index": 100,
+      "character": "SWEENEY",
+      "gender": "Male",
+      "line": "It'S not a \"what\", it's a \"who.\" Derek.",
+      "wordCount": 8
+    },
+    {
+      "id": 101,
+      "index": 101,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "People look at me...and they see my brother. That's how things have gone since the murder of our father.",
+      "wordCount": 19
+    },
+    {
+      "id": 102,
+      "index": 102,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "Little Henry Hastings and his older brother Jerome. Jerome's a Shoreline Crip...Henry's on his way.",
+      "wordCount": 15
+    },
+    {
+      "id": 103,
+      "index": 103,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "Venice Beach, man. It didn't always look like this. I mean...our Dad used to take us down here to run...and it was cool. Derek fucking owned this place. Since then though...the gangs, man--",
+      "wordCount": 33
+    },
+    {
+      "id": 104,
+      "index": 104,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "--they've moved west from Inglewood and South Central and have really just...taken over. Especially at my high school. The Venice Locos are big too but they hang out in bumluck Mar Vista. It's scary. And then there's The Disciples of Christ. The D.O.C.",
+      "wordCount": 43
+    },
+    {
+      "id": 105,
+      "index": 105,
+      "character": "LAWRENCE",
+      "gender": "Male",
+      "line": "Seven-six. Let's go! Set some picks!",
+      "wordCount": 6
+    },
+    {
+      "id": 106,
+      "index": 106,
+      "character": "SETH",
+      "gender": "Male",
+      "line": "Bring it on, boy.",
+      "wordCount": 4
+    },
+    {
+      "id": 107,
+      "index": 107,
+      "character": "LAWRENCE",
+      "gender": "Male",
+      "line": "Boy?",
+      "wordCount": 1
+    },
+    {
+      "id": 108,
+      "index": 108,
+      "character": "SETH",
+      "gender": "Male",
+      "line": "Lucky piece of shit! I'm through \"monkeying\" around with your ass!",
+      "wordCount": 11
+    },
+    {
+      "id": 109,
+      "index": 109,
+      "character": "LAWRENCE",
+      "gender": "Male",
+      "line": "Fat, pasty, pale, pastrami eating, cracker, motherfucker. A hundred bucks says I make you my bitch.",
+      "wordCount": 16
+    },
+    {
+      "id": 110,
+      "index": 110,
+      "character": "SETH",
+      "gender": "Male",
+      "line": "Here we go! Trying to make ends meet for that cut in welfare.",
+      "wordCount": 13
+    },
+    {
+      "id": 111,
+      "index": 111,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "It's eight-six, Seth.",
+      "wordCount": 3
+    },
+    {
+      "id": 112,
+      "index": 112,
+      "character": "SETH",
+      "gender": "Male",
+      "line": "When I want your fucking opinion I'll ask for it, fuckhead. Help me cover here, guys.",
+      "wordCount": 16
+    },
+    {
+      "id": 113,
+      "index": 113,
+      "character": "CAMMERON",
+      "gender": "NA",
+      "line": "You got a big fucking mouth, fat kid.",
+      "wordCount": 8
+    },
+    {
+      "id": 114,
+      "index": 114,
+      "character": "SETH",
+      "gender": "Male",
+      "line": "I'll take this negro down.",
+      "wordCount": 5
+    },
+    {
+      "id": 115,
+      "index": 115,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "You can't take a shit, Seth. Shut up.",
+      "wordCount": 8
+    },
+    {
+      "id": 116,
+      "index": 116,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "I got a bet.",
+      "wordCount": 4
+    },
+    {
+      "id": 117,
+      "index": 117,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "I come in, same score now, first one to eleven. Black boys against the white boys.",
+      "wordCount": 16
+    },
+    {
+      "id": 118,
+      "index": 118,
+      "character": "LAWRENCE",
+      "gender": "Male",
+      "line": "Name your price, Cracker.",
+      "wordCount": 4
+    },
+    {
+      "id": 119,
+      "index": 119,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "No money...for the court. We win, you grab your shit and find a different place to run. Not just today... forever. You win, and we don't come back. No hitching, no fighting, here in front of everyone. Six-eight, our ball.",
+      "wordCount": 40
+    },
+    {
+      "id": 120,
+      "index": 120,
+      "character": "LAWRENCE",
+      "gender": "Male",
+      "line": "You got a lot of fucking balls, man. Bring it. Right now.",
+      "wordCount": 12
+    },
+    {
+      "id": 121,
+      "index": 121,
+      "character": "SETH",
+      "gender": "Male",
+      "line": "Yes! Ten a piece! Nice fucking dish.",
+      "wordCount": 7
+    },
+    {
+      "id": 122,
+      "index": 122,
+      "character": "CAMMERON",
+      "gender": "NA",
+      "line": "It's all you, Der!",
+      "wordCount": 4
+    },
+    {
+      "id": 123,
+      "index": 123,
+      "character": "LAWRENCE",
+      "gender": "Male",
+      "line": "Fuckin' BYU, man! All right! All we need is one now!",
+      "wordCount": 11
+    },
+    {
+      "id": 124,
+      "index": 124,
+      "character": "CAMMERON",
+      "gender": "NA",
+      "line": "Use that fat ass and keep him out, Seth!",
+      "wordCount": 9
+    },
+    {
+      "id": 125,
+      "index": 125,
+      "character": "LAWRENCE",
+      "gender": "Male",
+      "line": "I ain't losin' in my house! Clear it out!",
+      "wordCount": 9
+    },
+    {
+      "id": 126,
+      "index": 126,
+      "character": "CURTIS",
+      "gender": "NA",
+      "line": "That's fuckin' offense!",
+      "wordCount": 3
+    },
+    {
+      "id": 127,
+      "index": 127,
+      "character": "LAWRENCE",
+      "gender": "Male",
+      "line": "Get the fuck outta here! He was movin' his feet!",
+      "wordCount": 10
+    },
+    {
+      "id": 128,
+      "index": 128,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "I'll go if you want to.",
+      "wordCount": 6
+    },
+    {
+      "id": 129,
+      "index": 129,
+      "character": "LAWRENCE",
+      "gender": "Male",
+      "line": "You wanna piece! Bring it!",
+      "wordCount": 5
+    },
+    {
+      "id": 130,
+      "index": 130,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "If you wanna go...I'm ready. Don't be throwin' fuckin' elbows.",
+      "wordCount": 10
+    },
+    {
+      "id": 131,
+      "index": 131,
+      "character": "LAWRENCE",
+      "gender": "Male",
+      "line": "Fuck you!",
+      "wordCount": 2
+    },
+    {
+      "id": 132,
+      "index": 132,
+      "character": "CAMMERON",
+      "gender": "NA",
+      "line": "Hey. Are you copacetic?",
+      "wordCount": 4
+    },
+    {
+      "id": 133,
+      "index": 133,
+      "character": "CAMMERON",
+      "gender": "NA",
+      "line": "He's gonna do that 180 spin move.",
+      "wordCount": 7
+    },
+    {
+      "id": 134,
+      "index": 134,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "I know what he's gonna do.",
+      "wordCount": 6
+    },
+    {
+      "id": 135,
+      "index": 135,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "You gotta call offense on that shit.",
+      "wordCount": 7
+    },
+    {
+      "id": 136,
+      "index": 136,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "Not on point game you don't.",
+      "wordCount": 6
+    },
+    {
+      "id": 137,
+      "index": 137,
+      "character": "STACEY",
+      "gender": "Female",
+      "line": "Fuck that, D. That chucker can't pull that shit. It's fucking-",
+      "wordCount": 11
+    },
+    {
+      "id": 138,
+      "index": 138,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "Not on point, honey.",
+      "wordCount": 4
+    },
+    {
+      "id": 139,
+      "index": 139,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "Holy shit!",
+      "wordCount": 2
+    },
+    {
+      "id": 140,
+      "index": 140,
+      "character": "SETH",
+      "gender": "Male",
+      "line": "Get off my fucking court! This is my house!",
+      "wordCount": 9
+    },
+    {
+      "id": 141,
+      "index": 141,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "Yeah! Fuck...yeah!",
+      "wordCount": 2
+    },
+    {
+      "id": 142,
+      "index": 142,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "It was only the beginning. Derek once told me that minorities would take America over one day. That white people are too afraid. Maybe he was right.",
+      "wordCount": 27
+    },
+    {
+      "id": 143,
+      "index": 143,
+      "character": "KAMMI",
+      "gender": "NA",
+      "line": "Hey! Danny!",
+      "wordCount": 2
+    },
+    {
+      "id": 144,
+      "index": 144,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "Hey.",
+      "wordCount": 1
+    },
+    {
+      "id": 145,
+      "index": 145,
+      "character": "LIZZY",
+      "gender": "Female",
+      "line": "You're going tonight, right?",
+      "wordCount": 4
+    },
+    {
+      "id": 146,
+      "index": 146,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "Where?",
+      "wordCount": 1
+    },
+    {
+      "id": 147,
+      "index": 147,
+      "character": "LIZZY",
+      "gender": "Female",
+      "line": "That party. Go there.",
+      "wordCount": 4
+    },
+    {
+      "id": 148,
+      "index": 148,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "There's dick for waves.",
+      "wordCount": 4
+    },
+    {
+      "id": 149,
+      "index": 149,
+      "character": "CHRIS",
+      "gender": "Male",
+      "line": "I don't care. I just wanna get wet.",
+      "wordCount": 8
+    },
+    {
+      "id": 150,
+      "index": 150,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "I've been trying to buy this. You can't find it anywhere.",
+      "wordCount": 11
+    },
+    {
+      "id": 151,
+      "index": 151,
+      "character": "JASON",
+      "gender": "Male",
+      "line": "Cammeron dropped us off a copy. Dope fucking shit, man. It's all about reclaiming the country. I'll let you read it when I'm done.",
+      "wordCount": 24
+    },
+    {
+      "id": 152,
+      "index": 152,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "Fuck that. I just read Mein Kampf.",
+      "wordCount": 7
+    },
+    {
+      "id": 153,
+      "index": 153,
+      "character": "JASON",
+      "gender": "Male",
+      "line": "There you go.",
+      "wordCount": 3
+    },
+    {
+      "id": 154,
+      "index": 154,
+      "character": "CHRIS",
+      "gender": "Male",
+      "line": "Hey? What was this Daryl shit you were talking about?",
+      "wordCount": 10
+    },
+    {
+      "id": 155,
+      "index": 155,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "Henry Hastings almost kicked Daryl Dawson's ass. He would're too if--",
+      "wordCount": 11
+    },
+    {
+      "id": 156,
+      "index": 156,
+      "character": "CHRIS",
+      "gender": "Male",
+      "line": "Little Henry the negroid?",
+      "wordCount": 4
+    },
+    {
+      "id": 157,
+      "index": 157,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "Everyday there's something over there, man.",
+      "wordCount": 6
+    },
+    {
+      "id": 158,
+      "index": 158,
+      "character": "CHRIS",
+      "gender": "Male",
+      "line": "Why do you think we fuckin' quit?",
+      "wordCount": 7
+    },
+    {
+      "id": 159,
+      "index": 159,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "I hear you.",
+      "wordCount": 3
+    },
+    {
+      "id": 160,
+      "index": 160,
+      "character": "JASON",
+      "gender": "Male",
+      "line": "Daryl Dawson's a pussy faggot.",
+      "wordCount": 5
+    },
+    {
+      "id": 161,
+      "index": 161,
+      "character": "CHRIS",
+      "gender": "Male",
+      "line": "What's ZOG again?",
+      "wordCount": 3
+    },
+    {
+      "id": 162,
+      "index": 162,
+      "character": "JASON",
+      "gender": "Male",
+      "line": "Zionist somethin'.",
+      "wordCount": 2
+    },
+    {
+      "id": 163,
+      "index": 163,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "Zionist-Occupational-Government.",
+      "wordCount": 1
+    },
+    {
+      "id": 164,
+      "index": 164,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "It's gonna be fine.",
+      "wordCount": 4
+    },
+    {
+      "id": 165,
+      "index": 165,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "Oh man--! Come on! What are you crying about now?",
+      "wordCount": 10
+    },
+    {
+      "id": 166,
+      "index": 166,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "I got it.",
+      "wordCount": 3
+    },
+    {
+      "id": 167,
+      "index": 167,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "Are you feeling better at all?",
+      "wordCount": 6
+    },
+    {
+      "id": 168,
+      "index": 168,
+      "character": "DORIS",
+      "gender": "Female",
+      "line": "I need a kiss.",
+      "wordCount": 4
+    },
+    {
+      "id": 169,
+      "index": 169,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "Unhuh. Unhuh. Did you expel him?",
+      "wordCount": 6
+    },
+    {
+      "id": 170,
+      "index": 170,
+      "character": "DAVINA",
+      "gender": "Female",
+      "line": "What do you want!?",
+      "wordCount": 4
+    },
+    {
+      "id": 171,
+      "index": 171,
+      "character": "SETH",
+      "gender": "Male",
+      "line": "Open up, bitch!",
+      "wordCount": 3
+    },
+    {
+      "id": 172,
+      "index": 172,
+      "character": "DAVINA",
+      "gender": "Female",
+      "line": "Jesus! Are you sure you can fit through the door?",
+      "wordCount": 10
+    },
+    {
+      "id": 173,
+      "index": 173,
+      "character": "SETH",
+      "gender": "Male",
+      "line": "Fuck off. Where is he?",
+      "wordCount": 5
+    },
+    {
+      "id": 174,
+      "index": 174,
+      "character": "DAVINA",
+      "gender": "Female",
+      "line": "Back in his bedroom.",
+      "wordCount": 4
+    },
+    {
+      "id": 175,
+      "index": 175,
+      "character": "SETH",
+      "gender": "Male",
+      "line": "Where are you, you free motherfucker?",
+      "wordCount": 6
+    },
+    {
+      "id": 176,
+      "index": 176,
+      "character": "SETH",
+      "gender": "Male",
+      "line": "Vinyard!",
+      "wordCount": 1
+    },
+    {
+      "id": 177,
+      "index": 177,
+      "character": "DAVINA",
+      "gender": "Female",
+      "line": "He's on the phone, asshole!",
+      "wordCount": 5
+    },
+    {
+      "id": 178,
+      "index": 178,
+      "character": "SETH",
+      "gender": "Male",
+      "line": "Fuck off.",
+      "wordCount": 2
+    },
+    {
+      "id": 179,
+      "index": 179,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "I'll be out in a minute!",
+      "wordCount": 6
+    },
+    {
+      "id": 180,
+      "index": 180,
+      "character": "SETH",
+      "gender": "Male",
+      "line": "What are you lookin' at?",
+      "wordCount": 5
+    },
+    {
+      "id": 181,
+      "index": 181,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "I'm still trying to figure it out.",
+      "wordCount": 7
+    },
+    {
+      "id": 182,
+      "index": 182,
+      "character": "SETH",
+      "gender": "Male",
+      "line": "Come in here and I'll show you, maggot.",
+      "wordCount": 8
+    },
+    {
+      "id": 183,
+      "index": 183,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "Fuck off. When'd you start carryin'?",
+      "wordCount": 6
+    },
+    {
+      "id": 184,
+      "index": 184,
+      "character": "SETH",
+      "gender": "Male",
+      "line": "I'm dropping the kids off at the pool, junior. Shut the fuckin' door!",
+      "wordCount": 13
+    },
+    {
+      "id": 185,
+      "index": 185,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "Jesus! Chew your food, dude!",
+      "wordCount": 5
+    },
+    {
+      "id": 186,
+      "index": 186,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "All right. Thanks. I'll take care of it. Yeah.",
+      "wordCount": 9
+    },
+    {
+      "id": 187,
+      "index": 187,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "Okay. Okay. I'm what? What channel?",
+      "wordCount": 6
+    },
+    {
+      "id": 188,
+      "index": 188,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "What is it, Danny?",
+      "wordCount": 4
+    },
+    {
+      "id": 189,
+      "index": 189,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "You got pigs outside.",
+      "wordCount": 4
+    },
+    {
+      "id": 190,
+      "index": 190,
+      "character": "TV ANCROR",
+      "gender": "NA",
+      "line": "Saturday's prison release of a former skinhead gang leader has many community leaders up in arms tonight.",
+      "wordCount": 17
+    },
+    {
+      "id": 191,
+      "index": 191,
+      "character": "SETH",
+      "gender": "Male",
+      "line": "Drop the t.v., nigger.",
+      "wordCount": 4
+    },
+    {
+      "id": 192,
+      "index": 192,
+      "character": "BLACK WOMAN",
+      "gender": "NA",
+      "line": "Maybe now whites will understand the motives behind people like Malcolm X and the Black Panthers. Just put the shoe on the other foot.",
+      "wordCount": 24
+    },
+    {
+      "id": 193,
+      "index": 193,
+      "character": "BLACK WOMAN",
+      "gender": "NA",
+      "line": "Derek Vinyard deserved the death penalty for what he did to that young man! And now he walks the street as free as you and I.",
+      "wordCount": 26
+    },
+    {
+      "id": 194,
+      "index": 194,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "{to the tv) What about OJ, bitch!?",
+      "wordCount": 7
+    },
+    {
+      "id": 195,
+      "index": 195,
+      "character": "BLACK WOMAN",
+      "gender": "NA",
+      "line": "They've done it to us again.",
+      "wordCount": 6
+    },
+    {
+      "id": 196,
+      "index": 196,
+      "character": "SETH",
+      "gender": "Male",
+      "line": "Nigger lovin' Jew media calling the shots. Watch cartoons. It's the only t.v. that's safe nowadays.",
+      "wordCount": 16
+    },
+    {
+      "id": 197,
+      "index": 197,
+      "character": "DORIS",
+      "gender": "Female",
+      "line": "No one's safe--until we all are.",
+      "wordCount": 6
+    },
+    {
+      "id": 198,
+      "index": 198,
+      "character": "SETH",
+      "gender": "Male",
+      "line": "Come in here, Dan.",
+      "wordCount": 4
+    },
+    {
+      "id": 199,
+      "index": 199,
+      "character": "SETH",
+      "gender": "Male",
+      "line": "Where the fuck you find that?",
+      "wordCount": 6
+    },
+    {
+      "id": 200,
+      "index": 200,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "Goin' to Cam's party tonight?",
+      "wordCount": 5
+    },
+    {
+      "id": 201,
+      "index": 201,
+      "character": "SETH",
+      "gender": "Male",
+      "line": "Is Davina's ass water tight?",
+      "wordCount": 5
+    },
+    {
+      "id": 202,
+      "index": 202,
+      "character": "DAVINA",
+      "gender": "Female",
+      "line": "Hurry up and leave, Goodyear. You've taken your dump now go.",
+      "wordCount": 11
+    },
+    {
+      "id": 203,
+      "index": 203,
+      "character": "SETH",
+      "gender": "Male",
+      "line": "Listen to you. You callin' me a blimp, you fuckin' Democrat?!",
+      "wordCount": 11
+    },
+    {
+      "id": 204,
+      "index": 204,
+      "character": "DAVINA",
+      "gender": "Female",
+      "line": "Yes! I am!",
+      "wordCount": 3
+    },
+    {
+      "id": 205,
+      "index": 205,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "I'm there tonight.",
+      "wordCount": 3
+    },
+    {
+      "id": 206,
+      "index": 206,
+      "character": "SETH",
+      "gender": "Male",
+      "line": "Oh yeah? You ask Derek?",
+      "wordCount": 5
+    },
+    {
+      "id": 207,
+      "index": 207,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "Noo...but he's got two kegs.",
+      "wordCount": 5
+    },
+    {
+      "id": 208,
+      "index": 208,
+      "character": "SETH",
+      "gender": "Male",
+      "line": "Well...you can think of me drinkin' 'em then when you're studying with fuckin'... White Trash in there.",
+      "wordCount": 17
+    },
+    {
+      "id": 209,
+      "index": 209,
+      "character": "SETH",
+      "gender": "Male",
+      "line": "Where is the fucker, by the way!? He's hiding from us.",
+      "wordCount": 11
+    },
+    {
+      "id": 210,
+      "index": 210,
+      "character": "DAVINA",
+      "gender": "Female",
+      "line": "You're not even human.",
+      "wordCount": 4
+    },
+    {
+      "id": 211,
+      "index": 211,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "Is Cam playing sticks?",
+      "wordCount": 4
+    },
+    {
+      "id": 212,
+      "index": 212,
+      "character": "SETH",
+      "gender": "Male",
+      "line": "Of course, man.",
+      "wordCount": 3
+    },
+    {
+      "id": 213,
+      "index": 213,
+      "character": "SETH",
+      "gender": "Male",
+      "line": "Sit down. I wanna ask you some questions.",
+      "wordCount": 8
+    },
+    {
+      "id": 214,
+      "index": 214,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "I got homework, Seth.",
+      "wordCount": 4
+    },
+    {
+      "id": 215,
+      "index": 215,
+      "character": "SETH",
+      "gender": "Male",
+      "line": "Two fucking seconds, dude!",
+      "wordCount": 4
+    },
+    {
+      "id": 216,
+      "index": 216,
+      "character": "SETH",
+      "gender": "Male",
+      "line": "Tell me your convictions.",
+      "wordCount": 4
+    },
+    {
+      "id": 217,
+      "index": 217,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "Fuck off.",
+      "wordCount": 2
+    },
+    {
+      "id": 218,
+      "index": 218,
+      "character": "SETH",
+      "gender": "Male",
+      "line": "Tell me some of the shit you've learned luckbrain or I'll pistol-whip you.",
+      "wordCount": 13
+    },
+    {
+      "id": 219,
+      "index": 219,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "About Adolf?",
+      "wordCount": 2
+    },
+    {
+      "id": 220,
+      "index": 220,
+      "character": "SETH",
+      "gender": "Male",
+      "line": "About anything. What do you believe in?",
+      "wordCount": 7
+    },
+    {
+      "id": 221,
+      "index": 221,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "I believe in filth and destruction and chaos and death and greed.",
+      "wordCount": 12
+    },
+    {
+      "id": 222,
+      "index": 222,
+      "character": "SETH",
+      "gender": "Male",
+      "line": "What else?",
+      "wordCount": 2
+    },
+    {
+      "id": 223,
+      "index": 223,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "I believe in my family.",
+      "wordCount": 5
+    },
+    {
+      "id": 224,
+      "index": 224,
+      "character": "SETH",
+      "gender": "Male",
+      "line": "Why?",
+      "wordCount": 1
+    },
+    {
+      "id": 225,
+      "index": 225,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "\"Respect your father and your mother. Whoever curses your mother and father... is to be put to death.\" Matthew 15-4.",
+      "wordCount": 20
+    },
+    {
+      "id": 226,
+      "index": 226,
+      "character": "SETH",
+      "gender": "Male",
+      "line": "Good. What else? Tell me what I want to hear, asshole.",
+      "wordCount": 11
+    },
+    {
+      "id": 227,
+      "index": 227,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "You mean that stuff about your mother?",
+      "wordCount": 7
+    },
+    {
+      "id": 228,
+      "index": 228,
+      "character": "SETH",
+      "gender": "Male",
+      "line": "You wanna get beaten?",
+      "wordCount": 4
+    },
+    {
+      "id": 229,
+      "index": 229,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "No.",
+      "wordCount": 1
+    },
+    {
+      "id": 230,
+      "index": 230,
+      "character": "SETH",
+      "gender": "Male",
+      "line": "Then tell me about Adolf and Mein.",
+      "wordCount": 7
+    },
+    {
+      "id": 231,
+      "index": 231,
+      "character": "DAVINA",
+      "gender": "Female",
+      "line": "Hey Seth? Cut the shit.",
+      "wordCount": 5
+    },
+    {
+      "id": 232,
+      "index": 232,
+      "character": "SETH",
+      "gender": "Male",
+      "line": "I'm not fuckin' talkin' to you, Davina, shut up! Do you believe in Adolf?",
+      "wordCount": 14
+    },
+    {
+      "id": 233,
+      "index": 233,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "Yeah, man. I believe in Adolf.",
+      "wordCount": 6
+    },
+    {
+      "id": 234,
+      "index": 234,
+      "character": "SETH",
+      "gender": "Male",
+      "line": "What do you hate, Danny?",
+      "wordCount": 5
+    },
+    {
+      "id": 235,
+      "index": 235,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "I hate everyone that isn't white Protestant.",
+      "wordCount": 7
+    },
+    {
+      "id": 236,
+      "index": 236,
+      "character": "SETH",
+      "gender": "Male",
+      "line": "Why? And say it with some fucking conviction!",
+      "wordCount": 8
+    },
+    {
+      "id": 237,
+      "index": 237,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "Because they're a burden to the advancement of the white race. Some of them are all right--",
+      "wordCount": 17
+    },
+    {
+      "id": 238,
+      "index": 238,
+      "character": "SETH",
+      "gender": "Male",
+      "line": "None of them are all right, Danny. They're all a bunch of fucking freeloaders. Remermber Canuneron. \"We don't know them, we don't want to know them, they're the fucking enemy.\" What don't you like about them?",
+      "wordCount": 36
+    },
+    {
+      "id": 239,
+      "index": 239,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "I don't know. I feel threatened by them.",
+      "wordCount": 8
+    },
+    {
+      "id": 240,
+      "index": 240,
+      "character": "DAVINA",
+      "gender": "Female",
+      "line": "They feel threatened by you!",
+      "wordCount": 5
+    },
+    {
+      "id": 241,
+      "index": 241,
+      "character": "SETH",
+      "gender": "Male",
+      "line": "What else, Danny? And speak intelligently you little queer faggot.",
+      "wordCount": 10
+    },
+    {
+      "id": 242,
+      "index": 242,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "I hate the fact that it's cool to be black these days.",
+      "wordCount": 12
+    },
+    {
+      "id": 243,
+      "index": 243,
+      "character": "SETH",
+      "gender": "Male",
+      "line": "Good.",
+      "wordCount": 1
+    },
+    {
+      "id": 244,
+      "index": 244,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "I hate this hip hop influence on white fuckin' suburbia.",
+      "wordCount": 10
+    },
+    {
+      "id": 245,
+      "index": 245,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "I hate Hilary Clinton and all of her Zionist MTV pigs telling us we should get along. Save the rhetorical bullshit honey, it ain't gonna happen.",
+      "wordCount": 26
+    },
+    {
+      "id": 246,
+      "index": 246,
+      "character": "SETH",
+      "gender": "Male",
+      "line": "That's the best shit I've ever heard come out of that mouth.",
+      "wordCount": 12
+    },
+    {
+      "id": 247,
+      "index": 247,
+      "character": "DAVINA",
+      "gender": "Female",
+      "line": "I feel.sorry for you, Danny.",
+      "wordCount": 5
+    },
+    {
+      "id": 248,
+      "index": 248,
+      "character": "SETH",
+      "gender": "Male",
+      "line": "Shut up, Davina.",
+      "wordCount": 3
+    },
+    {
+      "id": 249,
+      "index": 249,
+      "character": "DAVINA",
+      "gender": "Female",
+      "line": "You shut up, you poison to fuckin' society! Get out of our house!",
+      "wordCount": 13
+    },
+    {
+      "id": 250,
+      "index": 250,
+      "character": "SETH",
+      "gender": "Male",
+      "line": "Is this any way to treat a guest?",
+      "wordCount": 8
+    },
+    {
+      "id": 251,
+      "index": 251,
+      "character": "DAVINA",
+      "gender": "Female",
+      "line": "Derek hates you, Seth.",
+      "wordCount": 4
+    },
+    {
+      "id": 252,
+      "index": 252,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "How do you know who I hate, Davina?",
+      "wordCount": 8
+    },
+    {
+      "id": 253,
+      "index": 253,
+      "character": "DAVINA",
+      "gender": "Female",
+      "line": "What do you mean?",
+      "wordCount": 4
+    },
+    {
+      "id": 254,
+      "index": 254,
+      "character": "SETH",
+      "gender": "Male",
+      "line": "Hey! How are you, man? Fuckin' A. Long time no see. Look at that hair.",
+      "wordCount": 15
+    },
+    {
+      "id": 255,
+      "index": 255,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "Gimme just one second, okay?",
+      "wordCount": 5
+    },
+    {
+      "id": 256,
+      "index": 256,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "Did you do a book report on Mein Kampf?",
+      "wordCount": 9
+    },
+    {
+      "id": 257,
+      "index": 257,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "What's it to you?",
+      "wordCount": 4
+    },
+    {
+      "id": 258,
+      "index": 258,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "What's it to me?",
+      "wordCount": 4
+    },
+    {
+      "id": 259,
+      "index": 259,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "I mean...how'd you find out?",
+      "wordCount": 5
+    },
+    {
+      "id": 260,
+      "index": 260,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "None of your fucking business how I found out.",
+      "wordCount": 9
+    },
+    {
+      "id": 261,
+      "index": 261,
+      "character": "SETH",
+      "gender": "Male",
+      "line": "I thought it was a great idea.",
+      "wordCount": 7
+    },
+    {
+      "id": 262,
+      "index": 262,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "That figures. You're more stupid than he is.",
+      "wordCount": 8
+    },
+    {
+      "id": 263,
+      "index": 263,
+      "character": "SETH",
+      "gender": "Male",
+      "line": "It's nice to see you too, man.",
+      "wordCount": 7
+    },
+    {
+      "id": 264,
+      "index": 264,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "Why'd you do it, Dan? Because of Seth.",
+      "wordCount": 8
+    },
+    {
+      "id": 265,
+      "index": 265,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "No.",
+      "wordCount": 1
+    },
+    {
+      "id": 266,
+      "index": 266,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "Cammeron?",
+      "wordCount": 1
+    },
+    {
+      "id": 267,
+      "index": 267,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "I did it cause I felt like it.",
+      "wordCount": 8
+    },
+    {
+      "id": 268,
+      "index": 268,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "Oh, you do everything you feel like? I feel like smacking you in the fucking head. Would you mind if I did a report on that?",
+      "wordCount": 26
+    },
+    {
+      "id": 269,
+      "index": 269,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "Uhhh...yeah.",
+      "wordCount": 1
+    },
+    {
+      "id": 270,
+      "index": 270,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "Get a clue, you dumbshit. Hey! Look at me! Don't be a dickhead. Sweeney cares about you.",
+      "wordCount": 17
+    },
+    {
+      "id": 271,
+      "index": 271,
+      "character": "SETH",
+      "gender": "Male",
+      "line": "Sweeney does? Since when?",
+      "wordCount": 4
+    },
+    {
+      "id": 272,
+      "index": 272,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "Was that him on the phone?",
+      "wordCount": 6
+    },
+    {
+      "id": 273,
+      "index": 273,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "Yep. So wise up. You hear me?",
+      "wordCount": 7
+    },
+    {
+      "id": 274,
+      "index": 274,
+      "character": "SETH",
+      "gender": "Male",
+      "line": "Sweeney's a fuckin' nigger on a power trip, Vinyard. That's what he was like when we were there and that's how he is now. It'll never change either. A nigger is a nigger.",
+      "wordCount": 33
+    },
+    {
+      "id": 275,
+      "index": 275,
+      "character": "DORIS",
+      "gender": "Female",
+      "line": "Just put me out of my mercy.",
+      "wordCount": 7
+    },
+    {
+      "id": 276,
+      "index": 276,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "You'll be okay. You want me to pick you up any more medicine?",
+      "wordCount": 13
+    },
+    {
+      "id": 277,
+      "index": 277,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "Jesus. I can't believe I ever let it get this bad.",
+      "wordCount": 11
+    },
+    {
+      "id": 278,
+      "index": 278,
+      "character": "DORIS",
+      "gender": "Female",
+      "line": "It's not that uncomfortable.",
+      "wordCount": 4
+    },
+    {
+      "id": 279,
+      "index": 279,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "Are you gonna to live or what, Mom?",
+      "wordCount": 8
+    },
+    {
+      "id": 280,
+      "index": 280,
+      "character": "DORIS",
+      "gender": "Female",
+      "line": "I need a cigarette.",
+      "wordCount": 4
+    },
+    {
+      "id": 281,
+      "index": 281,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "My ass. You smoke two packs a day. That's why you're spittin' phlegm.",
+      "wordCount": 13
+    },
+    {
+      "id": 282,
+      "index": 282,
+      "character": "SETH",
+      "gender": "Male",
+      "line": "Jesus, Mrs. Vinyard. I think a lung just came up.",
+      "wordCount": 10
+    },
+    {
+      "id": 283,
+      "index": 283,
+      "character": "DORIS",
+      "gender": "Female",
+      "line": "I'm high as a kite.",
+      "wordCount": 5
+    },
+    {
+      "id": 284,
+      "index": 284,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "You got any more?",
+      "wordCount": 4
+    },
+    {
+      "id": 285,
+      "index": 285,
+      "character": "DORIS",
+      "gender": "Female",
+      "line": "Daniel? I know you got homework.",
+      "wordCount": 6
+    },
+    {
+      "id": 286,
+      "index": 286,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "I'm goin' in a second. Relax.",
+      "wordCount": 6
+    },
+    {
+      "id": 287,
+      "index": 287,
+      "character": "SETH",
+      "gender": "Male",
+      "line": "Hey. I'm gonna re-wipe and we're out of here.",
+      "wordCount": 9
+    },
+    {
+      "id": 288,
+      "index": 288,
+      "character": "DAVINA",
+      "gender": "Female",
+      "line": "You're a pig.",
+      "wordCount": 3
+    },
+    {
+      "id": 289,
+      "index": 289,
+      "character": "DORIS",
+      "gender": "Female",
+      "line": "I don't like him in this house.",
+      "wordCount": 7
+    },
+    {
+      "id": 290,
+      "index": 290,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "I knew.",
+      "wordCount": 2
+    },
+    {
+      "id": 291,
+      "index": 291,
+      "character": "DAVINA",
+      "gender": "Female",
+      "line": "He ' s a fuckin ' loser, Nazi scumbag.",
+      "wordCount": 9
+    },
+    {
+      "id": 292,
+      "index": 292,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "No he's not.",
+      "wordCount": 3
+    },
+    {
+      "id": 293,
+      "index": 293,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "Yes he is. Open your eyes.",
+      "wordCount": 6
+    },
+    {
+      "id": 294,
+      "index": 294,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "Whatever, dude. I'm gonna go power that shit and I'll see you later.",
+      "wordCount": 13
+    },
+    {
+      "id": 295,
+      "index": 295,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "Not at Cammeron's you won't see me.",
+      "wordCount": 7
+    },
+    {
+      "id": 296,
+      "index": 296,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "Come on, Der! It's gonna be fuckin'--",
+      "wordCount": 7
+    },
+    {
+      "id": 297,
+      "index": 297,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "Forget it, Danny! It ain't gonna happen for you tonight.",
+      "wordCount": 10
+    },
+    {
+      "id": 298,
+      "index": 298,
+      "character": "SETH",
+      "gender": "Male",
+      "line": "Hurry up. I'm starving.",
+      "wordCount": 4
+    },
+    {
+      "id": 299,
+      "index": 299,
+      "character": "DAVINA",
+      "gender": "Female",
+      "line": "What else is new?",
+      "wordCount": 4
+    },
+    {
+      "id": 300,
+      "index": 300,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "I'll see ya.",
+      "wordCount": 3
+    },
+    {
+      "id": 301,
+      "index": 301,
+      "character": "DORIS",
+      "gender": "Female",
+      "line": "Okay. Be careful.",
+      "wordCount": 3
+    },
+    {
+      "id": 302,
+      "index": 302,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "This sucks.",
+      "wordCount": 2
+    },
+    {
+      "id": 303,
+      "index": 303,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "Hey.",
+      "wordCount": 1
+    },
+    {
+      "id": 304,
+      "index": 304,
+      "character": "DAVINA",
+      "gender": "Female",
+      "line": "Hey what?",
+      "wordCount": 2
+    },
+    {
+      "id": 305,
+      "index": 305,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "Come here.",
+      "wordCount": 2
+    },
+    {
+      "id": 306,
+      "index": 306,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "Come here for a second!",
+      "wordCount": 5
+    },
+    {
+      "id": 307,
+      "index": 307,
+      "character": "DAVINA",
+      "gender": "Female",
+      "line": "I got shit to do, Dan.",
+      "wordCount": 6
+    },
+    {
+      "id": 308,
+      "index": 308,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "Just read it.",
+      "wordCount": 3
+    },
+    {
+      "id": 309,
+      "index": 309,
+      "character": "DAVINA",
+      "gender": "Female",
+      "line": "\"American History X? Take home paper as assigned by Principal Robert Sweeney?\" Why is he giving you homework? What happened to Murray?",
+      "wordCount": 22
+    },
+    {
+      "id": 310,
+      "index": 310,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "Asshole turned me in.",
+      "wordCount": 4
+    },
+    {
+      "id": 311,
+      "index": 311,
+      "character": "DAVINA",
+      "gender": "Female",
+      "line": "Why?",
+      "wordCount": 1
+    },
+    {
+      "id": 312,
+      "index": 312,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "Just read.",
+      "wordCount": 2
+    },
+    {
+      "id": 313,
+      "index": 313,
+      "character": "DAVINA",
+      "gender": "Female",
+      "line": "\"Describe in detail your opinion of -the historical event that took place in the early morning of October 4th, 1993.\" What's that?",
+      "wordCount": 22
+    },
+    {
+      "id": 314,
+      "index": 314,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "The night Derek wasted those guys.",
+      "wordCount": 6
+    },
+    {
+      "id": 315,
+      "index": 315,
+      "character": "DAVINA",
+      "gender": "Female",
+      "line": "Sweeney gave you this?",
+      "wordCount": 4
+    },
+    {
+      "id": 316,
+      "index": 316,
+      "character": "DAVINA",
+      "gender": "Female",
+      "line": "\"Before and after...how has this event helped or hurt your present perspective concerning life in contemporary America. Use the standard five paragraph format, blab blab blah--this'll be good for you..",
+      "wordCount": 30
+    },
+    {
+      "id": 317,
+      "index": 317,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "Nooo...it'll be good for you.",
+      "wordCount": 5
+    },
+    {
+      "id": 318,
+      "index": 318,
+      "character": "DAVINA",
+      "gender": "Female",
+      "line": "Eat me, Dan.",
+      "wordCount": 3
+    },
+    {
+      "id": 319,
+      "index": 319,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "Come on! Dick Nixon's playin' at Cammeron's tonight. You owe me.",
+      "wordCount": 11
+    },
+    {
+      "id": 320,
+      "index": 320,
+      "character": "DAVINA",
+      "gender": "Female",
+      "line": "I'm not doing your homework for you! I gotta spreadsheet due!",
+      "wordCount": 11
+    },
+    {
+      "id": 321,
+      "index": 321,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "Goddammit!",
+      "wordCount": 1
+    },
+    {
+      "id": 322,
+      "index": 322,
+      "character": "DAVINA",
+      "gender": "Female",
+      "line": "What's the matter with you? You wanna be a fuckin' loser your whole life?",
+      "wordCount": 14
+    },
+    {
+      "id": 323,
+      "index": 323,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "Asshole Sweeney.",
+      "wordCount": 2
+    },
+    {
+      "id": 324,
+      "index": 324,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "It was lunacy after he left us. All the time. Derek believed in Cammeron...he was angry...that combination gave them bodies. White punks...sick of gettin' their asses kicked by black and mexican gangs at school.",
+      "wordCount": 34
+    },
+    {
+      "id": 325,
+      "index": 325,
+      "character": "STACEY",
+      "gender": "Female",
+      "line": "I hope you kill that fucker.",
+      "wordCount": 6
+    },
+    {
+      "id": 326,
+      "index": 326,
+      "character": "CAMMERON",
+      "gender": "NA",
+      "line": "He might have a gun.",
+      "wordCount": 5
+    },
+    {
+      "id": 327,
+      "index": 327,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "Are you going in or not?",
+      "wordCount": 6
+    },
+    {
+      "id": 328,
+      "index": 328,
+      "character": "CAMMERON",
+      "gender": "NA",
+      "line": "You know I got the cops on me. If I come up on one of those cameras I'm a dead man.",
+      "wordCount": 21
+    },
+    {
+      "id": 329,
+      "index": 329,
+      "character": "CAMMERON",
+      "gender": "NA",
+      "line": "Somebody needs to drive, Derek.",
+      "wordCount": 5
+    },
+    {
+      "id": 330,
+      "index": 330,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "All right. You can turn it off now. You're right on his tail, right?",
+      "wordCount": 14
+    },
+    {
+      "id": 331,
+      "index": 331,
+      "character": "STACEY",
+      "gender": "Female",
+      "line": "I hate that fucking Korean. I hope you smash his face in.",
+      "wordCount": 12
+    },
+    {
+      "id": 332,
+      "index": 332,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "Just be ready, okay?",
+      "wordCount": 4
+    },
+    {
+      "id": 333,
+      "index": 333,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "Come on. Let's pull it together. Hey! We're not playing fuckin' games here. Let's go.",
+      "wordCount": 15
+    },
+    {
+      "id": 334,
+      "index": 334,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "What the fuck, Curtis? You a fuckin' nigger now? Want some crack?",
+      "wordCount": 12
+    },
+    {
+      "id": 335,
+      "index": 335,
+      "character": "CURTIS",
+      "gender": "NA",
+      "line": "No.",
+      "wordCount": 1
+    },
+    {
+      "id": 336,
+      "index": 336,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "Pull your fucking stupid head out of your ass then.",
+      "wordCount": 10
+    },
+    {
+      "id": 337,
+      "index": 337,
+      "character": "CURTIS",
+      "gender": "NA",
+      "line": "Okay. Jesus.",
+      "wordCount": 2
+    },
+    {
+      "id": 338,
+      "index": 338,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "We're here tonight cause we got immigration problems spiralling out of control. We got Asians up the ass... taking over our land with their fucking Yen. Mexicans...flocking into this place like some giant fucking Pinata was shattered.",
+      "wordCount": 37
+    },
+    {
+      "id": 339,
+      "index": 339,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "Don't laugh. It's tragic. On the Statue of Liberty it says \"Give me your tired, your hungry, your poor, your huddled masses...yearning to be free.\" It does not say give me your shiftless, your greedy, your indolent, your criminals, looking for a free ticket.",
+      "wordCount": 44
+    },
+    {
+      "id": 340,
+      "index": 340,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "We're here tonight to show the government how we feel about minorities taking over our country. The treat us like criminals while they reward them with jobs and fucking welfare checks. And it's only getting worse.",
+      "wordCount": 36
+    },
+    {
+      "id": 341,
+      "index": 341,
+      "character": "ET AL",
+      "gender": "NA",
+      "line": "Fuck yeah it is.",
+      "wordCount": 4
+    },
+    {
+      "id": 342,
+      "index": 342,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "Are you ready to do something about it?",
+      "wordCount": 8
+    },
+    {
+      "id": 343,
+      "index": 343,
+      "character": "ET AL",
+      "gender": "NA",
+      "line": "Yeah.",
+      "wordCount": 1
+    },
+    {
+      "id": 344,
+      "index": 344,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "Okay then.",
+      "wordCount": 2
+    },
+    {
+      "id": 345,
+      "index": 345,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "Remember. No names. Danny? Stay right on my fucking ass, man.",
+      "wordCount": 11
+    },
+    {
+      "id": 346,
+      "index": 346,
+      "character": "SETH",
+      "gender": "Male",
+      "line": "Wheto's your fucking green card, asshole?",
+      "wordCount": 6
+    },
+    {
+      "id": 347,
+      "index": 347,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "Can't hide from me, motherfucker!",
+      "wordCount": 5
+    },
+    {
+      "id": 348,
+      "index": 348,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "Let's go! We're outta here! Move !",
+      "wordCount": 7
+    },
+    {
+      "id": 349,
+      "index": 349,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "And before Derek could even blink...he had a crazed army behind him.",
+      "wordCount": 12
+    },
+    {
+      "id": 350,
+      "index": 350,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "Willing to follow his word like it was the word of God.",
+      "wordCount": 12
+    },
+    {
+      "id": 351,
+      "index": 351,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "And then came October 4th, 1993.",
+      "wordCount": 6
+    },
+    {
+      "id": 352,
+      "index": 352,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "Things were fine on the homefront. My Mom had a good job but a below average boyfriend. We had a four-bedroom house that Dad left us with. Everyone was happy.",
+      "wordCount": 30
+    },
+    {
+      "id": 353,
+      "index": 353,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "Everyone but Derek.",
+      "wordCount": 3
+    },
+    {
+      "id": 354,
+      "index": 354,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "Fuck you, Murray. White men don't cruise the streets of LA killing each other.",
+      "wordCount": 14
+    },
+    {
+      "id": 355,
+      "index": 355,
+      "character": "MURRAY",
+      "gender": "Male",
+      "line": "No. You guys make bombs.",
+      "wordCount": 5
+    },
+    {
+      "id": 356,
+      "index": 356,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "You're so fucking lame. A couple of cranks in cabins in Montana is not statistically significant. White Americans don't take PCP and drink and drive a hundred and twenty fuckin' miles an hour! We pull over and trust the law.",
+      "wordCount": 40
+    },
+    {
+      "id": 357,
+      "index": 357,
+      "character": "MURRAY",
+      "gender": "Male",
+      "line": "You're kidding, right?",
+      "wordCount": 3
+    },
+    {
+      "id": 358,
+      "index": 358,
+      "character": "DAVINA",
+      "gender": "Female",
+      "line": "Don't you know, Murray? White people never break the law. We're perfect little angels.",
+      "wordCount": 14
+    },
+    {
+      "id": 359,
+      "index": 359,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "That's not what I said, Davina. Three different times Rodney King comes at those officers with the intent to hurt them. To hurt them! Three times! But since we see it on some fucking tampered videotape...the bleeding heart media makes you believe that he only comes at them once. All we see is Powell, Koon and Wind hittin' him and-- Briseno kickin' him in the back of the fuckin' skull with his boot. Still, the dumbfuck's tryin' to get up and kick their asses! That's how stupid that motherfucker is. Those cops used textbook-solid tactics and if Dad were still here he'd say the same damn thing.",
+      "wordCount": 107
+    },
+    {
+      "id": 360,
+      "index": 360,
+      "character": "DORIS",
+      "gender": "Female",
+      "line": "That doesn't make it right.",
+      "wordCount": 5
+    },
+    {
+      "id": 361,
+      "index": 361,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "Yes it does. Yes it does. They're cops! They are taught to use that stick and they did.",
+      "wordCount": 18
+    },
+    {
+      "id": 362,
+      "index": 362,
+      "character": "MURRAY",
+      "gender": "Male",
+      "line": "Excessively.",
+      "wordCount": 1
+    },
+    {
+      "id": 363,
+      "index": 363,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "No. Appropriately. Appropriately! Cops have been granted a certain amount of authority by society and white people, unfortunately, are the only ones who acknowledge it. I acknowledge a cop's authority.",
+      "wordCount": 30
+    },
+    {
+      "id": 364,
+      "index": 364,
+      "character": "DAVINA",
+      "gender": "Female",
+      "line": "Look who's talking about respecting the law? Mr. K.K.K. here.",
+      "wordCount": 10
+    },
+    {
+      "id": 365,
+      "index": 365,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "That's two errors in one sentence, Davina, so take a fucking course in semantics. First error--I didn't say I respect the law. I said I respect a cop's authority. Second error...I'm not a member of the fuckin' low rent, disorganized, redneck Ku Klux Klan.. Pull your head outta your ass and look at who you're dealing with.",
+      "wordCount": 57
+    },
+    {
+      "id": 366,
+      "index": 366,
+      "character": "MURRAY",
+      "gender": "Male",
+      "line": "Don't speak to her that way, Derek.",
+      "wordCount": 7
+    },
+    {
+      "id": 367,
+      "index": 367,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "Murray, stay out of it. You're not a member of this family and you never will be.",
+      "wordCount": 17
+    },
+    {
+      "id": 368,
+      "index": 368,
+      "character": "MURRAY",
+      "gender": "Male",
+      "line": "What the hell does that have to do with anything?",
+      "wordCount": 10
+    },
+    {
+      "id": 369,
+      "index": 369,
+      "character": "DORIS",
+      "gender": "Female",
+      "line": "You know...sometimes it's hard to believe I gave birth to you.",
+      "wordCount": 11
+    },
+    {
+      "id": 370,
+      "index": 370,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "Give thanks to the food on the table and then believe it, Doris.",
+      "wordCount": 13
+    },
+    {
+      "id": 371,
+      "index": 371,
+      "character": "DORIS",
+      "gender": "Female",
+      "line": "We both put food on this table, fella.",
+      "wordCount": 8
+    },
+    {
+      "id": 372,
+      "index": 372,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "True enough. The point is...if Dan was walking across the street that night and Rodney King plowed into him--",
+      "wordCount": 19
+    },
+    {
+      "id": 373,
+      "index": 373,
+      "character": "DORIS",
+      "gender": "Female",
+      "line": "Can we forget about Rodney King for chrissake?!",
+      "wordCount": 8
+    },
+    {
+      "id": 374,
+      "index": 374,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "--while hopped up on Chivas and P.C.P...you'd consider the force those cops used to be justified!",
+      "wordCount": 16
+    },
+    {
+      "id": 375,
+      "index": 375,
+      "character": "DORIS",
+      "gender": "Female",
+      "line": "He didn't hit anybody!",
+      "wordCount": 4
+    },
+    {
+      "id": 376,
+      "index": 376,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "If he did though! If that shithead killed Dan...you would have believed the beating to be justified and so would everybody else. But since he didn't hit anyone...it's \"Hands Across America\" for the son of a bitch.",
+      "wordCount": 37
+    },
+    {
+      "id": 377,
+      "index": 377,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "We are still so hung up in this notion that we have an obligation to help the struggling black man and all you contribute to it! Lincoln freed the slaves a hundred and thirty years ago! Get off your fucking asses!",
+      "wordCount": 41
+    },
+    {
+      "id": 378,
+      "index": 378,
+      "character": "STACEY",
+      "gender": "Female",
+      "line": "I'm with you, honey. All the way. It's one...giant...ploy.",
+      "wordCount": 9
+    },
+    {
+      "id": 379,
+      "index": 379,
+      "character": "DAVINA",
+      "gender": "Female",
+      "line": "Here we go.",
+      "wordCount": 3
+    },
+    {
+      "id": 380,
+      "index": 380,
+      "character": "STACEY",
+      "gender": "Female",
+      "line": "I mean...nobody likes Chief whatever his name is, right?",
+      "wordCount": 9
+    },
+    {
+      "id": 381,
+      "index": 381,
+      "character": "DAVINA",
+      "gender": "Female",
+      "line": "Gates.",
+      "wordCount": 1
+    },
+    {
+      "id": 382,
+      "index": 382,
+      "character": "STACEY",
+      "gender": "Female",
+      "line": "Yeah. So here comes this filthy piece of garbage in his Hyundai. He pulls over in front of a perfectly lighted area where a video camera is sitting there...fucking waiting for him, man. What happens next? Chief Gates is dust. It's total--",
+      "wordCount": 42
+    },
+    {
+      "id": 383,
+      "index": 383,
+      "character": "DAVINA",
+      "gender": "Female",
+      "line": "May I be excused please?",
+      "wordCount": 5
+    },
+    {
+      "id": 384,
+      "index": 384,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "Don't interrupt, Davina.",
+      "wordCount": 3
+    },
+    {
+      "id": 385,
+      "index": 385,
+      "character": "DAVINA",
+      "gender": "Female",
+      "line": "I didn't interrupt shit.",
+      "wordCount": 4
+    },
+    {
+      "id": 386,
+      "index": 386,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "The hell you didn't. I was listening to Stacey and then I heard you. That's called interrupting. Wait 'til she's finished and you can be excused.",
+      "wordCount": 26
+    },
+    {
+      "id": 387,
+      "index": 387,
+      "character": "DAVINA",
+      "gender": "Female",
+      "line": "Who the hell do you think you are?",
+      "wordCount": 8
+    },
+    {
+      "id": 388,
+      "index": 388,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "You don't know when to shut up.",
+      "wordCount": 7
+    },
+    {
+      "id": 389,
+      "index": 389,
+      "character": "DORIS",
+      "gender": "Female",
+      "line": "Dammit Derek!",
+      "wordCount": 2
+    },
+    {
+      "id": 390,
+      "index": 390,
+      "character": "MURRAY",
+      "gender": "Male",
+      "line": "What are you trying to prove, man?!",
+      "wordCount": 7
+    },
+    {
+      "id": 391,
+      "index": 391,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "I'm trying to teach my sister some respect, Murray.",
+      "wordCount": 9
+    },
+    {
+      "id": 392,
+      "index": 392,
+      "character": "DAVI NA",
+      "gender": "NA",
+      "line": "Let go of my fucking hair!",
+      "wordCount": 6
+    },
+    {
+      "id": 393,
+      "index": 393,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "See! See the way she speaks! Tell me you're gonna shut up and I'll let go.",
+      "wordCount": 16
+    },
+    {
+      "id": 394,
+      "index": 394,
+      "character": "DORIS",
+      "gender": "Female",
+      "line": "Derek! Let go of her hair and sit down!",
+      "wordCount": 9
+    },
+    {
+      "id": 395,
+      "index": 395,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "I will when I hear an answer, Doris. Are you going to shut up, Davina?",
+      "wordCount": 15
+    },
+    {
+      "id": 396,
+      "index": 396,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "What are you thinkin'?",
+      "wordCount": 4
+    },
+    {
+      "id": 397,
+      "index": 397,
+      "character": "DORIS",
+      "gender": "Female",
+      "line": "Danny?! Are you okay?!",
+      "wordCount": 4
+    },
+    {
+      "id": 398,
+      "index": 398,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "It's a real easy question, Davina. A simple yes or no will suffice. Tell me what I want to hear and I'll let go.",
+      "wordCount": 24
+    },
+    {
+      "id": 399,
+      "index": 399,
+      "character": "DAVINA",
+      "gender": "Female",
+      "line": "Fuck...you.",
+      "wordCount": 1
+    },
+    {
+      "id": 400,
+      "index": 400,
+      "character": "MURRAY",
+      "gender": "Male",
+      "line": "She can't breathe, Derek!",
+      "wordCount": 4
+    },
+    {
+      "id": 401,
+      "index": 401,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "Stay back, both of you! It's her bed, she's gotta lie in it. You can cry all you want, Davina. I'm not gonna let go until you tell me what I wanna hear! Are you going to shut that fat fucking mouth of your's and let my girlfriend tell her opinion? Are you?!",
+      "wordCount": 53
+    },
+    {
+      "id": 402,
+      "index": 402,
+      "character": "DORIS",
+      "gender": "Female",
+      "line": "Let go of her hair and get out.",
+      "wordCount": 8
+    },
+    {
+      "id": 403,
+      "index": 403,
+      "character": "DAVINA",
+      "gender": "Female",
+      "line": "I hate you, you fucking asshole!",
+      "wordCount": 6
+    },
+    {
+      "id": 404,
+      "index": 404,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "You okay?",
+      "wordCount": 2
+    },
+    {
+      "id": 405,
+      "index": 405,
+      "character": "MURRAY",
+      "gender": "Male",
+      "line": "Psycho.",
+      "wordCount": 1
+    },
+    {
+      "id": 406,
+      "index": 406,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "Would you care to repeat that, Murray? I'm not sure I got all of it.",
+      "wordCount": 15
+    },
+    {
+      "id": 407,
+      "index": 407,
+      "character": "STACEY",
+      "gender": "Female",
+      "line": "He called you a \"psycho\", honey.",
+      "wordCount": 6
+    },
+    {
+      "id": 408,
+      "index": 408,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "Was that it? Thanks Murray.",
+      "wordCount": 5
+    },
+    {
+      "id": 409,
+      "index": 409,
+      "character": "MURRAY",
+      "gender": "Male",
+      "line": "See. Here we go again with this, Derek. Making me out to be the bad guy again.",
+      "wordCount": 17
+    },
+    {
+      "id": 410,
+      "index": 410,
+      "character": "STACEY",
+      "gender": "Female",
+      "line": "You callin' me a liar, RosenKike?",
+      "wordCount": 6
+    },
+    {
+      "id": 411,
+      "index": 411,
+      "character": "MURRAY",
+      "gender": "Male",
+      "line": "Hey goddammit! You talk to me with respect or--!",
+      "wordCount": 9
+    },
+    {
+      "id": 412,
+      "index": 412,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "Or what, Murray!? What're you gonna do? Give her fucking detention?",
+      "wordCount": 11
+    },
+    {
+      "id": 413,
+      "index": 413,
+      "character": "DORIS",
+      "gender": "Female",
+      "line": "Both of you get out right now.",
+      "wordCount": 7
+    },
+    {
+      "id": 414,
+      "index": 414,
+      "character": "DORIS",
+      "gender": "Female",
+      "line": "Do you think you're the only one who's affected around here?",
+      "wordCount": 11
+    },
+    {
+      "id": 415,
+      "index": 415,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "Out of respect for my mother...I'm gonna let that comment go, Murray. I won't bash your face in. But let me tell you somethin'...man to fuckin' mouse here. Normally in a situation like this I'd take my steel-tips to your fucking Jewish temple. That goes for anyone making comments about me, my family, Stacey, whomever. You know and I know that I could crush that puny fuckin' skull of yours in a second. So it's beyond me why you would say something like that without being able to back it up? What's worse, you sack of shit, is you calling the woman I love a liar.",
+      "wordCount": 106
+    },
+    {
+      "id": 416,
+      "index": 416,
+      "character": "MURRAY",
+      "gender": "Male",
+      "line": "I never said she was a liar.",
+      "wordCount": 7
+    },
+    {
+      "id": 417,
+      "index": 417,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "Weasel like that again Murray...you fuckin' ponytail, pussy, bagel eating, teacher, faggot...and I'll cut your shylock nose off. Make no mistake.",
+      "wordCount": 21
+    },
+    {
+      "id": 418,
+      "index": 418,
+      "character": "STACEY",
+      "gender": "Female",
+      "line": "Murray Rosenberg...International Jew.",
+      "wordCount": 3
+    },
+    {
+      "id": 419,
+      "index": 419,
+      "character": "DORIS",
+      "gender": "Female",
+      "line": "He's a stupid kid, Murray! I'm sorry!",
+      "wordCount": 7
+    },
+    {
+      "id": 420,
+      "index": 420,
+      "character": "MURRAY",
+      "gender": "Male",
+      "line": "He's not a kid, Doris. We were kids. We didn't call people kikes.",
+      "wordCount": 13
+    },
+    {
+      "id": 421,
+      "index": 421,
+      "character": "DORIS",
+      "gender": "Female",
+      "line": "It's just gonna take some time with him. What can I do?",
+      "wordCount": 12
+    },
+    {
+      "id": 422,
+      "index": 422,
+      "character": "MURRAY",
+      "gender": "Male",
+      "line": "You don't know your children, Doris! You have no clue about the world they live in. Your son is a terrorist.",
+      "wordCount": 21
+    },
+    {
+      "id": 423,
+      "index": 423,
+      "character": "DORIS",
+      "gender": "Female",
+      "line": "He's not a terrorist, Murray. Jesus!",
+      "wordCount": 6
+    },
+    {
+      "id": 424,
+      "index": 424,
+      "character": "MURRAY",
+      "gender": "Male",
+      "line": "He's a member of the Disciples of Christ. You remember that grocery store incident?!",
+      "wordCount": 14
+    },
+    {
+      "id": 425,
+      "index": 425,
+      "character": "MURRAY",
+      "gender": "Male",
+      "line": "My sister and her two kids got evacuated from her Temple in Woodland Hills!",
+      "wordCount": 14
+    },
+    {
+      "id": 426,
+      "index": 426,
+      "character": "DORIS",
+      "gender": "Female",
+      "line": "Murray! Please! Derek would never have anything to do with bombs, okay?! You don't know him like I do.",
+      "wordCount": 19
+    },
+    {
+      "id": 427,
+      "index": 427,
+      "character": "MURRAY",
+      "gender": "Male",
+      "line": "And I wouldn't want to. Goodbye.",
+      "wordCount": 6
+    },
+    {
+      "id": 428,
+      "index": 428,
+      "character": "DAVINA",
+      "gender": "Female",
+      "line": "Take this, you fucking dick!",
+      "wordCount": 5
+    },
+    {
+      "id": 429,
+      "index": 429,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "Davina! It's okay! Calm down. Please.",
+      "wordCount": 6
+    },
+    {
+      "id": 430,
+      "index": 430,
+      "character": "DAVINA",
+      "gender": "Female",
+      "line": "Fuck you! Let go!",
+      "wordCount": 4
+    },
+    {
+      "id": 431,
+      "index": 431,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "I'm sorry, Davina. Come on.",
+      "wordCount": 5
+    },
+    {
+      "id": 432,
+      "index": 432,
+      "character": "DAVINA",
+      "gender": "Female",
+      "line": "Let go of me!",
+      "wordCount": 4
+    },
+    {
+      "id": 433,
+      "index": 433,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "Come on, Davina. I'm sorry. I lost control. Please. I screwed up.",
+      "wordCount": 12
+    },
+    {
+      "id": 434,
+      "index": 434,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "You guys are my life and I'd do anything for you. You do know that?",
+      "wordCount": 15
+    },
+    {
+      "id": 435,
+      "index": 435,
+      "character": "DAVINA",
+      "gender": "Female",
+      "line": "I don't believe you anymore.",
+      "wordCount": 5
+    },
+    {
+      "id": 436,
+      "index": 436,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "I swear to God I would, Davina. Please.",
+      "wordCount": 8
+    },
+    {
+      "id": 437,
+      "index": 437,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "I believe you, Der.",
+      "wordCount": 4
+    },
+    {
+      "id": 438,
+      "index": 438,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "Davina? Please forgive me. Please. I'm sorry.",
+      "wordCount": 7
+    },
+    {
+      "id": 439,
+      "index": 439,
+      "character": "DAVINA",
+      "gender": "Female",
+      "line": "That fuckin' sucked, Derek.",
+      "wordCount": 4
+    },
+    {
+      "id": 440,
+      "index": 440,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "I know it did. And I'm sorry. I just really hate that guy.",
+      "wordCount": 13
+    },
+    {
+      "id": 441,
+      "index": 441,
+      "character": "DAVINA",
+      "gender": "Female",
+      "line": "You couldn't tell.",
+      "wordCount": 3
+    },
+    {
+      "id": 442,
+      "index": 442,
+      "character": "DORIS",
+      "gender": "Female",
+      "line": "Find an apartment because I want you out of here.",
+      "wordCount": 10
+    },
+    {
+      "id": 443,
+      "index": 443,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "Morn, I'm sorry but that guy's--",
+      "wordCount": 6
+    },
+    {
+      "id": 444,
+      "index": 444,
+      "character": "DORIS",
+      "gender": "Female",
+      "line": "I don't wanna hear it anymore! I want you out!",
+      "wordCount": 10
+    },
+    {
+      "id": 445,
+      "index": 445,
+      "character": "STACEY",
+      "gender": "Female",
+      "line": "He can move in with me.",
+      "wordCount": 6
+    },
+    {
+      "id": 446,
+      "index": 446,
+      "character": "DORIS",
+      "gender": "Female",
+      "line": "When?",
+      "wordCount": 1
+    },
+    {
+      "id": 447,
+      "index": 447,
+      "character": "STACEY",
+      "gender": "Female",
+      "line": "Tomorrow.",
+      "wordCount": 1
+    },
+    {
+      "id": 448,
+      "index": 448,
+      "character": "DORIS",
+      "gender": "Female",
+      "line": "Good.",
+      "wordCount": 1
+    },
+    {
+      "id": 449,
+      "index": 449,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "Here.",
+      "wordCount": 1
+    },
+    {
+      "id": 450,
+      "index": 450,
+      "character": "DORIS",
+      "gender": "Female",
+      "line": "Thank you, honey.",
+      "wordCount": 3
+    },
+    {
+      "id": 451,
+      "index": 451,
+      "character": "DORIS",
+      "gender": "Female",
+      "line": "Hey. Come here. Sit with me.",
+      "wordCount": 6
+    },
+    {
+      "id": 452,
+      "index": 452,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "I've got this thing to do.",
+      "wordCount": 6
+    },
+    {
+      "id": 453,
+      "index": 453,
+      "character": "DORIS",
+      "gender": "Female",
+      "line": "You can sit down for two seconds.",
+      "wordCount": 7
+    },
+    {
+      "id": 454,
+      "index": 454,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "Don't breathe on me.",
+      "wordCount": 4
+    },
+    {
+      "id": 455,
+      "index": 455,
+      "character": "DORIS",
+      "gender": "Female",
+      "line": "I won't.",
+      "wordCount": 2
+    },
+    {
+      "id": 456,
+      "index": 456,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "It's cold in here, no wonder your sick.",
+      "wordCount": 8
+    },
+    {
+      "id": 457,
+      "index": 457,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "What?",
+      "wordCount": 1
+    },
+    {
+      "id": 458,
+      "index": 458,
+      "character": "DORIS",
+      "gender": "Female",
+      "line": "What? I'm not allowed to look at you anymore?",
+      "wordCount": 9
+    },
+    {
+      "id": 459,
+      "index": 459,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "No. You're not.",
+      "wordCount": 3
+    },
+    {
+      "id": 460,
+      "index": 460,
+      "character": "DORIS",
+      "gender": "Female",
+      "line": "Daniel Patrick! Stop it! Are you ever gonna let that beautiful hair grow back?",
+      "wordCount": 14
+    },
+    {
+      "id": 461,
+      "index": 461,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "Nope. Never.",
+      "wordCount": 2
+    },
+    {
+      "id": 462,
+      "index": 462,
+      "character": "DORIS",
+      "gender": "Female",
+      "line": "I bet you will.",
+      "wordCount": 4
+    },
+    {
+      "id": 463,
+      "index": 463,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "Get some sleep.",
+      "wordCount": 3
+    },
+    {
+      "id": 464,
+      "index": 464,
+      "character": "DORIS",
+      "gender": "Female",
+      "line": "If you need me to proof anything for you I will.",
+      "wordCount": 11
+    },
+    {
+      "id": 465,
+      "index": 465,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "I'll be all right.",
+      "wordCount": 4
+    },
+    {
+      "id": 466,
+      "index": 466,
+      "character": "DORIS",
+      "gender": "Female",
+      "line": "Wake up early if you get tired.",
+      "wordCount": 7
+    },
+    {
+      "id": 467,
+      "index": 467,
+      "character": "STACEY",
+      "gender": "Female",
+      "line": "Get on the floor, Danny! Jesus!",
+      "wordCount": 6
+    },
+    {
+      "id": 468,
+      "index": 468,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "You fucked with the wrong bull.",
+      "wordCount": 6
+    },
+    {
+      "id": 469,
+      "index": 469,
+      "character": "LAWRENCE",
+      "gender": "Male",
+      "line": "Goddamn, man!",
+      "wordCount": 2
+    },
+    {
+      "id": 470,
+      "index": 470,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "Let the cops handle it, Der!",
+      "wordCount": 6
+    },
+    {
+      "id": 471,
+      "index": 471,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "Fuck that. The cops will let him walk.",
+      "wordCount": 8
+    },
+    {
+      "id": 472,
+      "index": 472,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "Ever shoot at firemen, you fuck? Open your mouth and put it on the corner of the curb. I'm gonna teach you a little lesson.",
+      "wordCount": 25
+    },
+    {
+      "id": 473,
+      "index": 473,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "Derek!?",
+      "wordCount": 1
+    },
+    {
+      "id": 474,
+      "index": 474,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "Get in the fucking house, Dan!",
+      "wordCount": 6
+    },
+    {
+      "id": 475,
+      "index": 475,
+      "character": "LAWRENCE",
+      "gender": "Male",
+      "line": "Come on, man. Call an ambulance.",
+      "wordCount": 6
+    },
+    {
+      "id": 476,
+      "index": 476,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "My dad gave me that truck, motherfucker. Couldn't leave well enough alone. Put your mouth on the corner of the fucking curb!",
+      "wordCount": 22
+    },
+    {
+      "id": 477,
+      "index": 477,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "The cops are comin' Der'",
+      "wordCount": 5
+    },
+    {
+      "id": 478,
+      "index": 478,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "What the fuck did you say? You just threaten me? Hunh? Hunh? Hunh?",
+      "wordCount": 13
+    },
+    {
+      "id": 479,
+      "index": 479,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "Holy fucking shit! Derek! What the hell was that for?! Jesus!",
+      "wordCount": 11
+    },
+    {
+      "id": 480,
+      "index": 480,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "Joseph Conrad once wrote that \"murder is always with us. It's almost an institution.\" That couldn't rang more true than with me.",
+      "wordCount": 22
+    },
+    {
+      "id": 481,
+      "index": 481,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "Bobby Lawrence died of massive head trauma early that morning.",
+      "wordCount": 10
+    },
+    {
+      "id": 482,
+      "index": 482,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "Six months after that...Derek was convicted and sentenced to seven years for voluntary manslaughter...to be served at the California State Penitentiary in Chino.",
+      "wordCount": 23
+    },
+    {
+      "id": 483,
+      "index": 483,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "Prosecutors wanted murder one for my brother's torture method...but there wasn't enough \"premeditated\" evidence.",
+      "wordCount": 14
+    },
+    {
+      "id": 484,
+      "index": 484,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "Over the next year we'd lose our house and the rest of our father's pension to attorney fees. My mother...much to all of our surprise...stood by Derek.",
+      "wordCount": 27
+    },
+    {
+      "id": 485,
+      "index": 485,
+      "character": "JASON",
+      "gender": "Male",
+      "line": "We're here, dude.",
+      "wordCount": 3
+    },
+    {
+      "id": 486,
+      "index": 486,
+      "character": "CHRIS",
+      "gender": "Male",
+      "line": "Drop your dick and grab your stick.",
+      "wordCount": 7
+    },
+    {
+      "id": 487,
+      "index": 487,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "I told you I can't tonight.",
+      "wordCount": 6
+    },
+    {
+      "id": 488,
+      "index": 488,
+      "character": "DORIS",
+      "gender": "Female",
+      "line": "Danny?",
+      "wordCount": 1
+    },
+    {
+      "id": 489,
+      "index": 489,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "It's okay, Mom.",
+      "wordCount": 3
+    },
+    {
+      "id": 490,
+      "index": 490,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "If I don't finish this thing I'm dead.",
+      "wordCount": 8
+    },
+    {
+      "id": 491,
+      "index": 491,
+      "character": "CHRIS",
+      "gender": "Male",
+      "line": "Just tell 'em you'll do it tomorrow. You can't miss the party.",
+      "wordCount": 12
+    },
+    {
+      "id": 492,
+      "index": 492,
+      "character": "JASON",
+      "gender": "Male",
+      "line": "Fire pie Lizzy called and told us to grab your ass.",
+      "wordCount": 11
+    },
+    {
+      "id": 493,
+      "index": 493,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "She did?",
+      "wordCount": 2
+    },
+    {
+      "id": 494,
+      "index": 494,
+      "character": "CHRIS",
+      "gender": "Male",
+      "line": "You gotta hit that shit. It's the only fun thing that's legal anymore.",
+      "wordCount": 13
+    },
+    {
+      "id": 495,
+      "index": 495,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "Hello?",
+      "wordCount": 1
+    },
+    {
+      "id": 496,
+      "index": 496,
+      "character": "SWEENEY",
+      "gender": "Male",
+      "line": "Dan?",
+      "wordCount": 1
+    },
+    {
+      "id": 497,
+      "index": 497,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "Yeah?",
+      "wordCount": 1
+    },
+    {
+      "id": 498,
+      "index": 498,
+      "character": "SWEENEY",
+      "gender": "Male",
+      "line": "Dr. Sweeney.",
+      "wordCount": 2
+    },
+    {
+      "id": 499,
+      "index": 499,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "What's going on?",
+      "wordCount": 3
+    },
+    {
+      "id": 500,
+      "index": 500,
+      "character": "SWEENEY",
+      "gender": "Male",
+      "line": "Nothing here. Is everything all right over there?",
+      "wordCount": 8
+    },
+    {
+      "id": 501,
+      "index": 501,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "Everything's fine.",
+      "wordCount": 2
+    },
+    {
+      "id": 502,
+      "index": 502,
+      "character": "SWEENEY",
+      "gender": "Male",
+      "line": "How's it comin'?",
+      "wordCount": 3
+    },
+    {
+      "id": 503,
+      "index": 503,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "I'm doing it right now.",
+      "wordCount": 5
+    },
+    {
+      "id": 504,
+      "index": 504,
+      "character": "CMRIS",
+      "gender": "NA",
+      "line": "Who is it, dude?",
+      "wordCount": 4
+    },
+    {
+      "id": 505,
+      "index": 505,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "It's Sweeney.",
+      "wordCount": 2
+    },
+    {
+      "id": 506,
+      "index": 506,
+      "character": "CHRIS",
+      "gender": "Male",
+      "line": "Who?! Why is he calling here!? Fuck you, Sweeney! Asshole!",
+      "wordCount": 10
+    },
+    {
+      "id": 507,
+      "index": 507,
+      "character": "JASON",
+      "gender": "Male",
+      "line": "Get a fucking job, you reggie!",
+      "wordCount": 6
+    },
+    {
+      "id": 508,
+      "index": 508,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "You fuckers are going to get me booted! Dr. Sweeney? I'm sorry, man.",
+      "wordCount": 13
+    },
+    {
+      "id": 509,
+      "index": 509,
+      "character": "SWEENEY",
+      "gender": "Male",
+      "line": "Just make sure it's on my desk tomorrow, Danny.",
+      "wordCount": 9
+    },
+    {
+      "id": 510,
+      "index": 510,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "It'll be there, alright!?",
+      "wordCount": 4
+    },
+    {
+      "id": 511,
+      "index": 511,
+      "character": "SWEENEY",
+      "gender": "Male",
+      "line": "It better be.",
+      "wordCount": 3
+    },
+    {
+      "id": 512,
+      "index": 512,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "Let's go.",
+      "wordCount": 2
+    },
+    {
+      "id": 513,
+      "index": 513,
+      "character": "SETH",
+      "gender": "Male",
+      "line": "You're an idiot if you ask me.",
+      "wordCount": 7
+    },
+    {
+      "id": 514,
+      "index": 514,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "I'm not asking you.",
+      "wordCount": 4
+    },
+    {
+      "id": 515,
+      "index": 515,
+      "character": "SETH",
+      "gender": "Male",
+      "line": "What if he writes something stupid and that nigger turns you in? Jesus. He didn't testify, Der. They can use that shit and re-try you.",
+      "wordCount": 25
+    },
+    {
+      "id": 516,
+      "index": 516,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "Sweeney's not gonna do anything, Seth. He helped get me released.",
+      "wordCount": 11
+    },
+    {
+      "id": 517,
+      "index": 517,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "I'm out, Seth.",
+      "wordCount": 3
+    },
+    {
+      "id": 518,
+      "index": 518,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "I'm only going to tell you this once so pay attention. I'm done, Seth. I don't want you to come near me...near Dan...I want you to leave my family alone.",
+      "wordCount": 30
+    },
+    {
+      "id": 519,
+      "index": 519,
+      "character": "SETH",
+      "gender": "Male",
+      "line": "You're serious.",
+      "wordCount": 2
+    },
+    {
+      "id": 520,
+      "index": 520,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "I'm dead fucking serious. No more phone calls, no more visits, no more nothing.",
+      "wordCount": 14
+    },
+    {
+      "id": 521,
+      "index": 521,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "We don't exist as far as you're concerned, Seth.",
+      "wordCount": 9
+    },
+    {
+      "id": 522,
+      "index": 522,
+      "character": "SETH",
+      "gender": "Male",
+      "line": "I can't believe I'm hearing this shit come out of your mouth.",
+      "wordCount": 12
+    },
+    {
+      "id": 523,
+      "index": 523,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "Believe it, Seth. Believe it. I spent over three years away from my family. My family, Seth. For what?",
+      "wordCount": 19
+    },
+    {
+      "id": 524,
+      "index": 524,
+      "character": "SETH",
+      "gender": "Male",
+      "line": "For your country, fuckhole, that's what. I'd do a hundred years before I felt like that.",
+      "wordCount": 16
+    },
+    {
+      "id": 525,
+      "index": 525,
+      "character": "SETH",
+      "gender": "Male",
+      "line": "You're a motherfucking traitor!",
+      "wordCount": 4
+    },
+    {
+      "id": 526,
+      "index": 526,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "What the--? Shit.",
+      "wordCount": 3
+    },
+    {
+      "id": 527,
+      "index": 527,
+      "character": "CASSANDRA",
+      "gender": "NA",
+      "line": "You're full of shit!",
+      "wordCount": 4
+    },
+    {
+      "id": 528,
+      "index": 528,
+      "character": "JASON",
+      "gender": "Male",
+      "line": "If he ain't here, he's comin'.",
+      "wordCount": 6
+    },
+    {
+      "id": 529,
+      "index": 529,
+      "character": "CHRIS",
+      "gender": "Male",
+      "line": "Yo! What's up, Fat Seth!?",
+      "wordCount": 5
+    },
+    {
+      "id": 530,
+      "index": 530,
+      "character": "SETH",
+      "gender": "Male",
+      "line": "I'm not fat, cockwart! I'm husky!",
+      "wordCount": 6
+    },
+    {
+      "id": 531,
+      "index": 531,
+      "character": "CMRIS",
+      "gender": "NA",
+      "line": "Okay! I'm sorry, bro!",
+      "wordCount": 4
+    },
+    {
+      "id": 532,
+      "index": 532,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "Take it easy, dude!",
+      "wordCount": 4
+    },
+    {
+      "id": 533,
+      "index": 533,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "What're you doin'?!",
+      "wordCount": 3
+    },
+    {
+      "id": 534,
+      "index": 534,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "Your brother's a piece of shit!",
+      "wordCount": 6
+    },
+    {
+      "id": 535,
+      "index": 535,
+      "character": "CHRIS",
+      "gender": "Male",
+      "line": "Holy shit. Father Vinyard!?",
+      "wordCount": 4
+    },
+    {
+      "id": 536,
+      "index": 536,
+      "character": "JASON",
+      "gender": "Male",
+      "line": "Son of a bitch.",
+      "wordCount": 4
+    },
+    {
+      "id": 537,
+      "index": 537,
+      "character": "JASON",
+      "gender": "Male",
+      "line": "I'm Jason and that's Chris! We're friends with your brother!",
+      "wordCount": 10
+    },
+    {
+      "id": 538,
+      "index": 538,
+      "character": "CHRIS",
+      "gender": "Male",
+      "line": "You're a fuckin' god, man!",
+      "wordCount": 5
+    },
+    {
+      "id": 539,
+      "index": 539,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "Do me a favor. Grab Danny and get outta here!",
+      "wordCount": 10
+    },
+    {
+      "id": 540,
+      "index": 540,
+      "character": "CHRIS",
+      "gender": "Male",
+      "line": "We just got here, man!",
+      "wordCount": 5
+    },
+    {
+      "id": 541,
+      "index": 541,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "You what!?",
+      "wordCount": 2
+    },
+    {
+      "id": 542,
+      "index": 542,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "You don't have any homework?!",
+      "wordCount": 5
+    },
+    {
+      "id": 543,
+      "index": 543,
+      "character": "JASON",
+      "gender": "Male",
+      "line": "School doesn't exist anymore, Father.",
+      "wordCount": 5
+    },
+    {
+      "id": 544,
+      "index": 544,
+      "character": "CHRIS",
+      "gender": "Male",
+      "line": "I wrote you. Two letters while you were in there! Did you get them?!",
+      "wordCount": 14
+    },
+    {
+      "id": 545,
+      "index": 545,
+      "character": "CASSANDRA",
+      "gender": "NA",
+      "line": "Excuse fuckin' me!",
+      "wordCount": 3
+    },
+    {
+      "id": 546,
+      "index": 546,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "Cassandra.",
+      "wordCount": 1
+    },
+    {
+      "id": 547,
+      "index": 547,
+      "character": "CASSANDRA",
+      "gender": "NA",
+      "line": "Oh my God! They said you might be here but I didn't fucking believe 'em!",
+      "wordCount": 15
+    },
+    {
+      "id": 548,
+      "index": 548,
+      "character": "CURTIS",
+      "gender": "NA",
+      "line": "I hope what I heard ain't true, man. You better hightail it the fuck outta here if it is.",
+      "wordCount": 19
+    },
+    {
+      "id": 549,
+      "index": 549,
+      "character": "CASSANDRA",
+      "gender": "NA",
+      "line": "You gotta chop that mop, Der!",
+      "wordCount": 6
+    },
+    {
+      "id": 550,
+      "index": 550,
+      "character": "CASSANDRA",
+      "gender": "NA",
+      "line": "Stacey's meandering around here somewhere! Have you seen the bitch?!",
+      "wordCount": 10
+    },
+    {
+      "id": 551,
+      "index": 551,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "The only person I've seen is Seth.",
+      "wordCount": 7
+    },
+    {
+      "id": 552,
+      "index": 552,
+      "character": "CASSANDRA",
+      "gender": "NA",
+      "line": "Oh God. I'm sorry.",
+      "wordCount": 4
+    },
+    {
+      "id": 553,
+      "index": 553,
+      "character": "LIZZY",
+      "gender": "Female",
+      "line": "Can you tell Danny that Lizzy's looking for him?",
+      "wordCount": 9
+    },
+    {
+      "id": 554,
+      "index": 554,
+      "character": "CAMMERON",
+      "gender": "NA",
+      "line": "He won't do anything'drastic I hope.",
+      "wordCount": 6
+    },
+    {
+      "id": 555,
+      "index": 555,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "I gotta do that paper though.",
+      "wordCount": 6
+    },
+    {
+      "id": 556,
+      "index": 556,
+      "character": "CAMMERON",
+      "gender": "NA",
+      "line": "I thought you already turned that fucker in?",
+      "wordCount": 8
+    },
+    {
+      "id": 557,
+      "index": 557,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "My teacher cried to Sweeney, man. have to do another one.",
+      "wordCount": 11
+    },
+    {
+      "id": 558,
+      "index": 558,
+      "character": "CAMMERON",
+      "gender": "NA",
+      "line": "Oh man. Fucking Sweeney.",
+      "wordCount": 4
+    },
+    {
+      "id": 559,
+      "index": 559,
+      "character": "STACEY",
+      "gender": "Female",
+      "line": "Meanwhile, niggers and spics do their reports on Malcolm X and fucking Fidel Castro.",
+      "wordCount": 14
+    },
+    {
+      "id": 560,
+      "index": 560,
+      "character": "CAMMERON",
+      "gender": "NA",
+      "line": "Sweeney's got an agenda, Danny. And it's all a load of crap. You hear me? He's all about brainwashing. Don't get fucking fooled by it.",
+      "wordCount": 25
+    },
+    {
+      "id": 561,
+      "index": 561,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "What the hell are you doing here, Dan?",
+      "wordCount": 8
+    },
+    {
+      "id": 562,
+      "index": 562,
+      "character": "CAMMERON",
+      "gender": "NA",
+      "line": "Hey. I was wondering when he was going to show his face.",
+      "wordCount": 12
+    },
+    {
+      "id": 563,
+      "index": 563,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "What did I tell you, Dan?",
+      "wordCount": 6
+    },
+    {
+      "id": 564,
+      "index": 564,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "I had to check it out, Der. Come on.",
+      "wordCount": 9
+    },
+    {
+      "id": 565,
+      "index": 565,
+      "character": "CAMMERON",
+      "gender": "NA",
+      "line": "He'll be all right, Derek.",
+      "wordCount": 5
+    },
+    {
+      "id": 566,
+      "index": 566,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "There's a redhead out there looking for you. Go talk to her.",
+      "wordCount": 12
+    },
+    {
+      "id": 567,
+      "index": 567,
+      "character": "CAMMERON",
+      "gender": "NA",
+      "line": "You go with.",
+      "wordCount": 3
+    },
+    {
+      "id": 568,
+      "index": 568,
+      "character": "STACEY",
+      "gender": "Female",
+      "line": "Welcome back.",
+      "wordCount": 2
+    },
+    {
+      "id": 569,
+      "index": 569,
+      "character": "CAMMERON",
+      "gender": "NA",
+      "line": "You made it, man. When I heard they threw you in General Population I thought it was curtains.",
+      "wordCount": 18
+    },
+    {
+      "id": 570,
+      "index": 570,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "It wasn't too bad.",
+      "wordCount": 4
+    },
+    {
+      "id": 571,
+      "index": 571,
+      "character": "CAMMERON",
+      "gender": "NA",
+      "line": "So what's all this self-righteous, born-again shit I'm hearing then?",
+      "wordCount": 10
+    },
+    {
+      "id": 572,
+      "index": 572,
+      "character": "CAMMERON",
+      "gender": "NA",
+      "line": "Have a seat, Derek. Relax.",
+      "wordCount": 5
+    },
+    {
+      "id": 573,
+      "index": 573,
+      "character": "CAMMERON",
+      "gender": "NA",
+      "line": "How was it in there with all those fuckin' monkeys, man? You're lucky they didn't kill you.",
+      "wordCount": 17
+    },
+    {
+      "id": 574,
+      "index": 574,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "I agree.",
+      "wordCount": 2
+    },
+    {
+      "id": 575,
+      "index": 575,
+      "character": "CAMMERON",
+      "gender": "NA",
+      "line": "Who runs the place? The monkeys or the wetbacks?",
+      "wordCount": 9
+    },
+    {
+      "id": 576,
+      "index": 576,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "The Mexicans.",
+      "wordCount": 2
+    },
+    {
+      "id": 577,
+      "index": 577,
+      "character": "CAMMERON",
+      "gender": "NA",
+      "line": "It's a fuckin' vacation for them in there, hunh?",
+      "wordCount": 9
+    },
+    {
+      "id": 578,
+      "index": 578,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "They were really organized. I'll tell ya...it was impressive. They--",
+      "wordCount": 10
+    },
+    {
+      "id": 579,
+      "index": 579,
+      "character": "LIZZY",
+      "gender": "Female",
+      "line": "I like you.",
+      "wordCount": 3
+    },
+    {
+      "id": 580,
+      "index": 580,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "I like you, too.",
+      "wordCount": 4
+    },
+    {
+      "id": 581,
+      "index": 581,
+      "character": "CAMMERON",
+      "gender": "NA",
+      "line": "They're fuckin' peasants, Derek. All of them. So what's up, man? I'm hearing a lot of shit about you.",
+      "wordCount": 19
+    },
+    {
+      "id": 582,
+      "index": 582,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "Be careful with me, Cam. You don't know what's going on with me.",
+      "wordCount": 13
+    },
+    {
+      "id": 583,
+      "index": 583,
+      "character": "CAMMERON",
+      "gender": "NA",
+      "line": "Fuckin' talk to me then. We're family here. Let's work it out whatever it is.",
+      "wordCount": 15
+    },
+    {
+      "id": 584,
+      "index": 584,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "I'm family, Cam? Is that why you came to see me all the time up there?",
+      "wordCount": 16
+    },
+    {
+      "id": 585,
+      "index": 585,
+      "character": "CAMMERON",
+      "gender": "NA",
+      "line": "I had to distance myself from you after that.",
+      "wordCount": 9
+    },
+    {
+      "id": 586,
+      "index": 586,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "Fuck you, Cameron. You're a fucking chicken hawk...praying on kids.",
+      "wordCount": 10
+    },
+    {
+      "id": 587,
+      "index": 587,
+      "character": "CAMMERON",
+      "gender": "NA",
+      "line": "I don't pray on fucking anyone.",
+      "wordCount": 6
+    },
+    {
+      "id": 588,
+      "index": 588,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "No. You fucking use them. To filter your insanity.",
+      "wordCount": 9
+    },
+    {
+      "id": 589,
+      "index": 589,
+      "character": "CAMMERON",
+      "gender": "NA",
+      "line": "You and Danny are like brothers to me, Derek. Come on, man.",
+      "wordCount": 12
+    },
+    {
+      "id": 590,
+      "index": 590,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "He's not your brother, Cameron. All right? He's my brother. You hear me, Cam?",
+      "wordCount": 14
+    },
+    {
+      "id": 591,
+      "index": 591,
+      "character": "CAMMERON",
+      "gender": "NA",
+      "line": "Fuck you, Derek! Fuck you! Don't think you can threaten me with this shit for a fuckin' second! I'm more important to him now then you ever were.",
+      "wordCount": 28
+    },
+    {
+      "id": 592,
+      "index": 592,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "You gonna listen?!",
+      "wordCount": 3
+    },
+    {
+      "id": 593,
+      "index": 593,
+      "character": "CAMMERON",
+      "gender": "NA",
+      "line": "I'm gonna fuckin' kill you.",
+      "wordCount": 5
+    },
+    {
+      "id": 594,
+      "index": 594,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "Shut the fuck up! You're gonna stay away! That's what you're gonna do!",
+      "wordCount": 13
+    },
+    {
+      "id": 595,
+      "index": 595,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "It's over.",
+      "wordCount": 2
+    },
+    {
+      "id": 596,
+      "index": 596,
+      "character": "RANDOM SKIN",
+      "gender": "NA",
+      "line": "Hey Derek!?",
+      "wordCount": 2
+    },
+    {
+      "id": 597,
+      "index": 597,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "What?!",
+      "wordCount": 1
+    },
+    {
+      "id": 598,
+      "index": 598,
+      "character": "CASSANDRA",
+      "gender": "NA",
+      "line": "Jesus, Der. What happened?",
+      "wordCount": 4
+    },
+    {
+      "id": 599,
+      "index": 599,
+      "character": "CURTIS",
+      "gender": "NA",
+      "line": "Where's Cammeron, man?!",
+      "wordCount": 3
+    },
+    {
+      "id": 600,
+      "index": 600,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "I haven't seen him.",
+      "wordCount": 4
+    },
+    {
+      "id": 601,
+      "index": 601,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "Stay away from me.",
+      "wordCount": 4
+    },
+    {
+      "id": 602,
+      "index": 602,
+      "character": "STACEY",
+      "gender": "Female",
+      "line": "Don't point your fucking finger at me.",
+      "wordCount": 7
+    },
+    {
+      "id": 603,
+      "index": 603,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "I'm serious, Stacey! Stay away!",
+      "wordCount": 5
+    },
+    {
+      "id": 604,
+      "index": 604,
+      "character": "STACEY",
+      "gender": "Female",
+      "line": "What are you gonna do?! Hunh?! Hit me?! Kick me as I roll on the fuckin' ground screaming?! That bullshit with Cammeron is nothing, Derek!",
+      "wordCount": 25
+    },
+    {
+      "id": 605,
+      "index": 605,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "I don't care.",
+      "wordCount": 3
+    },
+    {
+      "id": 606,
+      "index": 606,
+      "character": "STACEY",
+      "gender": "Female",
+      "line": "Goddamn you, Derek! Those two niggers deserved what they got. They deserved to die! And just like Cameron and Seth and a million others out there...I'll believe that 'til the day I fucking die. I will. Nothing will ever change that either.",
+      "wordCount": 42
+    },
+    {
+      "id": 607,
+      "index": 607,
+      "character": "ET AL",
+      "gender": "NA",
+      "line": "Forty-five! Forty-six! Forty- seven...!",
+      "wordCount": 4
+    },
+    {
+      "id": 608,
+      "index": 608,
+      "character": "SETH",
+      "gender": "Male",
+      "line": "Why the fuck did you pump it?! I coulda gone for a minute at least!",
+      "wordCount": 15
+    },
+    {
+      "id": 609,
+      "index": 609,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "Let him go, Seth.",
+      "wordCount": 4
+    },
+    {
+      "id": 610,
+      "index": 610,
+      "character": "SETH",
+      "gender": "Male",
+      "line": "Where's Cameron?",
+      "wordCount": 2
+    },
+    {
+      "id": 611,
+      "index": 611,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "Seth, man!? Come on!",
+      "wordCount": 4
+    },
+    {
+      "id": 612,
+      "index": 612,
+      "character": "SETH",
+      "gender": "Male",
+      "line": "I'd be doing America a great fucking favor, let me tell you.",
+      "wordCount": 12
+    },
+    {
+      "id": 613,
+      "index": 613,
+      "character": "STACEY",
+      "gender": "Female",
+      "line": "Do it, Seth.",
+      "wordCount": 3
+    },
+    {
+      "id": 614,
+      "index": 614,
+      "character": "CASSANDRA",
+      "gender": "NA",
+      "line": "You got fuckin' guests out there, Cam.",
+      "wordCount": 7
+    },
+    {
+      "id": 615,
+      "index": 615,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "Come with me right now.",
+      "wordCount": 5
+    },
+    {
+      "id": 616,
+      "index": 616,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "Fucking asshole!",
+      "wordCount": 2
+    },
+    {
+      "id": 617,
+      "index": 617,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "What the luck are you thinking!?",
+      "wordCount": 6
+    },
+    {
+      "id": 618,
+      "index": 618,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "What are you thinking!? Friends don't fight friends, Der! They stick together!",
+      "wordCount": 12
+    },
+    {
+      "id": 619,
+      "index": 619,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "They're not friends, Dan!",
+      "wordCount": 4
+    },
+    {
+      "id": 620,
+      "index": 620,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "What the hell are they then?!",
+      "wordCount": 6
+    },
+    {
+      "id": 621,
+      "index": 621,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "Just sit there and relax for a second.",
+      "wordCount": 8
+    },
+    {
+      "id": 622,
+      "index": 622,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "I don't wanna relax! You looked like an idiot back there!",
+      "wordCount": 11
+    },
+    {
+      "id": 623,
+      "index": 623,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "What's happened to you, Derek?",
+      "wordCount": 5
+    },
+    {
+      "id": 624,
+      "index": 624,
+      "character": "YOUNG MAN",
+      "gender": "NA",
+      "line": "You got lucky, man. I was in the kitchen for a year before making it in here. Pots and motherfucking pans... disgusting beef stroganoff shit... boiling hot water...fuck that! My name's Lamont, man.",
+      "wordCount": 33
+    },
+    {
+      "id": 625,
+      "index": 625,
+      "character": "LAMONT",
+      "gender": "Male",
+      "line": "I got your back. Righteous white Cracker with attitude. Just like the Judge who sentenced me, man.",
+      "wordCount": 17
+    },
+    {
+      "id": 626,
+      "index": 626,
+      "character": "LAMONT",
+      "gender": "Male",
+      "line": "If your smart though you'll remember one thing. You're the nigger in here. Not me.",
+      "wordCount": 15
+    },
+    {
+      "id": 627,
+      "index": 627,
+      "character": "STEVIE",
+      "gender": "NA",
+      "line": "I was just talking about you. You're Cammeron's boy?",
+      "wordCount": 9
+    },
+    {
+      "id": 628,
+      "index": 628,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "His boy? No, I don't think so, man. I'm not anybody's boy.",
+      "wordCount": 12
+    },
+    {
+      "id": 629,
+      "index": 629,
+      "character": "STEVIE",
+      "gender": "NA",
+      "line": "Well...you know what I mean.",
+      "wordCount": 5
+    },
+    {
+      "id": 630,
+      "index": 630,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "Nooo, I don't know what you mean.",
+      "wordCount": 7
+    },
+    {
+      "id": 631,
+      "index": 631,
+      "character": "STEVIE",
+      "gender": "NA",
+      "line": "Here, man. Relax and have a hit.",
+      "wordCount": 7
+    },
+    {
+      "id": 632,
+      "index": 632,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "Nooo...how about you getting that fucking shit awax from me?",
+      "wordCount": 10
+    },
+    {
+      "id": 633,
+      "index": 633,
+      "character": "STEVIE",
+      "gender": "NA",
+      "line": "You got a problem, man?",
+      "wordCount": 5
+    },
+    {
+      "id": 634,
+      "index": 634,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "Excuse me? Do I have a problem? No, I don't have a problem. Do you have a problem?",
+      "wordCount": 18
+    },
+    {
+      "id": 635,
+      "index": 635,
+      "character": "STEVIE",
+      "gender": "NA",
+      "line": "No. I don't.",
+      "wordCount": 3
+    },
+    {
+      "id": 636,
+      "index": 636,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "Who the fuck are you?",
+      "wordCount": 5
+    },
+    {
+      "id": 637,
+      "index": 637,
+      "character": "LAMONT",
+      "gender": "Male",
+      "line": "But I won't go down on that shit. No way, no how. You ever been with a soul sister?",
+      "wordCount": 19
+    },
+    {
+      "id": 638,
+      "index": 638,
+      "character": "LAMONT",
+      "gender": "Male",
+      "line": "Oh shit! Sorry, man! Forgot who the luck I was talking to there for a second. Let me ask you this one though cause I don't know the white man's take. You like eating pussy?",
+      "wordCount": 35
+    },
+    {
+      "id": 639,
+      "index": 639,
+      "character": "LAMONT",
+      "gender": "Male",
+      "line": "Oh man! You sick fucking bastard! You sick pig!",
+      "wordCount": 9
+    },
+    {
+      "id": 640,
+      "index": 640,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "And you don't!? Shut up.",
+      "wordCount": 5
+    },
+    {
+      "id": 641,
+      "index": 641,
+      "character": "LAMONT",
+      "gender": "Male",
+      "line": "Man...you don't know shit about the brothers. We won't go down on that shit if the bitch was holding a gun to our fucking head.",
+      "wordCount": 25
+    },
+    {
+      "id": 642,
+      "index": 642,
+      "character": "STEVIE",
+      "gender": "NA",
+      "line": "How's your face, man?",
+      "wordCount": 4
+    },
+    {
+      "id": 643,
+      "index": 643,
+      "character": "STEVIE",
+      "gender": "NA",
+      "line": "That'll teach you. Don't be a prick to your superiors.",
+      "wordCount": 10
+    },
+    {
+      "id": 644,
+      "index": 644,
+      "character": "STEVIE",
+      "gender": "NA",
+      "line": "What do you want?",
+      "wordCount": 4
+    },
+    {
+      "id": 645,
+      "index": 645,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "I'm right here, man. You wanna have it out with me, let's go. Just me and you though.",
+      "wordCount": 18
+    },
+    {
+      "id": 646,
+      "index": 646,
+      "character": "STEVIE",
+      "gender": "NA",
+      "line": "Man...you are a stupid motherfucker. You know that? When are you--?",
+      "wordCount": 11
+    },
+    {
+      "id": 647,
+      "index": 647,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "Stupid?! You have anything else to say, you little pussy! Hunh?!",
+      "wordCount": 11
+    },
+    {
+      "id": 648,
+      "index": 648,
+      "character": "STEVIE",
+      "gender": "NA",
+      "line": "Fuck you!",
+      "wordCount": 2
+    },
+    {
+      "id": 649,
+      "index": 649,
+      "character": "HUGE ARYAN",
+      "gender": "NA",
+      "line": "Well well well. A virgin.",
+      "wordCount": 5
+    },
+    {
+      "id": 650,
+      "index": 650,
+      "character": "HUGE ARYAN",
+      "gender": "NA",
+      "line": "You ain't so tough now, are you?",
+      "wordCount": 7
+    },
+    {
+      "id": 651,
+      "index": 651,
+      "character": "LAMONT",
+      "gender": "Male",
+      "line": "Motherfucker. What now, man?",
+      "wordCount": 4
+    },
+    {
+      "id": 652,
+      "index": 652,
+      "character": "LAMONT",
+      "gender": "Male",
+      "line": "Shit, holmes. Hang on to me, man. You're heavy.",
+      "wordCount": 9
+    },
+    {
+      "id": 653,
+      "index": 653,
+      "character": "DOCTOR",
+      "gender": "NA",
+      "line": "Well, you do have some tearing down here. Christ. Okay. I'm gonna have to stitch you up so I'll be back.",
+      "wordCount": 21
+    },
+    {
+      "id": 654,
+      "index": 654,
+      "character": "SWEENEY",
+      "gender": "Male",
+      "line": "Honor and loyalty run thick, Derek. Not skin color. Skin is thin. I don't get you, man. I don't. I got my Doctorate in Education...not in medicine. But if you think babies come into this world evil...you're fucked up, Derek. You're way to smart to believe that shit. There's nothin' more beautiful Derek, nothin' more pure, nothin' more innocent...than a baby.",
+      "wordCount": 61
+    },
+    {
+      "id": 655,
+      "index": 655,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "They killed my father, Sweeney.",
+      "wordCount": 5
+    },
+    {
+      "id": 656,
+      "index": 656,
+      "character": "SWEENEY",
+      "gender": "Male",
+      "line": "Jesus Derek. Use that brain God gave you for chrissake. What are you gonna do? Seek revenge your whole life and become a lifer in here. That's what these guys are like, you wanna be like them? Fucking little boys in prison? Think, man. None of your guys back home give a shit about you. They only care about your brother. The new blood. And he sure as hell can't take care of himself like you could.",
+      "wordCount": 77
+    },
+    {
+      "id": 657,
+      "index": 657,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "Get me outta here, Sweeney.",
+      "wordCount": 5
+    },
+    {
+      "id": 658,
+      "index": 658,
+      "character": "VOICE",
+      "gender": "NA",
+      "line": "How you doin', man?",
+      "wordCount": 4
+    },
+    {
+      "id": 659,
+      "index": 659,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "All right. How are you?",
+      "wordCount": 5
+    },
+    {
+      "id": 660,
+      "index": 660,
+      "character": "LAMONT",
+      "gender": "Male",
+      "line": "I'm fucking incarcerated, man. With a bunch of faggots. How you think I'm doin'?",
+      "wordCount": 14
+    },
+    {
+      "id": 661,
+      "index": 661,
+      "character": "LAMONT",
+      "gender": "Male",
+      "line": "What are you gonna do, man?",
+      "wordCount": 6
+    },
+    {
+      "id": 662,
+      "index": 662,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "I'm not going to do anything.",
+      "wordCount": 6
+    },
+    {
+      "id": 663,
+      "index": 663,
+      "character": "DORIS",
+      "gender": "Female",
+      "line": "Dr. Sweeney called me. He spoke with a guy on the parole board here. He thinks you might be getting out soon.",
+      "wordCount": 22
+    },
+    {
+      "id": 664,
+      "index": 664,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "How are the others?",
+      "wordCount": 4
+    },
+    {
+      "id": 665,
+      "index": 665,
+      "character": "DORIS",
+      "gender": "Female",
+      "line": "Davina's good. UCLA Math major. All three of you have always been so great in school. I wonder why all this--",
+      "wordCount": 21
+    },
+    {
+      "id": 666,
+      "index": 666,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "What about Dan, Mom? How's he?",
+      "wordCount": 6
+    },
+    {
+      "id": 667,
+      "index": 667,
+      "character": "DORIS",
+      "gender": "Female",
+      "line": "He's doing the same stuff you were doing, Derek. Hanging out with Cammeron, getting into trouble. It brings back a lot of sad memories. And I can't do anything...he won't listen to me. He needs you.",
+      "wordCount": 36
+    },
+    {
+      "id": 668,
+      "index": 668,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "You're my best friend, Danny. You're my only friend. And I just want what's best for you.",
+      "wordCount": 17
+    },
+    {
+      "id": 669,
+      "index": 669,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "Pretty shitty assignment you got.",
+      "wordCount": 5
+    },
+    {
+      "id": 670,
+      "index": 670,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "Oh yeah? What the hell do you know- about my father?",
+      "wordCount": 11
+    },
+    {
+      "id": 671,
+      "index": 671,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "Hey. Wake up.",
+      "wordCount": 3
+    },
+    {
+      "id": 672,
+      "index": 672,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "Time for bed.",
+      "wordCount": 3
+    },
+    {
+      "id": 673,
+      "index": 673,
+      "character": "DORIS",
+      "gender": "Female",
+      "line": "Goodnight.",
+      "wordCount": 1
+    },
+    {
+      "id": 674,
+      "index": 674,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "Goodnight, Mom.",
+      "wordCount": 2
+    },
+    {
+      "id": 675,
+      "index": 675,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "There was only one person who loved Derek more than me.",
+      "wordCount": 11
+    },
+    {
+      "id": 676,
+      "index": 676,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "That was Dad. They were best friendS. Fathers and sons are never best friends...but they were..",
+      "wordCount": 16
+    },
+    {
+      "id": 677,
+      "index": 677,
+      "character": "DORIS",
+      "gender": "Female",
+      "line": "Breakfast!",
+      "wordCount": 1
+    },
+    {
+      "id": 678,
+      "index": 678,
+      "character": "DENNIS",
+      "gender": "Male",
+      "line": "Okay! Let's go, Davina! Derek!",
+      "wordCount": 5
+    },
+    {
+      "id": 679,
+      "index": 679,
+      "character": "DORIS",
+      "gender": "Female",
+      "line": "So what's this all about, Dennis?",
+      "wordCount": 6
+    },
+    {
+      "id": 680,
+      "index": 680,
+      "character": "DENNIS",
+      "gender": "Male",
+      "line": "Good morning.",
+      "wordCount": 2
+    },
+    {
+      "id": 681,
+      "index": 681,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "Good morning.",
+      "wordCount": 2
+    },
+    {
+      "id": 682,
+      "index": 682,
+      "character": "DORIS",
+      "gender": "Female",
+      "line": "What about this gang stuff?",
+      "wordCount": 5
+    },
+    {
+      "id": 683,
+      "index": 683,
+      "character": "DENNIS",
+      "gender": "Male",
+      "line": "Jesus Doris...it's not that big of a deal. All departments have to take a precaution class on gang patrol today.",
+      "wordCount": 20
+    },
+    {
+      "id": 684,
+      "index": 684,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "What for?",
+      "wordCount": 2
+    },
+    {
+      "id": 685,
+      "index": 685,
+      "character": "DENNIS",
+      "gender": "Male",
+      "line": "A guy was shot yesterday in Inglewood...changin' a valve on a hydrant. LAPD is worried that more firefighters will become targets. That's what this bullshit is about. A good father this guy was though and now he's in intensive care because of some goddamn--! They've pretty much declared war on LAPD and us.",
+      "wordCount": 53
+    },
+    {
+      "id": 686,
+      "index": 686,
+      "character": "DORIS",
+      "gender": "Female",
+      "line": "Why you guys though? I can see them but the fire department?",
+      "wordCount": 12
+    },
+    {
+      "id": 687,
+      "index": 687,
+      "character": "DENNIS",
+      "gender": "Male",
+      "line": "They think we would rather let a building burn down over there than fight it. So now we got two fights goin' on at one goddamn time.",
+      "wordCount": 27
+    },
+    {
+      "id": 688,
+      "index": 688,
+      "character": "DENNIS",
+      "gender": "Male",
+      "line": "Dayins! Get in here!",
+      "wordCount": 4
+    },
+    {
+      "id": 689,
+      "index": 689,
+      "character": "DAVINA",
+      "gender": "Female",
+      "line": "I'm coming right now! Jesus!",
+      "wordCount": 5
+    },
+    {
+      "id": 690,
+      "index": 690,
+      "character": "DENNIS",
+      "gender": "Male",
+      "line": "I'll tell you one more thing. This \"affirmative blaction\" shit is driving me up the fucking wall. Firefighters gettin' 99's on their tests while rappers who score a goddamn 62 walk away with the job.",
+      "wordCount": 35
+    },
+    {
+      "id": 691,
+      "index": 691,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "Don't we have to have \"affirmative action?\"",
+      "wordCount": 7
+    },
+    {
+      "id": 692,
+      "index": 692,
+      "character": "DENNIS",
+      "gender": "Male",
+      "line": "Not when a job requires ability. No.",
+      "wordCount": 7
+    },
+    {
+      "id": 693,
+      "index": 693,
+      "character": "DORIS",
+      "gender": "Female",
+      "line": "A lot of people say otherwise, Danny. Including me.",
+      "wordCount": 9
+    },
+    {
+      "id": 694,
+      "index": 694,
+      "character": "DENNIS",
+      "gender": "Male",
+      "line": "A lot of people don't know shit, either.",
+      "wordCount": 8
+    },
+    {
+      "id": 695,
+      "index": 695,
+      "character": "DENNIS",
+      "gender": "Male",
+      "line": "If I'm fightin' a brush fire... surrounded by thousand degree flames...who would I want watchin' my back? A guy who scores a 99 or a guy who scores a sixty? You don't see half the NBA with whites, gooks and spics.",
+      "wordCount": 41
+    },
+    {
+      "id": 696,
+      "index": 696,
+      "character": "DORIS",
+      "gender": "Female",
+      "line": "Nooo...what you don't see are minorities on the boards of Fortune 500 companies cause whites won't stand for it.",
+      "wordCount": 19
+    },
+    {
+      "id": 697,
+      "index": 697,
+      "character": "DENNIS",
+      "gender": "Male",
+      "line": "Doris! I'm tired of your damn argument! You sound like an idiot!",
+      "wordCount": 12
+    },
+    {
+      "id": 698,
+      "index": 698,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "Sweeney actually had a pretty good take on affirmative action the other day.",
+      "wordCount": 13
+    },
+    {
+      "id": 699,
+      "index": 699,
+      "character": "DENNIS",
+      "gender": "Male",
+      "line": "Really? I didn't know you spoke \"African\", Derek? Where'd you learn that shit? Johannesberg?",
+      "wordCount": 14
+    },
+    {
+      "id": 700,
+      "index": 700,
+      "character": "DORIS",
+      "gender": "Female",
+      "line": "Honey? Please don't speak that way. They don't--",
+      "wordCount": 8
+    },
+    {
+      "id": 701,
+      "index": 701,
+      "character": "DENNIS",
+      "gender": "Male",
+      "line": "How am I speaking, Doris!? Hunh?! I'm speakin' fineP Hey. Don't let that him confuse you over there, Derek. Look at me. This shit he's pulling is a load of crap. Hey. Look at me, Derek. I mean it. If we keep givin' niggers everything, there'll be nothing left for us.",
+      "wordCount": 51
+    },
+    {
+      "id": 702,
+      "index": 702,
+      "character": "DORIS",
+      "gender": "Female",
+      "line": "You can be a stupid son of a bitch sometimes.",
+      "wordCount": 10
+    },
+    {
+      "id": 703,
+      "index": 703,
+      "character": "DENNIS",
+      "gender": "Male",
+      "line": "And then we have naive fools like her.",
+      "wordCount": 8
+    },
+    {
+      "id": 704,
+      "index": 704,
+      "character": "DORIS",
+      "gender": "Female",
+      "line": "I really hate you with a passion some times.",
+      "wordCount": 9
+    },
+    {
+      "id": 705,
+      "index": 705,
+      "character": "DENNIS",
+      "gender": "Male",
+      "line": "You know what I mean though, right?",
+      "wordCount": 7
+    },
+    {
+      "id": 706,
+      "index": 706,
+      "character": "DAVINA",
+      "gender": "Female",
+      "line": "Good morning.",
+      "wordCount": 2
+    },
+    {
+      "id": 707,
+      "index": 707,
+      "character": "DENNIS",
+      "gender": "Male",
+      "line": "Well...good morning, Miss Monroe! Look at you. You look like a star.",
+      "wordCount": 12
+    },
+    {
+      "id": 708,
+      "index": 708,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "I like that color, Davina.",
+      "wordCount": 5
+    },
+    {
+      "id": 709,
+      "index": 709,
+      "character": "DAVINA",
+      "gender": "Female",
+      "line": "Thanks",
+      "wordCount": 1
+    },
+    {
+      "id": 710,
+      "index": 710,
+      "character": "DENNIS",
+      "gender": "Male",
+      "line": "You did like it.",
+      "wordCount": 4
+    },
+    {
+      "id": 711,
+      "index": 711,
+      "character": "DAVINA",
+      "gender": "Female",
+      "line": "Come on, Dad.",
+      "wordCount": 3
+    },
+    {
+      "id": 712,
+      "index": 712,
+      "character": "DENNIS",
+      "gender": "Male",
+      "line": "Yeah. Well you're lucky I'm letting you wear that crap on your eyes. I love you but you're too young.",
+      "wordCount": 20
+    },
+    {
+      "id": 713,
+      "index": 713,
+      "character": "DAVINA",
+      "gender": "Female",
+      "line": "That sucks, man.",
+      "wordCount": 3
+    },
+    {
+      "id": 714,
+      "index": 714,
+      "character": "DENNIS",
+      "gender": "Male",
+      "line": "It totally sucks. And we all sympathize with you, too.",
+      "wordCount": 10
+    },
+    {
+      "id": 715,
+      "index": 715,
+      "character": "DENNIS",
+      "gender": "Male",
+      "line": "You got practice today?",
+      "wordCount": 4
+    },
+    {
+      "id": 716,
+      "index": 716,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "Coach's sick.",
+      "wordCount": 2
+    },
+    {
+      "id": 717,
+      "index": 717,
+      "character": "DENNIS",
+      "gender": "Male",
+      "line": "You wanna go to Der's game with me?",
+      "wordCount": 8
+    },
+    {
+      "id": 718,
+      "index": 718,
+      "character": "DENNIS",
+      "gender": "Male",
+      "line": "(quickly to Derek} Santa Monica High tonight, right?",
+      "wordCount": 8
+    },
+    {
+      "id": 719,
+      "index": 719,
+      "character": "DENNIS",
+      "gender": "Male",
+      "line": "Perfect. Ben'll whip us up a couple of double deckers and we'll head over.",
+      "wordCount": 14
+    },
+    {
+      "id": 720,
+      "index": 720,
+      "character": "HOMELESS MAN",
+      "gender": "NA",
+      "line": "Spare change for a cheeseburger?",
+      "wordCount": 5
+    },
+    {
+      "id": 721,
+      "index": 721,
+      "character": "SETH",
+      "gender": "Male",
+      "line": "Get a job and buy one why don't you.",
+      "wordCount": 9
+    },
+    {
+      "id": 722,
+      "index": 722,
+      "character": "HOMELESS MAN",
+      "gender": "NA",
+      "line": "God bless you.",
+      "wordCount": 3
+    },
+    {
+      "id": 723,
+      "index": 723,
+      "character": "SETH",
+      "gender": "Male",
+      "line": "Fuck you.",
+      "wordCount": 2
+    },
+    {
+      "id": 724,
+      "index": 724,
+      "character": "HOMELESS MAN",
+      "gender": "NA",
+      "line": "Fifty cents is all I ask. Vietnam, man.",
+      "wordCount": 8
+    },
+    {
+      "id": 725,
+      "index": 725,
+      "character": "CAMMERON",
+      "gender": "NA",
+      "line": "Really? So you've had what? Thirty years to get your shit together?",
+      "wordCount": 12
+    },
+    {
+      "id": 726,
+      "index": 726,
+      "character": "HOMELESS MAN",
+      "gender": "NA",
+      "line": "All I want is something to eat.",
+      "wordCount": 7
+    },
+    {
+      "id": 727,
+      "index": 727,
+      "character": "CAMMERON",
+      "gender": "NA",
+      "line": "There are plenty of fuckin' dishwashing jobs out there, Vietnam boy. Go get yourself one.",
+      "wordCount": 15
+    },
+    {
+      "id": 728,
+      "index": 728,
+      "character": "HOMELESS MAN",
+      "gender": "NA",
+      "line": "Did I do something?",
+      "wordCount": 4
+    },
+    {
+      "id": 729,
+      "index": 729,
+      "character": "CAMMERON",
+      "gender": "NA",
+      "line": "You're a disgrace to the white race. If Adolf Hitler was alive...God bless his soul...he would have you shot.",
+      "wordCount": 19
+    },
+    {
+      "id": 730,
+      "index": 730,
+      "character": "HOMELESS MAN",
+      "gender": "NA",
+      "line": "Fuck you then. Now and forever. Fuck you.",
+      "wordCount": 8
+    },
+    {
+      "id": 731,
+      "index": 731,
+      "character": "CAMMERON",
+      "gender": "NA",
+      "line": "Noooo. Fuck you.",
+      "wordCount": 3
+    },
+    {
+      "id": 732,
+      "index": 732,
+      "character": "CAMMERON",
+      "gender": "NA",
+      "line": "I think I need to go to the hospital.",
+      "wordCount": 9
+    },
+    {
+      "id": 733,
+      "index": 733,
+      "character": "SETH",
+      "gender": "Male",
+      "line": "Seriously?",
+      "wordCount": 1
+    },
+    {
+      "id": 734,
+      "index": 734,
+      "character": "CAMMERON",
+      "gender": "NA",
+      "line": "I don't know. I think so.",
+      "wordCount": 6
+    },
+    {
+      "id": 735,
+      "index": 735,
+      "character": "SETH",
+      "gender": "Male",
+      "line": "Where's Stacey?",
+      "wordCount": 2
+    },
+    {
+      "id": 736,
+      "index": 736,
+      "character": "CAMMERON",
+      "gender": "NA",
+      "line": "Who gives a fuck?",
+      "wordCount": 4
+    },
+    {
+      "id": 737,
+      "index": 737,
+      "character": "SETH",
+      "gender": "Male",
+      "line": "Derek's a fuckin' traitor pussy.",
+      "wordCount": 5
+    },
+    {
+      "id": 738,
+      "index": 738,
+      "character": "CAMMERON",
+      "gender": "NA",
+      "line": "Well...we might be pussies too if we got treated the way he did.",
+      "wordCount": 13
+    },
+    {
+      "id": 739,
+      "index": 739,
+      "character": "SETH",
+      "gender": "Male",
+      "line": "What do you mean?",
+      "wordCount": 4
+    },
+    {
+      "id": 740,
+      "index": 740,
+      "character": "CAMMERON",
+      "gender": "NA",
+      "line": "Stevie McCormick called...old school Venice bro. He's at Chino...doin' life. He hated Derek. Said he was a fucking blow-up doll in there.",
+      "wordCount": 22
+    },
+    {
+      "id": 741,
+      "index": 741,
+      "character": "SETH",
+      "gender": "Male",
+      "line": "Fucking A.",
+      "wordCount": 2
+    },
+    {
+      "id": 742,
+      "index": 742,
+      "character": "CAMMERON",
+      "gender": "NA",
+      "line": "Oh Christ. You gotta be kidding me?",
+      "wordCount": 7
+    },
+    {
+      "id": 743,
+      "index": 743,
+      "character": "CAMMERON",
+      "gender": "NA",
+      "line": "Is there anything sacred in this country anymore? Jesus Christ. Hey. Stop feeding your face for a second and look behind you.",
+      "wordCount": 22
+    },
+    {
+      "id": 744,
+      "index": 744,
+      "character": "CAMMERON",
+      "gender": "NA",
+      "line": "Can we help you with something? Do you have any questions about the menu?",
+      "wordCount": 14
+    },
+    {
+      "id": 745,
+      "index": 745,
+      "character": "BLACK MAN",
+      "gender": "NA",
+      "line": "No questions.",
+      "wordCount": 2
+    },
+    {
+      "id": 746,
+      "index": 746,
+      "character": "CAMMERON",
+      "gender": "NA",
+      "line": "I recommend either the \"Big Ben Burger\" or the \"Chicken Taco Special.\" Ben'll replace the dark meat with the white meat if you ask nicely.",
+      "wordCount": 25
+    },
+    {
+      "id": 747,
+      "index": 747,
+      "character": "BLACK MAN",
+      "gender": "NA",
+      "line": "What's your problem, pal?",
+      "wordCount": 4
+    },
+    {
+      "id": 748,
+      "index": 748,
+      "character": "CAMMERON",
+      "gender": "NA",
+      "line": "I ain't your fucking pal first of all. Secondly...I don't have problems. People who luck with me have problems.",
+      "wordCount": 19
+    },
+    {
+      "id": 749,
+      "index": 749,
+      "character": "WHITE GIRL",
+      "gender": "NA",
+      "line": "Come on. Let's get out of here.",
+      "wordCount": 7
+    },
+    {
+      "id": 750,
+      "index": 750,
+      "character": "CAMMERON",
+      "gender": "NA",
+      "line": "Hey! What a great idea! You got a clever little whatever it is there. I'd listen to it if I were you.",
+      "wordCount": 22
+    },
+    {
+      "id": 751,
+      "index": 751,
+      "character": "BLACK MAN",
+      "gender": "NA",
+      "line": "You're not me.",
+      "wordCount": 3
+    },
+    {
+      "id": 752,
+      "index": 752,
+      "character": "CAMHERON",
+      "gender": "NA",
+      "line": "And I thank God Almighty every day for that, believe me.",
+      "wordCount": 11
+    },
+    {
+      "id": 753,
+      "index": 753,
+      "character": "SETH",
+      "gender": "Male",
+      "line": "Excuse me? Tyrone?",
+      "wordCount": 3
+    },
+    {
+      "id": 754,
+      "index": 754,
+      "character": "BLACK MAN",
+      "gender": "NA",
+      "line": "My name's not Tyrone either.",
+      "wordCount": 5
+    },
+    {
+      "id": 755,
+      "index": 755,
+      "character": "SETH",
+      "gender": "Male",
+      "line": "Whatever. Why can't you stick to your own race?",
+      "wordCount": 9
+    },
+    {
+      "id": 756,
+      "index": 756,
+      "character": "WHITE GIRL",
+      "gender": "NA",
+      "line": "Jesus Christ! Where do you assholes come from?!",
+      "wordCount": 8
+    },
+    {
+      "id": 757,
+      "index": 757,
+      "character": "CAMMERON",
+      "gender": "NA",
+      "line": "What the luck difference does it make where we come from, bitch? I'm from a place called America. A place that used to be a nice place to live before it became fuckin' Africa-America.",
+      "wordCount": 34
+    },
+    {
+      "id": 758,
+      "index": 758,
+      "character": "BLACK MAN",
+      "gender": "NA",
+      "line": "You ignorant mother--",
+      "wordCount": 3
+    },
+    {
+      "id": 759,
+      "index": 759,
+      "character": "SETH",
+      "gender": "Male",
+      "line": "You got a fuckin' death wish, asshole? Do you? Make your move now if you do. If you don't...get the luck out of my sight. Cause I'm real close to shoving my piece up your girlfriend's stinky pussy.",
+      "wordCount": 38
+    },
+    {
+      "id": 760,
+      "index": 760,
+      "character": "CAMMERON",
+      "gender": "NA",
+      "line": "Everything's hunky dory, Ben! No problemo. Only us white folk.",
+      "wordCount": 10
+    },
+    {
+      "id": 761,
+      "index": 761,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "Did you \"save\" it?",
+      "wordCount": 4
+    },
+    {
+      "id": 762,
+      "index": 762,
+      "character": "CAMMERON",
+      "gender": "NA",
+      "line": "It wouldn't irritate me so much if the ratio was a little more even.",
+      "wordCount": 14
+    },
+    {
+      "id": 763,
+      "index": 763,
+      "character": "SETH",
+      "gender": "Male",
+      "line": "What's that?",
+      "wordCount": 2
+    },
+    {
+      "id": 764,
+      "index": 764,
+      "character": "CAMMERON",
+      "gender": "NA",
+      "line": "Ebony and Ivory back there! Almost all of those orange kid relationships are black man and white women and I'm fucking sick of seein' it! I wouldn't mind so much if it were more even.",
+      "wordCount": 35
+    },
+    {
+      "id": 765,
+      "index": 765,
+      "character": "SETH",
+      "gender": "Male",
+      "line": "Huge dicks, Cam. That's all it is.",
+      "wordCount": 7
+    },
+    {
+      "id": 766,
+      "index": 766,
+      "character": "CAMMERON",
+      "gender": "NA",
+      "line": "I used to think that too but...it's gotta be more, man. It has to be more than the fact they they carry a big load. Chicks aren't that shallow, are they? It's politically correct... that's what it is. White women...bein' seen with the coloreds...it's great for their image. Bitches today want to be known as bein' fuckin' color blind.",
+      "wordCount": 59
+    },
+    {
+      "id": 767,
+      "index": 767,
+      "character": "SETH",
+      "gender": "Male",
+      "line": "They get off on it.",
+      "wordCount": 5
+    },
+    {
+      "id": 768,
+      "index": 768,
+      "character": "CAMMERON",
+      "gender": "NA",
+      "line": "And you can't really blame Tyrone.",
+      "wordCount": 6
+    },
+    {
+      "id": 769,
+      "index": 769,
+      "character": "SETH",
+      "gender": "Male",
+      "line": "Why the fuck not?",
+      "wordCount": 4
+    },
+    {
+      "id": 770,
+      "index": 770,
+      "character": "CAMMERON",
+      "gender": "NA",
+      "line": "Well...how'd you like to drag around some fat fly girl? I wouldn't.",
+      "wordCount": 12
+    },
+    {
+      "id": 771,
+      "index": 771,
+      "character": "SETH",
+      "gender": "Male",
+      "line": "No shit. Oh go girlfriend! Don't be puttin' up wid dat, girl! Oh stop girl!",
+      "wordCount": 15
+    },
+    {
+      "id": 772,
+      "index": 772,
+      "character": "LITTLE HENRY",
+      "gender": "Male",
+      "line": "You gonna waste 'em?",
+      "wordCount": 4
+    },
+    {
+      "id": 773,
+      "index": 773,
+      "character": "JEROME",
+      "gender": "NA",
+      "line": "Only if we have to.",
+      "wordCount": 5
+    },
+    {
+      "id": 774,
+      "index": 774,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "I'm printing it up and we're out of here.",
+      "wordCount": 9
+    },
+    {
+      "id": 775,
+      "index": 775,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "Hurry up.",
+      "wordCount": 2
+    },
+    {
+      "id": 776,
+      "index": 776,
+      "character": "DORIS",
+      "gender": "Female",
+      "line": "Wow. What happened?",
+      "wordCount": 3
+    },
+    {
+      "id": 777,
+      "index": 777,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "I gotta see my parole officer.",
+      "wordCount": 6
+    },
+    {
+      "id": 778,
+      "index": 778,
+      "character": "DAVINA",
+      "gender": "Female",
+      "line": "Hey Der? Do you have Excel on disk?",
+      "wordCount": 8
+    },
+    {
+      "id": 779,
+      "index": 779,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "I've got everything on disk.",
+      "wordCount": 5
+    },
+    {
+      "id": 780,
+      "index": 780,
+      "character": "DORIS",
+      "gender": "Female",
+      "line": "You look good.",
+      "wordCount": 3
+    },
+    {
+      "id": 781,
+      "index": 781,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "We're getting out of here soon. Is that okay with you?",
+      "wordCount": 11
+    },
+    {
+      "id": 782,
+      "index": 782,
+      "character": "DORIS",
+      "gender": "Female",
+      "line": "I'd love it. Do you think I should color my hair?",
+      "wordCount": 11
+    },
+    {
+      "id": 783,
+      "index": 783,
+      "character": "DORIS",
+      "gender": "Female",
+      "line": "I'm glad you made it back. I wasn't too sure I was going to see you again. You know how I get.",
+      "wordCount": 22
+    },
+    {
+      "id": 784,
+      "index": 784,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "You think you'll be able to forgive me? Someday maybe?",
+      "wordCount": 10
+    },
+    {
+      "id": 785,
+      "index": 785,
+      "character": "DORIS",
+      "gender": "Female",
+      "line": "You're my son. Of course I will.",
+      "wordCount": 7
+    },
+    {
+      "id": 786,
+      "index": 786,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "Look at me. I'm such a pussy.",
+      "wordCount": 7
+    },
+    {
+      "id": 787,
+      "index": 787,
+      "character": "DORIS",
+      "gender": "Female",
+      "line": "No you're not.",
+      "wordCount": 3
+    },
+    {
+      "id": 788,
+      "index": 788,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "What do you want?",
+      "wordCount": 4
+    },
+    {
+      "id": 789,
+      "index": 789,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "Maple bar and a...large milk.",
+      "wordCount": 5
+    },
+    {
+      "id": 790,
+      "index": 790,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "You look pretty.",
+      "wordCount": 3
+    },
+    {
+      "id": 791,
+      "index": 791,
+      "character": "TISHA",
+      "gender": "NA",
+      "line": "Thank you.",
+      "wordCount": 2
+    },
+    {
+      "id": 792,
+      "index": 792,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "How do I look?",
+      "wordCount": 4
+    },
+    {
+      "id": 793,
+      "index": 793,
+      "character": "BLACK GIRL",
+      "gender": "NA",
+      "line": "Fine.",
+      "wordCount": 1
+    },
+    {
+      "id": 794,
+      "index": 794,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "What's your name?",
+      "wordCount": 3
+    },
+    {
+      "id": 795,
+      "index": 795,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "How old are you, Tisha?",
+      "wordCount": 5
+    },
+    {
+      "id": 796,
+      "index": 796,
+      "character": "BLACK MOTHER",
+      "gender": "NA",
+      "line": "Come here, Tisha.",
+      "wordCount": 3
+    },
+    {
+      "id": 797,
+      "index": 797,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "What's goin' on?",
+      "wordCount": 3
+    },
+    {
+      "id": 798,
+      "index": 798,
+      "character": "SWEENEY",
+      "gender": "Male",
+      "line": "We need to talk, Derek.",
+      "wordCount": 5
+    },
+    {
+      "id": 799,
+      "index": 799,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "How'd you find out I was here?",
+      "wordCount": 7
+    },
+    {
+      "id": 800,
+      "index": 800,
+      "character": "SWEENEY",
+      "gender": "Male",
+      "line": "We were just at your apartment.",
+      "wordCount": 6
+    },
+    {
+      "id": 801,
+      "index": 801,
+      "character": "RASMUSSEN",
+      "gender": "Male",
+      "line": "Cammeron and Seth are in the ICU at St. Johns, Derek. They were jumped in front of Ben's Burgets early this morning.",
+      "wordCount": 22
+    },
+    {
+      "id": 802,
+      "index": 802,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "How bad?",
+      "wordCount": 2
+    },
+    {
+      "id": 803,
+      "index": 803,
+      "character": "RASMUSSEN",
+      "gender": "Male",
+      "line": "They'll live. They must have been looking for somebody else.",
+      "wordCount": 10
+    },
+    {
+      "id": 804,
+      "index": 804,
+      "character": "SWEENEY",
+      "gender": "Male",
+      "line": "Are they coming after you?",
+      "wordCount": 5
+    },
+    {
+      "id": 805,
+      "index": 805,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "Fuckin' A.",
+      "wordCount": 2
+    },
+    {
+      "id": 806,
+      "index": 806,
+      "character": "SWEENEY",
+      "gender": "Male",
+      "line": "I don't know. You might have to talk to your old crew though.",
+      "wordCount": 13
+    },
+    {
+      "id": 807,
+      "index": 807,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "I can't, Sweeney.",
+      "wordCount": 3
+    },
+    {
+      "id": 808,
+      "index": 808,
+      "character": "SWEENEY",
+      "gender": "Male",
+      "line": "Try, Derek. Okay?",
+      "wordCount": 3
+    },
+    {
+      "id": 809,
+      "index": 809,
+      "character": "SWEENEY",
+      "gender": "Male",
+      "line": "Okay? Before it explodes.",
+      "wordCount": 4
+    },
+    {
+      "id": 810,
+      "index": 810,
+      "character": "SWEENEY",
+      "gender": "Male",
+      "line": "And watch your back.",
+      "wordCount": 4
+    },
+    {
+      "id": 811,
+      "index": 811,
+      "character": "SWEENEY",
+      "gender": "Male",
+      "line": "You showing up today?",
+      "wordCount": 4
+    },
+    {
+      "id": 812,
+      "index": 812,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "Hey. Keep your head up, alright? I'm going to take care of this.",
+      "wordCount": 13
+    },
+    {
+      "id": 813,
+      "index": 813,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "How?",
+      "wordCount": 1
+    },
+    {
+      "id": 814,
+      "index": 814,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "I don't know. I'll figure it out though. You gonna be okay?",
+      "wordCount": 12
+    },
+    {
+      "id": 815,
+      "index": 815,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "Yeah.",
+      "wordCount": 1
+    },
+    {
+      "id": 816,
+      "index": 816,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "I gotta turn that paper in.",
+      "wordCount": 6
+    },
+    {
+      "id": 817,
+      "index": 817,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "Hey.",
+      "wordCount": 1
+    },
+    {
+      "id": 818,
+      "index": 818,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "What?",
+      "wordCount": 1
+    },
+    {
+      "id": 819,
+      "index": 819,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "Come here.",
+      "wordCount": 2
+    },
+    {
+      "id": 820,
+      "index": 820,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "I'll see you at home.",
+      "wordCount": 5
+    },
+    {
+      "id": 821,
+      "index": 821,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "Nope.",
+      "wordCount": 1
+    },
+    {
+      "id": 822,
+      "index": 822,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "Jesus Christ. What are you doing, Henry?",
+      "wordCount": 7
+    },
+    {
+      "id": 823,
+      "index": 823,
+      "character": "LITTLE HENRY",
+      "gender": "Male",
+      "line": "What does it look like I'm doin'?",
+      "wordCount": 7
+    },
+    {
+      "id": 824,
+      "index": 824,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "Come on, man, no. You don't want to do this. Come on. Henry?",
+      "wordCount": 13
+    },
+    {
+      "id": 825,
+      "index": 825,
+      "character": "LITTLE HENRY",
+      "gender": "Male",
+      "line": "Danny?",
+      "wordCount": 1
+    },
+    {
+      "id": 826,
+      "index": 826,
+      "character": "LITTLE HENRY",
+      "gender": "Male",
+      "line": "Vinyard? Danny?",
+      "wordCount": 2
+    },
+    {
+      "id": 827,
+      "index": 827,
+      "character": "RASMUSSEN",
+      "gender": "Male",
+      "line": "He won't let go. Will you talk to him?",
+      "wordCount": 9
+    },
+    {
+      "id": 828,
+      "index": 828,
+      "character": "SWEENEY",
+      "gender": "Male",
+      "line": "Derek? You gotta let him go, man. They gotta get him outta here.",
+      "wordCount": 13
+    },
+    {
+      "id": 829,
+      "index": 829,
+      "character": "SWEENEY",
+      "gender": "Male",
+      "line": "Derek! I know what you're thinkin' right now and I want you to forget about it!",
+      "wordCount": 16
+    },
+    {
+      "id": 830,
+      "index": 830,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "How the luck do you know what I'm thinkin', Sweeney!?",
+      "wordCount": 10
+    },
+    {
+      "id": 831,
+      "index": 831,
+      "character": "SWEENEY",
+      "gender": "Male",
+      "line": "Cause I'm thinkin' the same damn thing!",
+      "wordCount": 7
+    },
+    {
+      "id": 832,
+      "index": 832,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "They shot him in a fucking...pisshole!",
+      "wordCount": 6
+    },
+    {
+      "id": 833,
+      "index": 833,
+      "character": "SWEENEY",
+      "gender": "Male",
+      "line": "And goin' after them won't bring him back. Don't do it, Derek. Please, man. You've come too far. The war is over.",
+      "wordCount": 22
+    },
+    {
+      "id": 834,
+      "index": 834,
+      "character": "DEREK",
+      "gender": "Male",
+      "line": "It stops now, Sweeney.",
+      "wordCount": 4
+    },
+    {
+      "id": 835,
+      "index": 835,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "We've heard it a million times, a Bible quote become cliche: \"Vengeance is mine, sayeth the Lord.\"",
+      "wordCount": 17
+    },
+    {
+      "id": 836,
+      "index": 836,
+      "character": "DANNY",
+      "gender": "Male",
+      "line": "Vengeance brought about by hate...and fear. When it points its head in our direction, we take notice and everything changes. The way we choose our friends, the way we protect our families, the way we create enemies out of strangers. Welcome to America.",
+      "wordCount": 43
+    },
+    {
+      "id": 837,
+      "index": 837,
+      "character": "",
+      "gender": "Male"
+    }
+  ]
+}

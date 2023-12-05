@@ -1,0 +1,7100 @@
+{
+  "fileName": "Rocky_dialogue.txt",
+  "title": "Rocky",
+  "data": [
+    {
+      "id": 0,
+      "index": 0,
+      "character": "BLACK FIGHTER",
+      "gender": "NA",
+      "line": "... I'm gonna bust his head wide open!",
+      "wordCount": 8
+    },
+    {
+      "id": 1,
+      "index": 1,
+      "character": "CORNERMAN",
+      "gender": "NA",
+      "line": "... Ya waltzin' -- Give the suckers some action.",
+      "wordCount": 9
+    },
+    {
+      "id": 2,
+      "index": 2,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Hey --",
+      "wordCount": 2
+    },
+    {
+      "id": 3,
+      "index": 3,
+      "character": "CORNERMAN",
+      "gender": "NA",
+      "line": "Ya movin' like a bum -- Want some advice --",
+      "wordCount": 10
+    },
+    {
+      "id": 4,
+      "index": 4,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "... Just gimme the water.",
+      "wordCount": 5
+    },
+    {
+      "id": 5,
+      "index": 5,
+      "character": "FAN",
+      "gender": "NA",
+      "line": "Should I bet the fight don't go the distance -- Ya feel strong?",
+      "wordCount": 13
+    },
+    {
+      "id": 6,
+      "index": 6,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Absolutely.",
+      "wordCount": 1
+    },
+    {
+      "id": 7,
+      "index": 7,
+      "character": "CORNERMAN",
+      "gender": "NA",
+      "line": "... Ya want some good advice?",
+      "wordCount": 6
+    },
+    {
+      "id": 8,
+      "index": 8,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "... I just want the mouthpiece.",
+      "wordCount": 6
+    },
+    {
+      "id": 9,
+      "index": 9,
+      "character": "ANNOUNCER",
+      "gender": "Male",
+      "line": "Winner, Rocky Balboa -- Next a six rounder between local lightweights.",
+      "wordCount": 11
+    },
+    {
+      "id": 10,
+      "index": 10,
+      "character": "PROMOTER",
+      "gender": "NA",
+      "line": "...Balboa!?",
+      "wordCount": 1
+    },
+    {
+      "id": 11,
+      "index": 11,
+      "character": "PROMOTER",
+      "gender": "NA",
+      "line": "... Twenty bucks for the locker an' cornerman -- Two bucks for the towel an' shower, seven for tax -- The house owes ya, sixty-one dollars.",
+      "wordCount": 26
+    },
+    {
+      "id": 12,
+      "index": 12,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "I'm a fighter.",
+      "wordCount": 3
+    },
+    {
+      "id": 13,
+      "index": 13,
+      "character": "WOMAN",
+      "gender": "NA",
+      "line": "... Yo' iz an accident.",
+      "wordCount": 5
+    },
+    {
+      "id": 14,
+      "index": 14,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "...Look who's home.",
+      "wordCount": 3
+    },
+    {
+      "id": 15,
+      "index": 15,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Real good.",
+      "wordCount": 2
+    },
+    {
+      "id": 16,
+      "index": 16,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Yeah, here an' there.",
+      "wordCount": 4
+    },
+    {
+      "id": 17,
+      "index": 17,
+      "character": "FATS",
+      "gender": "NA",
+      "line": "Don't hit the face! Not the face!!",
+      "wordCount": 7
+    },
+    {
+      "id": 18,
+      "index": 18,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Mr. Gazzo wants the two hundred now!",
+      "wordCount": 7
+    },
+    {
+      "id": 19,
+      "index": 19,
+      "character": "FATS",
+      "gender": "NA",
+      "line": "Honest to God I'm broke -- Gimme a break.",
+      "wordCount": 9
+    },
+    {
+      "id": 20,
+      "index": 20,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Mr. Gazzo says I should get two hundred or break the thumb.",
+      "wordCount": 12
+    },
+    {
+      "id": 21,
+      "index": 21,
+      "character": "FATS",
+      "gender": "NA",
+      "line": "Please, I need my hands to work -- Christ, don't bust my thumbs.",
+      "wordCount": 13
+    },
+    {
+      "id": 22,
+      "index": 22,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Goin' fishin'?",
+      "wordCount": 2
+    },
+    {
+      "id": 23,
+      "index": 23,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "What's ya name again?",
+      "wordCount": 4
+    },
+    {
+      "id": 24,
+      "index": 24,
+      "character": "FATS",
+      "gender": "NA",
+      "line": "Bob.",
+      "wordCount": 1
+    },
+    {
+      "id": 25,
+      "index": 25,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Look, Bob, if ya wanna dance, ya gotta pay the band -- If ya borrow, ya gotta pay the man... Me, I ain't emotionally involved.",
+      "wordCount": 25
+    },
+    {
+      "id": 26,
+      "index": 26,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "A hundred an' thirty.",
+      "wordCount": 4
+    },
+    {
+      "id": 27,
+      "index": 27,
+      "character": "FATS",
+      "gender": "NA",
+      "line": "That's it, I'm broke.",
+      "wordCount": 4
+    },
+    {
+      "id": 28,
+      "index": 28,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "That's it? -- Completely?",
+      "wordCount": 4
+    },
+    {
+      "id": 29,
+      "index": 29,
+      "character": "FATS",
+      "gender": "NA",
+      "line": "That's it.",
+      "wordCount": 2
+    },
+    {
+      "id": 30,
+      "index": 30,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "What about for food an' stuff?",
+      "wordCount": 6
+    },
+    {
+      "id": 31,
+      "index": 31,
+      "character": "FATS",
+      "gender": "NA",
+      "line": "You have my food in ya hand.",
+      "wordCount": 7
+    },
+    {
+      "id": 32,
+      "index": 32,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "... The juice is climbin' every week.",
+      "wordCount": 7
+    },
+    {
+      "id": 33,
+      "index": 33,
+      "character": "FATS",
+      "gender": "NA",
+      "line": "I know the juice is climbin' -- I been workin' six months just to pay the damn interest.",
+      "wordCount": 18
+    },
+    {
+      "id": 34,
+      "index": 34,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Ya still light seventy.",
+      "wordCount": 4
+    },
+    {
+      "id": 35,
+      "index": 35,
+      "character": "FATS",
+      "gender": "NA",
+      "line": "Waits! -- Be smart. Ya don't have to break nothin' -- Here, take my coat, it's worth fifty-sixty dollars. It's yours.",
+      "wordCount": 21
+    },
+    {
+      "id": 36,
+      "index": 36,
+      "character": "FATS",
+      "gender": "NA",
+      "line": "See, ya a smart guy, Gazzo's don't have to know nuthin'. I'll go tape up the hand like ya broke my thumb. Gazzo won't be wise to nothin' -- Be a smart guy, keep the coat, we'll fake like ya broke the hand.",
+      "wordCount": 43
+    },
+    {
+      "id": 37,
+      "index": 37,
+      "character": "FATS",
+      "gender": "NA",
+      "line": "No - no - no - Please - Please - Please don't...",
+      "wordCount": 12
+    },
+    {
+      "id": 38,
+      "index": 38,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "...That's what coulda happened.",
+      "wordCount": 4
+    },
+    {
+      "id": 39,
+      "index": 39,
+      "character": "ADRIAN",
+      "gender": "Female",
+      "line": "... Could you take the puppy out --",
+      "wordCount": 8
+    },
+    {
+      "id": 40,
+      "index": 40,
+      "character": "CUSTOMER",
+      "gender": "NA",
+      "line": "It can breathe.",
+      "wordCount": 3
+    },
+    {
+      "id": 41,
+      "index": 41,
+      "character": "ADRIAN",
+      "gender": "Female",
+      "line": "Please -",
+      "wordCount": 2
+    },
+    {
+      "id": 42,
+      "index": 42,
+      "character": "CUSTOMER",
+      "gender": "NA",
+      "line": "Please, nothin' - I paid for this dog and can do whatever I want with it - I can throw it through the window if I want - Now give me my two dollars back before I do throw it through the window.",
+      "wordCount": 43
+    },
+    {
+      "id": 43,
+      "index": 43,
+      "character": "CUSTOMER",
+      "gender": "NA",
+      "line": "Get away from me - Give me that!",
+      "wordCount": 8
+    },
+    {
+      "id": 44,
+      "index": 44,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "... How's the turtle food this week?",
+      "wordCount": 7
+    },
+    {
+      "id": 45,
+      "index": 45,
+      "character": "ADRIAN",
+      "gender": "Female",
+      "line": "... Fine.",
+      "wordCount": 2
+    },
+    {
+      "id": 46,
+      "index": 46,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Me, I'm kinda aggravated.",
+      "wordCount": 4
+    },
+    {
+      "id": 47,
+      "index": 47,
+      "character": "ADRIAN",
+      "gender": "Female",
+      "line": "... I'm sorry.",
+      "wordCount": 3
+    },
+    {
+      "id": 48,
+      "index": 48,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Ain't your fault - Here's the problem.",
+      "wordCount": 7
+    },
+    {
+      "id": 49,
+      "index": 49,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "The last food I got here had more moths than flies -- An' the moths get caught in my turtle's throat -- That makes them cough --",
+      "wordCount": 27
+    },
+    {
+      "id": 50,
+      "index": 50,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Yo, Gloria -- I was talkin' about the turtle food -- Like I was sayin', the moths get caught in the turtle's throat an' makes 'em cough... A little cough an' I gotta smack 'em on the shell -- An' whatta think they get?",
+      "wordCount": 44
+    },
+    {
+      "id": 51,
+      "index": 51,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "I smack 'em hard on the shell an' they get... What?",
+      "wordCount": 11
+    },
+    {
+      "id": 52,
+      "index": 52,
+      "character": "ADRIAN",
+      "gender": "Female",
+      "line": "... I don't know.",
+      "wordCount": 4
+    },
+    {
+      "id": 53,
+      "index": 53,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Shell-shocked!",
+      "wordCount": 1
+    },
+    {
+      "id": 54,
+      "index": 54,
+      "character": "OWNER",
+      "gender": "NA",
+      "line": "Startin' with the bad jokes early today, huh.",
+      "wordCount": 8
+    },
+    {
+      "id": 55,
+      "index": 55,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Inventin' jokes ain't easy.",
+      "wordCount": 4
+    },
+    {
+      "id": 56,
+      "index": 56,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "How's Butkus this mornin'?",
+      "wordCount": 4
+    },
+    {
+      "id": 57,
+      "index": 57,
+      "character": "OWNER",
+      "gender": "NA",
+      "line": "Ain't had time to check 'em.",
+      "wordCount": 6
+    },
+    {
+      "id": 58,
+      "index": 58,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Yo, Butkus -- Dead. Play dead.",
+      "wordCount": 6
+    },
+    {
+      "id": 59,
+      "index": 59,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "...What kinda dog is this again?",
+      "wordCount": 6
+    },
+    {
+      "id": 60,
+      "index": 60,
+      "character": "OWNER",
+      "gender": "NA",
+      "line": "Bullmastiff.",
+      "wordCount": 1
+    },
+    {
+      "id": 61,
+      "index": 61,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "The owner was suppose to pick him up three weeks ago.",
+      "wordCount": 11
+    },
+    {
+      "id": 62,
+      "index": 62,
+      "character": "OWNER",
+      "gender": "NA",
+      "line": "We're not responsible for animals left over thirty days - We board it ain't a animal shelter, Y'know. ...Adrian, I want you to clean all those cat cages downstairs, they're a mess.",
+      "wordCount": 32
+    },
+    {
+      "id": 63,
+      "index": 63,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "He only had a hundred an' thirty. -- I think he's good for the rest next week, Mr. Gazzo.",
+      "wordCount": 19
+    },
+    {
+      "id": 64,
+      "index": 64,
+      "character": "GAZZO",
+      "gender": "Male",
+      "line": "Sure, Rocky, Bob's good for it...",
+      "wordCount": 6
+    },
+    {
+      "id": 65,
+      "index": 65,
+      "character": "GAZZO",
+      "gender": "Male",
+      "line": "Tomorrow collect from Del Rio -- He's late three weeks. How'd you do last night?",
+      "wordCount": 15
+    },
+    {
+      "id": 66,
+      "index": 66,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "... Fine.",
+      "wordCount": 2
+    },
+    {
+      "id": 67,
+      "index": 67,
+      "character": "BODYGUARD",
+      "gender": "NA",
+      "line": "Did ya get the license number?",
+      "wordCount": 6
+    },
+    {
+      "id": 68,
+      "index": 68,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Of wa?",
+      "wordCount": 2
+    },
+    {
+      "id": 69,
+      "index": 69,
+      "character": "BODYGUARD",
+      "gender": "NA",
+      "line": "... Of the truck that run over your face.",
+      "wordCount": 9
+    },
+    {
+      "id": 70,
+      "index": 70,
+      "character": "GAZZO",
+      "gender": "Male",
+      "line": "Yo Rock. Did I give you a job this mornin? How come ya didn't break this guy's thumb like I asked ya? When ya don't do what ya are told, it makes me look bad, kid.",
+      "wordCount": 36
+    },
+    {
+      "id": 71,
+      "index": 71,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "I figure if I break the thumb this guy gets thrown outta his job and can't pay nothin no more.",
+      "wordCount": 20
+    },
+    {
+      "id": 72,
+      "index": 72,
+      "character": "GAZZO",
+      "gender": "Male",
+      "line": "It don't matter. It's my reputation. These guys think they can get off light. It's bad for my reputation -- It's bad for business. See ya killer.",
+      "wordCount": 27
+    },
+    {
+      "id": 73,
+      "index": 73,
+      "character": "GAZZO",
+      "gender": "Male",
+      "line": "... The Rock's a good kid.",
+      "wordCount": 6
+    },
+    {
+      "id": 74,
+      "index": 74,
+      "character": "BODYGUARD",
+      "gender": "NA",
+      "line": "... A meatbag.",
+      "wordCount": 3
+    },
+    {
+      "id": 75,
+      "index": 75,
+      "character": "RUDY",
+      "gender": "NA",
+      "line": "...See the fight last night?",
+      "wordCount": 5
+    },
+    {
+      "id": 76,
+      "index": 76,
+      "character": "RUDY",
+      "gender": "NA",
+      "line": "Nah, I was fightin' myself.",
+      "wordCount": 5
+    },
+    {
+      "id": 77,
+      "index": 77,
+      "character": "RUDY",
+      "gender": "NA",
+      "line": "Apollo Creed beat the bum to pieces.",
+      "wordCount": 7
+    },
+    {
+      "id": 78,
+      "index": 78,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "The third -- Shoulda seen it.",
+      "wordCount": 6
+    },
+    {
+      "id": 79,
+      "index": 79,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "How come?",
+      "wordCount": 2
+    },
+    {
+      "id": 80,
+      "index": 80,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "... These ain't my clothes.",
+      "wordCount": 5
+    },
+    {
+      "id": 81,
+      "index": 81,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "... These ain't my pictures.",
+      "wordCount": 5
+    },
+    {
+      "id": 82,
+      "index": 82,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Yo, Mike -- What's happenin' here?",
+      "wordCount": 6
+    },
+    {
+      "id": 83,
+      "index": 83,
+      "character": "MIKE",
+      "gender": "Male",
+      "line": "It ain't your locker no more.",
+      "wordCount": 6
+    },
+    {
+      "id": 84,
+      "index": 84,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Whatta ya talkin' about it ain't my locker no more?",
+      "wordCount": 10
+    },
+    {
+      "id": 85,
+      "index": 85,
+      "character": "MIKE",
+      "gender": "Male",
+      "line": "Listen, I'm with you -- But ya gotta talk to Mickey -- I put ya stuff in the bag over there.",
+      "wordCount": 21
+    },
+    {
+      "id": 86,
+      "index": 86,
+      "character": "FIGHTER",
+      "gender": "NA",
+      "line": "...Hey, Peanut, gimme some soap, Man.",
+      "wordCount": 6
+    },
+    {
+      "id": 87,
+      "index": 87,
+      "character": "MIKE",
+      "gender": "Male",
+      "line": "Hey, Nobody -- Yeah, you, Nobody -- You don't call me Peanut.",
+      "wordCount": 12
+    },
+    {
+      "id": 88,
+      "index": 88,
+      "character": "FIGHTER",
+      "gender": "NA",
+      "line": "Peanut, gimme some soap.",
+      "wordCount": 4
+    },
+    {
+      "id": 89,
+      "index": 89,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "You were ready to bite that guy's face.",
+      "wordCount": 8
+    },
+    {
+      "id": 90,
+      "index": 90,
+      "character": "MIKE",
+      "gender": "Male",
+      "line": "Yeah -- See the fight last night? Apollo Creed beat that English guy bad.",
+      "wordCount": 14
+    },
+    {
+      "id": 91,
+      "index": 91,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Creed's great.",
+      "wordCount": 2
+    },
+    {
+      "id": 92,
+      "index": 92,
+      "character": "MICKEY",
+      "gender": "Male",
+      "line": "I don't care what nobody says, this bum Creed woulda never made it in the Thirties --",
+      "wordCount": 17
+    },
+    {
+      "id": 93,
+      "index": 93,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Hey, how ya feelin', Mickey?",
+      "wordCount": 5
+    },
+    {
+      "id": 94,
+      "index": 94,
+      "character": "MICKEY",
+      "gender": "Male",
+      "line": "... What?",
+      "wordCount": 2
+    },
+    {
+      "id": 95,
+      "index": 95,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "I said, how ya feelin'?",
+      "wordCount": 5
+    },
+    {
+      "id": 96,
+      "index": 96,
+      "character": "MICKEY",
+      "gender": "Male",
+      "line": "Do you see me talkin'? Huh?",
+      "wordCount": 6
+    },
+    {
+      "id": 97,
+      "index": 97,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Yeah.",
+      "wordCount": 1
+    },
+    {
+      "id": 98,
+      "index": 98,
+      "character": "MICKEY",
+      "gender": "Male",
+      "line": "Then stand there an' wait till I'm done -- Creed's good, yeah, he's real fine but I gotta boy, y'know Big Dipper, who's got the stuff it takes to be a champ -- He's mean, quick, an' big -- What more d'ya need? Okay, go to work... Hey -- Yeah -- Whatta ya want?",
+      "wordCount": 54
+    },
+    {
+      "id": 99,
+      "index": 99,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "I was talkin' with ya man, Mike. -- Hey, how come I been put outta my locker?",
+      "wordCount": 17
+    },
+    {
+      "id": 100,
+      "index": 100,
+      "character": "MICKEY",
+      "gender": "Male",
+      "line": "Dipper needed it.",
+      "wordCount": 3
+    },
+    {
+      "id": 101,
+      "index": 101,
+      "character": "MICKEY",
+      "gender": "Male",
+      "line": "Dipper's a climber -- You're a tomato.",
+      "wordCount": 7
+    },
+    {
+      "id": 102,
+      "index": 102,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "... Tomato?",
+      "wordCount": 2
+    },
+    {
+      "id": 103,
+      "index": 103,
+      "character": "MICKEY",
+      "gender": "Male",
+      "line": "Facts is facts. I run a business here -- I'm cleanin' house --",
+      "wordCount": 13
+    },
+    {
+      "id": 104,
+      "index": 104,
+      "character": "MICKEY",
+      "gender": "Male",
+      "line": "How old are ya?",
+      "wordCount": 4
+    },
+    {
+      "id": 105,
+      "index": 105,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "...What?",
+      "wordCount": 1
+    },
+    {
+      "id": 106,
+      "index": 106,
+      "character": "MICKEY",
+      "gender": "Male",
+      "line": "How old?",
+      "wordCount": 2
+    },
+    {
+      "id": 107,
+      "index": 107,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Come July, twenty-five.",
+      "wordCount": 3
+    },
+    {
+      "id": 108,
+      "index": 108,
+      "character": "MICKEY",
+      "gender": "Male",
+      "line": "More like thirty.",
+      "wordCount": 3
+    },
+    {
+      "id": 109,
+      "index": 109,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Twenty-five, thirty -- What's the difference? -- It took me two months to learn the combination of that locker.",
+      "wordCount": 19
+    },
+    {
+      "id": 110,
+      "index": 110,
+      "character": "MICKEY",
+      "gender": "Male",
+      "line": "The legs must be goin'.",
+      "wordCount": 5
+    },
+    {
+      "id": 111,
+      "index": 111,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Yeah, they're goin', -- that's nature... That was my locker for six years.",
+      "wordCount": 13
+    },
+    {
+      "id": 112,
+      "index": 112,
+      "character": "MICKEY",
+      "gender": "Male",
+      "line": "... Did ya fight last night?",
+      "wordCount": 6
+    },
+    {
+      "id": 113,
+      "index": 113,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Yeah --",
+      "wordCount": 2
+    },
+    {
+      "id": 114,
+      "index": 114,
+      "character": "MICKEY",
+      "gender": "Male",
+      "line": "Did ya win?",
+      "wordCount": 3
+    },
+    {
+      "id": 115,
+      "index": 115,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Yeah, Kayo.",
+      "wordCount": 2
+    },
+    {
+      "id": 116,
+      "index": 116,
+      "character": "MICKEY",
+      "gender": "Male",
+      "line": "... Who'd ya fight?",
+      "wordCount": 4
+    },
+    {
+      "id": 117,
+      "index": 117,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Spider Rice.",
+      "wordCount": 2
+    },
+    {
+      "id": 118,
+      "index": 118,
+      "character": "MICKEY",
+      "gender": "Male",
+      "line": "Rice is a bum.",
+      "wordCount": 4
+    },
+    {
+      "id": 119,
+      "index": 119,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "You think everybody I fight is a bum.",
+      "wordCount": 8
+    },
+    {
+      "id": 120,
+      "index": 120,
+      "character": "MICKEY",
+      "gender": "Male",
+      "line": "Ain't they?",
+      "wordCount": 2
+    },
+    {
+      "id": 121,
+      "index": 121,
+      "character": "MICKEY",
+      "gender": "Male",
+      "line": "Ya want the truth -- Ya got heart, but ya fight like an ape -- The only thing special about you is ya never got ya nose broke -- keep ya nose pretty -- what's left of ya brain an' retire.",
+      "wordCount": 41
+    },
+    {
+      "id": 122,
+      "index": 122,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Listen, I'm gonna take a steam -- Did good last night -- Shoulda seen it.",
+      "wordCount": 15
+    },
+    {
+      "id": 123,
+      "index": 123,
+      "character": "MICKEY",
+      "gender": "Male",
+      "line": "Hey, ever think about retirin'?",
+      "wordCount": 5
+    },
+    {
+      "id": 124,
+      "index": 124,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "...No.",
+      "wordCount": 1
+    },
+    {
+      "id": 125,
+      "index": 125,
+      "character": "MICKEY",
+      "gender": "Male",
+      "line": "Think about it.",
+      "wordCount": 3
+    },
+    {
+      "id": 126,
+      "index": 126,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Yeah, sure.",
+      "wordCount": 2
+    },
+    {
+      "id": 127,
+      "index": 127,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "...I think I'm gonna take a steam -- Shoulda seen me fight -- Did good, y'know.",
+      "wordCount": 16
+    },
+    {
+      "id": 128,
+      "index": 128,
+      "character": "MICKEY",
+      "gender": "Male",
+      "line": "Known him since he was fifteen -- A waste of life.",
+      "wordCount": 11
+    },
+    {
+      "id": 129,
+      "index": 129,
+      "character": "DIPPER",
+      "gender": "Male",
+      "line": "... I dig yo' locker, Man.",
+      "wordCount": 6
+    },
+    {
+      "id": 130,
+      "index": 130,
+      "character": "TRAINER",
+      "gender": "NA",
+      "line": "Time, Dipper.",
+      "wordCount": 2
+    },
+    {
+      "id": 131,
+      "index": 131,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "... Wow -- cold! Good night to catch pneumonia.",
+      "wordCount": 9
+    },
+    {
+      "id": 132,
+      "index": 132,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Ah -- I came in here for somethin'... Oh, yeah, would ya like somebody to walk ya home?",
+      "wordCount": 18
+    },
+    {
+      "id": 133,
+      "index": 133,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Hey, how's my buddy doin'? -- Nice dog -- Well, I'll see ya later.",
+      "wordCount": 14
+    },
+    {
+      "id": 134,
+      "index": 134,
+      "character": "ADRIAN",
+      "gender": "Female",
+      "line": "... Goodnight, Rocky.",
+      "wordCount": 3
+    },
+    {
+      "id": 135,
+      "index": 135,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Catch pneumonia out there -- Seen Paulie?",
+      "wordCount": 7
+    },
+    {
+      "id": 136,
+      "index": 136,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Yo, Paulie.",
+      "wordCount": 2
+    },
+    {
+      "id": 137,
+      "index": 137,
+      "character": "PAULIE",
+      "gender": "Male",
+      "line": "Yo, Rocky -- Look at this mirror. I'd like to kill the friggin' moron who broke this mirror.",
+      "wordCount": 18
+    },
+    {
+      "id": 138,
+      "index": 138,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Yo, Paulie.",
+      "wordCount": 2
+    },
+    {
+      "id": 139,
+      "index": 139,
+      "character": "PAULIE",
+      "gender": "Male",
+      "line": "What?",
+      "wordCount": 1
+    },
+    {
+      "id": 140,
+      "index": 140,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Your sister's givin' me the shoulder.",
+      "wordCount": 6
+    },
+    {
+      "id": 141,
+      "index": 141,
+      "character": "PAULIE",
+      "gender": "Male",
+      "line": "Forget her. You could do better than my sister.",
+      "wordCount": 9
+    },
+    {
+      "id": 142,
+      "index": 142,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Every mornin', every night I pass by -- I smile.",
+      "wordCount": 10
+    },
+    {
+      "id": 143,
+      "index": 143,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "I say jokes. Nothin'. She looks at me.",
+      "wordCount": 8
+    },
+    {
+      "id": 144,
+      "index": 144,
+      "character": "PAULIE",
+      "gender": "Male",
+      "line": "Looks, huh?",
+      "wordCount": 2
+    },
+    {
+      "id": 145,
+      "index": 145,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Yeah, like I was a plate of leftovers -- Somethin' wrong with my face -- Whatta I need, a Caddy to connect with ya sister?",
+      "wordCount": 25
+    },
+    {
+      "id": 146,
+      "index": 146,
+      "character": "PAULIE",
+      "gender": "Male",
+      "line": "My sister's a friggin' loser.",
+      "wordCount": 5
+    },
+    {
+      "id": 147,
+      "index": 147,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Hey --",
+      "wordCount": 2
+    },
+    {
+      "id": 148,
+      "index": 148,
+      "character": "PAULIE",
+      "gender": "Male",
+      "line": "Sometimes she gets me so crazy, I'd like to split her head with a razor.",
+      "wordCount": 15
+    },
+    {
+      "id": 149,
+      "index": 149,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Don't get mental, man.",
+      "wordCount": 4
+    },
+    {
+      "id": 150,
+      "index": 150,
+      "character": "PAULIE",
+      "gender": "Male",
+      "line": "Ya caught me in a bad mood.",
+      "wordCount": 7
+    },
+    {
+      "id": 151,
+      "index": 151,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Ya always in a bad mood --",
+      "wordCount": 7
+    },
+    {
+      "id": 152,
+      "index": 152,
+      "character": "PAULIE",
+      "gender": "Male",
+      "line": "... Adrian ain't sharp.",
+      "wordCount": 4
+    },
+    {
+      "id": 153,
+      "index": 153,
+      "character": "PAULIE",
+      "gender": "Male",
+      "line": "She's a loser -- She don't enjoy life -- She reads -- Brainy -- Pushin' thirty friggin' years old! She's gonna die alone if she don't wise up.",
+      "wordCount": 28
+    },
+    {
+      "id": 154,
+      "index": 154,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "I'm thirty myself.",
+      "wordCount": 3
+    },
+    {
+      "id": 155,
+      "index": 155,
+      "character": "PAULIE",
+      "gender": "Male",
+      "line": "An' you're dyin' alone, too.",
+      "wordCount": 5
+    },
+    {
+      "id": 156,
+      "index": 156,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "I don't see no crowd around you, neither.",
+      "wordCount": 8
+    },
+    {
+      "id": 157,
+      "index": 157,
+      "character": "PAULIE",
+      "gender": "Male",
+      "line": "I wanna kill the friggin' moron who broke the mirror.",
+      "wordCount": 10
+    },
+    {
+      "id": 158,
+      "index": 158,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Let's get outta this stink.",
+      "wordCount": 5
+    },
+    {
+      "id": 159,
+      "index": 159,
+      "character": "PAULIE",
+      "gender": "Male",
+      "line": "The girl's dryin' up! She's gotta live a little before her body dries up!! You're a pal, Rock -- How 'bout yo' talk to her? Y'know, it's Thanksgivin' tomorrow.",
+      "wordCount": 29
+    },
+    {
+      "id": 160,
+      "index": 160,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "... Sure.",
+      "wordCount": 2
+    },
+    {
+      "id": 161,
+      "index": 161,
+      "character": "PAULIE",
+      "gender": "Male",
+      "line": "Tomorrow you come for some bird, right?",
+      "wordCount": 7
+    },
+    {
+      "id": 162,
+      "index": 162,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Absolutely...",
+      "wordCount": 1
+    },
+    {
+      "id": 163,
+      "index": 163,
+      "character": "ANDY",
+      "gender": "NA",
+      "line": "That was alotta crap to go through for a dinner invite.",
+      "wordCount": 11
+    },
+    {
+      "id": 164,
+      "index": 164,
+      "character": "COMMENTATOR",
+      "gender": "Female",
+      "line": "How was the flight, Champ?",
+      "wordCount": 5
+    },
+    {
+      "id": 165,
+      "index": 165,
+      "character": "APOLLO",
+      "gender": "Male",
+      "line": "Very high an' very fast.",
+      "wordCount": 5
+    },
+    {
+      "id": 166,
+      "index": 166,
+      "character": "COMMENTATOR",
+      "gender": "Female",
+      "line": "Apollo, how would you rate this last British challenger, Henry Wilcoxson?",
+      "wordCount": 11
+    },
+    {
+      "id": 167,
+      "index": 167,
+      "character": "APOLLO",
+      "gender": "Male",
+      "line": "He was big, an' very nasty so I destroyed him in a hurry -- Now I'm gettin' ready for Mac Lee Green next month.",
+      "wordCount": 24
+    },
+    {
+      "id": 168,
+      "index": 168,
+      "character": "COMMENTATOR",
+      "gender": "Female",
+      "line": "You're referring to the much publicized bicentennial fight?",
+      "wordCount": 8
+    },
+    {
+      "id": 169,
+      "index": 169,
+      "character": "APOLLO",
+      "gender": "Male",
+      "line": "That's right -- It's gonna be the greatest sportin' event in this country's history -- A gala occurrence!",
+      "wordCount": 18
+    },
+    {
+      "id": 170,
+      "index": 170,
+      "character": "COMMENTATOR",
+      "gender": "Female",
+      "line": "Still to be held in Philadelphia?",
+      "wordCount": 6
+    },
+    {
+      "id": 171,
+      "index": 171,
+      "character": "APOLLO",
+      "gender": "Male",
+      "line": "The Bicentennial Heavyweight Championship of the World is gonna be held in the only place it can be held -- Philadelphia! -- the nation's cradle -- January First -- the first major event of our two hundredth year.",
+      "wordCount": 38
+    },
+    {
+      "id": 172,
+      "index": 172,
+      "character": "COMMENTATOR",
+      "gender": "Female",
+      "line": "Where're you off to now?",
+      "wordCount": 5
+    },
+    {
+      "id": 173,
+      "index": 173,
+      "character": "APOLLO",
+      "gender": "Male",
+      "line": "Me an' my wife are goin' home 'cause we miss our children an' can't go no more time without seein' them.",
+      "wordCount": 21
+    },
+    {
+      "id": 174,
+      "index": 174,
+      "character": "COMMENTATOR",
+      "gender": "Female",
+      "line": "Any quick advice for young boxing hopefuls?",
+      "wordCount": 7
+    },
+    {
+      "id": 175,
+      "index": 175,
+      "character": "APOLLO",
+      "gender": "Male",
+      "line": "... Stay in school an' use your brains, dig -- Be a lawyer, be a doctor, carry a leather briefcase an' forget about sports!! Sports can only make ya grunt an' smell -- Be a thinker not a stinker!!",
+      "wordCount": 39
+    },
+    {
+      "id": 176,
+      "index": 176,
+      "character": "COMMENTATOR",
+      "gender": "Female",
+      "line": "Jerry Simpson at Kennedy Airport with the Champion, Apollo Creed.",
+      "wordCount": 10
+    },
+    {
+      "id": 177,
+      "index": 177,
+      "character": "ANDY",
+      "gender": "NA",
+      "line": "Nobody cares what's happenin' in the world of sports nomore -- Downhill. Baseball, downhill -- Basketball, downhill. Football's goin', too. Bank on it. Baseball use to be America's best sport... Sure -- Nuttin' like squattin' through a great double header, but now baseball's all business.",
+      "wordCount": 45
+    },
+    {
+      "id": 178,
+      "index": 178,
+      "character": "ANDY",
+      "gender": "NA",
+      "line": "Where are the real fighters? The pros. Today we jig clowns.",
+      "wordCount": 11
+    },
+    {
+      "id": 179,
+      "index": 179,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Clown.",
+      "wordCount": 1
+    },
+    {
+      "id": 180,
+      "index": 180,
+      "character": "ANDY",
+      "gender": "NA",
+      "line": "Yeah.",
+      "wordCount": 1
+    },
+    {
+      "id": 181,
+      "index": 181,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "He took his best shot an' became champ -- What shot did you ever take?",
+      "wordCount": 15
+    },
+    {
+      "id": 182,
+      "index": 182,
+      "character": "ANDY",
+      "gender": "NA",
+      "line": "Yo, Rock, you ain't happy with yourself? Fine. But me, I gotta business here -- I don't need to take no shot.",
+      "wordCount": 22
+    },
+    {
+      "id": 183,
+      "index": 183,
+      "character": "ANDY",
+      "gender": "NA",
+      "line": "Take a shot, he says! -- Sure, I'll take a shot!",
+      "wordCount": 11
+    },
+    {
+      "id": 184,
+      "index": 184,
+      "character": "CHIPPED TOOTH",
+      "gender": "NA",
+      "line": "Yo, Rocks, buy us sum wine, man.",
+      "wordCount": 7
+    },
+    {
+      "id": 185,
+      "index": 185,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "... No wine -- Bad for ya' brain.",
+      "wordCount": 8
+    },
+    {
+      "id": 186,
+      "index": 186,
+      "character": "CHIPPED TOOTH",
+      "gender": "NA",
+      "line": "C'mon, man, it's cold, man.",
+      "wordCount": 5
+    },
+    {
+      "id": 187,
+      "index": 187,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "No wine.",
+      "wordCount": 2
+    },
+    {
+      "id": 188,
+      "index": 188,
+      "character": "CHIPPED TOOTH",
+      "gender": "NA",
+      "line": "Yo, Rock, gimme a dollar.",
+      "wordCount": 5
+    },
+    {
+      "id": 189,
+      "index": 189,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Why?",
+      "wordCount": 1
+    },
+    {
+      "id": 190,
+      "index": 190,
+      "character": "CHIPPED TOOTH",
+      "gender": "NA",
+      "line": "'Cause we dig ya, man -- Gimme a dollar.",
+      "wordCount": 9
+    },
+    {
+      "id": 191,
+      "index": 191,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "No dollar.",
+      "wordCount": 2
+    },
+    {
+      "id": 192,
+      "index": 192,
+      "character": "CHIPPED TOOTH",
+      "gender": "NA",
+      "line": "Hey, give Rocky a dime.",
+      "wordCount": 5
+    },
+    {
+      "id": 193,
+      "index": 193,
+      "character": "CHIPPED TOOTH",
+      "gender": "NA",
+      "line": "So he can call all his friends.",
+      "wordCount": 7
+    },
+    {
+      "id": 194,
+      "index": 194,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "... That's an old one.",
+      "wordCount": 5
+    },
+    {
+      "id": 195,
+      "index": 195,
+      "character": "CHIPPED TOOTH",
+      "gender": "NA",
+      "line": "Buy us some Thunderbird, man.",
+      "wordCount": 5
+    },
+    {
+      "id": 196,
+      "index": 196,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Is that Marie? -- Marie, ya brother know you're hangin' out so late?",
+      "wordCount": 13
+    },
+    {
+      "id": 197,
+      "index": 197,
+      "character": "MARIE",
+      "gender": "Female",
+      "line": "... Screw you.",
+      "wordCount": 3
+    },
+    {
+      "id": 198,
+      "index": 198,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "What'd you say?",
+      "wordCount": 3
+    },
+    {
+      "id": 199,
+      "index": 199,
+      "character": "MARIE",
+      "gender": "Female",
+      "line": "... Screw you, yoyo.",
+      "wordCount": 4
+    },
+    {
+      "id": 200,
+      "index": 200,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Did these guys teach you to talk dirty? Huh?",
+      "wordCount": 9
+    },
+    {
+      "id": 201,
+      "index": 201,
+      "character": "MARIE",
+      "gender": "Female",
+      "line": "Hey --",
+      "wordCount": 2
+    },
+    {
+      "id": 202,
+      "index": 202,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "What?",
+      "wordCount": 1
+    },
+    {
+      "id": 203,
+      "index": 203,
+      "character": "MARIE",
+      "gender": "Female",
+      "line": "Stuff it, man!",
+      "wordCount": 3
+    },
+    {
+      "id": 204,
+      "index": 204,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Don't you never say that -- -- You guys talk like that in front of a little girl -- You guys are scum.",
+      "wordCount": 23
+    },
+    {
+      "id": 205,
+      "index": 205,
+      "character": "CHIPPED TOOTH",
+      "gender": "NA",
+      "line": "This is our place, dig!",
+      "wordCount": 5
+    },
+    {
+      "id": 206,
+      "index": 206,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Don't ya never come round this girl -- Go home.",
+      "wordCount": 10
+    },
+    {
+      "id": 207,
+      "index": 207,
+      "character": "CHIPPED TOOTH",
+      "gender": "NA",
+      "line": "We'll kill you, man -- We gotta gun.",
+      "wordCount": 8
+    },
+    {
+      "id": 208,
+      "index": 208,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Pull heat on me? -- I'll dent ya face!",
+      "wordCount": 9
+    },
+    {
+      "id": 209,
+      "index": 209,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "How come ya wanna hang out with those guys? They teach ya bad things.",
+      "wordCount": 14
+    },
+    {
+      "id": 210,
+      "index": 210,
+      "character": "MARIE",
+      "gender": "Female",
+      "line": "I like 'em. If you don't you can f--",
+      "wordCount": 9
+    },
+    {
+      "id": 211,
+      "index": 211,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Hey! When I was your age, there was only one girl who talked like that in the whole neighborhood.",
+      "wordCount": 19
+    },
+    {
+      "id": 212,
+      "index": 212,
+      "character": "MARIE",
+      "gender": "Female",
+      "line": "... Yeah.",
+      "wordCount": 2
+    },
+    {
+      "id": 213,
+      "index": 213,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Make your teeth yella --",
+      "wordCount": 5
+    },
+    {
+      "id": 214,
+      "index": 214,
+      "character": "MARIE",
+      "gender": "Female",
+      "line": "I like yella teeth.",
+      "wordCount": 4
+    },
+    {
+      "id": 215,
+      "index": 215,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Makes your breath like garbage.",
+      "wordCount": 5
+    },
+    {
+      "id": 216,
+      "index": 216,
+      "character": "MARIE",
+      "gender": "Female",
+      "line": "Maybe I like garbage.",
+      "wordCount": 4
+    },
+    {
+      "id": 217,
+      "index": 217,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Nobody likes garbage -- Anyway, this girl with the dirty mouth wasn't bad lookin', but the guys wouldn't take her out for any serious datin'.",
+      "wordCount": 25
+    },
+    {
+      "id": 218,
+      "index": 218,
+      "character": "MARIE",
+      "gender": "Female",
+      "line": "Why?",
+      "wordCount": 1
+    },
+    {
+      "id": 219,
+      "index": 219,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "'Cause that's the way guys are -- They laugh when ya talk dirty. They think ya cute for a while, but then ya getta reputation an' watch out.",
+      "wordCount": 28
+    },
+    {
+      "id": 220,
+      "index": 220,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Nobody's ever gonna take ya serious. Ya get no respect... I gotta use a bad word -- Whore. You'll end up maybe becomin' a whore.",
+      "wordCount": 25
+    },
+    {
+      "id": 221,
+      "index": 221,
+      "character": "MARIE",
+      "gender": "Female",
+      "line": "C'mon, Rocky. I'm twelve.",
+      "wordCount": 4
+    },
+    {
+      "id": 222,
+      "index": 222,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "That doesn't matter -- You don't really have to be a whore, just act like one an' that's it.",
+      "wordCount": 19
+    },
+    {
+      "id": 223,
+      "index": 223,
+      "character": "MARIE",
+      "gender": "Female",
+      "line": "What?",
+      "wordCount": 1
+    },
+    {
+      "id": 224,
+      "index": 224,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Yo, a bad reputation -- Twenty years from now people will say 'D'you remember Marie?' 'No, who was she?' 'She was that little whore who hung out at the Atomic Hoagie Shop.' 'Oh, now I remember!'... See, they don't remember you, they remember the rep.",
+      "wordCount": 45
+    },
+    {
+      "id": 225,
+      "index": 225,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "... That's your house, ain't it?",
+      "wordCount": 6
+    },
+    {
+      "id": 226,
+      "index": 226,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Listen, I hope ya don't --",
+      "wordCount": 6
+    },
+    {
+      "id": 227,
+      "index": 227,
+      "character": "MARIE",
+      "gender": "Female",
+      "line": "I won't.",
+      "wordCount": 2
+    },
+    {
+      "id": 228,
+      "index": 228,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "What was I gonna say?",
+      "wordCount": 5
+    },
+    {
+      "id": 229,
+      "index": 229,
+      "character": "MARIE",
+      "gender": "Female",
+      "line": "Ya hope I don't keep acting like a whore or I'll turn into one, right?",
+      "wordCount": 15
+    },
+    {
+      "id": 230,
+      "index": 230,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Ya, somethin' like that.",
+      "wordCount": 4
+    },
+    {
+      "id": 231,
+      "index": 231,
+      "character": "MARIE",
+      "gender": "Female",
+      "line": "Goodnight, Rocky.",
+      "wordCount": 2
+    },
+    {
+      "id": 232,
+      "index": 232,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "'Night, Marie.",
+      "wordCount": 2
+    },
+    {
+      "id": 233,
+      "index": 233,
+      "character": "MARIE",
+      "gender": "Female",
+      "line": "... Fuck you, Creepo!!!",
+      "wordCount": 4
+    },
+    {
+      "id": 234,
+      "index": 234,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "... Yeah, who're you to give advice, Creepo.",
+      "wordCount": 8
+    },
+    {
+      "id": 235,
+      "index": 235,
+      "character": "LAWYER",
+      "gender": "NA",
+      "line": "Are the doctor's reports confirmed?",
+      "wordCount": 5
+    },
+    {
+      "id": 236,
+      "index": 236,
+      "character": "JERGENS",
+      "gender": "Male",
+      "line": "Definitely -- -- It says here, Mac Lee Green has suffered a seriously cracked third metacarpal in his left hand.",
+      "wordCount": 20
+    },
+    {
+      "id": 237,
+      "index": 237,
+      "character": "APOLLO",
+      "gender": "Male",
+      "line": "Damn.",
+      "wordCount": 1
+    },
+    {
+      "id": 238,
+      "index": 238,
+      "character": "JERGENS",
+      "gender": "Male",
+      "line": "I suppose we could cancel the fight indefinitely if you are set on fighting Green.",
+      "wordCount": 15
+    },
+    {
+      "id": 239,
+      "index": 239,
+      "character": "TRAINER",
+      "gender": "NA",
+      "line": "It ain't just Green, what about the time Apollo's invested --",
+      "wordCount": 11
+    },
+    {
+      "id": 240,
+      "index": 240,
+      "character": "JERGENS",
+      "gender": "Male",
+      "line": "I believe we can find a solution.",
+      "wordCount": 7
+    },
+    {
+      "id": 241,
+      "index": 241,
+      "character": "APOLLO",
+      "gender": "Male",
+      "line": "Solution, nothin' -- What about the Bicentennial fight.",
+      "wordCount": 8
+    },
+    {
+      "id": 242,
+      "index": 242,
+      "character": "LAWYER",
+      "gender": "NA",
+      "line": "Jergens, don't play games with my client! Apollo has already done nearly a million dollars worth of publicity --",
+      "wordCount": 19
+    },
+    {
+      "id": 243,
+      "index": 243,
+      "character": "TRAINER",
+      "gender": "NA",
+      "line": "Ten million's worth!",
+      "wordCount": 3
+    },
+    {
+      "id": 244,
+      "index": 244,
+      "character": "LAWYER",
+      "gender": "NA",
+      "line": "-- And has made contractual obligations with over twenty different organizations -- He doesn't want to be embarrassed.",
+      "wordCount": 18
+    },
+    {
+      "id": 245,
+      "index": 245,
+      "character": "APOLLO",
+      "gender": "Male",
+      "line": "You best find me another ranked contender an' I mean in a flash, man!",
+      "wordCount": 14
+    },
+    {
+      "id": 246,
+      "index": 246,
+      "character": "JERGENS",
+      "gender": "Male",
+      "line": "I contacted Ernie Roman's manager, he's fighting in France the same week.",
+      "wordCount": 12
+    },
+    {
+      "id": 247,
+      "index": 247,
+      "character": "APOLLO",
+      "gender": "Male",
+      "line": "Then gimme Buddy Shaw -- He's ranked fifth.",
+      "wordCount": 8
+    },
+    {
+      "id": 248,
+      "index": 248,
+      "character": "JERGENS",
+      "gender": "Male",
+      "line": "Shaw's fighting in South America -- Why not postpone the bout until July Fourth?",
+      "wordCount": 14
+    },
+    {
+      "id": 249,
+      "index": 249,
+      "character": "LAWYER",
+      "gender": "NA",
+      "line": "Hell with Fourth of July, man! Ten thousand things'll be goin' down on the Fourth of July! -- Apollo wants to be first!",
+      "wordCount": 23
+    },
+    {
+      "id": 250,
+      "index": 250,
+      "character": "JERGENS",
+      "gender": "Male",
+      "line": "That may not be possible, Jimmy.",
+      "wordCount": 6
+    },
+    {
+      "id": 251,
+      "index": 251,
+      "character": "TRAINER",
+      "gender": "NA",
+      "line": "This man here is the Star, dig -- Don't cause him to breathe heavy -- Now what 'bout that sucker, Billy Dukes?",
+      "wordCount": 22
+    },
+    {
+      "id": 252,
+      "index": 252,
+      "character": "JERGENS",
+      "gender": "Male",
+      "line": "Went to California and gained fifty pounds -- and I called every worthwhile contender, but they say five weeks isn't enough time to get in shape.",
+      "wordCount": 26
+    },
+    {
+      "id": 253,
+      "index": 253,
+      "character": "APOLLO",
+      "gender": "Male",
+      "line": "Shape, nothin' -- They're afraid. They know everybody in the world's gonna see this fight an' none of them gotta prayer of beating me so they're makin' excuses so they don't have to be the chump that's gonna be whipped in front of the whole civilized world!!",
+      "wordCount": 47
+    },
+    {
+      "id": 254,
+      "index": 254,
+      "character": "JERGENS",
+      "gender": "Male",
+      "line": "Apollo, I'm sure there's a way to salvage this.",
+      "wordCount": 9
+    },
+    {
+      "id": 255,
+      "index": 255,
+      "character": "TRAINER",
+      "gender": "NA",
+      "line": "Nobody wants to be dissected on the country's birthday.",
+      "wordCount": 9
+    },
+    {
+      "id": 256,
+      "index": 256,
+      "character": "JERGENS",
+      "gender": "Male",
+      "line": "All I can counter with is that I'm a goddamn good promoter -- I've promoted in every country in the world -- and I've tried to the best of my abilities. Perhaps you're right, and no one wants to be beat on the country's birthday... I don't know what else to say --",
+      "wordCount": 53
+    },
+    {
+      "id": 257,
+      "index": 257,
+      "character": "APOLLO",
+      "gender": "Male",
+      "line": "I do -- Maybe what this fight needs is something new -- a novelty.",
+      "wordCount": 14
+    },
+    {
+      "id": 258,
+      "index": 258,
+      "character": "TRAINER",
+      "gender": "NA",
+      "line": "You's the novelty, Champ!",
+      "wordCount": 4
+    },
+    {
+      "id": 259,
+      "index": 259,
+      "character": "APOLLO",
+      "gender": "Male",
+      "line": "Give my main man a raise!!",
+      "wordCount": 6
+    },
+    {
+      "id": 260,
+      "index": 260,
+      "character": "APOLLO",
+      "gender": "Male",
+      "line": "Now here's what's goin' down. Listen, 'cause I'm gonna say this but one time. On January first, the first day of the Bicentennial I'm gonna fight me a local poor underdog, dig? A snow-white underdog. An' I'm gonna put his face on this poster with me, hear? An' I'll tell you why, 'cause I'm sentimental -- An' all the people in the country all sentimental, man, an' they'd like nothin' better than me, Apollo Creed, to let some unknown get a shot at the greatest title in the world on this country's biggest birthday. Now that's the way I see it an' that's the way I want it!!",
+      "wordCount": 108
+    },
+    {
+      "id": 261,
+      "index": 261,
+      "character": "JERGENS",
+      "gender": "Male",
+      "line": "... It's very American.",
+      "wordCount": 4
+    },
+    {
+      "id": 262,
+      "index": 262,
+      "character": "APOLLO",
+      "gender": "Male",
+      "line": "No, man, it's very smart.",
+      "wordCount": 5
+    },
+    {
+      "id": 263,
+      "index": 263,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Next Wednesday I grab a grand from Snyder. An' Thursday two yards from Cappoli, okay?",
+      "wordCount": 15
+    },
+    {
+      "id": 264,
+      "index": 264,
+      "character": "GAZZO",
+      "gender": "Male",
+      "line": "No, two yards from Snyder, an' a grand from Cappoli.",
+      "wordCount": 10
+    },
+    {
+      "id": 265,
+      "index": 265,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Ya sure?",
+      "wordCount": 2
+    },
+    {
+      "id": 266,
+      "index": 266,
+      "character": "GAZZO",
+      "gender": "Male",
+      "line": "Hey, screw ya brain on right. Now, who's this girl you're going out with tonight?",
+      "wordCount": 15
+    },
+    {
+      "id": 267,
+      "index": 267,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "How'd you know?",
+      "wordCount": 3
+    },
+    {
+      "id": 268,
+      "index": 268,
+      "character": "GAZZO",
+      "gender": "Male",
+      "line": "You think I don't hear things?",
+      "wordCount": 6
+    },
+    {
+      "id": 269,
+      "index": 269,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Paulie's sister.",
+      "wordCount": 2
+    },
+    {
+      "id": 270,
+      "index": 270,
+      "character": "BODYGUARD",
+      "gender": "NA",
+      "line": "Hear she's retarded.",
+      "wordCount": 3
+    },
+    {
+      "id": 271,
+      "index": 271,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "She ain't retarded, she's shy.",
+      "wordCount": 5
+    },
+    {
+      "id": 272,
+      "index": 272,
+      "character": "BODYGUARD",
+      "gender": "NA",
+      "line": "Take 'er to the zoo -- Retards like the zoo.",
+      "wordCount": 10
+    },
+    {
+      "id": 273,
+      "index": 273,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Does that bum have to say that?",
+      "wordCount": 7
+    },
+    {
+      "id": 274,
+      "index": 274,
+      "character": "GAZZO",
+      "gender": "Male",
+      "line": "Buddy's in a bad mood -- prostate problems.",
+      "wordCount": 8
+    },
+    {
+      "id": 275,
+      "index": 275,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "He's always in a bad mood. Count ya blessin's. Ya a healthy person -- ya legs work -- ya hands work --",
+      "wordCount": 22
+    },
+    {
+      "id": 276,
+      "index": 276,
+      "character": "BODYGUARD",
+      "gender": "NA",
+      "line": "I don't like ya face.",
+      "wordCount": 5
+    },
+    {
+      "id": 277,
+      "index": 277,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Don't like yours neither.",
+      "wordCount": 4
+    },
+    {
+      "id": 278,
+      "index": 278,
+      "character": "BODYGUARD",
+      "gender": "NA",
+      "line": "Kiss my ass.",
+      "wordCount": 3
+    },
+    {
+      "id": 279,
+      "index": 279,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Move your shoulders down.",
+      "wordCount": 4
+    },
+    {
+      "id": 280,
+      "index": 280,
+      "character": "GAZZO",
+      "gender": "Male",
+      "line": "Buddy's got a thing against ya, Rock. Some people just hate for no reason, y'know.",
+      "wordCount": 15
+    },
+    {
+      "id": 281,
+      "index": 281,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Yeah.",
+      "wordCount": 1
+    },
+    {
+      "id": 282,
+      "index": 282,
+      "character": "GAZZO",
+      "gender": "Male",
+      "line": "Here's fifty bucks -- You an' the girl have a nice time.",
+      "wordCount": 12
+    },
+    {
+      "id": 283,
+      "index": 283,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Thanks, Mr. Gazzo.",
+      "wordCount": 3
+    },
+    {
+      "id": 284,
+      "index": 284,
+      "character": "APOLLO",
+      "gender": "Male",
+      "line": "How 'bout this Billy Snow?",
+      "wordCount": 5
+    },
+    {
+      "id": 285,
+      "index": 285,
+      "character": "JERGENS",
+      "gender": "Male",
+      "line": "Fouls.",
+      "wordCount": 1
+    },
+    {
+      "id": 286,
+      "index": 286,
+      "character": "APOLLO",
+      "gender": "Male",
+      "line": "How 'bout this Big Chuck Smith?",
+      "wordCount": 6
+    },
+    {
+      "id": 287,
+      "index": 287,
+      "character": "TRAINER",
+      "gender": "NA",
+      "line": "Too old, dull fighter. Bobby Judge is a good boy.",
+      "wordCount": 10
+    },
+    {
+      "id": 288,
+      "index": 288,
+      "character": "APOLLO",
+      "gender": "Male",
+      "line": "... I don't feel heat from the name.",
+      "wordCount": 8
+    },
+    {
+      "id": 289,
+      "index": 289,
+      "character": "JERGENS",
+      "gender": "Male",
+      "line": "Joe Zack is a good prospect -- Exciting boy.",
+      "wordCount": 9
+    },
+    {
+      "id": 290,
+      "index": 290,
+      "character": "APOLLO",
+      "gender": "Male",
+      "line": "... Still don't feel no heat.",
+      "wordCount": 6
+    },
+    {
+      "id": 291,
+      "index": 291,
+      "character": "JERGENS",
+      "gender": "Male",
+      "line": "Exactly what are you looking for, Apollo?",
+      "wordCount": 7
+    },
+    {
+      "id": 292,
+      "index": 292,
+      "character": "APOLLO",
+      "gender": "Male",
+      "line": "... This man.",
+      "wordCount": 3
+    },
+    {
+      "id": 293,
+      "index": 293,
+      "character": "APOLLO",
+      "gender": "Male",
+      "line": "'The Italian Stallion' -- He's my man.",
+      "wordCount": 7
+    },
+    {
+      "id": 294,
+      "index": 294,
+      "character": "JERGENS",
+      "gender": "Male",
+      "line": "Rocky Balboa -- His record's poor --",
+      "wordCount": 7
+    },
+    {
+      "id": 295,
+      "index": 295,
+      "character": "APOLLO",
+      "gender": "Male",
+      "line": "Don't matter -- That name. 'The Italian Stallion,' it's right on. Who discovered America? An Italian, right? So, man, what could be better than to get it on with one of his ancestors --",
+      "wordCount": 34
+    },
+    {
+      "id": 296,
+      "index": 296,
+      "character": "TRAINER",
+      "gender": "NA",
+      "line": "He won't last one round.",
+      "wordCount": 5
+    },
+    {
+      "id": 297,
+      "index": 297,
+      "character": "APOLLO",
+      "gender": "Male",
+      "line": "Listen, I gonna carry this boy three rounds, then drop 'im like a bad habit.",
+      "wordCount": 15
+    },
+    {
+      "id": 298,
+      "index": 298,
+      "character": "TRAINER",
+      "gender": "NA",
+      "line": "I don't like you messin' with southpaws -- They do everything wrong.",
+      "wordCount": 12
+    },
+    {
+      "id": 299,
+      "index": 299,
+      "character": "APOLLO",
+      "gender": "Male",
+      "line": "Southpaw, nuthin' -- I'll drop 'im in three -- 'Apollo Creed meets the Italian Stallion.' Shhiii -- Sounds like a damn monster movie!!",
+      "wordCount": 23
+    },
+    {
+      "id": 300,
+      "index": 300,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "I usta be deadly at half-ball.",
+      "wordCount": 6
+    },
+    {
+      "id": 301,
+      "index": 301,
+      "character": "PAULIE",
+      "gender": "Male",
+      "line": "I hate the friggin' game... I'd like to talk some business.",
+      "wordCount": 11
+    },
+    {
+      "id": 302,
+      "index": 302,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "What kinda business?",
+      "wordCount": 3
+    },
+    {
+      "id": 303,
+      "index": 303,
+      "character": "PAULIE",
+      "gender": "Male",
+      "line": "Look at my hands -- See how the joints are swollen.",
+      "wordCount": 11
+    },
+    {
+      "id": 304,
+      "index": 304,
+      "character": "PAULIE",
+      "gender": "Male",
+      "line": "Inflamed joints -- Walkin' in an' out of a freezer carryin' meat plays hell on the joints.",
+      "wordCount": 17
+    },
+    {
+      "id": 305,
+      "index": 305,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Maybe ya should see a doctor.",
+      "wordCount": 6
+    },
+    {
+      "id": 306,
+      "index": 306,
+      "character": "PAULIE",
+      "gender": "Male",
+      "line": "I don't need a doctor, I need a different job.",
+      "wordCount": 10
+    },
+    {
+      "id": 307,
+      "index": 307,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Maybe another job is the best thing.",
+      "wordCount": 7
+    },
+    {
+      "id": 308,
+      "index": 308,
+      "character": "PAULIE",
+      "gender": "Male",
+      "line": "Do me a favor -- Talk to Gazzo. Tell him I'm a friend an' would do a good job... Tell him I ain't bothered by nothin' an' would be a great collector... Bustin' bones don't bother me -- Tell him I'm a good worker.",
+      "wordCount": 44
+    },
+    {
+      "id": 309,
+      "index": 309,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Gazzo's gotta come to you.",
+      "wordCount": 5
+    },
+    {
+      "id": 310,
+      "index": 310,
+      "character": "PAULIE",
+      "gender": "Male",
+      "line": "I'm askin' ya to go to him -- As a favor.",
+      "wordCount": 11
+    },
+    {
+      "id": 311,
+      "index": 311,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Gazzo's gotta come to you -- Hey, Paulie, it's a bad job -- Do what you do now.",
+      "wordCount": 18
+    },
+    {
+      "id": 312,
+      "index": 312,
+      "character": "PAULIE",
+      "gender": "Male",
+      "line": "You know her?",
+      "wordCount": 3
+    },
+    {
+      "id": 313,
+      "index": 313,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Ya sister knows I'm comin'?",
+      "wordCount": 5
+    },
+    {
+      "id": 314,
+      "index": 314,
+      "character": "PAULIE",
+      "gender": "Male",
+      "line": "Yeah, sure -- She's very excited.",
+      "wordCount": 6
+    },
+    {
+      "id": 315,
+      "index": 315,
+      "character": "ADRIAN",
+      "gender": "Female",
+      "line": "Paulie, you're late.",
+      "wordCount": 3
+    },
+    {
+      "id": 316,
+      "index": 316,
+      "character": "PAULIE",
+      "gender": "Male",
+      "line": "Did you call the hospital? If I'm ten minutes late, she calls the hospital.",
+      "wordCount": 14
+    },
+    {
+      "id": 317,
+      "index": 317,
+      "character": "COMMENTATOR",
+      "gender": "Female",
+      "line": "... Unfortunate luck for fifth-ranked heavyweight, Mac Lee Green. The slugging fighter acquired a serious fracture in his left hand after an aggressive day of sparring -- Champion Apollo Creed says he'll be 'shopping for another victim,' to fill Green's vacancy for the Bicentennial Championship Fight to be held in Philly next month... By the way, rumor has it that this will be the most widely-viewed sporting event in the entire world -- and that includes the Super Bowl, folks... Today U.S. swimmers set a new...",
+      "wordCount": 86
+    },
+    {
+      "id": 318,
+      "index": 318,
+      "character": "ADRIAN",
+      "gender": "Female",
+      "line": "... Paulie, why didn't you tell me you were bringing him home?! Look at me, I'm not ready for this.",
+      "wordCount": 20
+    },
+    {
+      "id": 319,
+      "index": 319,
+      "character": "PAULIE",
+      "gender": "Male",
+      "line": "Like it would make a difference if you were, right? This guy's a friend and now he's takin' ya out.",
+      "wordCount": 20
+    },
+    {
+      "id": 320,
+      "index": 320,
+      "character": "ADRIAN",
+      "gender": "Female",
+      "line": "No... I can't!",
+      "wordCount": 3
+    },
+    {
+      "id": 321,
+      "index": 321,
+      "character": "PAULIE",
+      "gender": "Male",
+      "line": "Ya, ya goin' outta the bedroom an' I don't wanna know from nothin'.",
+      "wordCount": 13
+    },
+    {
+      "id": 322,
+      "index": 322,
+      "character": "ADRIAN",
+      "gender": "Female",
+      "line": "Paulie, please --",
+      "wordCount": 3
+    },
+    {
+      "id": 323,
+      "index": 323,
+      "character": "PAULIE",
+      "gender": "Male",
+      "line": "Hey, I want ya out instamaticly. -- I'm sicka lookin' at ya hangin' around like a friggin' spider -- Go out -- Live! Do, enjoy life.",
+      "wordCount": 26
+    },
+    {
+      "id": 324,
+      "index": 324,
+      "character": "ADRIAN",
+      "gender": "Female",
+      "line": "... Like you?",
+      "wordCount": 3
+    },
+    {
+      "id": 325,
+      "index": 325,
+      "character": "PAULIE",
+      "gender": "Male",
+      "line": "Don't get wise with me. I want ya to stop bein' a loser.",
+      "wordCount": 13
+    },
+    {
+      "id": 326,
+      "index": 326,
+      "character": "ADRIAN",
+      "gender": "Female",
+      "line": "I can't go out.",
+      "wordCount": 4
+    },
+    {
+      "id": 327,
+      "index": 327,
+      "character": "PAULIE",
+      "gender": "Male",
+      "line": "Why?",
+      "wordCount": 1
+    },
+    {
+      "id": 328,
+      "index": 328,
+      "character": "ADRIAN",
+      "gender": "Female",
+      "line": "Paulie, it's Thanksgiving. I've gotta turkey in the oven.",
+      "wordCount": 9
+    },
+    {
+      "id": 329,
+      "index": 329,
+      "character": "PAULIE",
+      "gender": "Male",
+      "line": "!! Ya want the bird, go out in the alley an' eat the bird -- I want ya outta the house -- Enjoy ya friggin' life... Ya hungry, Rock?",
+      "wordCount": 29
+    },
+    {
+      "id": 330,
+      "index": 330,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Maybe ya better forget it.",
+      "wordCount": 5
+    },
+    {
+      "id": 331,
+      "index": 331,
+      "character": "PAULIE",
+      "gender": "Male",
+      "line": "Forget nothin' -- Here, talk to my sister, tell 'er somethin' nice.",
+      "wordCount": 12
+    },
+    {
+      "id": 332,
+      "index": 332,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "... Yo, Adrian, it's me, Rocky... Ah, ah -- Ah, it's kinda hard for me to think of somethin' to say, y'know -- 'Cause I never talked to a door before, I mean whatta ya say to a door.",
+      "wordCount": 39
+    },
+    {
+      "id": 333,
+      "index": 333,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "... Maybe I better forget it.",
+      "wordCount": 6
+    },
+    {
+      "id": 334,
+      "index": 334,
+      "character": "PAULIE",
+      "gender": "Male",
+      "line": "Try again, c'mon, try again.",
+      "wordCount": 5
+    },
+    {
+      "id": 335,
+      "index": 335,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Ah, Adrian, I know ya ain't too happy at this moment, but would ya do me a favor -- I ain't got nobody to spend Thanksgivin' with -- How 'bout you an' me goin' out -- Get somethin' to eat, maybe laugh a little, who knows... Would ya like, I dunno, go out together?",
+      "wordCount": 54
+    },
+    {
+      "id": 336,
+      "index": 336,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "We'll have a good time.",
+      "wordCount": 5
+    },
+    {
+      "id": 337,
+      "index": 337,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "What's ya sister like to do?",
+      "wordCount": 6
+    },
+    {
+      "id": 338,
+      "index": 338,
+      "character": "PAULIE",
+      "gender": "Male",
+      "line": "Ice skate.",
+      "wordCount": 2
+    },
+    {
+      "id": 339,
+      "index": 339,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "I didn't want no turkey anyway.",
+      "wordCount": 6
+    },
+    {
+      "id": 340,
+      "index": 340,
+      "character": "ADRIAN",
+      "gender": "Female",
+      "line": "It's Thanksgiving.",
+      "wordCount": 2
+    },
+    {
+      "id": 341,
+      "index": 341,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "To you, to me it's Thursday.",
+      "wordCount": 6
+    },
+    {
+      "id": 342,
+      "index": 342,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Looks quiet, y'know.",
+      "wordCount": 3
+    },
+    {
+      "id": 343,
+      "index": 343,
+      "character": "ADRIAN",
+      "gender": "Female",
+      "line": "I think it's closed.",
+      "wordCount": 4
+    },
+    {
+      "id": 344,
+      "index": 344,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "I think mebbe we're early or somethin' --",
+      "wordCount": 8
+    },
+    {
+      "id": 345,
+      "index": 345,
+      "character": "CLEANER",
+      "gender": "NA",
+      "line": "Hey, whatta ya doin' here -- we're closed... Yo, we're closed!",
+      "wordCount": 11
+    },
+    {
+      "id": 346,
+      "index": 346,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Are ya closed to the General Public or to just everybody.",
+      "wordCount": 11
+    },
+    {
+      "id": 347,
+      "index": 347,
+      "character": "CLEANER",
+      "gender": "NA",
+      "line": "Hey, the rink is empty 'cause we're closed -- ya ain't allowed in here so do me a favor an' not stay here.",
+      "wordCount": 23
+    },
+    {
+      "id": 348,
+      "index": 348,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Wait here, gotta smooth this guy out.",
+      "wordCount": 7
+    },
+    {
+      "id": 349,
+      "index": 349,
+      "character": "ADRIAN",
+      "gender": "Female",
+      "line": "We could go somewhere else an' --",
+      "wordCount": 7
+    },
+    {
+      "id": 350,
+      "index": 350,
+      "character": "CLEANER",
+      "gender": "NA",
+      "line": "Yo, pal, what's with you -- The place ain't operatin'.",
+      "wordCount": 10
+    },
+    {
+      "id": 351,
+      "index": 351,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Listen, I gotta problem. This girl ain't feelin' well, y'know -- The doctor says she should exercise, y'know once in awhile an' ice skatin' is the best thing --",
+      "wordCount": 29
+    },
+    {
+      "id": 352,
+      "index": 352,
+      "character": "CLEANER",
+      "gender": "NA",
+      "line": "This a con?",
+      "wordCount": 3
+    },
+    {
+      "id": 353,
+      "index": 353,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Look at her, ya can see she ain't feelin' good -- needs a few minutes exercise --",
+      "wordCount": 17
+    },
+    {
+      "id": 354,
+      "index": 354,
+      "character": "CLEANER",
+      "gender": "NA",
+      "line": "Few minutes?",
+      "wordCount": 2
+    },
+    {
+      "id": 355,
+      "index": 355,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "... Ten minutes.",
+      "wordCount": 3
+    },
+    {
+      "id": 356,
+      "index": 356,
+      "character": "CLEANER",
+      "gender": "NA",
+      "line": "Ten minutes for ten dollars.",
+      "wordCount": 5
+    },
+    {
+      "id": 357,
+      "index": 357,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "... Yeah, give 'er the Blades.",
+      "wordCount": 6
+    },
+    {
+      "id": 358,
+      "index": 358,
+      "character": "ADRIAN",
+      "gender": "Female",
+      "line": "... Aren't you skating?",
+      "wordCount": 4
+    },
+    {
+      "id": 359,
+      "index": 359,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Ain't skated since I was fifteen -- That's when I started fightin' -- gotta watch the ankles. Yeah, fightin' use to be tops with me, but no more. All I wanted to prove was I weren't no bum -- That I had the stuff to make a good pro.",
+      "wordCount": 49
+    },
+    {
+      "id": 360,
+      "index": 360,
+      "character": "ADRIAN",
+      "gender": "Female",
+      "line": "And you never got the chance?",
+      "wordCount": 6
+    },
+    {
+      "id": 361,
+      "index": 361,
+      "character": "CLEANER",
+      "gender": "NA",
+      "line": "Nine minutes!",
+      "wordCount": 2
+    },
+    {
+      "id": 362,
+      "index": 362,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Hey, I ain't cryin'... I still fight. Kinda do it like a hobby. See I'm a natural southpaw an' most pugs won't fight a southpaw 'cause we mess up their timin' an' look awkward -- Southpaw means lefthanded... But I guess in the long run things probably worked out for the best, right?",
+      "wordCount": 53
+    },
+    {
+      "id": 363,
+      "index": 363,
+      "character": "ADRIAN",
+      "gender": "Female",
+      "line": "But you never had a chance to prove yourself.",
+      "wordCount": 9
+    },
+    {
+      "id": 364,
+      "index": 364,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Absolutely.",
+      "wordCount": 1
+    },
+    {
+      "id": 365,
+      "index": 365,
+      "character": "CLEANER",
+      "gender": "NA",
+      "line": "Eight minutes!",
+      "wordCount": 2
+    },
+    {
+      "id": 366,
+      "index": 366,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "I just dislocated my finger.",
+      "wordCount": 5
+    },
+    {
+      "id": 367,
+      "index": 367,
+      "character": "ADRIAN",
+      "gender": "Female",
+      "line": "Ohh!",
+      "wordCount": 1
+    },
+    {
+      "id": 368,
+      "index": 368,
+      "character": "CLEANER",
+      "gender": "NA",
+      "line": "Seven minutes!",
+      "wordCount": 2
+    },
+    {
+      "id": 369,
+      "index": 369,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "It ain't your fault -- I originally done it in the Baby Crenshaw fight. That's me fightin' Big Baby Crenshaw -- Big Baby was the size of an airplane an' I broke my hands on his head -- I lost, but it's a nice picture, don't ya think?",
+      "wordCount": 48
+    },
+    {
+      "id": 370,
+      "index": 370,
+      "character": "CLEANER",
+      "gender": "NA",
+      "line": "Six!",
+      "wordCount": 1
+    },
+    {
+      "id": 371,
+      "index": 371,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "How 'bout some Cokes?",
+      "wordCount": 4
+    },
+    {
+      "id": 372,
+      "index": 372,
+      "character": "CLEANER",
+      "gender": "NA",
+      "line": "Cost ya a buck.",
+      "wordCount": 4
+    },
+    {
+      "id": 373,
+      "index": 373,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "This guy is beautiful -- get the Cokes.",
+      "wordCount": 8
+    },
+    {
+      "id": 374,
+      "index": 374,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "See, I ain't graceful, y'know -- I don't move good -- Stink as a dancer too -- But I can really swat, I hit hard, real hard, but I'm a southpaw an' nobody wants to fight a southpaw! -- Havin' a good time?",
+      "wordCount": 43
+    },
+    {
+      "id": 375,
+      "index": 375,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Y'know how I got started in the fight racket?",
+      "wordCount": 9
+    },
+    {
+      "id": 376,
+      "index": 376,
+      "character": "ADRIAN",
+      "gender": "Female",
+      "line": "By accident?",
+      "wordCount": 2
+    },
+    {
+      "id": 377,
+      "index": 377,
+      "character": "CLEANER",
+      "gender": "NA",
+      "line": "Here -- Three minutes.",
+      "wordCount": 4
+    },
+    {
+      "id": 378,
+      "index": 378,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Yeah -- My ol' man who was never the sharpest told me -- I weren't born with much brain so I better use my body.",
+      "wordCount": 25
+    },
+    {
+      "id": 379,
+      "index": 379,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "What's funny?",
+      "wordCount": 2
+    },
+    {
+      "id": 380,
+      "index": 380,
+      "character": "ADRIAN",
+      "gender": "Female",
+      "line": "My mother told me just the opposite. She said, 'You weren't born with much of a body so you'd better develop your brain.'",
+      "wordCount": 23
+    },
+    {
+      "id": 381,
+      "index": 381,
+      "character": "CLEANER",
+      "gender": "NA",
+      "line": "Time!",
+      "wordCount": 1
+    },
+    {
+      "id": 382,
+      "index": 382,
+      "character": "CLEANER",
+      "gender": "NA",
+      "line": "That's ten bucks.",
+      "wordCount": 3
+    },
+    {
+      "id": 383,
+      "index": 383,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "I must be goin' deaf 'cause I thought ya said, 'ten cents.'",
+      "wordCount": 12
+    },
+    {
+      "id": 384,
+      "index": 384,
+      "character": "CLEANER",
+      "gender": "NA",
+      "line": "... How 'bout for the Cokes?",
+      "wordCount": 6
+    },
+    {
+      "id": 385,
+      "index": 385,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Charge it.",
+      "wordCount": 2
+    },
+    {
+      "id": 386,
+      "index": 386,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Had ya goin', didn't I, huh?",
+      "wordCount": 6
+    },
+    {
+      "id": 387,
+      "index": 387,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Some people are very shy by nature.",
+      "wordCount": 7
+    },
+    {
+      "id": 388,
+      "index": 388,
+      "character": "ADRIAN",
+      "gender": "Female",
+      "line": "... I suppose.",
+      "wordCount": 3
+    },
+    {
+      "id": 389,
+      "index": 389,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "I would say you're very shy bu nature.",
+      "wordCount": 8
+    },
+    {
+      "id": 390,
+      "index": 390,
+      "character": "ADRIAN",
+      "gender": "Female",
+      "line": "... I suppose.",
+      "wordCount": 3
+    },
+    {
+      "id": 391,
+      "index": 391,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Some people think bein' shy is a disease, but it don't bother me.",
+      "wordCount": 13
+    },
+    {
+      "id": 392,
+      "index": 392,
+      "character": "ADRIAN",
+      "gender": "Female",
+      "line": "It doesn't bother me either.",
+      "wordCount": 5
+    },
+    {
+      "id": 393,
+      "index": 393,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Then why did I bother bringin' it up? 'Cause I'm dumb, that's why... Y'know, I think we make a real sharp coupla coconuts -- I'm dumb an' you're shy.",
+      "wordCount": 29
+    },
+    {
+      "id": 394,
+      "index": 394,
+      "character": "ADRIAN",
+      "gender": "Female",
+      "line": "... It is just hard for me to understand why anybody wants to be a fighter.",
+      "wordCount": 16
+    },
+    {
+      "id": 395,
+      "index": 395,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Ya gotta be a little soft to wanna be a pug... It's a racket where ya' almost guaranteed to end up a bum.",
+      "wordCount": 23
+    },
+    {
+      "id": 396,
+      "index": 396,
+      "character": "ADRIAN",
+      "gender": "Female",
+      "line": "I don't think you're a bum.",
+      "wordCount": 6
+    },
+    {
+      "id": 397,
+      "index": 397,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "... I'm at least half a bum. Yeah, fightin' is a crazy racket. The roughest part is the mornin' after.",
+      "wordCount": 20
+    },
+    {
+      "id": 398,
+      "index": 398,
+      "character": "ADRIAN",
+      "gender": "Female",
+      "line": "Morning after?",
+      "wordCount": 2
+    },
+    {
+      "id": 399,
+      "index": 399,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "After a rough fight, ya' nothin' but a large wound. Sometimes I feel like callin' a taxi to drive me from my bed to the bathroom... Ya' eyes hurt, ya' ears hurt, ya' hair even hurts... But the thing I'm proud of is I been in over sixty fights an' never had a busted nose -- Bent an' twisted an' bitten but never broke... That's rare.",
+      "wordCount": 66
+    },
+    {
+      "id": 400,
+      "index": 400,
+      "character": "ADRIAN",
+      "gender": "Female",
+      "line": "Why do you do it if it hurts so bad?",
+      "wordCount": 10
+    },
+    {
+      "id": 401,
+      "index": 401,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "... Guess.",
+      "wordCount": 2
+    },
+    {
+      "id": 402,
+      "index": 402,
+      "character": "ADRIAN",
+      "gender": "Female",
+      "line": "'Cause you can't sing or dance?",
+      "wordCount": 6
+    },
+    {
+      "id": 403,
+      "index": 403,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Would ya like a glass of water?",
+      "wordCount": 7
+    },
+    {
+      "id": 404,
+      "index": 404,
+      "character": "ADRIAN",
+      "gender": "Female",
+      "line": "... No thanks.",
+      "wordCount": 3
+    },
+    {
+      "id": 405,
+      "index": 405,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Here's the guys I was tellin' ya about -- This is Cuff an' Link.",
+      "wordCount": 14
+    },
+    {
+      "id": 406,
+      "index": 406,
+      "character": "ADRIAN",
+      "gender": "Female",
+      "line": "I sold them to you.",
+      "wordCount": 5
+    },
+    {
+      "id": 407,
+      "index": 407,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "... Oh, yeah, I bought the whole kit -- Yeah, ya sold me the turtles, the bowl, an' the mountain -- I had to get rid of the mountain 'cause they kept fallin' off.",
+      "wordCount": 34
+    },
+    {
+      "id": 408,
+      "index": 408,
+      "character": "ADRIAN",
+      "gender": "Female",
+      "line": "Do you have a phone?",
+      "wordCount": 5
+    },
+    {
+      "id": 409,
+      "index": 409,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "I had it pulled. People callin' all the time. Who needs it -- Who'd you wanna call?",
+      "wordCount": 17
+    },
+    {
+      "id": 410,
+      "index": 410,
+      "character": "ADRIAN",
+      "gender": "Female",
+      "line": "I wanna let my brother know where I am.",
+      "wordCount": 9
+    },
+    {
+      "id": 411,
+      "index": 411,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "D'you really wanna call?",
+      "wordCount": 4
+    },
+    {
+      "id": 412,
+      "index": 412,
+      "character": "ADRIAN",
+      "gender": "Female",
+      "line": "Yes, I do.",
+      "wordCount": 3
+    },
+    {
+      "id": 413,
+      "index": 413,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "You sure?",
+      "wordCount": 2
+    },
+    {
+      "id": 414,
+      "index": 414,
+      "character": "ADRIAN",
+      "gender": "Female",
+      "line": "Yes.",
+      "wordCount": 1
+    },
+    {
+      "id": 415,
+      "index": 415,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Why?",
+      "wordCount": 1
+    },
+    {
+      "id": 416,
+      "index": 416,
+      "character": "ADRIAN",
+      "gender": "Female",
+      "line": "I think he might be worried.",
+      "wordCount": 6
+    },
+    {
+      "id": 417,
+      "index": 417,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "I'll call your brother.",
+      "wordCount": 4
+    },
+    {
+      "id": 418,
+      "index": 418,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "!!Yo, Paulie -- Ya sister's with me! I'll call ya later.",
+      "wordCount": 11
+    },
+    {
+      "id": 419,
+      "index": 419,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "What's the matter? Ya don't like the room?",
+      "wordCount": 8
+    },
+    {
+      "id": 420,
+      "index": 420,
+      "character": "ADRIAN",
+      "gender": "Female",
+      "line": "It's fine.",
+      "wordCount": 2
+    },
+    {
+      "id": 421,
+      "index": 421,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "It's only temporary.",
+      "wordCount": 3
+    },
+    {
+      "id": 422,
+      "index": 422,
+      "character": "ADRIAN",
+      "gender": "Female",
+      "line": "It's not that --",
+      "wordCount": 4
+    },
+    {
+      "id": 423,
+      "index": 423,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "What's the problem? You don't like me -- Don't like the turtles -- What is it?",
+      "wordCount": 16
+    },
+    {
+      "id": 424,
+      "index": 424,
+      "character": "ADRIAN",
+      "gender": "Female",
+      "line": "I don't think I belong here.",
+      "wordCount": 6
+    },
+    {
+      "id": 425,
+      "index": 425,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "It's okay.",
+      "wordCount": 2
+    },
+    {
+      "id": 426,
+      "index": 426,
+      "character": "ADRIAN",
+      "gender": "Female",
+      "line": "No, I don't belong here.",
+      "wordCount": 5
+    },
+    {
+      "id": 427,
+      "index": 427,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "It's all right -- You're my guest.",
+      "wordCount": 7
+    },
+    {
+      "id": 428,
+      "index": 428,
+      "character": "ADRIAN",
+      "gender": "Female",
+      "line": "... I've never been in a man's apartment before.",
+      "wordCount": 9
+    },
+    {
+      "id": 429,
+      "index": 429,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "They're all the same.",
+      "wordCount": 4
+    },
+    {
+      "id": 430,
+      "index": 430,
+      "character": "ADRIAN",
+      "gender": "Female",
+      "line": "I'm not sure I know you well enough -- I don't think I'm comfortable.",
+      "wordCount": 14
+    },
+    {
+      "id": 431,
+      "index": 431,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Yo, I'm not comfortable either.",
+      "wordCount": 5
+    },
+    {
+      "id": 432,
+      "index": 432,
+      "character": "ADRIAN",
+      "gender": "Female",
+      "line": "I should leave.",
+      "wordCount": 3
+    },
+    {
+      "id": 433,
+      "index": 433,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "But I'm willin' to make the best of this uncomfortable situation.",
+      "wordCount": 11
+    },
+    {
+      "id": 434,
+      "index": 434,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Would ya take off your glasses?",
+      "wordCount": 6
+    },
+    {
+      "id": 435,
+      "index": 435,
+      "character": "ADRIAN",
+      "gender": "Female",
+      "line": "What?",
+      "wordCount": 1
+    },
+    {
+      "id": 436,
+      "index": 436,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "The glasses... Please.",
+      "wordCount": 3
+    },
+    {
+      "id": 437,
+      "index": 437,
+      "character": "ADRIAN",
+      "gender": "Female",
+      "line": "... T-thank you.",
+      "wordCount": 3
+    },
+    {
+      "id": 438,
+      "index": 438,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Do me another favor?",
+      "wordCount": 4
+    },
+    {
+      "id": 439,
+      "index": 439,
+      "character": "ADRIAN",
+      "gender": "Female",
+      "line": "... What?",
+      "wordCount": 2
+    },
+    {
+      "id": 440,
+      "index": 440,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Could ya take off that hat.",
+      "wordCount": 6
+    },
+    {
+      "id": 441,
+      "index": 441,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "I always knew you was pretty.",
+      "wordCount": 6
+    },
+    {
+      "id": 442,
+      "index": 442,
+      "character": "ADRIAN",
+      "gender": "Female",
+      "line": "Don't tease me.",
+      "wordCount": 3
+    },
+    {
+      "id": 443,
+      "index": 443,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "I wanna kiss ya -- Ya don't have to kiss me back if ya don't feel like it.",
+      "wordCount": 18
+    },
+    {
+      "id": 444,
+      "index": 444,
+      "character": "MIKE",
+      "gender": "Male",
+      "line": "Hey, Rock -- What happened?",
+      "wordCount": 5
+    },
+    {
+      "id": 445,
+      "index": 445,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "'Bout what?",
+      "wordCount": 2
+    },
+    {
+      "id": 446,
+      "index": 446,
+      "character": "MICKEY",
+      "gender": "Male",
+      "line": "Did ya get the message, kid?",
+      "wordCount": 6
+    },
+    {
+      "id": 447,
+      "index": 447,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Message -- What message?",
+      "wordCount": 4
+    },
+    {
+      "id": 448,
+      "index": 448,
+      "character": "MICKEY",
+      "gender": "Male",
+      "line": "A Rep from Miles Jergens' Promotions was lookin' for ya -- They need sparrin' partners for Creed.",
+      "wordCount": 17
+    },
+    {
+      "id": 449,
+      "index": 449,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Ya puttin' me on?",
+      "wordCount": 4
+    },
+    {
+      "id": 450,
+      "index": 450,
+      "character": "MICKEY",
+      "gender": "Male",
+      "line": "Here's the card?",
+      "wordCount": 3
+    },
+    {
+      "id": 451,
+      "index": 451,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "When was they here?",
+      "wordCount": 4
+    },
+    {
+      "id": 452,
+      "index": 452,
+      "character": "MICKEY",
+      "gender": "Male",
+      "line": "'Bout an hour ago.",
+      "wordCount": 4
+    },
+    {
+      "id": 453,
+      "index": 453,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Probably lookin' for sparrin' partners.",
+      "wordCount": 5
+    },
+    {
+      "id": 454,
+      "index": 454,
+      "character": "MICKEY",
+      "gender": "Male",
+      "line": "... I said that before.",
+      "wordCount": 5
+    },
+    {
+      "id": 455,
+      "index": 455,
+      "character": "MICKEY",
+      "gender": "Male",
+      "line": "... Waste of life.",
+      "wordCount": 4
+    },
+    {
+      "id": 456,
+      "index": 456,
+      "character": "SECRETARY",
+      "gender": "NA",
+      "line": "May I help you?",
+      "wordCount": 4
+    },
+    {
+      "id": 457,
+      "index": 457,
+      "character": "SECRETARY",
+      "gender": "NA",
+      "line": "Your name, please?",
+      "wordCount": 3
+    },
+    {
+      "id": 458,
+      "index": 458,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Balboa, Rocky Balboa.",
+      "wordCount": 3
+    },
+    {
+      "id": 459,
+      "index": 459,
+      "character": "SECRETARY",
+      "gender": "NA",
+      "line": "You may go in.",
+      "wordCount": 4
+    },
+    {
+      "id": 460,
+      "index": 460,
+      "character": "JERGENS",
+      "gender": "Male",
+      "line": "Hello, Mr. Balboa -- I'm Miles Jergens -- Please, have a seat.",
+      "wordCount": 12
+    },
+    {
+      "id": 461,
+      "index": 461,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "... Thanks.",
+      "wordCount": 2
+    },
+    {
+      "id": 462,
+      "index": 462,
+      "character": "JERGENS",
+      "gender": "Male",
+      "line": "Mr. Balboa --",
+      "wordCount": 3
+    },
+    {
+      "id": 463,
+      "index": 463,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Rocky.",
+      "wordCount": 1
+    },
+    {
+      "id": 464,
+      "index": 464,
+      "character": "JERGENS",
+      "gender": "Male",
+      "line": "Rocky, do you have any representation? A manager?",
+      "wordCount": 8
+    },
+    {
+      "id": 465,
+      "index": 465,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "No -- Just me.",
+      "wordCount": 4
+    },
+    {
+      "id": 466,
+      "index": 466,
+      "character": "JERGENS",
+      "gender": "Male",
+      "line": "Rocky, would you be interested in --",
+      "wordCount": 7
+    },
+    {
+      "id": 467,
+      "index": 467,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Sparrin'?",
+      "wordCount": 1
+    },
+    {
+      "id": 468,
+      "index": 468,
+      "character": "JERGENS",
+      "gender": "Male",
+      "line": "Excuse me.",
+      "wordCount": 2
+    },
+    {
+      "id": 469,
+      "index": 469,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "I know ya need sparrin' partners -- I'm very available.",
+      "wordCount": 10
+    },
+    {
+      "id": 470,
+      "index": 470,
+      "character": "JERGENS",
+      "gender": "Male",
+      "line": "I'm sure you are.",
+      "wordCount": 4
+    },
+    {
+      "id": 471,
+      "index": 471,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Absolutely -- Sparrin' with the Champ would be an honor -- y'know what?",
+      "wordCount": 13
+    },
+    {
+      "id": 472,
+      "index": 472,
+      "character": "JERGENS",
+      "gender": "Male",
+      "line": "What?",
+      "wordCount": 1
+    },
+    {
+      "id": 473,
+      "index": 473,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "I wouldn't take no cheap shots. I'd be a good sparrin' partner.",
+      "wordCount": 12
+    },
+    {
+      "id": 474,
+      "index": 474,
+      "character": "JERGENS",
+      "gender": "Male",
+      "line": "Rocky, would you be interested in fighting Apollo Creed for the Championship?",
+      "wordCount": 12
+    },
+    {
+      "id": 475,
+      "index": 475,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "... Like I said, I'd make a boss sparrin' mate.",
+      "wordCount": 10
+    },
+    {
+      "id": 476,
+      "index": 476,
+      "character": "JERGENS",
+      "gender": "Male",
+      "line": "Did you hear what I said?",
+      "wordCount": 6
+    },
+    {
+      "id": 477,
+      "index": 477,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Sure, an' I'm smart enough to know that no sparrin' partner should take cheap shots at the Champ. He's just there to help condition the man.",
+      "wordCount": 26
+    },
+    {
+      "id": 478,
+      "index": 478,
+      "character": "JERGENS",
+      "gender": "Male",
+      "line": "Not spar, I'm asking whether you would be interested in fighting Creed for the championship.",
+      "wordCount": 15
+    },
+    {
+      "id": 479,
+      "index": 479,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "... Ah... Absolutely.",
+      "wordCount": 3
+    },
+    {
+      "id": 480,
+      "index": 480,
+      "character": "APOLLO",
+      "gender": "Male",
+      "line": "I like my Philadelphia Brothers. An' I'm patriotic!",
+      "wordCount": 8
+    },
+    {
+      "id": 481,
+      "index": 481,
+      "character": "APOLLO",
+      "gender": "Male",
+      "line": "If yo' don't back up I'm gonna send yo' home with a microphone in yo' nose!",
+      "wordCount": 16
+    },
+    {
+      "id": 482,
+      "index": 482,
+      "character": "APOLLO",
+      "gender": "Male",
+      "line": "If history proves one thing, everybody gotta chance -- Didn't yo' all ever hear of David an' Goliath? -- 'Course I woulda knocked out Goliath.",
+      "wordCount": 25
+    },
+    {
+      "id": 483,
+      "index": 483,
+      "character": "APOLLO",
+      "gender": "Male",
+      "line": "The same coincidence that he's fightin' a black man.",
+      "wordCount": 9
+    },
+    {
+      "id": 484,
+      "index": 484,
+      "character": "APOLLO",
+      "gender": "Male",
+      "line": "He's Italian.",
+      "wordCount": 2
+    },
+    {
+      "id": 485,
+      "index": 485,
+      "character": "APOLLO",
+      "gender": "Male",
+      "line": "It means if he can't fight, I bet he can cook!",
+      "wordCount": 11
+    },
+    {
+      "id": 486,
+      "index": 486,
+      "character": "PAULIE",
+      "gender": "Male",
+      "line": "Do me a favor -- His lungs, punch 'em out.",
+      "wordCount": 10
+    },
+    {
+      "id": 487,
+      "index": 487,
+      "character": "ADRIAN",
+      "gender": "Female",
+      "line": "Paul.",
+      "wordCount": 1
+    },
+    {
+      "id": 488,
+      "index": 488,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Feel? I dunno... Happy.",
+      "wordCount": 4
+    },
+    {
+      "id": 489,
+      "index": 489,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Creed's great, ain't he... I'll do what I can.",
+      "wordCount": 9
+    },
+    {
+      "id": 490,
+      "index": 490,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "I thought of it 'bout eight years ago, when I was eatin' dinner.",
+      "wordCount": 13
+    },
+    {
+      "id": 491,
+      "index": 491,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Four hundred -- But that was a long time ago.",
+      "wordCount": 10
+    },
+    {
+      "id": 492,
+      "index": 492,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Listen, I wanna say hi to my girlfriend -- Yo, Adrian!",
+      "wordCount": 11
+    },
+    {
+      "id": 493,
+      "index": 493,
+      "character": "ADRIAN",
+      "gender": "Female",
+      "line": "Oh, Rocky!",
+      "wordCount": 2
+    },
+    {
+      "id": 494,
+      "index": 494,
+      "character": "PAULIE",
+      "gender": "Male",
+      "line": "Christ.",
+      "wordCount": 1
+    },
+    {
+      "id": 495,
+      "index": 495,
+      "character": "ADRIAN",
+      "gender": "Female",
+      "line": "You didn't!",
+      "wordCount": 2
+    },
+    {
+      "id": 496,
+      "index": 496,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Sure I did. You heard.",
+      "wordCount": 5
+    },
+    {
+      "id": 497,
+      "index": 497,
+      "character": "COMMENTATOR",
+      "gender": "Female",
+      "line": "A Bicentennial Fight -- January first. It will be the first sporting event on our two hundredth birthday and is already being called by many the greatest farce in sports history. If this man lasts more than a minute I would say he's on borrowed time. It's matches like this with their exorbitant prices that give sports a bad name -- Not only is this match bad, people, it's sad! Why a Rocky Balboa? At the State Athletic Commission, Larry Duggan reporting.",
+      "wordCount": 82
+    },
+    {
+      "id": 498,
+      "index": 498,
+      "character": "PAULIE",
+      "gender": "Male",
+      "line": "The guy's a friggin' moron.",
+      "wordCount": 5
+    },
+    {
+      "id": 499,
+      "index": 499,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Why?",
+      "wordCount": 1
+    },
+    {
+      "id": 500,
+      "index": 500,
+      "character": "PAULIE",
+      "gender": "Male",
+      "line": "Don't it matter none he's makin' ya out a fool? -- I'd break his lips.",
+      "wordCount": 15
+    },
+    {
+      "id": 501,
+      "index": 501,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "It don't matter.",
+      "wordCount": 3
+    },
+    {
+      "id": 502,
+      "index": 502,
+      "character": "PAULIE",
+      "gender": "Male",
+      "line": "He's takin' cheap shots.",
+      "wordCount": 4
+    },
+    {
+      "id": 503,
+      "index": 503,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "It don't bother me none.",
+      "wordCount": 5
+    },
+    {
+      "id": 504,
+      "index": 504,
+      "character": "PAULIE",
+      "gender": "Male",
+      "line": "Yo, Rock -- now ya'll be lookin' for people to help, right?",
+      "wordCount": 12
+    },
+    {
+      "id": 505,
+      "index": 505,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Help what?",
+      "wordCount": 2
+    },
+    {
+      "id": 506,
+      "index": 506,
+      "character": "PAULIE",
+      "gender": "Male",
+      "line": "Y'know, to help keep ya livin' clean.",
+      "wordCount": 7
+    },
+    {
+      "id": 507,
+      "index": 507,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "I'll do okay.",
+      "wordCount": 3
+    },
+    {
+      "id": 508,
+      "index": 508,
+      "character": "PAULIE",
+      "gender": "Male",
+      "line": "Ya gotta have a guy help ya exercise, mebbe somebody to be standin' by with a towel or run errands, y'know.",
+      "wordCount": 21
+    },
+    {
+      "id": 509,
+      "index": 509,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Hey, who cared about me yesterday, huh? Nobody -- I think I'm gonna train myself.",
+      "wordCount": 15
+    },
+    {
+      "id": 510,
+      "index": 510,
+      "character": "PAULIE",
+      "gender": "Male",
+      "line": "Without havin' good people around, ya won't have such a good chance.",
+      "wordCount": 12
+    },
+    {
+      "id": 511,
+      "index": 511,
+      "character": "ADRIAN",
+      "gender": "Female",
+      "line": "Einstein flunked out of school... twice.",
+      "wordCount": 6
+    },
+    {
+      "id": 512,
+      "index": 512,
+      "character": "PAULIE",
+      "gender": "Male",
+      "line": "That so.",
+      "wordCount": 2
+    },
+    {
+      "id": 513,
+      "index": 513,
+      "character": "ADRIAN",
+      "gender": "Female",
+      "line": "Roosevelt finished last in his class -- Beethoven was deaf, an' Helen Keller was blind -- I think Rocky has a good chance.",
+      "wordCount": 23
+    },
+    {
+      "id": 514,
+      "index": 514,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "See ya tomorrow.",
+      "wordCount": 3
+    },
+    {
+      "id": 515,
+      "index": 515,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "How'd ya like hearin' ya name on TV?",
+      "wordCount": 8
+    },
+    {
+      "id": 516,
+      "index": 516,
+      "character": "ADRIAN",
+      "gender": "Female",
+      "line": "I don't know -- I was shocked. Why did you do that?",
+      "wordCount": 12
+    },
+    {
+      "id": 517,
+      "index": 517,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Ya puttin' me on, right?",
+      "wordCount": 5
+    },
+    {
+      "id": 518,
+      "index": 518,
+      "character": "ADRIAN",
+      "gender": "Female",
+      "line": "Absolutely -- What time should I expect you?",
+      "wordCount": 8
+    },
+    {
+      "id": 519,
+      "index": 519,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "'Bout seven.",
+      "wordCount": 2
+    },
+    {
+      "id": 520,
+      "index": 520,
+      "character": "ADRIAN",
+      "gender": "Female",
+      "line": "I'll be waiting.",
+      "wordCount": 3
+    },
+    {
+      "id": 521,
+      "index": 521,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Y'know how I said that stuff on television didn't bother me?",
+      "wordCount": 11
+    },
+    {
+      "id": 522,
+      "index": 522,
+      "character": "ADRIAN",
+      "gender": "Female",
+      "line": "Yes.",
+      "wordCount": 1
+    },
+    {
+      "id": 523,
+      "index": 523,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "It did.",
+      "wordCount": 2
+    },
+    {
+      "id": 524,
+      "index": 524,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Y'know I won't be able to work for ya no more.",
+      "wordCount": 11
+    },
+    {
+      "id": 525,
+      "index": 525,
+      "character": "GAZZO",
+      "gender": "Male",
+      "line": "Hey -- if a good man can make a better life, let him make it.",
+      "wordCount": 15
+    },
+    {
+      "id": 526,
+      "index": 526,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "I feel bad about walkin'.",
+      "wordCount": 5
+    },
+    {
+      "id": 527,
+      "index": 527,
+      "character": "GAZZO",
+      "gender": "Male",
+      "line": "Take your shot, kid -- You got money for trainin' expenses?",
+      "wordCount": 11
+    },
+    {
+      "id": 528,
+      "index": 528,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "A few bucks.",
+      "wordCount": 3
+    },
+    {
+      "id": 529,
+      "index": 529,
+      "character": "GAZZO",
+      "gender": "Male",
+      "line": "Here's five hundred -- Put it in your glove.",
+      "wordCount": 9
+    },
+    {
+      "id": 530,
+      "index": 530,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Do I have to pay juice?",
+      "wordCount": 6
+    },
+    {
+      "id": 531,
+      "index": 531,
+      "character": "GAZZO",
+      "gender": "Male",
+      "line": "Does Santa Claus charge juice? Merry Christmas -- Now, how's about my present, ya gonna win?",
+      "wordCount": 16
+    },
+    {
+      "id": 532,
+      "index": 532,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Gonna try.",
+      "wordCount": 2
+    },
+    {
+      "id": 533,
+      "index": 533,
+      "character": "GAZZO",
+      "gender": "Male",
+      "line": "Listen, kid, I'm with ya. Ya know, I'm with ya -- Italian, we're blood. You kill this rug -- We Guinneas gotta show these Afro-Americans where it's at. Give it your best shot cause I want ya to prove to these bums on the corner that my man can't be beat by this rug... Ya got any action on the side.",
+      "wordCount": 61
+    },
+    {
+      "id": 534,
+      "index": 534,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "No action.",
+      "wordCount": 2
+    },
+    {
+      "id": 535,
+      "index": 535,
+      "character": "GAZZO",
+      "gender": "Male",
+      "line": "Ya gettin 150 grand killer. Ya got any plans for it? Whatta ya think?",
+      "wordCount": 14
+    },
+    {
+      "id": 536,
+      "index": 536,
+      "character": "GAZZO",
+      "gender": "Male",
+      "line": "Ya like to put it on the street, make it work for ya?",
+      "wordCount": 13
+    },
+    {
+      "id": 537,
+      "index": 537,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "I'm gonna do somethin with it.",
+      "wordCount": 6
+    },
+    {
+      "id": 538,
+      "index": 538,
+      "character": "GAZZO",
+      "gender": "Male",
+      "line": "Sure, you do what ya want. Stay away from the stock market.",
+      "wordCount": 12
+    },
+    {
+      "id": 539,
+      "index": 539,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Black market?",
+      "wordCount": 2
+    },
+    {
+      "id": 540,
+      "index": 540,
+      "character": "GAZZO",
+      "gender": "Male",
+      "line": "Same thing. Ya know, Rock, remember when we was kids, we fought together. An' I wasn't well an' ya had to beat up that Irish kid -- what's his name? -- Gallager -- I bought a suit and became a businessman. You put on gloves. An' I remember Mama almost cried, may she rest in peace -- an' our ol' man who said ya had no brains -- I'd like to lay hands on that bastard. You ain't never had any luck. Even when I owned you in '66 you never had luck. But now I think you might be gettin' some luck kid. Whatta you think?",
+      "wordCount": 107
+    },
+    {
+      "id": 541,
+      "index": 541,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Yo, you gonna show, Tony?",
+      "wordCount": 5
+    },
+    {
+      "id": 542,
+      "index": 542,
+      "character": "GAZZO",
+      "gender": "Male",
+      "line": "Where else am I gonna go. Bet three grand on Rocky.",
+      "wordCount": 11
+    },
+    {
+      "id": 543,
+      "index": 543,
+      "character": "BODYGUARD",
+      "gender": "NA",
+      "line": "He's a bum -- are you kiddin?",
+      "wordCount": 7
+    },
+    {
+      "id": 544,
+      "index": 544,
+      "character": "GAZZO",
+      "gender": "Male",
+      "line": "No! I'm not kiddin!",
+      "wordCount": 4
+    },
+    {
+      "id": 545,
+      "index": 545,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Look who's home!",
+      "wordCount": 3
+    },
+    {
+      "id": 546,
+      "index": 546,
+      "character": "MICKEY",
+      "gender": "Male",
+      "line": "I seen the light. I figure somebody was home.",
+      "wordCount": 9
+    },
+    {
+      "id": 547,
+      "index": 547,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Hey, Mickey -- Whatta ya doin' here? Here, sit down.",
+      "wordCount": 10
+    },
+    {
+      "id": 548,
+      "index": 548,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Best seat in the house -- Hey, Mick, this is too much.",
+      "wordCount": 12
+    },
+    {
+      "id": 549,
+      "index": 549,
+      "character": "MICKEY",
+      "gender": "Male",
+      "line": "How do you mean?",
+      "wordCount": 4
+    },
+    {
+      "id": 550,
+      "index": 550,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "I'm usta seein' ya at the gym, but seein' ya here, in my house, it's kinda outta joint.",
+      "wordCount": 18
+    },
+    {
+      "id": 551,
+      "index": 551,
+      "character": "MICKEY",
+      "gender": "Male",
+      "line": "Listen, Rock, you're a very lucky guy.",
+      "wordCount": 7
+    },
+    {
+      "id": 552,
+      "index": 552,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Yeah.",
+      "wordCount": 1
+    },
+    {
+      "id": 553,
+      "index": 553,
+      "character": "MICKEY",
+      "gender": "Male",
+      "line": "What's happened is freak luck.",
+      "wordCount": 5
+    },
+    {
+      "id": 554,
+      "index": 554,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Freak luck for sure.",
+      "wordCount": 4
+    },
+    {
+      "id": 555,
+      "index": 555,
+      "character": "MICKEY",
+      "gender": "Male",
+      "line": "Look at all them other fighters. Real good boys. Good records. Colorful. Fight their hearts out for peanuts -- But who cared? Nobody. They got it shoved in their back door. Nobody ever give them a shot at the title...",
+      "wordCount": 40
+    },
+    {
+      "id": 556,
+      "index": 556,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Freak luck is a strange thing.",
+      "wordCount": 6
+    },
+    {
+      "id": 557,
+      "index": 557,
+      "character": "MICKEY",
+      "gender": "Male",
+      "line": "Whatta' those?",
+      "wordCount": 2
+    },
+    {
+      "id": 558,
+      "index": 558,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Turtles -- domestic turtles.",
+      "wordCount": 4
+    },
+    {
+      "id": 559,
+      "index": 559,
+      "character": "MICKEY",
+      "gender": "Male",
+      "line": "I'm here tellin' ya to be very smart with this shot. Like the Bible sez, ya don't get no second chance.",
+      "wordCount": 21
+    },
+    {
+      "id": 560,
+      "index": 560,
+      "character": "MICKEY",
+      "gender": "Male",
+      "line": "Ya need a manager. An advisor. I been in the racket fifty years. I done it all, there ain't nothin' about the world of pugilism that ain't livin' up here.",
+      "wordCount": 30
+    },
+    {
+      "id": 561,
+      "index": 561,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Fifty years, huh.",
+      "wordCount": 3
+    },
+    {
+      "id": 562,
+      "index": 562,
+      "character": "MICKEY",
+      "gender": "Male",
+      "line": "Fifty years. The rep is known around Philly, an' a good rep can't be bought, but I don't have to tell you that.",
+      "wordCount": 23
+    },
+    {
+      "id": 563,
+      "index": 563,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "How 'bout a glass of water?",
+      "wordCount": 6
+    },
+    {
+      "id": 564,
+      "index": 564,
+      "character": "MICKEY",
+      "gender": "Male",
+      "line": "Rocky, d'ya know what I done?",
+      "wordCount": 6
+    },
+    {
+      "id": 565,
+      "index": 565,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "... What?",
+      "wordCount": 2
+    },
+    {
+      "id": 566,
+      "index": 566,
+      "character": "MICKEY",
+      "gender": "Male",
+      "line": "I done it all. I've done an' seen everything'. Believe what I'm tellin' ya -- Ya shoulda seen the night in Brooklyn, I smacked 'Ginny' Russo outta the ring, September 14, 1923 -- same night Firpo knocked Dempsey outta the ring. But who got the Press? He did. He had a manager -- September 14, 1923.",
+      "wordCount": 56
+    },
+    {
+      "id": 567,
+      "index": 567,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Ya got a good mind for dates.",
+      "wordCount": 7
+    },
+    {
+      "id": 568,
+      "index": 568,
+      "character": "MICKEY",
+      "gender": "Male",
+      "line": "Look at this face -- twenty- one stitches over the left eye, thirty-four over the right -- my nose was busted seventeen times, the last being the Sailor Mike fight New Year's Eve, 1940, in Camden, New Jersey -- What a professional pastin' I give him. Here, read about it.",
+      "wordCount": 50
+    },
+    {
+      "id": 569,
+      "index": 569,
+      "character": "MICKEY",
+      "gender": "Male",
+      "line": "An' he give me the vegetable on the ear. I got pain an' experience... an' you got heart -- kinda remind me of Marciano, ya do.",
+      "wordCount": 26
+    },
+    {
+      "id": 570,
+      "index": 570,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Nobody ever said that -- There's his picture.",
+      "wordCount": 8
+    },
+    {
+      "id": 571,
+      "index": 571,
+      "character": "MICKEY",
+      "gender": "Male",
+      "line": "Yeah, ya kinda remind me of the Rock. Ya move like 'im.",
+      "wordCount": 12
+    },
+    {
+      "id": 572,
+      "index": 572,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Really think so?",
+      "wordCount": 3
+    },
+    {
+      "id": 573,
+      "index": 573,
+      "character": "MICKEY",
+      "gender": "Male",
+      "line": "Ya got heart.",
+      "wordCount": 3
+    },
+    {
+      "id": 574,
+      "index": 574,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Heart, but I ain't got no Tocker.",
+      "wordCount": 7
+    },
+    {
+      "id": 575,
+      "index": 575,
+      "character": "MICKEY",
+      "gender": "Male",
+      "line": "Christ, I know this business. Rocky, when I was fightin' it was the dirtiest racket goin', see. Pugs like me was treated like fightin' dogs -- throw ya in the pit an' for ten bucks ya try to kill each other. We had no management...",
+      "wordCount": 45
+    },
+    {
+      "id": 576,
+      "index": 576,
+      "character": "MICKEY",
+      "gender": "Male",
+      "line": "fought in boxcars, in whorehouse basements, any joint with a floor -- October 1931 I fought a bum who put a tack in the thumb of his glove an' punched so many holes in my face I had spit shootin' outta my cheeks -- I never had no manager watchin' out for me -- See that picture outside the gym -- 'Mighty Mick,' that's me in my prime. I had all the tools. I coulda starched any lightweight husky on the East Coast -- But I had no management. Nobody ever got to know how slick I was, but I had a head for business an' stashed a few bucks an' opened the gym -- It's a dirt hole, I know it, but that an' a lotta scars is what I got to show for fifty years in the business, kid -- now you come along with this shot an' I feel like it's me gettin' the shot I never got... Yeah, we was treated like dogs -- like them Dago's, no offense, in the Colosseum in Rome there -- An' now I got all this knowledge, I wanna give it to ya so I can protect ya an' make sure ya get the best deal ya can!",
+      "wordCount": 208
+    },
+    {
+      "id": 577,
+      "index": 577,
+      "character": "MICKEY",
+      "gender": "Male",
+      "line": "Respect, I always dished ya respect.",
+      "wordCount": 6
+    },
+    {
+      "id": 578,
+      "index": 578,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "... Ya gave Dipper my locker.",
+      "wordCount": 6
+    },
+    {
+      "id": 579,
+      "index": 579,
+      "character": "MICKEY",
+      "gender": "Male",
+      "line": "I'm sorry, I -- I made a mistake. Kid, I'm askin' man to man. I wanna be ya manager.",
+      "wordCount": 19
+    },
+    {
+      "id": 580,
+      "index": 580,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "The fight's set -- I don't need a manager.",
+      "wordCount": 9
+    },
+    {
+      "id": 581,
+      "index": 581,
+      "character": "MICKEY",
+      "gender": "Male",
+      "line": "Look, you can't buy what I know. Ya can't. I've seen it all! I got pain an' I got experience.",
+      "wordCount": 20
+    },
+    {
+      "id": 582,
+      "index": 582,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "I got pain an' experience too.",
+      "wordCount": 6
+    },
+    {
+      "id": 583,
+      "index": 583,
+      "character": "MICKEY",
+      "gender": "Male",
+      "line": "Please, kid.",
+      "wordCount": 2
+    },
+    {
+      "id": 584,
+      "index": 584,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Whatever I got, I always got on the slide. This shot's no different. I didn't earn nothin' -- I got it on the slide... I needed ya help about ten years ago when I was startin', but ya never helped me none.",
+      "wordCount": 42
+    },
+    {
+      "id": 585,
+      "index": 585,
+      "character": "MICKEY",
+      "gender": "Male",
+      "line": "If ya was wantin' my help, why didn't ya ask? Just ask.",
+      "wordCount": 12
+    },
+    {
+      "id": 586,
+      "index": 586,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "I asked, but ya never helped nothin'! -- Like the Bible sez, ya don't get no second chance.",
+      "wordCount": 18
+    },
+    {
+      "id": 587,
+      "index": 587,
+      "character": "MICKEY",
+      "gender": "Male",
+      "line": "Rocky, I'm seventy-six years old. Maybe you can be the winner I never was -- your shot is my last shot!",
+      "wordCount": 21
+    },
+    {
+      "id": 588,
+      "index": 588,
+      "character": "PAULIE",
+      "gender": "Male",
+      "line": "How ya feelin'?",
+      "wordCount": 3
+    },
+    {
+      "id": 589,
+      "index": 589,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "... Tight.",
+      "wordCount": 2
+    },
+    {
+      "id": 590,
+      "index": 590,
+      "character": "PAULIE",
+      "gender": "Male",
+      "line": "I got whiskey here.",
+      "wordCount": 4
+    },
+    {
+      "id": 591,
+      "index": 591,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "... No.",
+      "wordCount": 2
+    },
+    {
+      "id": 592,
+      "index": 592,
+      "character": "PAULIE",
+      "gender": "Male",
+      "line": "This is the guy who's fightin' Apollo Creed.",
+      "wordCount": 8
+    },
+    {
+      "id": 593,
+      "index": 593,
+      "character": "JOSE",
+      "gender": "NA",
+      "line": "Good luck -- Kill him, man.",
+      "wordCount": 6
+    },
+    {
+      "id": 594,
+      "index": 594,
+      "character": "PAULIE",
+      "gender": "Male",
+      "line": "Hip -- Hip -- Hooray! C'mon -- Hip -- Hip --",
+      "wordCount": 11
+    },
+    {
+      "id": 595,
+      "index": 595,
+      "character": "JOSE",
+      "gender": "NA",
+      "line": "Hooray, man.",
+      "wordCount": 2
+    },
+    {
+      "id": 596,
+      "index": 596,
+      "character": "PAULIE",
+      "gender": "Male",
+      "line": "Rock'll be comin' by every mornin' to pick up some Prime -- can't train on that store crap.",
+      "wordCount": 18
+    },
+    {
+      "id": 597,
+      "index": 597,
+      "character": "PAULIE",
+      "gender": "Male",
+      "line": "If ya don't pay Gazzo, ya end up hangin' on the hook, right?",
+      "wordCount": 13
+    },
+    {
+      "id": 598,
+      "index": 598,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Gazzo's a good man.",
+      "wordCount": 4
+    },
+    {
+      "id": 599,
+      "index": 599,
+      "character": "PAULIE",
+      "gender": "Male",
+      "line": "How 'bout you talk to 'em about me? Please do me that favor.",
+      "wordCount": 13
+    },
+    {
+      "id": 600,
+      "index": 600,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Keep this job, ya eat better.",
+      "wordCount": 6
+    },
+    {
+      "id": 601,
+      "index": 601,
+      "character": "PAULIE",
+      "gender": "Male",
+      "line": "Y'know, d'ya think you an' my sister -- Ah, doin' good together?",
+      "wordCount": 12
+    },
+    {
+      "id": 602,
+      "index": 602,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Whatta you think?",
+      "wordCount": 3
+    },
+    {
+      "id": 603,
+      "index": 603,
+      "character": "PAULIE",
+      "gender": "Male",
+      "line": "Ain't sure, what's the story?",
+      "wordCount": 5
+    },
+    {
+      "id": 604,
+      "index": 604,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "What?",
+      "wordCount": 1
+    },
+    {
+      "id": 605,
+      "index": 605,
+      "character": "PAULIE",
+      "gender": "Male",
+      "line": "The story -- what's happenin'?",
+      "wordCount": 5
+    },
+    {
+      "id": 606,
+      "index": 606,
+      "character": "PAULIE",
+      "gender": "Male",
+      "line": "Ya really like her?",
+      "wordCount": 4
+    },
+    {
+      "id": 607,
+      "index": 607,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Sure I like her.",
+      "wordCount": 4
+    },
+    {
+      "id": 608,
+      "index": 608,
+      "character": "PAULIE",
+      "gender": "Male",
+      "line": "What's the attraction? I don't see it?",
+      "wordCount": 7
+    },
+    {
+      "id": 609,
+      "index": 609,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "I dunno -- she fills gaps.",
+      "wordCount": 6
+    },
+    {
+      "id": 610,
+      "index": 610,
+      "character": "PAULIE",
+      "gender": "Male",
+      "line": "What gaps?",
+      "wordCount": 2
+    },
+    {
+      "id": 611,
+      "index": 611,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "She got gaps. I got gaps -- together we fill the gaps.",
+      "wordCount": 12
+    },
+    {
+      "id": 612,
+      "index": 612,
+      "character": "PAULIE",
+      "gender": "Male",
+      "line": "You ballin' her?",
+      "wordCount": 3
+    },
+    {
+      "id": 613,
+      "index": 613,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Don't talk dirty 'bout ya sister.",
+      "wordCount": 6
+    },
+    {
+      "id": 614,
+      "index": 614,
+      "character": "PAULIE",
+      "gender": "Male",
+      "line": "C'mon, ya screwin' her?",
+      "wordCount": 4
+    },
+    {
+      "id": 615,
+      "index": 615,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "That's why I can't put ya together with Gazzo, cause ya talk too much -- big mouth.",
+      "wordCount": 17
+    },
+    {
+      "id": 616,
+      "index": 616,
+      "character": "PAULIE",
+      "gender": "Male",
+      "line": "Hit the rump. The rump! Ya'll break the ribs!",
+      "wordCount": 9
+    },
+    {
+      "id": 617,
+      "index": 617,
+      "character": "PAULIE",
+      "gender": "Male",
+      "line": "We do that to Creed an' they'll take us to jail for murder.",
+      "wordCount": 13
+    },
+    {
+      "id": 618,
+      "index": 618,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Don't talk dirty 'bout ya sister.",
+      "wordCount": 6
+    },
+    {
+      "id": 619,
+      "index": 619,
+      "character": "MICKEY",
+      "gender": "Male",
+      "line": "Stop! Stop! I can't stand it! It's clumsy. You're off balance.",
+      "wordCount": 11
+    },
+    {
+      "id": 620,
+      "index": 620,
+      "character": "MICKEY",
+      "gender": "Male",
+      "line": "Tie it to both ankles -- Leave two feet slack.",
+      "wordCount": 10
+    },
+    {
+      "id": 621,
+      "index": 621,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "I never had good footwork.",
+      "wordCount": 5
+    },
+    {
+      "id": 622,
+      "index": 622,
+      "character": "MICKEY",
+      "gender": "Male",
+      "line": "Forget the footwork -- You're off balance. The legs are sticking everywhere. Marciano had the same problem, an' the string cured it. When you can hit and move without breakin' the string you'll have balance.",
+      "wordCount": 35
+    },
+    {
+      "id": 623,
+      "index": 623,
+      "character": "MIKE",
+      "gender": "Male",
+      "line": "You'll be a very dangerous person.",
+      "wordCount": 6
+    },
+    {
+      "id": 624,
+      "index": 624,
+      "character": "BOY",
+      "gender": "NA",
+      "line": "Rocky, could we have your autograph?",
+      "wordCount": 6
+    },
+    {
+      "id": 625,
+      "index": 625,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "... Sure.",
+      "wordCount": 2
+    },
+    {
+      "id": 626,
+      "index": 626,
+      "character": "MICKEY",
+      "gender": "Male",
+      "line": "Don't you boys ever interrupt when I'm conductin' business, or I'll kill you both -- Go away.",
+      "wordCount": 17
+    },
+    {
+      "id": 627,
+      "index": 627,
+      "character": "MICKEY",
+      "gender": "Male",
+      "line": "Autographs! Ya wanna be a writer or a fighter? Let's work.",
+      "wordCount": 11
+    },
+    {
+      "id": 628,
+      "index": 628,
+      "character": "MIKE",
+      "gender": "Male",
+      "line": "... we got visitors.",
+      "wordCount": 4
+    },
+    {
+      "id": 629,
+      "index": 629,
+      "character": "MICKEY",
+      "gender": "Male",
+      "line": "Can I help you guys?",
+      "wordCount": 5
+    },
+    {
+      "id": 630,
+      "index": 630,
+      "character": "REPORTER",
+      "gender": "NA",
+      "line": "Set the camera up over there. We're from Channel Seven -- Covering the pre-fight training.",
+      "wordCount": 15
+    },
+    {
+      "id": 631,
+      "index": 631,
+      "character": "MICKEY",
+      "gender": "Male",
+      "line": "I own the place.",
+      "wordCount": 4
+    },
+    {
+      "id": 632,
+      "index": 632,
+      "character": "CAMERAMAN",
+      "gender": "NA",
+      "line": "Rolling here.",
+      "wordCount": 2
+    },
+    {
+      "id": 633,
+      "index": 633,
+      "character": "SOUND MAN",
+      "gender": "NA",
+      "line": "Speed here.",
+      "wordCount": 2
+    },
+    {
+      "id": 634,
+      "index": 634,
+      "character": "REPORTER",
+      "gender": "NA",
+      "line": "We're here at Goldmill's Gym -- A Philadelphia landmark of sorts since 1929 -- The stench of toil permeates every corner. The sweat a trademark of a unique profession... Yet, the most unique fixture is an unprecedented 50 to 1 underdog heavyweight named, Rocky Balboa.",
+      "wordCount": 45
+    },
+    {
+      "id": 635,
+      "index": 635,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Should I do this?",
+      "wordCount": 4
+    },
+    {
+      "id": 636,
+      "index": 636,
+      "character": "REPORTER",
+      "gender": "NA",
+      "line": "So much has happened lately -- Has it changed your life style much?",
+      "wordCount": 13
+    },
+    {
+      "id": 637,
+      "index": 637,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "... People talk to me more.",
+      "wordCount": 6
+    },
+    {
+      "id": 638,
+      "index": 638,
+      "character": "REPORTER",
+      "gender": "NA",
+      "line": "How're you preparing for this Bicentennial bout?",
+      "wordCount": 7
+    },
+    {
+      "id": 639,
+      "index": 639,
+      "character": "FIGHTER",
+      "gender": "NA",
+      "line": "Readin' fuckin' history books, man!",
+      "wordCount": 5
+    },
+    {
+      "id": 640,
+      "index": 640,
+      "character": "REPORTER",
+      "gender": "NA",
+      "line": "We can cut that out later. Apollo Creed says he'll let you stay three rounds before he puts you away.",
+      "wordCount": 20
+    },
+    {
+      "id": 641,
+      "index": 641,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Apollo's a great fighter.",
+      "wordCount": 4
+    },
+    {
+      "id": 642,
+      "index": 642,
+      "character": "REPORTER",
+      "gender": "NA",
+      "line": "Do you feel you have a chance?",
+      "wordCount": 7
+    },
+    {
+      "id": 643,
+      "index": 643,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Maybe --",
+      "wordCount": 2
+    },
+    {
+      "id": 644,
+      "index": 644,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "I'll tear his head off.",
+      "wordCount": 5
+    },
+    {
+      "id": 645,
+      "index": 645,
+      "character": "REPORTER",
+      "gender": "NA",
+      "line": "Do you have anything derogatory to say about the Champion?",
+      "wordCount": 10
+    },
+    {
+      "id": 646,
+      "index": 646,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Derogatory? Yeah, he's great.",
+      "wordCount": 4
+    },
+    {
+      "id": 647,
+      "index": 647,
+      "character": "APOLLO",
+      "gender": "Male",
+      "line": "I am the Champion of the whole world!!!",
+      "wordCount": 8
+    },
+    {
+      "id": 648,
+      "index": 648,
+      "character": "APOLLO",
+      "gender": "Male",
+      "line": "Italian Stallion, I come over to tell you to be very smart an' after this fight donate what's gonna be left of your body to science, cause after this fight what's left won't fill a tuna fish can!... So beware, Mon Cher!!!",
+      "wordCount": 42
+    },
+    {
+      "id": 649,
+      "index": 649,
+      "character": "APOLLO",
+      "gender": "Male",
+      "line": "This classic fight -- Tha's right, this bicentennial fight's goin' down in the history books 'cause January first I'm gonna be the first man to bounce another man offa the planet Pluto!",
+      "wordCount": 32
+    },
+    {
+      "id": 650,
+      "index": 650,
+      "character": "APOLLO",
+      "gender": "Male",
+      "line": "Now I gots a special announcement, y'hear. For the first time in alotta years this championship fight is gonna be on your home T.V.! Free -- 'Course that's just for Philly -- My present to the city...",
+      "wordCount": 37
+    },
+    {
+      "id": 651,
+      "index": 651,
+      "character": "APOLLO",
+      "gender": "Male",
+      "line": "Now some ya'll ain't much on likin' me, but ya gotta admit Apollo Creed is one DAMN generous, 100% pure, government inspected, Afro-American Folk Hero!!!",
+      "wordCount": 25
+    },
+    {
+      "id": 652,
+      "index": 652,
+      "character": "DIPPER",
+      "gender": "Male",
+      "line": "Ya nothin', Boy!",
+      "wordCount": 3
+    },
+    {
+      "id": 653,
+      "index": 653,
+      "character": "DIPPER",
+      "gender": "Male",
+      "line": "I say ya nothin'!",
+      "wordCount": 4
+    },
+    {
+      "id": 654,
+      "index": 654,
+      "character": "MICKEY",
+      "gender": "Male",
+      "line": "What's happenin' here?",
+      "wordCount": 3
+    },
+    {
+      "id": 655,
+      "index": 655,
+      "character": "DIPPER",
+      "gender": "Male",
+      "line": "I'm happenin'! This pig is takin' my shot -- I iz a contender. He's nothin'.",
+      "wordCount": 15
+    },
+    {
+      "id": 656,
+      "index": 656,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Yo', Dipper, why're ya --",
+      "wordCount": 5
+    },
+    {
+      "id": 657,
+      "index": 657,
+      "character": "DIPPER",
+      "gender": "Male",
+      "line": "Spar me in front of these here TV dudes -- I knock ya ass to Jersey!",
+      "wordCount": 16
+    },
+    {
+      "id": 658,
+      "index": 658,
+      "character": "MICKEY",
+      "gender": "Male",
+      "line": "You can forget about sparring, kid.",
+      "wordCount": 6
+    },
+    {
+      "id": 659,
+      "index": 659,
+      "character": "DIPPER",
+      "gender": "Male",
+      "line": "Yo' know I iz the best man here! Yo' said so yoself!",
+      "wordCount": 12
+    },
+    {
+      "id": 660,
+      "index": 660,
+      "character": "MICKEY",
+      "gender": "Male",
+      "line": "Why let Rocky here take a chance on cuttin' or breakin' a hand? -- Take a shower, Dipper.",
+      "wordCount": 18
+    },
+    {
+      "id": 661,
+      "index": 661,
+      "character": "DIPPER",
+      "gender": "Male",
+      "line": "Don't mouth me, old man, I'll knock yo' out too. C'mon, wop, spar me, let everybody see who's got the heat around here.",
+      "wordCount": 23
+    },
+    {
+      "id": 662,
+      "index": 662,
+      "character": "DIPPER",
+      "gender": "Male",
+      "line": "Man, yo' best keep them cameras out! Fight me, boy! Let Creed here see the kind of punk he's fightin'!",
+      "wordCount": 20
+    },
+    {
+      "id": 663,
+      "index": 663,
+      "character": "MIKE",
+      "gender": "Male",
+      "line": "Don't chance it, man -- He's sick.",
+      "wordCount": 7
+    },
+    {
+      "id": 664,
+      "index": 664,
+      "character": "MICKEY",
+      "gender": "Male",
+      "line": "This is gettin' outta hand -- Rocky will fight in the ring January first, not here!",
+      "wordCount": 16
+    },
+    {
+      "id": 665,
+      "index": 665,
+      "character": "DIPPER",
+      "gender": "Male",
+      "line": "Yo' yellow, old man.",
+      "wordCount": 4
+    },
+    {
+      "id": 666,
+      "index": 666,
+      "character": "MICKEY",
+      "gender": "Male",
+      "line": "Not yellow, cautious. See, it's very easy for a fighter to accidentally hurt --",
+      "wordCount": 14
+    },
+    {
+      "id": 667,
+      "index": 667,
+      "character": "DIPPER",
+      "gender": "Male",
+      "line": "If yo're afraid to fight me, then get down an' kiss my feet, boy.",
+      "wordCount": 14
+    },
+    {
+      "id": 668,
+      "index": 668,
+      "character": "MICKEY",
+      "gender": "Male",
+      "line": "Let's take a walk, Rock. Please, don't take a chance. He wants to hurt you so you can't fight.",
+      "wordCount": 19
+    },
+    {
+      "id": 669,
+      "index": 669,
+      "character": "MIKE",
+      "gender": "Male",
+      "line": "Why you tryin' to cut 'im, man! Back off, scumbag, or I'll bite your face!",
+      "wordCount": 15
+    },
+    {
+      "id": 670,
+      "index": 670,
+      "character": "DIPPER",
+      "gender": "Male",
+      "line": "... Now, boy, kiss my feet.",
+      "wordCount": 6
+    },
+    {
+      "id": 671,
+      "index": 671,
+      "character": "DIPPER",
+      "gender": "Male",
+      "line": "... Kiss 'em.",
+      "wordCount": 3
+    },
+    {
+      "id": 672,
+      "index": 672,
+      "character": "MICKEY",
+      "gender": "Male",
+      "line": "The kid's got cannons -- Print that.",
+      "wordCount": 7
+    },
+    {
+      "id": 673,
+      "index": 673,
+      "character": "ADRIAN",
+      "gender": "Female",
+      "line": "Don't you open them anymore?",
+      "wordCount": 5
+    },
+    {
+      "id": 674,
+      "index": 674,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "They either say, 'Kill the nigger' or 'Hope you die, Honky.' -- What ya got in the bag?",
+      "wordCount": 18
+    },
+    {
+      "id": 675,
+      "index": 675,
+      "character": "ADRIAN",
+      "gender": "Female",
+      "line": "Like?",
+      "wordCount": 1
+    },
+    {
+      "id": 676,
+      "index": 676,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Sharp -- Real nice.",
+      "wordCount": 4
+    },
+    {
+      "id": 677,
+      "index": 677,
+      "character": "ADRIAN",
+      "gender": "Female",
+      "line": "Really -- You don't think they're overly feminine?",
+      "wordCount": 8
+    },
+    {
+      "id": 678,
+      "index": 678,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "No... Sharp -- You look great.",
+      "wordCount": 6
+    },
+    {
+      "id": 679,
+      "index": 679,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Adrian, you really look great, y'know -- But I can't fool around durin' trainin' -- makes the legs weak.",
+      "wordCount": 19
+    },
+    {
+      "id": 680,
+      "index": 680,
+      "character": "ADRIAN",
+      "gender": "Female",
+      "line": "Don't want weak legs.",
+      "wordCount": 4
+    },
+    {
+      "id": 681,
+      "index": 681,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Can't fool around -- You look very great.",
+      "wordCount": 8
+    },
+    {
+      "id": 682,
+      "index": 682,
+      "character": "ADRIAN",
+      "gender": "Female",
+      "line": "-- The legs.",
+      "wordCount": 3
+    },
+    {
+      "id": 683,
+      "index": 683,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Yeah... But I think weak legs ain't bad sometimes, y'know.",
+      "wordCount": 10
+    },
+    {
+      "id": 684,
+      "index": 684,
+      "character": "ADRIAN",
+      "gender": "Female",
+      "line": "I thought it might be cute.",
+      "wordCount": 6
+    },
+    {
+      "id": 685,
+      "index": 685,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Ya right -- Mebbe we best just hold hands -- the shirt made me feel guilty, y'know.",
+      "wordCount": 17
+    },
+    {
+      "id": 686,
+      "index": 686,
+      "character": "PAULIE",
+      "gender": "Male",
+      "line": "Yo, Rock. I made a few phone calls an' thanks to me ya goin' to be a big man -- Thatta dog?",
+      "wordCount": 22
+    },
+    {
+      "id": 687,
+      "index": 687,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Whatta these guys want?",
+      "wordCount": 4
+    },
+    {
+      "id": 688,
+      "index": 688,
+      "character": "PAULIE",
+      "gender": "Male",
+      "line": "To see ya train.",
+      "wordCount": 4
+    },
+    {
+      "id": 689,
+      "index": 689,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Yo, what's with you? -- It was suppose to be private.",
+      "wordCount": 11
+    },
+    {
+      "id": 690,
+      "index": 690,
+      "character": "PAULIE",
+      "gender": "Male",
+      "line": "I thought I was doin' ya a favor -- C'mon inside -- Y'know, my sister really likes ya.",
+      "wordCount": 18
+    },
+    {
+      "id": 691,
+      "index": 691,
+      "character": "COMMENTATOR",
+      "gender": "Female",
+      "line": "Just relax, Mr. Balboa -- Today we're here with heavyweight challenger, Rocky Balboa. The reason we are standing in a refrigerated box is that Mr. Balboa has an unusual method of training and in a moment he is going to demonstrate it for our viewing audience -- But first, Rocky, how did you ever come to train in an icebox?",
+      "wordCount": 60
+    },
+    {
+      "id": 692,
+      "index": 692,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Ah -- My buddy Paulie let me in one day an' I hit the beef here an' liked it -- An' since I become a challenger, the owner don't mind neither.",
+      "wordCount": 31
+    },
+    {
+      "id": 693,
+      "index": 693,
+      "character": "COMMENTATOR",
+      "gender": "Female",
+      "line": "Is this a common training method -- I mean do other fighters pound raw meat?",
+      "wordCount": 15
+    },
+    {
+      "id": 694,
+      "index": 694,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "I think me and Paulie invented it.",
+      "wordCount": 7
+    },
+    {
+      "id": 695,
+      "index": 695,
+      "character": "COMMENTATOR",
+      "gender": "Female",
+      "line": "Would you give us a demonstration?",
+      "wordCount": 6
+    },
+    {
+      "id": 696,
+      "index": 696,
+      "character": "COMMENTATOR",
+      "gender": "Female",
+      "line": "... Diane Lewis in the meathouse with the Southpaw, Rocky Balboa.",
+      "wordCount": 11
+    },
+    {
+      "id": 697,
+      "index": 697,
+      "character": "APOLLO",
+      "gender": "Male",
+      "line": "How much is being channeled into West Coast closed-circuit advertising?",
+      "wordCount": 10
+    },
+    {
+      "id": 698,
+      "index": 698,
+      "character": "LAWYER",
+      "gender": "NA",
+      "line": "Three hundred thousand.",
+      "wordCount": 3
+    },
+    {
+      "id": 699,
+      "index": 699,
+      "character": "APOLLO",
+      "gender": "Male",
+      "line": "Make it four hundred an' fifty. Send two hundred roses to the mayor's wife from me, get a picture an' make sure it gets all the papers.",
+      "wordCount": 27
+    },
+    {
+      "id": 700,
+      "index": 700,
+      "character": "APOLLO",
+      "gender": "Male",
+      "line": "Yeah, I'd like to get Canada -- see, if we can get a tax break -- Gimme the figures on the Program Concession.",
+      "wordCount": 23
+    },
+    {
+      "id": 701,
+      "index": 701,
+      "character": "TRAINER",
+      "gender": "NA",
+      "line": "Apollo, you oughta come see this boy you're gonna fight on TV -- looks like he means business.",
+      "wordCount": 18
+    },
+    {
+      "id": 702,
+      "index": 702,
+      "character": "APOLLO",
+      "gender": "Male",
+      "line": "I mean business, too -- The gross rental of the arena is gonna include the four hundred ushers, right? -- Gimme some coffee.",
+      "wordCount": 23
+    },
+    {
+      "id": 703,
+      "index": 703,
+      "character": "ADRIAN",
+      "gender": "Female",
+      "line": "... And he called the reporters --",
+      "wordCount": 7
+    },
+    {
+      "id": 704,
+      "index": 704,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Yeah... Threw my whole day off.",
+      "wordCount": 6
+    },
+    {
+      "id": 705,
+      "index": 705,
+      "character": "ADRIAN",
+      "gender": "Female",
+      "line": "Don't be mad at him -- He just wants to help.",
+      "wordCount": 11
+    },
+    {
+      "id": 706,
+      "index": 706,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Yo -- I ain't mad. I'm just outta joint when reporters are around -- They take cheap shots an' Paulie knows it.",
+      "wordCount": 22
+    },
+    {
+      "id": 707,
+      "index": 707,
+      "character": "ADRIAN",
+      "gender": "Female",
+      "line": "... Are you going to say anything to him?",
+      "wordCount": 9
+    },
+    {
+      "id": 708,
+      "index": 708,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "... What's to say? I dunno what he wants from me --",
+      "wordCount": 12
+    },
+    {
+      "id": 709,
+      "index": 709,
+      "character": "PAULIE",
+      "gender": "Male",
+      "line": "Nothin'! I want nothin' from you!!!",
+      "wordCount": 6
+    },
+    {
+      "id": 710,
+      "index": 710,
+      "character": "ADRIAN",
+      "gender": "Female",
+      "line": "Paulie!",
+      "wordCount": 1
+    },
+    {
+      "id": 711,
+      "index": 711,
+      "character": "PAULIE",
+      "gender": "Male",
+      "line": "Shutup! I want nothin' -- I ain't no charity case! Get outta my house!",
+      "wordCount": 14
+    },
+    {
+      "id": 712,
+      "index": 712,
+      "character": "ADRIAN",
+      "gender": "Female",
+      "line": "It's not your house --",
+      "wordCount": 5
+    },
+    {
+      "id": 713,
+      "index": 713,
+      "character": "PAULIE",
+      "gender": "Male",
+      "line": "You ain't no friend no more -- Go home! Outta my house I want ya!",
+      "wordCount": 15
+    },
+    {
+      "id": 714,
+      "index": 714,
+      "character": "ADRIAN",
+      "gender": "Female",
+      "line": "Don't talk like that to him!",
+      "wordCount": 6
+    },
+    {
+      "id": 715,
+      "index": 715,
+      "character": "PAULIE",
+      "gender": "Male",
+      "line": "Get outta my life both of ya's.",
+      "wordCount": 7
+    },
+    {
+      "id": 716,
+      "index": 716,
+      "character": "PAULIE",
+      "gender": "Male",
+      "line": "Outta my house I want ya!!",
+      "wordCount": 6
+    },
+    {
+      "id": 717,
+      "index": 717,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "... It's cold outside, Paulie.",
+      "wordCount": 5
+    },
+    {
+      "id": 718,
+      "index": 718,
+      "character": "PAULIE",
+      "gender": "Male",
+      "line": "I don't want ya messin' up my sister no more -- He's scum from the corner, I don't raise ya to hang with no bum!",
+      "wordCount": 25
+    },
+    {
+      "id": 719,
+      "index": 719,
+      "character": "PAULIE",
+      "gender": "Male",
+      "line": "... Wanna hit on me? C'mon -- C'mon, I'll break both ya arms so's they never work...",
+      "wordCount": 17
+    },
+    {
+      "id": 720,
+      "index": 720,
+      "character": "ADRIAN",
+      "gender": "Female",
+      "line": "... Paulie. Stop now!",
+      "wordCount": 4
+    },
+    {
+      "id": 721,
+      "index": 721,
+      "character": "PAULIE",
+      "gender": "Male",
+      "line": "I want 'im outta here -- Don't think I'm good enough to work for Gazzo? That's what I think of bums like you an' Gazzo! You're goin' up an' don't care enough to throw Paulie some crumbs! I give ya meat, an' I give ya my sister, too!",
+      "wordCount": 48
+    },
+    {
+      "id": 722,
+      "index": 722,
+      "character": "ADRIAN",
+      "gender": "Female",
+      "line": "Only a pig would say that!",
+      "wordCount": 6
+    },
+    {
+      "id": 723,
+      "index": 723,
+      "character": "PAULIE",
+      "gender": "Male",
+      "line": "You forget what I went through to give ya the best.",
+      "wordCount": 11
+    },
+    {
+      "id": 724,
+      "index": 724,
+      "character": "ADRIAN",
+      "gender": "Female",
+      "line": "You gave me what?! Knots! You gave me knots in here every day -- you made me scared of everything!",
+      "wordCount": 20
+    },
+    {
+      "id": 725,
+      "index": 725,
+      "character": "PAULIE",
+      "gender": "Male",
+      "line": "I always seen ya had the best, but did ya ever think of puttin' in a good word for me with this scumbag!",
+      "wordCount": 23
+    },
+    {
+      "id": 726,
+      "index": 726,
+      "character": "ADRIAN",
+      "gender": "Female",
+      "line": "Don't do that again!",
+      "wordCount": 4
+    },
+    {
+      "id": 727,
+      "index": 727,
+      "character": "PAULIE",
+      "gender": "Male",
+      "line": "Get away from me -- I could never even get married 'cause you couldn't live by yaself -- ya'd die by yaself! So instead I put you two together -- Did ya think of puttin' in a good word for me? -- You owe me!",
+      "wordCount": 45
+    },
+    {
+      "id": 728,
+      "index": 728,
+      "character": "ADRIAN",
+      "gender": "Female",
+      "line": "Owe you what?",
+      "wordCount": 3
+    },
+    {
+      "id": 729,
+      "index": 729,
+      "character": "PAULIE",
+      "gender": "Male",
+      "line": "You owe me an' are supposed to treat me good!",
+      "wordCount": 10
+    },
+    {
+      "id": 730,
+      "index": 730,
+      "character": "ADRIAN",
+      "gender": "Female",
+      "line": "Good? Good, Paulie?! I've been treatin' you like a baby. Since I can't remember it's so long -- I'm the only one who feeds you an' puts you in bed when ya can't stand up -- and it's you that made me feel like a loser -- That's what ya use to call me 'Loser' -- What kind of name is that? So can ya blame me for not remembering to talk about you when I'm with Rocky -- I don't owe you, Paulie, you owe me.",
+      "wordCount": 87
+    },
+    {
+      "id": 731,
+      "index": 731,
+      "character": "PAULIE",
+      "gender": "Male",
+      "line": "You busted?!",
+      "wordCount": 2
+    },
+    {
+      "id": 732,
+      "index": 732,
+      "character": "ADRIAN",
+      "gender": "Female",
+      "line": "What?!",
+      "wordCount": 1
+    },
+    {
+      "id": 733,
+      "index": 733,
+      "character": "PAULIE",
+      "gender": "Male",
+      "line": "You a virgin? -- Ya let 'im in ya pants, didn't ya! Ya pulled down ya pants an' let him have it, didn't ya!!",
+      "wordCount": 24
+    },
+    {
+      "id": 734,
+      "index": 734,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Hey --",
+      "wordCount": 2
+    },
+    {
+      "id": 735,
+      "index": 735,
+      "character": "PAULIE",
+      "gender": "Male",
+      "line": "... I can't haul meat no more.",
+      "wordCount": 7
+    },
+    {
+      "id": 736,
+      "index": 736,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "What can I do about it?",
+      "wordCount": 6
+    },
+    {
+      "id": 737,
+      "index": 737,
+      "character": "PAULIE",
+      "gender": "Male",
+      "line": "Christ, I been beggin' ya for a break until I'm sick inside.",
+      "wordCount": 12
+    },
+    {
+      "id": 738,
+      "index": 738,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "What break? Huh? What break! Who am I to give breaks! I'm a fighter, you haul meat. You do what you do an' I do what I do best -- that's it -- that's life, man!",
+      "wordCount": 36
+    },
+    {
+      "id": 739,
+      "index": 739,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "... An' what ya said to my girlfriend ain't right -- Do it again, I'll kill ya.",
+      "wordCount": 17
+    },
+    {
+      "id": 740,
+      "index": 740,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Wanna hear a dirty joke?",
+      "wordCount": 5
+    },
+    {
+      "id": 741,
+      "index": 741,
+      "character": "ADRIAN",
+      "gender": "Female",
+      "line": "... Yes --",
+      "wordCount": 3
+    },
+    {
+      "id": 742,
+      "index": 742,
+      "character": "MICKEY",
+      "gender": "Male",
+      "line": "His defense is great, can't lie 'bout that -- You have a rollin' style. Can't retreat as fast -- But your style ain't retreatin'.",
+      "wordCount": 24
+    },
+    {
+      "id": 743,
+      "index": 743,
+      "character": "MICKEY",
+      "gender": "Male",
+      "line": "See how he plays sometimes -- Drives his cornermen nuts. Nobody knows his next move -- Him included.",
+      "wordCount": 18
+    },
+    {
+      "id": 744,
+      "index": 744,
+      "character": "MICKEY",
+      "gender": "Male",
+      "line": "Killer instinct -- Ya both got the killer touch. Interestin'. See that! -- Right-cross combination. Beautiful. But you got the power to rip the body.",
+      "wordCount": 25
+    },
+    {
+      "id": 745,
+      "index": 745,
+      "character": "MICKEY",
+      "gender": "Male",
+      "line": "Rocky, when ya climb into the square, an' know ya' meetin' the best fighter in the world, ya' gonna be ready, ya' gonna be ready 'cause I been waitin' for fifty years -- Fifty years. When I'm done with you, you'll gonna be able to spit nails.",
+      "wordCount": 47
+    },
+    {
+      "id": 746,
+      "index": 746,
+      "character": "MICKEY",
+      "gender": "Male",
+      "line": "You'll gonna be able to eat lightin' and crap thunder -- You'll be a very, very dangerous person...",
+      "wordCount": 18
+    },
+    {
+      "id": 747,
+      "index": 747,
+      "character": "MICKEY",
+      "gender": "Male",
+      "line": "What cha say, Benny -- Meet 'The Rock.' This is our cutman, Benny Stein.",
+      "wordCount": 14
+    },
+    {
+      "id": 748,
+      "index": 748,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Yo, Benny.",
+      "wordCount": 2
+    },
+    {
+      "id": 749,
+      "index": 749,
+      "character": "MICKEY",
+      "gender": "Male",
+      "line": "Check the eyes, Ben.",
+      "wordCount": 4
+    },
+    {
+      "id": 750,
+      "index": 750,
+      "character": "BENNY",
+      "gender": "NA",
+      "line": "Ain't bad. Seen worse -- Cover up an' things should be okay.",
+      "wordCount": 12
+    },
+    {
+      "id": 751,
+      "index": 751,
+      "character": "MICKEY",
+      "gender": "Male",
+      "line": "Take a shower.",
+      "wordCount": 3
+    },
+    {
+      "id": 752,
+      "index": 752,
+      "character": "PAULIE",
+      "gender": "Male",
+      "line": "Yo, Rock, I think I found an angle to make some bread usin' ya name, ya mind?",
+      "wordCount": 17
+    },
+    {
+      "id": 753,
+      "index": 753,
+      "character": "MAYOR",
+      "gender": "NA",
+      "line": "Sit down, Rocky.",
+      "wordCount": 3
+    },
+    {
+      "id": 754,
+      "index": 754,
+      "character": "MAYOR",
+      "gender": "NA",
+      "line": "I've been going over your record -- You've been the busy type -- Nineteen arrests -- probation three times -- expelled from seven public schools in 1964 and '65.",
+      "wordCount": 29
+    },
+    {
+      "id": 755,
+      "index": 755,
+      "character": "MAYOR",
+      "gender": "NA",
+      "line": "I'm a very busy man, but I just wanted to remind you that you'll be setting an example for thousands of guys like yourself and maybe start them off in a new direction and give our police force a break -- I also hope you try your very best and bring pride to Philadelphia.",
+      "wordCount": 54
+    },
+    {
+      "id": 756,
+      "index": 756,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "... I'll try.",
+      "wordCount": 3
+    },
+    {
+      "id": 757,
+      "index": 757,
+      "character": "MAYOR",
+      "gender": "NA",
+      "line": "Would you stand up, please.",
+      "wordCount": 5
+    },
+    {
+      "id": 758,
+      "index": 758,
+      "character": "MAYOR",
+      "gender": "NA",
+      "line": "Thank you for coming by, Rocky -- good luck.",
+      "wordCount": 9
+    },
+    {
+      "id": 759,
+      "index": 759,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Any time.",
+      "wordCount": 2
+    },
+    {
+      "id": 760,
+      "index": 760,
+      "character": "MAYOR",
+      "gender": "NA",
+      "line": "Wait... After the fight you'll have nearly a hundred and fifty thousand dollars -- What do you plan to do with it?",
+      "wordCount": 22
+    },
+    {
+      "id": 761,
+      "index": 761,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "... Run for mayor.",
+      "wordCount": 4
+    },
+    {
+      "id": 762,
+      "index": 762,
+      "character": "ADRIAN",
+      "gender": "Female",
+      "line": "Rocky, do you realize everybody in this country knows your face, and after the fight everybody in the world is going to.",
+      "wordCount": 22
+    },
+    {
+      "id": 763,
+      "index": 763,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Yeah...",
+      "wordCount": 1
+    },
+    {
+      "id": 764,
+      "index": 764,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "My first call... Hello? Yeah, speakin' -- Who is this? Bruce? Bruce who? -- Yo, Bruce! How ya been? I ain't seen ya for nine or eight years -- Yeah, things is great, how's things with you upstate -- Ya sellin' real estate, hey, that's a good job... Yeah, I gotta advance, but I bought ringside seats for the guys at the gym. I get the hundred an' fifty grand after the fight...",
+      "wordCount": 73
+    },
+    {
+      "id": 765,
+      "index": 765,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "... Yeah, I know it's a lotta money -- Condominiums? Nobody uses them anybody. Listen, I think a pet shop is a good investment, y'know -- I don't care 'bout long hours -- there's no depreciation -- that don't matter none to me -- Yeah, I like animals. Why don't ya give me ya number an' I'll call ya back? Lemme getta pencil --",
+      "wordCount": 64
+    },
+    {
+      "id": 766,
+      "index": 766,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Okay, what is it -- four- twelve 659-2424. Yeah, yeah, thanks for callin' -- Sure I'll get back to ya, Bruce -- see ya.",
+      "wordCount": 24
+    },
+    {
+      "id": 767,
+      "index": 767,
+      "character": "ADRIAN",
+      "gender": "Female",
+      "line": "What was that you said about a pet shop?",
+      "wordCount": 9
+    },
+    {
+      "id": 768,
+      "index": 768,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "... What?",
+      "wordCount": 2
+    },
+    {
+      "id": 769,
+      "index": 769,
+      "character": "ADRIAN",
+      "gender": "Female",
+      "line": "What did you say about a pet shop?",
+      "wordCount": 8
+    },
+    {
+      "id": 770,
+      "index": 770,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "I don't want ya cleanin' nobody else's cages no more.",
+      "wordCount": 10
+    },
+    {
+      "id": 771,
+      "index": 771,
+      "character": "ADRIAN",
+      "gender": "Female",
+      "line": "Is everything all right?",
+      "wordCount": 4
+    },
+    {
+      "id": 772,
+      "index": 772,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "I gotta go out for a while.",
+      "wordCount": 7
+    },
+    {
+      "id": 773,
+      "index": 773,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "... Come.",
+      "wordCount": 2
+    },
+    {
+      "id": 774,
+      "index": 774,
+      "character": "MICKEY",
+      "gender": "Male",
+      "line": "... I know what you're thinkin'm kid -- At least ya gotta shot -- All ya can do is try ya' best.",
+      "wordCount": 22
+    },
+    {
+      "id": 775,
+      "index": 775,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "... Can't do it.",
+      "wordCount": 4
+    },
+    {
+      "id": 776,
+      "index": 776,
+      "character": "ADRIAN",
+      "gender": "Female",
+      "line": "... What?",
+      "wordCount": 2
+    },
+    {
+      "id": 777,
+      "index": 777,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "... I can't beat him.",
+      "wordCount": 5
+    },
+    {
+      "id": 778,
+      "index": 778,
+      "character": "ADRIAN",
+      "gender": "Female",
+      "line": "Apollo?",
+      "wordCount": 1
+    },
+    {
+      "id": 779,
+      "index": 779,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Yeah, I can't beat him.",
+      "wordCount": 5
+    },
+    {
+      "id": 780,
+      "index": 780,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "I been watchin' the movies -- studyin' -- He ain't weak nowhere.",
+      "wordCount": 12
+    },
+    {
+      "id": 781,
+      "index": 781,
+      "character": "ADRIAN",
+      "gender": "Female",
+      "line": "What're we going to do?",
+      "wordCount": 5
+    },
+    {
+      "id": 782,
+      "index": 782,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "... I dunno.",
+      "wordCount": 3
+    },
+    {
+      "id": 783,
+      "index": 783,
+      "character": "ADRIAN",
+      "gender": "Female",
+      "line": "Oh, Rocky -- you worked so hard.",
+      "wordCount": 7
+    },
+    {
+      "id": 784,
+      "index": 784,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "It ain't so bad, 'cause I was a nothin' before --",
+      "wordCount": 11
+    },
+    {
+      "id": 785,
+      "index": 785,
+      "character": "ADRIAN",
+      "gender": "Female",
+      "line": "Don't say that.",
+      "wordCount": 3
+    },
+    {
+      "id": 786,
+      "index": 786,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "C'mon, it's true -- But that don't bother me -- I just wanna prove somethin' -- I ain't no bum... It don't matter if I lose... Don't matter if he opens my head... The only thing I wanna do is go the distance -- That's all. Nobody's ever gone fifteen rounds with Creed. If I go them fifteen rounds, an' that bell rings an' I'm still standin', I'm gonna know then I weren't just another bum from the neighborhood...",
+      "wordCount": 79
+    },
+    {
+      "id": 787,
+      "index": 787,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "... No foolin' around.",
+      "wordCount": 4
+    },
+    {
+      "id": 788,
+      "index": 788,
+      "character": "MICKEY",
+      "gender": "Male",
+      "line": "... It's time, kid.",
+      "wordCount": 4
+    },
+    {
+      "id": 789,
+      "index": 789,
+      "character": "ADRIAN",
+      "gender": "Female",
+      "line": "... I'll wait for you here.",
+      "wordCount": 6
+    },
+    {
+      "id": 790,
+      "index": 790,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Yo, Mick, can I have my rob?",
+      "wordCount": 7
+    },
+    {
+      "id": 791,
+      "index": 791,
+      "character": "MICKEY",
+      "gender": "Male",
+      "line": "Don't you care what the people will say?",
+      "wordCount": 8
+    },
+    {
+      "id": 792,
+      "index": 792,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "... I'm doin' it for a friend.",
+      "wordCount": 7
+    },
+    {
+      "id": 793,
+      "index": 793,
+      "character": "MICKEY",
+      "gender": "Male",
+      "line": "Whatta you get outta this?",
+      "wordCount": 5
+    },
+    {
+      "id": 794,
+      "index": 794,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "I get the robe an' Paulie gets three grand.",
+      "wordCount": 9
+    },
+    {
+      "id": 795,
+      "index": 795,
+      "character": "MICKEY",
+      "gender": "Male",
+      "line": "... Shrewd.",
+      "wordCount": 2
+    },
+    {
+      "id": 796,
+      "index": 796,
+      "character": "APOLLO",
+      "gender": "Male",
+      "line": "I want you! I want you!",
+      "wordCount": 6
+    },
+    {
+      "id": 797,
+      "index": 797,
+      "character": "MICKEY",
+      "gender": "Male",
+      "line": "Don't let 'im get you tight.",
+      "wordCount": 6
+    },
+    {
+      "id": 798,
+      "index": 798,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Whatta ya think that outfit cost?",
+      "wordCount": 6
+    },
+    {
+      "id": 799,
+      "index": 799,
+      "character": "ANNOUNCER",
+      "gender": "Male",
+      "line": "Ladies and gentlemen -- Welcome to the Bicentennial Heavyweight Championship Fight... We are very proud to have with us four former Great Champions... Ladies an' gents, 'The one and only 'Manassa Mauler' -- Jack Dempsey!'",
+      "wordCount": 35
+    },
+    {
+      "id": 800,
+      "index": 800,
+      "character": "DEMPSEY",
+      "gender": "NA",
+      "line": "Good luck, kid.",
+      "wordCount": 3
+    },
+    {
+      "id": 801,
+      "index": 801,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Christ, Jack Dempsey.",
+      "wordCount": 3
+    },
+    {
+      "id": 802,
+      "index": 802,
+      "character": "ANNOUNCER",
+      "gender": "Male",
+      "line": "Former Middleweight Champion -- 'The Bronx Bull' -- Jake LaMotta!",
+      "wordCount": 10
+    },
+    {
+      "id": 803,
+      "index": 803,
+      "character": "ANNOUNCER",
+      "gender": "Male",
+      "line": "The man with the big punch -- Everybody's favorite, 'The Brown Bomber ' -- Joe Louis!",
+      "wordCount": 16
+    },
+    {
+      "id": 804,
+      "index": 804,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "They must be friends.",
+      "wordCount": 4
+    },
+    {
+      "id": 805,
+      "index": 805,
+      "character": "ANNOUNCER",
+      "gender": "Male",
+      "line": "Now, last but certainly not least -- the former Heavyweight Champion, a son of Philly, Smoking Joe Frazier!",
+      "wordCount": 18
+    },
+    {
+      "id": 806,
+      "index": 806,
+      "character": "FRAZIER",
+      "gender": "NA",
+      "line": "Save some of him for me.",
+      "wordCount": 6
+    },
+    {
+      "id": 807,
+      "index": 807,
+      "character": "FRAZIER",
+      "gender": "NA",
+      "line": "Well, I think any man who works an' trains hard always gotta chance.",
+      "wordCount": 13
+    },
+    {
+      "id": 808,
+      "index": 808,
+      "character": "FRAZIER",
+      "gender": "NA",
+      "line": "I'm always in shape.",
+      "wordCount": 4
+    },
+    {
+      "id": 809,
+      "index": 809,
+      "character": "ANNOUNCER",
+      "gender": "Male",
+      "line": "... Now for the evening's main event -- In the corner to my right, The Challenger, wearing white trunks -- At one hundred an' ninety-one pounds, one of Philly's own sons -- 'The Italian Stallion,' Rocky Balboa!",
+      "wordCount": 37
+    },
+    {
+      "id": 810,
+      "index": 810,
+      "character": "ANNOUNCER",
+      "gender": "Male",
+      "line": "In the far corner, wearing red, white an' blue -- Weighing in at two hundred and ten pounds -- Undefeated in forty- six fights -- the Heavyweight Champion of the World -- 'The Master of Disaster' -- Apollo Creed!",
+      "wordCount": 39
+    },
+    {
+      "id": 811,
+      "index": 811,
+      "character": "REFEREE",
+      "gender": "NA",
+      "line": "... Now come out fighting.",
+      "wordCount": 5
+    },
+    {
+      "id": 812,
+      "index": 812,
+      "character": "MICKEY",
+      "gender": "Male",
+      "line": "God bless ya, Rock.",
+      "wordCount": 4
+    },
+    {
+      "id": 813,
+      "index": 813,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Thanks, Mick -- I'm gonna try.",
+      "wordCount": 6
+    },
+    {
+      "id": 814,
+      "index": 814,
+      "character": "MICKEY",
+      "gender": "Male",
+      "line": "You can do it! Goddamnit, you got the power! The body, get the body!!! Ya got him goin'!",
+      "wordCount": 18
+    },
+    {
+      "id": 815,
+      "index": 815,
+      "character": "REFEREE",
+      "gender": "NA",
+      "line": "Six!... Seven!... Eight!...",
+      "wordCount": 3
+    },
+    {
+      "id": 816,
+      "index": 816,
+      "character": "APOLLO",
+      "gender": "Male",
+      "line": "... Come at me, sucker!",
+      "wordCount": 5
+    },
+    {
+      "id": 817,
+      "index": 817,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "How am I doin'?",
+      "wordCount": 4
+    },
+    {
+      "id": 818,
+      "index": 818,
+      "character": "MICKEY",
+      "gender": "Male",
+      "line": "Real good.",
+      "wordCount": 2
+    },
+    {
+      "id": 819,
+      "index": 819,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "See how fast he is -- damn!",
+      "wordCount": 7
+    },
+    {
+      "id": 820,
+      "index": 820,
+      "character": "MICKEY",
+      "gender": "Male",
+      "line": "Breathe deep -- Keep ya chin down!! Use the legs and drive through 'im. Attack -- Attack -- Attack!",
+      "wordCount": 19
+    },
+    {
+      "id": 821,
+      "index": 821,
+      "character": "APOLLO",
+      "gender": "Male",
+      "line": "... That boy damn near broke my arm.",
+      "wordCount": 8
+    },
+    {
+      "id": 822,
+      "index": 822,
+      "character": "TRAINER",
+      "gender": "NA",
+      "line": "Sure -- He can hit -- Don't play no more -- Stick an' move, hear?",
+      "wordCount": 15
+    },
+    {
+      "id": 823,
+      "index": 823,
+      "character": "APOLLO",
+      "gender": "Male",
+      "line": "I'll carry him 'till the third.",
+      "wordCount": 6
+    },
+    {
+      "id": 824,
+      "index": 824,
+      "character": "TRAINER",
+      "gender": "NA",
+      "line": "Don't play with this man, he's fightin' hard -- Let 'em feel some real heat!",
+      "wordCount": 15
+    },
+    {
+      "id": 825,
+      "index": 825,
+      "character": "APOLLO",
+      "gender": "Male",
+      "line": "Man, I rearranged his face with that right -- The people love what's happenin' tonight.",
+      "wordCount": 15
+    },
+    {
+      "id": 826,
+      "index": 826,
+      "character": "TRAINER",
+      "gender": "NA",
+      "line": "People nothin', you in a fight, my man, -- ya best believe what you hear... Knock that boy out soon an' let's go home.",
+      "wordCount": 24
+    },
+    {
+      "id": 827,
+      "index": 827,
+      "character": "MICKEY",
+      "gender": "Male",
+      "line": "Ya nose is broke.",
+      "wordCount": 4
+    },
+    {
+      "id": 828,
+      "index": 828,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Damn! How's it look?",
+      "wordCount": 4
+    },
+    {
+      "id": 829,
+      "index": 829,
+      "character": "MICKEY",
+      "gender": "Male",
+      "line": "Can't hardly tell. Don't swallow the blood -- Go for his ribs. Don't let 'im breathe.",
+      "wordCount": 16
+    },
+    {
+      "id": 830,
+      "index": 830,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "... The guy's great.",
+      "wordCount": 4
+    },
+    {
+      "id": 831,
+      "index": 831,
+      "character": "MICKEY",
+      "gender": "Male",
+      "line": "Why don't ya tell 'im you're a fan!",
+      "wordCount": 8
+    },
+    {
+      "id": 832,
+      "index": 832,
+      "character": "TRAINER",
+      "gender": "NA",
+      "line": "Cover your face! Cover up! My man's cut, my man's bleedin' -- Get ready!",
+      "wordCount": 14
+    },
+    {
+      "id": 833,
+      "index": 833,
+      "character": "TRAINER",
+      "gender": "NA",
+      "line": "Bad? Talk to me, man!",
+      "wordCount": 5
+    },
+    {
+      "id": 834,
+      "index": 834,
+      "character": "DOCTOR",
+      "gender": "NA",
+      "line": "Deep, but passable.",
+      "wordCount": 3
+    },
+    {
+      "id": 835,
+      "index": 835,
+      "character": "APOLLO",
+      "gender": "Male",
+      "line": "... That man's takin' his job too serious.",
+      "wordCount": 8
+    },
+    {
+      "id": 836,
+      "index": 836,
+      "character": "TRAINER",
+      "gender": "NA",
+      "line": "He's movin' to your left -- don't let him no more -- dance and stick, hear? Don't play -- I know what ya feelin', but don't play.",
+      "wordCount": 27
+    },
+    {
+      "id": 837,
+      "index": 837,
+      "character": "APOLLO",
+      "gender": "Male",
+      "line": "He got lucky.",
+      "wordCount": 3
+    },
+    {
+      "id": 838,
+      "index": 838,
+      "character": "TRAINER",
+      "gender": "NA",
+      "line": "Luck! You fightin' a crazy man -- but you got him hurt bad. More ice, now!",
+      "wordCount": 16
+    },
+    {
+      "id": 839,
+      "index": 839,
+      "character": "MICKEY",
+      "gender": "Male",
+      "line": "How you holdin' up, kid?",
+      "wordCount": 5
+    },
+    {
+      "id": 840,
+      "index": 840,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Fine... That guy's great.",
+      "wordCount": 4
+    },
+    {
+      "id": 841,
+      "index": 841,
+      "character": "MICKEY",
+      "gender": "Male",
+      "line": "Gimme the water! Ya getttin' tagged with his right. I think you should feint left and high hook 'im -- Benny, check the eyes! Can ya see?",
+      "wordCount": 27
+    },
+    {
+      "id": 842,
+      "index": 842,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "See what?",
+      "wordCount": 2
+    },
+    {
+      "id": 843,
+      "index": 843,
+      "character": "MIKE",
+      "gender": "Male",
+      "line": "Ya sappin' his strength -- He's losin' steam.",
+      "wordCount": 8
+    },
+    {
+      "id": 844,
+      "index": 844,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "He ain't losin' nothin'.",
+      "wordCount": 4
+    },
+    {
+      "id": 845,
+      "index": 845,
+      "character": "MICKEY",
+      "gender": "Male",
+      "line": "Keep on him -- You're doin' great.",
+      "wordCount": 7
+    },
+    {
+      "id": 846,
+      "index": 846,
+      "character": "ANDY",
+      "gender": "NA",
+      "line": "... The Rock's got real stones.",
+      "wordCount": 6
+    },
+    {
+      "id": 847,
+      "index": 847,
+      "character": "APOLLO",
+      "gender": "Male",
+      "line": "C'mon -- Lemme cut yo'!",
+      "wordCount": 5
+    },
+    {
+      "id": 848,
+      "index": 848,
+      "character": "APOLLO",
+      "gender": "Male",
+      "line": "My side.",
+      "wordCount": 2
+    },
+    {
+      "id": 849,
+      "index": 849,
+      "character": "TRAINER",
+      "gender": "NA",
+      "line": "Get that doctor.",
+      "wordCount": 3
+    },
+    {
+      "id": 850,
+      "index": 850,
+      "character": "APOLLO",
+      "gender": "Male",
+      "line": "No doctor!",
+      "wordCount": 2
+    },
+    {
+      "id": 851,
+      "index": 851,
+      "character": "TRAINER",
+      "gender": "NA",
+      "line": "You're hurtin', man!",
+      "wordCount": 3
+    },
+    {
+      "id": 852,
+      "index": 852,
+      "character": "APOLLO",
+      "gender": "Male",
+      "line": "No doctor!... I'm feelin' good, bro!",
+      "wordCount": 6
+    },
+    {
+      "id": 853,
+      "index": 853,
+      "character": "MICKEY",
+      "gender": "Male",
+      "line": "Wanna keep goin'?",
+      "wordCount": 3
+    },
+    {
+      "id": 854,
+      "index": 854,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Would you keep goin'?",
+      "wordCount": 4
+    },
+    {
+      "id": 855,
+      "index": 855,
+      "character": "MICKEY",
+      "gender": "Male",
+      "line": "... Yeah.",
+      "wordCount": 2
+    },
+    {
+      "id": 856,
+      "index": 856,
+      "character": "MIKE",
+      "gender": "Male",
+      "line": "No more, ya wanna lose an eye? No more.",
+      "wordCount": 9
+    },
+    {
+      "id": 857,
+      "index": 857,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Open my eyes -- Please, open my eyes!",
+      "wordCount": 8
+    },
+    {
+      "id": 858,
+      "index": 858,
+      "character": "REFEREE",
+      "gender": "NA",
+      "line": "Six -- Seven -- Eight --",
+      "wordCount": 6
+    },
+    {
+      "id": 859,
+      "index": 859,
+      "character": "APOLLO",
+      "gender": "Male",
+      "line": "... Ribs broke --",
+      "wordCount": 4
+    },
+    {
+      "id": 860,
+      "index": 860,
+      "character": "TRAINER",
+      "gender": "NA",
+      "line": "Yo' bleedin' inside, man -- Get that doctor.",
+      "wordCount": 8
+    },
+    {
+      "id": 861,
+      "index": 861,
+      "character": "APOLLO",
+      "gender": "Male",
+      "line": "One more round.",
+      "wordCount": 3
+    },
+    {
+      "id": 862,
+      "index": 862,
+      "character": "TRAINER",
+      "gender": "NA",
+      "line": "Don't kill yourself, man -- Let the doctor stop the fight.",
+      "wordCount": 11
+    },
+    {
+      "id": 863,
+      "index": 863,
+      "character": "APOLLO",
+      "gender": "Male",
+      "line": "... Stop jivin'!",
+      "wordCount": 3
+    },
+    {
+      "id": 864,
+      "index": 864,
+      "character": "TRAINER",
+      "gender": "NA",
+      "line": "Cover the ribs -- Look here, elbow down, tight -- Tight -- stand straight -- you're the best, you're the best!",
+      "wordCount": 21
+    },
+    {
+      "id": 865,
+      "index": 865,
+      "character": "APOLLO",
+      "gender": "Male",
+      "line": "... Thanks.",
+      "wordCount": 2
+    },
+    {
+      "id": 866,
+      "index": 866,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "How I look out there, Mick?",
+      "wordCount": 6
+    },
+    {
+      "id": 867,
+      "index": 867,
+      "character": "MICKEY",
+      "gender": "Male",
+      "line": "Great, kid, great.",
+      "wordCount": 3
+    },
+    {
+      "id": 868,
+      "index": 868,
+      "character": "DOCTOR",
+      "gender": "NA",
+      "line": "One more round -- How do you feel?",
+      "wordCount": 8
+    },
+    {
+      "id": 869,
+      "index": 869,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Fine -- Go away, I'm gonna make it -- I'm gonna make it!",
+      "wordCount": 13
+    },
+    {
+      "id": 870,
+      "index": 870,
+      "character": "MICKEY",
+      "gender": "Male",
+      "line": "We gotta stop it, kid.",
+      "wordCount": 5
+    },
+    {
+      "id": 871,
+      "index": 871,
+      "character": "MIKE",
+      "gender": "Male",
+      "line": "Ya gave it ya best shot!",
+      "wordCount": 6
+    },
+    {
+      "id": 872,
+      "index": 872,
+      "character": "MICKEY",
+      "gender": "Male",
+      "line": "Nobody's gonna say ya didn't give ya all. I can't let ya go out.",
+      "wordCount": 14
+    },
+    {
+      "id": 873,
+      "index": 873,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "I'll kill ya all... Don't stop nothin' --",
+      "wordCount": 8
+    },
+    {
+      "id": 874,
+      "index": 874,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Gimme ya best!!!!",
+      "wordCount": 3
+    },
+    {
+      "id": 875,
+      "index": 875,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Gimme ya best!!!",
+      "wordCount": 3
+    },
+    {
+      "id": 876,
+      "index": 876,
+      "character": "SIX FIVE FOUR THREE TWO",
+      "gender": "NA",
+      "line": "ONE!",
+      "wordCount": 1
+    },
+    {
+      "id": 877,
+      "index": 877,
+      "character": "APOLLO",
+      "gender": "Male",
+      "line": "... Ain't gonna be no rematch.",
+      "wordCount": 6
+    },
+    {
+      "id": 878,
+      "index": 878,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "... Don't want one.",
+      "wordCount": 4
+    },
+    {
+      "id": 879,
+      "index": 879,
+      "character": "ANNOUNCER",
+      "gender": "Male",
+      "line": "Attention, please!! Attention!! Ladies and gentlemen, tonight we have had the rare privilege to have witnessed the greatest exhibitions of stamina and guts ever in the history of sports.",
+      "wordCount": 29
+    },
+    {
+      "id": 880,
+      "index": 880,
+      "character": "ANNOUNCER",
+      "gender": "Male",
+      "line": "Ladies and gentlemen -- We have a split decision!",
+      "wordCount": 9
+    },
+    {
+      "id": 881,
+      "index": 881,
+      "character": "ANNOUNCER",
+      "gender": "Male",
+      "line": "Judge Walker scores it eight- seven Creed... Judge Roseman scores it eight-seven Balboa.",
+      "wordCount": 13
+    },
+    {
+      "id": 882,
+      "index": 882,
+      "character": "ANNOUNCER",
+      "gender": "Male",
+      "line": "Judge Conners scores it nine- six Creed... Winner and still Heavyweight Champion of the World, Apollo Creed!",
+      "wordCount": 17
+    },
+    {
+      "id": 883,
+      "index": 883,
+      "character": "MICKEY",
+      "gender": "Male",
+      "line": "I don't care what they say, you're a winner.",
+      "wordCount": 9
+    },
+    {
+      "id": 884,
+      "index": 884,
+      "character": "ROCKY",
+      "gender": "Male",
+      "line": "Yo, can I have my locker back?",
+      "wordCount": 7
+    },
+    {
+      "id": 885,
+      "index": 885,
+      "character": "ADRIAN",
+      "gender": "Female",
+      "line": "I love you -- I love you -- I love you...",
+      "wordCount": 11
+    },
+    {
+      "id": 886,
+      "index": 886,
+      "character": "",
+      "gender": "Male"
+    }
+  ]
+}

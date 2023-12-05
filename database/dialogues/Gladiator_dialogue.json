@@ -1,0 +1,5412 @@
+{
+  "fileName": "Gladiator_dialogue.txt",
+  "title": "Gladiator",
+  "data": [
+    {
+      "id": 0,
+      "index": 0,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "Do you think he's really dying?",
+      "wordCount": 6
+    },
+    {
+      "id": 1,
+      "index": 1,
+      "character": "LUCILLA",
+      "gender": "Female",
+      "line": "He's been dying for ten years.",
+      "wordCount": 6
+    },
+    {
+      "id": 2,
+      "index": 2,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "I think he's really dying this time.",
+      "wordCount": 7
+    },
+    {
+      "id": 3,
+      "index": 3,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "He has to be bled every night now.",
+      "wordCount": 8
+    },
+    {
+      "id": 4,
+      "index": 4,
+      "character": "LUCILLA",
+      "gender": "Female",
+      "line": "How do you know that?",
+      "wordCount": 5
+    },
+    {
+      "id": 5,
+      "index": 5,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "I've been so informed.",
+      "wordCount": 4
+    },
+    {
+      "id": 6,
+      "index": 6,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "If he weren't really dying he wouldn't have sent for us.",
+      "wordCount": 11
+    },
+    {
+      "id": 7,
+      "index": 7,
+      "character": "LUCILLA",
+      "gender": "Female",
+      "line": "Maybe he just misses us.",
+      "wordCount": 5
+    },
+    {
+      "id": 8,
+      "index": 8,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "And the Senators. He wouldn't have summoned them if --",
+      "wordCount": 10
+    },
+    {
+      "id": 9,
+      "index": 9,
+      "character": "LUCILLA",
+      "gender": "Female",
+      "line": "Peace, Commodus. After two weeks on the road your incessant scheming is hurting my head.",
+      "wordCount": 15
+    },
+    {
+      "id": 10,
+      "index": 10,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "The first thing I shall do is honor him with games worthy of his majesty.",
+      "wordCount": 15
+    },
+    {
+      "id": 11,
+      "index": 11,
+      "character": "LUCILLA",
+      "gender": "Female",
+      "line": "The first thing I shall do is have a hot bath.",
+      "wordCount": 11
+    },
+    {
+      "id": 12,
+      "index": 12,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "Why have we stopped?",
+      "wordCount": 4
+    },
+    {
+      "id": 13,
+      "index": 13,
+      "character": "PRAETORIAN GUARD MEMBER",
+      "gender": "NA",
+      "line": "We're here, sir.",
+      "wordCount": 3
+    },
+    {
+      "id": 14,
+      "index": 14,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "Where is my father?",
+      "wordCount": 4
+    },
+    {
+      "id": 15,
+      "index": 15,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "Is the battle won?",
+      "wordCount": 4
+    },
+    {
+      "id": 16,
+      "index": 16,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "My sister wants a bath, take her to the camp. Take me to my father.",
+      "wordCount": 15
+    },
+    {
+      "id": 17,
+      "index": 17,
+      "character": "LUCILLA",
+      "gender": "Female",
+      "line": "Civilization at last. Gods preserve us.",
+      "wordCount": 6
+    },
+    {
+      "id": 18,
+      "index": 18,
+      "character": "TITUS",
+      "gender": "NA",
+      "line": "You would do as well to read the mind of a rhinoceros.",
+      "wordCount": 12
+    },
+    {
+      "id": 19,
+      "index": 19,
+      "character": "QUINTUS",
+      "gender": "Male",
+      "line": "These barbarians would rather drown in blood than yield an inch. If I didn't hate them so much I would admire them.",
+      "wordCount": 22
+    },
+    {
+      "id": 20,
+      "index": 20,
+      "character": "TITUS",
+      "gender": "NA",
+      "line": "They simply will not surrender.",
+      "wordCount": 5
+    },
+    {
+      "id": 21,
+      "index": 21,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "A people should know when they are conquered.",
+      "wordCount": 8
+    },
+    {
+      "id": 22,
+      "index": 22,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "At the first signal release the catapults. We'll use the cavalry to cut off the retreat.",
+      "wordCount": 16
+    },
+    {
+      "id": 23,
+      "index": 23,
+      "character": "QUINTUS",
+      "gender": "Male",
+      "line": "General, I don't recommend that. Our cavalry might be caught in the flames.",
+      "wordCount": 13
+    },
+    {
+      "id": 24,
+      "index": 24,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "I hope not, because I'm going to be leading them.",
+      "wordCount": 10
+    },
+    {
+      "id": 25,
+      "index": 25,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "Why don't they know they're already dead?",
+      "wordCount": 7
+    },
+    {
+      "id": 26,
+      "index": 26,
+      "character": "QUINTUS",
+      "gender": "Male",
+      "line": "Now!",
+      "wordCount": 1
+    },
+    {
+      "id": 27,
+      "index": 27,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "Hold steady... steady...",
+      "wordCount": 3
+    },
+    {
+      "id": 28,
+      "index": 28,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "Steady...",
+      "wordCount": 1
+    },
+    {
+      "id": 29,
+      "index": 29,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "Brothers -- I salute you! For Rome!",
+      "wordCount": 7
+    },
+    {
+      "id": 30,
+      "index": 30,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "Caesar.",
+      "wordCount": 1
+    },
+    {
+      "id": 31,
+      "index": 31,
+      "character": "MARCUS",
+      "gender": "Male",
+      "line": "Maximus, you prove your valor again. Let us hope for the final time here.",
+      "wordCount": 14
+    },
+    {
+      "id": 32,
+      "index": 32,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "I don't think there's anyone left to fight.",
+      "wordCount": 8
+    },
+    {
+      "id": 33,
+      "index": 33,
+      "character": "MARCUS",
+      "gender": "Male",
+      "line": "There are always people left to fight...",
+      "wordCount": 7
+    },
+    {
+      "id": 34,
+      "index": 34,
+      "character": "MARCUS",
+      "gender": "Male",
+      "line": "But this night, at least, Germania is at last defeated... What will you do now, my friend?",
+      "wordCount": 17
+    },
+    {
+      "id": 35,
+      "index": 35,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "Should Caesar permit, I'll go home. I've been away too long. I've forgotten my wife's face and I barely know my son.",
+      "wordCount": 22
+    },
+    {
+      "id": 36,
+      "index": 36,
+      "character": "GERMAN PRISONER",
+      "gender": "NA",
+      "line": "THIS BLOOD MEANS NOTHING, CONQUEROR!",
+      "wordCount": 5
+    },
+    {
+      "id": 37,
+      "index": 37,
+      "character": "MARCUS",
+      "gender": "Male",
+      "line": "Stop... ... You speak our language?",
+      "wordCount": 6
+    },
+    {
+      "id": 38,
+      "index": 38,
+      "character": "GERMAN PRISONER",
+      "gender": "NA",
+      "line": "You have been in my homeland for twelve years. Of course I speak your language. So did my son, who you murdered. So did my daughter, who you raped.",
+      "wordCount": 29
+    },
+    {
+      "id": 39,
+      "index": 39,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "Come, Caesar...",
+      "wordCount": 2
+    },
+    {
+      "id": 40,
+      "index": 40,
+      "character": "MARCUS",
+      "gender": "Male",
+      "line": "No. Let him speak... ... I am Rome, what would you say to me?",
+      "wordCount": 14
+    },
+    {
+      "id": 41,
+      "index": 41,
+      "character": "GERMAN PRISONER",
+      "gender": "NA",
+      "line": "You are that sun, Rome, and your time is over... You can slit a thousand throats here, and you can put a thousand babies to the sword, but it will always be our home.",
+      "wordCount": 34
+    },
+    {
+      "id": 42,
+      "index": 42,
+      "character": "MARCUS",
+      "gender": "Male",
+      "line": "Now it is Rome.",
+      "wordCount": 4
+    },
+    {
+      "id": 43,
+      "index": 43,
+      "character": "GERMAN PRISONER",
+      "gender": "NA",
+      "line": "It will never be Rome. Not as long as one German breathes.",
+      "wordCount": 12
+    },
+    {
+      "id": 44,
+      "index": 44,
+      "character": "MARCUS",
+      "gender": "Male",
+      "line": "No... Release him. Give him safe passage. Let him go to his family.",
+      "wordCount": 13
+    },
+    {
+      "id": 45,
+      "index": 45,
+      "character": "MARCUS",
+      "gender": "Male",
+      "line": "Tell me again, Maximus, why are we here?",
+      "wordCount": 8
+    },
+    {
+      "id": 46,
+      "index": 46,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "For the glory of the empire, sire.",
+      "wordCount": 7
+    },
+    {
+      "id": 47,
+      "index": 47,
+      "character": "MARCUS",
+      "gender": "Male",
+      "line": "Yes. I remember.",
+      "wordCount": 3
+    },
+    {
+      "id": 48,
+      "index": 48,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "They honor you, Caesar.",
+      "wordCount": 4
+    },
+    {
+      "id": 49,
+      "index": 49,
+      "character": "MARCUS",
+      "gender": "Male",
+      "line": "I don't think they're standing for me, Maximus. They honor you.",
+      "wordCount": 11
+    },
+    {
+      "id": 50,
+      "index": 50,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "Have I missed it?",
+      "wordCount": 4
+    },
+    {
+      "id": 51,
+      "index": 51,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "Have I missed the battle?",
+      "wordCount": 5
+    },
+    {
+      "id": 52,
+      "index": 52,
+      "character": "MARCUS",
+      "gender": "Male",
+      "line": "You've missed the war. We're done here.",
+      "wordCount": 7
+    },
+    {
+      "id": 53,
+      "index": 53,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "Father. Congratulations. I shall sacrifice a thousand doves to honor your triumph.",
+      "wordCount": 12
+    },
+    {
+      "id": 54,
+      "index": 54,
+      "character": "MARCUS",
+      "gender": "Male",
+      "line": "Spare the doves and honor Maximus, he won the battle.",
+      "wordCount": 10
+    },
+    {
+      "id": 55,
+      "index": 55,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "General, Rome salutes you and I embrace you as a brother.",
+      "wordCount": 11
+    },
+    {
+      "id": 56,
+      "index": 56,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "Highness.",
+      "wordCount": 1
+    },
+    {
+      "id": 57,
+      "index": 57,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "Your Spaniards seem invincible. May the Gods favor the Felix Regiment now and always... Here, Father, take my arm.",
+      "wordCount": 19
+    },
+    {
+      "id": 58,
+      "index": 58,
+      "character": "MARCUS",
+      "gender": "Male",
+      "line": "Where's your sister?",
+      "wordCount": 3
+    },
+    {
+      "id": 59,
+      "index": 59,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "She's at the camp. She had no desire to see the gore of the battlefield.",
+      "wordCount": 15
+    },
+    {
+      "id": 60,
+      "index": 60,
+      "character": "MARCUS",
+      "gender": "Male",
+      "line": "Lucilla would eat every corpse here if it brought her one step closer to the throne.",
+      "wordCount": 16
+    },
+    {
+      "id": 61,
+      "index": 61,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "Caesar, you do the lady injustice.",
+      "wordCount": 6
+    },
+    {
+      "id": 62,
+      "index": 62,
+      "character": "MARCUS",
+      "gender": "Male",
+      "line": "It's a foolish old cobra who doesn't recognize his own off-spring... I think... I should ride now.",
+      "wordCount": 17
+    },
+    {
+      "id": 63,
+      "index": 63,
+      "character": "MARCUS",
+      "gender": "Male",
+      "line": "So much for the glory of Rome.",
+      "wordCount": 7
+    },
+    {
+      "id": 64,
+      "index": 64,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "He's dying.",
+      "wordCount": 2
+    },
+    {
+      "id": 65,
+      "index": 65,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "Poor old man.",
+      "wordCount": 3
+    },
+    {
+      "id": 66,
+      "index": 66,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "If you'll excuse me, Highness.",
+      "wordCount": 5
+    },
+    {
+      "id": 67,
+      "index": 67,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "What, Gallus, losing your other hand?",
+      "wordCount": 6
+    },
+    {
+      "id": 68,
+      "index": 68,
+      "character": "GALLUS",
+      "gender": "NA",
+      "line": "Aye, General, they're going to make a bronze one for it. Long fingers this time.",
+      "wordCount": 15
+    },
+    {
+      "id": 69,
+      "index": 69,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "And the women of your village will crave your touch even more.",
+      "wordCount": 12
+    },
+    {
+      "id": 70,
+      "index": 70,
+      "character": "GALLUS",
+      "gender": "NA",
+      "line": "Ah, then you know the women of my village.",
+      "wordCount": 9
+    },
+    {
+      "id": 71,
+      "index": 71,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "What's your name, son?",
+      "wordCount": 4
+    },
+    {
+      "id": 72,
+      "index": 72,
+      "character": "VALERIUS",
+      "gender": "NA",
+      "line": "Valerius, General.",
+      "wordCount": 2
+    },
+    {
+      "id": 73,
+      "index": 73,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "The name suits you.",
+      "wordCount": 4
+    },
+    {
+      "id": 74,
+      "index": 74,
+      "character": "VALERIUS",
+      "gender": "NA",
+      "line": "Why am I dying?",
+      "wordCount": 4
+    },
+    {
+      "id": 75,
+      "index": 75,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "You're dying because you love Rome, as I do.",
+      "wordCount": 9
+    },
+    {
+      "id": 76,
+      "index": 76,
+      "character": "VALERIUS",
+      "gender": "NA",
+      "line": "I've never been to Rome.",
+      "wordCount": 5
+    },
+    {
+      "id": 77,
+      "index": 77,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "Neither have I. Rome for us lives here... ... it's a thing inside us that came from our ancestors and that we give to our children.",
+      "wordCount": 26
+    },
+    {
+      "id": 78,
+      "index": 78,
+      "character": "VALERIUS",
+      "gender": "NA",
+      "line": "It must be glorious, Rome. I've only seen pictures. Is it a glorious place?",
+      "wordCount": 14
+    },
+    {
+      "id": 79,
+      "index": 79,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "Yes, it's a glorious place.",
+      "wordCount": 5
+    },
+    {
+      "id": 80,
+      "index": 80,
+      "character": "VALERIUS",
+      "gender": "NA",
+      "line": "It must be.",
+      "wordCount": 3
+    },
+    {
+      "id": 81,
+      "index": 81,
+      "character": "FALCO",
+      "gender": "Male",
+      "line": "Hail, Marcus Aurelius.",
+      "wordCount": 3
+    },
+    {
+      "id": 82,
+      "index": 82,
+      "character": "MARCUS",
+      "gender": "Male",
+      "line": "Stand up, Senators. That unfamiliar posture doesn't suit you.",
+      "wordCount": 9
+    },
+    {
+      "id": 83,
+      "index": 83,
+      "character": "GAIUS",
+      "gender": "Male",
+      "line": "We live in supplication to your glory.",
+      "wordCount": 7
+    },
+    {
+      "id": 84,
+      "index": 84,
+      "character": "MARCUS",
+      "gender": "Male",
+      "line": "All the while conspiring with that fat man in Rome. How is the old monster?",
+      "wordCount": 15
+    },
+    {
+      "id": 85,
+      "index": 85,
+      "character": "GAIUS",
+      "gender": "Male",
+      "line": "Senator Gracchus is hale, sire.",
+      "wordCount": 5
+    },
+    {
+      "id": 86,
+      "index": 86,
+      "character": "MARCUS",
+      "gender": "Male",
+      "line": "Still damning me to the four winds?",
+      "wordCount": 7
+    },
+    {
+      "id": 87,
+      "index": 87,
+      "character": "GAIUS",
+      "gender": "Male",
+      "line": "Still eager for your triumphant return to Rome, Caesar.",
+      "wordCount": 9
+    },
+    {
+      "id": 88,
+      "index": 88,
+      "character": "MARCUS",
+      "gender": "Male",
+      "line": "I would have silenced him decades ago -- but I just like him too much.",
+      "wordCount": 15
+    },
+    {
+      "id": 89,
+      "index": 89,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "If you want to stay on, I support you. So do the men. I'll ask the Emperor to appoint you in my place.",
+      "wordCount": 23
+    },
+    {
+      "id": 90,
+      "index": 90,
+      "character": "TITUS",
+      "gender": "NA",
+      "line": "It won't be the Felix Regiment without you.",
+      "wordCount": 8
+    },
+    {
+      "id": 91,
+      "index": 91,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "I'll return after a season at home. Maybe two.",
+      "wordCount": 9
+    },
+    {
+      "id": 92,
+      "index": 92,
+      "character": "QUINTUS",
+      "gender": "Male",
+      "line": "That means after three or four more babies.",
+      "wordCount": 8
+    },
+    {
+      "id": 93,
+      "index": 93,
+      "character": "TITUS",
+      "gender": "NA",
+      "line": "And you'll be too fat from Vibia's cooking to get on your horse by then.",
+      "wordCount": 15
+    },
+    {
+      "id": 94,
+      "index": 94,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "Should the Gods so bless me. I would be thankful.",
+      "wordCount": 10
+    },
+    {
+      "id": 95,
+      "index": 95,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "Hail, warriors. My congratulations.",
+      "wordCount": 4
+    },
+    {
+      "id": 96,
+      "index": 96,
+      "character": "TITUS AND QUINTUS",
+      "gender": "NA",
+      "line": "Highness.",
+      "wordCount": 1
+    },
+    {
+      "id": 97,
+      "index": 97,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "My old friend, my father tells me you're returning to Spain?",
+      "wordCount": 11
+    },
+    {
+      "id": 98,
+      "index": 98,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "Yes.",
+      "wordCount": 1
+    },
+    {
+      "id": 99,
+      "index": 99,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "A pity. I'll need men like you in my army...",
+      "wordCount": 10
+    },
+    {
+      "id": 100,
+      "index": 100,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "There are larger division that might appeal to you. Even the Praetorian Guard. You've never been to Rome. Imagine arriving as head of the Praetorians! They have really splendid uniforms.",
+      "wordCount": 30
+    },
+    {
+      "id": 101,
+      "index": 101,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "I'm going home.",
+      "wordCount": 3
+    },
+    {
+      "id": 102,
+      "index": 102,
+      "character": "GAIUS",
+      "gender": "Male",
+      "line": "... And why not apply for entry to the Senate?",
+      "wordCount": 10
+    },
+    {
+      "id": 103,
+      "index": 103,
+      "character": "FALCO",
+      "gender": "Male",
+      "line": "A war hero with a handsome face and a strong heart could go far.",
+      "wordCount": 14
+    },
+    {
+      "id": 104,
+      "index": 104,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "General Maximus, may I present Senators Gaius and Falco. Beware of this Gaius, he'll pour a honeyed potion in your ear and you'll wake up one day and all you'll say is \"Republic, Republic, Republic...\"",
+      "wordCount": 35
+    },
+    {
+      "id": 105,
+      "index": 105,
+      "character": "FALCO",
+      "gender": "Male",
+      "line": "Have you never considered Rome?",
+      "wordCount": 5
+    },
+    {
+      "id": 106,
+      "index": 106,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "No.",
+      "wordCount": 1
+    },
+    {
+      "id": 107,
+      "index": 107,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "You've had my ear since we were children. You could be a valuable ally in the Senate.",
+      "wordCount": 17
+    },
+    {
+      "id": 108,
+      "index": 108,
+      "character": "GAIUS",
+      "gender": "Male",
+      "line": "Are you a believer in Republicanism?",
+      "wordCount": 6
+    },
+    {
+      "id": 109,
+      "index": 109,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "There -- I warned you.",
+      "wordCount": 5
+    },
+    {
+      "id": 110,
+      "index": 110,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "I'm a soldier, not a politician.",
+      "wordCount": 6
+    },
+    {
+      "id": 111,
+      "index": 111,
+      "character": "GAIUS",
+      "gender": "Male",
+      "line": "If your heart lies with the people, I would back you for the Senate. I'm sure Gracchus would as well.",
+      "wordCount": 20
+    },
+    {
+      "id": 112,
+      "index": 112,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "Not a word about that sodomite bastard.",
+      "wordCount": 7
+    },
+    {
+      "id": 113,
+      "index": 113,
+      "character": "GAIUS",
+      "gender": "Male",
+      "line": "The august Senator Gracchus has been rather a gadfly on the flesh of the imperial family.",
+      "wordCount": 16
+    },
+    {
+      "id": 114,
+      "index": 114,
+      "character": "FALCO",
+      "gender": "Male",
+      "line": "He's a damned provocateur.",
+      "wordCount": 4
+    },
+    {
+      "id": 115,
+      "index": 115,
+      "character": "GAIUS",
+      "gender": "Male",
+      "line": "He lives under the antiquated assumption that the Senate should represent the people with vigor.",
+      "wordCount": 15
+    },
+    {
+      "id": 116,
+      "index": 116,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "I won't tolerate it. His incessant criticism exhausts me. The man can speak for five hours without taking a breath.",
+      "wordCount": 20
+    },
+    {
+      "id": 117,
+      "index": 117,
+      "character": "GAIUS",
+      "gender": "Male",
+      "line": "He serves Rome best when he serves it with honesty.",
+      "wordCount": 10
+    },
+    {
+      "id": 118,
+      "index": 118,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "Enough... Maximus, I would like to inspect the Felix Regiment at dawn. Please arrange it.",
+      "wordCount": 15
+    },
+    {
+      "id": 119,
+      "index": 119,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "I can't do that.",
+      "wordCount": 4
+    },
+    {
+      "id": 120,
+      "index": 120,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "Excuse me?",
+      "wordCount": 2
+    },
+    {
+      "id": 121,
+      "index": 121,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "My men have been fighting for five solid days. They're too busy dying to go on dress parade.",
+      "wordCount": 18
+    },
+    {
+      "id": 122,
+      "index": 122,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "Of course, how foolish of me. Some other time...",
+      "wordCount": 9
+    },
+    {
+      "id": 123,
+      "index": 123,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "Caesar retires early tonight.",
+      "wordCount": 4
+    },
+    {
+      "id": 124,
+      "index": 124,
+      "character": "MARCUS",
+      "gender": "Male",
+      "line": "If only you had been born a man...",
+      "wordCount": 8
+    },
+    {
+      "id": 125,
+      "index": 125,
+      "character": "LUCILLA",
+      "gender": "Female",
+      "line": "Father.",
+      "wordCount": 1
+    },
+    {
+      "id": 126,
+      "index": 126,
+      "character": "MARCUS",
+      "gender": "Male",
+      "line": "What a Caesar you would have made.",
+      "wordCount": 7
+    },
+    {
+      "id": 127,
+      "index": 127,
+      "character": "LUCILLA",
+      "gender": "Female",
+      "line": "You're right.",
+      "wordCount": 2
+    },
+    {
+      "id": 128,
+      "index": 128,
+      "character": "MARCUS",
+      "gender": "Male",
+      "line": "I think you would have been strong. I wonder if you would have been just?",
+      "wordCount": 15
+    },
+    {
+      "id": 129,
+      "index": 129,
+      "character": "LUCILLA",
+      "gender": "Female",
+      "line": "I would have been what you taught me to be.",
+      "wordCount": 10
+    },
+    {
+      "id": 130,
+      "index": 130,
+      "character": "MARCUS",
+      "gender": "Male",
+      "line": "Well, pretend to be my loving daughter tonight and walk with me to my chamber.",
+      "wordCount": 15
+    },
+    {
+      "id": 131,
+      "index": 131,
+      "character": "MARCUS",
+      "gender": "Male",
+      "line": "This is a pleasant fiction, isn't it?",
+      "wordCount": 7
+    },
+    {
+      "id": 132,
+      "index": 132,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "Caesar.",
+      "wordCount": 1
+    },
+    {
+      "id": 133,
+      "index": 133,
+      "character": "MARCUS",
+      "gender": "Male",
+      "line": "Read this.",
+      "wordCount": 2
+    },
+    {
+      "id": 134,
+      "index": 134,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "I never acquired the art, sir.",
+      "wordCount": 6
+    },
+    {
+      "id": 135,
+      "index": 135,
+      "character": "MARCUS",
+      "gender": "Male",
+      "line": "Of course. No matter. In this letter I denote my intention to nominate you to stand for the Emperorship after my death.",
+      "wordCount": 22
+    },
+    {
+      "id": 136,
+      "index": 136,
+      "character": "MARCUS",
+      "gender": "Male",
+      "line": "My son is not a moral man. You have known this since you were young. He cannot rule.",
+      "wordCount": 18
+    },
+    {
+      "id": 137,
+      "index": 137,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "Caesar, I am honored but --",
+      "wordCount": 6
+    },
+    {
+      "id": 138,
+      "index": 138,
+      "character": "MARCUS",
+      "gender": "Male",
+      "line": "For twenty years I have been spilling blood. For twenty years I have written philosophy and ruminated and conquered. Since I became Caesar I have only had four years without war. Four years of peace in twenty. So perhaps I can be... forgiven.",
+      "wordCount": 43
+    },
+    {
+      "id": 139,
+      "index": 139,
+      "character": "MARCUS",
+      "gender": "Male",
+      "line": "While I have been fighting, Rome has grown mad and corpulent and diseased. I did this. And now I shall make it right.",
+      "wordCount": 23
+    },
+    {
+      "id": 140,
+      "index": 140,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "Sire, you brought the light of the Gods to barbarian darkness. You brought civilization and justice to the farthest --",
+      "wordCount": 20
+    },
+    {
+      "id": 141,
+      "index": 141,
+      "character": "MARCUS",
+      "gender": "Male",
+      "line": "I have brought the sword -- nothing more! Rome is far away and we shouldn't be here. What matter is it to the Gods if we subdue one more tribe of Parthians or Gauls? What matter is it to Rome if a thousand more barbarians bend to our lash?",
+      "wordCount": 49
+    },
+    {
+      "id": 142,
+      "index": 142,
+      "character": "MARCUS",
+      "gender": "Male",
+      "line": "Winter, Maximus. It's winter now...",
+      "wordCount": 5
+    },
+    {
+      "id": 143,
+      "index": 143,
+      "character": "MARCUS",
+      "gender": "Male",
+      "line": "There was a dream that was Rome. I can only whisper of it now. Anything more than a whisper and the dream vanishes. It's so... fragile. The true glory of Rome is in a very fragile idea. Imagine a place devoted to the rights of the citizen. Where every free man has a voice. That was the dream... And I fear it will not survive the winter.",
+      "wordCount": 67
+    },
+    {
+      "id": 144,
+      "index": 144,
+      "character": "MARCUS",
+      "gender": "Male",
+      "line": "Let's just whisper here, you and I.",
+      "wordCount": 7
+    },
+    {
+      "id": 145,
+      "index": 145,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "Yes, Caesar.",
+      "wordCount": 2
+    },
+    {
+      "id": 146,
+      "index": 146,
+      "character": "MARCUS",
+      "gender": "Male",
+      "line": "If the dream is ever to live again the people must have a true voice. The voice I took from them. That all the Caesars took from them, bit by bit, conquest by conquest. And now that I am dying I am going to give them that voice again.",
+      "wordCount": 49
+    },
+    {
+      "id": 147,
+      "index": 147,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "You're not dying.",
+      "wordCount": 3
+    },
+    {
+      "id": 148,
+      "index": 148,
+      "character": "MARCUS",
+      "gender": "Male",
+      "line": "I am, Maximus. It's strange... I find as I near the end I think little of the waning moments around me... instead I think much of the past... and of the future. How will the world speak my name in years to come? Will I be known as the philosopher? The warrior? The tyrant? Or will there be a more golden sounding to my name? Will I be the Emperor who gave Rome back her freedom?",
+      "wordCount": 76
+    },
+    {
+      "id": 149,
+      "index": 149,
+      "character": "MARCUS",
+      "gender": "Male",
+      "line": "Before I die I will give the people this final gift. I will give them the Senate reborn. The voice of the people empowered again, as it was always meant to be. It is my design that they will elect the next Emperor. And I would put forward your name with my backing.",
+      "wordCount": 53
+    },
+    {
+      "id": 150,
+      "index": 150,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "Caesar, you do me honor -- but your son has pride of place for succession.",
+      "wordCount": 15
+    },
+    {
+      "id": 151,
+      "index": 151,
+      "character": "MARCUS",
+      "gender": "Male",
+      "line": "You are the son I should have had... Although I fear in my deepest heart that if you had truly been my son my blood would have polluted you as it did Commodus. We're a cursed bloodline. We have lived so long in power and depravity that we no longer remember a life without it. We can no longer even imagine a life without it.",
+      "wordCount": 65
+    },
+    {
+      "id": 152,
+      "index": 152,
+      "character": "MARCUS",
+      "gender": "Male",
+      "line": "Look at me, son.",
+      "wordCount": 4
+    },
+    {
+      "id": 153,
+      "index": 153,
+      "character": "MARCUS",
+      "gender": "Male",
+      "line": "Son... I know that one grove of your vineyard is worth more to you than all the treasures of Rome. I know one loving word from your wife is worth more than the accolades of an Empire. But... a fond old man, who loves you more than he can say, begs you to at least think about what he has said tonight.",
+      "wordCount": 62
+    },
+    {
+      "id": 154,
+      "index": 154,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "I shall, Caesar.",
+      "wordCount": 3
+    },
+    {
+      "id": 155,
+      "index": 155,
+      "character": "MARCUS",
+      "gender": "Male",
+      "line": "I'll keep this letter to myself. I hope that with the sunrise you will agree. And embrace me as a father.",
+      "wordCount": 21
+    },
+    {
+      "id": 156,
+      "index": 156,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "You have always been my father.",
+      "wordCount": 6
+    },
+    {
+      "id": 157,
+      "index": 157,
+      "character": "LUCILLA'S VOICE",
+      "gender": "NA",
+      "line": "He always favored you...",
+      "wordCount": 4
+    },
+    {
+      "id": 158,
+      "index": 158,
+      "character": "LUCILLA",
+      "gender": "Female",
+      "line": "Even over his son.",
+      "wordCount": 4
+    },
+    {
+      "id": 159,
+      "index": 159,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "That's not true.",
+      "wordCount": 3
+    },
+    {
+      "id": 160,
+      "index": 160,
+      "character": "LUCILLA",
+      "gender": "Female",
+      "line": "Maximus, stop... Let me see your face.",
+      "wordCount": 7
+    },
+    {
+      "id": 161,
+      "index": 161,
+      "character": "LUCILLA",
+      "gender": "Female",
+      "line": "You've been crying.",
+      "wordCount": 3
+    },
+    {
+      "id": 162,
+      "index": 162,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "I lost too many men.",
+      "wordCount": 5
+    },
+    {
+      "id": 163,
+      "index": 163,
+      "character": "LUCILLA",
+      "gender": "Female",
+      "line": "What does my father intend?",
+      "wordCount": 5
+    },
+    {
+      "id": 164,
+      "index": 164,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "I don't know.",
+      "wordCount": 3
+    },
+    {
+      "id": 165,
+      "index": 165,
+      "character": "LUCILLA",
+      "gender": "Female",
+      "line": "You're lying. I could tell when you were lying even when we were children. You hate it.",
+      "wordCount": 17
+    },
+    {
+      "id": 166,
+      "index": 166,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "I never acquired your comfort with it.",
+      "wordCount": 7
+    },
+    {
+      "id": 167,
+      "index": 167,
+      "character": "LUCILLA",
+      "gender": "Female",
+      "line": "True. But then you never had to. Maximus, stop... ... Is it really so terrible seeing me again?",
+      "wordCount": 18
+    },
+    {
+      "id": 168,
+      "index": 168,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "No. I'm sorry. I'm tired from the battle.",
+      "wordCount": 8
+    },
+    {
+      "id": 169,
+      "index": 169,
+      "character": "LUCILLA",
+      "gender": "Female",
+      "line": "And you are hurt to see my father dying.",
+      "wordCount": 9
+    },
+    {
+      "id": 170,
+      "index": 170,
+      "character": "LUCILLA",
+      "gender": "Female",
+      "line": "He will announce Commodus' succession. That's why he summoned us. Will you serve my brother as you served his father?",
+      "wordCount": 20
+    },
+    {
+      "id": 171,
+      "index": 171,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "I will always serve the ideals of Rome.",
+      "wordCount": 8
+    },
+    {
+      "id": 172,
+      "index": 172,
+      "character": "LUCILLA",
+      "gender": "Female",
+      "line": "Do you know I still remember you in my prayers...? Oh yes, I pray... Ever since that day you saved me from drowning off Capri. Do you remember?",
+      "wordCount": 28
+    },
+    {
+      "id": 173,
+      "index": 173,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "Yes.",
+      "wordCount": 1
+    },
+    {
+      "id": 174,
+      "index": 174,
+      "character": "LUCILLA",
+      "gender": "Female",
+      "line": "Commodus was so angry that a mere peasant -- a Spaniard no less -- touched the royal person, do you remember his anger?",
+      "wordCount": 23
+    },
+    {
+      "id": 175,
+      "index": 175,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "Yes.",
+      "wordCount": 1
+    },
+    {
+      "id": 176,
+      "index": 176,
+      "character": "LUCILLA",
+      "gender": "Female",
+      "line": "Mark this, Maximus: that is the man who will be Emperor.",
+      "wordCount": 11
+    },
+    {
+      "id": 177,
+      "index": 177,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "May I be permitted to go, Highness?",
+      "wordCount": 7
+    },
+    {
+      "id": 178,
+      "index": 178,
+      "character": "LUCILLA",
+      "gender": "Female",
+      "line": "There was a time when you didn't call me \"Highness.\"",
+      "wordCount": 10
+    },
+    {
+      "id": 179,
+      "index": 179,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "And there was a time when you were just a little girl drowning in the sea. All that was a different life.",
+      "wordCount": 22
+    },
+    {
+      "id": 180,
+      "index": 180,
+      "character": "LUCILLA",
+      "gender": "Female",
+      "line": "Very different... I wonder if it was better?",
+      "wordCount": 8
+    },
+    {
+      "id": 181,
+      "index": 181,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "It was more honest.",
+      "wordCount": 4
+    },
+    {
+      "id": 182,
+      "index": 182,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "I thank you for your prayers.",
+      "wordCount": 6
+    },
+    {
+      "id": 183,
+      "index": 183,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "Ancestors, true bloodline, I ask you for your guidance. Bring me your solace and your wisdom. Blessed Mother, come to me in my dreams with the Gods' desire for my future. Blessed Father, watch over my wife and my son with a ready sword. Keep them safe until my return. Whisper to them in their sleep that I live only to hold them again and all else is dust and air. Ancestors, true bloodline, I honor you and will try to live with the dignity you have taught me.",
+      "wordCount": 89
+    },
+    {
+      "id": 184,
+      "index": 184,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "I search the faces of the Gods for ways to please you... to make you proud... and I can never do it. One kind word -- one full hug where you pressed me to your chest and held me tight -- would have been like the sun on my heart for a thousand years... What is it in me you hate so much? My eyes are your eyes. My hands are your hands. All I have ever wanted was to live up to you. Caesar. Father.",
+      "wordCount": 86
+    },
+    {
+      "id": 185,
+      "index": 185,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "Why does Maximus deserve what I could never have? -- Why do you love his eyes over mine? -- I would butcher the whole world -- if you would only love me...",
+      "wordCount": 32
+    },
+    {
+      "id": 186,
+      "index": 186,
+      "character": "QUINTUS",
+      "gender": "Male",
+      "line": "General -- Maximus --",
+      "wordCount": 4
+    },
+    {
+      "id": 187,
+      "index": 187,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "Quintus -- ?",
+      "wordCount": 3
+    },
+    {
+      "id": 188,
+      "index": 188,
+      "character": "QUINTUS",
+      "gender": "Male",
+      "line": "The Emperor needs you. It's urgent.",
+      "wordCount": 6
+    },
+    {
+      "id": 189,
+      "index": 189,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "What is it? Is he ill?",
+      "wordCount": 6
+    },
+    {
+      "id": 190,
+      "index": 190,
+      "character": "QUINTUS",
+      "gender": "Male",
+      "line": "I don't know...",
+      "wordCount": 3
+    },
+    {
+      "id": 191,
+      "index": 191,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "Lament with me, brother, our great father is dead. I want --",
+      "wordCount": 12
+    },
+    {
+      "id": 192,
+      "index": 192,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "General, the Gods' have taken the great man and left me alone. My first desire as Emperor is that you take my hand in friendship. I need you at my side, Maximus, at this moment above all others. Stand with me.",
+      "wordCount": 41
+    },
+    {
+      "id": 193,
+      "index": 193,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "How did he die?",
+      "wordCount": 4
+    },
+    {
+      "id": 194,
+      "index": 194,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "How did he die?",
+      "wordCount": 4
+    },
+    {
+      "id": 195,
+      "index": 195,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "The surgeons say it was his breath that gave out.",
+      "wordCount": 10
+    },
+    {
+      "id": 196,
+      "index": 196,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "Take my hand, Maximus. I only offer it once.",
+      "wordCount": 9
+    },
+    {
+      "id": 197,
+      "index": 197,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "How will the world speak your name now, old man?",
+      "wordCount": 10
+    },
+    {
+      "id": 198,
+      "index": 198,
+      "character": "LUCILLA",
+      "gender": "Female",
+      "line": "Hail, Caesar.",
+      "wordCount": 2
+    },
+    {
+      "id": 199,
+      "index": 199,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "What -- ?!",
+      "wordCount": 3
+    },
+    {
+      "id": 200,
+      "index": 200,
+      "character": "QUINTUS",
+      "gender": "Male",
+      "line": "Please don't fight, Maximus --",
+      "wordCount": 5
+    },
+    {
+      "id": 201,
+      "index": 201,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "Quintus --",
+      "wordCount": 2
+    },
+    {
+      "id": 202,
+      "index": 202,
+      "character": "QUINTUS",
+      "gender": "Male",
+      "line": "I'm sorry, General, Caesar has spoken.",
+      "wordCount": 6
+    },
+    {
+      "id": 203,
+      "index": 203,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "Quintus, what -- ?",
+      "wordCount": 4
+    },
+    {
+      "id": 204,
+      "index": 204,
+      "character": "QUINTUS",
+      "gender": "Male",
+      "line": "I have no choice --",
+      "wordCount": 5
+    },
+    {
+      "id": 205,
+      "index": 205,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "My family?!",
+      "wordCount": 2
+    },
+    {
+      "id": 206,
+      "index": 206,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "What about my family, Quintus?",
+      "wordCount": 5
+    },
+    {
+      "id": 207,
+      "index": 207,
+      "character": "QUINTUS",
+      "gender": "Male",
+      "line": "They will greet you in the afterlife.",
+      "wordCount": 7
+    },
+    {
+      "id": 208,
+      "index": 208,
+      "character": "QUINTUS",
+      "gender": "Male",
+      "line": "Take him as far as the sunrise and then kill him.",
+      "wordCount": 11
+    },
+    {
+      "id": 209,
+      "index": 209,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "Have you ever done this before?",
+      "wordCount": 6
+    },
+    {
+      "id": 210,
+      "index": 210,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "Killed a man with a sword?",
+      "wordCount": 6
+    },
+    {
+      "id": 211,
+      "index": 211,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "It can be very messy -- you could get blood all over your armor. You don't want to hack me up now. You want one clean stroke.",
+      "wordCount": 27
+    },
+    {
+      "id": 212,
+      "index": 212,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "One good stroke -- you do know where, don't you?",
+      "wordCount": 10
+    },
+    {
+      "id": 213,
+      "index": 213,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "If you miss the spot there'll be blood everywhere. Quite a spray.",
+      "wordCount": 12
+    },
+    {
+      "id": 214,
+      "index": 214,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "Here -- you don't want to hit the vein on the neck --",
+      "wordCount": 13
+    },
+    {
+      "id": 215,
+      "index": 215,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "Put the point of your sword here... you want one, good blow right at this spot --",
+      "wordCount": 17
+    },
+    {
+      "id": 216,
+      "index": 216,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "Even as the Gods curse this dark day with clouds, so too does the sun begin to shine forth on a promised tomorrow. Even as we mourn the passing of our father, so too do we celebrate the coming of a bright, new age for Rome. At my side, brothers, you shall pull fresh glories from the heavens. At my side, brothers, you shall know the adoration of the Gods. Doubly-dark is this day because my friend, your noble commander Maximus Meridas, has been called to Rome to deal with urgent matters of state...",
+      "wordCount": 94
+    },
+    {
+      "id": 217,
+      "index": 217,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "Until his promised return I appointed Quintus Domitian to serve in his stead. I salute you, Legionnaires!",
+      "wordCount": 17
+    },
+    {
+      "id": 218,
+      "index": 218,
+      "character": "QUINTUS",
+      "gender": "Male",
+      "line": "Hail, Caesar!",
+      "wordCount": 2
+    },
+    {
+      "id": 219,
+      "index": 219,
+      "character": "FELIX REGIMENT",
+      "gender": "NA",
+      "line": "Hail, Caesar!",
+      "wordCount": 2
+    },
+    {
+      "id": 220,
+      "index": 220,
+      "character": "TITUS",
+      "gender": "NA",
+      "line": "Quintus, what is -- ?",
+      "wordCount": 5
+    },
+    {
+      "id": 221,
+      "index": 221,
+      "character": "QUINTUS",
+      "gender": "Male",
+      "line": "Don't speak of it. Never speak of it.",
+      "wordCount": 8
+    },
+    {
+      "id": 222,
+      "index": 222,
+      "character": "MAXIMUS' SON",
+      "gender": "NA",
+      "line": "MOTHER! MOTHER! FATHER'S HOME!",
+      "wordCount": 4
+    },
+    {
+      "id": 223,
+      "index": 223,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "Am I in Hades?",
+      "wordCount": 4
+    },
+    {
+      "id": 224,
+      "index": 224,
+      "character": "JUBA",
+      "gender": "Male",
+      "line": "Yes.",
+      "wordCount": 1
+    },
+    {
+      "id": 225,
+      "index": 225,
+      "character": "JUBA",
+      "gender": "Male",
+      "line": "For your wound...",
+      "wordCount": 3
+    },
+    {
+      "id": 226,
+      "index": 226,
+      "character": "JUBA",
+      "gender": "Male",
+      "line": "For your wound.",
+      "wordCount": 3
+    },
+    {
+      "id": 227,
+      "index": 227,
+      "character": "JUBA",
+      "gender": "Male",
+      "line": "If you die in the wagons they feed you to the lions... The lions are worth more than we are. I think we are worth more than the zebras though. So they don't feed us to them.",
+      "wordCount": 37
+    },
+    {
+      "id": 228,
+      "index": 228,
+      "character": "JUBA",
+      "gender": "Male",
+      "line": "I'm not sure about the giraffe.",
+      "wordCount": 6
+    },
+    {
+      "id": 229,
+      "index": 229,
+      "character": "SLAVE TRADER",
+      "gender": "Male",
+      "line": "Proximo, my old friend, see what I have for you today -- !",
+      "wordCount": 13
+    },
+    {
+      "id": 230,
+      "index": 230,
+      "character": "PROXIMO",
+      "gender": "Male",
+      "line": "Those giraffes you sold me won't mate! All they do is run around not mating! YOU SOLD ME EUNUCH GIRAFFES!!",
+      "wordCount": 20
+    },
+    {
+      "id": 231,
+      "index": 231,
+      "character": "SLAVE TRADER",
+      "gender": "Male",
+      "line": "I will make it up to you, Master. It's bargain day for you! Look, look, look -- I have two lions and a panther -- hear how they roar for you! \"Bring me home, Proximo!\"",
+      "wordCount": 35
+    },
+    {
+      "id": 232,
+      "index": 232,
+      "character": "PROXIMO",
+      "gender": "Male",
+      "line": "How much for the lot?",
+      "wordCount": 5
+    },
+    {
+      "id": 233,
+      "index": 233,
+      "character": "SLAVE TRADER",
+      "gender": "Male",
+      "line": "For you -- 8,000 sesterces.",
+      "wordCount": 5
+    },
+    {
+      "id": 234,
+      "index": 234,
+      "character": "PROXIMO",
+      "gender": "Male",
+      "line": "For me -- 6,000 sesterces and I want to see their balls first. And you throw in those two slaves.",
+      "wordCount": 20
+    },
+    {
+      "id": 235,
+      "index": 235,
+      "character": "SLAVE TRADER",
+      "gender": "Male",
+      "line": "What about this one? Look at the arms!",
+      "wordCount": 8
+    },
+    {
+      "id": 236,
+      "index": 236,
+      "character": "PROXIMO",
+      "gender": "Male",
+      "line": "Good teeth --",
+      "wordCount": 3
+    },
+    {
+      "id": 237,
+      "index": 237,
+      "character": "PROXIMO",
+      "gender": "Male",
+      "line": "Where did you get those scars?",
+      "wordCount": 6
+    },
+    {
+      "id": 238,
+      "index": 238,
+      "character": "PROXIMO",
+      "gender": "Male",
+      "line": "Are you a soldier?",
+      "wordCount": 4
+    },
+    {
+      "id": 239,
+      "index": 239,
+      "character": "PROXIMO",
+      "gender": "Male",
+      "line": "Do you speak? -- KEEP THOSE DAMN FLIES OFF ME! He's dying.",
+      "wordCount": 12
+    },
+    {
+      "id": 240,
+      "index": 240,
+      "character": "SLAVE TRADER",
+      "gender": "Male",
+      "line": "1,000 sesterces.",
+      "wordCount": 2
+    },
+    {
+      "id": 241,
+      "index": 241,
+      "character": "PROXIMO",
+      "gender": "Male",
+      "line": "My ass... You throw in this one and we'll make it 7,000 sesterces for the whole lot.",
+      "wordCount": 17
+    },
+    {
+      "id": 242,
+      "index": 242,
+      "character": "SLAVE TRADER",
+      "gender": "Male",
+      "line": "I have to eat, Master! He's my finest, I couldn't let him go as part of the lot for less than 9,000 total... I tell you this one is prime. He's a Spaniard and killed fourteen of my men before he could be subdued!",
+      "wordCount": 44
+    },
+    {
+      "id": 243,
+      "index": 243,
+      "character": "PROXIMO",
+      "gender": "Male",
+      "line": "All right, let's see.",
+      "wordCount": 4
+    },
+    {
+      "id": 244,
+      "index": 244,
+      "character": "PROXIMO",
+      "gender": "Male",
+      "line": "That's enough.",
+      "wordCount": 2
+    },
+    {
+      "id": 245,
+      "index": 245,
+      "character": "SLAVE TRADER",
+      "gender": "Male",
+      "line": "STOP! STOP!",
+      "wordCount": 2
+    },
+    {
+      "id": 246,
+      "index": 246,
+      "character": "PROXIMO",
+      "gender": "Male",
+      "line": "I'll give you 500 sesterces.",
+      "wordCount": 5
+    },
+    {
+      "id": 247,
+      "index": 247,
+      "character": "SLAVE TRADER",
+      "gender": "Male",
+      "line": "No -- no -- 1,000!",
+      "wordCount": 5
+    },
+    {
+      "id": 248,
+      "index": 248,
+      "character": "PROXIMO",
+      "gender": "Male",
+      "line": "Come, don't quibble with your old friend. I'll take the lions, the panther, the Numidian and this one for 7,000. And I'll buy you the best whore in the town for two nights. She's an enormous mountain of flesh who craves a stern hand.",
+      "wordCount": 44
+    },
+    {
+      "id": 249,
+      "index": 249,
+      "character": "SLAVE TRADER",
+      "gender": "Male",
+      "line": "How could I say no to my old friend Proximo?",
+      "wordCount": 10
+    },
+    {
+      "id": 250,
+      "index": 250,
+      "character": "PROXIMO",
+      "gender": "Male",
+      "line": "COME ON, YOU FILTHY BEAST!",
+      "wordCount": 5
+    },
+    {
+      "id": 251,
+      "index": 251,
+      "character": "PROXIMO",
+      "gender": "Male",
+      "line": "Slaves. I am Proximo, trainer of gladiators. You live and die at my pleasure. Fight well and you will live. Fight poorly and you will die. It is better to live.",
+      "wordCount": 31
+    },
+    {
+      "id": 252,
+      "index": 252,
+      "character": "PROXIMO",
+      "gender": "Male",
+      "line": "Here you will be trained in the art of combat. Here you will be given the tools to survive. Please my patrons in the arena and all the gifts of the world will be showered upon you. Imagine riches beyond your paltry dreams of riches! Imagine fame beyond your rude understanding of the word! All this can belong to the select few who prove their worth in the arena.",
+      "wordCount": 69
+    },
+    {
+      "id": 253,
+      "index": 253,
+      "character": "PROXIMO",
+      "gender": "Male",
+      "line": "If... on the other hand... you disappoint me... you will be dismembered and fed to my jackals limb by limb.",
+      "wordCount": 20
+    },
+    {
+      "id": 254,
+      "index": 254,
+      "character": "PROXIMO",
+      "gender": "Male",
+      "line": "And my jackals are always hungry.",
+      "wordCount": 6
+    },
+    {
+      "id": 255,
+      "index": 255,
+      "character": "JUBA",
+      "gender": "Male",
+      "line": "Have you killed a man before?",
+      "wordCount": 6
+    },
+    {
+      "id": 256,
+      "index": 256,
+      "character": "JUBA",
+      "gender": "Male",
+      "line": "You should eat. You'll need your strength tomorrow.",
+      "wordCount": 8
+    },
+    {
+      "id": 257,
+      "index": 257,
+      "character": "JUBA",
+      "gender": "Male",
+      "line": "I've never killed a man. But I think you have.",
+      "wordCount": 10
+    },
+    {
+      "id": 258,
+      "index": 258,
+      "character": "JUBA",
+      "gender": "Male",
+      "line": "I almost killed once. The Romans destroyed my village. I was with a hunting party and when we returned... I would have killed every Roman in the world.",
+      "wordCount": 28
+    },
+    {
+      "id": 259,
+      "index": 259,
+      "character": "JUBA",
+      "gender": "Male",
+      "line": "If you don't eat you will die.",
+      "wordCount": 7
+    },
+    {
+      "id": 260,
+      "index": 260,
+      "character": "JUBA",
+      "gender": "Male",
+      "line": "In the village I come from there was a man once. He went fishing one day and his boat was attacked by crocodiles. One of them ate his leg. He pulled himself to the shore and a lion attacked him. It ate one of his arms. He dragged himself through the desert on the way home and a scorpion stung his eye. So he only had one eye. When he reached the village I sat with him. I said, \"You have lost a leg, an arm and one eye. You must have a mighty will to live.\" He said, \"No, Lord, it's just better than the alternative.\"",
+      "wordCount": 107
+    },
+    {
+      "id": 261,
+      "index": 261,
+      "character": "JUBA",
+      "gender": "Male",
+      "line": "Life is a gift from our fathers to us. Who are you to give it up for lack of lifting a spoon?",
+      "wordCount": 22
+    },
+    {
+      "id": 262,
+      "index": 262,
+      "character": "SCRIBE",
+      "gender": "Male",
+      "line": "I know nothing of armaments and warfare! I'm a scribe -- I write down words! I can write down seven languages --",
+      "wordCount": 22
+    },
+    {
+      "id": 263,
+      "index": 263,
+      "character": "VIBIUS",
+      "gender": "NA",
+      "line": "Be still.",
+      "wordCount": 2
+    },
+    {
+      "id": 264,
+      "index": 264,
+      "character": "SCRIBE",
+      "gender": "Male",
+      "line": "I don't -- how do you hold the sword?! I've never held a sword!",
+      "wordCount": 14
+    },
+    {
+      "id": 265,
+      "index": 265,
+      "character": "VIBIUS",
+      "gender": "NA",
+      "line": "You point the sharp end at your opponent and you shove it in his guts.",
+      "wordCount": 15
+    },
+    {
+      "id": 266,
+      "index": 266,
+      "character": "SCRIBE",
+      "gender": "Male",
+      "line": "I can't -- I --",
+      "wordCount": 5
+    },
+    {
+      "id": 267,
+      "index": 267,
+      "character": "VIBIUS",
+      "gender": "NA",
+      "line": "Proximo! You insult me with this carrion! Chain him to someone else!",
+      "wordCount": 12
+    },
+    {
+      "id": 268,
+      "index": 268,
+      "character": "PROXIMO",
+      "gender": "Male",
+      "line": "Don't worry, noble Vibius, he won't be bothering you for long.",
+      "wordCount": 11
+    },
+    {
+      "id": 269,
+      "index": 269,
+      "character": "CHILDREN",
+      "gender": "NA",
+      "line": "Dead guts! Dead guts! Dead guts!",
+      "wordCount": 6
+    },
+    {
+      "id": 270,
+      "index": 270,
+      "character": "PROXIMO",
+      "gender": "Male",
+      "line": "Some of you say you can't fight, you won't fight... They all say that... But one day you will pick up a sword and thrust it into another man. And the crowd will cheer you and love you. And you will love them for it. On that day... you will be a gladiator.",
+      "wordCount": 53
+    },
+    {
+      "id": 271,
+      "index": 271,
+      "character": "PROXIMO",
+      "gender": "Male",
+      "line": "In this life, we all die. All we can choose is how we die. And how we are remembered. Be remembered proudly.",
+      "wordCount": 22
+    },
+    {
+      "id": 272,
+      "index": 272,
+      "character": "PROXIMO",
+      "gender": "Male",
+      "line": "No... ... give the Spaniard to him. Give the Scribe to Vibius.",
+      "wordCount": 12
+    },
+    {
+      "id": 273,
+      "index": 273,
+      "character": "JUBA",
+      "gender": "Male",
+      "line": "Are we going to fight each other?",
+      "wordCount": 7
+    },
+    {
+      "id": 274,
+      "index": 274,
+      "character": "PROXIMO",
+      "gender": "Male",
+      "line": "Make it 600 sesterces for each decapitation.",
+      "wordCount": 7
+    },
+    {
+      "id": 275,
+      "index": 275,
+      "character": "PROXIMO",
+      "gender": "Male",
+      "line": "Two.",
+      "wordCount": 1
+    },
+    {
+      "id": 276,
+      "index": 276,
+      "character": "PROXIMO",
+      "gender": "Male",
+      "line": "Done. 400 sesterces for two strokes.",
+      "wordCount": 6
+    },
+    {
+      "id": 277,
+      "index": 277,
+      "character": "PROXIMO",
+      "gender": "Male",
+      "line": "A Greek Scribe.",
+      "wordCount": 3
+    },
+    {
+      "id": 278,
+      "index": 278,
+      "character": "PROXIMO",
+      "gender": "Male",
+      "line": "Give me odds, friend.",
+      "wordCount": 4
+    },
+    {
+      "id": 279,
+      "index": 279,
+      "character": "GRACCHUS",
+      "gender": "Male",
+      "line": "We have plague in the Hebrew Quarter and it is spreading... we have looting at the granaries... we have so much filth in the Tiber that the water is undrinkable... we have Praetorian Guard units that are demanding protection payments from the merchants at the exchange --",
+      "wordCount": 47
+    },
+    {
+      "id": 280,
+      "index": 280,
+      "character": "MARCELLUS",
+      "gender": "NA",
+      "line": "My City Guard units have tried to curtail these excesses but no constabulary can police the entire city. And the Praetorians outnumber us two to one.",
+      "wordCount": 26
+    },
+    {
+      "id": 281,
+      "index": 281,
+      "character": "GRACCHUS",
+      "gender": "Male",
+      "line": "Rome dies as the Emperor plays at beneficence. At least Nero gave us music!",
+      "wordCount": 14
+    },
+    {
+      "id": 282,
+      "index": 282,
+      "character": "GAIUS",
+      "gender": "Male",
+      "line": "Do you think he'll listen to us?",
+      "wordCount": 7
+    },
+    {
+      "id": 283,
+      "index": 283,
+      "character": "GRACCHUS",
+      "gender": "Male",
+      "line": "It is his duty to hear the will of the Senate.",
+      "wordCount": 11
+    },
+    {
+      "id": 284,
+      "index": 284,
+      "character": "GRACCHUS",
+      "gender": "Male",
+      "line": "Not to mention the damn traffic!",
+      "wordCount": 6
+    },
+    {
+      "id": 285,
+      "index": 285,
+      "character": "CHILD",
+      "gender": "NA",
+      "line": "We honor Caesar with the laurel to show our love and appreciation for his benevolence.",
+      "wordCount": 15
+    },
+    {
+      "id": 286,
+      "index": 286,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "Caesar is honored to accept your tribute, Citizen Scholar.",
+      "wordCount": 9
+    },
+    {
+      "id": 287,
+      "index": 287,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "It is the most sacred duty of the Emperor to oversee the education of the young. If I could leave no other legacy than the scholarship of all children my life would be blessed. Tutors, you hold the future of Rome in your hands. Teach them well so that they will bring honor to the Empire. I salute you.",
+      "wordCount": 59
+    },
+    {
+      "id": 288,
+      "index": 288,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "Look at them, Senators... my truest gift to Rome.",
+      "wordCount": 9
+    },
+    {
+      "id": 289,
+      "index": 289,
+      "character": "GRACCHUS",
+      "gender": "Male",
+      "line": "Darling children, to be sure, now if I may proceed?",
+      "wordCount": 10
+    },
+    {
+      "id": 290,
+      "index": 290,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "Very well...",
+      "wordCount": 2
+    },
+    {
+      "id": 291,
+      "index": 291,
+      "character": "GRACCHUS",
+      "gender": "Male",
+      "line": "Caesar, your presence in Rome is an invaluable opportunity to begin correcting some of the ills that have beset the city since your father went to the wars. We would like to --",
+      "wordCount": 33
+    },
+    {
+      "id": 292,
+      "index": 292,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "Peace, good Gracchus, peace...",
+      "wordCount": 4
+    },
+    {
+      "id": 293,
+      "index": 293,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "My beloved father was a careless shepherd to his flock. I shall be a good father to my children. I shall remain in Rome and show them how they are loved.",
+      "wordCount": 31
+    },
+    {
+      "id": 294,
+      "index": 294,
+      "character": "GRACCHUS",
+      "gender": "Male",
+      "line": "With respect, sire, the people don't need love -- they need law. The Senate has prepared a series of protocols to begin addressing the corruption in the city -- -- starting with basic sanitation in the Hebrew Quarter. If Caesar could study this and --",
+      "wordCount": 45
+    },
+    {
+      "id": 295,
+      "index": 295,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "You see that's the very problem, isn't it, my old, old friend? My father spent all his time at study. At books and learning and philosophy...",
+      "wordCount": 26
+    },
+    {
+      "id": 296,
+      "index": 296,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "He spent his twilight hours reading scrolls from the Senate. All the while, the people were forgotten.",
+      "wordCount": 17
+    },
+    {
+      "id": 297,
+      "index": 297,
+      "character": "GRACCHUS",
+      "gender": "Male",
+      "line": "The Senate is the people.",
+      "wordCount": 5
+    },
+    {
+      "id": 298,
+      "index": 298,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "I doubt many of the people eat so well as you do, Senator Gracchus...",
+      "wordCount": 14
+    },
+    {
+      "id": 299,
+      "index": 299,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "I doubt many of the people have such splendid armor, Captain Marcellus. Or such fine mistresses, Senator Gaius. No... only their true father knows what the people need. I shall show them they are loved. I shall hold them to my bosom and embrace them tightly --",
+      "wordCount": 47
+    },
+    {
+      "id": 300,
+      "index": 300,
+      "character": "GRACCHUS",
+      "gender": "Male",
+      "line": "Have you ever embraced someone dying of plague, sire?",
+      "wordCount": 9
+    },
+    {
+      "id": 301,
+      "index": 301,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "No. But if you interrupt me one more time I assure you that you shall. I will emulate the immortal Caesars of the past. I will give the people what they truly want. Starting this day I will draw all of Rome to the Colosseum. I will give them bread. And they will want nothing more.",
+      "wordCount": 56
+    },
+    {
+      "id": 302,
+      "index": 302,
+      "character": "GRACCHUS",
+      "gender": "Male",
+      "line": "You want to hold games?",
+      "wordCount": 5
+    },
+    {
+      "id": 303,
+      "index": 303,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "Not just any games, Senator! A series of games that will make the Gods envious and leave my children happy! I will subsidize the arena from this day forth -- and I will culminate this celebration in a great spectacle the likes of which the world has never seen! A great spectacle to honor my father! Magnificent, unending weeks of festivity all in the name of Marcus Aurelius!",
+      "wordCount": 68
+    },
+    {
+      "id": 304,
+      "index": 304,
+      "character": "GRACCHUS",
+      "gender": "Male",
+      "line": "If I may, Caesar... how are you going to pay for this?",
+      "wordCount": 12
+    },
+    {
+      "id": 305,
+      "index": 305,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "That is not your concern.",
+      "wordCount": 5
+    },
+    {
+      "id": 306,
+      "index": 306,
+      "character": "GRACCHUS",
+      "gender": "Male",
+      "line": "Respectfully, sire, taxation and import duties are the exclusive province of the Senate --",
+      "wordCount": 14
+    },
+    {
+      "id": 307,
+      "index": 307,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "MY FATHER DESERVES TO BE HONORED AND I WILL HONOR HIM! -- AND THE PEOPLE WILL LOVE ME! -- AND THE SENATE WILL OBEY ME OR EVERY ONE OF YOU WILL BURN! BURN! BURN! -- I WILL HAVE ORDER!",
+      "wordCount": 39
+    },
+    {
+      "id": 308,
+      "index": 308,
+      "character": "LUCILLA",
+      "gender": "Female",
+      "line": "Gentlemen, in the future do not concern my brother with these matters. Come to me.",
+      "wordCount": 15
+    },
+    {
+      "id": 309,
+      "index": 309,
+      "character": "MARCELLUS",
+      "gender": "NA",
+      "line": "Games? He wants to hold games?",
+      "wordCount": 6
+    },
+    {
+      "id": 310,
+      "index": 310,
+      "character": "GAIUS",
+      "gender": "Male",
+      "line": "It's madness.",
+      "wordCount": 2
+    },
+    {
+      "id": 311,
+      "index": 311,
+      "character": "GRACCHUS",
+      "gender": "Male",
+      "line": "No... it's not...",
+      "wordCount": 3
+    },
+    {
+      "id": 312,
+      "index": 312,
+      "character": "GRACCHUS",
+      "gender": "Male",
+      "line": "He knows who Rome is. Rome is the mob. He will conjure magic for them and they will be distracted. And he will takes their lives. And he will take their freedom. And still they will roar. The beating heart of Rome isn't the marble of the Senate. It's the sand of the Colosseum. He will give them death. And they will love him for it.",
+      "wordCount": 66
+    },
+    {
+      "id": 313,
+      "index": 313,
+      "character": "PROXIMO",
+      "gender": "Male",
+      "line": "I've wagered on you against the Celts -- ignore the others and go for them -- there are two axe-and- net and two long spear. Now the Celts aren't used to the sun so you have the advantage there...",
+      "wordCount": 39
+    },
+    {
+      "id": 314,
+      "index": 314,
+      "character": "PROXIMO",
+      "gender": "Male",
+      "line": "And keep them moving, their lungs aren't strong, ground the spears as soon as you can and then go for the ax-men. If you get all four there's an extra bonus so don't be distracted by the Spartans...",
+      "wordCount": 38
+    },
+    {
+      "id": 315,
+      "index": 315,
+      "character": "VIBIUS",
+      "gender": "NA",
+      "line": "MOVE ASIDE! THIS IS A TABLE FOR MEN!",
+      "wordCount": 8
+    },
+    {
+      "id": 316,
+      "index": 316,
+      "character": "PROXIMO",
+      "gender": "Male",
+      "line": "Butterfly?",
+      "wordCount": 1
+    },
+    {
+      "id": 317,
+      "index": 317,
+      "character": "PROXIMO",
+      "gender": "Male",
+      "line": "Perhaps you'd like a woman?",
+      "wordCount": 5
+    },
+    {
+      "id": 318,
+      "index": 318,
+      "character": "PROXIMO",
+      "gender": "Male",
+      "line": "Boy?",
+      "wordCount": 1
+    },
+    {
+      "id": 319,
+      "index": 319,
+      "character": "PROXIMO",
+      "gender": "Male",
+      "line": "Gold?",
+      "wordCount": 1
+    },
+    {
+      "id": 320,
+      "index": 320,
+      "character": "PROXIMO",
+      "gender": "Male",
+      "line": "Well, I have nothing left to offer you! A man who turns down a butterfly, a woman, a boy and gold confuses me. Personally, I'd grab them all and then grab some more because the Gods are fanciful and take us at their whim. Does the Spaniard have any needs?",
+      "wordCount": 50
+    },
+    {
+      "id": 321,
+      "index": 321,
+      "character": "PROXIMO",
+      "gender": "Male",
+      "line": "You fight like a soldier. You have wounds like a soldier who has been on long campaigns. You eye the world around you like an enemy. What is your name, Roman soldier?",
+      "wordCount": 32
+    },
+    {
+      "id": 322,
+      "index": 322,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "Gladiator.",
+      "wordCount": 1
+    },
+    {
+      "id": 323,
+      "index": 323,
+      "character": "PROXIMO",
+      "gender": "Male",
+      "line": "And nothing more?",
+      "wordCount": 3
+    },
+    {
+      "id": 324,
+      "index": 324,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "Nothing more.",
+      "wordCount": 2
+    },
+    {
+      "id": 325,
+      "index": 325,
+      "character": "PROXIMO",
+      "gender": "Male",
+      "line": "In two days we leave for Rome.",
+      "wordCount": 7
+    },
+    {
+      "id": 326,
+      "index": 326,
+      "character": "PROXIMO",
+      "gender": "Male",
+      "line": "Ah... so it's Rome you want. Well you shall have her, Gladiator. The new Emperor has ordered a series of matches to culminate in a grand spectacle. If you do well I shall become very, very rich. If you do well enough I shall set you free. Is it freedom you want?",
+      "wordCount": 52
+    },
+    {
+      "id": 327,
+      "index": 327,
+      "character": "PROXIMO",
+      "gender": "Male",
+      "line": "Not even that.",
+      "wordCount": 3
+    },
+    {
+      "id": 328,
+      "index": 328,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "The Emperor -- will he be there?",
+      "wordCount": 7
+    },
+    {
+      "id": 329,
+      "index": 329,
+      "character": "PROXIMO",
+      "gender": "Male",
+      "line": "Oh yes. He's apparently quite mad about the games. Spending a fortune, which is, needless to say, good for me again. But what is good for you, Gladiator?",
+      "wordCount": 28
+    },
+    {
+      "id": 330,
+      "index": 330,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "Have you -- how does one meet the Emperor?",
+      "wordCount": 9
+    },
+    {
+      "id": 331,
+      "index": 331,
+      "character": "PROXIMO",
+      "gender": "Male",
+      "line": "As a gladiator?",
+      "wordCount": 3
+    },
+    {
+      "id": 332,
+      "index": 332,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "Yes.",
+      "wordCount": 1
+    },
+    {
+      "id": 333,
+      "index": 333,
+      "character": "PROXIMO",
+      "gender": "Male",
+      "line": "One doesn't.",
+      "wordCount": 2
+    },
+    {
+      "id": 334,
+      "index": 334,
+      "character": "PROXIMO",
+      "gender": "Male",
+      "line": "Except... If one has proven oneself in battle. If at the end of the games you are the final man standing -- the Emperor will present you with a small wooden sword. The sword is your freedom.",
+      "wordCount": 37
+    },
+    {
+      "id": 335,
+      "index": 335,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "He give it personally?",
+      "wordCount": 4
+    },
+    {
+      "id": 336,
+      "index": 336,
+      "character": "PROXIMO",
+      "gender": "Male",
+      "line": "He did to me... Our great father Marcus Aurelius looked into my eyes and touched me on the shoulder.",
+      "wordCount": 19
+    },
+    {
+      "id": 337,
+      "index": 337,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "You knew Marcus?",
+      "wordCount": 3
+    },
+    {
+      "id": 338,
+      "index": 338,
+      "character": "PROXIMO",
+      "gender": "Male",
+      "line": "I didn't know him. He touched me on the shoulder. Just once. But that was enough.",
+      "wordCount": 16
+    },
+    {
+      "id": 339,
+      "index": 339,
+      "character": "PROXIMO",
+      "gender": "Male",
+      "line": "All right, Gladiator. We shall go to Rome together and have bloody adventures. The Great Whore will suckle us until we are fat and happy and can't suck another drop. That is Rome.",
+      "wordCount": 33
+    },
+    {
+      "id": 340,
+      "index": 340,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "All my desires are splitting my head to pieces -- there's so much I want to do -- but all my efforts to show my children they are loved go unappreciated by those dragons in the Senate --",
+      "wordCount": 38
+    },
+    {
+      "id": 341,
+      "index": 341,
+      "character": "LUCILLA",
+      "gender": "Female",
+      "line": "Quiet, brother...",
+      "wordCount": 2
+    },
+    {
+      "id": 342,
+      "index": 342,
+      "character": "LUCILLA",
+      "gender": "Female",
+      "line": "Leave the Senate to me. Don't trouble yourself.",
+      "wordCount": 8
+    },
+    {
+      "id": 343,
+      "index": 343,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "All I want is to be a good father to my people. Why don't they understand that?",
+      "wordCount": 17
+    },
+    {
+      "id": 344,
+      "index": 344,
+      "character": "LUCILLA",
+      "gender": "Female",
+      "line": "Shhh. The tonic will help...",
+      "wordCount": 5
+    },
+    {
+      "id": 345,
+      "index": 345,
+      "character": "LUCILLA",
+      "gender": "Female",
+      "line": "Yes, just drink this down.",
+      "wordCount": 5
+    },
+    {
+      "id": 346,
+      "index": 346,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "I must take a firmer hand with them. They must know their father can be firm. As our father was firm with us.",
+      "wordCount": 23
+    },
+    {
+      "id": 347,
+      "index": 347,
+      "character": "LUCILLA",
+      "gender": "Female",
+      "line": "Our father lost his way. His mistake was believing the old songs of the \"Republic.\" We know better. So let the Senate talk. They have no real power.",
+      "wordCount": 28
+    },
+    {
+      "id": 348,
+      "index": 348,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "Yes... yes... you always know the way. You were always so wise in these matters... You know if I didn't have my duty to Rome I think I should be an artist. I should go away and paint pictures of the sea and leave all the politics to you...",
+      "wordCount": 49
+    },
+    {
+      "id": 349,
+      "index": 349,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "Will you stay with me?",
+      "wordCount": 5
+    },
+    {
+      "id": 350,
+      "index": 350,
+      "character": "LUCILLA",
+      "gender": "Female",
+      "line": "Still afraid of the dark, brother?",
+      "wordCount": 6
+    },
+    {
+      "id": 351,
+      "index": 351,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "Still. Always.",
+      "wordCount": 2
+    },
+    {
+      "id": 352,
+      "index": 352,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "My dreams would terrify the world.",
+      "wordCount": 6
+    },
+    {
+      "id": 353,
+      "index": 353,
+      "character": "LUCILLA",
+      "gender": "Female",
+      "line": "I'll stay with you until you are asleep.",
+      "wordCount": 8
+    },
+    {
+      "id": 354,
+      "index": 354,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "And after... just sit with me. Keep me safe...",
+      "wordCount": 9
+    },
+    {
+      "id": 355,
+      "index": 355,
+      "character": "LUCILLA",
+      "gender": "Female",
+      "line": "He's asleep. Be quick.",
+      "wordCount": 4
+    },
+    {
+      "id": 356,
+      "index": 356,
+      "character": "GRACCHUS",
+      "gender": "Male",
+      "line": "We've taking a sounding, the Senate is with us.",
+      "wordCount": 9
+    },
+    {
+      "id": 357,
+      "index": 357,
+      "character": "LUCILLA",
+      "gender": "Female",
+      "line": "Good.",
+      "wordCount": 1
+    },
+    {
+      "id": 358,
+      "index": 358,
+      "character": "GRACCHUS",
+      "gender": "Male",
+      "line": "But we are only words. We are air. We need steel.",
+      "wordCount": 11
+    },
+    {
+      "id": 359,
+      "index": 359,
+      "character": "MARCELLUS",
+      "gender": "NA",
+      "line": "The City Guard is faithful to the Republic. But we don't stand a chance against the Praetorians.",
+      "wordCount": 17
+    },
+    {
+      "id": 360,
+      "index": 360,
+      "character": "LUCILLA",
+      "gender": "Female",
+      "line": "Can they be bought?",
+      "wordCount": 4
+    },
+    {
+      "id": 361,
+      "index": 361,
+      "character": "MARCELLUS",
+      "gender": "NA",
+      "line": "They are zealots -- totally committed to your brother.",
+      "wordCount": 9
+    },
+    {
+      "id": 362,
+      "index": 362,
+      "character": "GRACCHUS",
+      "gender": "Male",
+      "line": "Well, can they at least be rented for a day?",
+      "wordCount": 10
+    },
+    {
+      "id": 363,
+      "index": 363,
+      "character": "MARCELLUS",
+      "gender": "NA",
+      "line": "I doubt it. He pays them exorbitant salaries and lets them loot and extort as they see fit. The city belongs to them.",
+      "wordCount": 23
+    },
+    {
+      "id": 364,
+      "index": 364,
+      "character": "LUCILLA",
+      "gender": "Female",
+      "line": "And they've started arresting scholars now. Anyone who dares speak out -- even satirists and chroniclers.",
+      "wordCount": 16
+    },
+    {
+      "id": 365,
+      "index": 365,
+      "character": "MARCELLUS",
+      "gender": "NA",
+      "line": "And mathematicians and Christians. All to fill the arena.",
+      "wordCount": 9
+    },
+    {
+      "id": 366,
+      "index": 366,
+      "character": "GAIUS",
+      "gender": "Male",
+      "line": "And what pays for it? These games are costing a fortune and yet we have no new taxes.",
+      "wordCount": 18
+    },
+    {
+      "id": 367,
+      "index": 367,
+      "character": "LUCILLA",
+      "gender": "Female",
+      "line": "The future. The future pays for it...",
+      "wordCount": 7
+    },
+    {
+      "id": 368,
+      "index": 368,
+      "character": "LUCILLA",
+      "gender": "Female",
+      "line": "He's started selling the grain reserves.",
+      "wordCount": 6
+    },
+    {
+      "id": 369,
+      "index": 369,
+      "character": "GAIUS",
+      "gender": "Male",
+      "line": "No.",
+      "wordCount": 1
+    },
+    {
+      "id": 370,
+      "index": 370,
+      "character": "MARCELLUS",
+      "gender": "NA",
+      "line": "That can't be true...",
+      "wordCount": 4
+    },
+    {
+      "id": 371,
+      "index": 371,
+      "character": "LUCILLA",
+      "gender": "Female",
+      "line": "He's selling Rome's reserves of grain. The people will be starving in two years. I hope they are enjoying the spectacles because soon enough they will be dead because of them.",
+      "wordCount": 31
+    },
+    {
+      "id": 372,
+      "index": 372,
+      "character": "MARCELLUS",
+      "gender": "NA",
+      "line": "Rome must know this.",
+      "wordCount": 4
+    },
+    {
+      "id": 373,
+      "index": 373,
+      "character": "LUCILLA",
+      "gender": "Female",
+      "line": "And who will tell them?! You, Marcellus? You, Senator Gaius? Will you make a speech on the Senate floor denouncing my brother? And then see your family in the Colosseum? What town-crier would dare?",
+      "wordCount": 34
+    },
+    {
+      "id": 374,
+      "index": 374,
+      "character": "LUCILLA",
+      "gender": "Female",
+      "line": "He must die.",
+      "wordCount": 3
+    },
+    {
+      "id": 375,
+      "index": 375,
+      "character": "GAIUS",
+      "gender": "Male",
+      "line": "The Praetorians would only seize control themselves.",
+      "wordCount": 7
+    },
+    {
+      "id": 376,
+      "index": 376,
+      "character": "LUCILLA",
+      "gender": "Female",
+      "line": "No -- cut off the head and the snake cannot strike.",
+      "wordCount": 11
+    },
+    {
+      "id": 377,
+      "index": 377,
+      "character": "GRACCHUS",
+      "gender": "Male",
+      "line": "Lucilla, Gaius is right. Until the City Guard can neutralize the Praetorians we can accomplish nothing.",
+      "wordCount": 16
+    },
+    {
+      "id": 378,
+      "index": 378,
+      "character": "MARCELLUS",
+      "gender": "NA",
+      "line": "And I haven't enough men.",
+      "wordCount": 5
+    },
+    {
+      "id": 379,
+      "index": 379,
+      "character": "LUCILLA",
+      "gender": "Female",
+      "line": "What about the army?",
+      "wordCount": 4
+    },
+    {
+      "id": 380,
+      "index": 380,
+      "character": "GAIUS",
+      "gender": "Male",
+      "line": "No Roman army has entered the capital in a hundred years.",
+      "wordCount": 11
+    },
+    {
+      "id": 381,
+      "index": 381,
+      "character": "LUCILLA",
+      "gender": "Female",
+      "line": "So we do nothing?!",
+      "wordCount": 4
+    },
+    {
+      "id": 382,
+      "index": 382,
+      "character": "LUCIUS' VOICE",
+      "gender": "NA",
+      "line": "Mother...",
+      "wordCount": 1
+    },
+    {
+      "id": 383,
+      "index": 383,
+      "character": "LUCIUS",
+      "gender": "Male",
+      "line": "I heard voices...",
+      "wordCount": 3
+    },
+    {
+      "id": 384,
+      "index": 384,
+      "character": "LUCILLA",
+      "gender": "Female",
+      "line": "It's all right, darling, you --",
+      "wordCount": 6
+    },
+    {
+      "id": 385,
+      "index": 385,
+      "character": "LUCIUS",
+      "gender": "Male",
+      "line": "Senator! What did you bring me?!",
+      "wordCount": 6
+    },
+    {
+      "id": 386,
+      "index": 386,
+      "character": "GRACCHUS",
+      "gender": "Male",
+      "line": "For you prince Lucius... a sea monster!",
+      "wordCount": 7
+    },
+    {
+      "id": 387,
+      "index": 387,
+      "character": "GRACCHUS",
+      "gender": "Male",
+      "line": "Off the coast of Achaea they grow twenty times this size, with snapping teeth to devour any nasty Praetorians they come across... now, where is Achaea?",
+      "wordCount": 26
+    },
+    {
+      "id": 388,
+      "index": 388,
+      "character": "LUCIUS",
+      "gender": "Male",
+      "line": "Below Macedonia!",
+      "wordCount": 2
+    },
+    {
+      "id": 389,
+      "index": 389,
+      "character": "GRACCHUS",
+      "gender": "Male",
+      "line": "Show me on the map.",
+      "wordCount": 5
+    },
+    {
+      "id": 390,
+      "index": 390,
+      "character": "LUCILLA",
+      "gender": "Female",
+      "line": "Lucius, you go in now, I'll be in shortly.",
+      "wordCount": 9
+    },
+    {
+      "id": 391,
+      "index": 391,
+      "character": "LUCIUS",
+      "gender": "Male",
+      "line": "Thank you, Senator Mountain!",
+      "wordCount": 4
+    },
+    {
+      "id": 392,
+      "index": 392,
+      "character": "GRACCHUS",
+      "gender": "Male",
+      "line": "You're welcome, Prince Anthill!",
+      "wordCount": 4
+    },
+    {
+      "id": 393,
+      "index": 393,
+      "character": "LUCILLA",
+      "gender": "Female",
+      "line": "What are you going to do?",
+      "wordCount": 6
+    },
+    {
+      "id": 394,
+      "index": 394,
+      "character": "GRACCHUS",
+      "gender": "Male",
+      "line": "Peace child... One dark night the Gods will light our path. They will give us the voice we need. Have faith in that. Have faith.",
+      "wordCount": 25
+    },
+    {
+      "id": 395,
+      "index": 395,
+      "character": "VIBIUS",
+      "gender": "NA",
+      "line": "Not what you expected?",
+      "wordCount": 4
+    },
+    {
+      "id": 396,
+      "index": 396,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "No.",
+      "wordCount": 1
+    },
+    {
+      "id": 397,
+      "index": 397,
+      "character": "VIBIUS",
+      "gender": "NA",
+      "line": "Rome is nothing but a slaughter house. And we are the meat.",
+      "wordCount": 12
+    },
+    {
+      "id": 398,
+      "index": 398,
+      "character": "VIBIUS",
+      "gender": "NA",
+      "line": "Tradition. He watches over us.",
+      "wordCount": 5
+    },
+    {
+      "id": 399,
+      "index": 399,
+      "character": "VIBIUS",
+      "gender": "NA",
+      "line": "Oh go on, it won't kill you.",
+      "wordCount": 7
+    },
+    {
+      "id": 400,
+      "index": 400,
+      "character": "PROXIMO",
+      "gender": "Male",
+      "line": "Stop that! You'll get some monstrous disease and then you'll be worth nothing to me!",
+      "wordCount": 15
+    },
+    {
+      "id": 401,
+      "index": 401,
+      "character": "JUBA",
+      "gender": "Male",
+      "line": "Do you think it will be much different? Here in Rome?",
+      "wordCount": 11
+    },
+    {
+      "id": 402,
+      "index": 402,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "Bigger arena. Same killing.",
+      "wordCount": 4
+    },
+    {
+      "id": 403,
+      "index": 403,
+      "character": "JUBA",
+      "gender": "Male",
+      "line": "Are you scared for tomorrow?",
+      "wordCount": 5
+    },
+    {
+      "id": 404,
+      "index": 404,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "No.",
+      "wordCount": 1
+    },
+    {
+      "id": 405,
+      "index": 405,
+      "character": "JUBA",
+      "gender": "Male",
+      "line": "Me too.",
+      "wordCount": 2
+    },
+    {
+      "id": 406,
+      "index": 406,
+      "character": "JUBA",
+      "gender": "Male",
+      "line": "I never though it would be so easy to kill.",
+      "wordCount": 10
+    },
+    {
+      "id": 407,
+      "index": 407,
+      "character": "JUBA",
+      "gender": "Male",
+      "line": "So you're finally home.",
+      "wordCount": 4
+    },
+    {
+      "id": 408,
+      "index": 408,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "This isn't my home.",
+      "wordCount": 4
+    },
+    {
+      "id": 409,
+      "index": 409,
+      "character": "JUBA",
+      "gender": "Male",
+      "line": "For all Romans... this is home.",
+      "wordCount": 6
+    },
+    {
+      "id": 410,
+      "index": 410,
+      "character": "JUBA",
+      "gender": "Male",
+      "line": "Among my people we honor the soil of our home. Our ancestors are in that soil. All their dreams live there. I will never see my home again. The soil is dead and no one honors them, so the dreams die.",
+      "wordCount": 41
+    },
+    {
+      "id": 411,
+      "index": 411,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "Perhaps one day you'll return.",
+      "wordCount": 5
+    },
+    {
+      "id": 412,
+      "index": 412,
+      "character": "JUBA",
+      "gender": "Male",
+      "line": "How can I go back? I am not what I was. When a man kills for no reason, he has lost himself.",
+      "wordCount": 22
+    },
+    {
+      "id": 413,
+      "index": 413,
+      "character": "CASSIUS",
+      "gender": "Male",
+      "line": "... and the Emperor will have no more animal battles today --",
+      "wordCount": 12
+    },
+    {
+      "id": 414,
+      "index": 414,
+      "character": "CASSIUS",
+      "gender": "Male",
+      "line": "Talk to the man in the imperial box. Who has the next slot...? -- Lentulus, Gideon, Trebonius and Proximo -- -- Nice to have you back, you piratical bastard -- now listen, the Emperor wants the Carthage spectacle.",
+      "wordCount": 38
+    },
+    {
+      "id": 415,
+      "index": 415,
+      "character": "PROXIMO",
+      "gender": "Male",
+      "line": "No -- have pity, Cassius -- !",
+      "wordCount": 7
+    },
+    {
+      "id": 416,
+      "index": 416,
+      "character": "CASSIUS",
+      "gender": "Male",
+      "line": "You give us the Carthage match or lose your spot on the rotation -- but don't worry -- gold is flowing from the Emperor's fingers.",
+      "wordCount": 25
+    },
+    {
+      "id": 417,
+      "index": 417,
+      "character": "PROXIMO",
+      "gender": "Male",
+      "line": "I won't do it for less than 100,000 sesterces -- !",
+      "wordCount": 11
+    },
+    {
+      "id": 418,
+      "index": 418,
+      "character": "CASSIUS",
+      "gender": "Male",
+      "line": "And I want to see this famous Spaniard of yours -- his reputation soars from the provinces. The people are eager for him --",
+      "wordCount": 24
+    },
+    {
+      "id": 419,
+      "index": 419,
+      "character": "PROXIMO",
+      "gender": "Male",
+      "line": "I won't throw my Spaniard into a spectacle! Damn you and damn the rotation!",
+      "wordCount": 14
+    },
+    {
+      "id": 420,
+      "index": 420,
+      "character": "CASSIUS",
+      "gender": "Male",
+      "line": "You will and the price will be 90,000 sesterces each -- -- which you all know is exorbitant -- AND IF YOU EXTORTING BLOOD-WHORES TRY TO PAWN OFF LESSER FIGHTERS ON ME I WILL SEE YOU DEAD IN THE ARENA TOMORROW!",
+      "wordCount": 41
+    },
+    {
+      "id": 421,
+      "index": 421,
+      "character": "CASSIUS",
+      "gender": "Male",
+      "line": "Give me your best, brothers. They die before Caesar.",
+      "wordCount": 9
+    },
+    {
+      "id": 422,
+      "index": 422,
+      "character": "PROXIMO",
+      "gender": "Male",
+      "line": "I give you 30,000 my Spaniard will kill at least one of your Thracians.",
+      "wordCount": 14
+    },
+    {
+      "id": 423,
+      "index": 423,
+      "character": "PROXIMO",
+      "gender": "Male",
+      "line": "Then make the wager, you smug bastard!",
+      "wordCount": 7
+    },
+    {
+      "id": 424,
+      "index": 424,
+      "character": "PROXIMO",
+      "gender": "Male",
+      "line": "All right -- there are three other teams, four men each -- You know what a Thracian looks like?",
+      "wordCount": 19
+    },
+    {
+      "id": 425,
+      "index": 425,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "Yes, but --",
+      "wordCount": 3
+    },
+    {
+      "id": 426,
+      "index": 426,
+      "character": "PROXIMO",
+      "gender": "Male",
+      "line": "Ignore the others -- go for the Thracians. The sun is to the east -- over the gate -- keep your back to the gate and you won't have the sun.",
+      "wordCount": 31
+    },
+    {
+      "id": 427,
+      "index": 427,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "What -- ?",
+      "wordCount": 3
+    },
+    {
+      "id": 428,
+      "index": 428,
+      "character": "PROXIMO",
+      "gender": "Male",
+      "line": "Hurry -- !",
+      "wordCount": 3
+    },
+    {
+      "id": 429,
+      "index": 429,
+      "character": "PROXIMO",
+      "gender": "Male",
+      "line": "Die well and we'll sing songs about you for a generation.",
+      "wordCount": 11
+    },
+    {
+      "id": 430,
+      "index": 430,
+      "character": "CASSIUS",
+      "gender": "Male",
+      "line": "This day we reach back to hallowed antiquity to bring you... THE FALL",
+      "wordCount": 13
+    },
+    {
+      "id": 431,
+      "index": 431,
+      "character": "OF MIGHTY CARTHAGE...!",
+      "gender": "NA",
+      "line": "... On the barren armies of the barbarian Hannibal! Ferocious mercenaries and warriors of all brute nations bent on merciless conquest! Your Emperor is pleased to give you... THE BARBARIAN HORDE!",
+      "wordCount": 31
+    },
+    {
+      "id": 432,
+      "index": 432,
+      "character": "CASSIUS",
+      "gender": "Male",
+      "line": "But on that illustrious day the Gods sent against them Rome's greatest warriors...! The very life-image of nobility and glorious valor... who would on this day, and on these same arid Numidian deserts, decide THE FATE OF THE EMPIRE... Your Emperor is pleased to give you... THE LEGIONNAIRES OF SCIPIO AFRICANUS!!",
+      "wordCount": 51
+    },
+    {
+      "id": 433,
+      "index": 433,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "Slave! Who are you?",
+      "wordCount": 4
+    },
+    {
+      "id": 434,
+      "index": 434,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "SLAVE! WHO ARE YOU?",
+      "wordCount": 4
+    },
+    {
+      "id": 435,
+      "index": 435,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "SLAVE! WHO ARE YOU?!",
+      "wordCount": 4
+    },
+    {
+      "id": 436,
+      "index": 436,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "I AM MAXIMUS MERIDAS, GENERAL OF THE FELIX REGIMENT OF THE ROMAN ARMY AND SERVANT TO THE EMPEROR MARCUS AURELIUS!",
+      "wordCount": 20
+    },
+    {
+      "id": 437,
+      "index": 437,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "I AM FATHER TO A MURDERED SON AND HUSBAND TO A MURDERED WIFE AND LANDLORD TO A MURDERED WORLD -- AND I WILL HAVE VENGEANCE!",
+      "wordCount": 25
+    },
+    {
+      "id": 438,
+      "index": 438,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "Why is he still alive?",
+      "wordCount": 5
+    },
+    {
+      "id": 439,
+      "index": 439,
+      "character": "LUCILLA",
+      "gender": "Female",
+      "line": "I don't know.",
+      "wordCount": 3
+    },
+    {
+      "id": 440,
+      "index": 440,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "He shouldn't be alive. That vexes me. I am terribly vexed...",
+      "wordCount": 11
+    },
+    {
+      "id": 441,
+      "index": 441,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "There, that's better. Do you like the platform here?",
+      "wordCount": 9
+    },
+    {
+      "id": 442,
+      "index": 442,
+      "character": "LUCILLA",
+      "gender": "Female",
+      "line": "Mmm.",
+      "wordCount": 1
+    },
+    {
+      "id": 443,
+      "index": 443,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "I do too. Simple, elegant...",
+      "wordCount": 5
+    },
+    {
+      "id": 444,
+      "index": 444,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "Father would have wanted something more ornate but he's dead now.",
+      "wordCount": 11
+    },
+    {
+      "id": 445,
+      "index": 445,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "Maximus Meridas haunts me. I see Father turning away from me and gazing at him. How many times did I suffer that indignity, I wonder?",
+      "wordCount": 25
+    },
+    {
+      "id": 446,
+      "index": 446,
+      "character": "LUCILLA",
+      "gender": "Female",
+      "line": "What are you going to do?",
+      "wordCount": 6
+    },
+    {
+      "id": 447,
+      "index": 447,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "I'm going to kill him.",
+      "wordCount": 5
+    },
+    {
+      "id": 448,
+      "index": 448,
+      "character": "LUCILLA",
+      "gender": "Female",
+      "line": "Good.",
+      "wordCount": 1
+    },
+    {
+      "id": 449,
+      "index": 449,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "Oh, you're too clever, Sister. Don't tell me part of you won't weep for him.",
+      "wordCount": 15
+    },
+    {
+      "id": 450,
+      "index": 450,
+      "character": "LUCILLA",
+      "gender": "Female",
+      "line": "When he defies my brother the Emperor, he defies me. But you shouldn't send assassins.",
+      "wordCount": 15
+    },
+    {
+      "id": 451,
+      "index": 451,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "No?",
+      "wordCount": 1
+    },
+    {
+      "id": 452,
+      "index": 452,
+      "character": "LUCILLA",
+      "gender": "Female",
+      "line": "The people embraced him today. They will be expecting his next match... ... let him die in the arena like the slave he is. Let the people see what comes of defying Caesar.",
+      "wordCount": 33
+    },
+    {
+      "id": 453,
+      "index": 453,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "He wounded you deeply, didn't he? Long ago.",
+      "wordCount": 8
+    },
+    {
+      "id": 454,
+      "index": 454,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "Nonetheless, your political acumen is, as always, unerring.",
+      "wordCount": 8
+    },
+    {
+      "id": 455,
+      "index": 455,
+      "character": "JUBA",
+      "gender": "Male",
+      "line": "I will fight with you.",
+      "wordCount": 5
+    },
+    {
+      "id": 456,
+      "index": 456,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "This isn't your battle.",
+      "wordCount": 4
+    },
+    {
+      "id": 457,
+      "index": 457,
+      "character": "JUBA",
+      "gender": "Male",
+      "line": "Better to die for a friend than to die for gold.",
+      "wordCount": 11
+    },
+    {
+      "id": 458,
+      "index": 458,
+      "character": "PROXIMO",
+      "gender": "Male",
+      "line": "Enjoy yourself, Madame... General, perform well and there will be riches for you.",
+      "wordCount": 13
+    },
+    {
+      "id": 459,
+      "index": 459,
+      "character": "LUCILLA",
+      "gender": "Female",
+      "line": "Rich matrons pay well to be pleasured by the bravest champions.",
+      "wordCount": 11
+    },
+    {
+      "id": 460,
+      "index": 460,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "I knew your brother would send assassins. I didn't think he would send his best.",
+      "wordCount": 15
+    },
+    {
+      "id": 461,
+      "index": 461,
+      "character": "LUCILLA",
+      "gender": "Female",
+      "line": "Maximus, listen to me --",
+      "wordCount": 5
+    },
+    {
+      "id": 462,
+      "index": 462,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "My family were crucified and burnt while they were still alive.",
+      "wordCount": 11
+    },
+    {
+      "id": 463,
+      "index": 463,
+      "character": "LUCILLA",
+      "gender": "Female",
+      "line": "I knew nothing of that.",
+      "wordCount": 5
+    },
+    {
+      "id": 464,
+      "index": 464,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "Don't lie to me.",
+      "wordCount": 4
+    },
+    {
+      "id": 465,
+      "index": 465,
+      "character": "LUCILLA",
+      "gender": "Female",
+      "line": "I wept for them.",
+      "wordCount": 4
+    },
+    {
+      "id": 466,
+      "index": 466,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "Don't.",
+      "wordCount": 1
+    },
+    {
+      "id": 467,
+      "index": 467,
+      "character": "LUCILLA",
+      "gender": "Female",
+      "line": "Do you know what it is to be the daughter of the Emperor? I learned on the night my father had my husband killed. I loved my husband very much. Very... simply. He was a man who believed in the Republic. He was a man who thought Marcus should be tending to Rome and not conquering the world. One night my father had him strangled for conspiring with the Senate. My father never spoke of it. I never spoke of it. That is what it is to be the daughter of Rome.",
+      "wordCount": 92
+    },
+    {
+      "id": 468,
+      "index": 468,
+      "character": "LUCILLA",
+      "gender": "Female",
+      "line": "My son will live. He will survive this cursed bloodline. Rome will die and the jackals will pick her clean -- but my son will survive. Empires come and go. Cities crumble to dust. Only family matters.",
+      "wordCount": 37
+    },
+    {
+      "id": 469,
+      "index": 469,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "My son was innocent.",
+      "wordCount": 4
+    },
+    {
+      "id": 470,
+      "index": 470,
+      "character": "LUCILLA",
+      "gender": "Female",
+      "line": "So is mine.",
+      "wordCount": 3
+    },
+    {
+      "id": 471,
+      "index": 471,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "I want your brother dead.",
+      "wordCount": 5
+    },
+    {
+      "id": 472,
+      "index": 472,
+      "character": "LUCILLA",
+      "gender": "Female",
+      "line": "So do I.",
+      "wordCount": 3
+    },
+    {
+      "id": 473,
+      "index": 473,
+      "character": "LUCILLA",
+      "gender": "Female",
+      "line": "My son will never be safe while he lives.",
+      "wordCount": 9
+    },
+    {
+      "id": 474,
+      "index": 474,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "How do you plan it?",
+      "wordCount": 5
+    },
+    {
+      "id": 475,
+      "index": 475,
+      "character": "LUCILLA",
+      "gender": "Female",
+      "line": "The Senate is with us, and the City Guard. We have growing power in the streets. But we need a leader. Someone the people can --",
+      "wordCount": 26
+    },
+    {
+      "id": 476,
+      "index": 476,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "So the crown passes to your son.",
+      "wordCount": 7
+    },
+    {
+      "id": 477,
+      "index": 477,
+      "character": "LUCILLA",
+      "gender": "Female",
+      "line": "No. So that my son will be safe. So that we may leave this charnel house forever and never look back. Look into my eyes, Maximus, and believe what I say to you...",
+      "wordCount": 33
+    },
+    {
+      "id": 478,
+      "index": 478,
+      "character": "LUCILLA",
+      "gender": "Female",
+      "line": "By all the Gods, and in the name of my father who loved you, and in the name of the husband I loved... I swear to stand by your side in this now and always.",
+      "wordCount": 35
+    },
+    {
+      "id": 479,
+      "index": 479,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "What is your son's name?",
+      "wordCount": 5
+    },
+    {
+      "id": 480,
+      "index": 480,
+      "character": "LUCILLA",
+      "gender": "Female",
+      "line": "Lucius Verus. Like his father.",
+      "wordCount": 5
+    },
+    {
+      "id": 481,
+      "index": 481,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "I weep for him.",
+      "wordCount": 4
+    },
+    {
+      "id": 482,
+      "index": 482,
+      "character": "LUCILLA",
+      "gender": "Female",
+      "line": "Commodus plans to kill you in your next match in the arena. He's planning something. I will pray for you. As I have always done.",
+      "wordCount": 25
+    },
+    {
+      "id": 483,
+      "index": 483,
+      "character": "CASSIUS",
+      "gender": "Male",
+      "line": "... in his majestic charity the Emperor has deigned to this day favor the people of Rome with an historical final match. Returning to the Colosseum today... after five years in retirement... Caesar is pleased to bring you... THE ONLY",
+      "wordCount": 40
+    },
+    {
+      "id": 484,
+      "index": 484,
+      "character": "UNDEFEATED CHAMPION IN ROMAN HISTORY...",
+      "gender": "NA",
+      "line": "... THE LEGENDARY... TIGER OF GAUL!!",
+      "wordCount": 6
+    },
+    {
+      "id": 485,
+      "index": 485,
+      "character": "PROXIMO",
+      "gender": "Male",
+      "line": "Gods! That old Homicide! The Emperor must truly hate you.",
+      "wordCount": 10
+    },
+    {
+      "id": 486,
+      "index": 486,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "What can you tell me?",
+      "wordCount": 5
+    },
+    {
+      "id": 487,
+      "index": 487,
+      "character": "PROXIMO",
+      "gender": "Male",
+      "line": "He cheats.",
+      "wordCount": 2
+    },
+    {
+      "id": 488,
+      "index": 488,
+      "character": "CASSIUS",
+      "gender": "Male",
+      "line": "And from the rocky promontories and martial bloodlines of Spain... representing the training lyceum of Proximo Antoninus... I give you... THE WARRIOR MAXIMUS!",
+      "wordCount": 23
+    },
+    {
+      "id": 489,
+      "index": 489,
+      "character": "MAXIMUS AND TIGER",
+      "gender": "NA",
+      "line": "We who are about to die salute you.",
+      "wordCount": 8
+    },
+    {
+      "id": 490,
+      "index": 490,
+      "character": "LUCIUS' VOICE",
+      "gender": "NA",
+      "line": "Is it true you're a General...?",
+      "wordCount": 6
+    },
+    {
+      "id": 491,
+      "index": 491,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "I was a General.",
+      "wordCount": 4
+    },
+    {
+      "id": 492,
+      "index": 492,
+      "character": "LUCIUS",
+      "gender": "Male",
+      "line": "I saw you fight. The Carthage battle too. I've never seen so much courage.",
+      "wordCount": 14
+    },
+    {
+      "id": 493,
+      "index": 493,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "It doesn't take courage to kill.",
+      "wordCount": 6
+    },
+    {
+      "id": 494,
+      "index": 494,
+      "character": "LUCIUS",
+      "gender": "Male",
+      "line": "My father was killed.",
+      "wordCount": 4
+    },
+    {
+      "id": 495,
+      "index": 495,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "I'm sorry.",
+      "wordCount": 2
+    },
+    {
+      "id": 496,
+      "index": 496,
+      "character": "LUCIUS",
+      "gender": "Male",
+      "line": "He still comes to me in my dreams. Do you have a father?",
+      "wordCount": 13
+    },
+    {
+      "id": 497,
+      "index": 497,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "I had a father. He wasn't really my father but I cared for him very much.",
+      "wordCount": 16
+    },
+    {
+      "id": 498,
+      "index": 498,
+      "character": "LUCIUS",
+      "gender": "Male",
+      "line": "I hope he comes to you in your dreams. My father and I ride horses in mine.",
+      "wordCount": 17
+    },
+    {
+      "id": 499,
+      "index": 499,
+      "character": "LUCILLA",
+      "gender": "Female",
+      "line": "Lucius, run along now. I need to talk to the General.",
+      "wordCount": 11
+    },
+    {
+      "id": 500,
+      "index": 500,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "Where is my army?",
+      "wordCount": 4
+    },
+    {
+      "id": 501,
+      "index": 501,
+      "character": "LUCILLA",
+      "gender": "Female",
+      "line": "... Maximus will summon his army from Ostia and he will strike from the inside as his army strikes from the outside. But he insists that the Senate be present.",
+      "wordCount": 30
+    },
+    {
+      "id": 502,
+      "index": 502,
+      "character": "GAIUS",
+      "gender": "Male",
+      "line": "We've been ordered to attend.",
+      "wordCount": 5
+    },
+    {
+      "id": 503,
+      "index": 503,
+      "character": "LUCILLA",
+      "gender": "Female",
+      "line": "How many are with us?",
+      "wordCount": 5
+    },
+    {
+      "id": 504,
+      "index": 504,
+      "character": "GRACCHUS",
+      "gender": "Male",
+      "line": "About half. But once the tyrant is dead. All.",
+      "wordCount": 9
+    },
+    {
+      "id": 505,
+      "index": 505,
+      "character": "GRACCHUS",
+      "gender": "Male",
+      "line": "I want to meet him.",
+      "wordCount": 5
+    },
+    {
+      "id": 506,
+      "index": 506,
+      "character": "LUCILLA",
+      "gender": "Female",
+      "line": "I'll arrange it.",
+      "wordCount": 3
+    },
+    {
+      "id": 507,
+      "index": 507,
+      "character": "GAIUS",
+      "gender": "Male",
+      "line": "And what of the Emperor?",
+      "wordCount": 5
+    },
+    {
+      "id": 508,
+      "index": 508,
+      "character": "LUCILLA",
+      "gender": "Female",
+      "line": "He has withdrawn. He's not eating. He doesn't go out. He won't even see me... I don't know what tempests rage within him but...",
+      "wordCount": 24
+    },
+    {
+      "id": 509,
+      "index": 509,
+      "character": "GRACCHUS",
+      "gender": "Male",
+      "line": "We should fear for the blackest storm.",
+      "wordCount": 7
+    },
+    {
+      "id": 510,
+      "index": 510,
+      "character": "LUCILLA",
+      "gender": "Female",
+      "line": "Yes.",
+      "wordCount": 1
+    },
+    {
+      "id": 511,
+      "index": 511,
+      "character": "GAIUS",
+      "gender": "Male",
+      "line": "One question... who is to be the actual Regicide?",
+      "wordCount": 9
+    },
+    {
+      "id": 512,
+      "index": 512,
+      "character": "VIBIUS",
+      "gender": "NA",
+      "line": "You didn't kill him.",
+      "wordCount": 4
+    },
+    {
+      "id": 513,
+      "index": 513,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "I will not kill another warrior. There is no honor to it.",
+      "wordCount": 12
+    },
+    {
+      "id": 514,
+      "index": 514,
+      "character": "KIDS",
+      "gender": "NA",
+      "line": "Maximus the Merciful! Maximus the Merciful!",
+      "wordCount": 6
+    },
+    {
+      "id": 515,
+      "index": 515,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "Tell him we will enter Rome on the first day of Commodus' festival.",
+      "wordCount": 13
+    },
+    {
+      "id": 516,
+      "index": 516,
+      "character": "LUCILLA",
+      "gender": "Female",
+      "line": "And they will march on Rome for you?",
+      "wordCount": 8
+    },
+    {
+      "id": 517,
+      "index": 517,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "Yes. But this letter must go to the lieutenant named Titus, no one else.",
+      "wordCount": 14
+    },
+    {
+      "id": 518,
+      "index": 518,
+      "character": "LUCILLA",
+      "gender": "Female",
+      "line": "Captain Marcellus will take it. And his City Guard will by with you when you get to Rome. Is that enough to face the Praetorian Guard?",
+      "wordCount": 26
+    },
+    {
+      "id": 519,
+      "index": 519,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "The Felix Regiment will never be defeated.",
+      "wordCount": 7
+    },
+    {
+      "id": 520,
+      "index": 520,
+      "character": "GRACCHUS",
+      "gender": "Male",
+      "line": "I only have one question for you, General... Why?",
+      "wordCount": 9
+    },
+    {
+      "id": 521,
+      "index": 521,
+      "character": "GRACCHUS",
+      "gender": "Male",
+      "line": "You will lead an army of your brothers on Rome. Many will die. Why?",
+      "wordCount": 14
+    },
+    {
+      "id": 522,
+      "index": 522,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "I want Commodus dead.",
+      "wordCount": 4
+    },
+    {
+      "id": 523,
+      "index": 523,
+      "character": "GRACCHUS",
+      "gender": "Male",
+      "line": "That's not the reason. Tell me the truth.",
+      "wordCount": 8
+    },
+    {
+      "id": 524,
+      "index": 524,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "Because one night an old man whispered to me about a dream. I will die for that dream.",
+      "wordCount": 18
+    },
+    {
+      "id": 525,
+      "index": 525,
+      "character": "GRACCHUS",
+      "gender": "Male",
+      "line": "I knew the old man well. And I loved him very much. In our youth we would spend hours building that dream together. After he went to the wars and lost his way... I was very cruel. I tormented him to remember that dream we spoke of.",
+      "wordCount": 47
+    },
+    {
+      "id": 526,
+      "index": 526,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "He did.",
+      "wordCount": 2
+    },
+    {
+      "id": 527,
+      "index": 527,
+      "character": "GRACCHUS",
+      "gender": "Male",
+      "line": "You can have no idea how much that means to me.",
+      "wordCount": 11
+    },
+    {
+      "id": 528,
+      "index": 528,
+      "character": "GRACCHUS",
+      "gender": "Male",
+      "line": "Any man who will die for a whispered dream deserves my respect. I honor you, General.",
+      "wordCount": 16
+    },
+    {
+      "id": 529,
+      "index": 529,
+      "character": "CENTURION",
+      "gender": "NA",
+      "line": "Madame, the Emperor would like to see you.",
+      "wordCount": 8
+    },
+    {
+      "id": 530,
+      "index": 530,
+      "character": "LUCILLA",
+      "gender": "Female",
+      "line": "Caesar...",
+      "wordCount": 1
+    },
+    {
+      "id": 531,
+      "index": 531,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "I am sorry to have kept you away... I needed this time to think...",
+      "wordCount": 14
+    },
+    {
+      "id": 532,
+      "index": 532,
+      "character": "LUCILLA",
+      "gender": "Female",
+      "line": "Of course...",
+      "wordCount": 2
+    },
+    {
+      "id": 533,
+      "index": 533,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "I limited my world to these four walls so as to let my mind free... again and again my mind settles on but one question... What kind of world are we making when the people of Rome prefer a slave in the arena to their father?",
+      "wordCount": 46
+    },
+    {
+      "id": 534,
+      "index": 534,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "It is my responsibility to make the world as it should be. How is it I have made this world?",
+      "wordCount": 20
+    },
+    {
+      "id": 535,
+      "index": 535,
+      "character": "LUCILLA",
+      "gender": "Female",
+      "line": "Brother, do not be influenced by the mob. They are a great, faceless beast --",
+      "wordCount": 15
+    },
+    {
+      "id": 536,
+      "index": 536,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "They are not \"the mob,\" Lucilla, they are the people. They are my children and all I want to do is love them.",
+      "wordCount": 23
+    },
+    {
+      "id": 537,
+      "index": 537,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "Our father loved Maximus... and I love him still... yet he defies me, he tasks me in front of my children. And they love him for it. Just as Marcus loved him for it. Tell me why, Lucilla.",
+      "wordCount": 38
+    },
+    {
+      "id": 538,
+      "index": 538,
+      "character": "LUCILLA",
+      "gender": "Female",
+      "line": "They see themselves in him. They throw in their own sad dreams alongside his. They think he fights for them.",
+      "wordCount": 20
+    },
+    {
+      "id": 539,
+      "index": 539,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "And what do I do but fight for them?! I give them games to please them. I strangle dissent to give them peace. I empower the Praetorians to give them order. What more can I do?!",
+      "wordCount": 36
+    },
+    {
+      "id": 540,
+      "index": 540,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "Say I should fight him, in the arena. Let my children see who the Gods truly favor.",
+      "wordCount": 17
+    },
+    {
+      "id": 541,
+      "index": 541,
+      "character": "LUCILLA",
+      "gender": "Female",
+      "line": "And what if he should win?",
+      "wordCount": 6
+    },
+    {
+      "id": 542,
+      "index": 542,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "A God is more powerful than a man...",
+      "wordCount": 8
+    },
+    {
+      "id": 543,
+      "index": 543,
+      "character": "LUCILLA",
+      "gender": "Female",
+      "line": "Caesar, you let this unduly worry you. At best he is a passing fancy -- he is a name, an image on a banner, ephemeral -- he will be forgotten as the next fancy appears --",
+      "wordCount": 36
+    },
+    {
+      "id": 544,
+      "index": 544,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "But I need to know -- why do they love him?",
+      "wordCount": 11
+    },
+    {
+      "id": 545,
+      "index": 545,
+      "character": "LUCILLA",
+      "gender": "Female",
+      "line": "Mercy.",
+      "wordCount": 1
+    },
+    {
+      "id": 546,
+      "index": 546,
+      "character": "LUCILLA",
+      "gender": "Female",
+      "line": "He will not kill in the arena. He is merciful. As they all wish they were in their own hearts.",
+      "wordCount": 20
+    },
+    {
+      "id": 547,
+      "index": 547,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "And for that moment in the arena they are merciful too. For a moment... they are Gods. Offering life.",
+      "wordCount": 19
+    },
+    {
+      "id": 548,
+      "index": 548,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "But who can be more merciful than the Emperor of Rome?",
+      "wordCount": 11
+    },
+    {
+      "id": 549,
+      "index": 549,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "Brother... we've taken a sad path since we were children at Capri, have we not?",
+      "wordCount": 15
+    },
+    {
+      "id": 550,
+      "index": 550,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "For my own part... I am sorry it came to this. And to you alone of all men, I acknowledge my errors. And my regret. I shall live with my sin for all my days.",
+      "wordCount": 35
+    },
+    {
+      "id": 551,
+      "index": 551,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "As will I, Commodus. As will I.",
+      "wordCount": 7
+    },
+    {
+      "id": 552,
+      "index": 552,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "As the first act of my contrition I offer you the wooden sword of freedom.",
+      "wordCount": 15
+    },
+    {
+      "id": 553,
+      "index": 553,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "Take it, brother. Stand at my side as a free man worthy of your ancestors.",
+      "wordCount": 15
+    },
+    {
+      "id": 554,
+      "index": 554,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "I only have ancestors because of you, brother. You killed everything that ever lived alongside me.",
+      "wordCount": 16
+    },
+    {
+      "id": 555,
+      "index": 555,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "Take it, Maximus. Let us heal that fatal wound together.",
+      "wordCount": 10
+    },
+    {
+      "id": 556,
+      "index": 556,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "This is the new home you cursed me to. And I am safer here from your treachery than I could ever be outside.",
+      "wordCount": 23
+    },
+    {
+      "id": 557,
+      "index": 557,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "Will you always mistrust me?",
+      "wordCount": 5
+    },
+    {
+      "id": 558,
+      "index": 558,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "Why don't you ask your father that?",
+      "wordCount": 7
+    },
+    {
+      "id": 559,
+      "index": 559,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "I have more power as a slave in the arena than I could ever have as a free man. As the Colosseum goes, the people go. As the people go, the Empire goes.",
+      "wordCount": 33
+    },
+    {
+      "id": 560,
+      "index": 560,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "You think this is power? I could show you power, slave --",
+      "wordCount": 12
+    },
+    {
+      "id": 561,
+      "index": 561,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "No, Caesar... I will show you.",
+      "wordCount": 6
+    },
+    {
+      "id": 562,
+      "index": 562,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "The Felix Regiment will come from here. We'll face the body of the Praetorians outside -- here. Once inside, my archers will take up position to counter opposition inside the Colosseum. I'll enter and join you -- we'll attack here --",
+      "wordCount": 41
+    },
+    {
+      "id": 563,
+      "index": 563,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "-- a covert assault from within.",
+      "wordCount": 6
+    },
+    {
+      "id": 564,
+      "index": 564,
+      "character": "VIBIUS",
+      "gender": "NA",
+      "line": "We'll be killed.",
+      "wordCount": 3
+    },
+    {
+      "id": 565,
+      "index": 565,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "Probably.",
+      "wordCount": 1
+    },
+    {
+      "id": 566,
+      "index": 566,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "But if we aren't... think of the glory. Do you remember glory, Gladiator?",
+      "wordCount": 13
+    },
+    {
+      "id": 567,
+      "index": 567,
+      "character": "JUBA",
+      "gender": "Male",
+      "line": "And if we die that day -- we die free men worthy of our ancestors.",
+      "wordCount": 15
+    },
+    {
+      "id": 568,
+      "index": 568,
+      "character": "VIBIUS",
+      "gender": "NA",
+      "line": "You didn't know my ancestors. A rotten bunch.",
+      "wordCount": 8
+    },
+    {
+      "id": 569,
+      "index": 569,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "Then be worthy of him. The old Titan who would rather die bravely in a just battle than slink off to grow old and fat.",
+      "wordCount": 25
+    },
+    {
+      "id": 570,
+      "index": 570,
+      "character": "JUBA",
+      "gender": "Male",
+      "line": "And impotent.",
+      "wordCount": 2
+    },
+    {
+      "id": 571,
+      "index": 571,
+      "character": "VIBIUS",
+      "gender": "NA",
+      "line": "If I die, I want a hundred whores at my funeral.",
+      "wordCount": 11
+    },
+    {
+      "id": 572,
+      "index": 572,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "Where is my sister?",
+      "wordCount": 4
+    },
+    {
+      "id": 573,
+      "index": 573,
+      "character": "HANDMAIDEN",
+      "gender": "NA",
+      "line": "She's out, sir...",
+      "wordCount": 3
+    },
+    {
+      "id": 574,
+      "index": 574,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "Where?",
+      "wordCount": 1
+    },
+    {
+      "id": 575,
+      "index": 575,
+      "character": "HANDMAIDEN",
+      "gender": "NA",
+      "line": "I... don't know, Caesar.",
+      "wordCount": 4
+    },
+    {
+      "id": 576,
+      "index": 576,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "Where is my sister?",
+      "wordCount": 4
+    },
+    {
+      "id": 577,
+      "index": 577,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "Was it Centurion...? General...?",
+      "wordCount": 4
+    },
+    {
+      "id": 578,
+      "index": 578,
+      "character": "PROXIMO",
+      "gender": "Male",
+      "line": "Captain.",
+      "wordCount": 1
+    },
+    {
+      "id": 579,
+      "index": 579,
+      "character": "PROXIMO",
+      "gender": "Male",
+      "line": "How did you know?",
+      "wordCount": 4
+    },
+    {
+      "id": 580,
+      "index": 580,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "A soldier knows a soldier.",
+      "wordCount": 5
+    },
+    {
+      "id": 581,
+      "index": 581,
+      "character": "PROXIMO",
+      "gender": "Male",
+      "line": "All that was a long time ago. Too much wine and too many women. And too much money.",
+      "wordCount": 18
+    },
+    {
+      "id": 582,
+      "index": 582,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "No --",
+      "wordCount": 2
+    },
+    {
+      "id": 583,
+      "index": 583,
+      "character": "PROXIMO",
+      "gender": "Male",
+      "line": "This is who I am... You see? There was a time I would stand against ten men and never give an inch, spitting into the jaws of Hades all the while. There was a time my heart swelled to strap on the armor of Rome. But now...",
+      "wordCount": 47
+    },
+    {
+      "id": 584,
+      "index": 584,
+      "character": "PROXIMO",
+      "gender": "Male",
+      "line": "Now I am just an entertainer.",
+      "wordCount": 6
+    },
+    {
+      "id": 585,
+      "index": 585,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "You said something to me once. You said in this life, we all die. All we can choose is how we die. And how we are remembered. Do you recall those words?",
+      "wordCount": 32
+    },
+    {
+      "id": 586,
+      "index": 586,
+      "character": "PROXIMO",
+      "gender": "Male",
+      "line": "Yes.",
+      "wordCount": 1
+    },
+    {
+      "id": 587,
+      "index": 587,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "Then be remembered proudly. This is your time, Proximo. Stand at my side and be what you were. What you truly are. One last time.",
+      "wordCount": 25
+    },
+    {
+      "id": 588,
+      "index": 588,
+      "character": "PROXIMO",
+      "gender": "Male",
+      "line": "You might have spared yourself the speech, General. The lady Lucilla bought all my gladiators two hours ago!",
+      "wordCount": 18
+    },
+    {
+      "id": 589,
+      "index": 589,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "You pox-ridden bastard -- !",
+      "wordCount": 5
+    },
+    {
+      "id": 590,
+      "index": 590,
+      "character": "PROXIMO",
+      "gender": "Male",
+      "line": "I am the richest trainer in the Empire! And I will let my gladiators do anything you like! Conspire away, General!",
+      "wordCount": 21
+    },
+    {
+      "id": 591,
+      "index": 591,
+      "character": "PROXIMO",
+      "gender": "Male",
+      "line": "But I tell you -- if you survive this madness I want you to go into business with me. I'll give you a quarter of my holdings.",
+      "wordCount": 27
+    },
+    {
+      "id": 592,
+      "index": 592,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "A quarter?!",
+      "wordCount": 2
+    },
+    {
+      "id": 593,
+      "index": 593,
+      "character": "PROXIMO",
+      "gender": "Male",
+      "line": "A third. And not a hair more. And you'll have to start in the provinces! Cleaning up the lion shit!",
+      "wordCount": 20
+    },
+    {
+      "id": 594,
+      "index": 594,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "You know, if you were half so awful as you pretend, you'd be a terrifying man.",
+      "wordCount": 16
+    },
+    {
+      "id": 595,
+      "index": 595,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "Lucilla --",
+      "wordCount": 2
+    },
+    {
+      "id": 596,
+      "index": 596,
+      "character": "LUCILLA",
+      "gender": "Female",
+      "line": "Don't even say it. I know it's dangerous -- but I had to see you. Captain Marcellus has gone to the army with your message as you instructed.",
+      "wordCount": 28
+    },
+    {
+      "id": 597,
+      "index": 597,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "Good.",
+      "wordCount": 1
+    },
+    {
+      "id": 598,
+      "index": 598,
+      "character": "LUCILLA",
+      "gender": "Female",
+      "line": "He says the City Guard will be ready at the south road at noon. They can only wait for an hour so --",
+      "wordCount": 23
+    },
+    {
+      "id": 599,
+      "index": 599,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "You've told me this already.",
+      "wordCount": 5
+    },
+    {
+      "id": 600,
+      "index": 600,
+      "character": "LUCILLA",
+      "gender": "Female",
+      "line": "Did I? All right then. So everything is prepared. The Senate will be in attendance and you have your gladiators -- the usual cohort of Praetorians will be inside the arena --",
+      "wordCount": 32
+    },
+    {
+      "id": 601,
+      "index": 601,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "Lucilla... why are you here?",
+      "wordCount": 5
+    },
+    {
+      "id": 602,
+      "index": 602,
+      "character": "LUCILLA",
+      "gender": "Female",
+      "line": "Tell me honestly... please... do you think it will work?",
+      "wordCount": 10
+    },
+    {
+      "id": 603,
+      "index": 603,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "No.",
+      "wordCount": 1
+    },
+    {
+      "id": 604,
+      "index": 604,
+      "character": "LUCILLA",
+      "gender": "Female",
+      "line": "Do you think we'll all die?",
+      "wordCount": 6
+    },
+    {
+      "id": 605,
+      "index": 605,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "Yes.",
+      "wordCount": 1
+    },
+    {
+      "id": 606,
+      "index": 606,
+      "character": "LUCILLA",
+      "gender": "Female",
+      "line": "Will you swear something to me?",
+      "wordCount": 6
+    },
+    {
+      "id": 607,
+      "index": 607,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "Yes.",
+      "wordCount": 1
+    },
+    {
+      "id": 608,
+      "index": 608,
+      "character": "LUCILLA",
+      "gender": "Female",
+      "line": "Will you swear it on the memory of your son?",
+      "wordCount": 10
+    },
+    {
+      "id": 609,
+      "index": 609,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "Yes.",
+      "wordCount": 1
+    },
+    {
+      "id": 610,
+      "index": 610,
+      "character": "LUCILLA",
+      "gender": "Female",
+      "line": "By all that you have ever loved... swear that if you survive you will take my son out of Rome. Swear that you will go far away and never return.",
+      "wordCount": 30
+    },
+    {
+      "id": 611,
+      "index": 611,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "I will.",
+      "wordCount": 2
+    },
+    {
+      "id": 612,
+      "index": 612,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "And if I should not survive... swear to me that you will honor my family in your prayers always.",
+      "wordCount": 19
+    },
+    {
+      "id": 613,
+      "index": 613,
+      "character": "LUCILLA",
+      "gender": "Female",
+      "line": "I will.",
+      "wordCount": 2
+    },
+    {
+      "id": 614,
+      "index": 614,
+      "character": "LUCILLA",
+      "gender": "Female",
+      "line": "Had I not been the daughter of Rome...",
+      "wordCount": 8
+    },
+    {
+      "id": 615,
+      "index": 615,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "Shhh... my heart breaks enough.",
+      "wordCount": 5
+    },
+    {
+      "id": 616,
+      "index": 616,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "Sister... join us. I've been reading to dear Lucius.",
+      "wordCount": 9
+    },
+    {
+      "id": 617,
+      "index": 617,
+      "character": "LUCIUS",
+      "gender": "Male",
+      "line": "I've been reading too.",
+      "wordCount": 4
+    },
+    {
+      "id": 618,
+      "index": 618,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "Yes, he's a very smart little boy. He'll make a grand Emperor one day.",
+      "wordCount": 14
+    },
+    {
+      "id": 619,
+      "index": 619,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "Join us, sister.",
+      "wordCount": 3
+    },
+    {
+      "id": 620,
+      "index": 620,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "We've been reading about the great Julius and his adventures in Egypt.",
+      "wordCount": 12
+    },
+    {
+      "id": 621,
+      "index": 621,
+      "character": "LUCIUS",
+      "gender": "Male",
+      "line": "She killed herself with a snake!",
+      "wordCount": 6
+    },
+    {
+      "id": 622,
+      "index": 622,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "And just wait until you hear what happened to some of our other ancestors! If you're very good, tomorrow night I'll tell you the story of Emperor Claudius. He was betrayed! By those closest to him... ... by his own blood... they whispered in dark corners and went out late at night and conspired and conspired...",
+      "wordCount": 56
+    },
+    {
+      "id": 623,
+      "index": 623,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "But the Emperor Claudius knew that they were up to something dire. He knew they were busy little bees. And one night he sat down with one of them and he looked at her and he said: \"Tell me what you have been doing, busy little bee, or I shall strike down those dearest to you. You shall watch as I bathe in their blood.\" And the bee knew he spoke the truth, for the Emperor always speaks the truth. And what do you think happened then, Lucius?",
+      "wordCount": 88
+    },
+    {
+      "id": 624,
+      "index": 624,
+      "character": "LUCIUS",
+      "gender": "Male",
+      "line": "I don't know, Uncle.",
+      "wordCount": 4
+    },
+    {
+      "id": 625,
+      "index": 625,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "The bee told him everything.",
+      "wordCount": 5
+    },
+    {
+      "id": 626,
+      "index": 626,
+      "character": "PROXIMO",
+      "gender": "Male",
+      "line": "Release them! Release them all! ARM THEM!",
+      "wordCount": 7
+    },
+    {
+      "id": 627,
+      "index": 627,
+      "character": "PROXIMO",
+      "gender": "Male",
+      "line": "Come --",
+      "wordCount": 2
+    },
+    {
+      "id": 628,
+      "index": 628,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "But --",
+      "wordCount": 2
+    },
+    {
+      "id": 629,
+      "index": 629,
+      "character": "PROXIMO",
+      "gender": "Male",
+      "line": "If you want to live -- follow me --",
+      "wordCount": 9
+    },
+    {
+      "id": 630,
+      "index": 630,
+      "character": "VIBIUS",
+      "gender": "NA",
+      "line": "Go, Spaniard! We'll show these Roman dogs how gladiators fight!",
+      "wordCount": 10
+    },
+    {
+      "id": 631,
+      "index": 631,
+      "character": "PROXIMO",
+      "gender": "Male",
+      "line": "All the old gladiator schools have tunnels to the Colosseum -- most have long since collapsed --",
+      "wordCount": 17
+    },
+    {
+      "id": 632,
+      "index": 632,
+      "character": "JUBA",
+      "gender": "Male",
+      "line": "How did they know?",
+      "wordCount": 4
+    },
+    {
+      "id": 633,
+      "index": 633,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "We were betrayed.",
+      "wordCount": 3
+    },
+    {
+      "id": 634,
+      "index": 634,
+      "character": "JUBA",
+      "gender": "Male",
+      "line": "I'll stay here. In case they follow.",
+      "wordCount": 7
+    },
+    {
+      "id": 635,
+      "index": 635,
+      "character": "JUBA",
+      "gender": "Male",
+      "line": "Go! Bring us the army!",
+      "wordCount": 5
+    },
+    {
+      "id": 636,
+      "index": 636,
+      "character": "PROXIMO",
+      "gender": "Male",
+      "line": "Quickly --",
+      "wordCount": 2
+    },
+    {
+      "id": 637,
+      "index": 637,
+      "character": "PROXIMO",
+      "gender": "Male",
+      "line": "Down that corridor is the butchery -- the blood sloughs lead to the Tiber. Gods watch over you.",
+      "wordCount": 18
+    },
+    {
+      "id": 638,
+      "index": 638,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "You're not coming?",
+      "wordCount": 3
+    },
+    {
+      "id": 639,
+      "index": 639,
+      "character": "PROXIMO",
+      "gender": "Male",
+      "line": "They are killing my men!",
+      "wordCount": 5
+    },
+    {
+      "id": 640,
+      "index": 640,
+      "character": "PROXIMO",
+      "gender": "Male",
+      "line": "Gods... they're killing them all.",
+      "wordCount": 5
+    },
+    {
+      "id": 641,
+      "index": 641,
+      "character": "LUCIUS",
+      "gender": "Male",
+      "line": "What is that fire?",
+      "wordCount": 4
+    },
+    {
+      "id": 642,
+      "index": 642,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "Why that's a bonfire, Lucius. I arranged it just for you.",
+      "wordCount": 11
+    },
+    {
+      "id": 643,
+      "index": 643,
+      "character": "PRAETORIAN",
+      "gender": "Male",
+      "line": "Caesar...",
+      "wordCount": 1
+    },
+    {
+      "id": 644,
+      "index": 644,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "Oh... that's for my sister.",
+      "wordCount": 5
+    },
+    {
+      "id": 645,
+      "index": 645,
+      "character": "TITUS",
+      "gender": "NA",
+      "line": "By all the Gods...",
+      "wordCount": 4
+    },
+    {
+      "id": 646,
+      "index": 646,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "Old friend...",
+      "wordCount": 2
+    },
+    {
+      "id": 647,
+      "index": 647,
+      "character": "TITUS",
+      "gender": "NA",
+      "line": "You're returned from Hades! By all the Gods!",
+      "wordCount": 8
+    },
+    {
+      "id": 648,
+      "index": 648,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "Where is he?",
+      "wordCount": 3
+    },
+    {
+      "id": 649,
+      "index": 649,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "I forgive you.",
+      "wordCount": 3
+    },
+    {
+      "id": 650,
+      "index": 650,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "Rome... This is the day that was foretold. This is the day when your father takes away all fear... With these hands I shall destroy your enemies so that you may sleep always and forever in peace. From this day forth let it be known that I, Lucius Aelius Aurelius Commodus, have surmounted mortality. That I, Lucius Aelius Aurelius Commodus, assume my destined place... at the side of the Gods.",
+      "wordCount": 70
+    },
+    {
+      "id": 651,
+      "index": 651,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "And as a righteous God, I shall ever protect you. I shall cradle the world on my benevolent hands and clasp it to my heart. So I have spoken! And let the heavens tremble at my might!",
+      "wordCount": 37
+    },
+    {
+      "id": 652,
+      "index": 652,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "This day I reclaim Rome for her people. I shall give you the rebirth of your Empire! Reborn and cleansed of her enemies!",
+      "wordCount": 23
+    },
+    {
+      "id": 653,
+      "index": 653,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "I will make a new Rome! Founded as it was at the beginning! Archers -- GIVE US BLOOD!",
+      "wordCount": 18
+    },
+    {
+      "id": 654,
+      "index": 654,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "Throw down your weapons or we will kill you.",
+      "wordCount": 9
+    },
+    {
+      "id": 655,
+      "index": 655,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "FELIX REGIMENT! DO HONOR TO YOUR ANCESTORS! I SALUTE YOU!",
+      "wordCount": 10
+    },
+    {
+      "id": 656,
+      "index": 656,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "As it was at the beginning so is it now. The great She-Wolf of Rome will again suckle us, again ravage our enemies -- AND BRING US A WORLD REBORN!",
+      "wordCount": 30
+    },
+    {
+      "id": 657,
+      "index": 657,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "So it was for Romulus and Remus, sons of Mars, so shall it be for us! The great She-Wolf will --",
+      "wordCount": 21
+    },
+    {
+      "id": 658,
+      "index": 658,
+      "character": "LUCILLA",
+      "gender": "Female",
+      "line": "Remember your mother.",
+      "wordCount": 3
+    },
+    {
+      "id": 659,
+      "index": 659,
+      "character": "CENTURION BODY GUARD",
+      "gender": "NA",
+      "line": "Caesar -- we must go -- !",
+      "wordCount": 7
+    },
+    {
+      "id": 660,
+      "index": 660,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "GET THE BOY!",
+      "wordCount": 3
+    },
+    {
+      "id": 661,
+      "index": 661,
+      "character": "CENTURION BODY GUARD",
+      "gender": "NA",
+      "line": "THIS WAY, CAESAR!",
+      "wordCount": 3
+    },
+    {
+      "id": 662,
+      "index": 662,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "Captain?",
+      "wordCount": 1
+    },
+    {
+      "id": 663,
+      "index": 663,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "Where are they going?!",
+      "wordCount": 4
+    },
+    {
+      "id": 664,
+      "index": 664,
+      "character": "PROXIMO",
+      "gender": "Male",
+      "line": "This way!",
+      "wordCount": 2
+    },
+    {
+      "id": 665,
+      "index": 665,
+      "character": "COMMODUS",
+      "gender": "Male",
+      "line": "KILL THE BOY!",
+      "wordCount": 3
+    },
+    {
+      "id": 666,
+      "index": 666,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "For my wife!",
+      "wordCount": 3
+    },
+    {
+      "id": 667,
+      "index": 667,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "For my son!",
+      "wordCount": 3
+    },
+    {
+      "id": 668,
+      "index": 668,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "For my father!",
+      "wordCount": 3
+    },
+    {
+      "id": 669,
+      "index": 669,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "We who are about to die salute you.",
+      "wordCount": 8
+    },
+    {
+      "id": 670,
+      "index": 670,
+      "character": "GRACCHUS",
+      "gender": "Male",
+      "line": "General, the purple is yours if you so desire. The Senate will support you.",
+      "wordCount": 14
+    },
+    {
+      "id": 671,
+      "index": 671,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "Rome... you are better than this. Look inside yourselves. I challenge you to find your true voice. Help the Senate speak for you. Make them your champion... And dare to think what could be.",
+      "wordCount": 34
+    },
+    {
+      "id": 672,
+      "index": 672,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "I give you back the dream.",
+      "wordCount": 6
+    },
+    {
+      "id": 673,
+      "index": 673,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "When everything has calmed down, lead an orderly withdrawal. Take them home.",
+      "wordCount": 12
+    },
+    {
+      "id": 674,
+      "index": 674,
+      "character": "MAXIMUS",
+      "gender": "Male",
+      "line": "It doesn't look it now... but soon we'll have it growing again... Next year there will be vines, and then there will be grapes... It will be alive.",
+      "wordCount": 28
+    },
+    {
+      "id": 675,
+      "index": 675,
+      "character": "",
+      "gender": "Male"
+    }
+  ]
+}

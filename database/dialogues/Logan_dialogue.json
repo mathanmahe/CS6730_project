@@ -1,0 +1,6300 @@
+{
+  "fileName": "Logan_dialogue.txt",
+  "title": "Logan",
+  "data": [
+    {
+      "id": 0,
+      "index": 0,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "...Uh. Please stop, guys. Those,.. those are chrome plated lugs.",
+      "wordCount": 10
+    },
+    {
+      "id": 1,
+      "index": 1,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "you're gonna strip `em. Plating flakes off, you know...",
+      "wordCount": 9
+    },
+    {
+      "id": 2,
+      "index": 2,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "It's a lease, you know, and no one wants to pay to ride in a--",
+      "wordCount": 15
+    },
+    {
+      "id": 3,
+      "index": 3,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Fuck.",
+      "wordCount": 1
+    },
+    {
+      "id": 4,
+      "index": 4,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Guys... seriously... You don't wanna do this.",
+      "wordCount": 7
+    },
+    {
+      "id": 5,
+      "index": 5,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "MOTHERF--",
+      "wordCount": 1
+    },
+    {
+      "id": 6,
+      "index": 6,
+      "character": "CALL-IN GUEST",
+      "gender": "NA",
+      "line": "Everyone's asleep, Burt. Sleep- walking! Hostages! No one cares! Final Shooting - 8/23/2016 4.",
+      "wordCount": 14
+    },
+    {
+      "id": 7,
+      "index": 7,
+      "character": "CALL IN GUEST",
+      "gender": "NA",
+      "line": "You can't see the connection? Tween the ice caps, pornographers, debt, mutants, poisoned water, it's all-­",
+      "wordCount": 16
+    },
+    {
+      "id": 8,
+      "index": 8,
+      "character": "CALL IN HOST",
+      "gender": "NA",
+      "line": "Clyde, its 2026! We're talkin `bout a hostage crisis and you're talkin' mutants? That's history, pal. Trey in Galveston, you're on!",
+      "wordCount": 21
+    },
+    {
+      "id": 9,
+      "index": 9,
+      "character": "TEEN",
+      "gender": "NA",
+      "line": "Yo, Driver, you got any Bang in this whip?!",
+      "wordCount": 9
+    },
+    {
+      "id": 10,
+      "index": 10,
+      "character": "TEEN",
+      "gender": "NA",
+      "line": "Yo - Driver!",
+      "wordCount": 3
+    },
+    {
+      "id": 11,
+      "index": 11,
+      "character": "OTHER TEEN",
+      "gender": "NA",
+      "line": "`Bitch is deaf.",
+      "wordCount": 3
+    },
+    {
+      "id": 12,
+      "index": 12,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Back to work, old man.",
+      "wordCount": 5
+    },
+    {
+      "id": 13,
+      "index": 13,
+      "character": "OLD LADY",
+      "gender": "NA",
+      "line": "Shouldn't we lock the doors?",
+      "wordCount": 5
+    },
+    {
+      "id": 14,
+      "index": 14,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "They're locked, ma'am.",
+      "wordCount": 3
+    },
+    {
+      "id": 15,
+      "index": 15,
+      "character": "VOICE",
+      "gender": "NA",
+      "line": "Logan.",
+      "wordCount": 1
+    },
+    {
+      "id": 16,
+      "index": 16,
+      "character": "HISPANIC WOMAN",
+      "gender": "NA",
+      "line": "...I knew it was you.",
+      "wordCount": 5
+    },
+    {
+      "id": 17,
+      "index": 17,
+      "character": "HISPANIC WOMAN",
+      "gender": "NA",
+      "line": "Please. I'm in trouble. You're the only one who can help.",
+      "wordCount": 11
+    },
+    {
+      "id": 18,
+      "index": 18,
+      "character": "HISPANIC WOMAN",
+      "gender": "NA",
+      "line": "I need a hero.",
+      "wordCount": 4
+    },
+    {
+      "id": 19,
+      "index": 19,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Don't we all.",
+      "wordCount": 3
+    },
+    {
+      "id": 20,
+      "index": 20,
+      "character": "HISPANIC WOMAN",
+      "gender": "NA",
+      "line": "What the hell happened to you?! What are you hiding from?!",
+      "wordCount": 11
+    },
+    {
+      "id": 21,
+      "index": 21,
+      "character": "PIERCE",
+      "gender": "Male",
+      "line": "As I live and breathe. The Wolverine. And he's a junkie now.",
+      "wordCount": 12
+    },
+    {
+      "id": 22,
+      "index": 22,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Who the fuck are you?",
+      "wordCount": 5
+    },
+    {
+      "id": 23,
+      "index": 23,
+      "character": "PIERCE",
+      "gender": "Male",
+      "line": "Y'know, you got some buckshot in your door. I heard you were in Phoenix. Food's better there by the way. But then, last night, some friends in Texas H-P called, told me they found three dead cholos in a pullout out on 54. Not unusual, except one was missing a hand. Another a leg. Multiple parallel lacerations. Slashes, femoral, thoracic. So, they're thinking it was either an escaped Tiger or Freddy Krueger... but neither of those can drive, one being fictional the other extinct. And since the wheel lugs they found belong to a `24 Gauntlet--",
+      "wordCount": 96
+    },
+    {
+      "id": 24,
+      "index": 24,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Get out. Now.",
+      "wordCount": 3
+    },
+    {
+      "id": 25,
+      "index": 25,
+      "character": "PIERCE",
+      "gender": "Male",
+      "line": "Has she found you yet? ...Gabriela? See, I'm not looking for you, mutey. Not really. I'm looking for someone who's looking for you. Final Shooting - 8/23/2016 8.",
+      "wordCount": 28
+    },
+    {
+      "id": 26,
+      "index": 26,
+      "character": "PIERCE",
+      "gender": "Male",
+      "line": "She took something of mine. Something for which I am responsible. When I wasn't looking. Mexican lady. Long hair, long legs, Long gone. Has her sights on you. No bells?",
+      "wordCount": 30
+    },
+    {
+      "id": 27,
+      "index": 27,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "I don't know any Gabriela. So get the fuck out.",
+      "wordCount": 10
+    },
+    {
+      "id": 28,
+      "index": 28,
+      "character": "PIERCE",
+      "gender": "Male",
+      "line": "I know what you're hiding, amigo. Cue ball south of the border?",
+      "wordCount": 12
+    },
+    {
+      "id": 29,
+      "index": 29,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "What do you want?",
+      "wordCount": 4
+    },
+    {
+      "id": 30,
+      "index": 30,
+      "character": "PIERCE",
+      "gender": "Male",
+      "line": "A little ...cooperation.",
+      "wordCount": 3
+    },
+    {
+      "id": 31,
+      "index": 31,
+      "character": "PIERCE",
+      "gender": "Male",
+      "line": "If she does find you.",
+      "wordCount": 5
+    },
+    {
+      "id": 32,
+      "index": 32,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Mr. Espiranza, yes, I know I said June, but I want the boat now. Yes. Why does that mean the price go up? Final Shooting - 8/23/2016 9.",
+      "wordCount": 28
+    },
+    {
+      "id": 33,
+      "index": 33,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Yes, I know you wanted seventy, but I am telling you I have 45 cash now. Just bring it to port in Baja.",
+      "wordCount": 23
+    },
+    {
+      "id": 34,
+      "index": 34,
+      "character": "CALIBAN",
+      "gender": "Male",
+      "line": "He's having a bad day.",
+      "wordCount": 5
+    },
+    {
+      "id": 35,
+      "index": 35,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "They're all bad days.",
+      "wordCount": 4
+    },
+    {
+      "id": 36,
+      "index": 36,
+      "character": "CALIBAN",
+      "gender": "Male",
+      "line": "He needed these six hours ago. This is not enough, you know. It won't last through the week.",
+      "wordCount": 18
+    },
+    {
+      "id": 37,
+      "index": 37,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "I'm working on it.",
+      "wordCount": 4
+    },
+    {
+      "id": 38,
+      "index": 38,
+      "character": "CALIBAN",
+      "gender": "Male",
+      "line": "Your turn.",
+      "wordCount": 2
+    },
+    {
+      "id": 39,
+      "index": 39,
+      "character": "CALIBAN",
+      "gender": "Male",
+      "line": "You know, he told me last night he's communicating with someone.",
+      "wordCount": 11
+    },
+    {
+      "id": 40,
+      "index": 40,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "He's not talking with anybody.",
+      "wordCount": 5
+    },
+    {
+      "id": 41,
+      "index": 41,
+      "character": "CALIBAN",
+      "gender": "Male",
+      "line": "Don't be so sure. He had all these details. I thought that tank was supposed to provide some sort of barrier. It's got all these cracks in it. What good is that?",
+      "wordCount": 32
+    },
+    {
+      "id": 42,
+      "index": 42,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Please stop.",
+      "wordCount": 2
+    },
+    {
+      "id": 43,
+      "index": 43,
+      "character": "CALIBAN",
+      "gender": "Male",
+      "line": "He's been asking questions again. He's trying to read my mind.",
+      "wordCount": 11
+    },
+    {
+      "id": 44,
+      "index": 44,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "That's what these are for.",
+      "wordCount": 5
+    },
+    {
+      "id": 45,
+      "index": 45,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "Friends, I have Good News today! It's not about what you do. It's not about your deeds. You can't live up to his rules. God knows you can't. That's OK! We're imperfect!",
+      "wordCount": 32
+    },
+    {
+      "id": 46,
+      "index": 46,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "Make way, sir.",
+      "wordCount": 3
+    },
+    {
+      "id": 47,
+      "index": 47,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "I said make way.",
+      "wordCount": 4
+    },
+    {
+      "id": 48,
+      "index": 48,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "No.",
+      "wordCount": 1
+    },
+    {
+      "id": 49,
+      "index": 49,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "The new Quesalupa from Taco Bell. Get it with chicken, get it with steak. But with cheese baked right in the shell it's the next big-- Who are you?",
+      "wordCount": 29
+    },
+    {
+      "id": 50,
+      "index": 50,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "You know who I am.",
+      "wordCount": 5
+    },
+    {
+      "id": 51,
+      "index": 51,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "The man who puts me to sleep.",
+      "wordCount": 7
+    },
+    {
+      "id": 52,
+      "index": 52,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "We could both use some sleep.",
+      "wordCount": 6
+    },
+    {
+      "id": 53,
+      "index": 53,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Charles, you're making this-- Final Shooting - 8/23/2016 12.",
+      "wordCount": 9
+    },
+    {
+      "id": 54,
+      "index": 54,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "What are you fucking doing to me!?",
+      "wordCount": 7
+    },
+    {
+      "id": 55,
+      "index": 55,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "How long have I been here?",
+      "wordCount": 6
+    },
+    {
+      "id": 56,
+      "index": 56,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "What are these?",
+      "wordCount": 3
+    },
+    {
+      "id": 57,
+      "index": 57,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "You remember what they are. The shots mellow the seizures, the pills keep them from happening.",
+      "wordCount": 16
+    },
+    {
+      "id": 58,
+      "index": 58,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "How `bout you blow on them to make them safe.",
+      "wordCount": 10
+    },
+    {
+      "id": 59,
+      "index": 59,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "Fuck off, Logan.",
+      "wordCount": 3
+    },
+    {
+      "id": 60,
+      "index": 60,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "So you know who I am now.",
+      "wordCount": 7
+    },
+    {
+      "id": 61,
+      "index": 61,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "I always know who you are. Sometimes I just don't recognize you.",
+      "wordCount": 12
+    },
+    {
+      "id": 62,
+      "index": 62,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Take the pills.",
+      "wordCount": 3
+    },
+    {
+      "id": 63,
+      "index": 63,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "...you leave me alone with that fucking Albino... he won't listen to me. I know a damn speciation when I see one.",
+      "wordCount": 22
+    },
+    {
+      "id": 64,
+      "index": 64,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "A what?",
+      "wordCount": 2
+    },
+    {
+      "id": 65,
+      "index": 65,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "A speciation. A new mutant. A young one. There are forces trying to kill them! They need help!",
+      "wordCount": 18
+    },
+    {
+      "id": 66,
+      "index": 66,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Too bad you're not in that business anymore.",
+      "wordCount": 8
+    },
+    {
+      "id": 67,
+      "index": 67,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "They want your help, not mine. Oh, yes. That's how fucking stupid they are. They're waiting for you. At the Statue of Liberty.",
+      "wordCount": 23
+    },
+    {
+      "id": 68,
+      "index": 68,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "The Statue of Liberty was a long time ago, Charles. A long time.",
+      "wordCount": 13
+    },
+    {
+      "id": 69,
+      "index": 69,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "There are no new mutants. Hasn't been a new one born in twenty-five years. Not anywhere. Final Shooting - 8/23/2016 14.",
+      "wordCount": 21
+    },
+    {
+      "id": 70,
+      "index": 70,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "Impossible.",
+      "wordCount": 1
+    },
+    {
+      "id": 71,
+      "index": 71,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "You always thought we were part of God's Plan. Maybe we were just God's mistake.",
+      "wordCount": 15
+    },
+    {
+      "id": 72,
+      "index": 72,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "What a disappointment you are.",
+      "wordCount": 5
+    },
+    {
+      "id": 73,
+      "index": 73,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "When I found you, you were pursuing a career as a \"cage fighter\".",
+      "wordCount": 13
+    },
+    {
+      "id": 74,
+      "index": 74,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "I'm not in the mood for bedtime--",
+      "wordCount": 7
+    },
+    {
+      "id": 75,
+      "index": 75,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "A warm capper to life as an assassin, hooked on barbiturates. You were an animal, but we took you in. I gave you a family.",
+      "wordCount": 25
+    },
+    {
+      "id": 76,
+      "index": 76,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "They're gone now.",
+      "wordCount": 3
+    },
+    {
+      "id": 77,
+      "index": 77,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "What did you do?",
+      "wordCount": 4
+    },
+    {
+      "id": 78,
+      "index": 78,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "Answer me! Why are we here?",
+      "wordCount": 6
+    },
+    {
+      "id": 79,
+      "index": 79,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "No one should have to live this way! Drugged! In a fucking tank!",
+      "wordCount": 13
+    },
+    {
+      "id": 80,
+      "index": 80,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "It's for your own good. Final Shooting - 8/23/2016 15.",
+      "wordCount": 10
+    },
+    {
+      "id": 81,
+      "index": 81,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "No. NO it's NOT! You're waiting for me to die!",
+      "wordCount": 10
+    },
+    {
+      "id": 82,
+      "index": 82,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "Drink new Hypno Plus! Fortified with seven nutrients and Extacine 5, for energy and vitality!",
+      "wordCount": 15
+    },
+    {
+      "id": 83,
+      "index": 83,
+      "character": "CALIBAN",
+      "gender": "Male",
+      "line": "I don't want to fight but we need to talk about these things. There are things. Final Shooting - 8/23/2016 16.",
+      "wordCount": 21
+    },
+    {
+      "id": 84,
+      "index": 84,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "What things.",
+      "wordCount": 2
+    },
+    {
+      "id": 85,
+      "index": 85,
+      "character": "CALIBAN",
+      "gender": "Male",
+      "line": "Well. Would it be considered nagging if repeated my observation that the dose is too low. To suppress the seizures.",
+      "wordCount": 20
+    },
+    {
+      "id": 86,
+      "index": 86,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "It's what the guy gave me. I wasn't in a position to make demands.",
+      "wordCount": 14
+    },
+    {
+      "id": 87,
+      "index": 87,
+      "character": "CALIBAN",
+      "gender": "Male",
+      "line": "I almost died this morning. That seizure was a--",
+      "wordCount": 9
+    },
+    {
+      "id": 88,
+      "index": 88,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "It wasn't even a minute.",
+      "wordCount": 5
+    },
+    {
+      "id": 89,
+      "index": 89,
+      "character": "CALIBAN",
+      "gender": "Male",
+      "line": "It felt a lot longer than a minute. I couldn't breathe. I was in a terrible state. You're less affected, Logan-- Please don't give me that look. You know he needs a higher dose. And I know you've got more money squirreled away.",
+      "wordCount": 43
+    },
+    {
+      "id": 90,
+      "index": 90,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "That money's to get us out of here.",
+      "wordCount": 8
+    },
+    {
+      "id": 91,
+      "index": 91,
+      "character": "CALIBAN",
+      "gender": "Male",
+      "line": "No. Not us. You and him. You're saving up for a bloody Sunseeker. I don't see myself hiding below deck like Nosferatu, doing laundry, do you? ...Folding your underwear. Making pigs in a blanket.",
+      "wordCount": 34
+    },
+    {
+      "id": 92,
+      "index": 92,
+      "character": "CALIBAN",
+      "gender": "Male",
+      "line": "This was in your pocket.",
+      "wordCount": 5
+    },
+    {
+      "id": 93,
+      "index": 93,
+      "character": "CALIBAN",
+      "gender": "Male",
+      "line": "Adamantium.",
+      "wordCount": 1
+    },
+    {
+      "id": 94,
+      "index": 94,
+      "character": "CALIBAN",
+      "gender": "Male",
+      "line": "If you're thinking of blowing your brains out, please wait till you're out on the high seas. Thanks.",
+      "wordCount": 18
+    },
+    {
+      "id": 95,
+      "index": 95,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "I don't need this right now.",
+      "wordCount": 6
+    },
+    {
+      "id": 96,
+      "index": 96,
+      "character": "CALIBAN",
+      "gender": "Male",
+      "line": "A year ago, you asked me to help you. And God knows I try but I can't help you, not really, if you don't talk to me. I hear you at night. You aren't sleeping. You don't want to talk about that. Or the booze you're drinking or the pus you keep wiping from your knuckles or the blood I wash from your clothes or those brand new holes in your chest, that haven't healed. And I very much doubt you want to talk about the fact that you can't read the label on the side of that bottle. It's Ibuprofen.",
+      "wordCount": 101
+    },
+    {
+      "id": 97,
+      "index": 97,
+      "character": "CALIBAN",
+      "gender": "Male",
+      "line": "That was my favorite mug.",
+      "wordCount": 5
+    },
+    {
+      "id": 98,
+      "index": 98,
+      "character": "CALIBAN",
+      "gender": "Male",
+      "line": "Something's happening to you, Logan. On the inside. I can smell it. You're sick.",
+      "wordCount": 14
+    },
+    {
+      "id": 99,
+      "index": 99,
+      "character": "CALIBAN",
+      "gender": "Male",
+      "line": "You're supposed to be leading us somewhere. Final Shooting - 8/23/2016 18.",
+      "wordCount": 12
+    },
+    {
+      "id": 100,
+      "index": 100,
+      "character": "WOMAN'S VOICE",
+      "gender": "NA",
+      "line": "Senor Logan.",
+      "wordCount": 2
+    },
+    {
+      "id": 101,
+      "index": 101,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Oh, Jesus.",
+      "wordCount": 2
+    },
+    {
+      "id": 102,
+      "index": 102,
+      "character": "WOMAN",
+      "gender": "NA",
+      "line": "Please. ...We need a ride.",
+      "wordCount": 5
+    },
+    {
+      "id": 103,
+      "index": 103,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Not available. Call a cab.",
+      "wordCount": 5
+    },
+    {
+      "id": 104,
+      "index": 104,
+      "character": "WOMAN",
+      "gender": "NA",
+      "line": "I'm not crazy. My name is Gabriela Lopez. Final Shooting - 8/23/2016 19.",
+      "wordCount": 13
+    },
+    {
+      "id": 105,
+      "index": 105,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "I don't want to know your name!",
+      "wordCount": 7
+    },
+    {
+      "id": 106,
+      "index": 106,
+      "character": "GABRIELA",
+      "gender": "Female",
+      "line": "There are men after us. They almost got us today. We need to get to North Dakota. There, we can cross. To Canada.",
+      "wordCount": 23
+    },
+    {
+      "id": 107,
+      "index": 107,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Anyone can do that job.",
+      "wordCount": 5
+    },
+    {
+      "id": 108,
+      "index": 108,
+      "character": "GABRIELA",
+      "gender": "Female",
+      "line": "No. It has to be you. I'll give you fifty thousand dollars",
+      "wordCount": 12
+    },
+    {
+      "id": 109,
+      "index": 109,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "How'd you find me? Huh?! `Cause you are fucking up my life, lady. The people after you are on my ass now.",
+      "wordCount": 22
+    },
+    {
+      "id": 110,
+      "index": 110,
+      "character": "GABRIELA",
+      "gender": "Female",
+      "line": "...Sightings... were posted.",
+      "wordCount": 3
+    },
+    {
+      "id": 111,
+      "index": 111,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Sightings.",
+      "wordCount": 1
+    },
+    {
+      "id": 112,
+      "index": 112,
+      "character": "GABRIELA",
+      "gender": "Female",
+      "line": "On chat rooms. People said someone looked like The Wolverine was in El Paso, driving. Said he looked old.",
+      "wordCount": 19
+    },
+    {
+      "id": 113,
+      "index": 113,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "And by people, you mean fat fucktards living in their parents' basements playing with dolls?",
+      "wordCount": 15
+    },
+    {
+      "id": 114,
+      "index": 114,
+      "character": "GABRIELA",
+      "gender": "Female",
+      "line": "Whoever it was, they were right.",
+      "wordCount": 6
+    },
+    {
+      "id": 115,
+      "index": 115,
+      "character": "LADY MANAGER",
+      "gender": "NA",
+      "line": "Hey!",
+      "wordCount": 1
+    },
+    {
+      "id": 116,
+      "index": 116,
+      "character": "LADY MANAGER",
+      "gender": "NA",
+      "line": "Wipe that smile off your face, Missy! Final Shooting - 8/23/2016 20.",
+      "wordCount": 12
+    },
+    {
+      "id": 117,
+      "index": 117,
+      "character": "LADY MANAGER",
+      "gender": "NA",
+      "line": "I told you to stop it with that ball. Bad girl. Mamacita is gonna have to pay for that!",
+      "wordCount": 19
+    },
+    {
+      "id": 118,
+      "index": 118,
+      "character": "GABRIELA",
+      "gender": "Female",
+      "line": "No. Please. Stop!",
+      "wordCount": 3
+    },
+    {
+      "id": 119,
+      "index": 119,
+      "character": "LADY MANAGER",
+      "gender": "NA",
+      "line": "They have to pay for damages. She's got cash. I seen it.",
+      "wordCount": 12
+    },
+    {
+      "id": 120,
+      "index": 120,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Get your fat ass back in your office. You'll get your money.",
+      "wordCount": 12
+    },
+    {
+      "id": 121,
+      "index": 121,
+      "character": "GABRIELA",
+      "gender": "Female",
+      "line": "Don't let her call anyone. They will find us. They will kill us.",
+      "wordCount": 13
+    },
+    {
+      "id": 122,
+      "index": 122,
+      "character": "GABRIELA",
+      "gender": "Female",
+      "line": "I`m a nurse. Was. In Mexico City.",
+      "wordCount": 7
+    },
+    {
+      "id": 123,
+      "index": 123,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "When did that happen?",
+      "wordCount": 4
+    },
+    {
+      "id": 124,
+      "index": 124,
+      "character": "GABRIELA",
+      "gender": "Female",
+      "line": "This morning. Near the border. I got away from them. But they know my car now.",
+      "wordCount": 16
+    },
+    {
+      "id": 125,
+      "index": 125,
+      "character": "GABRIELA",
+      "gender": "Female",
+      "line": "Take it. Please. Bring us to this address. It's twenty thousand. You can have thirty more when we get there. My friends will--",
+      "wordCount": 23
+    },
+    {
+      "id": 126,
+      "index": 126,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Where did you get this?",
+      "wordCount": 5
+    },
+    {
+      "id": 127,
+      "index": 127,
+      "character": "GABRIELA",
+      "gender": "Female",
+      "line": "It doesn't matter.",
+      "wordCount": 3
+    },
+    {
+      "id": 128,
+      "index": 128,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Does to me.",
+      "wordCount": 3
+    },
+    {
+      "id": 129,
+      "index": 129,
+      "character": "GABRIELA",
+      "gender": "Female",
+      "line": "My boyfriend. He wants to kill me. And take her.",
+      "wordCount": 10
+    },
+    {
+      "id": 130,
+      "index": 130,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "That's your daughter?",
+      "wordCount": 3
+    },
+    {
+      "id": 131,
+      "index": 131,
+      "character": "GABRIELA",
+      "gender": "Female",
+      "line": "...yes. He wants to hurt her. I know you are still good inside. I know you want to help. Please. There won't be any problems. Not if we leave now.",
+      "wordCount": 30
+    },
+    {
+      "id": 132,
+      "index": 132,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "I can't leave right now.",
+      "wordCount": 5
+    },
+    {
+      "id": 133,
+      "index": 133,
+      "character": "GABRIELA",
+      "gender": "Female",
+      "line": "We have to be there Friday.",
+      "wordCount": 6
+    },
+    {
+      "id": 134,
+      "index": 134,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Or what?",
+      "wordCount": 2
+    },
+    {
+      "id": 135,
+      "index": 135,
+      "character": "GABRIELA",
+      "gender": "Female",
+      "line": "Or we miss our chance. To cross. Our... family. They will be there that day. No other day.",
+      "wordCount": 18
+    },
+    {
+      "id": 136,
+      "index": 136,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "I can get you there Friday. But I need to go home first, take care of some things.",
+      "wordCount": 18
+    },
+    {
+      "id": 137,
+      "index": 137,
+      "character": "GABRIELA",
+      "gender": "Female",
+      "line": "Bring us with you. Please. We can help with whatever you need to do.",
+      "wordCount": 14
+    },
+    {
+      "id": 138,
+      "index": 138,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "I'll be back in a few hours. Keep this locked. And tell your mommy I know she's lying.",
+      "wordCount": 18
+    },
+    {
+      "id": 139,
+      "index": 139,
+      "character": "CALIBAN",
+      "gender": "Male",
+      "line": "Tell me you didn't rob a bank.",
+      "wordCount": 7
+    },
+    {
+      "id": 140,
+      "index": 140,
+      "character": "CALIBAN",
+      "gender": "Male",
+      "line": "So you did rob a bank.",
+      "wordCount": 6
+    },
+    {
+      "id": 141,
+      "index": 141,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "I got a job that's gonna pay enough to change things. But I have to go away. For a week.",
+      "wordCount": 20
+    },
+    {
+      "id": 142,
+      "index": 142,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "I like those. They make you look younger.",
+      "wordCount": 8
+    },
+    {
+      "id": 143,
+      "index": 143,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Charles. Listen. I gotta go for a few days. I got a long ride for some good money. When I get back, we're getting out of here, okay. Gonna drive down to Yelapa and get ourselves a boat. Live on the ocean.",
+      "wordCount": 42
+    },
+    {
+      "id": 144,
+      "index": 144,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "And... you'll be safe there? From the people after you?",
+      "wordCount": 10
+    },
+    {
+      "id": 145,
+      "index": 145,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Yeah. I'll be safe.",
+      "wordCount": 4
+    },
+    {
+      "id": 146,
+      "index": 146,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Ready to go?",
+      "wordCount": 3
+    },
+    {
+      "id": 147,
+      "index": 147,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "...Fuck.",
+      "wordCount": 1
+    },
+    {
+      "id": 148,
+      "index": 148,
+      "character": "CALIBAN",
+      "gender": "Male",
+      "line": "Hello! Logan! --What happened?",
+      "wordCount": 4
+    },
+    {
+      "id": 149,
+      "index": 149,
+      "character": "CALIBAN",
+      "gender": "Male",
+      "line": "Did something go wrong?",
+      "wordCount": 4
+    },
+    {
+      "id": 150,
+      "index": 150,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "The job was wrong to begin with.",
+      "wordCount": 7
+    },
+    {
+      "id": 151,
+      "index": 151,
+      "character": "CALIBAN",
+      "gender": "Male",
+      "line": "I'll close your trunk. --I'm making borscht for Charles if you want some. He got dressed for lunch",
+      "wordCount": 18
+    },
+    {
+      "id": 152,
+      "index": 152,
+      "character": "CALIBAN",
+      "gender": "Male",
+      "line": "...Who does that belong to?",
+      "wordCount": 5
+    },
+    {
+      "id": 153,
+      "index": 153,
+      "character": "CALIBAN",
+      "gender": "Male",
+      "line": "Who's that?",
+      "wordCount": 2
+    },
+    {
+      "id": 154,
+      "index": 154,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Aren't you supposed to see shit coming?",
+      "wordCount": 7
+    },
+    {
+      "id": 155,
+      "index": 155,
+      "character": "CALIBAN",
+      "gender": "Male",
+      "line": "I'm a glorified truffle pig, not a clairvoyant.",
+      "wordCount": 8
+    },
+    {
+      "id": 156,
+      "index": 156,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Go inside. Keep Charles quiet. Go. Inside.",
+      "wordCount": 7
+    },
+    {
+      "id": 157,
+      "index": 157,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "You need to turn around, asshole. This is private property.",
+      "wordCount": 10
+    },
+    {
+      "id": 158,
+      "index": 158,
+      "character": "PIERCE",
+      "gender": "Male",
+      "line": "Yes, it is. In fact, I believe it belongs to a multinational smelting company based in Shanghai. Final Shooting - 8/23/2016 26.",
+      "wordCount": 22
+    },
+    {
+      "id": 159,
+      "index": 159,
+      "character": "PIERCE",
+      "gender": "Male",
+      "line": "Where you keeping the old man? In there? Or there. I'd like to meet him. I'm told HSA classifies his brain as a weapon of mass destruction now. `Damned shame, what happened back east.",
+      "wordCount": 34
+    },
+    {
+      "id": 160,
+      "index": 160,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "He's been dead for a year.",
+      "wordCount": 6
+    },
+    {
+      "id": 161,
+      "index": 161,
+      "character": "PIERCE",
+      "gender": "Male",
+      "line": "I need the girl.",
+      "wordCount": 4
+    },
+    {
+      "id": 162,
+      "index": 162,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "What girl.",
+      "wordCount": 2
+    },
+    {
+      "id": 163,
+      "index": 163,
+      "character": "PIERCE",
+      "gender": "Male",
+      "line": "One that goes with that ball you're holding. That's special rubber, you know. Coated with something called J-Tek. Gets in through the skin. Very calming. Like Magnesium but without the side effects. You feel calmer?",
+      "wordCount": 35
+    },
+    {
+      "id": 164,
+      "index": 164,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "There's no girl here.",
+      "wordCount": 4
+    },
+    {
+      "id": 165,
+      "index": 165,
+      "character": "PIERCE",
+      "gender": "Male",
+      "line": "I know you went to the motel.",
+      "wordCount": 7
+    },
+    {
+      "id": 166,
+      "index": 166,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "I was called there. There was no girl. Just the woman.",
+      "wordCount": 11
+    },
+    {
+      "id": 167,
+      "index": 167,
+      "character": "PIERCE",
+      "gender": "Male",
+      "line": "\"The woman\". Such as she was. So you saw Gabriela but you didn't call me? That hurts. Say, you didn't shoot the poor thing, did you? Final Shooting - 8/23/2016 27.",
+      "wordCount": 31
+    },
+    {
+      "id": 168,
+      "index": 168,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "No. Did you?",
+      "wordCount": 3
+    },
+    {
+      "id": 169,
+      "index": 169,
+      "character": "PIERCE",
+      "gender": "Male",
+      "line": "I asked you first.",
+      "wordCount": 4
+    },
+    {
+      "id": 170,
+      "index": 170,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "I don't like guns.",
+      "wordCount": 4
+    },
+    {
+      "id": 171,
+      "index": 171,
+      "character": "PIERCE",
+      "gender": "Male",
+      "line": "Of course. I wish you had called me, Logan. Like I asked.",
+      "wordCount": 12
+    },
+    {
+      "id": 172,
+      "index": 172,
+      "character": "PIERCE",
+      "gender": "Male",
+      "line": "See. You're not the only one who's BEEN ENHANCED--",
+      "wordCount": 9
+    },
+    {
+      "id": 173,
+      "index": 173,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Hey!",
+      "wordCount": 1
+    },
+    {
+      "id": 174,
+      "index": 174,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "Logan.",
+      "wordCount": 1
+    },
+    {
+      "id": 175,
+      "index": 175,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "Logan. Caliban. This is Laura.",
+      "wordCount": 5
+    },
+    {
+      "id": 176,
+      "index": 176,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "We've been waiting for you. Final Shooting - 8/23/2016 28.",
+      "wordCount": 10
+    },
+    {
+      "id": 177,
+      "index": 177,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "This way, child. Come here, Laura.",
+      "wordCount": 6
+    },
+    {
+      "id": 178,
+      "index": 178,
+      "character": "CALIBAN",
+      "gender": "Male",
+      "line": "Looks like Ex-military. Maybe a bounty hunter?",
+      "wordCount": 7
+    },
+    {
+      "id": 179,
+      "index": 179,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Worse.",
+      "wordCount": 1
+    },
+    {
+      "id": 180,
+      "index": 180,
+      "character": "CALIBAN",
+      "gender": "Male",
+      "line": "He's by himself?",
+      "wordCount": 3
+    },
+    {
+      "id": 181,
+      "index": 181,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Not for long. Get him back in his ride. Drive him to the wash and dump him. Then take the car into Juarez, leave it for the vultures.",
+      "wordCount": 28
+    },
+    {
+      "id": 182,
+      "index": 182,
+      "character": "CALIBAN",
+      "gender": "Male",
+      "line": "What if he wakes up before I get there?",
+      "wordCount": 9
+    },
+    {
+      "id": 183,
+      "index": 183,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Text me where you are and we'll pick you up.",
+      "wordCount": 10
+    },
+    {
+      "id": 184,
+      "index": 184,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "You did what you could, Laura. Well. Yes. Of course, it's painful.",
+      "wordCount": 12
+    },
+    {
+      "id": 185,
+      "index": 185,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "You'll get it back-- after I figure out what you and your mother have got us into.",
+      "wordCount": 17
+    },
+    {
+      "id": 186,
+      "index": 186,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "Logan.",
+      "wordCount": 1
+    },
+    {
+      "id": 187,
+      "index": 187,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "What.",
+      "wordCount": 1
+    },
+    {
+      "id": 188,
+      "index": 188,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "That wasn't her mother you met.",
+      "wordCount": 6
+    },
+    {
+      "id": 189,
+      "index": 189,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "So she talks.",
+      "wordCount": 3
+    },
+    {
+      "id": 190,
+      "index": 190,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "We're communicating.",
+      "wordCount": 2
+    },
+    {
+      "id": 191,
+      "index": 191,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Take them-- Now. We have to go. Leave. It isn't safe here anymore. And you can't have an attack out there. Understand?",
+      "wordCount": 22
+    },
+    {
+      "id": 192,
+      "index": 192,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "She's the mutant I told you about. The one we have to help.",
+      "wordCount": 13
+    },
+    {
+      "id": 193,
+      "index": 193,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "She's not a mutant.",
+      "wordCount": 4
+    },
+    {
+      "id": 194,
+      "index": 194,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "Yes, she is. Final Shooting - 8/23/2016 30.",
+      "wordCount": 8
+    },
+    {
+      "id": 195,
+      "index": 195,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "What's her gift, eating? Pipe throwing?",
+      "wordCount": 6
+    },
+    {
+      "id": 196,
+      "index": 196,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "It's alright, Laura. It's only a train. A choo choo.",
+      "wordCount": 10
+    },
+    {
+      "id": 197,
+      "index": 197,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "We gotta go.",
+      "wordCount": 3
+    },
+    {
+      "id": 198,
+      "index": 198,
+      "character": "PIERCE",
+      "gender": "Male",
+      "line": "You're fucked now, mutey.",
+      "wordCount": 4
+    },
+    {
+      "id": 199,
+      "index": 199,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "It's alright. It's just another-- Final Shooting - 8/23/2016 31.",
+      "wordCount": 10
+    },
+    {
+      "id": 200,
+      "index": 200,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "--it's not a train. We gotta go!",
+      "wordCount": 7
+    },
+    {
+      "id": 201,
+      "index": 201,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Don't move!",
+      "wordCount": 2
+    },
+    {
+      "id": 202,
+      "index": 202,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "Don't be afraid, child. He'll come back for you!",
+      "wordCount": 9
+    },
+    {
+      "id": 203,
+      "index": 203,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "...bloody hell.",
+      "wordCount": 2
+    },
+    {
+      "id": 204,
+      "index": 204,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "My God...",
+      "wordCount": 2
+    },
+    {
+      "id": 205,
+      "index": 205,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "Logan!",
+      "wordCount": 1
+    },
+    {
+      "id": 206,
+      "index": 206,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "Logan! You have to go back for her!",
+      "wordCount": 8
+    },
+    {
+      "id": 207,
+      "index": 207,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "She's not our problem.",
+      "wordCount": 4
+    },
+    {
+      "id": 208,
+      "index": 208,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "I know what you just did.",
+      "wordCount": 6
+    },
+    {
+      "id": 209,
+      "index": 209,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "LOGAN!",
+      "wordCount": 1
+    },
+    {
+      "id": 210,
+      "index": 210,
+      "character": "FEDERALE COMMANDER",
+      "gender": "Male",
+      "line": "Este es el mutante! Capturar o matar!",
+      "wordCount": 7
+    },
+    {
+      "id": 211,
+      "index": 211,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "Logan...",
+      "wordCount": 1
+    },
+    {
+      "id": 212,
+      "index": 212,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "I'm thinking. Final Shooting - 8/23/2016 33.",
+      "wordCount": 7
+    },
+    {
+      "id": 213,
+      "index": 213,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "The child, Logan. We mustn't forget Laura. ...Logan...",
+      "wordCount": 8
+    },
+    {
+      "id": 214,
+      "index": 214,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Please be quiet.",
+      "wordCount": 3
+    },
+    {
+      "id": 215,
+      "index": 215,
+      "character": "PIERCE",
+      "gender": "Male",
+      "line": "Ah, Charles Xavier. The most wanted octogenarian in North America--",
+      "wordCount": 10
+    },
+    {
+      "id": 216,
+      "index": 216,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Where's Caliban?",
+      "wordCount": 2
+    },
+    {
+      "id": 217,
+      "index": 217,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "Excuse me. I'm a nonagenarian, actually...",
+      "wordCount": 6
+    },
+    {
+      "id": 218,
+      "index": 218,
+      "character": "PIERCE",
+      "gender": "Male",
+      "line": "How about you tell me where the girl is first. Or maybe I ought to ask the cue ball. Seems friendly.",
+      "wordCount": 21
+    },
+    {
+      "id": 219,
+      "index": 219,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "I told you, she's not here. Where's Caliban?!",
+      "wordCount": 8
+    },
+    {
+      "id": 220,
+      "index": 220,
+      "character": "PIERCE",
+      "gender": "Male",
+      "line": "I left him in the same hole you were going to leave me.",
+      "wordCount": 13
+    },
+    {
+      "id": 221,
+      "index": 221,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "You got extra barbecue tongs for this guy?",
+      "wordCount": 8
+    },
+    {
+      "id": 222,
+      "index": 222,
+      "character": "PIERCE",
+      "gender": "Male",
+      "line": "Jesus. Seeing you this way, Wolverine, it breaks my heart.",
+      "wordCount": 10
+    },
+    {
+      "id": 223,
+      "index": 223,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "As soon as I rip it out of your chest, fuck-stick.",
+      "wordCount": 11
+    },
+    {
+      "id": 224,
+      "index": 224,
+      "character": "FEDERALE COMMANDER",
+      "gender": "Male",
+      "line": "No one goes in without Federale escort. I am in charge.",
+      "wordCount": 11
+    },
+    {
+      "id": 225,
+      "index": 225,
+      "character": "PIERCE",
+      "gender": "Male",
+      "line": "That-a-girl. Final Shooting - 8/23/2016 35.",
+      "wordCount": 6
+    },
+    {
+      "id": 226,
+      "index": 226,
+      "character": "PIERCE",
+      "gender": "Male",
+      "line": "...Laura.",
+      "wordCount": 1
+    },
+    {
+      "id": 227,
+      "index": 227,
+      "character": "PIERCE",
+      "gender": "Male",
+      "line": "Laura. Stay where you are. You want to see your friends, right?",
+      "wordCount": 12
+    },
+    {
+      "id": 228,
+      "index": 228,
+      "character": "FEDERALE COMMANDER",
+      "gender": "Male",
+      "line": "Tomar el mutante!",
+      "wordCount": 3
+    },
+    {
+      "id": 229,
+      "index": 229,
+      "character": "PIERCE",
+      "gender": "Male",
+      "line": "Commander, stop!",
+      "wordCount": 2
+    },
+    {
+      "id": 230,
+      "index": 230,
+      "character": "FEDERALE COMMANDER",
+      "gender": "Male",
+      "line": "You said alive or dead.",
+      "wordCount": 5
+    },
+    {
+      "id": 231,
+      "index": 231,
+      "character": "PIERCE",
+      "gender": "Male",
+      "line": "Laura! NO! NO!!",
+      "wordCount": 3
+    },
+    {
+      "id": 232,
+      "index": 232,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "...My Lord.",
+      "wordCount": 2
+    },
+    {
+      "id": 233,
+      "index": 233,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "...As I said, Logan, she's a mutant... Like you. Very much like you, in fact.",
+      "wordCount": 15
+    },
+    {
+      "id": 234,
+      "index": 234,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "Where are we going?",
+      "wordCount": 4
+    },
+    {
+      "id": 235,
+      "index": 235,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "Laura!",
+      "wordCount": 1
+    },
+    {
+      "id": 236,
+      "index": 236,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Hold on!",
+      "wordCount": 2
+    },
+    {
+      "id": 237,
+      "index": 237,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Who the fuck are you?",
+      "wordCount": 5
+    },
+    {
+      "id": 238,
+      "index": 238,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "You know who she is, Logan.",
+      "wordCount": 6
+    },
+    {
+      "id": 239,
+      "index": 239,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "No. I don't.",
+      "wordCount": 3
+    },
+    {
+      "id": 240,
+      "index": 240,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "Does she remind you of anybody?",
+      "wordCount": 6
+    },
+    {
+      "id": 241,
+      "index": 241,
+      "character": "PIERCE",
+      "gender": "Male",
+      "line": "Leave nothing behind fellas. We were not here!",
+      "wordCount": 8
+    },
+    {
+      "id": 242,
+      "index": 242,
+      "character": "PIERCE",
+      "gender": "Male",
+      "line": "Bring me the tracker.",
+      "wordCount": 4
+    },
+    {
+      "id": 243,
+      "index": 243,
+      "character": "PIERCE",
+      "gender": "Male",
+      "line": "Wakey wakey.",
+      "wordCount": 2
+    },
+    {
+      "id": 244,
+      "index": 244,
+      "character": "PIERCE",
+      "gender": "Male",
+      "line": "You know, I read about you when I was a kid. You tracked that crazy gilled mutey fishy motherfuck, what was his name, Wave? Tracked him halfway `cross the Atlantic they said. And you was underwater. Inside a sub. And you found him anyway. Shit. That's a gift. That's trackin'!",
+      "wordCount": 50
+    },
+    {
+      "id": 245,
+      "index": 245,
+      "character": "CALIBAN",
+      "gender": "Male",
+      "line": "I'm sorry. I believe you're thinking of someone else.",
+      "wordCount": 9
+    },
+    {
+      "id": 246,
+      "index": 246,
+      "character": "PIERCE",
+      "gender": "Male",
+      "line": "'I'm not mistaken, you used to work for my team, for the good guys. You were helping round up all the old mutes.",
+      "wordCount": 23
+    },
+    {
+      "id": 247,
+      "index": 247,
+      "character": "PIERCE",
+      "gender": "Male",
+      "line": "What changed? 'You got religion?",
+      "wordCount": 5
+    },
+    {
+      "id": 248,
+      "index": 248,
+      "character": "PIERCE",
+      "gender": "Male",
+      "line": "Gonna need you to help the good guys one more time, and track one more special for me.",
+      "wordCount": 18
+    },
+    {
+      "id": 249,
+      "index": 249,
+      "character": "CALIBAN",
+      "gender": "Male",
+      "line": "I will not. I will not help you.",
+      "wordCount": 8
+    },
+    {
+      "id": 250,
+      "index": 250,
+      "character": "PIERCE",
+      "gender": "Male",
+      "line": "Of course that's what you'd say. But then I got this theory that people don't really change.",
+      "wordCount": 17
+    },
+    {
+      "id": 251,
+      "index": 251,
+      "character": "PIERCE",
+      "gender": "Male",
+      "line": "Beware the light, Caliban. I bet that's what your Mommy said every day when you was a kid. Final Shooting - 8/23/2016 41.",
+      "wordCount": 23
+    },
+    {
+      "id": 252,
+      "index": 252,
+      "character": "CALIBAN",
+      "gender": "Male",
+      "line": "PLEASE--",
+      "wordCount": 1
+    },
+    {
+      "id": 253,
+      "index": 253,
+      "character": "PIERCE",
+      "gender": "Male",
+      "line": "Beware the light.",
+      "wordCount": 3
+    },
+    {
+      "id": 254,
+      "index": 254,
+      "character": "PIERCE",
+      "gender": "Male",
+      "line": "Let's not bring out the worst in each other. The girl's not worth it. She's not a natural fuck-up like you. She's a business mistake. R & D gone bad. There's liability. They can't have things with patents running around hurting people. So we need to get her off board before she hurts anybody else, someone you care about maybe.",
+      "wordCount": 60
+    },
+    {
+      "id": 255,
+      "index": 255,
+      "character": "WHISPERED VOICE",
+      "gender": "NA",
+      "line": "...My name is Gabriela Lopez.",
+      "wordCount": 5
+    },
+    {
+      "id": 256,
+      "index": 256,
+      "character": "GABRIELA",
+      "gender": "Female",
+      "line": "I am a nurse and for ten years I have worked at Transigen research in Mexico City.",
+      "wordCount": 17
+    },
+    {
+      "id": 257,
+      "index": 257,
+      "character": "GABRIELA",
+      "gender": "Female",
+      "line": "Transigen is a owned by an American company. And they pay better than any Mexican hospital.",
+      "wordCount": 16
+    },
+    {
+      "id": 258,
+      "index": 258,
+      "character": "GABRIELA",
+      "gender": "Female",
+      "line": "What I am about to show you is illegal in the U.S. and Canada--",
+      "wordCount": 14
+    },
+    {
+      "id": 259,
+      "index": 259,
+      "character": "GABRIELA",
+      "gender": "Female",
+      "line": "--and that is why they came here.",
+      "wordCount": 7
+    },
+    {
+      "id": 260,
+      "index": 260,
+      "character": "GABRIELA",
+      "gender": "Female",
+      "line": "These children were born in this building. They were born here and they have never left. Never seen the sun or ocean, the rain or snow or any of God's creatures.",
+      "wordCount": 31
+    },
+    {
+      "id": 261,
+      "index": 261,
+      "character": "GABRIELA",
+      "gender": "Female",
+      "line": "They have no birth certificates, no names beside the ones we have given them. They were raised in the bellies of Mexican girls.",
+      "wordCount": 23
+    },
+    {
+      "id": 262,
+      "index": 262,
+      "character": "GABRIELA",
+      "gender": "Female",
+      "line": "--girls no one can find anymore.",
+      "wordCount": 6
+    },
+    {
+      "id": 263,
+      "index": 263,
+      "character": "GABRIELA",
+      "gender": "Female",
+      "line": "Their fathers were semillas genética, special seeds in bottles.",
+      "wordCount": 9
+    },
+    {
+      "id": 264,
+      "index": 264,
+      "character": "RED HAIRED MAN",
+      "gender": "NA",
+      "line": "We don't bring them cake, Maria. We do not dress them up for Halloween. We do not call them baby or kiss boo boos. They're part of a study. Do not think of them as children. Think of them as things. Final Shooting - 8/23/2016 43.",
+      "wordCount": 46
+    },
+    {
+      "id": 265,
+      "index": 265,
+      "character": "RED HAIRED MAN",
+      "gender": "NA",
+      "line": "They have patents and copyrights.",
+      "wordCount": 5
+    },
+    {
+      "id": 266,
+      "index": 266,
+      "character": "LIKE THIS--",
+      "gender": "NA",
+      "line": "Comprende?",
+      "wordCount": 1
+    },
+    {
+      "id": 267,
+      "index": 267,
+      "character": "GABRIELA",
+      "gender": "Female",
+      "line": "They told us they were part of a pharmaceutical study.",
+      "wordCount": 10
+    },
+    {
+      "id": 268,
+      "index": 268,
+      "character": "GABRIELA",
+      "gender": "Female",
+      "line": "But of course, that was a lie.",
+      "wordCount": 7
+    },
+    {
+      "id": 269,
+      "index": 269,
+      "character": "GABRIELA",
+      "gender": "Female",
+      "line": "They thought we were too poor and stupid to understand. We are poor, but we are not stupid. I knew what they were doing.",
+      "wordCount": 24
+    },
+    {
+      "id": 270,
+      "index": 270,
+      "character": "GABRIELA",
+      "gender": "Female",
+      "line": "When I was a child, I learned English from these.",
+      "wordCount": 10
+    },
+    {
+      "id": 271,
+      "index": 271,
+      "character": "GABRIELA",
+      "gender": "Female",
+      "line": "This is business. They are making soldiers. Weapons X. These are babies of mutantes muerta.",
+      "wordCount": 15
+    },
+    {
+      "id": 272,
+      "index": 272,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "Is there more? Play it.",
+      "wordCount": 5
+    },
+    {
+      "id": 273,
+      "index": 273,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Battery's dead. We need a plug.",
+      "wordCount": 6
+    },
+    {
+      "id": 274,
+      "index": 274,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "How far is it? To North Dakota.",
+      "wordCount": 7
+    },
+    {
+      "id": 275,
+      "index": 275,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Charles.",
+      "wordCount": 1
+    },
+    {
+      "id": 276,
+      "index": 276,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "You took that woman's money. You told her you would take the child there.",
+      "wordCount": 14
+    },
+    {
+      "id": 277,
+      "index": 277,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "What is she?",
+      "wordCount": 3
+    },
+    {
+      "id": 278,
+      "index": 278,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "She's your daughter, Logan. Alkali had your genetic code.",
+      "wordCount": 9
+    },
+    {
+      "id": 279,
+      "index": 279,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Not just mine.",
+      "wordCount": 3
+    },
+    {
+      "id": 280,
+      "index": 280,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "Logan... Final Shooting - 8/23/2016 45.",
+      "wordCount": 6
+    },
+    {
+      "id": 281,
+      "index": 281,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "I don't wanna hear it. I don't want to talk about it anymore.",
+      "wordCount": 13
+    },
+    {
+      "id": 282,
+      "index": 282,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "Logan.",
+      "wordCount": 1
+    },
+    {
+      "id": 283,
+      "index": 283,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Stop.",
+      "wordCount": 1
+    },
+    {
+      "id": 284,
+      "index": 284,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "I have to pee.",
+      "wordCount": 4
+    },
+    {
+      "id": 285,
+      "index": 285,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Last ride. Then we're leaving.",
+      "wordCount": 5
+    },
+    {
+      "id": 286,
+      "index": 286,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "You're welcome.",
+      "wordCount": 2
+    },
+    {
+      "id": 287,
+      "index": 287,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "Stop it. For God's sake I can do that myself!",
+      "wordCount": 10
+    },
+    {
+      "id": 288,
+      "index": 288,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Well, you're not doing it!",
+      "wordCount": 5
+    },
+    {
+      "id": 289,
+      "index": 289,
+      "character": "CLERK",
+      "gender": "NA",
+      "line": "Yo. Girlie. You gotta pay for that.",
+      "wordCount": 7
+    },
+    {
+      "id": 290,
+      "index": 290,
+      "character": "CLERK",
+      "gender": "NA",
+      "line": "Where's your mommy and daddy?",
+      "wordCount": 5
+    },
+    {
+      "id": 291,
+      "index": 291,
+      "character": "CLERK",
+      "gender": "NA",
+      "line": "Alright, that's enough--",
+      "wordCount": 3
+    },
+    {
+      "id": 292,
+      "index": 292,
+      "character": "CLERK",
+      "gender": "NA",
+      "line": "Holy shit! Oh God Jesus, No!",
+      "wordCount": 6
+    },
+    {
+      "id": 293,
+      "index": 293,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Not okay.",
+      "wordCount": 2
+    },
+    {
+      "id": 294,
+      "index": 294,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Sorry.",
+      "wordCount": 1
+    },
+    {
+      "id": 295,
+      "index": 295,
+      "character": "GABRIELA",
+      "gender": "Female",
+      "line": "As the children became older, they became difficult to control.",
+      "wordCount": 10
+    },
+    {
+      "id": 296,
+      "index": 296,
+      "character": "GABRIELA",
+      "gender": "Female",
+      "line": "They taught them to kill-- but they did not remove their hearts.",
+      "wordCount": 12
+    },
+    {
+      "id": 297,
+      "index": 297,
+      "character": "GABRIELA",
+      "gender": "Female",
+      "line": "They could not be controlled.",
+      "wordCount": 5
+    },
+    {
+      "id": 298,
+      "index": 298,
+      "character": "GABRIELA",
+      "gender": "Female",
+      "line": "A soldier who cannot be controlled is not a good soldier.",
+      "wordCount": 11
+    },
+    {
+      "id": 299,
+      "index": 299,
+      "character": "GABRIELA",
+      "gender": "Female",
+      "line": "Inside this building is something new. Something better than X-23.",
+      "wordCount": 10
+    },
+    {
+      "id": 300,
+      "index": 300,
+      "character": "GABRIELA",
+      "gender": "Female",
+      "line": "I got inside yesterday.",
+      "wordCount": 4
+    },
+    {
+      "id": 301,
+      "index": 301,
+      "character": "GABRIELA",
+      "gender": "Female",
+      "line": "They told us to destroy files. They said the Cancer program had failed.",
+      "wordCount": 13
+    },
+    {
+      "id": 302,
+      "index": 302,
+      "character": "GABRIELA",
+      "gender": "Female",
+      "line": "They started putting the children to sleep. Like dogs.",
+      "wordCount": 9
+    },
+    {
+      "id": 303,
+      "index": 303,
+      "character": "GABRIELA",
+      "gender": "Female",
+      "line": "We are going to save as many as we can. I have read about a place in the north. A place for mutants. They call it Eden.",
+      "wordCount": 27
+    },
+    {
+      "id": 304,
+      "index": 304,
+      "character": "GABRIELA",
+      "gender": "Female",
+      "line": "I have not shown anyone what you have now seen. Not until I am sure Laura is safe.",
+      "wordCount": 18
+    },
+    {
+      "id": 305,
+      "index": 305,
+      "character": "GABRIELA",
+      "gender": "Female",
+      "line": "If you are watching this, it means I am dead. I am not sure if any other children survived. We were separated. I am sorry, but there is no more money. That was a lie. You have everything I have in my life.",
+      "wordCount": 43
+    },
+    {
+      "id": 306,
+      "index": 306,
+      "character": "GABRIELA",
+      "gender": "Female",
+      "line": "She is not my child... but I love her. You may not love her but she is your child. I see now you are not a hero. You are not what I read about. Maybe you never were. But please, I beg you, please bring her to safety.",
+      "wordCount": 48
+    },
+    {
+      "id": 307,
+      "index": 307,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "...Is this where we're hiding out?",
+      "wordCount": 6
+    },
+    {
+      "id": 308,
+      "index": 308,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "We're not hiding out. We're gonna get a couple hours sleep, clean up, get new clothes, ditch the limo, get a new ride and get the fuck out.",
+      "wordCount": 28
+    },
+    {
+      "id": 309,
+      "index": 309,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Keep it out front.",
+      "wordCount": 4
+    },
+    {
+      "id": 310,
+      "index": 310,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Please wait till we're in the room.",
+      "wordCount": 7
+    },
+    {
+      "id": 311,
+      "index": 311,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Sorry. Going up.",
+      "wordCount": 3
+    },
+    {
+      "id": 312,
+      "index": 312,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "This film is a classic, Laura. Almost a hundred years old now. I first saw it at the Esoldo in Dewsbury when I was your age.",
+      "wordCount": 26
+    },
+    {
+      "id": 313,
+      "index": 313,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "...For fuck's sake.",
+      "wordCount": 3
+    },
+    {
+      "id": 314,
+      "index": 314,
+      "character": "CLERK",
+      "gender": "NA",
+      "line": "Who are you guys? More cops? Dude, I already told them everything.",
+      "wordCount": 12
+    },
+    {
+      "id": 315,
+      "index": 315,
+      "character": "SHANE",
+      "gender": "NA",
+      "line": "A man has to be what he is, Joey. Can't break the mould. I tried and it didn't work. There's no living with a killing. There's no going back. Right or wrong, it's a brand. A brand that sticks. Now run on home to your mother, and you tell her... everything's alright and there aren't any more guns in the valley.",
+      "wordCount": 61
+    },
+    {
+      "id": 316,
+      "index": 316,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "You read this in your spare time?",
+      "wordCount": 7
+    },
+    {
+      "id": 317,
+      "index": 317,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "You do know this is bullshit, right? A quarter of it happened. And none like this. In the real world, people die and no self promoting asshole in a leotard can stop it. This is just ice cream for BED-WETTERS AND--",
+      "wordCount": 41
+    },
+    {
+      "id": 318,
+      "index": 318,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "--Logan.",
+      "wordCount": 1
+    },
+    {
+      "id": 319,
+      "index": 319,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "I think Laura well understands life's impermanence. Final Shooting - 8/23/2016 54.",
+      "wordCount": 12
+    },
+    {
+      "id": 320,
+      "index": 320,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "Didn't you say something about finding us a new ride?",
+      "wordCount": 10
+    },
+    {
+      "id": 321,
+      "index": 321,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Right. Fine.",
+      "wordCount": 2
+    },
+    {
+      "id": 322,
+      "index": 322,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Take two more in an hour.",
+      "wordCount": 6
+    },
+    {
+      "id": 323,
+      "index": 323,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "Good-bye, Logan.",
+      "wordCount": 2
+    },
+    {
+      "id": 324,
+      "index": 324,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "...Fuck.",
+      "wordCount": 1
+    },
+    {
+      "id": 325,
+      "index": 325,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Knock yourselves out.",
+      "wordCount": 3
+    },
+    {
+      "id": 326,
+      "index": 326,
+      "character": "DEALER",
+      "gender": "NA",
+      "line": "I know the finish looks beat but it's a `19, got less than sixty on the ody and three hundred horses under the hood. For 10 grand I can get it re-painted for you, fresh tires mounted and balanced, and complete paperwork.",
+      "wordCount": 42
+    },
+    {
+      "id": 327,
+      "index": 327,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "...yeah. Here's the thing. I'll give you twelve as is-- if you can forget the paperwork.",
+      "wordCount": 16
+    },
+    {
+      "id": 328,
+      "index": 328,
+      "character": "DEALER",
+      "gender": "NA",
+      "line": "You still need tires, tiger. They're bald.",
+      "wordCount": 7
+    },
+    {
+      "id": 329,
+      "index": 329,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "How long is that gonna take?",
+      "wordCount": 6
+    },
+    {
+      "id": 330,
+      "index": 330,
+      "character": "DEALER",
+      "gender": "NA",
+      "line": "Hour, maybe less. If you want, you can get yourself a glass a lunch across the street while you wait.",
+      "wordCount": 20
+    },
+    {
+      "id": 331,
+      "index": 331,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Jesus Christ...",
+      "wordCount": 2
+    },
+    {
+      "id": 332,
+      "index": 332,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "`you gotta be fuckin' kidding me.",
+      "wordCount": 6
+    },
+    {
+      "id": 333,
+      "index": 333,
+      "character": "BARTENDER",
+      "gender": "NA",
+      "line": "You want a refill?",
+      "wordCount": 4
+    },
+    {
+      "id": 334,
+      "index": 334,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "I'll take the bottle.",
+      "wordCount": 4
+    },
+    {
+      "id": 335,
+      "index": 335,
+      "character": "BARTENDER",
+      "gender": "NA",
+      "line": "You passing through?",
+      "wordCount": 3
+    },
+    {
+      "id": 336,
+      "index": 336,
+      "character": "BARTENDER",
+      "gender": "NA",
+      "line": "Where you headed?",
+      "wordCount": 3
+    },
+    {
+      "id": 337,
+      "index": 337,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "I don't know.",
+      "wordCount": 3
+    },
+    {
+      "id": 338,
+      "index": 338,
+      "character": "VALET",
+      "gender": "NA",
+      "line": "Sir? Are the keys in it?",
+      "wordCount": 6
+    },
+    {
+      "id": 339,
+      "index": 339,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Come on, come on!",
+      "wordCount": 4
+    },
+    {
+      "id": 340,
+      "index": 340,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "We have to go. Final Shooting - 8/23/2016 59.",
+      "wordCount": 9
+    },
+    {
+      "id": 341,
+      "index": 341,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "I'm so sorry. Oh God...",
+      "wordCount": 5
+    },
+    {
+      "id": 342,
+      "index": 342,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Hey! Now!",
+      "wordCount": 2
+    },
+    {
+      "id": 343,
+      "index": 343,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "This way!",
+      "wordCount": 2
+    },
+    {
+      "id": 344,
+      "index": 344,
+      "character": "PIERCE",
+      "gender": "Male",
+      "line": "Get the bodies.",
+      "wordCount": 3
+    },
+    {
+      "id": 345,
+      "index": 345,
+      "character": "REPORTER",
+      "gender": "NA",
+      "line": "...some noting a similarity to the incident last year in Westchester, New York that left 50 dead, and twice that many injured--",
+      "wordCount": 22
+    },
+    {
+      "id": 346,
+      "index": 346,
+      "character": "CLICK. CLACK. CLICK.",
+      "gender": "NA",
+      "line": "Logan's eyes flit to Laura playing with the door lock.",
+      "wordCount": 10
+    },
+    {
+      "id": 347,
+      "index": 347,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Knock it off.",
+      "wordCount": 3
+    },
+    {
+      "id": 348,
+      "index": 348,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "I said knock it off.",
+      "wordCount": 5
+    },
+    {
+      "id": 349,
+      "index": 349,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "She's a child, Logan. In point of fact she's--",
+      "wordCount": 9
+    },
+    {
+      "id": 350,
+      "index": 350,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "How long has it been since you took your meds? Charles. How long?",
+      "wordCount": 13
+    },
+    {
+      "id": 351,
+      "index": 351,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "...I don't know. Two days. Final Shooting - 8/23/2016 61.",
+      "wordCount": 10
+    },
+    {
+      "id": 352,
+      "index": 352,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "You saw what happened last night. If that shit had gone on longer, everyone at that casino--",
+      "wordCount": 17
+    },
+    {
+      "id": 353,
+      "index": 353,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "I did what I had to do to stop those men from taking Laura.",
+      "wordCount": 14
+    },
+    {
+      "id": 354,
+      "index": 354,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "You didn't do anything. You freaked out and had a fucking seizure.",
+      "wordCount": 12
+    },
+    {
+      "id": 355,
+      "index": 355,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "I guess you prefer me pharmaceutically castrated, rambling on like some lunatic. So much easier on you.",
+      "wordCount": 17
+    },
+    {
+      "id": 356,
+      "index": 356,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Easier? There's nothing easy about you.",
+      "wordCount": 6
+    },
+    {
+      "id": 357,
+      "index": 357,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "Yes, Yes please, be like the rest of the world and blame someone else for your boring shit.",
+      "wordCount": 18
+    },
+    {
+      "id": 358,
+      "index": 358,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Yeah, I know, Pop, I'm such a giant DISAPPOINTMENT--",
+      "wordCount": 9
+    },
+    {
+      "id": 359,
+      "index": 359,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "Self loathing. Anger. Disdain. Cowardice. Oh yes. Your peaks and your valleys. Mostly valleys-- it's all so Goddamn boring.",
+      "wordCount": 19
+    },
+    {
+      "id": 360,
+      "index": 360,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "You honestly derive no sense of purpose from what we're doing?",
+      "wordCount": 11
+    },
+    {
+      "id": 361,
+      "index": 361,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "What are we doing?!",
+      "wordCount": 4
+    },
+    {
+      "id": 362,
+      "index": 362,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "There is a young mutant. Sitting in our car. Final Shooting - 8/23/2016 62.",
+      "wordCount": 14
+    },
+    {
+      "id": 363,
+      "index": 363,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "And where we are taking her, there are more of them. Does that mean nothing to you?",
+      "wordCount": 17
+    },
+    {
+      "id": 364,
+      "index": 364,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Yes. It means nothing to me. Especially since Nurse Gabriela made all this Eden shit up from fucking comic books.",
+      "wordCount": 20
+    },
+    {
+      "id": 365,
+      "index": 365,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "What are you talking about?",
+      "wordCount": 5
+    },
+    {
+      "id": 366,
+      "index": 366,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Give those to him. Take out two and give them to him.",
+      "wordCount": 12
+    },
+    {
+      "id": 367,
+      "index": 367,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "What do you mean--",
+      "wordCount": 4
+    },
+    {
+      "id": 368,
+      "index": 368,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Now. For fuck's sake. Take the pills. Now.",
+      "wordCount": 8
+    },
+    {
+      "id": 369,
+      "index": 369,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "Logan.",
+      "wordCount": 1
+    },
+    {
+      "id": 370,
+      "index": 370,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Take them. Give him the pills.",
+      "wordCount": 6
+    },
+    {
+      "id": 371,
+      "index": 371,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "LOGAN --",
+      "wordCount": 2
+    },
+    {
+      "id": 372,
+      "index": 372,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "--GIVE HIM THE FUCKING PILLS!",
+      "wordCount": 5
+    },
+    {
+      "id": 373,
+      "index": 373,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "Happy?",
+      "wordCount": 1
+    },
+    {
+      "id": 374,
+      "index": 374,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Cop. Fuck. Final Shooting - 8/23/2016 63.",
+      "wordCount": 7
+    },
+    {
+      "id": 375,
+      "index": 375,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "What does he want?",
+      "wordCount": 4
+    },
+    {
+      "id": 376,
+      "index": 376,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "She. I might have been speeding.",
+      "wordCount": 6
+    },
+    {
+      "id": 377,
+      "index": 377,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "Are you sure that's all it is?",
+      "wordCount": 7
+    },
+    {
+      "id": 378,
+      "index": 378,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "If it wasn't, there'd be a lot more than her behind us. I need you to please try and not kill this lady. Okay?",
+      "wordCount": 24
+    },
+    {
+      "id": 379,
+      "index": 379,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Was I going a mite fast, officer?",
+      "wordCount": 7
+    },
+    {
+      "id": 380,
+      "index": 380,
+      "character": "TROOPER",
+      "gender": "NA",
+      "line": "License and registration, please.",
+      "wordCount": 4
+    },
+    {
+      "id": 381,
+      "index": 381,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "I just bought it, but I-- here--",
+      "wordCount": 7
+    },
+    {
+      "id": 382,
+      "index": 382,
+      "character": "TROOPER",
+      "gender": "NA",
+      "line": "Any idea just how \"mite\" fast you were going, Mr... Howlett?",
+      "wordCount": 11
+    },
+    {
+      "id": 383,
+      "index": 383,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Seventy? Ish?",
+      "wordCount": 2
+    },
+    {
+      "id": 384,
+      "index": 384,
+      "character": "TROOPER",
+      "gender": "NA",
+      "line": "Try ninety six. Ish.",
+      "wordCount": 4
+    },
+    {
+      "id": 385,
+      "index": 385,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Shit. I didn't think this thing could make that. Final Shooting - 8/23/2016 64.",
+      "wordCount": 14
+    },
+    {
+      "id": 386,
+      "index": 386,
+      "character": "TROOPER",
+      "gender": "NA",
+      "line": "You're not from round here. It's harvest season. You need to be more careful. This your daughter?",
+      "wordCount": 17
+    },
+    {
+      "id": 387,
+      "index": 387,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Yes, ma'am.",
+      "wordCount": 2
+    },
+    {
+      "id": 388,
+      "index": 388,
+      "character": "TROOPER",
+      "gender": "NA",
+      "line": "What's your name, honey?",
+      "wordCount": 4
+    },
+    {
+      "id": 389,
+      "index": 389,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "She doesn't speak.",
+      "wordCount": 3
+    },
+    {
+      "id": 390,
+      "index": 390,
+      "character": "TROOPER",
+      "gender": "NA",
+      "line": "But she does have a name.",
+      "wordCount": 6
+    },
+    {
+      "id": 391,
+      "index": 391,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Laura.",
+      "wordCount": 1
+    },
+    {
+      "id": 392,
+      "index": 392,
+      "character": "TROOPER",
+      "gender": "NA",
+      "line": "That your name, honey? And is this man your father?",
+      "wordCount": 10
+    },
+    {
+      "id": 393,
+      "index": 393,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "My son has a bit of a lead foot. I try to tell him that Mount Rushmore will still be there and just as beautiful a day from now.",
+      "wordCount": 29
+    },
+    {
+      "id": 394,
+      "index": 394,
+      "character": "TROOPER",
+      "gender": "NA",
+      "line": "You got a nice family. Try to keep `em safe, James.",
+      "wordCount": 11
+    },
+    {
+      "id": 395,
+      "index": 395,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "HEY--",
+      "wordCount": 1
+    },
+    {
+      "id": 396,
+      "index": 396,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "IN YOUR OWN LANE, ASSHOLE!",
+      "wordCount": 5
+    },
+    {
+      "id": 397,
+      "index": 397,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "Language, Logan. And you're screaming at a machine.",
+      "wordCount": 8
+    },
+    {
+      "id": 398,
+      "index": 398,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "What, she can gut a man with her feet, but she can't hear naughty words?",
+      "wordCount": 15
+    },
+    {
+      "id": 399,
+      "index": 399,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "She can learn to be better.",
+      "wordCount": 6
+    },
+    {
+      "id": 400,
+      "index": 400,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "You mean, better than me.",
+      "wordCount": 5
+    },
+    {
+      "id": 401,
+      "index": 401,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "Actually, yes. And by the way, Laura's foot claws are an obvious result of her gender. In a pride of lions, females are caregivers of the young and hunters of the pride, they have front claws to hunt and foot claws for defense. They use the foot claw to strike the belly or bladder of the attacker, thus ensuring their escape and survival.",
+      "wordCount": 63
+    },
+    {
+      "id": 402,
+      "index": 402,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Shit. Oh well.",
+      "wordCount": 3
+    },
+    {
+      "id": 403,
+      "index": 403,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "We have to help them.",
+      "wordCount": 5
+    },
+    {
+      "id": 404,
+      "index": 404,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "We have to keep moving. Someone will come along.",
+      "wordCount": 9
+    },
+    {
+      "id": 405,
+      "index": 405,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "Someone has come along.",
+      "wordCount": 4
+    },
+    {
+      "id": 406,
+      "index": 406,
+      "character": "MOTHER",
+      "gender": "NA",
+      "line": "Nate! Get off the road!",
+      "wordCount": 5
+    },
+    {
+      "id": 407,
+      "index": 407,
+      "character": "MOTHER",
+      "gender": "NA",
+      "line": "Nate!",
+      "wordCount": 1
+    },
+    {
+      "id": 408,
+      "index": 408,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Can I give you a hand?",
+      "wordCount": 6
+    },
+    {
+      "id": 409,
+      "index": 409,
+      "character": "FATHER",
+      "gender": "NA",
+      "line": "Sure. Thank you.",
+      "wordCount": 3
+    },
+    {
+      "id": 410,
+      "index": 410,
+      "character": "MOTHER",
+      "gender": "NA",
+      "line": "Nate.",
+      "wordCount": 1
+    },
+    {
+      "id": 411,
+      "index": 411,
+      "character": "NATE",
+      "gender": "Male",
+      "line": "What.",
+      "wordCount": 1
+    },
+    {
+      "id": 412,
+      "index": 412,
+      "character": "FATHER",
+      "gender": "NA",
+      "line": "I appreciate this. Thank you. Will Munson.",
+      "wordCount": 7
+    },
+    {
+      "id": 413,
+      "index": 413,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "James. Howlett. Final Shooting - 8/23/2016 69.",
+      "wordCount": 7
+    },
+    {
+      "id": 414,
+      "index": 414,
+      "character": "MOTHER",
+      "gender": "NA",
+      "line": "Thank you so much for your help, sir. I'm Kathryn, and this our son, Nate.",
+      "wordCount": 15
+    },
+    {
+      "id": 415,
+      "index": 415,
+      "character": "MOTHER",
+      "gender": "NA",
+      "line": "Is that your daughter?",
+      "wordCount": 4
+    },
+    {
+      "id": 416,
+      "index": 416,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Yeah. That's Laura. And that's my... dad. Chuck.",
+      "wordCount": 8
+    },
+    {
+      "id": 417,
+      "index": 417,
+      "character": "WILL",
+      "gender": "Male",
+      "line": "Where you all headed?",
+      "wordCount": 4
+    },
+    {
+      "id": 418,
+      "index": 418,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "North.",
+      "wordCount": 1
+    },
+    {
+      "id": 419,
+      "index": 419,
+      "character": "KATHRYN",
+      "gender": "Female",
+      "line": "Can we at least give the three of you a decent meal, show our appreciation? We don't live far from here.",
+      "wordCount": 21
+    },
+    {
+      "id": 420,
+      "index": 420,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "That would be lovely.",
+      "wordCount": 4
+    },
+    {
+      "id": 421,
+      "index": 421,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "No, thank you, we really can't-- Laura, get back here.",
+      "wordCount": 10
+    },
+    {
+      "id": 422,
+      "index": 422,
+      "character": "KATHRYN",
+      "gender": "Female",
+      "line": "Please. It's the least we can do. And you're going to have to stop for dinner somewhere. Final Shooting - 8/23/2016 70.",
+      "wordCount": 22
+    },
+    {
+      "id": 423,
+      "index": 423,
+      "character": "RED-HAIRED MAN",
+      "gender": "NA",
+      "line": "In the 1950's, in an effort to increase honey production in the tropics, a Brazilian research team cross-bred the European Honey Bee, Apis mellifera, the classic model, and a heartier stronger African variety, Apis mellifera capensis.",
+      "wordCount": 36
+    },
+    {
+      "id": 424,
+      "index": 424,
+      "character": "RED-HAIRED MAN",
+      "gender": "NA",
+      "line": "These hybrid bees were stronger and aggressive to be sure, but despite their fortitude, they made no honey at all, nor assist in pollination. In the lab, they did little, in fact, besides killing other bees.",
+      "wordCount": 36
+    },
+    {
+      "id": 425,
+      "index": 425,
+      "character": "RED-HAIRED MAN",
+      "gender": "NA",
+      "line": "The researchers wanted to help mankind, but instead, they created monsters. And before they could correct their error, a few escaped to the wild. And these bees formed a swarm and spread across Brazil and multiplied, moving up the continent, killing men women and children. Even worse, these killer hybrids threatened the viability of the worldwide bee population and subsequently, human survival. Oh, the price of progress.",
+      "wordCount": 67
+    },
+    {
+      "id": 426,
+      "index": 426,
+      "character": "RED-HAIRED MAN",
+      "gender": "NA",
+      "line": "My colleague tells me you've been somewhat resistant. He believes you're dispensing delayed information, allowing your friends to stay one step ahead. Final Shooting - 8/23/2016 71.",
+      "wordCount": 27
+    },
+    {
+      "id": 427,
+      "index": 427,
+      "character": "CALIBAN",
+      "gender": "Male",
+      "line": "Please let me be...",
+      "wordCount": 4
+    },
+    {
+      "id": 428,
+      "index": 428,
+      "character": "RED-HAIRED MAN",
+      "gender": "NA",
+      "line": "I'm offering an opportunity, Caliban. To redeem yourself, to protect the world, and, in the process, save your friends.",
+      "wordCount": 19
+    },
+    {
+      "id": 429,
+      "index": 429,
+      "character": "RED-HAIRED MAN",
+      "gender": "NA",
+      "line": "The girl is a rather small price to pay for that. Unlike you, she's not pure. She wasn't made by nature. She's a mistake of my own. A killer bee who's escaped from the hive. And I need to get her back before she stings.",
+      "wordCount": 45
+    },
+    {
+      "id": 430,
+      "index": 430,
+      "character": "CALIBAN",
+      "gender": "Male",
+      "line": "What do you want from me?! I did what I could and your human toaster ovens fucked it all up.",
+      "wordCount": 20
+    },
+    {
+      "id": 431,
+      "index": 431,
+      "character": "RED-HAIRED MAN",
+      "gender": "NA",
+      "line": "I agree the Reavers have not been effective. I'm bringing new tools to bear. But I still need someone to point us in the right direction.",
+      "wordCount": 26
+    },
+    {
+      "id": 432,
+      "index": 432,
+      "character": "CALIBAN",
+      "gender": "Male",
+      "line": "No, no, no. I can't keep--",
+      "wordCount": 6
+    },
+    {
+      "id": 433,
+      "index": 433,
+      "character": "RED-HAIRED MAN",
+      "gender": "NA",
+      "line": "Breathe. Breathe. What does he have, the old man, your friend? Alzheimer's? ALS? A degenerative brain disease in the world's most dangerous brain. What a combo.",
+      "wordCount": 26
+    },
+    {
+      "id": 434,
+      "index": 434,
+      "character": "DR. RICE",
+      "gender": "Male",
+      "line": "You pay a high price for your gifts, my friend. Too bad you and I didn't meet years ago. I could have saved you some pain. I have something for your blisters. My name is Dr. Rice, by the way. Final Shooting - 8/23/2016 72.",
+      "wordCount": 45
+    },
+    {
+      "id": 435,
+      "index": 435,
+      "character": "DR. RICE",
+      "gender": "Male",
+      "line": "You can call me Zander if you like.",
+      "wordCount": 8
+    },
+    {
+      "id": 436,
+      "index": 436,
+      "character": "NATE",
+      "gender": "Male",
+      "line": "We thank you, Lord, for this food... and we also thank you, Lord, for sending our new friends, the Howletts to our aid today. Amen.",
+      "wordCount": 25
+    },
+    {
+      "id": 437,
+      "index": 437,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "Slow down, child.",
+      "wordCount": 3
+    },
+    {
+      "id": 438,
+      "index": 438,
+      "character": "KATHRYN",
+      "gender": "Female",
+      "line": "There's plenty more if you want.",
+      "wordCount": 6
+    },
+    {
+      "id": 439,
+      "index": 439,
+      "character": "WILL",
+      "gender": "Male",
+      "line": "Where are you all heading?",
+      "wordCount": 5
+    },
+    {
+      "id": 440,
+      "index": 440,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Oregon.",
+      "wordCount": 1
+    },
+    {
+      "id": 441,
+      "index": 441,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "South Dakota.",
+      "wordCount": 2
+    },
+    {
+      "id": 442,
+      "index": 442,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "Oregon, then South Dakota.",
+      "wordCount": 4
+    },
+    {
+      "id": 443,
+      "index": 443,
+      "character": "KATHRYN",
+      "gender": "Female",
+      "line": "Vacation?",
+      "wordCount": 1
+    },
+    {
+      "id": 444,
+      "index": 444,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "Yes. Long overdue. We're city folk. Always wanted to take a road trip, see the country. Meet the people who live in it. Final Shooting - 8/23/2016 73.",
+      "wordCount": 28
+    },
+    {
+      "id": 445,
+      "index": 445,
+      "character": "KATHRYN",
+      "gender": "Female",
+      "line": "That sounds lovely. I've been trying to get Will here to take a vacation for years now.",
+      "wordCount": 17
+    },
+    {
+      "id": 446,
+      "index": 446,
+      "character": "WILL",
+      "gender": "Male",
+      "line": "And if we go out traipsing around the country, who's gonna take care of this place?",
+      "wordCount": 16
+    },
+    {
+      "id": 447,
+      "index": 447,
+      "character": "KATHRYN",
+      "gender": "Female",
+      "line": "Exactly. I say, let it go.",
+      "wordCount": 6
+    },
+    {
+      "id": 448,
+      "index": 448,
+      "character": "WILL",
+      "gender": "Male",
+      "line": "And live off what?",
+      "wordCount": 4
+    },
+    {
+      "id": 449,
+      "index": 449,
+      "character": "KATHRYN",
+      "gender": "Female",
+      "line": "The Lord will provide.",
+      "wordCount": 4
+    },
+    {
+      "id": 450,
+      "index": 450,
+      "character": "WILL",
+      "gender": "Male",
+      "line": "Well, I'm still waiting for him to provide me with a new thresher.",
+      "wordCount": 13
+    },
+    {
+      "id": 451,
+      "index": 451,
+      "character": "KATHRYN",
+      "gender": "Female",
+      "line": "All the same, I'd love to travel someday.",
+      "wordCount": 8
+    },
+    {
+      "id": 452,
+      "index": 452,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "And I bet you will.",
+      "wordCount": 5
+    },
+    {
+      "id": 453,
+      "index": 453,
+      "character": "NATE",
+      "gender": "Male",
+      "line": "I could drop out of school.",
+      "wordCount": 6
+    },
+    {
+      "id": 454,
+      "index": 454,
+      "character": "KATHRYN",
+      "gender": "Female",
+      "line": "Let's not go that far.",
+      "wordCount": 5
+    },
+    {
+      "id": 455,
+      "index": 455,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "Kathryn, that was easily the best meatloaf I've ever had.",
+      "wordCount": 10
+    },
+    {
+      "id": 456,
+      "index": 456,
+      "character": "KATHRYN",
+      "gender": "Female",
+      "line": "Thank you, Chuck. Final Shooting - 8/23/2016 74.",
+      "wordCount": 8
+    },
+    {
+      "id": 457,
+      "index": 457,
+      "character": "KATHRYN",
+      "gender": "Female",
+      "line": "What about you, James. Are you married?",
+      "wordCount": 7
+    },
+    {
+      "id": 458,
+      "index": 458,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Oh. I uh, I--",
+      "wordCount": 4
+    },
+    {
+      "id": 459,
+      "index": 459,
+      "character": "WILL",
+      "gender": "Male",
+      "line": "Kathryn.",
+      "wordCount": 1
+    },
+    {
+      "id": 460,
+      "index": 460,
+      "character": "KATHRYN",
+      "gender": "Female",
+      "line": "What? It's a natural thing to ask.",
+      "wordCount": 7
+    },
+    {
+      "id": 461,
+      "index": 461,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "He was. She passed.",
+      "wordCount": 4
+    },
+    {
+      "id": 462,
+      "index": 462,
+      "character": "KATHRYN",
+      "gender": "Female",
+      "line": "Oh, I'm so sorry.",
+      "wordCount": 4
+    },
+    {
+      "id": 463,
+      "index": 463,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "He killed her.",
+      "wordCount": 3
+    },
+    {
+      "id": 464,
+      "index": 464,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Ma'am, I can't thank you enough for dinner. But we have a long drive ahead of us.",
+      "wordCount": 17
+    },
+    {
+      "id": 465,
+      "index": 465,
+      "character": "KATHRYN",
+      "gender": "Female",
+      "line": "You need to rest, don't you?",
+      "wordCount": 6
+    },
+    {
+      "id": 466,
+      "index": 466,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "We'll find a motel.",
+      "wordCount": 4
+    },
+    {
+      "id": 467,
+      "index": 467,
+      "character": "WILL",
+      "gender": "Male",
+      "line": "Nearest is two hours from here and it's not very-- Final Shooting - 8/23/2016 75.",
+      "wordCount": 15
+    },
+    {
+      "id": 468,
+      "index": 468,
+      "character": "KATHRYN",
+      "gender": "Female",
+      "line": "They're gonna stay here. We have a perfectly fine room upstairs for your daughter and father and you can sleep in the living room on the convertible.",
+      "wordCount": 27
+    },
+    {
+      "id": 469,
+      "index": 469,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Kathryn. That's very nice of you, but we really should hit the--",
+      "wordCount": 12
+    },
+    {
+      "id": 470,
+      "index": 470,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "We could leave first thing in the morning. Crack of dawn as it were.",
+      "wordCount": 14
+    },
+    {
+      "id": 471,
+      "index": 471,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Let's go wash up, Pop.",
+      "wordCount": 5
+    },
+    {
+      "id": 472,
+      "index": 472,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "--two days on the road with one meal and hardly any sleep. She's eleven and I'm fucking ninety.",
+      "wordCount": 18
+    },
+    {
+      "id": 473,
+      "index": 473,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "That's a hundred and one reasons to keep moving.",
+      "wordCount": 9
+    },
+    {
+      "id": 474,
+      "index": 474,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "I'm not a box of avocados.",
+      "wordCount": 6
+    },
+    {
+      "id": 475,
+      "index": 475,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "And then what. We stay the night and then what?",
+      "wordCount": 10
+    },
+    {
+      "id": 476,
+      "index": 476,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "We take Laura to her friends in Eden and then... then we buy that Sunseeker.",
+      "wordCount": 15
+    },
+    {
+      "id": 477,
+      "index": 477,
+      "character": "WILL",
+      "gender": "Male",
+      "line": "Goddamnit. Final Shooting - 8/23/2016 76.",
+      "wordCount": 6
+    },
+    {
+      "id": 478,
+      "index": 478,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "What is it?",
+      "wordCount": 3
+    },
+    {
+      "id": 479,
+      "index": 479,
+      "character": "WILL",
+      "gender": "Male",
+      "line": "Nate, go fill up the tub before we lose pressure.",
+      "wordCount": 10
+    },
+    {
+      "id": 480,
+      "index": 480,
+      "character": "KATHRYN",
+      "gender": "Female",
+      "line": "They shut it off again.",
+      "wordCount": 5
+    },
+    {
+      "id": 481,
+      "index": 481,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Who's \"they?\"",
+      "wordCount": 2
+    },
+    {
+      "id": 482,
+      "index": 482,
+      "character": "KATHRYN",
+      "gender": "Female",
+      "line": "You best deal with it now.",
+      "wordCount": 6
+    },
+    {
+      "id": 483,
+      "index": 483,
+      "character": "WILL",
+      "gender": "Male",
+      "line": "It can wait till morning. We got rain last night.",
+      "wordCount": 10
+    },
+    {
+      "id": 484,
+      "index": 484,
+      "character": "KATHRYN",
+      "gender": "Female",
+      "line": "Will. We have three guests in this house and sink full of dishes.",
+      "wordCount": 13
+    },
+    {
+      "id": 485,
+      "index": 485,
+      "character": "WILL",
+      "gender": "Male",
+      "line": "Alright. You're right. The pump station that supplies us is a mile and a half from here. Sometimes it gets itself shut off.",
+      "wordCount": 23
+    },
+    {
+      "id": 486,
+      "index": 486,
+      "character": "NATE",
+      "gender": "Male",
+      "line": "By assholes.",
+      "wordCount": 2
+    },
+    {
+      "id": 487,
+      "index": 487,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "My son can go with you. Final Shooting - 8/23/2016 77.",
+      "wordCount": 11
+    },
+    {
+      "id": 488,
+      "index": 488,
+      "character": "WILL",
+      "gender": "Male",
+      "line": "Oh, no. Thank you. But these men who did this, they can be--",
+      "wordCount": 13
+    },
+    {
+      "id": 489,
+      "index": 489,
+      "character": "NATE",
+      "gender": "Male",
+      "line": "I'll come.",
+      "wordCount": 2
+    },
+    {
+      "id": 490,
+      "index": 490,
+      "character": "KATHRYN",
+      "gender": "Female",
+      "line": "No. You have homework.",
+      "wordCount": 4
+    },
+    {
+      "id": 491,
+      "index": 491,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "I'll go.",
+      "wordCount": 2
+    },
+    {
+      "id": 492,
+      "index": 492,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Just let me get my dad... settled.",
+      "wordCount": 7
+    },
+    {
+      "id": 493,
+      "index": 493,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "There's a TV in here.",
+      "wordCount": 5
+    },
+    {
+      "id": 494,
+      "index": 494,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "I'm fine.",
+      "wordCount": 2
+    },
+    {
+      "id": 495,
+      "index": 495,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Okay... Get some rest.",
+      "wordCount": 4
+    },
+    {
+      "id": 496,
+      "index": 496,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "You know, Logan. This is what life looks like. A house, people who love each other. A safe place. Take a moment and feel it. You still have time. Final Shooting - 8/23/2016 78.",
+      "wordCount": 34
+    },
+    {
+      "id": 497,
+      "index": 497,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Charles. The world is not the same as it was. We're taking a risk here. And where we're going. Eden. It doesn't exist. Her nurse got it from a comic book.",
+      "wordCount": 31
+    },
+    {
+      "id": 498,
+      "index": 498,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "You just need to understand-- it's not real.",
+      "wordCount": 8
+    },
+    {
+      "id": 499,
+      "index": 499,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "It is for Laura.",
+      "wordCount": 4
+    },
+    {
+      "id": 500,
+      "index": 500,
+      "character": "WILL",
+      "gender": "Male",
+      "line": "Don't worry. We won't need it.",
+      "wordCount": 6
+    },
+    {
+      "id": 501,
+      "index": 501,
+      "character": "WILL",
+      "gender": "Male",
+      "line": "Canewood Beverage bought up everything out here. Except us. When we wouldn't sell, they tried eminent domain. Then screwing with our water. Couple months ago, someone poisoned our dogs.",
+      "wordCount": 29
+    },
+    {
+      "id": 502,
+      "index": 502,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "So today, out on the highway--",
+      "wordCount": 6
+    },
+    {
+      "id": 503,
+      "index": 503,
+      "character": "WILL",
+      "gender": "Male",
+      "line": "Who knows. Maybe.",
+      "wordCount": 3
+    },
+    {
+      "id": 504,
+      "index": 504,
+      "character": "WILL",
+      "gender": "Male",
+      "line": "They're like dinosaurs. Twenty ton bodies with little tiny brains. Final Shooting - 8/23/2016 79.",
+      "wordCount": 15
+    },
+    {
+      "id": 505,
+      "index": 505,
+      "character": "WILL",
+      "gender": "Male",
+      "line": "They work day and night, no drivers, shucking their cloned up super-corn. Bears fruit in half the time. Taste like shit, though.",
+      "wordCount": 22
+    },
+    {
+      "id": 506,
+      "index": 506,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "So why do people eat it?",
+      "wordCount": 6
+    },
+    {
+      "id": 507,
+      "index": 507,
+      "character": "WILL",
+      "gender": "Male",
+      "line": "They don't. They drink it. Corn syrup. Its in all those drugged up drinks everyone's having nowadays-- to stay awake, feel strong, cheer up, sexy, whatever. Used to be a time when a bad day was just a bad day, you know?",
+      "wordCount": 42
+    },
+    {
+      "id": 508,
+      "index": 508,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Mine still are.",
+      "wordCount": 3
+    },
+    {
+      "id": 509,
+      "index": 509,
+      "character": "WILL",
+      "gender": "Male",
+      "line": "Looks like we'll be here a while.",
+      "wordCount": 7
+    },
+    {
+      "id": 510,
+      "index": 510,
+      "character": "NATE",
+      "gender": "Male",
+      "line": "I'm not too good at math.",
+      "wordCount": 6
+    },
+    {
+      "id": 511,
+      "index": 511,
+      "character": "NATE",
+      "gender": "Male",
+      "line": "Those two are for breakaway roping. Those for barrel racing. Those up there are for pole bending. But all second, third place. I'm not so good at it. My dad makes me do it.",
+      "wordCount": 34
+    },
+    {
+      "id": 512,
+      "index": 512,
+      "character": "NATE",
+      "gender": "Male",
+      "line": "You wanna listen?",
+      "wordCount": 3
+    },
+    {
+      "id": 513,
+      "index": 513,
+      "character": "NATE",
+      "gender": "Male",
+      "line": "It's called \"Devil's Whisper\". It's by Raury.",
+      "wordCount": 7
+    },
+    {
+      "id": 514,
+      "index": 514,
+      "character": "NATE",
+      "gender": "Male",
+      "line": "Here. Take it for tonight. I'll get it back in the morning.",
+      "wordCount": 12
+    },
+    {
+      "id": 515,
+      "index": 515,
+      "character": "NATE",
+      "gender": "Male",
+      "line": "I gotta do my homework. Good-night.",
+      "wordCount": 6
+    },
+    {
+      "id": 516,
+      "index": 516,
+      "character": "NATE",
+      "gender": "Male",
+      "line": "Hey, what are you--",
+      "wordCount": 4
+    },
+    {
+      "id": 517,
+      "index": 517,
+      "character": "NATE",
+      "gender": "Male",
+      "line": "How did you do that? Final Shooting - 8/23/2016 81.",
+      "wordCount": 10
+    },
+    {
+      "id": 518,
+      "index": 518,
+      "character": "WILL",
+      "gender": "Male",
+      "line": "How long's your girl been that way? Mute.",
+      "wordCount": 8
+    },
+    {
+      "id": 519,
+      "index": 519,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Since... well.. the beginning.",
+      "wordCount": 4
+    },
+    {
+      "id": 520,
+      "index": 520,
+      "character": "WILL",
+      "gender": "Male",
+      "line": "Some ways I envy you. They get to be Nate's age, the nonsense that comes out their mouth. Makes you question the point of it all.",
+      "wordCount": 26
+    },
+    {
+      "id": 521,
+      "index": 521,
+      "character": "WILL",
+      "gender": "Male",
+      "line": "Hard thing, fatherhood. Never ends.",
+      "wordCount": 5
+    },
+    {
+      "id": 522,
+      "index": 522,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "You're a lucky man.",
+      "wordCount": 4
+    },
+    {
+      "id": 523,
+      "index": 523,
+      "character": "WILL",
+      "gender": "Male",
+      "line": "I guess I am.",
+      "wordCount": 4
+    },
+    {
+      "id": 524,
+      "index": 524,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "That should hold it.",
+      "wordCount": 4
+    },
+    {
+      "id": 525,
+      "index": 525,
+      "character": "WILL",
+      "gender": "Male",
+      "line": "Until the next time. Final Shooting - 8/23/2016 82.",
+      "wordCount": 9
+    },
+    {
+      "id": 526,
+      "index": 526,
+      "character": "WILL",
+      "gender": "Male",
+      "line": "Don't know why I bother.",
+      "wordCount": 5
+    },
+    {
+      "id": 527,
+      "index": 527,
+      "character": "WILL",
+      "gender": "Male",
+      "line": "Stay here, James. I'll handle this.",
+      "wordCount": 6
+    },
+    {
+      "id": 528,
+      "index": 528,
+      "character": "JACKSON",
+      "gender": "NA",
+      "line": "Evening, Mr. Munson.",
+      "wordCount": 3
+    },
+    {
+      "id": 529,
+      "index": 529,
+      "character": "JACKSON",
+      "gender": "NA",
+      "line": "What brings you out this way?",
+      "wordCount": 6
+    },
+    {
+      "id": 530,
+      "index": 530,
+      "character": "WILL",
+      "gender": "Male",
+      "line": "Why don't you ask your boys?",
+      "wordCount": 6
+    },
+    {
+      "id": 531,
+      "index": 531,
+      "character": "JACKSON",
+      "gender": "NA",
+      "line": "You understand, you're trespassing right now, right?",
+      "wordCount": 7
+    },
+    {
+      "id": 532,
+      "index": 532,
+      "character": "WILL",
+      "gender": "Male",
+      "line": "I have an easement with the previous owner of your property.",
+      "wordCount": 11
+    },
+    {
+      "id": 533,
+      "index": 533,
+      "character": "JACKSON",
+      "gender": "NA",
+      "line": "Previous being the operative word. Who's this?",
+      "wordCount": 7
+    },
+    {
+      "id": 534,
+      "index": 534,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "I'm nobody. Just a guy telling you to get back in your nice truck and play Okie dickhead somewhere else.",
+      "wordCount": 20
+    },
+    {
+      "id": 535,
+      "index": 535,
+      "character": "JACKSON",
+      "gender": "NA",
+      "line": "You hire some muscle, Mr. Munson? Final Shooting - 8/23/2016 83.",
+      "wordCount": 11
+    },
+    {
+      "id": 536,
+      "index": 536,
+      "character": "WILL",
+      "gender": "Male",
+      "line": "He's a friend of mine.",
+      "wordCount": 5
+    },
+    {
+      "id": 537,
+      "index": 537,
+      "character": "JACKSON",
+      "gender": "NA",
+      "line": "A friend with a big mouth.",
+      "wordCount": 6
+    },
+    {
+      "id": 538,
+      "index": 538,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "I hear that a lot.",
+      "wordCount": 5
+    },
+    {
+      "id": 539,
+      "index": 539,
+      "character": "JACKSON",
+      "gender": "NA",
+      "line": "Then you probably hear this, too.",
+      "wordCount": 6
+    },
+    {
+      "id": 540,
+      "index": 540,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "More than I'd like.",
+      "wordCount": 4
+    },
+    {
+      "id": 541,
+      "index": 541,
+      "character": "JACKSON",
+      "gender": "NA",
+      "line": "Then you know the drill. I'm gonna count to three and you are gonna start walking away.",
+      "wordCount": 17
+    },
+    {
+      "id": 542,
+      "index": 542,
+      "character": "WILL",
+      "gender": "Male",
+      "line": "I got rights to this water --",
+      "wordCount": 7
+    },
+    {
+      "id": 543,
+      "index": 543,
+      "character": "JACKSON",
+      "gender": "NA",
+      "line": "One.",
+      "wordCount": 1
+    },
+    {
+      "id": 544,
+      "index": 544,
+      "character": "WILL",
+      "gender": "Male",
+      "line": "And I have a lawyer now--",
+      "wordCount": 6
+    },
+    {
+      "id": 545,
+      "index": 545,
+      "character": "JACKSON",
+      "gender": "NA",
+      "line": "TWO--",
+      "wordCount": 1
+    },
+    {
+      "id": 546,
+      "index": 546,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Three.",
+      "wordCount": 1
+    },
+    {
+      "id": 547,
+      "index": 547,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "You all know the drill. Go. Final Shooting - 8/23/2016 84.",
+      "wordCount": 11
+    },
+    {
+      "id": 548,
+      "index": 548,
+      "character": "WILL",
+      "gender": "Male",
+      "line": "You've had training.",
+      "wordCount": 3
+    },
+    {
+      "id": 549,
+      "index": 549,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Some.",
+      "wordCount": 1
+    },
+    {
+      "id": 550,
+      "index": 550,
+      "character": "WILL",
+      "gender": "Male",
+      "line": "Wish I had you around all the time. Sure you don't want to stay?",
+      "wordCount": 14
+    },
+    {
+      "id": 551,
+      "index": 551,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "No, but I'll take a drink if you got one.",
+      "wordCount": 10
+    },
+    {
+      "id": 552,
+      "index": 552,
+      "character": "WILL",
+      "gender": "Male",
+      "line": "Kathryn doesn't like booze in the house.",
+      "wordCount": 7
+    },
+    {
+      "id": 553,
+      "index": 553,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Maybe I got something in the truck.",
+      "wordCount": 7
+    },
+    {
+      "id": 554,
+      "index": 554,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "...Don't wake her yet. Let her have another hour.",
+      "wordCount": 9
+    },
+    {
+      "id": 555,
+      "index": 555,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "...This was, without a doubt, the most splendid night I've had in a long time. ...but then...",
+      "wordCount": 17
+    },
+    {
+      "id": 556,
+      "index": 556,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "...I don't deserve it, do I? ...I did something... unspeakable.",
+      "wordCount": 10
+    },
+    {
+      "id": 557,
+      "index": 557,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "I remembered what happened in Westchester. This was not the first time I've hurt people.",
+      "wordCount": 15
+    },
+    {
+      "id": 558,
+      "index": 558,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "I think I finally understand you, Logan... ...the burden you carry...",
+      "wordCount": 11
+    },
+    {
+      "id": 559,
+      "index": 559,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "Logan...",
+      "wordCount": 1
+    },
+    {
+      "id": 560,
+      "index": 560,
+      "character": "NATE",
+      "gender": "Male",
+      "line": "Hey!",
+      "wordCount": 1
+    },
+    {
+      "id": 561,
+      "index": 561,
+      "character": "PIERCE",
+      "gender": "Male",
+      "line": "Your baby boy just took out the most wanted mutey in the world.",
+      "wordCount": 13
+    },
+    {
+      "id": 562,
+      "index": 562,
+      "character": "DR. RICE",
+      "gender": "Male",
+      "line": "He's fantastic.",
+      "wordCount": 2
+    },
+    {
+      "id": 563,
+      "index": 563,
+      "character": "CALIBAN",
+      "gender": "Male",
+      "line": "You said you wanted the girl! You said you just wanted the girl!",
+      "wordCount": 13
+    },
+    {
+      "id": 564,
+      "index": 564,
+      "character": "DR. RICE",
+      "gender": "Male",
+      "line": "I told you I was forced to bring a new tool to bear. He's just a baby and a bit of a blunt instrument. Final Shooting - 8/23/2016 87.",
+      "wordCount": 29
+    },
+    {
+      "id": 565,
+      "index": 565,
+      "character": "DR. RICE",
+      "gender": "Male",
+      "line": "But your friends had every chance. And so did you.",
+      "wordCount": 10
+    },
+    {
+      "id": 566,
+      "index": 566,
+      "character": "WILL",
+      "gender": "Male",
+      "line": "Since Nate was born, I try not to imbibe much. Maybe once a month.",
+      "wordCount": 14
+    },
+    {
+      "id": 567,
+      "index": 567,
+      "character": "WILL",
+      "gender": "Male",
+      "line": "I'm guessing you enjoy a drink more often than that.",
+      "wordCount": 10
+    },
+    {
+      "id": 568,
+      "index": 568,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Only on days that end in \"Y.\"",
+      "wordCount": 7
+    },
+    {
+      "id": 569,
+      "index": 569,
+      "character": "KATHRYN",
+      "gender": "Female",
+      "line": "Put her down.",
+      "wordCount": 3
+    },
+    {
+      "id": 570,
+      "index": 570,
+      "character": "WILL",
+      "gender": "Male",
+      "line": "Kathryn!",
+      "wordCount": 1
+    },
+    {
+      "id": 571,
+      "index": 571,
+      "character": "KATHRYN",
+      "gender": "Female",
+      "line": "Stay down there, Will!",
+      "wordCount": 4
+    },
+    {
+      "id": 572,
+      "index": 572,
+      "character": "REAVER DRIVER",
+      "gender": "NA",
+      "line": "I'll pick em up -- meet em halfway. Let the clean up crew in.",
+      "wordCount": 14
+    },
+    {
+      "id": 573,
+      "index": 573,
+      "character": "DR. RICE",
+      "gender": "Male",
+      "line": "No.",
+      "wordCount": 1
+    },
+    {
+      "id": 574,
+      "index": 574,
+      "character": "DR. RICE",
+      "gender": "Male",
+      "line": "Let him come to us.",
+      "wordCount": 5
+    },
+    {
+      "id": 575,
+      "index": 575,
+      "character": "RICE",
+      "gender": "Male",
+      "line": "We learned the hard way with the X-23's. We assumed, because they were children, their emotional responses could be manipulated. But you can't nurture rage. You must simply design it. Final Shooting - 8/23/2016 90.",
+      "wordCount": 35
+    },
+    {
+      "id": 576,
+      "index": 576,
+      "character": "RICE",
+      "gender": "Male",
+      "line": "Like God did.",
+      "wordCount": 3
+    },
+    {
+      "id": 577,
+      "index": 577,
+      "character": "PIERCE",
+      "gender": "Male",
+      "line": "Who the fuck is that?",
+      "wordCount": 5
+    },
+    {
+      "id": 578,
+      "index": 578,
+      "character": "JACKSON",
+      "gender": "NA",
+      "line": "Will Munson!",
+      "wordCount": 2
+    },
+    {
+      "id": 579,
+      "index": 579,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "You need to keep this around you. Charles. Listen, you need--",
+      "wordCount": 11
+    },
+    {
+      "id": 580,
+      "index": 580,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "--What?",
+      "wordCount": 1
+    },
+    {
+      "id": 581,
+      "index": 581,
+      "character": "JACKSON",
+      "gender": "NA",
+      "line": "Munson, goddammit! Come out here!",
+      "wordCount": 5
+    },
+    {
+      "id": 582,
+      "index": 582,
+      "character": "JACKSON",
+      "gender": "NA",
+      "line": "Come out here now, Munson!",
+      "wordCount": 5
+    },
+    {
+      "id": 583,
+      "index": 583,
+      "character": "JACKSON",
+      "gender": "NA",
+      "line": "Oh. Hello, asshole. Look.",
+      "wordCount": 4
+    },
+    {
+      "id": 584,
+      "index": 584,
+      "character": "DR. RICE",
+      "gender": "Male",
+      "line": "No. No, no.",
+      "wordCount": 3
+    },
+    {
+      "id": 585,
+      "index": 585,
+      "character": "JACKSON",
+      "gender": "NA",
+      "line": "I don't know what Munson's paying you, but I'm willing to let bygones be bygones. We could start you at 5G. A week that is.",
+      "wordCount": 25
+    },
+    {
+      "id": 586,
+      "index": 586,
+      "character": "JACKSON",
+      "gender": "NA",
+      "line": "You best stop where you are, pal. We're the law out here.",
+      "wordCount": 12
+    },
+    {
+      "id": 587,
+      "index": 587,
+      "character": "JACKSON",
+      "gender": "NA",
+      "line": "What in high holy--",
+      "wordCount": 4
+    },
+    {
+      "id": 588,
+      "index": 588,
+      "character": "DR. RICE",
+      "gender": "Male",
+      "line": "He's confused. We need to intervene.",
+      "wordCount": 6
+    },
+    {
+      "id": 589,
+      "index": 589,
+      "character": "PIERCE",
+      "gender": "Male",
+      "line": "You're the one he listens to, Doc.",
+      "wordCount": 7
+    },
+    {
+      "id": 590,
+      "index": 590,
+      "character": "CHARLES",
+      "gender": "Male",
+      "line": "...our boat... ...our Eden... Final Shooting - 8/23/2016 92.",
+      "wordCount": 9
+    },
+    {
+      "id": 591,
+      "index": 591,
+      "character": "DR. RICE",
+      "gender": "Male",
+      "line": "Twenty Four! Stop! Stop now! Get the girl! Get back here!",
+      "wordCount": 11
+    },
+    {
+      "id": 592,
+      "index": 592,
+      "character": "DR. RICE",
+      "gender": "Male",
+      "line": "Come! Now!",
+      "wordCount": 2
+    },
+    {
+      "id": 593,
+      "index": 593,
+      "character": "DR. RICE",
+      "gender": "Male",
+      "line": "Go fucking get her!",
+      "wordCount": 4
+    },
+    {
+      "id": 594,
+      "index": 594,
+      "character": "CALIBAN",
+      "gender": "Male",
+      "line": "Beware the light.",
+      "wordCount": 3
+    },
+    {
+      "id": 595,
+      "index": 595,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Hold still! Stop it! Stop!",
+      "wordCount": 5
+    },
+    {
+      "id": 596,
+      "index": 596,
+      "character": "DR. RICE",
+      "gender": "Male",
+      "line": "It's alright...",
+      "wordCount": 2
+    },
+    {
+      "id": 597,
+      "index": 597,
+      "character": "HIS BODY HEALING.",
+      "gender": "NA",
+      "line": "Final Shooting - 8/23/2016 95.",
+      "wordCount": 5
+    },
+    {
+      "id": 598,
+      "index": 598,
+      "character": "RICE",
+      "gender": "Male",
+      "line": "You did fine, twenty four. Breathe. You're healing. You did well. You're a newborn by any measure. Just breathe. Your body has work to do. Hemostasis, angiogenesis, epithelialization, stromal cell proliferation -- Here. This will help with the pain.",
+      "wordCount": 39
+    },
+    {
+      "id": 599,
+      "index": 599,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Well. It's got water and... it's...",
+      "wordCount": 6
+    },
+    {
+      "id": 600,
+      "index": 600,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "--its got water and it's --",
+      "wordCount": 6
+    },
+    {
+      "id": 601,
+      "index": 601,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "...Fuck this...",
+      "wordCount": 2
+    },
+    {
+      "id": 602,
+      "index": 602,
+      "character": "OLD DOCTOR",
+      "gender": "NA",
+      "line": "Welcome back. I was starting to think I was gonna have to tell that nice little girl out in the waiting room that her daddy's gone.",
+      "wordCount": 26
+    },
+    {
+      "id": 603,
+      "index": 603,
+      "character": "OLD DOCTOR",
+      "gender": "NA",
+      "line": "I always hoped I would get a chance to meet someone like you. There's so few of you left.",
+      "wordCount": 19
+    },
+    {
+      "id": 604,
+      "index": 604,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "...Nice to meet you too, Doc, but I need to get on my--",
+      "wordCount": 13
+    },
+    {
+      "id": 605,
+      "index": 605,
+      "character": "OLD DOCTOR",
+      "gender": "NA",
+      "line": "What you need is rest... and treatment. You need to check yourself in somewhere and--",
+      "wordCount": 15
+    },
+    {
+      "id": 606,
+      "index": 606,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "--I'm alright. I'm fine. Final Shooting - 8/23/2016 97.",
+      "wordCount": 9
+    },
+    {
+      "id": 607,
+      "index": 607,
+      "character": "OLD DOCTOR",
+      "gender": "NA",
+      "line": "No. You're not. I mean, I know you're different. But that doesn't change the fact that something inside you is poisoning you. You need to check yourself into a hospital and run some tests, find out what it is.",
+      "wordCount": 39
+    },
+    {
+      "id": 608,
+      "index": 608,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "...I know what it is.",
+      "wordCount": 5
+    },
+    {
+      "id": 609,
+      "index": 609,
+      "character": "OLD DOCTOR",
+      "gender": "NA",
+      "line": "Please. Mister. If you don't want to go to a hospital, maybe I can--",
+      "wordCount": 14
+    },
+    {
+      "id": 610,
+      "index": 610,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "--Doc. Look at me. You seem like a nice man. But you wanna save a life? Save yours. And everyone else's in this place. Let us get on our way.",
+      "wordCount": 30
+    },
+    {
+      "id": 611,
+      "index": 611,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Let's go.",
+      "wordCount": 2
+    },
+    {
+      "id": 612,
+      "index": 612,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "You can't just take shit, you know.",
+      "wordCount": 7
+    },
+    {
+      "id": 613,
+      "index": 613,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Look. I don't know how you got me here,.. but thank you.",
+      "wordCount": 12
+    },
+    {
+      "id": 614,
+      "index": 614,
+      "character": "LAURA",
+      "gender": "Female",
+      "line": "De nada.",
+      "wordCount": 2
+    },
+    {
+      "id": 615,
+      "index": 615,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "...You can talk?",
+      "wordCount": 3
+    },
+    {
+      "id": 616,
+      "index": 616,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "You can talk.",
+      "wordCount": 3
+    },
+    {
+      "id": 617,
+      "index": 617,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "What the fuck?! Why haven't you-- What's all this bullshit been for the last two thousand miles of--",
+      "wordCount": 18
+    },
+    {
+      "id": 618,
+      "index": 618,
+      "character": "LAURA",
+      "gender": "Female",
+      "line": "Tu espera que hable con tu cuando no mirarme? Tu espera que hable con tu cuando me insultas y tratar de dejarme atrás!?--",
+      "wordCount": 23
+    },
+    {
+      "id": 619,
+      "index": 619,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "SHUT THE FUCK UP!!!",
+      "wordCount": 4
+    },
+    {
+      "id": 620,
+      "index": 620,
+      "character": "LAURA",
+      "gender": "Female",
+      "line": "Jonah, Gideon, Rebecca, Delilah and Rictor.",
+      "wordCount": 6
+    },
+    {
+      "id": 621,
+      "index": 621,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Who is that? Final Shooting - 8/23/2016 99.",
+      "wordCount": 8
+    },
+    {
+      "id": 622,
+      "index": 622,
+      "character": "LAURA",
+      "gender": "Female",
+      "line": "North Dakota. Por favor. Jonah, Gideon, Rebecca, Delilah and Rictor.",
+      "wordCount": 10
+    },
+    {
+      "id": 623,
+      "index": 623,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Okay. Look. This place. Your mom... she read too many... stories.",
+      "wordCount": 11
+    },
+    {
+      "id": 624,
+      "index": 624,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Yeah, I know... I saw it...",
+      "wordCount": 6
+    },
+    {
+      "id": 625,
+      "index": 625,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Right. This place does not exist. No exist-o. It's fictional. Eden does not exist.",
+      "wordCount": 14
+    },
+    {
+      "id": 626,
+      "index": 626,
+      "character": "LAURA",
+      "gender": "Female",
+      "line": "Si, Eden, por favor.",
+      "wordCount": 4
+    },
+    {
+      "id": 627,
+      "index": 627,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "No. I am saying that place is imaginary. It's a fantasy. See that",
+      "wordCount": 13
+    },
+    {
+      "id": 628,
+      "index": 628,
+      "character": "RIGHT THERE--",
+      "gender": "NA",
+      "line": "--those are the names of the people who made up these stories. Something happened once and these people made it into a big lie...",
+      "wordCount": 24
+    },
+    {
+      "id": 629,
+      "index": 629,
+      "character": "LAURA",
+      "gender": "Female",
+      "line": "Le pagaron me llevo a este lugar! ¿Por qué no puedes llevarme a este lugar! Final Shooting - 8/23/2016 100.",
+      "wordCount": 20
+    },
+    {
+      "id": 630,
+      "index": 630,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Yes, I know. It's a long way.",
+      "wordCount": 7
+    },
+    {
+      "id": 631,
+      "index": 631,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Okay. First-- ow. Second, Look at me. I'm fucked up. That's two days driving from here.",
+      "wordCount": 16
+    },
+    {
+      "id": 632,
+      "index": 632,
+      "character": "LAURA",
+      "gender": "Female",
+      "line": "Jonah, Gideon, Rebecca, Delilah and Rictor.",
+      "wordCount": 6
+    },
+    {
+      "id": 633,
+      "index": 633,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Stop saying those names--",
+      "wordCount": 4
+    },
+    {
+      "id": 634,
+      "index": 634,
+      "character": "LAURA",
+      "gender": "Female",
+      "line": "Vaminos!",
+      "wordCount": 1
+    },
+    {
+      "id": 635,
+      "index": 635,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Do. Not. Hit. Me.",
+      "wordCount": 4
+    },
+    {
+      "id": 636,
+      "index": 636,
+      "character": "LAURA",
+      "gender": "Female",
+      "line": "Jonah, Gideon--",
+      "wordCount": 2
+    },
+    {
+      "id": 637,
+      "index": 637,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "--And stop saying those--",
+      "wordCount": 4
+    },
+    {
+      "id": 638,
+      "index": 638,
+      "character": "LAURA",
+      "gender": "Female",
+      "line": "--Rebecca, Delilah and Rictor.",
+      "wordCount": 4
+    },
+    {
+      "id": 639,
+      "index": 639,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Okay-- ENOUGH. Enough.",
+      "wordCount": 3
+    },
+    {
+      "id": 640,
+      "index": 640,
+      "character": "PIERCE",
+      "gender": "Male",
+      "line": "That ain't a torx, honey. That's a phillips head. I need a torx.",
+      "wordCount": 13
+    },
+    {
+      "id": 641,
+      "index": 641,
+      "character": "NURSE",
+      "gender": "NA",
+      "line": "This? Or this. They look the same.",
+      "wordCount": 7
+    },
+    {
+      "id": 642,
+      "index": 642,
+      "character": "MILITARY NURSE",
+      "gender": "NA",
+      "line": "Wow. Responsive.",
+      "wordCount": 2
+    },
+    {
+      "id": 643,
+      "index": 643,
+      "character": "PIERCE",
+      "gender": "Male",
+      "line": "What?",
+      "wordCount": 1
+    },
+    {
+      "id": 644,
+      "index": 644,
+      "character": "MILITARY NURSE",
+      "gender": "NA",
+      "line": "Your hand. Its amazing.",
+      "wordCount": 4
+    },
+    {
+      "id": 645,
+      "index": 645,
+      "character": "PIERCE",
+      "gender": "Male",
+      "line": "Get the fuck out of here. This shit's classified.",
+      "wordCount": 9
+    },
+    {
+      "id": 646,
+      "index": 646,
+      "character": "MAJOR",
+      "gender": "NA",
+      "line": "--and we understand the importance of containment, Dr Rice. But we are in the continental United States. Final Shooting - 8/23/2016 102.",
+      "wordCount": 22
+    },
+    {
+      "id": 647,
+      "index": 647,
+      "character": "DR. RICE",
+      "gender": "Male",
+      "line": "--Yes we are, and I terminated your goddam mutant most wanted.",
+      "wordCount": 11
+    },
+    {
+      "id": 648,
+      "index": 648,
+      "character": "MAJOR",
+      "gender": "NA",
+      "line": "We appreciate that but you can't just leave a war zone behind like you, like you did in Juarez. We--",
+      "wordCount": 20
+    },
+    {
+      "id": 649,
+      "index": 649,
+      "character": "DR. RICE",
+      "gender": "Male",
+      "line": "I'd appreciate it, Major, if your associates would stop staring at the dead assets. Try to remind yourselves these were all little killing machines, machines who would have happily disemboweled your family.",
+      "wordCount": 32
+    },
+    {
+      "id": 650,
+      "index": 650,
+      "character": "MAJOR",
+      "gender": "NA",
+      "line": "Not all.",
+      "wordCount": 2
+    },
+    {
+      "id": 651,
+      "index": 651,
+      "character": "DR. RICE",
+      "gender": "Male",
+      "line": "I was told you want these assets off board, dead or alive. Are you changing my brief?! Are you?",
+      "wordCount": 19
+    },
+    {
+      "id": 652,
+      "index": 652,
+      "character": "MAJOR",
+      "gender": "NA",
+      "line": "...No.",
+      "wordCount": 1
+    },
+    {
+      "id": 653,
+      "index": 653,
+      "character": "DR. RICE",
+      "gender": "Male",
+      "line": "Okay. Good bye.",
+      "wordCount": 3
+    },
+    {
+      "id": 654,
+      "index": 654,
+      "character": "DR. RICE",
+      "gender": "Male",
+      "line": "Save tissue from this one. He was a good tracker and had a high IQ.",
+      "wordCount": 15
+    },
+    {
+      "id": 655,
+      "index": 655,
+      "character": "DR. RICE",
+      "gender": "Male",
+      "line": "You're up?",
+      "wordCount": 2
+    },
+    {
+      "id": 656,
+      "index": 656,
+      "character": "PIERCE",
+      "gender": "Male",
+      "line": "Look at that. Was found at the farmhouse. I know. It's her. But look at the other side.",
+      "wordCount": 18
+    },
+    {
+      "id": 657,
+      "index": 657,
+      "character": "PIERCE",
+      "gender": "Male",
+      "line": "Those are the coordinates of a fire road in the Badlands. A reservation near the Border. And, according to Wikipedia, its also this.",
+      "wordCount": 23
+    },
+    {
+      "id": 658,
+      "index": 658,
+      "character": "PIERCE",
+      "gender": "Male",
+      "line": "Gaby loved that shit.",
+      "wordCount": 4
+    },
+    {
+      "id": 659,
+      "index": 659,
+      "character": "DR. RICE",
+      "gender": "Male",
+      "line": "Hello, Maria.",
+      "wordCount": 2
+    },
+    {
+      "id": 660,
+      "index": 660,
+      "character": "DR. RICE",
+      "gender": "Male",
+      "line": "So I understand that your mother and son are safe at the holding center in Guadalupe. We're looking after them both of them.",
+      "wordCount": 23
+    },
+    {
+      "id": 661,
+      "index": 661,
+      "character": "MARIA",
+      "gender": "NA",
+      "line": "Wh-what more do you want from me?",
+      "wordCount": 7
+    },
+    {
+      "id": 662,
+      "index": 662,
+      "character": "DR. RICE",
+      "gender": "Male",
+      "line": "Connect the fucking dots, dear. Final Shooting - 8/23/2016 104.",
+      "wordCount": 10
+    },
+    {
+      "id": 663,
+      "index": 663,
+      "character": "LAURA",
+      "gender": "Female",
+      "line": "Let me drive.",
+      "wordCount": 3
+    },
+    {
+      "id": 664,
+      "index": 664,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "No. Absolutely not.",
+      "wordCount": 3
+    },
+    {
+      "id": 665,
+      "index": 665,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Quit looking at me.",
+      "wordCount": 4
+    },
+    {
+      "id": 666,
+      "index": 666,
+      "character": "LAURA",
+      "gender": "Female",
+      "line": "You're dying.",
+      "wordCount": 2
+    },
+    {
+      "id": 667,
+      "index": 667,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "No comprende.",
+      "wordCount": 2
+    },
+    {
+      "id": 668,
+      "index": 668,
+      "character": "LAURA",
+      "gender": "Female",
+      "line": "You are dying.",
+      "wordCount": 3
+    },
+    {
+      "id": 669,
+      "index": 669,
+      "character": "LAURA",
+      "gender": "Female",
+      "line": "You want to die. Charles told me.",
+      "wordCount": 7
+    },
+    {
+      "id": 670,
+      "index": 670,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "What else did he tell you?",
+      "wordCount": 6
+    },
+    {
+      "id": 671,
+      "index": 671,
+      "character": "LAURA",
+      "gender": "Female",
+      "line": "To not let you.",
+      "wordCount": 4
+    },
+    {
+      "id": 672,
+      "index": 672,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Hey.",
+      "wordCount": 1
+    },
+    {
+      "id": 673,
+      "index": 673,
+      "character": "LAURA",
+      "gender": "Female",
+      "line": "Rest.",
+      "wordCount": 1
+    },
+    {
+      "id": 674,
+      "index": 674,
+      "character": "LAURA",
+      "gender": "Female",
+      "line": "Come! Come!",
+      "wordCount": 2
+    },
+    {
+      "id": 675,
+      "index": 675,
+      "character": "BLACK.",
+      "gender": "NA",
+      "line": "Final Shooting - 8/23/2016 106.",
+      "wordCount": 5
+    },
+    {
+      "id": 676,
+      "index": 676,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Where am I?",
+      "wordCount": 3
+    },
+    {
+      "id": 677,
+      "index": 677,
+      "character": "LIZARD BOY",
+      "gender": "NA",
+      "line": "Is this good, Rictor?",
+      "wordCount": 4
+    },
+    {
+      "id": 678,
+      "index": 678,
+      "character": "RICTOR",
+      "gender": "NA",
+      "line": "Not so much. Less.",
+      "wordCount": 4
+    },
+    {
+      "id": 679,
+      "index": 679,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Where did you get this?!",
+      "wordCount": 5
+    },
+    {
+      "id": 680,
+      "index": 680,
+      "character": "RICTOR",
+      "gender": "NA",
+      "line": "Where we come from. They gave it to us when we fight. It makes you stronger.",
+      "wordCount": 16
+    },
+    {
+      "id": 681,
+      "index": 681,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "It makes you crazy is what it does. It'll kill you.",
+      "wordCount": 11
+    },
+    {
+      "id": 682,
+      "index": 682,
+      "character": "RICTOR",
+      "gender": "NA",
+      "line": "Not in small doses. It's helping you heal, man.",
+      "wordCount": 9
+    },
+    {
+      "id": 683,
+      "index": 683,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Where's Laura.",
+      "wordCount": 2
+    },
+    {
+      "id": 684,
+      "index": 684,
+      "character": "BOBBY",
+      "gender": "NA",
+      "line": "She's asleep. Do you want me to wake her up?",
+      "wordCount": 10
+    },
+    {
+      "id": 685,
+      "index": 685,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "...No.",
+      "wordCount": 1
+    },
+    {
+      "id": 686,
+      "index": 686,
+      "character": "LAURA",
+      "gender": "Female",
+      "line": "Pesadillas. ...you had night-mare.",
+      "wordCount": 4
+    },
+    {
+      "id": 687,
+      "index": 687,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Do you have nightmares?",
+      "wordCount": 4
+    },
+    {
+      "id": 688,
+      "index": 688,
+      "character": "LAURA",
+      "gender": "Female",
+      "line": "...People hurt me.",
+      "wordCount": 3
+    },
+    {
+      "id": 689,
+      "index": 689,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Mine are different. Final Shooting - 8/23/2016 108.",
+      "wordCount": 8
+    },
+    {
+      "id": 690,
+      "index": 690,
+      "character": "LAURA",
+      "gender": "Female",
+      "line": "Por que?",
+      "wordCount": 2
+    },
+    {
+      "id": 691,
+      "index": 691,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "I hurt people.",
+      "wordCount": 3
+    },
+    {
+      "id": 692,
+      "index": 692,
+      "character": "LAURA",
+      "gender": "Female",
+      "line": "What is this?",
+      "wordCount": 3
+    },
+    {
+      "id": 693,
+      "index": 693,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "You know what it is.",
+      "wordCount": 5
+    },
+    {
+      "id": 694,
+      "index": 694,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "It's made of Adamantium. Same thing they put inside us. That's why it can kill us. Probably killing me now. Anyway, I got that a long time ago. Kept it as a reminder of what I am. Now I keep it to-- Actually, I was thinking about shooting myself with it. Like Charles said.",
+      "wordCount": 54
+    },
+    {
+      "id": 695,
+      "index": 695,
+      "character": "LAURA",
+      "gender": "Female",
+      "line": "I've hurt people too.",
+      "wordCount": 4
+    },
+    {
+      "id": 696,
+      "index": 696,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "You're gonna have to learn how to live with that.",
+      "wordCount": 10
+    },
+    {
+      "id": 697,
+      "index": 697,
+      "character": "LAURA",
+      "gender": "Female",
+      "line": "They were bad people.",
+      "wordCount": 4
+    },
+    {
+      "id": 698,
+      "index": 698,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "All the same.",
+      "wordCount": 3
+    },
+    {
+      "id": 699,
+      "index": 699,
+      "character": "BLACK.",
+      "gender": "NA",
+      "line": "Final Shooting - 8/23/2016 109.",
+      "wordCount": 5
+    },
+    {
+      "id": 700,
+      "index": 700,
+      "character": "GIRL",
+      "gender": "NA",
+      "line": "Jonah! Stop! STOP!",
+      "wordCount": 3
+    },
+    {
+      "id": 701,
+      "index": 701,
+      "character": "LIZARD BOY",
+      "gender": "NA",
+      "line": "Jonah, let go! Now!",
+      "wordCount": 4
+    },
+    {
+      "id": 702,
+      "index": 702,
+      "character": "RICTOR",
+      "gender": "NA",
+      "line": "Cut the shit.",
+      "wordCount": 3
+    },
+    {
+      "id": 703,
+      "index": 703,
+      "character": "BOBBY",
+      "gender": "NA",
+      "line": "...Was Sabretooth real?",
+      "wordCount": 3
+    },
+    {
+      "id": 704,
+      "index": 704,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "What.",
+      "wordCount": 1
+    },
+    {
+      "id": 705,
+      "index": 705,
+      "character": "BOBBY",
+      "gender": "NA",
+      "line": "Laura said you said all the stories in the comic books were lies.",
+      "wordCount": 13
+    },
+    {
+      "id": 706,
+      "index": 706,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Not all. Not completely. Sabretooth was real. He was in a program with me. Like what they did to you. Final Shooting - 8/23/2016 110.",
+      "wordCount": 25
+    },
+    {
+      "id": 707,
+      "index": 707,
+      "character": "BOBBY",
+      "gender": "NA",
+      "line": "So you did mean things with him.",
+      "wordCount": 7
+    },
+    {
+      "id": 708,
+      "index": 708,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Yes.",
+      "wordCount": 1
+    },
+    {
+      "id": 709,
+      "index": 709,
+      "character": "BOBBY",
+      "gender": "NA",
+      "line": "But now you're doing good things.",
+      "wordCount": 6
+    },
+    {
+      "id": 710,
+      "index": 710,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Kid, I don't know what I'm doing.",
+      "wordCount": 7
+    },
+    {
+      "id": 711,
+      "index": 711,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Not funny. Not funny at all.",
+      "wordCount": 6
+    },
+    {
+      "id": 712,
+      "index": 712,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Hey, pal, how long have I been out?",
+      "wordCount": 8
+    },
+    {
+      "id": 713,
+      "index": 713,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Hey.",
+      "wordCount": 1
+    },
+    {
+      "id": 714,
+      "index": 714,
+      "character": "RICTOR",
+      "gender": "NA",
+      "line": "What. Final Shooting - 8/23/2016 111.",
+      "wordCount": 6
+    },
+    {
+      "id": 715,
+      "index": 715,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "How long have I been in that bed?",
+      "wordCount": 8
+    },
+    {
+      "id": 716,
+      "index": 716,
+      "character": "RICTOR",
+      "gender": "NA",
+      "line": "Two days.",
+      "wordCount": 2
+    },
+    {
+      "id": 717,
+      "index": 717,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "You've been sitting here two days? You can't do that. You can't just stay here forever.",
+      "wordCount": 16
+    },
+    {
+      "id": 718,
+      "index": 718,
+      "character": "OTHER KID",
+      "gender": "NA",
+      "line": "We aren't. We had to wait. It was the plan. Everyone had `til today to find their way here.",
+      "wordCount": 19
+    },
+    {
+      "id": 719,
+      "index": 719,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Well, if you keep waiting those assholes will find you. And kill you all. You need to get out.",
+      "wordCount": 19
+    },
+    {
+      "id": 720,
+      "index": 720,
+      "character": "RICTOR",
+      "gender": "NA",
+      "line": "What do you think we're doing, asshole? We're leaving tomorrow at dawn. We're going to cross the border.",
+      "wordCount": 18
+    },
+    {
+      "id": 721,
+      "index": 721,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "To Canada?",
+      "wordCount": 2
+    },
+    {
+      "id": 722,
+      "index": 722,
+      "character": "RICTOR",
+      "gender": "NA",
+      "line": "Si.",
+      "wordCount": 1
+    },
+    {
+      "id": 723,
+      "index": 723,
+      "character": "RICTOR",
+      "gender": "NA",
+      "line": "That was the signal. They're ready for us on the other side.",
+      "wordCount": 12
+    },
+    {
+      "id": 724,
+      "index": 724,
+      "character": "MOUNTED TELESCOPE.",
+      "gender": "NA",
+      "line": "Final Shooting - 8/23/2016 112.",
+      "wordCount": 5
+    },
+    {
+      "id": 725,
+      "index": 725,
+      "character": "RICTOR",
+      "gender": "NA",
+      "line": "It's a ten mile hike through the woods, and then, see that pass?",
+      "wordCount": 13
+    },
+    {
+      "id": 726,
+      "index": 726,
+      "character": "RICTOR",
+      "gender": "NA",
+      "line": "Through there. That's the border. That's where we can be free.",
+      "wordCount": 11
+    },
+    {
+      "id": 727,
+      "index": 727,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Okay. Good.",
+      "wordCount": 2
+    },
+    {
+      "id": 728,
+      "index": 728,
+      "character": "RICTOR",
+      "gender": "NA",
+      "line": "...Come with me.",
+      "wordCount": 3
+    },
+    {
+      "id": 729,
+      "index": 729,
+      "character": "RICTOR",
+      "gender": "NA",
+      "line": "Come.",
+      "wordCount": 1
+    },
+    {
+      "id": 730,
+      "index": 730,
+      "character": "RICTOR",
+      "gender": "NA",
+      "line": "Laura told me all you did for her. She was lucky to have you. Not everyone was so lucky.",
+      "wordCount": 19
+    },
+    {
+      "id": 731,
+      "index": 731,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Keep it. For your supplies or whatever.",
+      "wordCount": 7
+    },
+    {
+      "id": 732,
+      "index": 732,
+      "character": "RICTOR",
+      "gender": "NA",
+      "line": "She says it's yours.",
+      "wordCount": 4
+    },
+    {
+      "id": 733,
+      "index": 733,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Yeah. Well. Look. I don't need this. You do. For supplies. Buy her some cereal. Final Shooting - 8/23/2016 113.",
+      "wordCount": 20
+    },
+    {
+      "id": 734,
+      "index": 734,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "They seem nice. Your friends. Kinda remind me--",
+      "wordCount": 8
+    },
+    {
+      "id": 735,
+      "index": 735,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "What's going on with you?",
+      "wordCount": 5
+    },
+    {
+      "id": 736,
+      "index": 736,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Hey. I asked you a question. What are you pissed about? You're with your friends. You made it.",
+      "wordCount": 18
+    },
+    {
+      "id": 737,
+      "index": 737,
+      "character": "LAURA",
+      "gender": "Female",
+      "line": "And where will you go?",
+      "wordCount": 5
+    },
+    {
+      "id": 738,
+      "index": 738,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Nearest bar, for starters.",
+      "wordCount": 4
+    },
+    {
+      "id": 739,
+      "index": 739,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "What-- you thought I was coming along?",
+      "wordCount": 7
+    },
+    {
+      "id": 740,
+      "index": 740,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "That was never the deal. I got you this far, that's all I signed up for. I gave back the money --",
+      "wordCount": 22
+    },
+    {
+      "id": 741,
+      "index": 741,
+      "character": "LAURA",
+      "gender": "Female",
+      "line": "Such a nice man.",
+      "wordCount": 4
+    },
+    {
+      "id": 742,
+      "index": 742,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Hey, I never asked for this.",
+      "wordCount": 6
+    },
+    {
+      "id": 743,
+      "index": 743,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Look, I don't know what Charles put in your head, but I'm not... whatever it is you think I am.",
+      "wordCount": 20
+    },
+    {
+      "id": 744,
+      "index": 744,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "You don't need me. You've got Rictor, Delilah, Rebecca, Bobby, blah blah whoever. Hey. It's better this way. I suck at this. Bad shit happens to people I care about.",
+      "wordCount": 30
+    },
+    {
+      "id": 745,
+      "index": 745,
+      "character": "LAURA",
+      "gender": "Female",
+      "line": "Then I will be fine.",
+      "wordCount": 5
+    },
+    {
+      "id": 746,
+      "index": 746,
+      "character": "LIZARD BOY",
+      "gender": "NA",
+      "line": "Ow.",
+      "wordCount": 1
+    },
+    {
+      "id": 747,
+      "index": 747,
+      "character": "RICE",
+      "gender": "Male",
+      "line": "Move faster. We can't let them get to the border.",
+      "wordCount": 10
+    },
+    {
+      "id": 748,
+      "index": 748,
+      "character": "LAURA",
+      "gender": "Female",
+      "line": "Ella! Run faster! Run!",
+      "wordCount": 4
+    },
+    {
+      "id": 749,
+      "index": 749,
+      "character": "LAURA",
+      "gender": "Female",
+      "line": "Ella!",
+      "wordCount": 1
+    },
+    {
+      "id": 750,
+      "index": 750,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Laura! Now!",
+      "wordCount": 2
+    },
+    {
+      "id": 751,
+      "index": 751,
+      "character": "LAURA",
+      "gender": "Female",
+      "line": "You took all the medicine.",
+      "wordCount": 5
+    },
+    {
+      "id": 752,
+      "index": 752,
+      "character": "LAURA",
+      "gender": "Female",
+      "line": "...It's wearing off. Final Shooting - 8/23/2016 119.",
+      "wordCount": 8
+    },
+    {
+      "id": 753,
+      "index": 753,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Go to your friends, Laura.",
+      "wordCount": 5
+    },
+    {
+      "id": 754,
+      "index": 754,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "...You'll know when.",
+      "wordCount": 3
+    },
+    {
+      "id": 755,
+      "index": 755,
+      "character": "PIERCE",
+      "gender": "Male",
+      "line": "Green juice is wearing down, huh? For an ol' mute, that a short high. Gonna be hard to keep those claws out soon.",
+      "wordCount": 23
+    },
+    {
+      "id": 756,
+      "index": 756,
+      "character": "RICTOR",
+      "gender": "NA",
+      "line": "Waste this dick, Logan!",
+      "wordCount": 4
+    },
+    {
+      "id": 757,
+      "index": 757,
+      "character": "DR. RICE",
+      "gender": "Male",
+      "line": "Please stop, Mr. Howlett, or I am going to have to tell these men to fire on these children. You can see the effects of the serum are wearing off. You will not survive any further wounds.",
+      "wordCount": 37
+    },
+    {
+      "id": 758,
+      "index": 758,
+      "character": "DR. RICE",
+      "gender": "Male",
+      "line": "It's an honor to meet you. I'm Zander Rice. I believe you knew my father on the Weapon X program.",
+      "wordCount": 20
+    },
+    {
+      "id": 759,
+      "index": 759,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "He's the asshole who put this poison in me.",
+      "wordCount": 9
+    },
+    {
+      "id": 760,
+      "index": 760,
+      "character": "DR. RICE",
+      "gender": "Male",
+      "line": "Yes he was. One of them.",
+      "wordCount": 6
+    },
+    {
+      "id": 761,
+      "index": 761,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "I think I might have killed him.",
+      "wordCount": 7
+    },
+    {
+      "id": 762,
+      "index": 762,
+      "character": "DR. RICE",
+      "gender": "Male",
+      "line": "I think you're right.",
+      "wordCount": 4
+    },
+    {
+      "id": 763,
+      "index": 763,
+      "character": "PIERCE",
+      "gender": "Male",
+      "line": "Shit. Show some respect, mutey. You're lookin' at the man who wiped out your kind.",
+      "wordCount": 15
+    },
+    {
+      "id": 764,
+      "index": 764,
+      "character": "DR. RICE",
+      "gender": "Male",
+      "line": "My friend Donald overstates. The goal was not ending mutant-kind but controlling it. I realized we needn't stop perfecting what we eat and drink when we could use those products to perfect ourselves.",
+      "wordCount": 33
+    },
+    {
+      "id": 765,
+      "index": 765,
+      "character": "DR. RICE",
+      "gender": "Male",
+      "line": "To distribute gene therapy discreetly, through, well, everything -- from sweet drinks to breakfast cereal. And it worked. Final Shooting - 8/23/2016 121.",
+      "wordCount": 23
+    },
+    {
+      "id": 766,
+      "index": 766,
+      "character": "DR. RICE",
+      "gender": "Male",
+      "line": "Random mutancy went the way of polio. And we embarked on our next endeavor.",
+      "wordCount": 14
+    },
+    {
+      "id": 767,
+      "index": 767,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Growing mutants of your own.",
+      "wordCount": 5
+    },
+    {
+      "id": 768,
+      "index": 768,
+      "character": "PIERCE",
+      "gender": "Male",
+      "line": "Dangerous times, James. We can't trust fate to--",
+      "wordCount": 8
+    },
+    {
+      "id": 769,
+      "index": 769,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Yeah. Dangerous.",
+      "wordCount": 2
+    },
+    {
+      "id": 770,
+      "index": 770,
+      "character": "PIERCE",
+      "gender": "Male",
+      "line": "It's showtime, boy!",
+      "wordCount": 3
+    },
+    {
+      "id": 771,
+      "index": 771,
+      "character": "PIERCE",
+      "gender": "Male",
+      "line": "Get up! Get up, boy! That's right! He killed your Daddy!",
+      "wordCount": 11
+    },
+    {
+      "id": 772,
+      "index": 772,
+      "character": "RICTOR",
+      "gender": "NA",
+      "line": "Laura! No!",
+      "wordCount": 2
+    },
+    {
+      "id": 773,
+      "index": 773,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Laura...",
+      "wordCount": 1
+    },
+    {
+      "id": 774,
+      "index": 774,
+      "character": "RICTOR",
+      "gender": "NA",
+      "line": "Laura!",
+      "wordCount": 1
+    },
+    {
+      "id": 775,
+      "index": 775,
+      "character": "LAURA",
+      "gender": "Female",
+      "line": "Laura. You need to get out. All of you. Get out of here! Now!",
+      "wordCount": 14
+    },
+    {
+      "id": 776,
+      "index": 776,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "Go, go GO! Run!",
+      "wordCount": 4
+    },
+    {
+      "id": 777,
+      "index": 777,
+      "character": "LAURA",
+      "gender": "Female",
+      "line": "No! Final Shooting - 8/23/2016 124.",
+      "wordCount": 6
+    },
+    {
+      "id": 778,
+      "index": 778,
+      "character": "LAURA",
+      "gender": "Female",
+      "line": "no, no, no...",
+      "wordCount": 3
+    },
+    {
+      "id": 779,
+      "index": 779,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "...Take your friends and run. Go. Listen to me, Laura. Run. They'll just keep coming and coming. ...Don't be what they made you.",
+      "wordCount": 23
+    },
+    {
+      "id": 780,
+      "index": 780,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "...it's okay...",
+      "wordCount": 2
+    },
+    {
+      "id": 781,
+      "index": 781,
+      "character": "LAURA",
+      "gender": "Female",
+      "line": "No... ...daddy...",
+      "wordCount": 2
+    },
+    {
+      "id": 782,
+      "index": 782,
+      "character": "LOGAN",
+      "gender": "Male",
+      "line": "So this is what it feels like. Final Shooting - 8/23/2016 125.",
+      "wordCount": 12
+    },
+    {
+      "id": 783,
+      "index": 783,
+      "character": "LAURA",
+      "gender": "Female",
+      "line": "A man has to be what he is, Joey. You can't break the mould.",
+      "wordCount": 14
+    },
+    {
+      "id": 784,
+      "index": 784,
+      "character": "LAURA",
+      "gender": "Female",
+      "line": "There's no living with a killing. There's no going back. Right or wrong, it's a brand. A brand that sticks. Now run on home to your mother, and tell her everything's alright. There's no more guns in the valley...",
+      "wordCount": 39
+    },
+    {
+      "id": 785,
+      "index": 785,
+      "character": "RICTOR",
+      "gender": "NA",
+      "line": "We gotta go.",
+      "wordCount": 3
+    },
+    {
+      "id": 786,
+      "index": 786,
+      "character": "",
+      "gender": "Male"
+    }
+  ]
+}

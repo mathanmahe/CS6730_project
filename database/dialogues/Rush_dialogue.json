@@ -1,0 +1,5324 @@
+{
+  "fileName": "Rush_dialogue.txt",
+  "title": "Rush",
+  "data": [
+    {
+      "id": 0,
+      "index": 0,
+      "character": "COMMENTATORS",
+      "gender": "NA",
+      "line": "...in places the track is still dangerously wet, but following a drivers meeting the decision has been taken. The race is going ahead...",
+      "wordCount": 23
+    },
+    {
+      "id": 1,
+      "index": 1,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "My grandfather always said history is cruel and reductive and no matter how long we live, or how much we achieve - we are remembered for very little. So make sure it's the right things.",
+      "wordCount": 35
+    },
+    {
+      "id": 2,
+      "index": 2,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "This is bullshit. We have no control over our legacy. We cannot choose what we are remembered for...",
+      "wordCount": 18
+    },
+    {
+      "id": 3,
+      "index": 3,
+      "character": "MECHANIC",
+      "gender": "Male",
+      "line": "Mass usa slicks. Le vuoi cambiare anche tu?",
+      "wordCount": 8
+    },
+    {
+      "id": 4,
+      "index": 4,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "Otherwise I wouldn't be remembered for my rivalry with this asshole. And the 1976 season.",
+      "wordCount": 15
+    },
+    {
+      "id": 5,
+      "index": 5,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "What about Hunt? Has he changed?",
+      "wordCount": 6
+    },
+    {
+      "id": 6,
+      "index": 6,
+      "character": "MECHANIC",
+      "gender": "Male",
+      "line": "No, he's going on wets.",
+      "wordCount": 5
+    },
+    {
+      "id": 7,
+      "index": 7,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "I don't know why it became such a big thing. We were just drivers. Busting each other's balls. To me this is perfectly normal. But other people saw it differently.",
+      "wordCount": 30
+    },
+    {
+      "id": 8,
+      "index": 8,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "Be, allora usiamo anche noi quells da bagnato.",
+      "wordCount": 8
+    },
+    {
+      "id": 9,
+      "index": 9,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "Maybe that explains the state of mind I was in. And why it happened. The other thing I'm remembered for. On August 1st, that same year...",
+      "wordCount": 26
+    },
+    {
+      "id": 10,
+      "index": 10,
+      "character": "MECHANIC",
+      "gender": "Male",
+      "line": "Hair visto? Ti aveto detto di usare le slicks!",
+      "wordCount": 9
+    },
+    {
+      "id": 11,
+      "index": 11,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "Bullshit. Where's Hunt?",
+      "wordCount": 3
+    },
+    {
+      "id": 12,
+      "index": 12,
+      "character": "MECHANIC",
+      "gender": "Male",
+      "line": "There!",
+      "wordCount": 1
+    },
+    {
+      "id": 13,
+      "index": 13,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "C'mon...!!",
+      "wordCount": 1
+    },
+    {
+      "id": 14,
+      "index": 14,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "What's GOING ON???",
+      "wordCount": 3
+    },
+    {
+      "id": 15,
+      "index": 15,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "No...!",
+      "wordCount": 1
+    },
+    {
+      "id": 16,
+      "index": 16,
+      "character": "NURSE",
+      "gender": "Female",
+      "line": "Emergency...",
+      "wordCount": 1
+    },
+    {
+      "id": 17,
+      "index": 17,
+      "character": "NURSE",
+      "gender": "Female",
+      "line": "Okay...standing by!",
+      "wordCount": 2
+    },
+    {
+      "id": 18,
+      "index": 18,
+      "character": "NURSE",
+      "gender": "Female",
+      "line": "That was the race-track..! There's been an accident..! A driver's been injured and is on his way in..!",
+      "wordCount": 18
+    },
+    {
+      "id": 19,
+      "index": 19,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "I think the racetrack telephoned ahead that I was coming? Hunt? James Hunt..?",
+      "wordCount": 13
+    },
+    {
+      "id": 20,
+      "index": 20,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "What's the matter? No one seen a spot of blood before?",
+      "wordCount": 11
+    },
+    {
+      "id": 21,
+      "index": 21,
+      "character": "NURSE",
+      "gender": "Female",
+      "line": "Are you all right?",
+      "wordCount": 4
+    },
+    {
+      "id": 22,
+      "index": 22,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "Absolutely fine.",
+      "wordCount": 2
+    },
+    {
+      "id": 23,
+      "index": 23,
+      "character": "NURSE",
+      "gender": "Female",
+      "line": "We all thought you'd been in an accident.",
+      "wordCount": 8
+    },
+    {
+      "id": 24,
+      "index": 24,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "I have. If you call a friendly disagreement with another driver an accident.",
+      "wordCount": 13
+    },
+    {
+      "id": 25,
+      "index": 25,
+      "character": "NURSE",
+      "gender": "Female",
+      "line": "What did you disagree about?",
+      "wordCount": 5
+    },
+    {
+      "id": 26,
+      "index": 26,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "None of your business. Ouch.",
+      "wordCount": 5
+    },
+    {
+      "id": 27,
+      "index": 27,
+      "character": "NURSE",
+      "gender": "Female",
+      "line": "Sorry.",
+      "wordCount": 1
+    },
+    {
+      "id": 28,
+      "index": 28,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "His wife.",
+      "wordCount": 2
+    },
+    {
+      "id": 29,
+      "index": 29,
+      "character": "NURSE",
+      "gender": "Female",
+      "line": "That's going to need a couple of stitches. It's a nasty cut.",
+      "wordCount": 12
+    },
+    {
+      "id": 30,
+      "index": 30,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "It was a nasty blow. Done with a bloody spanner.",
+      "wordCount": 10
+    },
+    {
+      "id": 31,
+      "index": 31,
+      "character": "NURSE",
+      "gender": "Female",
+      "line": "Why? What did you do?",
+      "wordCount": 5
+    },
+    {
+      "id": 32,
+      "index": 32,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "Nothing! Only what she begged me to do.",
+      "wordCount": 8
+    },
+    {
+      "id": 33,
+      "index": 33,
+      "character": "NURSE",
+      "gender": "Female",
+      "line": "Which was..?",
+      "wordCount": 2
+    },
+    {
+      "id": 34,
+      "index": 34,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "Be happy to show you if you like.",
+      "wordCount": 8
+    },
+    {
+      "id": 35,
+      "index": 35,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "I have a theory why women like racing drivers. It's not because they respect what we do...driving round and round in circles. Mostly they think that's pathetic. And they're probably right.. It's our closeness to death.",
+      "wordCount": 36
+    },
+    {
+      "id": 36,
+      "index": 36,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "The closer you are to death, the more alive you FEEL...the more alive you ARE. And they can see that in you. FEEL that in you. The way you live. Willing to risk everything.",
+      "wordCount": 34
+    },
+    {
+      "id": 37,
+      "index": 37,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "To dare to be one step bolder...one step faster...",
+      "wordCount": 9
+    },
+    {
+      "id": 38,
+      "index": 38,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "Sure one step closer to death...",
+      "wordCount": 6
+    },
+    {
+      "id": 39,
+      "index": 39,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "But one step closer to victory, too...",
+      "wordCount": 7
+    },
+    {
+      "id": 40,
+      "index": 40,
+      "character": "NURSE",
+      "gender": "Female",
+      "line": "I've never been to a Grand Prix before.",
+      "wordCount": 8
+    },
+    {
+      "id": 41,
+      "index": 41,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "You still haven't. This is Formula 3.",
+      "wordCount": 7
+    },
+    {
+      "id": 42,
+      "index": 42,
+      "character": "NURSE",
+      "gender": "Female",
+      "line": "What's that?",
+      "wordCount": 2
+    },
+    {
+      "id": 43,
+      "index": 43,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "A lower division. Where people like me mess about in the hope of finding sponsors or being talent-spotted to race in Formula 1.",
+      "wordCount": 23
+    },
+    {
+      "id": 44,
+      "index": 44,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "Everyone, this is Nursie.",
+      "wordCount": 4
+    },
+    {
+      "id": 45,
+      "index": 45,
+      "character": "NURSIE",
+      "gender": "NA",
+      "line": "Gemma...",
+      "wordCount": 1
+    },
+    {
+      "id": 46,
+      "index": 46,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "Nursie, this is Doc our designer...",
+      "wordCount": 6
+    },
+    {
+      "id": 47,
+      "index": 47,
+      "character": "DOC",
+      "gender": "Male",
+      "line": "How do you do?",
+      "wordCount": 4
+    },
+    {
+      "id": 48,
+      "index": 48,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "Bubbles, our chief mechanic.",
+      "wordCount": 4
+    },
+    {
+      "id": 49,
+      "index": 49,
+      "character": "BUBBLES",
+      "gender": "Male",
+      "line": "How do you do?",
+      "wordCount": 4
+    },
+    {
+      "id": 50,
+      "index": 50,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "Le Patron - Alexander, Lord Hesketh.",
+      "wordCount": 6
+    },
+    {
+      "id": 51,
+      "index": 51,
+      "character": "HESKETH",
+      "gender": "Male",
+      "line": "How do you do?",
+      "wordCount": 4
+    },
+    {
+      "id": 52,
+      "index": 52,
+      "character": "NURSE",
+      "gender": "Female",
+      "line": "Fine, thanks. Blimey...is everyone in Formula 3 this posh?",
+      "wordCount": 9
+    },
+    {
+      "id": 53,
+      "index": 53,
+      "character": "HESKETH",
+      "gender": "Male",
+      "line": "Glass of champagne, Nursie?",
+      "wordCount": 4
+    },
+    {
+      "id": 54,
+      "index": 54,
+      "character": "NURSE",
+      "gender": "Female",
+      "line": "It's Gemma. No, thanks.",
+      "wordCount": 4
+    },
+    {
+      "id": 55,
+      "index": 55,
+      "character": "HESKETH",
+      "gender": "Male",
+      "line": "You sure? It's Krug. Clos de Mesnil.",
+      "wordCount": 7
+    },
+    {
+      "id": 56,
+      "index": 56,
+      "character": "NURSE",
+      "gender": "Female",
+      "line": "It's also ten in the morning.",
+      "wordCount": 6
+    },
+    {
+      "id": 57,
+      "index": 57,
+      "character": "HESKETH",
+      "gender": "Male",
+      "line": "Oh, dear. Superstar? You haven't brought us a bore, have you?",
+      "wordCount": 11
+    },
+    {
+      "id": 58,
+      "index": 58,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "Trust me. Nursie's anything BUT a bore..",
+      "wordCount": 7
+    },
+    {
+      "id": 59,
+      "index": 59,
+      "character": "NURSE",
+      "gender": "Female",
+      "line": "That's the car?",
+      "wordCount": 3
+    },
+    {
+      "id": 60,
+      "index": 60,
+      "character": "BUBBLES",
+      "gender": "Male",
+      "line": "That's her. The Dastle Mk 9...with the Lotus twin-cam sixteen hundred engine. She's no beauty. But goes like the clappers.",
+      "wordCount": 20
+    },
+    {
+      "id": 61,
+      "index": 61,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "Uuuurrrrrkkkkkkggghghhhh.",
+      "wordCount": 1
+    },
+    {
+      "id": 62,
+      "index": 62,
+      "character": "HESKETH",
+      "gender": "Male",
+      "line": "Nothing to be worried about! Does it before every race! Good sign, actually. Means he's stoked!",
+      "wordCount": 16
+    },
+    {
+      "id": 63,
+      "index": 63,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "There's a lie that all drivers tell themselves. \"Death is something that happens to other people.\" That's how you find the courage to get in the car in the first place...",
+      "wordCount": 31
+    },
+    {
+      "id": 64,
+      "index": 64,
+      "character": "HESKETH",
+      "gender": "Male",
+      "line": "All right, Superstar?",
+      "wordCount": 3
+    },
+    {
+      "id": 65,
+      "index": 65,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "Never better, Patron.",
+      "wordCount": 3
+    },
+    {
+      "id": 66,
+      "index": 66,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "Because bad things only happen to others, right?",
+      "wordCount": 8
+    },
+    {
+      "id": 67,
+      "index": 67,
+      "character": "HESKETH",
+      "gender": "Male",
+      "line": "Have a gargle with this.",
+      "wordCount": 5
+    },
+    {
+      "id": 68,
+      "index": 68,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "Problem is deep down you know that's a lie. That it could happen to you at any moment.",
+      "wordCount": 18
+    },
+    {
+      "id": 69,
+      "index": 69,
+      "character": "HESKETH",
+      "gender": "Male",
+      "line": "Quick toke of this...",
+      "wordCount": 4
+    },
+    {
+      "id": 70,
+      "index": 70,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "So how do you make that terror go away? Well, booze is good for that. And wacky baccy. But better than everything else is...sex.",
+      "wordCount": 24
+    },
+    {
+      "id": 71,
+      "index": 71,
+      "character": "HESKETH",
+      "gender": "Male",
+      "line": "Ahhhh! What music! They could never have predicted it, those pioneers that invented the automobile that it would possess us like this, in our imaginations, our dreams. Nursie, men love women...but even more than that, men love CARS...",
+      "wordCount": 38
+    },
+    {
+      "id": 72,
+      "index": 72,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "Who's that?",
+      "wordCount": 2
+    },
+    {
+      "id": 73,
+      "index": 73,
+      "character": "DOC",
+      "gender": "Male",
+      "line": "He's new. Some German.",
+      "wordCount": 4
+    },
+    {
+      "id": 74,
+      "index": 74,
+      "character": "BUBBLES",
+      "gender": "Male",
+      "line": "Austrian.",
+      "wordCount": 1
+    },
+    {
+      "id": 75,
+      "index": 75,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "Is there a difference?",
+      "wordCount": 4
+    },
+    {
+      "id": 76,
+      "index": 76,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "All bloody Goosesteppers.",
+      "wordCount": 3
+    },
+    {
+      "id": 77,
+      "index": 77,
+      "character": "BUBBLES",
+      "gender": "Male",
+      "line": "That move was suicide!",
+      "wordCount": 4
+    },
+    {
+      "id": 78,
+      "index": 78,
+      "character": "HESKETH",
+      "gender": "Male",
+      "line": "It was also quite brilliant!! God he's got balls!!",
+      "wordCount": 9
+    },
+    {
+      "id": 79,
+      "index": 79,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "Umgotteswillen...",
+      "wordCount": 1
+    },
+    {
+      "id": 80,
+      "index": 80,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "Hey...asshole! That was my line! I had that corner...",
+      "wordCount": 9
+    },
+    {
+      "id": 81,
+      "index": 81,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "You mean the one you spun out of? And finished facing the other way? I think that corner had you.",
+      "wordCount": 20
+    },
+    {
+      "id": 82,
+      "index": 82,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "That move was total suicide. What if I hadn't braked? We'd have crashed..!!",
+      "wordCount": 13
+    },
+    {
+      "id": 83,
+      "index": 83,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "But we didn't, did we? Thanks to your impeccable `survival' instincts...",
+      "wordCount": 11
+    },
+    {
+      "id": 84,
+      "index": 84,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "Fuck you! What's your name?",
+      "wordCount": 5
+    },
+    {
+      "id": 85,
+      "index": 85,
+      "character": "HESKETH",
+      "gender": "Male",
+      "line": "James Simon Wallis Hunt. Remember it, my little Jerry friend. Because one day he will be World Champion.",
+      "wordCount": 18
+    },
+    {
+      "id": 86,
+      "index": 86,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "Jawohl. Remember ze name. Very simple. \"Hunt\". It rhymes with....",
+      "wordCount": 10
+    },
+    {
+      "id": 87,
+      "index": 87,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "...a word that happens to describe you perfectly.",
+      "wordCount": 8
+    },
+    {
+      "id": 88,
+      "index": 88,
+      "character": "NURSE",
+      "gender": "Female",
+      "line": "Who was that?",
+      "wordCount": 3
+    },
+    {
+      "id": 89,
+      "index": 89,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "No one. Chippy little Kraut. Bad loser. Forget him.",
+      "wordCount": 9
+    },
+    {
+      "id": 90,
+      "index": 90,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "In my home town, Vienna, my family is famous for one thing. Business. My grandfather was a businessman, my father, too...",
+      "wordCount": 21
+    },
+    {
+      "id": 91,
+      "index": 91,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "So when they heard I wanted to race cars for a living, they had a few things to say...",
+      "wordCount": 19
+    },
+    {
+      "id": 92,
+      "index": 92,
+      "character": "GRANDFATHER",
+      "gender": "NA",
+      "line": "Never! Racing is for playboys and dilettantes. Frivolous amateurs with nothing in their heads. The name `Lauda' appears on the front pages, with politicians and economists, not on the back pages with... ...footballers and skiers. If you want my money, you do as I say and follow me into my business..",
+      "wordCount": 51
+    },
+    {
+      "id": 93,
+      "index": 93,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "It's in moments like this that you discover who you really are..",
+      "wordCount": 12
+    },
+    {
+      "id": 94,
+      "index": 94,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "Fine. Keep your money. Don't invest in me. But when I'm World Champion, and I have the trophy, and my name is not just on the back pages, but on the front too, you will regret it.",
+      "wordCount": 37
+    },
+    {
+      "id": 95,
+      "index": 95,
+      "character": "GRANDFATHER",
+      "gender": "NA",
+      "line": "You dare sit at my table and lecture me on what I will or won't regret? Get out! Impertinent wretch! Consider yourself disowned!",
+      "wordCount": 23
+    },
+    {
+      "id": 96,
+      "index": 96,
+      "character": "BANKER",
+      "gender": "NA",
+      "line": "Another loan? Herr Lauda, you still haven't repaid the other...",
+      "wordCount": 10
+    },
+    {
+      "id": 97,
+      "index": 97,
+      "character": "BANKER",
+      "gender": "NA",
+      "line": "Totalling millions of Schillings. Plus your Grandfather called to inform us he will no longer be offering security.",
+      "wordCount": 18
+    },
+    {
+      "id": 98,
+      "index": 98,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "I know. There is no room for failure. I understand that.",
+      "wordCount": 11
+    },
+    {
+      "id": 99,
+      "index": 99,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "But I was still a Lauda...",
+      "wordCount": 6
+    },
+    {
+      "id": 100,
+      "index": 100,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "...which meant I was still a businessman above everything else.",
+      "wordCount": 10
+    },
+    {
+      "id": 101,
+      "index": 101,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "It just so happens that the business I deal in is speed.",
+      "wordCount": 12
+    },
+    {
+      "id": 102,
+      "index": 102,
+      "character": "STANLEY",
+      "gender": "Male",
+      "line": "In return for your money you get a car, mechanics and a place on the team. Plus fifty per cent of starting fees and bonuses for podium finishes.",
+      "wordCount": 28
+    },
+    {
+      "id": 103,
+      "index": 103,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "Who's the number one driver?",
+      "wordCount": 5
+    },
+    {
+      "id": 104,
+      "index": 104,
+      "character": "STANLEY",
+      "gender": "Male",
+      "line": "Clay Regazzoni and you will defer to him at all times.",
+      "wordCount": 11
+    },
+    {
+      "id": 105,
+      "index": 105,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "Why would I defer to him if I am paying his wages?",
+      "wordCount": 12
+    },
+    {
+      "id": 106,
+      "index": 106,
+      "character": "STANLEY",
+      "gender": "Male",
+      "line": "Because he's a proven winner at the highest level, a good guy, and someone who quite frankly, could teach you a thing or two.",
+      "wordCount": 24
+    },
+    {
+      "id": 107,
+      "index": 107,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "OK. There is one clause missing.",
+      "wordCount": 6
+    },
+    {
+      "id": 108,
+      "index": 108,
+      "character": "STANLEY",
+      "gender": "Male",
+      "line": "The one about mechanics' exclusivity? Sorry. We have a cardinal rule at BRM. All information is shared between ALL our drivers..",
+      "wordCount": 21
+    },
+    {
+      "id": 109,
+      "index": 109,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "And I made it perfectly clear that my mechanics work for me. No one else. This is something I cannot sign.",
+      "wordCount": 21
+    },
+    {
+      "id": 110,
+      "index": 110,
+      "character": "STANLEY",
+      "gender": "Male",
+      "line": "All right. I'll have the lawyers amend it.",
+      "wordCount": 8
+    },
+    {
+      "id": 111,
+      "index": 111,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "While you're at it you can tell them to amend the clause for podium finishes. Podium is first THREE places, not just wins.",
+      "wordCount": 23
+    },
+    {
+      "id": 112,
+      "index": 112,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "You'll get the money on signature, as agreed. See you at winter testing.",
+      "wordCount": 13
+    },
+    {
+      "id": 113,
+      "index": 113,
+      "character": "STANLEY",
+      "gender": "Male",
+      "line": "If that little git drives half as well as he negotiates, we're going to be fine.",
+      "wordCount": 16
+    },
+    {
+      "id": 114,
+      "index": 114,
+      "character": "PRESENTER",
+      "gender": "NA",
+      "line": "I'm delighted to say the winner of the British Guild of Motoring Writers award for the `Most Promising Driver of the Year' is James Hunt...",
+      "wordCount": 25
+    },
+    {
+      "id": 115,
+      "index": 115,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "Thank you. My parents always wanted me to be a doctor, or stockbroker, and gave me a first class education...but to no avail. My brothers are the success stories. I get bored easily. I have a hot head, an inability to tolerate discipline. I fall out with people left and right. I'm quick to settle matters with my fists. The only creatures I've ever loved and treated well, are budgerigars. In any normal area of life, I'd be...or AM...a total liability. All I've got going for me is I'm quick in a car.",
+      "wordCount": 93
+    },
+    {
+      "id": 116,
+      "index": 116,
+      "character": "WOMAN",
+      "gender": "NA",
+      "line": "That's not all!",
+      "wordCount": 3
+    },
+    {
+      "id": 117,
+      "index": 117,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "So thank you for acknowledging that. And giving me this... I'm going to give it to my Dad, and tell him to put it on the mantle-piece and imagine it's a first class degree in medicine.",
+      "wordCount": 36
+    },
+    {
+      "id": 118,
+      "index": 118,
+      "character": "HESKETH",
+      "gender": "Male",
+      "line": "Well done, Superstar. One more season in F2 then I'll move you up. To the big time.",
+      "wordCount": 17
+    },
+    {
+      "id": 119,
+      "index": 119,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "You don't think I'm ready now?",
+      "wordCount": 6
+    },
+    {
+      "id": 120,
+      "index": 120,
+      "character": "HESKETH",
+      "gender": "Male",
+      "line": "You are! I'm not! I've got to find you a car first. And the money. The economics of Formula 1 are terrifying.",
+      "wordCount": 22
+    },
+    {
+      "id": 121,
+      "index": 121,
+      "character": "BUBBLES",
+      "gender": "Male",
+      "line": "Hurry up. You don't want him to do what Lauda did.",
+      "wordCount": 11
+    },
+    {
+      "id": 122,
+      "index": 122,
+      "character": "BUBBLES",
+      "gender": "Male",
+      "line": "Said he no longer wanted to risk his life with \"a bunch of crazy amateurs and losers...\"",
+      "wordCount": 17
+    },
+    {
+      "id": 123,
+      "index": 123,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "Is that what he called us?",
+      "wordCount": 6
+    },
+    {
+      "id": 124,
+      "index": 124,
+      "character": "DOC",
+      "gender": "Male",
+      "line": "Charming!",
+      "wordCount": 1
+    },
+    {
+      "id": 125,
+      "index": 125,
+      "character": "HESKETH",
+      "gender": "Male",
+      "line": "Nothing wrong with being an amateur!",
+      "wordCount": 6
+    },
+    {
+      "id": 126,
+      "index": 126,
+      "character": "BUBBLES",
+      "gender": "Male",
+      "line": "Said if he was going to risk his life, he would only do so on the big roulette table. Formula 1. So he got himself a drive with BRM.",
+      "wordCount": 29
+    },
+    {
+      "id": 127,
+      "index": 127,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "What? How? He never won a thing! Not a single bloody race.",
+      "wordCount": 12
+    },
+    {
+      "id": 128,
+      "index": 128,
+      "character": "HESKETH",
+      "gender": "Male",
+      "line": "Amateurs are what made this country great.",
+      "wordCount": 7
+    },
+    {
+      "id": 129,
+      "index": 129,
+      "character": "BUBBLES",
+      "gender": "Male",
+      "line": "Took out a loan, apparently. Paid for it himself.",
+      "wordCount": 9
+    },
+    {
+      "id": 130,
+      "index": 130,
+      "character": "HESKETH",
+      "gender": "Male",
+      "line": "\"In war, as in lovemaking, amateurs are invariably better than professionals.\" Napoleon Bonaparte.",
+      "wordCount": 13
+    },
+    {
+      "id": 131,
+      "index": 131,
+      "character": "BUBBLES",
+      "gender": "Male",
+      "line": "A hundred and fifty grand!",
+      "wordCount": 5
+    },
+    {
+      "id": 132,
+      "index": 132,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "A hundred and fifty grand?",
+      "wordCount": 5
+    },
+    {
+      "id": 133,
+      "index": 133,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "That's either an act of utter lunacy, or the ballsiest thing I ever heard.",
+      "wordCount": 14
+    },
+    {
+      "id": 134,
+      "index": 134,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "Niki Lauda. Here for pre-season testing. BRM?",
+      "wordCount": 7
+    },
+    {
+      "id": 135,
+      "index": 135,
+      "character": "AGNES",
+      "gender": "NA",
+      "line": "Take a seat, please. I'll get someone to come and collect you...",
+      "wordCount": 12
+    },
+    {
+      "id": 136,
+      "index": 136,
+      "character": "AGNES",
+      "gender": "NA",
+      "line": "Hi. There's someone here for you?",
+      "wordCount": 6
+    },
+    {
+      "id": 137,
+      "index": 137,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "Lauda.",
+      "wordCount": 1
+    },
+    {
+      "id": 138,
+      "index": 138,
+      "character": "AGNES",
+      "gender": "NA",
+      "line": "SOMEONE HERE TO SEE YOU.",
+      "wordCount": 5
+    },
+    {
+      "id": 139,
+      "index": 139,
+      "character": "AGNES",
+      "gender": "NA",
+      "line": "They'll be right here.",
+      "wordCount": 4
+    },
+    {
+      "id": 140,
+      "index": 140,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "Thank you.",
+      "wordCount": 2
+    },
+    {
+      "id": 141,
+      "index": 141,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "Worked here long?",
+      "wordCount": 3
+    },
+    {
+      "id": 142,
+      "index": 142,
+      "character": "AGNES",
+      "gender": "NA",
+      "line": "Excuse me?",
+      "wordCount": 2
+    },
+    {
+      "id": 143,
+      "index": 143,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "Just wondered if you've worked here long?",
+      "wordCount": 7
+    },
+    {
+      "id": 144,
+      "index": 144,
+      "character": "AGNES",
+      "gender": "NA",
+      "line": "Almost eight years.",
+      "wordCount": 3
+    },
+    {
+      "id": 145,
+      "index": 145,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "That long? And they didn't promote you yet?",
+      "wordCount": 8
+    },
+    {
+      "id": 146,
+      "index": 146,
+      "character": "AGNES",
+      "gender": "NA",
+      "line": "Yes, several times. I am the AGNES. Agnes Bonnet. If you're looking for the receptionist, she's on her lunch.",
+      "wordCount": 19
+    },
+    {
+      "id": 147,
+      "index": 147,
+      "character": "STANLEY",
+      "gender": "Male",
+      "line": "Niki, let me introduce you to our number 1 driver, Clay Regazzoni..and our number 2, Jean Pierre Beltoise..",
+      "wordCount": 18
+    },
+    {
+      "id": 148,
+      "index": 148,
+      "character": "STANLEY",
+      "gender": "Male",
+      "line": "And these are your mechanics, reporting exclusively to you. As per contract...",
+      "wordCount": 12
+    },
+    {
+      "id": 149,
+      "index": 149,
+      "character": "MECHANIC",
+      "gender": "Male",
+      "line": "You want to see the car?",
+      "wordCount": 6
+    },
+    {
+      "id": 150,
+      "index": 150,
+      "character": "MECHANIC",
+      "gender": "Male",
+      "line": "There she is. The P160..",
+      "wordCount": 5
+    },
+    {
+      "id": 151,
+      "index": 151,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "Same as Regazzoni's?",
+      "wordCount": 3
+    },
+    {
+      "id": 152,
+      "index": 152,
+      "character": "MECHANIC",
+      "gender": "Male",
+      "line": "Identical in every detail.",
+      "wordCount": 4
+    },
+    {
+      "id": 153,
+      "index": 153,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "She looks heavy. How much does she weigh?",
+      "wordCount": 8
+    },
+    {
+      "id": 154,
+      "index": 154,
+      "character": "MECHANIC",
+      "gender": "Male",
+      "line": "540 kilos.",
+      "wordCount": 2
+    },
+    {
+      "id": 155,
+      "index": 155,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "That's crazy. Why so heavy..?",
+      "wordCount": 5
+    },
+    {
+      "id": 156,
+      "index": 156,
+      "character": "MECHANIC",
+      "gender": "Male",
+      "line": "It's a 3 litre, V12 engine, that thing weighs 190k alone.",
+      "wordCount": 11
+    },
+    {
+      "id": 157,
+      "index": 157,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "What horsepower are you getting out of it?",
+      "wordCount": 8
+    },
+    {
+      "id": 158,
+      "index": 158,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "Not enough. Needs to be 500 and the engine needs to be 20k lighter.",
+      "wordCount": 14
+    },
+    {
+      "id": 159,
+      "index": 159,
+      "character": "MECHANIC",
+      "gender": "Male",
+      "line": "We already tried...",
+      "wordCount": 3
+    },
+    {
+      "id": 160,
+      "index": 160,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "Did you use magnesium parts?",
+      "wordCount": 5
+    },
+    {
+      "id": 161,
+      "index": 161,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "Any solid plate, strip it out...",
+      "wordCount": 6
+    },
+    {
+      "id": 162,
+      "index": 162,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "And when we've done that, we need to look at the aerodynamics. Front and rear wing..",
+      "wordCount": 16
+    },
+    {
+      "id": 163,
+      "index": 163,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "OK. Thank you. Good night..",
+      "wordCount": 5
+    },
+    {
+      "id": 164,
+      "index": 164,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "What was his time?",
+      "wordCount": 4
+    },
+    {
+      "id": 165,
+      "index": 165,
+      "character": "STANLEY",
+      "gender": "Male",
+      "line": "Two minutes six seconds.",
+      "wordCount": 4
+    },
+    {
+      "id": 166,
+      "index": 166,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "OK. Now put him in my car, and he'll go round under two minutes.",
+      "wordCount": 14
+    },
+    {
+      "id": 167,
+      "index": 167,
+      "character": "STANLEY",
+      "gender": "Male",
+      "line": "Six seconds faster? Impossible.",
+      "wordCount": 4
+    },
+    {
+      "id": 168,
+      "index": 168,
+      "character": "STANLEY",
+      "gender": "Male",
+      "line": "All right. What did you do to the car?",
+      "wordCount": 9
+    },
+    {
+      "id": 169,
+      "index": 169,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "That's information I will share with you under certain conditions only.",
+      "wordCount": 11
+    },
+    {
+      "id": 170,
+      "index": 170,
+      "character": "STANLEY",
+      "gender": "Male",
+      "line": "Go on...",
+      "wordCount": 2
+    },
+    {
+      "id": 171,
+      "index": 171,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "A guaranteed place in the team, and a paid contract on equal terms with Regazzoni for two years.",
+      "wordCount": 18
+    },
+    {
+      "id": 172,
+      "index": 172,
+      "character": "STANLEY",
+      "gender": "Male",
+      "line": "Are you crazy? Clay's a senior figure in Formula One...you're a rookie. The only reason we took you ON was because you were paying us.",
+      "wordCount": 25
+    },
+    {
+      "id": 173,
+      "index": 173,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "Well, as of now, if you want me to stay, we rip up the contract. I don't pay you a cent.",
+      "wordCount": 21
+    },
+    {
+      "id": 174,
+      "index": 174,
+      "character": "STANLEY",
+      "gender": "Male",
+      "line": "It's outrageous.",
+      "wordCount": 2
+    },
+    {
+      "id": 175,
+      "index": 175,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "Was he quicker in my car? He was, wasn't he?",
+      "wordCount": 10
+    },
+    {
+      "id": 176,
+      "index": 176,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "Did he go under two minutes?",
+      "wordCount": 6
+    },
+    {
+      "id": 177,
+      "index": 177,
+      "character": "STANLEY",
+      "gender": "Male",
+      "line": "One fifty-six.",
+      "wordCount": 2
+    },
+    {
+      "id": 178,
+      "index": 178,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "So have a think, work out your priorities, and get back to me.",
+      "wordCount": 13
+    },
+    {
+      "id": 179,
+      "index": 179,
+      "character": "STANLEY",
+      "gender": "Male",
+      "line": "Not even my WIFE speaks to me like that.",
+      "wordCount": 9
+    },
+    {
+      "id": 180,
+      "index": 180,
+      "character": "REGAZZONI",
+      "gender": "Male",
+      "line": "I know what you're going to say. That it's none of my business...",
+      "wordCount": 13
+    },
+    {
+      "id": 181,
+      "index": 181,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "What?",
+      "wordCount": 1
+    },
+    {
+      "id": 182,
+      "index": 182,
+      "character": "REGAZZONI",
+      "gender": "Male",
+      "line": "If it's the Track Manager you're taking on your date tonight?",
+      "wordCount": 11
+    },
+    {
+      "id": 183,
+      "index": 183,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "It's none of your business.",
+      "wordCount": 5
+    },
+    {
+      "id": 184,
+      "index": 184,
+      "character": "REGAZZONI",
+      "gender": "Male",
+      "line": "Okay, but if you want my advice...I'd let this one go. I'm not questioning your taste. She's a great girl.",
+      "wordCount": 20
+    },
+    {
+      "id": 185,
+      "index": 185,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "What's his name? The driver?",
+      "wordCount": 5
+    },
+    {
+      "id": 186,
+      "index": 186,
+      "character": "REGAZZONI",
+      "gender": "Male",
+      "line": "Hunt. James Hunt.",
+      "wordCount": 3
+    },
+    {
+      "id": 187,
+      "index": 187,
+      "character": "REGAZZONI",
+      "gender": "Male",
+      "line": "See? You share information, I share information.",
+      "wordCount": 7
+    },
+    {
+      "id": 188,
+      "index": 188,
+      "character": "REGAZZONI",
+      "gender": "Male",
+      "line": "That's what team-mates are for.",
+      "wordCount": 5
+    },
+    {
+      "id": 189,
+      "index": 189,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "Thanks.",
+      "wordCount": 1
+    },
+    {
+      "id": 190,
+      "index": 190,
+      "character": "HESKETH",
+      "gender": "Male",
+      "line": "Keep them closed...! Wait for it, wait for it...",
+      "wordCount": 9
+    },
+    {
+      "id": 191,
+      "index": 191,
+      "character": "HESKETH",
+      "gender": "Male",
+      "line": "There! What do you say?",
+      "wordCount": 5
+    },
+    {
+      "id": 192,
+      "index": 192,
+      "character": "HESKETH",
+      "gender": "Male",
+      "line": "Isn't she a beauty? The March 731. Converted by the brilliant Doc..!",
+      "wordCount": 12
+    },
+    {
+      "id": 193,
+      "index": 193,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "She is a beauty. But...haven't you made a mistake?",
+      "wordCount": 9
+    },
+    {
+      "id": 194,
+      "index": 194,
+      "character": "HESKETH",
+      "gender": "Male",
+      "line": "What?",
+      "wordCount": 1
+    },
+    {
+      "id": 195,
+      "index": 195,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "That's not a Formula 2 car. She's F1.",
+      "wordCount": 8
+    },
+    {
+      "id": 196,
+      "index": 196,
+      "character": "HESKETH",
+      "gender": "Male",
+      "line": "She is, Superstar. Why? Because I got together with the beancounters, and it turns out that the economics of F1 are not so significantly different to the economics of Formula 2...",
+      "wordCount": 31
+    },
+    {
+      "id": 197,
+      "index": 197,
+      "character": "HESKETH",
+      "gender": "Male",
+      "line": "So we thought if we were going to be messing about losing money we might as well be doing it with the big boys.",
+      "wordCount": 24
+    },
+    {
+      "id": 198,
+      "index": 198,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "Are you serious?",
+      "wordCount": 3
+    },
+    {
+      "id": 199,
+      "index": 199,
+      "character": "HESKETH",
+      "gender": "Male",
+      "line": "Never been more serious in my life!",
+      "wordCount": 7
+    },
+    {
+      "id": 200,
+      "index": 200,
+      "character": "HESKETH",
+      "gender": "Male",
+      "line": "Actually, I got the idea after what you said about the Austrian chap who bought his way in rather than waste his time in the lower divisions. I thought, \"Bloody hell, he's right!\"",
+      "wordCount": 33
+    },
+    {
+      "id": 201,
+      "index": 201,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "Well done the Goosestepper!!",
+      "wordCount": 4
+    },
+    {
+      "id": 202,
+      "index": 202,
+      "character": "HESKETH",
+      "gender": "Male",
+      "line": "No sponsorship, Superstar! I hope you approve.",
+      "wordCount": 7
+    },
+    {
+      "id": 203,
+      "index": 203,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "I do, Patron.",
+      "wordCount": 3
+    },
+    {
+      "id": 204,
+      "index": 204,
+      "character": "HESKETH",
+      "gender": "Male",
+      "line": "No vulgar logos for cigarettes, or condoms. Just plain white. With the Union Jack. And racing overalls which read...",
+      "wordCount": 19
+    },
+    {
+      "id": 205,
+      "index": 205,
+      "character": "HESKETH",
+      "gender": "Male",
+      "line": "\"Sex. Breakfast of Champions.\" Unless it's me, of course, in which case it's two kippers, porridge, boiled eggs, and half a dozen slices of toast...",
+      "wordCount": 25
+    },
+    {
+      "id": 206,
+      "index": 206,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "So when do we start?",
+      "wordCount": 5
+    },
+    {
+      "id": 207,
+      "index": 207,
+      "character": "HESKETH",
+      "gender": "Male",
+      "line": "Soon as you're ready.",
+      "wordCount": 4
+    },
+    {
+      "id": 208,
+      "index": 208,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "I'm ready now.",
+      "wordCount": 3
+    },
+    {
+      "id": 209,
+      "index": 209,
+      "character": "HESKETH",
+      "gender": "Male",
+      "line": "That's my boy!",
+      "wordCount": 3
+    },
+    {
+      "id": 210,
+      "index": 210,
+      "character": "HESKETH",
+      "gender": "Male",
+      "line": "They won't know what's hit them!",
+      "wordCount": 6
+    },
+    {
+      "id": 211,
+      "index": 211,
+      "character": "STIRLING MOSS",
+      "gender": "Male",
+      "line": "...hard to tell whether Lord Hesketh and his team of upper class enthusiasts is bringing glamour to the racing community, or just comedy...",
+      "wordCount": 23
+    },
+    {
+      "id": 212,
+      "index": 212,
+      "character": "STIRLING MOSS",
+      "gender": "Male",
+      "line": "It's certainly the first time I can remember seeing a butler serving caviar and oysters in the pits...",
+      "wordCount": 18
+    },
+    {
+      "id": 213,
+      "index": 213,
+      "character": "STIRLING MOSS",
+      "gender": "Male",
+      "line": "...reports are reaching me of a serious accident that has just taken place in qualifying....",
+      "wordCount": 15
+    },
+    {
+      "id": 214,
+      "index": 214,
+      "character": "STIRLING MOSS",
+      "gender": "Male",
+      "line": "...it seems the driver...just twenty- six years old....was killed on impact...and the death toll in Formula 1 shows no sign of slowing down...",
+      "wordCount": 23
+    },
+    {
+      "id": 215,
+      "index": 215,
+      "character": "COMMENTATOR",
+      "gender": "NA",
+      "line": "...in the last five years alone Formula 1 has lost Piers Courage, Jo Siffert, Peter Revson, Jochen Rindt, Francois Cevert, Roger Williamson...",
+      "wordCount": 22
+    },
+    {
+      "id": 216,
+      "index": 216,
+      "character": "DRIVER",
+      "gender": "NA",
+      "line": "It's terrible.",
+      "wordCount": 2
+    },
+    {
+      "id": 217,
+      "index": 217,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "They should cancel the race.",
+      "wordCount": 5
+    },
+    {
+      "id": 218,
+      "index": 218,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "Why? No one came to see him anyway. He made a mistake. Went into the corner too fast.",
+      "wordCount": 18
+    },
+    {
+      "id": 219,
+      "index": 219,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "Is that right? So says the nobody who had to pay for his own drive. How's that working out, by the way?",
+      "wordCount": 22
+    },
+    {
+      "id": 220,
+      "index": 220,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "Fine. How's it at the back?",
+      "wordCount": 6
+    },
+    {
+      "id": 221,
+      "index": 221,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "Not planning on being there for long.",
+      "wordCount": 7
+    },
+    {
+      "id": 222,
+      "index": 222,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "Good. Look forward to you showing me the way today.",
+      "wordCount": 10
+    },
+    {
+      "id": 223,
+      "index": 223,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "`Be happy to. I'll have you inside lap one.",
+      "wordCount": 9
+    },
+    {
+      "id": 224,
+      "index": 224,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "Yeah right.",
+      "wordCount": 2
+    },
+    {
+      "id": 225,
+      "index": 225,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "Asshole.",
+      "wordCount": 1
+    },
+    {
+      "id": 226,
+      "index": 226,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "Asshole.",
+      "wordCount": 1
+    },
+    {
+      "id": 227,
+      "index": 227,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "Niki humiliated me today. He lapped me three times.",
+      "wordCount": 9
+    },
+    {
+      "id": 228,
+      "index": 228,
+      "character": "BUBBLES",
+      "gender": "Male",
+      "line": "He lapped Carlos Pace six times.",
+      "wordCount": 6
+    },
+    {
+      "id": 229,
+      "index": 229,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "That's supposed to console me? What do I need to do?",
+      "wordCount": 11
+    },
+    {
+      "id": 230,
+      "index": 230,
+      "character": "PETER",
+      "gender": "NA",
+      "line": "Grow up.",
+      "wordCount": 2
+    },
+    {
+      "id": 231,
+      "index": 231,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "Shut up, Moneyman. `Didn't ask you..",
+      "wordCount": 6
+    },
+    {
+      "id": 232,
+      "index": 232,
+      "character": "BUBBLES",
+      "gender": "Male",
+      "line": "Your brother's right. You've got to change your attitude. We all do. And match it with a whole different mental approach. Professionalism. Maturity. Like Niki.",
+      "wordCount": 25
+    },
+    {
+      "id": 233,
+      "index": 233,
+      "character": "PETER",
+      "gender": "NA",
+      "line": "Bet he doesn't go out every night, drink and screw himself stupid.",
+      "wordCount": 12
+    },
+    {
+      "id": 234,
+      "index": 234,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "So speaks the jealous married man..",
+      "wordCount": 6
+    },
+    {
+      "id": 235,
+      "index": 235,
+      "character": "PETER",
+      "gender": "NA",
+      "line": "No. So speaks the manager who's wasting his time, making ten per cent of absolutely nothing.",
+      "wordCount": 16
+    },
+    {
+      "id": 236,
+      "index": 236,
+      "character": "BUBBLES",
+      "gender": "Male",
+      "line": "You've just got to take it more seriously. Yourself more seriously.",
+      "wordCount": 11
+    },
+    {
+      "id": 237,
+      "index": 237,
+      "character": "PETER",
+      "gender": "NA",
+      "line": "Something he's never done.",
+      "wordCount": 4
+    },
+    {
+      "id": 238,
+      "index": 238,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "Don`t patronize me, Pete...",
+      "wordCount": 4
+    },
+    {
+      "id": 239,
+      "index": 239,
+      "character": "BUBBLES",
+      "gender": "Male",
+      "line": "We need you to spend less time in bars and nightclubs...",
+      "wordCount": 11
+    },
+    {
+      "id": 240,
+      "index": 240,
+      "character": "PETER",
+      "gender": "NA",
+      "line": "Make that NO time...",
+      "wordCount": 4
+    },
+    {
+      "id": 241,
+      "index": 241,
+      "character": "BUBBLES",
+      "gender": "Male",
+      "line": "And more time with the mechanics, setting up the car. That's what Lauda does. 24 hours a day.",
+      "wordCount": 18
+    },
+    {
+      "id": 242,
+      "index": 242,
+      "character": "BUBBLES",
+      "gender": "Male",
+      "line": "God knows there's nothing wrong with your talent. Or courage. It's purely a character issue right now.",
+      "wordCount": 17
+    },
+    {
+      "id": 243,
+      "index": 243,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "And the good news is I've got Sigmund Freud Horsely, failed driver par excellence, and a washed-up accountant to lecture me on it.",
+      "wordCount": 23
+    },
+    {
+      "id": 244,
+      "index": 244,
+      "character": "PETER",
+      "gender": "NA",
+      "line": "Jesus, James...",
+      "wordCount": 2
+    },
+    {
+      "id": 245,
+      "index": 245,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "Bubbles? I'm sorry..! I didn't mean that! Come back..!",
+      "wordCount": 9
+    },
+    {
+      "id": 246,
+      "index": 246,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "....along the Beau Rivage, long left into Massenet, into the short right of Casino. Sharp right into Mirabeau, then sharp left into Loews, mind the guard rails...",
+      "wordCount": 27
+    },
+    {
+      "id": 247,
+      "index": 247,
+      "character": "VOICE",
+      "gender": "NA",
+      "line": "Is Alexander around..?",
+      "wordCount": 3
+    },
+    {
+      "id": 248,
+      "index": 248,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "He was. Then went to the house to take a call. He'll be back shortly.",
+      "wordCount": 15
+    },
+    {
+      "id": 249,
+      "index": 249,
+      "character": "SUZY",
+      "gender": "Female",
+      "line": "Only he wanted to show off his pride and joy...",
+      "wordCount": 10
+    },
+    {
+      "id": 250,
+      "index": 250,
+      "character": "SUZY",
+      "gender": "Female",
+      "line": "...rhymes with `boy' if you ask me. And `toy'. I can't believe what I'm seeing.",
+      "wordCount": 15
+    },
+    {
+      "id": 251,
+      "index": 251,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "Why?",
+      "wordCount": 1
+    },
+    {
+      "id": 252,
+      "index": 252,
+      "character": "SUZY",
+      "gender": "Female",
+      "line": "It's just so small! For something that costs so much. And so flimsy. There's no comfort. No protection. Nothing.",
+      "wordCount": 19
+    },
+    {
+      "id": 253,
+      "index": 253,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "No. Just a little coffin, surrounded by high-octane fuel, being driven round at 170 miles per hour..",
+      "wordCount": 17
+    },
+    {
+      "id": 254,
+      "index": 254,
+      "character": "SUZY",
+      "gender": "Female",
+      "line": "Why don't they make it safer?",
+      "wordCount": 6
+    },
+    {
+      "id": 255,
+      "index": 255,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "No one wants it to be. It's like saying why not make bullfighting safer? It's a blood sport. The risk of death turns people on. Without it, I guess, it'd be half the fun. Which is fine for the voyeurs, fine for TV, fine for everyone.. ...except us drivers.",
+      "wordCount": 49
+    },
+    {
+      "id": 256,
+      "index": 256,
+      "character": "SUZY",
+      "gender": "Female",
+      "line": "You're James, aren't you?",
+      "wordCount": 4
+    },
+    {
+      "id": 257,
+      "index": 257,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "Yes.",
+      "wordCount": 1
+    },
+    {
+      "id": 258,
+      "index": 258,
+      "character": "SUZY",
+      "gender": "Female",
+      "line": "Thought so. You fit the description. Suzy. Friend of Alex's.",
+      "wordCount": 10
+    },
+    {
+      "id": 259,
+      "index": 259,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "I know exactly.",
+      "wordCount": 3
+    },
+    {
+      "id": 260,
+      "index": 260,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "What was the description?",
+      "wordCount": 4
+    },
+    {
+      "id": 261,
+      "index": 261,
+      "character": "SUZY",
+      "gender": "Female",
+      "line": "Mostly positive in terms of appearance. Negative only in terms of character. I've been told to avoid you.",
+      "wordCount": 18
+    },
+    {
+      "id": 262,
+      "index": 262,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "By whom?",
+      "wordCount": 2
+    },
+    {
+      "id": 263,
+      "index": 263,
+      "character": "SUZY",
+      "gender": "Female",
+      "line": "Alex. He says you're a bad boy.",
+      "wordCount": 7
+    },
+    {
+      "id": 264,
+      "index": 264,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "Was. Not any more. New me very professional. Early to bed. Early to rise. All very dull.",
+      "wordCount": 17
+    },
+    {
+      "id": 265,
+      "index": 265,
+      "character": "SUZY",
+      "gender": "Female",
+      "line": "Really?",
+      "wordCount": 1
+    },
+    {
+      "id": 266,
+      "index": 266,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "Round-the-clock work, practise and focus. Tedious, but apparently the only way to vin against ze Goosestepper..",
+      "wordCount": 16
+    },
+    {
+      "id": 267,
+      "index": 267,
+      "character": "SUZY",
+      "gender": "Female",
+      "line": "Is that what you were doing when you came in?",
+      "wordCount": 10
+    },
+    {
+      "id": 268,
+      "index": 268,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "Visualization techniques. Memorizing the circuit, in this case Monaco, which is next up. Eyes closed, know your way round in your sleep... I know...I've always been a great believer in getting there on the day, putting the old foot down and playing chicken with everyone else.",
+      "wordCount": 46
+    },
+    {
+      "id": 269,
+      "index": 269,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "But they don't want me to do that anymore...they want my body like a temple. My mind like Monk.",
+      "wordCount": 19
+    },
+    {
+      "id": 270,
+      "index": 270,
+      "character": "SUZY",
+      "gender": "Female",
+      "line": "And your soul? Your heart?",
+      "wordCount": 5
+    },
+    {
+      "id": 271,
+      "index": 271,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "What does that mean?",
+      "wordCount": 4
+    },
+    {
+      "id": 272,
+      "index": 272,
+      "character": "SUZY",
+      "gender": "Female",
+      "line": "You can't be so disciplined in all areas of your life, can you..?",
+      "wordCount": 13
+    },
+    {
+      "id": 273,
+      "index": 273,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "They want me to stop messing around, get married and settle down with the next nice girl I meet. They think it would be good for me.",
+      "wordCount": 27
+    },
+    {
+      "id": 274,
+      "index": 274,
+      "character": "SUZY",
+      "gender": "Female",
+      "line": "What do you think?",
+      "wordCount": 4
+    },
+    {
+      "id": 275,
+      "index": 275,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "Sounds bloody awful.",
+      "wordCount": 3
+    },
+    {
+      "id": 276,
+      "index": 276,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "But since they're right about most things, they're probably right about that, too.",
+      "wordCount": 13
+    },
+    {
+      "id": 277,
+      "index": 277,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "You don't fancy getting married, do you?",
+      "wordCount": 7
+    },
+    {
+      "id": 278,
+      "index": 278,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "What's up?",
+      "wordCount": 2
+    },
+    {
+      "id": 279,
+      "index": 279,
+      "character": "BUBBLES",
+      "gender": "Male",
+      "line": "Nothing. I don't want to ruin your day.",
+      "wordCount": 8
+    },
+    {
+      "id": 280,
+      "index": 280,
+      "character": "BUBBLES",
+      "gender": "Male",
+      "line": "It seems your revenge against the Goosestepper might have to wait a little longer than you'd hoped. He's just been signed by Ferrari.",
+      "wordCount": 23
+    },
+    {
+      "id": 281,
+      "index": 281,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "WHAT??? But that's the best team in the world. They could have ANYONE. Did he pay his way in there, too?",
+      "wordCount": 21
+    },
+    {
+      "id": 282,
+      "index": 282,
+      "character": "BUBBLES",
+      "gender": "Male",
+      "line": "Apparently they took back Regazzoni and he insisted they give Lauda a trial. Thinks he's a genius. Setting up the cars...",
+      "wordCount": 21
+    },
+    {
+      "id": 283,
+      "index": 283,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "It's terrible! Drives like a pig!",
+      "wordCount": 6
+    },
+    {
+      "id": 284,
+      "index": 284,
+      "character": "MECHANIC",
+      "gender": "Male",
+      "line": "Sssshhh! You can't say that!",
+      "wordCount": 5
+    },
+    {
+      "id": 285,
+      "index": 285,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "Why not?",
+      "wordCount": 2
+    },
+    {
+      "id": 286,
+      "index": 286,
+      "character": "MECHANIC",
+      "gender": "Male",
+      "line": "It's a Ferrari!",
+      "wordCount": 3
+    },
+    {
+      "id": 287,
+      "index": 287,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "I've driven better milk floats. It understeers like crazy and the weight distribution is a disaster...",
+      "wordCount": 16
+    },
+    {
+      "id": 288,
+      "index": 288,
+      "character": "MECHANIC",
+      "gender": "Male",
+      "line": "He says the car is magnificent, a masterpiece, but he has suggestions for one or two minor refinements...",
+      "wordCount": 18
+    },
+    {
+      "id": 289,
+      "index": 289,
+      "character": "ENZO",
+      "gender": "Male",
+      "line": "We are happy to welcome back to the Ferrari family our good friend, Clay Regazzoni...and also to introduce, from Austria Niki Lauda..",
+      "wordCount": 22
+    },
+    {
+      "id": 290,
+      "index": 290,
+      "character": "REGAZZONI",
+      "gender": "Male",
+      "line": "\"Ferrari Family\". \"Our good friend, Clay Regazzoni\".",
+      "wordCount": 7
+    },
+    {
+      "id": 291,
+      "index": 291,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "I understand. It's business. I would be the same.",
+      "wordCount": 9
+    },
+    {
+      "id": 292,
+      "index": 292,
+      "character": "REGAZZONI",
+      "gender": "Male",
+      "line": "But it isn't just business, is it? What we do? It's passion. Love. Which is why we're prepared to risk our lives for it.",
+      "wordCount": 24
+    },
+    {
+      "id": 293,
+      "index": 293,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "Not me. If I thought I had more talent and could earn better money doing something else, I would.",
+      "wordCount": 19
+    },
+    {
+      "id": 294,
+      "index": 294,
+      "character": "REGAZZONI",
+      "gender": "Male",
+      "line": "But how do you know you will make money here? You haven't yet.",
+      "wordCount": 13
+    },
+    {
+      "id": 295,
+      "index": 295,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "Not yet. But I will. If you can, I can.",
+      "wordCount": 10
+    },
+    {
+      "id": 296,
+      "index": 296,
+      "character": "REGAZZONI",
+      "gender": "Male",
+      "line": "You know, are you ever NOT an asshole?",
+      "wordCount": 8
+    },
+    {
+      "id": 297,
+      "index": 297,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "Why am I an asshole? You know by now I'm both quicker than you and better at setting up the car. You can't deal with that, then you're the asshole.",
+      "wordCount": 30
+    },
+    {
+      "id": 298,
+      "index": 298,
+      "character": "REGAZZONI",
+      "gender": "Male",
+      "line": "Screw you.",
+      "wordCount": 2
+    },
+    {
+      "id": 299,
+      "index": 299,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "I'm sorry. C'mon, Clay...",
+      "wordCount": 4
+    },
+    {
+      "id": 300,
+      "index": 300,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "Are you leaving?",
+      "wordCount": 3
+    },
+    {
+      "id": 301,
+      "index": 301,
+      "character": "MARLENE",
+      "gender": "Female",
+      "line": "Yes.",
+      "wordCount": 1
+    },
+    {
+      "id": 302,
+      "index": 302,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "Can you give me a lift to the nearest town? Anywhere with a train station.",
+      "wordCount": 15
+    },
+    {
+      "id": 303,
+      "index": 303,
+      "character": "MARLENE",
+      "gender": "Female",
+      "line": "Sure. Nearest town is half an hour's drive. Get in.",
+      "wordCount": 10
+    },
+    {
+      "id": 304,
+      "index": 304,
+      "character": "MARLENE",
+      "gender": "Female",
+      "line": "What are you doing?",
+      "wordCount": 4
+    },
+    {
+      "id": 305,
+      "index": 305,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "You hear that noise when you accelerate?",
+      "wordCount": 7
+    },
+    {
+      "id": 306,
+      "index": 306,
+      "character": "MARLENE",
+      "gender": "Female",
+      "line": "No.",
+      "wordCount": 1
+    },
+    {
+      "id": 307,
+      "index": 307,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "Your drive belt is loose.",
+      "wordCount": 5
+    },
+    {
+      "id": 308,
+      "index": 308,
+      "character": "MARLENE",
+      "gender": "Female",
+      "line": "My what?",
+      "wordCount": 2
+    },
+    {
+      "id": 309,
+      "index": 309,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "Alternator. And when you brake, your foot goes all the way down. Means there's air in the system.",
+      "wordCount": 18
+    },
+    {
+      "id": 310,
+      "index": 310,
+      "character": "MARLENE",
+      "gender": "Female",
+      "line": "Anything else?",
+      "wordCount": 2
+    },
+    {
+      "id": 311,
+      "index": 311,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "No. Apart from the rear brakes are imbalanced. The front right wheel is flat, and it feels like a crack in the engine block...which explains why you're drifting so much.",
+      "wordCount": 30
+    },
+    {
+      "id": 312,
+      "index": 312,
+      "character": "MARLENE",
+      "gender": "Female",
+      "line": "How can you tell?",
+      "wordCount": 4
+    },
+    {
+      "id": 313,
+      "index": 313,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "My ass.",
+      "wordCount": 2
+    },
+    {
+      "id": 314,
+      "index": 314,
+      "character": "MARLENE",
+      "gender": "Female",
+      "line": "What?",
+      "wordCount": 1
+    },
+    {
+      "id": 315,
+      "index": 315,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "God gave me an OK mind, but a really good ass, which can feel everything in a car.",
+      "wordCount": 18
+    },
+    {
+      "id": 316,
+      "index": 316,
+      "character": "MARLENE",
+      "gender": "Female",
+      "line": "You don't know what you're talking about. The car is fine. And it just had a service a week ago.",
+      "wordCount": 20
+    },
+    {
+      "id": 317,
+      "index": 317,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "Not a good one.",
+      "wordCount": 4
+    },
+    {
+      "id": 318,
+      "index": 318,
+      "character": "MARLENE",
+      "gender": "Female",
+      "line": "A very good one. From a proper garage. It cost a fortune. This car is good as new. Relax.",
+      "wordCount": 19
+    },
+    {
+      "id": 319,
+      "index": 319,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "Nothing I can do here. The car needs a garage.",
+      "wordCount": 10
+    },
+    {
+      "id": 320,
+      "index": 320,
+      "character": "MARLENE",
+      "gender": "Female",
+      "line": "I'm sorry. You're not in a hurry, are you?",
+      "wordCount": 9
+    },
+    {
+      "id": 321,
+      "index": 321,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "No. As long as I'm back in Maranello by Monday morning.",
+      "wordCount": 11
+    },
+    {
+      "id": 322,
+      "index": 322,
+      "character": "MARLENE",
+      "gender": "Female",
+      "line": "So who are you anyway?",
+      "wordCount": 5
+    },
+    {
+      "id": 323,
+      "index": 323,
+      "character": "MARLENE",
+      "gender": "Female",
+      "line": "You're from Vienna, aren't you. We can speak German. How do you know Curd?",
+      "wordCount": 14
+    },
+    {
+      "id": 324,
+      "index": 324,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "Who's Curd?",
+      "wordCount": 2
+    },
+    {
+      "id": 325,
+      "index": 325,
+      "character": "MARLENE",
+      "gender": "Female",
+      "line": "Curd Jurgens. The actor. It's his house. He is, or was until yesterday, my boyfriend. I must have been mad! There is something very attractive about an older man when they behave like one. But when they behave like a frightened child..",
+      "wordCount": 42
+    },
+    {
+      "id": 326,
+      "index": 326,
+      "character": "MARLENE",
+      "gender": "Female",
+      "line": "C'mon, let me do this. Otherwise we'll never get out of here. We're in Italy, after all.",
+      "wordCount": 17
+    },
+    {
+      "id": 327,
+      "index": 327,
+      "character": "MARLENE",
+      "gender": "Female",
+      "line": "Not bad, eh? Three seconds. Admit it, you're impressed..!",
+      "wordCount": 9
+    },
+    {
+      "id": 328,
+      "index": 328,
+      "character": "MARLENE",
+      "gender": "Female",
+      "line": "Ciao, Regazzi...!",
+      "wordCount": 2
+    },
+    {
+      "id": 329,
+      "index": 329,
+      "character": "ITALIAN MAN",
+      "gender": "NA",
+      "line": "Excuse me...are you Niki Lauda?",
+      "wordCount": 5
+    },
+    {
+      "id": 330,
+      "index": 330,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "Yes.",
+      "wordCount": 1
+    },
+    {
+      "id": 331,
+      "index": 331,
+      "character": "ITALIAN MAN",
+      "gender": "NA",
+      "line": "Oh, my God...!!! I told you it was him..!!! Do you need a ride?",
+      "wordCount": 14
+    },
+    {
+      "id": 332,
+      "index": 332,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "Yes, we do...",
+      "wordCount": 3
+    },
+    {
+      "id": 333,
+      "index": 333,
+      "character": "ITALIAN MAN",
+      "gender": "NA",
+      "line": "An honour, please!!! But on one condition..",
+      "wordCount": 7
+    },
+    {
+      "id": 334,
+      "index": 334,
+      "character": "MARLENE",
+      "gender": "Female",
+      "line": "Will someone please tell me what's going on?",
+      "wordCount": 8
+    },
+    {
+      "id": 335,
+      "index": 335,
+      "character": "MARLENE",
+      "gender": "Female",
+      "line": "Who are you, anyway? What do you DO?",
+      "wordCount": 8
+    },
+    {
+      "id": 336,
+      "index": 336,
+      "character": "ITALIAN MAN",
+      "gender": "NA",
+      "line": "You don't know? He's a Formula I driver. Who just signed for Ferrari!",
+      "wordCount": 13
+    },
+    {
+      "id": 337,
+      "index": 337,
+      "character": "MARLENE",
+      "gender": "Female",
+      "line": "Him? Never. Impossible!",
+      "wordCount": 3
+    },
+    {
+      "id": 338,
+      "index": 338,
+      "character": "ITALIAN MAN",
+      "gender": "NA",
+      "line": "Why?",
+      "wordCount": 1
+    },
+    {
+      "id": 339,
+      "index": 339,
+      "character": "MARLENE",
+      "gender": "Female",
+      "line": "Formula 1 drivers have long hair, are sexy, have shirts open to here..",
+      "wordCount": 13
+    },
+    {
+      "id": 340,
+      "index": 340,
+      "character": "MARLENE",
+      "gender": "Female",
+      "line": "Anyway, look at the way he's driving!! Like an old man!!",
+      "wordCount": 11
+    },
+    {
+      "id": 341,
+      "index": 341,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "No need to drive fast. It only increases the percentage of risk. We're not in a hurry. No one is paying me. Right now, with zero incentive or reward, why would I drive fast?",
+      "wordCount": 34
+    },
+    {
+      "id": 342,
+      "index": 342,
+      "character": "MARLENE",
+      "gender": "Female",
+      "line": "Because I'm asking you to.",
+      "wordCount": 5
+    },
+    {
+      "id": 343,
+      "index": 343,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "And do you always get what you want?",
+      "wordCount": 8
+    },
+    {
+      "id": 344,
+      "index": 344,
+      "character": "MARLENE",
+      "gender": "Female",
+      "line": "Usually.",
+      "wordCount": 1
+    },
+    {
+      "id": 345,
+      "index": 345,
+      "character": "MARLENE",
+      "gender": "Female",
+      "line": "Oh, my God...!!",
+      "wordCount": 3
+    },
+    {
+      "id": 346,
+      "index": 346,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "Congratulations.",
+      "wordCount": 1
+    },
+    {
+      "id": 347,
+      "index": 347,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "Thank you.",
+      "wordCount": 2
+    },
+    {
+      "id": 348,
+      "index": 348,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "Though with a car like that, the rest of us never stood a chance...",
+      "wordCount": 14
+    },
+    {
+      "id": 349,
+      "index": 349,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "Maybe the fact the car is so good might have something to do with me.",
+      "wordCount": 15
+    },
+    {
+      "id": 350,
+      "index": 350,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "You're still in a Ferrari. And I'm still in a Hesketh. On equal terms, the way it was in Formula 3, I'd beat you, and you know it.",
+      "wordCount": 28
+    },
+    {
+      "id": 351,
+      "index": 351,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "Never. You might get lucky and win one race. Maybe two. Because you're aggressive. But in the long run, over the course of a season, no chance.",
+      "wordCount": 27
+    },
+    {
+      "id": 352,
+      "index": 352,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "Why's that?",
+      "wordCount": 2
+    },
+    {
+      "id": 353,
+      "index": 353,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "Because you're not serious. You're just a party guy. Which is why everyone likes you.",
+      "wordCount": 15
+    },
+    {
+      "id": 354,
+      "index": 354,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "Now try saying that and tell me you're not jealous.",
+      "wordCount": 10
+    },
+    {
+      "id": 355,
+      "index": 355,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "But all that affection, all those smiles is also a sign of their disrespect! They don't fear you. Whereas compare that to me...",
+      "wordCount": 23
+    },
+    {
+      "id": 356,
+      "index": 356,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "Whom no one likes...",
+      "wordCount": 4
+    },
+    {
+      "id": 357,
+      "index": 357,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "Right..",
+      "wordCount": 1
+    },
+    {
+      "id": 358,
+      "index": 358,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "Not even his own team-mates..",
+      "wordCount": 5
+    },
+    {
+      "id": 359,
+      "index": 359,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "Right! Because I'm relentless. I don't screw up. I go to bed early. I look after myself, look after my car. And then, soon as the race is finished, I go home. You should go home more often, too. I heard you got married.",
+      "wordCount": 44
+    },
+    {
+      "id": 360,
+      "index": 360,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "I did.",
+      "wordCount": 2
+    },
+    {
+      "id": 361,
+      "index": 361,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "So where is she?",
+      "wordCount": 4
+    },
+    {
+      "id": 362,
+      "index": 362,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "In New York. Working.",
+      "wordCount": 4
+    },
+    {
+      "id": 363,
+      "index": 363,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "You know I've never seen you with her, once...",
+      "wordCount": 9
+    },
+    {
+      "id": 364,
+      "index": 364,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "Right, whatever it takes to beat Lauda, just say it, your word is my command. I'll do it. There are no lengths to which I will not go. And I mean it this time...",
+      "wordCount": 34
+    },
+    {
+      "id": 365,
+      "index": 365,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "What's the matter?",
+      "wordCount": 3
+    },
+    {
+      "id": 366,
+      "index": 366,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "What are you doing?",
+      "wordCount": 4
+    },
+    {
+      "id": 367,
+      "index": 367,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "Where is everyone?",
+      "wordCount": 3
+    },
+    {
+      "id": 368,
+      "index": 368,
+      "character": "HESKETH",
+      "gender": "Male",
+      "line": "Do you know what the date is today?",
+      "wordCount": 8
+    },
+    {
+      "id": 369,
+      "index": 369,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "November 14th.",
+      "wordCount": 2
+    },
+    {
+      "id": 370,
+      "index": 370,
+      "character": "HESKETH",
+      "gender": "Male",
+      "line": "Do you have any idea of the significance of that date?",
+      "wordCount": 11
+    },
+    {
+      "id": 371,
+      "index": 371,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "I'm assuming it refers to some animal you are allowed or no longer allowed to slaughter on your estate.",
+      "wordCount": 19
+    },
+    {
+      "id": 372,
+      "index": 372,
+      "character": "HESKETH",
+      "gender": "Male",
+      "line": "Actually it's the deadline for securing sponsorship for the forthcoming Formula 1 season. Which elapsed at midnight last night. And we didn't attract any.",
+      "wordCount": 24
+    },
+    {
+      "id": 373,
+      "index": 373,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "So? We aren't looking for sponsorship. Condoms and cigarettes. Vulgar, right?",
+      "wordCount": 11
+    },
+    {
+      "id": 374,
+      "index": 374,
+      "character": "HESKETH",
+      "gender": "Male",
+      "line": "Right. Except we are. Or were. I've made something of a miscalculation. The economics. Formula 1. Reality thereof. Turns out not like the lower divisions at all.",
+      "wordCount": 27
+    },
+    {
+      "id": 375,
+      "index": 375,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "What are you saying?",
+      "wordCount": 4
+    },
+    {
+      "id": 376,
+      "index": 376,
+      "character": "HESKETH",
+      "gender": "Male",
+      "line": "I'm saying it's over, Superstar. The banks have stepped in. Read me the riot act. Started laying everyone off. Probably have to sell this place. Fun while it lasted, would do it all again and all that... I daren't tell you the actual figures.",
+      "wordCount": 44
+    },
+    {
+      "id": 377,
+      "index": 377,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "Christ.",
+      "wordCount": 1
+    },
+    {
+      "id": 378,
+      "index": 378,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "I need a drive, Pete. Need you to find me a drive. What does that mean? \"My reputation precedes me?\"",
+      "wordCount": 20
+    },
+    {
+      "id": 379,
+      "index": 379,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "Really? Is that what they said? Did they at least say a \"Quick arsehole?\" Bollocks to Lotus. Find me someone else. I'll go mad otherwise.",
+      "wordCount": 25
+    },
+    {
+      "id": 380,
+      "index": 380,
+      "character": "SUZY",
+      "gender": "Female",
+      "line": "Don't worry. Something will turn up.",
+      "wordCount": 6
+    },
+    {
+      "id": 381,
+      "index": 381,
+      "character": "SUZY",
+      "gender": "Female",
+      "line": "But I doubt that will help in the meantime.",
+      "wordCount": 9
+    },
+    {
+      "id": 382,
+      "index": 382,
+      "character": "SUZY",
+      "gender": "Female",
+      "line": "Why don't we go away for the week-end? Before I leave again for New York?",
+      "wordCount": 15
+    },
+    {
+      "id": 383,
+      "index": 383,
+      "character": "SUZY",
+      "gender": "Female",
+      "line": "Talk to me, James. Don't make a stranger of me.",
+      "wordCount": 10
+    },
+    {
+      "id": 384,
+      "index": 384,
+      "character": "SUZY",
+      "gender": "Female",
+      "line": "I can't watch this.",
+      "wordCount": 4
+    },
+    {
+      "id": 385,
+      "index": 385,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "What were you hoping for? A well- adjusted knight in shining armour?",
+      "wordCount": 12
+    },
+    {
+      "id": 386,
+      "index": 386,
+      "character": "SUZY",
+      "gender": "Female",
+      "line": "No danger of that....",
+      "wordCount": 4
+    },
+    {
+      "id": 387,
+      "index": 387,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "Let me give you some advice.",
+      "wordCount": 6
+    },
+    {
+      "id": 388,
+      "index": 388,
+      "character": "SUZY",
+      "gender": "Female",
+      "line": "I'm all ears...",
+      "wordCount": 3
+    },
+    {
+      "id": 389,
+      "index": 389,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "Don't go to men who are willing to kill themselves driving in circles looking for normality.",
+      "wordCount": 16
+    },
+    {
+      "id": 390,
+      "index": 390,
+      "character": "SUZY",
+      "gender": "Female",
+      "line": "Well, I certainly didn't get that...",
+      "wordCount": 6
+    },
+    {
+      "id": 391,
+      "index": 391,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "Should have gone for one of my brothers.",
+      "wordCount": 8
+    },
+    {
+      "id": 392,
+      "index": 392,
+      "character": "SUZY",
+      "gender": "Female",
+      "line": "There goes that self-pity again. How striking it is -",
+      "wordCount": 10
+    },
+    {
+      "id": 393,
+      "index": 393,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "What's that? Tell me..",
+      "wordCount": 4
+    },
+    {
+      "id": 394,
+      "index": 394,
+      "character": "SUZY",
+      "gender": "Female",
+      "line": "The gulf between appearance and reality. Look at you, all sunshine blonde beauty and smiles...yet the reality is...a frightened, immature, depressed, self-pitying child...",
+      "wordCount": 23
+    },
+    {
+      "id": 395,
+      "index": 395,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "At least there's SOMETHING behind the facade.",
+      "wordCount": 7
+    },
+    {
+      "id": 396,
+      "index": 396,
+      "character": "SUZY",
+      "gender": "Female",
+      "line": "With a nasty temper..",
+      "wordCount": 4
+    },
+    {
+      "id": 397,
+      "index": 397,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "Fuck off to New York, dear. There must be a moisturizer or eye shadow somewhere that needs your vapid mush to flog it.",
+      "wordCount": 23
+    },
+    {
+      "id": 398,
+      "index": 398,
+      "character": "SUZY",
+      "gender": "Female",
+      "line": "How quickly beauty can turn ugly.",
+      "wordCount": 6
+    },
+    {
+      "id": 399,
+      "index": 399,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "Agreed. Repellent.",
+      "wordCount": 2
+    },
+    {
+      "id": 400,
+      "index": 400,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "Good girl...",
+      "wordCount": 2
+    },
+    {
+      "id": 401,
+      "index": 401,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "Hello?",
+      "wordCount": 1
+    },
+    {
+      "id": 402,
+      "index": 402,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "Who? McLaren?",
+      "wordCount": 2
+    },
+    {
+      "id": 403,
+      "index": 403,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "Just get me in a room with them, Pete. Say anything. Today? Yes, I can do today. I can be there in an hour.",
+      "wordCount": 24
+    },
+    {
+      "id": 404,
+      "index": 404,
+      "character": "MAYER",
+      "gender": "Male",
+      "line": "I'll come straight to the point. Our esteemed lead driver...",
+      "wordCount": 10
+    },
+    {
+      "id": 405,
+      "index": 405,
+      "character": "CALDWELL",
+      "gender": "Male",
+      "line": "Fitti-fucking-paldi..",
+      "wordCount": 1
+    },
+    {
+      "id": 406,
+      "index": 406,
+      "character": "MAYER",
+      "gender": "Male",
+      "line": "Has ditched us for another team at the last minute..",
+      "wordCount": 10
+    },
+    {
+      "id": 407,
+      "index": 407,
+      "character": "CALDWELL",
+      "gender": "Male",
+      "line": "In November. Fucking outrageous.",
+      "wordCount": 4
+    },
+    {
+      "id": 408,
+      "index": 408,
+      "character": "MAYER",
+      "gender": "Male",
+      "line": "And we need a replacement. Asap. Thankfully a few hands have already gone up. Good people...",
+      "wordCount": 16
+    },
+    {
+      "id": 409,
+      "index": 409,
+      "character": "CALDWELL",
+      "gender": "Male",
+      "line": "Like Jackie Ickx.",
+      "wordCount": 3
+    },
+    {
+      "id": 410,
+      "index": 410,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "I'm quicker than Jackie.",
+      "wordCount": 4
+    },
+    {
+      "id": 411,
+      "index": 411,
+      "character": "MAYER",
+      "gender": "Male",
+      "line": "But he's consistent, dependable. Sponsor friendly. He'll dress up nice. Say the right things.",
+      "wordCount": 14
+    },
+    {
+      "id": 412,
+      "index": 412,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "What do you want? A driver or a brushes salesman?",
+      "wordCount": 10
+    },
+    {
+      "id": 413,
+      "index": 413,
+      "character": "MAYER",
+      "gender": "Male",
+      "line": "We want to be successful.",
+      "wordCount": 5
+    },
+    {
+      "id": 414,
+      "index": 414,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "So do I. But I measure that in podium finishes and beating Niki Lauda not being a show pony for sponsors.",
+      "wordCount": 21
+    },
+    {
+      "id": 415,
+      "index": 415,
+      "character": "MAYER",
+      "gender": "Male",
+      "line": "I've heard about this thing with Lauda.",
+      "wordCount": 7
+    },
+    {
+      "id": 416,
+      "index": 416,
+      "character": "CALDWELL",
+      "gender": "Male",
+      "line": "Everyone has..",
+      "wordCount": 2
+    },
+    {
+      "id": 417,
+      "index": 417,
+      "character": "MAYER",
+      "gender": "Male",
+      "line": "You really think you can beat him? He's World Champion.",
+      "wordCount": 10
+    },
+    {
+      "id": 418,
+      "index": 418,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "I beat him in Formula 3.",
+      "wordCount": 6
+    },
+    {
+      "id": 419,
+      "index": 419,
+      "character": "CALDWELL",
+      "gender": "Male",
+      "line": "This season alone he's had eight podiums, five wins, you've had what?",
+      "wordCount": 12
+    },
+    {
+      "id": 420,
+      "index": 420,
+      "character": "HOGAN",
+      "gender": "Male",
+      "line": "One.",
+      "wordCount": 1
+    },
+    {
+      "id": 421,
+      "index": 421,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "Only because I've been in the wrong car. I beat him when the playing field was level. I'd beat him again in a McLaren.",
+      "wordCount": 24
+    },
+    {
+      "id": 422,
+      "index": 422,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "I'll do whatever you ask. Even put on a suit, talk to sponsors and say the right thing. I promise. Just give me the drive...",
+      "wordCount": 25
+    },
+    {
+      "id": 423,
+      "index": 423,
+      "character": "COMMENTATOR",
+      "gender": "NA",
+      "line": "...welcome to the Kyalami Racetrack where the big news is..",
+      "wordCount": 10
+    },
+    {
+      "id": 424,
+      "index": 424,
+      "character": "COMMENTATOR",
+      "gender": "NA",
+      "line": "...that Britain's James Hunt in his first race for Mclaren has qualified fastest, beating Niki Lauda's Ferrari to pole by two hundredths of a second. In the crowds to watch the race none other than movie stars Richard Burton and Liz Taylor...",
+      "wordCount": 42
+    },
+    {
+      "id": 425,
+      "index": 425,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "New car.",
+      "wordCount": 2
+    },
+    {
+      "id": 426,
+      "index": 426,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "I noticed.",
+      "wordCount": 2
+    },
+    {
+      "id": 427,
+      "index": 427,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "Pole position.",
+      "wordCount": 2
+    },
+    {
+      "id": 428,
+      "index": 428,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "I noticed that, too.",
+      "wordCount": 4
+    },
+    {
+      "id": 429,
+      "index": 429,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "Level playing field now, my ratty little friend.",
+      "wordCount": 8
+    },
+    {
+      "id": 430,
+      "index": 430,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "Let's see where we are at the end of lap one.",
+      "wordCount": 11
+    },
+    {
+      "id": 431,
+      "index": 431,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "Let's see where we are in six races time!!",
+      "wordCount": 9
+    },
+    {
+      "id": 432,
+      "index": 432,
+      "character": "LIZ TAYLOR",
+      "gender": "NA",
+      "line": "Will this take very long?",
+      "wordCount": 5
+    },
+    {
+      "id": 433,
+      "index": 433,
+      "character": "OFFICIAL",
+      "gender": "NA",
+      "line": "Richard Burton...Suzy Miller, also known as Mrs. James Hunt.",
+      "wordCount": 9
+    },
+    {
+      "id": 434,
+      "index": 434,
+      "character": "BURTON",
+      "gender": "NA",
+      "line": "Who?",
+      "wordCount": 1
+    },
+    {
+      "id": 435,
+      "index": 435,
+      "character": "SUZY",
+      "gender": "Female",
+      "line": "James Hunt. One of the racers.",
+      "wordCount": 6
+    },
+    {
+      "id": 436,
+      "index": 436,
+      "character": "BURTON",
+      "gender": "NA",
+      "line": "Forgive me. Richard. Also known as Mr. Elizabeth Taylor.",
+      "wordCount": 9
+    },
+    {
+      "id": 437,
+      "index": 437,
+      "character": "LIZ TAYLOR",
+      "gender": "NA",
+      "line": "What does a girl have to do to get a drink around here?",
+      "wordCount": 13
+    },
+    {
+      "id": 438,
+      "index": 438,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "My car wasn't right today. Next time I'll have you..",
+      "wordCount": 10
+    },
+    {
+      "id": 439,
+      "index": 439,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "Yeah, yeah...",
+      "wordCount": 2
+    },
+    {
+      "id": 440,
+      "index": 440,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "What did I tell you? Car fixed. Equal terms. You'd better get used to this.",
+      "wordCount": 15
+    },
+    {
+      "id": 441,
+      "index": 441,
+      "character": "OFFICIAL",
+      "gender": "NA",
+      "line": "The car is too wide..",
+      "wordCount": 5
+    },
+    {
+      "id": 442,
+      "index": 442,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "Five eighths of an inch..!",
+      "wordCount": 5
+    },
+    {
+      "id": 443,
+      "index": 443,
+      "character": "OFFICIAL",
+      "gender": "NA",
+      "line": "Which makes it illegal! If you want to compete, you have to change it.",
+      "wordCount": 14
+    },
+    {
+      "id": 444,
+      "index": 444,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "What? You can't just `change it'. That means rebuilding the car. Who lodged the complaint? It was Ferrari, wasn't it?",
+      "wordCount": 20
+    },
+    {
+      "id": 445,
+      "index": 445,
+      "character": "MAYER",
+      "gender": "Male",
+      "line": "...we have to move the wing forward. To make it legal...",
+      "wordCount": 11
+    },
+    {
+      "id": 446,
+      "index": 446,
+      "character": "CALDWELL",
+      "gender": "Male",
+      "line": "But that'll have a knock-on effect on the oil coolers..",
+      "wordCount": 10
+    },
+    {
+      "id": 447,
+      "index": 447,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "No! No! No!",
+      "wordCount": 3
+    },
+    {
+      "id": 448,
+      "index": 448,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "I can't stand it...",
+      "wordCount": 4
+    },
+    {
+      "id": 449,
+      "index": 449,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "What's happened? What have you DONE?? The car's evil! It's undriveable..!",
+      "wordCount": 11
+    },
+    {
+      "id": 450,
+      "index": 450,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "So...six races in. How's it going so far?",
+      "wordCount": 8
+    },
+    {
+      "id": 451,
+      "index": 451,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "Fine! Just got a little problem with a bad loser rat and his team of Italian saboteurs who've destroyed my car.",
+      "wordCount": 21
+    },
+    {
+      "id": 452,
+      "index": 452,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "What are you talking about?",
+      "wordCount": 5
+    },
+    {
+      "id": 453,
+      "index": 453,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "I won that race in Spain. And you know it.",
+      "wordCount": 10
+    },
+    {
+      "id": 454,
+      "index": 454,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "In an illegal car.",
+      "wordCount": 4
+    },
+    {
+      "id": 455,
+      "index": 455,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "The aerofoil was five eighths of an inch too long!! Something that doesn't have the slightest effect on car speed. You complained. Now we've had to totally rebuild the car and it's become a monster.",
+      "wordCount": 35
+    },
+    {
+      "id": 456,
+      "index": 456,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "At least it's a LEGAL monster.",
+      "wordCount": 6
+    },
+    {
+      "id": 457,
+      "index": 457,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "A car that was beating you week in week out, so you have to resort to this. Cheating.",
+      "wordCount": 18
+    },
+    {
+      "id": 458,
+      "index": 458,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "He drives in an illegal car and he calls ME the cheat? Let me tell you: two weeks before that race in Spain, we put 20-inch rims on the rear wheels. We get an extra half second speed on each lap!! But the Old Man tells me we can't use those rims, they make the car too wide. Against the rules. So we go back to 19-inch rims making the car slower again. Rules are rules. For all of us. You're just a bad loser who can't accept that. Komm, he's crazy. Sick in the head.",
+      "wordCount": 96
+    },
+    {
+      "id": 459,
+      "index": 459,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "Den Trottel lassen wir alleine.. No wonder she left him...",
+      "wordCount": 10
+    },
+    {
+      "id": 460,
+      "index": 460,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "Is there something I should know about Suzy? Where is she? Wasn't she supposed to be here today?",
+      "wordCount": 18
+    },
+    {
+      "id": 461,
+      "index": 461,
+      "character": "CALDWELL",
+      "gender": "Male",
+      "line": "We kept it from you. Didn't want to tell you before the race...",
+      "wordCount": 13
+    },
+    {
+      "id": 462,
+      "index": 462,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "Jesus.",
+      "wordCount": 1
+    },
+    {
+      "id": 463,
+      "index": 463,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "That from him?",
+      "wordCount": 3
+    },
+    {
+      "id": 464,
+      "index": 464,
+      "character": "SUZY",
+      "gender": "Female",
+      "line": "Why have you come here, James?",
+      "wordCount": 6
+    },
+    {
+      "id": 465,
+      "index": 465,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "To get you back.",
+      "wordCount": 4
+    },
+    {
+      "id": 466,
+      "index": 466,
+      "character": "SUZY",
+      "gender": "Female",
+      "line": "You don't want me back...you never wanted to be married in the first place. You did it because you hoped it might change you...settle you down... help with the racing. Not because you loved me. And who knows, if it had been just the drinking, or the dope, or the infidelity, or the moods...it might even have worked...but when it's all of them?",
+      "wordCount": 63
+    },
+    {
+      "id": 467,
+      "index": 467,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "I know. I'm terrible.",
+      "wordCount": 4
+    },
+    {
+      "id": 468,
+      "index": 468,
+      "character": "SUZY",
+      "gender": "Female",
+      "line": "No, you're not terrible. You're just...who you are...at this point in your life. And God help anyone that wants more.",
+      "wordCount": 20
+    },
+    {
+      "id": 469,
+      "index": 469,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "Will he be able to give you more? He has quite the bad boy reputation himself.",
+      "wordCount": 16
+    },
+    {
+      "id": 470,
+      "index": 470,
+      "character": "SUZY",
+      "gender": "Female",
+      "line": "What's important is how it feels to me. And it feels like he adores me.",
+      "wordCount": 15
+    },
+    {
+      "id": 471,
+      "index": 471,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "Right.",
+      "wordCount": 1
+    },
+    {
+      "id": 472,
+      "index": 472,
+      "character": "SUZY",
+      "gender": "Female",
+      "line": "He's aware of the delicacy of the situation, and how it looks. Having raided your larder. Plundered your safe. Smash and grab, and so forth. So he's assured me he'll take care of the financial side. And will be very generous.",
+      "wordCount": 41
+    },
+    {
+      "id": 473,
+      "index": 473,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "Fine. I'll give him a call.",
+      "wordCount": 6
+    },
+    {
+      "id": 474,
+      "index": 474,
+      "character": "SUZY",
+      "gender": "Female",
+      "line": "No. His lawyers will contact you.",
+      "wordCount": 6
+    },
+    {
+      "id": 475,
+      "index": 475,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "It's all very amicable. My wife has found herself a new backer...I mean lover...which makes her happy.. Mr. Burton has found a way of feeling young again...let's hope his pockets are deep...they'll need to be... And I've found a way to be single again without it costing me a penny, which has to go down as the biggest win of my career.",
+      "wordCount": 62
+    },
+    {
+      "id": 476,
+      "index": 476,
+      "character": "FIA OFFICIAL",
+      "gender": "NA",
+      "line": "Following an inquiry into the disqualification of driver James Hunt from the Spanish Grand Prix, it has been decided to overturn this disqualification...and to restore his victory, and reinstate his points..",
+      "wordCount": 31
+    },
+    {
+      "id": 477,
+      "index": 477,
+      "character": "STIRLING MOSS",
+      "gender": "Male",
+      "line": "...James, a few weeks ago, you were out of the running for this season completely, now you're right back in it. What's changed...?",
+      "wordCount": 23
+    },
+    {
+      "id": 478,
+      "index": 478,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "A combination of factors, not all of which I'm prepared to discuss here. Justice being done re: the disqualification in Spain helps, and having my old car back of course...",
+      "wordCount": 30
+    },
+    {
+      "id": 479,
+      "index": 479,
+      "character": "JOURNALIST",
+      "gender": "NA",
+      "line": "Mathematically in theory it's now possible for Hunt to catch you. Are you worried?",
+      "wordCount": 14
+    },
+    {
+      "id": 480,
+      "index": 480,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "Not at all. For him to catch me, he'd have to win all the remaining races, and I'd have to lose them. And pigs would have to fly.",
+      "wordCount": 28
+    },
+    {
+      "id": 481,
+      "index": 481,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "Now if you'll excuse me, I have a private family matter to attend to.",
+      "wordCount": 14
+    },
+    {
+      "id": 482,
+      "index": 482,
+      "character": "MARLENE",
+      "gender": "Female",
+      "line": "Come to bed.",
+      "wordCount": 3
+    },
+    {
+      "id": 483,
+      "index": 483,
+      "character": "MARLENE",
+      "gender": "Female",
+      "line": "What's the matter?",
+      "wordCount": 3
+    },
+    {
+      "id": 484,
+      "index": 484,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "It's the enemy, you know. Happiness.",
+      "wordCount": 6
+    },
+    {
+      "id": 485,
+      "index": 485,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "It weakens you. Puts doubt in your mind. Because all of a sudden you have something to lose..",
+      "wordCount": 18
+    },
+    {
+      "id": 486,
+      "index": 486,
+      "character": "MARLENE",
+      "gender": "Female",
+      "line": "When you call happiness an enemy, then it's too late. Then you have lost already.",
+      "wordCount": 15
+    },
+    {
+      "id": 487,
+      "index": 487,
+      "character": "CALDWELL",
+      "gender": "Male",
+      "line": "We've just been told, a driver's meeting has been called.",
+      "wordCount": 10
+    },
+    {
+      "id": 488,
+      "index": 488,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "Who by?",
+      "wordCount": 2
+    },
+    {
+      "id": 489,
+      "index": 489,
+      "character": "CALDWELL",
+      "gender": "Male",
+      "line": "Niki.",
+      "wordCount": 1
+    },
+    {
+      "id": 490,
+      "index": 490,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "Thank you. I called this meeting because as all drivers know the Nurburgring is a race track from the Stone Ages. The most stupid, barbaric, outdated, dangerous, track in the world. You've all seen the rain which has been falling this morning. Those of you with experience know the Ring needs perfect conditions to be even remotely acceptable in terms of risk. As you can see today is anything BUT perfect, so I called this meeting to take a vote to cancel the race.",
+      "wordCount": 84
+    },
+    {
+      "id": 491,
+      "index": 491,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "There would be no change to the situation as far as points is concerned. The race would simply be cancelled.",
+      "wordCount": 20
+    },
+    {
+      "id": 492,
+      "index": 492,
+      "character": "MAYER",
+      "gender": "Male",
+      "line": "This is bullshit...",
+      "wordCount": 3
+    },
+    {
+      "id": 493,
+      "index": 493,
+      "character": "EDWARDS",
+      "gender": "NA",
+      "line": "If the race is cancelled, none of us get our race fees...",
+      "wordCount": 12
+    },
+    {
+      "id": 494,
+      "index": 494,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "It's true. You leave without your fee, but you might leave with your LIFE.",
+      "wordCount": 14
+    },
+    {
+      "id": 495,
+      "index": 495,
+      "character": "VOICE",
+      "gender": "NA",
+      "line": "It also means you would effectively win the championship.",
+      "wordCount": 9
+    },
+    {
+      "id": 496,
+      "index": 496,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "So I can see why this suits you just fine.",
+      "wordCount": 10
+    },
+    {
+      "id": 497,
+      "index": 497,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "Why? There would be no points for me either...",
+      "wordCount": 9
+    },
+    {
+      "id": 498,
+      "index": 498,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "But there would be one race less where I, or anyone else, could catch you.",
+      "wordCount": 15
+    },
+    {
+      "id": 499,
+      "index": 499,
+      "character": "BRETT LUNGER",
+      "gender": "NA",
+      "line": "James is right! This is just tactics!",
+      "wordCount": 7
+    },
+    {
+      "id": 500,
+      "index": 500,
+      "character": "ARTURO MERZARIO",
+      "gender": "NA",
+      "line": "Ferrari's dirty tricks! We've seen it before!",
+      "wordCount": 7
+    },
+    {
+      "id": 501,
+      "index": 501,
+      "character": "HARALD ERTL",
+      "gender": "NA",
+      "line": "Maybe it's just that he's frightened?",
+      "wordCount": 6
+    },
+    {
+      "id": 502,
+      "index": 502,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "Which asshole said this?",
+      "wordCount": 4
+    },
+    {
+      "id": 503,
+      "index": 503,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "Yes, I am frightened. Always a little bit when I race. I accept every time I get in my car there is 20% chance that I could die. But not one per cent more. And today, with the rain the risk IS more. How dare you accuse me of lack of courage? Let me remind you. I have the track record here. I am the only person in history to do the Ring in under 7 minutes. So actually it's to my ADVANTAGE to race here today. Because I'm quicker than all of you.",
+      "wordCount": 94
+    },
+    {
+      "id": 504,
+      "index": 504,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "Fine. Then let's race!",
+      "wordCount": 4
+    },
+    {
+      "id": 505,
+      "index": 505,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "There's a hundred thousand fans out there who would never forgive us if we didn't.",
+      "wordCount": 15
+    },
+    {
+      "id": 506,
+      "index": 506,
+      "character": "MERZARIO",
+      "gender": "NA",
+      "line": "And some of us need our race fees!!",
+      "wordCount": 8
+    },
+    {
+      "id": 507,
+      "index": 507,
+      "character": "FIA OFFICIAL",
+      "gender": "NA",
+      "line": "All those in favour of cancelling the race?",
+      "wordCount": 8
+    },
+    {
+      "id": 508,
+      "index": 508,
+      "character": "FIA OFFICIAL",
+      "gender": "NA",
+      "line": "All those in favour of racing?",
+      "wordCount": 6
+    },
+    {
+      "id": 509,
+      "index": 509,
+      "character": "FIA OFFICIAL",
+      "gender": "NA",
+      "line": "Gentlemen, start your engines!!",
+      "wordCount": 4
+    },
+    {
+      "id": 510,
+      "index": 510,
+      "character": "CALDWELL",
+      "gender": "Male",
+      "line": "Jochen's going on slicks. You want to change?",
+      "wordCount": 8
+    },
+    {
+      "id": 511,
+      "index": 511,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "Has Niki changed?",
+      "wordCount": 3
+    },
+    {
+      "id": 512,
+      "index": 512,
+      "character": "CALDWELL",
+      "gender": "Male",
+      "line": "No. He's going on wets.",
+      "wordCount": 5
+    },
+    {
+      "id": 513,
+      "index": 513,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "Then we go on wets, too.",
+      "wordCount": 6
+    },
+    {
+      "id": 514,
+      "index": 514,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "Shit...!",
+      "wordCount": 1
+    },
+    {
+      "id": 515,
+      "index": 515,
+      "character": "CALDWELL",
+      "gender": "Male",
+      "line": "See? I told you to go on slicks!! You didn't take my advice...",
+      "wordCount": 13
+    },
+    {
+      "id": 516,
+      "index": 516,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "Shut up! Where's Niki?",
+      "wordCount": 4
+    },
+    {
+      "id": 517,
+      "index": 517,
+      "character": "CALDWELL",
+      "gender": "Male",
+      "line": "Behind you! He made the same mistake!",
+      "wordCount": 7
+    },
+    {
+      "id": 518,
+      "index": 518,
+      "character": "CALDWELL",
+      "gender": "Male",
+      "line": "Go! Go!! Go!!",
+      "wordCount": 3
+    },
+    {
+      "id": 519,
+      "index": 519,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "What's up?",
+      "wordCount": 2
+    },
+    {
+      "id": 520,
+      "index": 520,
+      "character": "MARSHALL",
+      "gender": "NA",
+      "line": "Accident. Bad one.",
+      "wordCount": 3
+    },
+    {
+      "id": 521,
+      "index": 521,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "Who?",
+      "wordCount": 1
+    },
+    {
+      "id": 522,
+      "index": 522,
+      "character": "MARSHALL",
+      "gender": "NA",
+      "line": "We don't know yet.",
+      "wordCount": 4
+    },
+    {
+      "id": 523,
+      "index": 523,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "AAAAARRRRGHGHGGHGH!!!!",
+      "wordCount": 1
+    },
+    {
+      "id": 524,
+      "index": 524,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "August 1st, 1976, I discovered comas exist for a reason.",
+      "wordCount": 10
+    },
+    {
+      "id": 525,
+      "index": 525,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "Some things are better not remembered.",
+      "wordCount": 6
+    },
+    {
+      "id": 526,
+      "index": 526,
+      "character": "DOCTOR",
+      "gender": "NA",
+      "line": "It's not the burns to his face that are the danger. It's the burns to his lungs. His blood oxygen level is currently...",
+      "wordCount": 23
+    },
+    {
+      "id": 527,
+      "index": 527,
+      "character": "DOCTOR",
+      "gender": "NA",
+      "line": "Which is not enough to maintain life...",
+      "wordCount": 7
+    },
+    {
+      "id": 528,
+      "index": 528,
+      "character": "PRIEST",
+      "gender": "NA",
+      "line": "...durch diese heilige Salbung helfe dir der Herr in seinem reichen Erbarmen, er stehe dir bei mit der Kraft des Heiligen Geistes...",
+      "wordCount": 22
+    },
+    {
+      "id": 529,
+      "index": 529,
+      "character": "PRIEST",
+      "gender": "NA",
+      "line": "Der Herr der dich von Sunden befreit, rette dich in seiner Gnade richte er dich auf...",
+      "wordCount": 16
+    },
+    {
+      "id": 530,
+      "index": 530,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "I'm here! Can't you tell? I'm here!",
+      "wordCount": 7
+    },
+    {
+      "id": 531,
+      "index": 531,
+      "character": "DOCTOR",
+      "gender": "NA",
+      "line": "Frau Lauda? Bitte kommen Sie! He's awake! And just spoke!",
+      "wordCount": 10
+    },
+    {
+      "id": 532,
+      "index": 532,
+      "character": "MARLENE",
+      "gender": "Female",
+      "line": "What did he say?",
+      "wordCount": 4
+    },
+    {
+      "id": 533,
+      "index": 533,
+      "character": "DOCTOR",
+      "gender": "NA",
+      "line": "\"Tell the Priest to fuck off! I'm still alive!!\"",
+      "wordCount": 9
+    },
+    {
+      "id": 534,
+      "index": 534,
+      "character": "YOUNG GERMAN DOCTOR",
+      "gender": "NA",
+      "line": "We need to vacuum the lungs. Without this, they can't heal. But it will hurt.",
+      "wordCount": 15
+    },
+    {
+      "id": 535,
+      "index": 535,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "Aaarrrggghhhh...",
+      "wordCount": 1
+    },
+    {
+      "id": 536,
+      "index": 536,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "Again!!",
+      "wordCount": 1
+    },
+    {
+      "id": 537,
+      "index": 537,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "Aaaaarrrrggghghhhhhh!!",
+      "wordCount": 1
+    },
+    {
+      "id": 538,
+      "index": 538,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "I know what you're all thinking...",
+      "wordCount": 6
+    },
+    {
+      "id": 539,
+      "index": 539,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "But if you love me - all of you - you won't say a word.",
+      "wordCount": 15
+    },
+    {
+      "id": 540,
+      "index": 540,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "What's going on?",
+      "wordCount": 3
+    },
+    {
+      "id": 541,
+      "index": 541,
+      "character": "CALDWELL",
+      "gender": "Male",
+      "line": "Jesus. It's Niki.",
+      "wordCount": 3
+    },
+    {
+      "id": 542,
+      "index": 542,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "What about him?",
+      "wordCount": 3
+    },
+    {
+      "id": 543,
+      "index": 543,
+      "character": "CALDWELL",
+      "gender": "Male",
+      "line": "He's here! He's racing!",
+      "wordCount": 4
+    },
+    {
+      "id": 544,
+      "index": 544,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "What?? They said he was half-dead.",
+      "wordCount": 6
+    },
+    {
+      "id": 545,
+      "index": 545,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "Niki?",
+      "wordCount": 1
+    },
+    {
+      "id": 546,
+      "index": 546,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "Wow. It's that bad, huh?",
+      "wordCount": 5
+    },
+    {
+      "id": 547,
+      "index": 547,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "In the hospital I told them to tell me straight, no bullshit - how bad it would be. My appearance. They said with time it'd be fine. But it won't. I can tell, seeing your reaction. I am going to spend the rest of my life with a face that frightens people.",
+      "wordCount": 52
+    },
+    {
+      "id": 548,
+      "index": 548,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "That's a tough one to get used to.",
+      "wordCount": 8
+    },
+    {
+      "id": 549,
+      "index": 549,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "I wrote you a letter at the time. To apologize.",
+      "wordCount": 10
+    },
+    {
+      "id": 550,
+      "index": 550,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "Yes. You did.",
+      "wordCount": 3
+    },
+    {
+      "id": 551,
+      "index": 551,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "That race should never have gone ahead.",
+      "wordCount": 7
+    },
+    {
+      "id": 552,
+      "index": 552,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "No.",
+      "wordCount": 1
+    },
+    {
+      "id": 553,
+      "index": 553,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "So in some ways...I feel responsible for what happened. I'm sorry.",
+      "wordCount": 11
+    },
+    {
+      "id": 554,
+      "index": 554,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "Trust me, watching you win those points and all those races while I was in hospital fighting for my life...you were equally responsible for getting me better.",
+      "wordCount": 27
+    },
+    {
+      "id": 555,
+      "index": 555,
+      "character": "JAPANESE JOURNALIST",
+      "gender": "NA",
+      "line": "How are you feeling, Niki?",
+      "wordCount": 5
+    },
+    {
+      "id": 556,
+      "index": 556,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "Fine.",
+      "wordCount": 1
+    },
+    {
+      "id": 557,
+      "index": 557,
+      "character": "AMERICAN JOURNALIST",
+      "gender": "NA",
+      "line": "Can you confirm for us exactly which procedures you have had? And the expectations for your recovery?",
+      "wordCount": 17
+    },
+    {
+      "id": 558,
+      "index": 558,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "Sure. I had a skin graft operation where they put half my right thigh in my face. It doesn't look too good but one unexpected advantage is it's impossible to perspire through a skin graft, so sweat will never run in my eyes again - which is good for a driver.",
+      "wordCount": 51
+    },
+    {
+      "id": 559,
+      "index": 559,
+      "character": "BRAZILIAN JOURNALIST",
+      "gender": "NA",
+      "line": "When they heard about your condition, Ferrari immediately hired another driver, Carlos Reutemann.",
+      "wordCount": 13
+    },
+    {
+      "id": 560,
+      "index": 560,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "Ja. Before even my first operation.",
+      "wordCount": 6
+    },
+    {
+      "id": 561,
+      "index": 561,
+      "character": "JAPANESE JOURNALIST",
+      "gender": "NA",
+      "line": "Is he your replacement now?",
+      "wordCount": 5
+    },
+    {
+      "id": 562,
+      "index": 562,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "No. Just another team-mate. Keen to make an impression. So let's see where Mr. Reutemann finishes today.",
+      "wordCount": 17
+    },
+    {
+      "id": 563,
+      "index": 563,
+      "character": "JAPANESE JOURNALIST",
+      "gender": "NA",
+      "line": "James Hunt and McLaren have caught up a lot while you were away.",
+      "wordCount": 13
+    },
+    {
+      "id": 564,
+      "index": 564,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "Yes. Is there a question now? Or are you just trying to piss me off?",
+      "wordCount": 15
+    },
+    {
+      "id": 565,
+      "index": 565,
+      "character": "JAPANESE JOURNALIST",
+      "gender": "NA",
+      "line": "You think you can still win?",
+      "wordCount": 6
+    },
+    {
+      "id": 566,
+      "index": 566,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "Of course. I have the better car. I'm the better driver. But he's a clever guy and has used the time well while I was lying half-dead in hospital to win some points..",
+      "wordCount": 33
+    },
+    {
+      "id": 567,
+      "index": 567,
+      "character": "BRITISH JOURNALIST",
+      "gender": "NA",
+      "line": "What did your wife say when she saw your face?",
+      "wordCount": 10
+    },
+    {
+      "id": 568,
+      "index": 568,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "She said, \"Sweetie, you don't need a face to drive. Only a right foot.\"",
+      "wordCount": 14
+    },
+    {
+      "id": 569,
+      "index": 569,
+      "character": "BRITISH JOURNALIST",
+      "gender": "NA",
+      "line": "I'm being serious. Do you really think your marriage can survive? With the way you look now?",
+      "wordCount": 17
+    },
+    {
+      "id": 570,
+      "index": 570,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "And I'm being serious, too. Which asshole said this? Jesus..",
+      "wordCount": 10
+    },
+    {
+      "id": 571,
+      "index": 571,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "Fuck you. Press conference over.",
+      "wordCount": 5
+    },
+    {
+      "id": 572,
+      "index": 572,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "Hey..!",
+      "wordCount": 1
+    },
+    {
+      "id": 573,
+      "index": 573,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "I've got something for you on that last question...",
+      "wordCount": 9
+    },
+    {
+      "id": 574,
+      "index": 574,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "Now go home to your wife and ask her how YOU look!!",
+      "wordCount": 12
+    },
+    {
+      "id": 575,
+      "index": 575,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "Prick!",
+      "wordCount": 1
+    },
+    {
+      "id": 576,
+      "index": 576,
+      "character": "STIRLING MOSS",
+      "gender": "Male",
+      "line": "What a race! What a man! What a season! Now it all boils down to the final race in Japan!",
+      "wordCount": 20
+    },
+    {
+      "id": 577,
+      "index": 577,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "The man was in a coma. His doctors pronounced him dead!! Then he comes back and does THAT???",
+      "wordCount": 18
+    },
+    {
+      "id": 578,
+      "index": 578,
+      "character": "BUBBLES",
+      "gender": "Male",
+      "line": "What did you expect? That Niki would give you the championship lying down? Of course not. He's a fighter. He's going to come at you with everything he's got. But you can do this. As a driver, you're his equal - better, maybe. And God knows you're quick and brave enough. You just..",
+      "wordCount": 53
+    },
+    {
+      "id": 579,
+      "index": 579,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "What?",
+      "wordCount": 1
+    },
+    {
+      "id": 580,
+      "index": 580,
+      "character": "BUBBLES",
+      "gender": "Male",
+      "line": "Need to find the respect for yourself to close out when it really matters. You don't much like yourself, James - that's the problem, therefore don't believe you deserve it.",
+      "wordCount": 30
+    },
+    {
+      "id": 581,
+      "index": 581,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "I've got to go.",
+      "wordCount": 4
+    },
+    {
+      "id": 582,
+      "index": 582,
+      "character": "STEWARDESS",
+      "gender": "NA",
+      "line": "Hi. We've come for the party?",
+      "wordCount": 6
+    },
+    {
+      "id": 583,
+      "index": 583,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "What party?",
+      "wordCount": 2
+    },
+    {
+      "id": 584,
+      "index": 584,
+      "character": "STEWARDESS",
+      "gender": "NA",
+      "line": "The party we were told was going on in room 2109.",
+      "wordCount": 11
+    },
+    {
+      "id": 585,
+      "index": 585,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "Who sent you here?",
+      "wordCount": 4
+    },
+    {
+      "id": 586,
+      "index": 586,
+      "character": "STEWARDESS",
+      "gender": "NA",
+      "line": "A man. On the phone. He didn't give his name.",
+      "wordCount": 10
+    },
+    {
+      "id": 587,
+      "index": 587,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "This man. Did he speak with an accent?",
+      "wordCount": 8
+    },
+    {
+      "id": 588,
+      "index": 588,
+      "character": "STEWARDESS",
+      "gender": "NA",
+      "line": "Yes. German accent.",
+      "wordCount": 3
+    },
+    {
+      "id": 589,
+      "index": 589,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "I'm afraid it was a joke..",
+      "wordCount": 6
+    },
+    {
+      "id": 590,
+      "index": 590,
+      "character": "STEWARDESS",
+      "gender": "NA",
+      "line": "Awwww. Pity.",
+      "wordCount": 2
+    },
+    {
+      "id": 591,
+      "index": 591,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "Sorry, ladies. Any other time. Not tonight.",
+      "wordCount": 7
+    },
+    {
+      "id": 592,
+      "index": 592,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "Wait..!",
+      "wordCount": 1
+    },
+    {
+      "id": 593,
+      "index": 593,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "Can't see the mountain.",
+      "wordCount": 4
+    },
+    {
+      "id": 594,
+      "index": 594,
+      "character": "DUNGL",
+      "gender": "NA",
+      "line": "So?",
+      "wordCount": 1
+    },
+    {
+      "id": 595,
+      "index": 595,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "The locals here believe if you can see the mountain in the morning, it brings good luck.",
+      "wordCount": 17
+    },
+    {
+      "id": 596,
+      "index": 596,
+      "character": "TANNOY",
+      "gender": "NA",
+      "line": "All drivers to the control tower, please. Immediately.",
+      "wordCount": 8
+    },
+    {
+      "id": 597,
+      "index": 597,
+      "character": "AKIYAMA",
+      "gender": "NA",
+      "line": "One at a time! Gentlemen, please!",
+      "wordCount": 6
+    },
+    {
+      "id": 598,
+      "index": 598,
+      "character": "TAKAHARA",
+      "gender": "NA",
+      "line": "You can't send us out in that! It's a death sentence!",
+      "wordCount": 11
+    },
+    {
+      "id": 599,
+      "index": 599,
+      "character": "HASEMI",
+      "gender": "NA",
+      "line": "You have to postpone the race!",
+      "wordCount": 6
+    },
+    {
+      "id": 600,
+      "index": 600,
+      "character": "MAYER",
+      "gender": "Male",
+      "line": "Niki's talking to them about cancelling the race.",
+      "wordCount": 8
+    },
+    {
+      "id": 601,
+      "index": 601,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "I don't want any part of this. I'm not going to be responsible for turning the room again.",
+      "wordCount": 18
+    },
+    {
+      "id": 602,
+      "index": 602,
+      "character": "CALDWELL",
+      "gender": "Male",
+      "line": "But you have no option. You HAVE to race, James. It's your only shot. If you don't, Niki wins..",
+      "wordCount": 19
+    },
+    {
+      "id": 603,
+      "index": 603,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "I'm not voting against Niki again....or forcing fellow drivers to risk their lives. Sorry. World Championship or not...",
+      "wordCount": 18
+    },
+    {
+      "id": 604,
+      "index": 604,
+      "character": "MAYER",
+      "gender": "Male",
+      "line": "Don't worry, this race is going ahead. The TV rights have been sold all around the world.",
+      "wordCount": 17
+    },
+    {
+      "id": 605,
+      "index": 605,
+      "character": "MAYER",
+      "gender": "Male",
+      "line": "The drivers can vote all they like.",
+      "wordCount": 7
+    },
+    {
+      "id": 606,
+      "index": 606,
+      "character": "CALDWELL",
+      "gender": "Male",
+      "line": "Keep still...",
+      "wordCount": 2
+    },
+    {
+      "id": 607,
+      "index": 607,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "What are you doing???",
+      "wordCount": 4
+    },
+    {
+      "id": 608,
+      "index": 608,
+      "character": "CALDWELL",
+      "gender": "Male",
+      "line": "To let the condensation out.",
+      "wordCount": 5
+    },
+    {
+      "id": 609,
+      "index": 609,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "But it will also let the water in.",
+      "wordCount": 8
+    },
+    {
+      "id": 610,
+      "index": 610,
+      "character": "CALDWELL",
+      "gender": "Male",
+      "line": "Not if you're leading.",
+      "wordCount": 4
+    },
+    {
+      "id": 611,
+      "index": 611,
+      "character": "CALDWELL",
+      "gender": "Male",
+      "line": "Trust me. This race is all about the start. Whoever's in front will see everything. Whoever's second...",
+      "wordCount": 17
+    },
+    {
+      "id": 612,
+      "index": 612,
+      "character": "CALDWELL",
+      "gender": "Male",
+      "line": "Good luck.",
+      "wordCount": 2
+    },
+    {
+      "id": 613,
+      "index": 613,
+      "character": "CALDWELL",
+      "gender": "Male",
+      "line": "Hold onto it, James..!",
+      "wordCount": 4
+    },
+    {
+      "id": 614,
+      "index": 614,
+      "character": "COMMENTATOR",
+      "gender": "NA",
+      "line": "It's the perfect start for Hunt!",
+      "wordCount": 6
+    },
+    {
+      "id": 615,
+      "index": 615,
+      "character": "COMMENTATOR",
+      "gender": "NA",
+      "line": "But Lauda's car is right on his tail! Barely visible in the spray..!",
+      "wordCount": 13
+    },
+    {
+      "id": 616,
+      "index": 616,
+      "character": "COMMENTATOR",
+      "gender": "NA",
+      "line": "Hunt turns too tightly! He almost lost his car right there...!",
+      "wordCount": 11
+    },
+    {
+      "id": 617,
+      "index": 617,
+      "character": "HESKETH",
+      "gender": "Male",
+      "line": "Concentrate, Superstar!",
+      "wordCount": 2
+    },
+    {
+      "id": 618,
+      "index": 618,
+      "character": "SUZY",
+      "gender": "Female",
+      "line": "Come on, James...",
+      "wordCount": 3
+    },
+    {
+      "id": 619,
+      "index": 619,
+      "character": "CALDWELL",
+      "gender": "Male",
+      "line": "God! His front tyre! Look! It's completely frayed!",
+      "wordCount": 8
+    },
+    {
+      "id": 620,
+      "index": 620,
+      "character": "COMMENTATOR",
+      "gender": "NA",
+      "line": "Hunt's car has problems...it's shaking...the Englishman is definitely getting slower...",
+      "wordCount": 10
+    },
+    {
+      "id": 621,
+      "index": 621,
+      "character": "COMMENTATOR",
+      "gender": "NA",
+      "line": "...with just a few laps to go, McLaren are calling for Hunt to come into the pits to change tyres...",
+      "wordCount": 20
+    },
+    {
+      "id": 622,
+      "index": 622,
+      "character": "COMMENTATOR",
+      "gender": "NA",
+      "line": "But Hunt is refusing! Simply ignoring his team's orders...! He's made the calculation that he can still hold onto the lead...!",
+      "wordCount": 21
+    },
+    {
+      "id": 623,
+      "index": 623,
+      "character": "BUBBLES",
+      "gender": "Male",
+      "line": "James!! What are you doing???",
+      "wordCount": 5
+    },
+    {
+      "id": 624,
+      "index": 624,
+      "character": "HESKETH",
+      "gender": "Male",
+      "line": "I can't bear it!",
+      "wordCount": 4
+    },
+    {
+      "id": 625,
+      "index": 625,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "No! No! NO!!!!",
+      "wordCount": 3
+    },
+    {
+      "id": 626,
+      "index": 626,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "I'm sorry!",
+      "wordCount": 2
+    },
+    {
+      "id": 627,
+      "index": 627,
+      "character": "MAYER",
+      "gender": "Male",
+      "line": "Sorry?? What are you talking about?? You did it!",
+      "wordCount": 9
+    },
+    {
+      "id": 628,
+      "index": 628,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "What?",
+      "wordCount": 1
+    },
+    {
+      "id": 629,
+      "index": 629,
+      "character": "MAYER",
+      "gender": "Male",
+      "line": "You WON!!",
+      "wordCount": 2
+    },
+    {
+      "id": 630,
+      "index": 630,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "Rubbish!! What about Niki?? He overtook me!! I saw it!! A Ferrari with a red helmet..",
+      "wordCount": 16
+    },
+    {
+      "id": 631,
+      "index": 631,
+      "character": "MAYER",
+      "gender": "Male",
+      "line": "That wasn't Niki. That was Regazzoni.",
+      "wordCount": 6
+    },
+    {
+      "id": 632,
+      "index": 632,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "What???",
+      "wordCount": 1
+    },
+    {
+      "id": 633,
+      "index": 633,
+      "character": "MAYER",
+      "gender": "Male",
+      "line": "Niki withdrew. Said it was too dangerous, refused to drive!! You're Champion of the World, kiddo!",
+      "wordCount": 16
+    },
+    {
+      "id": 634,
+      "index": 634,
+      "character": "HESKETH",
+      "gender": "Male",
+      "line": "He did it! He bloody well did it!",
+      "wordCount": 8
+    },
+    {
+      "id": 635,
+      "index": 635,
+      "character": "SUZY",
+      "gender": "Female",
+      "line": "Well done, James..",
+      "wordCount": 3
+    },
+    {
+      "id": 636,
+      "index": 636,
+      "character": "MARLENE",
+      "gender": "Female",
+      "line": "Are you OK?",
+      "wordCount": 3
+    },
+    {
+      "id": 637,
+      "index": 637,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "Fine. It's just one race.",
+      "wordCount": 5
+    },
+    {
+      "id": 638,
+      "index": 638,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "I heard you were spending more and more time in one of these...",
+      "wordCount": 13
+    },
+    {
+      "id": 639,
+      "index": 639,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "Do you fly?",
+      "wordCount": 3
+    },
+    {
+      "id": 640,
+      "index": 640,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "No.",
+      "wordCount": 1
+    },
+    {
+      "id": 641,
+      "index": 641,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "You should try it. If something goes wrong up there, you're on the edge, but have to stay within the rules. Stick to regulations. Suppress the ego. It's good discipline for the racing.",
+      "wordCount": 33
+    },
+    {
+      "id": 642,
+      "index": 642,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "And there I was thinking you were about to wax lyrical about the romance of flight. I should have known better.",
+      "wordCount": 21
+    },
+    {
+      "id": 643,
+      "index": 643,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "What brings you here?",
+      "wordCount": 4
+    },
+    {
+      "id": 644,
+      "index": 644,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "A friend's wedding. At least I think it was a wedding. Might have been a birthday. All a bit of a blur. How about you? Been at Fiorano?",
+      "wordCount": 28
+    },
+    {
+      "id": 645,
+      "index": 645,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "Pre-season testing.",
+      "wordCount": 2
+    },
+    {
+      "id": 646,
+      "index": 646,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "Already? In February? You're relentless.",
+      "wordCount": 5
+    },
+    {
+      "id": 647,
+      "index": 647,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "Thank you.",
+      "wordCount": 2
+    },
+    {
+      "id": 648,
+      "index": 648,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "I'm not sure I meant it as a compliment.",
+      "wordCount": 9
+    },
+    {
+      "id": 649,
+      "index": 649,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "But it is one. Relentlessness is good. Means you're a fighter. That you never give up. Behind my back I know some of you guys call me `The Rat.' Because I look like one. It's meant as an insult. But I don't mind it. Rats are ugly, sure. And no one likes them. But they're intelligent. With a strong survival instinct.",
+      "wordCount": 61
+    },
+    {
+      "id": 650,
+      "index": 650,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "So when do you start testing? Next week?",
+      "wordCount": 8
+    },
+    {
+      "id": 651,
+      "index": 651,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "Are you mad? I didn't just win the biggest thing of my life so I could get right back to work.",
+      "wordCount": 21
+    },
+    {
+      "id": 652,
+      "index": 652,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "Why? You need to. To prove to all the people who will always say you only won it because...",
+      "wordCount": 19
+    },
+    {
+      "id": 653,
+      "index": 653,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "Because what...? Because of your accident? Is that other people, Niki? Or you? I won. On the all important day when it came down to it, we raced on equal terms in equally good cars.",
+      "wordCount": 35
+    },
+    {
+      "id": 654,
+      "index": 654,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "It's true. You won that race. And believe me if I had to lose that title to anyone, I'm happy it was you. But that doesn't change the fact you have to win again.",
+      "wordCount": 34
+    },
+    {
+      "id": 655,
+      "index": 655,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "Why?",
+      "wordCount": 1
+    },
+    {
+      "id": 656,
+      "index": 656,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "Because that's what it means to be a winner, no? It's a permanent condition. Never stops or goes away. It stays with you always.",
+      "wordCount": 24
+    },
+    {
+      "id": 657,
+      "index": 657,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "That's winning? Sounds like losing to me. Some of life needs to be for pleasure, Niki. What's the use of having a million cups and medals if you never have any fun? How is that winning?",
+      "wordCount": 36
+    },
+    {
+      "id": 658,
+      "index": 658,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "You're right. I could learn from you. In hospital the toughest part of my treatment was the vacuum. Pumping the shit out of my lungs. It was agony. While doing it, I was watching television...you winning all those races...and I was cursing you.. \"That bastard, Hunt\", I would shout, \"I hate that guy.\" one day the doctor said, \"Mr. Lauda, may I offer one piece of advice? Stop thinking of it as a curse to have been given an enemy in life. It can be a blessing, too.\" I said, \"Who are you, Confucius?\" He said, \"A wise man gets more from his enemies than a fool from his friends.\" And you know, he's right. Look at us. We were a pair of kids when we first met. Hotheaded jerks in Formula 3. Headed nowhere. Now we're both Champions of the world. Not bad.",
+      "wordCount": 144
+    },
+    {
+      "id": 659,
+      "index": 659,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "No, not bad.",
+      "wordCount": 3
+    },
+    {
+      "id": 660,
+      "index": 660,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "So don't let me down now. I need you busting my balls. Get back to work.",
+      "wordCount": 16
+    },
+    {
+      "id": 661,
+      "index": 661,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "I will, Niki. But I intend to enjoy myself first. And so should you. You think you can?",
+      "wordCount": 18
+    },
+    {
+      "id": 662,
+      "index": 662,
+      "character": "JAMES",
+      "gender": "Male",
+      "line": "See you on race day, Champ.",
+      "wordCount": 6
+    },
+    {
+      "id": 663,
+      "index": 663,
+      "character": "NIKI",
+      "gender": "Male",
+      "line": "You will. Champ.",
+      "wordCount": 3
+    },
+    {
+      "id": 664,
+      "index": 664,
+      "character": "",
+      "gender": "Male"
+    }
+  ]
+}

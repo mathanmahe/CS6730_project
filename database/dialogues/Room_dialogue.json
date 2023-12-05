@@ -1,0 +1,8068 @@
+{
+  "fileName": "Room_dialogue.txt",
+  "title": "Room",
+  "data": [
+    {
+      "id": 0,
+      "index": 0,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "You cried all day and left TV on till you were a zombie. But then I zoomed down from heaven through Skylight into Room - and I was kicking you from the inside, boom boom, and then I shot out onto Rug with my eyes wide open, and you cutted the cord and said \"Hello Jack.\"",
+      "wordCount": 56
+    },
+    {
+      "id": 1,
+      "index": 1,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Ma. I'm five!",
+      "wordCount": 3
+    },
+    {
+      "id": 2,
+      "index": 2,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Morning lamp, Morning rug, Morning wardrobe ..",
+      "wordCount": 7
+    },
+    {
+      "id": 3,
+      "index": 3,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Morning Eggsnake. It's my birthday. I'm five.",
+      "wordCount": 7
+    },
+    {
+      "id": 4,
+      "index": 4,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Is Bad Tooth hurting?",
+      "wordCount": 4
+    },
+    {
+      "id": 5,
+      "index": 5,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Mind over matter.",
+      "wordCount": 3
+    },
+    {
+      "id": 6,
+      "index": 6,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "If we don't mind, it doesn't matter.",
+      "wordCount": 7
+    },
+    {
+      "id": 7,
+      "index": 7,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Guess what we're going to make later.",
+      "wordCount": 7
+    },
+    {
+      "id": 8,
+      "index": 8,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "What?",
+      "wordCount": 1
+    },
+    {
+      "id": 9,
+      "index": 9,
+      "character": "MA",
+      "gender": "Female",
+      "line": "A cake.",
+      "wordCount": 2
+    },
+    {
+      "id": 10,
+      "index": 10,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "A birthday cake, like in TV?",
+      "wordCount": 6
+    },
+    {
+      "id": 11,
+      "index": 11,
+      "character": "MA",
+      "gender": "Female",
+      "line": "But for real.",
+      "wordCount": 3
+    },
+    {
+      "id": 12,
+      "index": 12,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Come on slow poke.",
+      "wordCount": 4
+    },
+    {
+      "id": 13,
+      "index": 13,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "You, pink soft, pink swirls.",
+      "wordCount": 5
+    },
+    {
+      "id": 14,
+      "index": 14,
+      "character": "MA",
+      "gender": "Female",
+      "line": "You always pick that. But I guess it's your birthday.",
+      "wordCount": 10
+    },
+    {
+      "id": 15,
+      "index": 15,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Me, bear and jeans.",
+      "wordCount": 4
+    },
+    {
+      "id": 16,
+      "index": 16,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Good choice!",
+      "wordCount": 2
+    },
+    {
+      "id": 17,
+      "index": 17,
+      "character": "DORA THE EXPLORER",
+      "gender": "NA",
+      "line": "We couldn't have done it without you. Thanks for helping. Gracias.",
+      "wordCount": 11
+    },
+    {
+      "id": 18,
+      "index": 18,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Off, please.",
+      "wordCount": 2
+    },
+    {
+      "id": 19,
+      "index": 19,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Just one more planet.",
+      "wordCount": 4
+    },
+    {
+      "id": 20,
+      "index": 20,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Too much TV will turn us into zombies ... Anyway, it's time to mark how tall you are.",
+      "wordCount": 18
+    },
+    {
+      "id": 21,
+      "index": 21,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "I'm not very taller after four.",
+      "wordCount": 6
+    },
+    {
+      "id": 22,
+      "index": 22,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Oh, that's pretty normal.",
+      "wordCount": 4
+    },
+    {
+      "id": 23,
+      "index": 23,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Yeah?",
+      "wordCount": 1
+    },
+    {
+      "id": 24,
+      "index": 24,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Everything's hunky-dory.",
+      "wordCount": 2
+    },
+    {
+      "id": 25,
+      "index": 25,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Okey-dokey.",
+      "wordCount": 1
+    },
+    {
+      "id": 26,
+      "index": 26,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "That's where Red Pen died and we got Black Pen for Sunday Treat. Hey, what about cookies?",
+      "wordCount": 17
+    },
+    {
+      "id": 27,
+      "index": 27,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Sorry, I already asked for jeans for you for Sunday Treat.",
+      "wordCount": 11
+    },
+    {
+      "id": 28,
+      "index": 28,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "I'm going to grow and grow till I'm a giant. Look, Ma. Look how big my superpowers are already.",
+      "wordCount": 19
+    },
+    {
+      "id": 29,
+      "index": 29,
+      "character": "MA",
+      "gender": "Female",
+      "line": "You'll be as strong as Samson soon.",
+      "wordCount": 7
+    },
+    {
+      "id": 30,
+      "index": 30,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Huger every day.",
+      "wordCount": 3
+    },
+    {
+      "id": 31,
+      "index": 31,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Gigantic.",
+      "wordCount": 1
+    },
+    {
+      "id": 32,
+      "index": 32,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Enormous. Hugeormous.",
+      "wordCount": 2
+    },
+    {
+      "id": 33,
+      "index": 33,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Good word sandwich.",
+      "wordCount": 3
+    },
+    {
+      "id": 34,
+      "index": 34,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "I'm going to be Jack the Giant Giant-Killer and burst out of Skylight into Space with my dog Lucky and boing boing boing between all the planets...",
+      "wordCount": 27
+    },
+    {
+      "id": 35,
+      "index": 35,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Come on, you can read Dylan yourself.",
+      "wordCount": 7
+    },
+    {
+      "id": 36,
+      "index": 36,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "I can read them all but I like when you do.",
+      "wordCount": 11
+    },
+    {
+      "id": 37,
+      "index": 37,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Heeeeeeeere's Dylan, the sturdy digger! / The loads he shovels get bigger and bigger. / Watch his long arm delve into the earth, / No excavator so loves to munch dirt.",
+      "wordCount": 31
+    },
+    {
+      "id": 38,
+      "index": 38,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Our friend Table... just isn't able.",
+      "wordCount": 6
+    },
+    {
+      "id": 39,
+      "index": 39,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Our friend Spoon, sings to the moon.",
+      "wordCount": 7
+    },
+    {
+      "id": 40,
+      "index": 40,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Our friend Knife runs for his life.",
+      "wordCount": 7
+    },
+    {
+      "id": 41,
+      "index": 41,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Abracadabra!",
+      "wordCount": 1
+    },
+    {
+      "id": 42,
+      "index": 42,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Now the candles.",
+      "wordCount": 3
+    },
+    {
+      "id": 43,
+      "index": 43,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "You said a birthday cake for real. That means candles on fire.",
+      "wordCount": 12
+    },
+    {
+      "id": 44,
+      "index": 44,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Jack -",
+      "wordCount": 2
+    },
+    {
+      "id": 45,
+      "index": 45,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "You should ask for candles for Sunday Treat, not dumb jeans.",
+      "wordCount": 11
+    },
+    {
+      "id": 46,
+      "index": 46,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Sorry. I have to ask for stuff we really need that he can get easily.",
+      "wordCount": 15
+    },
+    {
+      "id": 47,
+      "index": 47,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "But Old Nick gets anything, by magic.",
+      "wordCount": 7
+    },
+    {
+      "id": 48,
+      "index": 48,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Try your cake, I bet it's delicioso.",
+      "wordCount": 7
+    },
+    {
+      "id": 49,
+      "index": 49,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Next week when I'm six you better ask for real candles.",
+      "wordCount": 11
+    },
+    {
+      "id": 50,
+      "index": 50,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Next year, you mean.",
+      "wordCount": 4
+    },
+    {
+      "id": 51,
+      "index": 51,
+      "character": "MA",
+      "gender": "Female",
+      "line": "But one day the mermaid finds where the fisherman hid her comb.",
+      "wordCount": 12
+    },
+    {
+      "id": 52,
+      "index": 52,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Ha ha.",
+      "wordCount": 2
+    },
+    {
+      "id": 53,
+      "index": 53,
+      "character": "MA",
+      "gender": "Female",
+      "line": "So she runs home to the sea.",
+      "wordCount": 7
+    },
+    {
+      "id": 54,
+      "index": 54,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Of course she takes her Baby Jack with her.",
+      "wordCount": 9
+    },
+    {
+      "id": 55,
+      "index": 55,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Does he drown?",
+      "wordCount": 3
+    },
+    {
+      "id": 56,
+      "index": 56,
+      "character": "MA",
+      "gender": "Female",
+      "line": "No, he's half-merman. He can breathe air or water, whichever. Satisfied, Jack leans over to scoop up the pile of clothes.",
+      "wordCount": 21
+    },
+    {
+      "id": 57,
+      "index": 57,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Laundry Time.",
+      "wordCount": 2
+    },
+    {
+      "id": 58,
+      "index": 58,
+      "character": "MA",
+      "gender": "Female",
+      "line": "... and Edmond swims and swims to the island of Monte Cristo and digs up all the treasure, and ...",
+      "wordCount": 20
+    },
+    {
+      "id": 59,
+      "index": 59,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Can we have more birthday cake?",
+      "wordCount": 6
+    },
+    {
+      "id": 60,
+      "index": 60,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Tomorrow.",
+      "wordCount": 1
+    },
+    {
+      "id": 61,
+      "index": 61,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Just a bite.",
+      "wordCount": 3
+    },
+    {
+      "id": 62,
+      "index": 62,
+      "character": "MA",
+      "gender": "Female",
+      "line": "We've brushed our teeth already.",
+      "wordCount": 5
+    },
+    {
+      "id": 63,
+      "index": 63,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "One more story?",
+      "wordCount": 3
+    },
+    {
+      "id": 64,
+      "index": 64,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Jack, it's late. Come on.",
+      "wordCount": 5
+    },
+    {
+      "id": 65,
+      "index": 65,
+      "character": "OLD NICK",
+      "gender": "Male",
+      "line": "Hey.",
+      "wordCount": 1
+    },
+    {
+      "id": 66,
+      "index": 66,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Hey.",
+      "wordCount": 1
+    },
+    {
+      "id": 67,
+      "index": 67,
+      "character": "OLD NICK",
+      "gender": "Male",
+      "line": "Here's the jeans.",
+      "wordCount": 3
+    },
+    {
+      "id": 68,
+      "index": 68,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Thanks.",
+      "wordCount": 1
+    },
+    {
+      "id": 69,
+      "index": 69,
+      "character": "OLD NICK",
+      "gender": "Male",
+      "line": "The grapes were way too much, so I got canned pears.",
+      "wordCount": 11
+    },
+    {
+      "id": 70,
+      "index": 70,
+      "character": "MA",
+      "gender": "Female",
+      "line": "OK.",
+      "wordCount": 1
+    },
+    {
+      "id": 71,
+      "index": 71,
+      "character": "OLD NICK",
+      "gender": "Male",
+      "line": "What's that? A birthday cake?",
+      "wordCount": 5
+    },
+    {
+      "id": 72,
+      "index": 72,
+      "character": "OLD NICK",
+      "gender": "Male",
+      "line": "Shoulda told me, I'd have brought him a present.",
+      "wordCount": 9
+    },
+    {
+      "id": 73,
+      "index": 73,
+      "character": "OLD NICK",
+      "gender": "Male",
+      "line": "What's he now, four?",
+      "wordCount": 4
+    },
+    {
+      "id": 74,
+      "index": 74,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Five.",
+      "wordCount": 1
+    },
+    {
+      "id": 75,
+      "index": 75,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "One, two, three, four...",
+      "wordCount": 4
+    },
+    {
+      "id": 76,
+      "index": 76,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "There's Room, then Outer Space, then Heaven. Plant is real but not trees. Spiders are real and one time the mosquito that was sucking my blood. But squirrels and dogs are just TV, except Lucky my dog that might be some day. Mountains are too big to be real and the sea.",
+      "wordCount": 52
+    },
+    {
+      "id": 77,
+      "index": 77,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "One twenty-eight, one twenty- nine...",
+      "wordCount": 5
+    },
+    {
+      "id": 78,
+      "index": 78,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "TV persons are flat and made of colors with red mouths and clothes instead of skin but me and you are real. Old Nick I don't know if he's real, maybe half? Green beans are real and chocolate but not ice cream.",
+      "wordCount": 42
+    },
+    {
+      "id": 79,
+      "index": 79,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Three hundred six, seven, eight -",
+      "wordCount": 6
+    },
+    {
+      "id": 80,
+      "index": 80,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Shh.",
+      "wordCount": 1
+    },
+    {
+      "id": 81,
+      "index": 81,
+      "character": "TV NARRATOR",
+      "gender": "NA",
+      "line": "Fallen leaves decompose and return nutrients to the soil.",
+      "wordCount": 9
+    },
+    {
+      "id": 82,
+      "index": 82,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Cheap piece of ...",
+      "wordCount": 4
+    },
+    {
+      "id": 83,
+      "index": 83,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Why Plant doesn't make flowers anymore?",
+      "wordCount": 6
+    },
+    {
+      "id": 84,
+      "index": 84,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Maybe she's tired.",
+      "wordCount": 3
+    },
+    {
+      "id": 85,
+      "index": 85,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "You made him gone!",
+      "wordCount": 4
+    },
+    {
+      "id": 86,
+      "index": 86,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "He was an alive thing, he was real!",
+      "wordCount": 8
+    },
+    {
+      "id": 87,
+      "index": 87,
+      "character": "MA",
+      "gender": "Female",
+      "line": "They'd steal our food.",
+      "wordCount": 4
+    },
+    {
+      "id": 88,
+      "index": 88,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Mouse can have my food, I'm not hungry.",
+      "wordCount": 8
+    },
+    {
+      "id": 89,
+      "index": 89,
+      "character": "MA",
+      "gender": "Female",
+      "line": "They'd bring in germs, bite us in the night.",
+      "wordCount": 9
+    },
+    {
+      "id": 90,
+      "index": 90,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Mouse is my friend and you splatted him dead.",
+      "wordCount": 9
+    },
+    {
+      "id": 91,
+      "index": 91,
+      "character": "MA",
+      "gender": "Female",
+      "line": "No I didn't, he's hunky-dory.",
+      "wordCount": 5
+    },
+    {
+      "id": 92,
+      "index": 92,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Are you just tricking me?",
+      "wordCount": 5
+    },
+    {
+      "id": 93,
+      "index": 93,
+      "character": "MA",
+      "gender": "Female",
+      "line": "I swear, he's safe at home with his Ma in the backyard.",
+      "wordCount": 12
+    },
+    {
+      "id": 94,
+      "index": 94,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "What backyard?",
+      "wordCount": 2
+    },
+    {
+      "id": 95,
+      "index": 95,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Mouse lives in a yard in TV?",
+      "wordCount": 7
+    },
+    {
+      "id": 96,
+      "index": 96,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Hey, let's make a UFO with this.",
+      "wordCount": 7
+    },
+    {
+      "id": 97,
+      "index": 97,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Why you didn't tell Old Nick it was my birthday?",
+      "wordCount": 10
+    },
+    {
+      "id": 98,
+      "index": 98,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Because he's not our friend.",
+      "wordCount": 5
+    },
+    {
+      "id": 99,
+      "index": 99,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "He said he'd brung me a present.",
+      "wordCount": 7
+    },
+    {
+      "id": 100,
+      "index": 100,
+      "character": "MA",
+      "gender": "Female",
+      "line": "You shouldn't hear what he - You're meant to be asleep.",
+      "wordCount": 11
+    },
+    {
+      "id": 101,
+      "index": 101,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "I never had a present.",
+      "wordCount": 5
+    },
+    {
+      "id": 102,
+      "index": 102,
+      "character": "MA",
+      "gender": "Female",
+      "line": "He didn't mean it.",
+      "wordCount": 4
+    },
+    {
+      "id": 103,
+      "index": 103,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "It might be Lucky my dog.",
+      "wordCount": 6
+    },
+    {
+      "id": 104,
+      "index": 104,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Jack. We can't have a dog. We don't have room - - space, enough space - cooped up in here with the barking, the scratching...",
+      "wordCount": 25
+    },
+    {
+      "id": 105,
+      "index": 105,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Lucky won't scratch, he promises.",
+      "wordCount": 5
+    },
+    {
+      "id": 106,
+      "index": 106,
+      "character": "MA",
+      "gender": "Female",
+      "line": "There is no Lucky!",
+      "wordCount": 4
+    },
+    {
+      "id": 107,
+      "index": 107,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Yeah there is.",
+      "wordCount": 3
+    },
+    {
+      "id": 108,
+      "index": 108,
+      "character": "MA",
+      "gender": "Female",
+      "line": "He's just made-up, in your head, he's not real.",
+      "wordCount": 9
+    },
+    {
+      "id": 109,
+      "index": 109,
+      "character": "HOSTESS",
+      "gender": "Female",
+      "line": "...most poignant aspect, I can speak for all our viewers, so, so deeply moved by what you endured.",
+      "wordCount": 18
+    },
+    {
+      "id": 110,
+      "index": 110,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Ma. Where are we when we're asleep?",
+      "wordCount": 7
+    },
+    {
+      "id": 111,
+      "index": 111,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Right here in Room.",
+      "wordCount": 4
+    },
+    {
+      "id": 112,
+      "index": 112,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "But dreams. Do we go into TV for dreaming?",
+      "wordCount": 9
+    },
+    {
+      "id": 113,
+      "index": 113,
+      "character": "MA",
+      "gender": "Female",
+      "line": "We're never anywhere but here.",
+      "wordCount": 5
+    },
+    {
+      "id": 114,
+      "index": 114,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "I want some.",
+      "wordCount": 3
+    },
+    {
+      "id": 115,
+      "index": 115,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Ma! I think Old Nick lives in TV, like Mouse. That's where he goes when he's not here in Room.",
+      "wordCount": 20
+    },
+    {
+      "id": 116,
+      "index": 116,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Jack. Go to sleep. INT. ROOM - DAY",
+      "wordCount": 8
+    },
+    {
+      "id": 117,
+      "index": 117,
+      "character": "MA",
+      "gender": "Female",
+      "line": "You can open it.",
+      "wordCount": 4
+    },
+    {
+      "id": 118,
+      "index": 118,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "I can do it.",
+      "wordCount": 4
+    },
+    {
+      "id": 119,
+      "index": 119,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Why the aliens never scream back?",
+      "wordCount": 6
+    },
+    {
+      "id": 120,
+      "index": 120,
+      "character": "MA",
+      "gender": "Female",
+      "line": "I guess they still can't hear us.",
+      "wordCount": 7
+    },
+    {
+      "id": 121,
+      "index": 121,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Tomorrow we'll do even louderer.",
+      "wordCount": 5
+    },
+    {
+      "id": 122,
+      "index": 122,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Jack!",
+      "wordCount": 1
+    },
+    {
+      "id": 123,
+      "index": 123,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "What smells bad?",
+      "wordCount": 3
+    },
+    {
+      "id": 124,
+      "index": 124,
+      "character": "OLD NICK",
+      "gender": "Male",
+      "line": "Hey. What's the smell?",
+      "wordCount": 4
+    },
+    {
+      "id": 125,
+      "index": 125,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Sorry, I burned some cheese.",
+      "wordCount": 5
+    },
+    {
+      "id": 126,
+      "index": 126,
+      "character": "OLD NICK",
+      "gender": "Male",
+      "line": "You need to take more care.",
+      "wordCount": 6
+    },
+    {
+      "id": 127,
+      "index": 127,
+      "character": "MA",
+      "gender": "Female",
+      "line": "I will. I wasn't thinking.",
+      "wordCount": 5
+    },
+    {
+      "id": 128,
+      "index": 128,
+      "character": "OLD NICK",
+      "gender": "Male",
+      "line": "Yeah, well, thinking's not your strong suit.",
+      "wordCount": 7
+    },
+    {
+      "id": 129,
+      "index": 129,
+      "character": "MA",
+      "gender": "Female",
+      "line": "I know. I'm really sorry.",
+      "wordCount": 5
+    },
+    {
+      "id": 130,
+      "index": 130,
+      "character": "OLD NICK",
+      "gender": "Male",
+      "line": "So did he like his truck?",
+      "wordCount": 6
+    },
+    {
+      "id": 131,
+      "index": 131,
+      "character": "OLD NICK",
+      "gender": "Male",
+      "line": "I know boys, I was one once.",
+      "wordCount": 7
+    },
+    {
+      "id": 132,
+      "index": 132,
+      "character": "MA",
+      "gender": "Female",
+      "line": "The vitamins?",
+      "wordCount": 2
+    },
+    {
+      "id": 133,
+      "index": 133,
+      "character": "OLD NICK",
+      "gender": "Male",
+      "line": "Waste of money.",
+      "wordCount": 3
+    },
+    {
+      "id": 134,
+      "index": 134,
+      "character": "MA",
+      "gender": "Female",
+      "line": "If we had a better diet, maybe...",
+      "wordCount": 7
+    },
+    {
+      "id": 135,
+      "index": 135,
+      "character": "OLD NICK",
+      "gender": "Male",
+      "line": "Here we go again. You know instead of complaining maybe you should thank your lucky stars you've got a place like this. Cosy, safe, specially with the kid - no drunk drivers, drug-pushers, perverts...",
+      "wordCount": 34
+    },
+    {
+      "id": 136,
+      "index": 136,
+      "character": "MA",
+      "gender": "Female",
+      "line": "I'm sorry.",
+      "wordCount": 2
+    },
+    {
+      "id": 137,
+      "index": 137,
+      "character": "OLD NICK",
+      "gender": "Male",
+      "line": "Like pulling teeth sometimes.",
+      "wordCount": 4
+    },
+    {
+      "id": 138,
+      "index": 138,
+      "character": "OLD NICK",
+      "gender": "Male",
+      "line": "Your problem is you have no idea about the world of today.",
+      "wordCount": 12
+    },
+    {
+      "id": 139,
+      "index": 139,
+      "character": "MA",
+      "gender": "Female",
+      "line": "No.",
+      "wordCount": 1
+    },
+    {
+      "id": 140,
+      "index": 140,
+      "character": "OLD NICK",
+      "gender": "Male",
+      "line": "Who pays the power bills? Who pays for everything?",
+      "wordCount": 9
+    },
+    {
+      "id": 141,
+      "index": 141,
+      "character": "MA",
+      "gender": "Female",
+      "line": "You.",
+      "wordCount": 1
+    },
+    {
+      "id": 142,
+      "index": 142,
+      "character": "OLD NICK",
+      "gender": "Male",
+      "line": "And where do you think the money's going to keep coming from?",
+      "wordCount": 12
+    },
+    {
+      "id": 143,
+      "index": 143,
+      "character": "MA",
+      "gender": "Female",
+      "line": "What do you mean?",
+      "wordCount": 4
+    },
+    {
+      "id": 144,
+      "index": 144,
+      "character": "OLD NICK",
+      "gender": "Male",
+      "line": "Nothing.",
+      "wordCount": 1
+    },
+    {
+      "id": 145,
+      "index": 145,
+      "character": "MA",
+      "gender": "Female",
+      "line": "No, but -",
+      "wordCount": 3
+    },
+    {
+      "id": 146,
+      "index": 146,
+      "character": "OLD NICK",
+      "gender": "Male",
+      "line": "Six months I've been laid off, have you had to worry your little head?",
+      "wordCount": 14
+    },
+    {
+      "id": 147,
+      "index": 147,
+      "character": "MA",
+      "gender": "Female",
+      "line": "What are you going to do?",
+      "wordCount": 6
+    },
+    {
+      "id": 148,
+      "index": 148,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Are you... looking for another job?",
+      "wordCount": 6
+    },
+    {
+      "id": 149,
+      "index": 149,
+      "character": "OLD NICK",
+      "gender": "Male",
+      "line": "What job? There are no damn jobs, Jesus Christ!",
+      "wordCount": 9
+    },
+    {
+      "id": 150,
+      "index": 150,
+      "character": "OLD NICK",
+      "gender": "Male",
+      "line": "Hey in there.",
+      "wordCount": 3
+    },
+    {
+      "id": 151,
+      "index": 151,
+      "character": "MA",
+      "gender": "Female",
+      "line": "He's asleep.",
+      "wordCount": 2
+    },
+    {
+      "id": 152,
+      "index": 152,
+      "character": "OLD NICK",
+      "gender": "Male",
+      "line": "Don't think so. You keep him in the closet all day as well as all night? Poor little freak has two heads or something?",
+      "wordCount": 24
+    },
+    {
+      "id": 153,
+      "index": 153,
+      "character": "OLD NICK",
+      "gender": "Male",
+      "line": "Hey Jack. You like candy? Wanna come out and have some candy?",
+      "wordCount": 12
+    },
+    {
+      "id": 154,
+      "index": 154,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Let's go to bed.",
+      "wordCount": 4
+    },
+    {
+      "id": 155,
+      "index": 155,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Now.",
+      "wordCount": 1
+    },
+    {
+      "id": 156,
+      "index": 156,
+      "character": "OLD NICK",
+      "gender": "Male",
+      "line": "Didn't your Momma ever teach you manners?",
+      "wordCount": 7
+    },
+    {
+      "id": 157,
+      "index": 157,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Please.",
+      "wordCount": 1
+    },
+    {
+      "id": 158,
+      "index": 158,
+      "character": "OLD NICK",
+      "gender": "Male",
+      "line": "Hey sonny.",
+      "wordCount": 2
+    },
+    {
+      "id": 159,
+      "index": 159,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Get away from him! Get away!",
+      "wordCount": 6
+    },
+    {
+      "id": 160,
+      "index": 160,
+      "character": "OLD NICK",
+      "gender": "Male",
+      "line": "Stop that noise.",
+      "wordCount": 3
+    },
+    {
+      "id": 161,
+      "index": 161,
+      "character": "OLD NICK",
+      "gender": "Male",
+      "line": "Of all the crazy...",
+      "wordCount": 4
+    },
+    {
+      "id": 162,
+      "index": 162,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Just leave him alone.",
+      "wordCount": 4
+    },
+    {
+      "id": 163,
+      "index": 163,
+      "character": "OLD NICK",
+      "gender": "Male",
+      "line": "Just don't forget where you got him.",
+      "wordCount": 7
+    },
+    {
+      "id": 164,
+      "index": 164,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Sorry I - sorry - sorry -",
+      "wordCount": 7
+    },
+    {
+      "id": 165,
+      "index": 165,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Sorry I came out of Wardrobe.",
+      "wordCount": 6
+    },
+    {
+      "id": 166,
+      "index": 166,
+      "character": "MA",
+      "gender": "Female",
+      "line": "It's OK.",
+      "wordCount": 2
+    },
+    {
+      "id": 167,
+      "index": 167,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Ma, we're dragons.",
+      "wordCount": 3
+    },
+    {
+      "id": 168,
+      "index": 168,
+      "character": "MA",
+      "gender": "Female",
+      "line": "He's cut the power.",
+      "wordCount": 4
+    },
+    {
+      "id": 169,
+      "index": 169,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "For, you see, so many out-of-the- way things had happened lat-ely -",
+      "wordCount": 12
+    },
+    {
+      "id": 170,
+      "index": 170,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Lately.",
+      "wordCount": 1
+    },
+    {
+      "id": 171,
+      "index": 171,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "- lately, that Alice had begun to think that very few things indeed were really impossible.",
+      "wordCount": 16
+    },
+    {
+      "id": 172,
+      "index": 172,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Lunch!",
+      "wordCount": 1
+    },
+    {
+      "id": 173,
+      "index": 173,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "No thanks.",
+      "wordCount": 2
+    },
+    {
+      "id": 174,
+      "index": 174,
+      "character": "MA",
+      "gender": "Female",
+      "line": "We have to use them up before they rot. Once we eat we'll feel warmer.",
+      "wordCount": 15
+    },
+    {
+      "id": 175,
+      "index": 175,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "When's Old Nick going to put the power back?",
+      "wordCount": 9
+    },
+    {
+      "id": 176,
+      "index": 176,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Soon.",
+      "wordCount": 1
+    },
+    {
+      "id": 177,
+      "index": 177,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "When's soon?",
+      "wordCount": 2
+    },
+    {
+      "id": 178,
+      "index": 178,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Once he's not mad with me anymore.",
+      "wordCount": 7
+    },
+    {
+      "id": 179,
+      "index": 179,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "I hope he never comes back not ever.",
+      "wordCount": 8
+    },
+    {
+      "id": 180,
+      "index": 180,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Jack. Think about it.",
+      "wordCount": 4
+    },
+    {
+      "id": 181,
+      "index": 181,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "No Sunday Treat?",
+      "wordCount": 3
+    },
+    {
+      "id": 182,
+      "index": 182,
+      "character": "MA",
+      "gender": "Female",
+      "line": "No anything.",
+      "wordCount": 2
+    },
+    {
+      "id": 183,
+      "index": 183,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Hey Jack. Remember the mouse?",
+      "wordCount": 5
+    },
+    {
+      "id": 184,
+      "index": 184,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "My friend Mouse?",
+      "wordCount": 3
+    },
+    {
+      "id": 185,
+      "index": 185,
+      "character": "MA",
+      "gender": "Female",
+      "line": "You know where he is right now?",
+      "wordCount": 7
+    },
+    {
+      "id": 186,
+      "index": 186,
+      "character": "MA",
+      "gender": "Female",
+      "line": "On the other side of this wall.",
+      "wordCount": 7
+    },
+    {
+      "id": 187,
+      "index": 187,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "What other side?",
+      "wordCount": 3
+    },
+    {
+      "id": 188,
+      "index": 188,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Oh Jack, everything has two sides.",
+      "wordCount": 6
+    },
+    {
+      "id": 189,
+      "index": 189,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Not an octagon.",
+      "wordCount": 3
+    },
+    {
+      "id": 190,
+      "index": 190,
+      "character": "MA",
+      "gender": "Female",
+      "line": "No, that's -",
+      "wordCount": 3
+    },
+    {
+      "id": 191,
+      "index": 191,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "An octagon has eight.",
+      "wordCount": 4
+    },
+    {
+      "id": 192,
+      "index": 192,
+      "character": "MA",
+      "gender": "Female",
+      "line": "But a wall's like this. And we're on the inside, in Room, and Mouse is on the outside, see?",
+      "wordCount": 19
+    },
+    {
+      "id": 193,
+      "index": 193,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "In Outer Space?",
+      "wordCount": 3
+    },
+    {
+      "id": 194,
+      "index": 194,
+      "character": "MA",
+      "gender": "Female",
+      "line": "No, in the world. It's much closer than Outer Space.",
+      "wordCount": 10
+    },
+    {
+      "id": 195,
+      "index": 195,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "I don't see any outside side.",
+      "wordCount": 6
+    },
+    {
+      "id": 196,
+      "index": 196,
+      "character": "MA",
+      "gender": "Female",
+      "line": "But if we were outside in the world, we would, we'd be looking at the other side of this wall, and Mouse lying in the grass with his Ma. We'd see trees and cars and -",
+      "wordCount": 36
+    },
+    {
+      "id": 197,
+      "index": 197,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Grass is just TV.",
+      "wordCount": 4
+    },
+    {
+      "id": 198,
+      "index": 198,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Is it, though? You know when Door opens and the air comes in, the air that smells fresher - that's grass. Jack tries to laugh.",
+      "wordCount": 25
+    },
+    {
+      "id": 199,
+      "index": 199,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "You can't smell TV.",
+      "wordCount": 4
+    },
+    {
+      "id": 200,
+      "index": 200,
+      "character": "MA",
+      "gender": "Female",
+      "line": "But it's not TV. It's the real world we smell. You're so smart, I know you've started wondering.",
+      "wordCount": 18
+    },
+    {
+      "id": 201,
+      "index": 201,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Where do you think Old Nick gets our food?",
+      "wordCount": 9
+    },
+    {
+      "id": 202,
+      "index": 202,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "From TV by magic.",
+      "wordCount": 4
+    },
+    {
+      "id": 203,
+      "index": 203,
+      "character": "MA",
+      "gender": "Female",
+      "line": "There's no magic! Everything we see on TV - it's pictures of real stuff and real people in the world.",
+      "wordCount": 20
+    },
+    {
+      "id": 204,
+      "index": 204,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Dora's real for real?",
+      "wordCount": 4
+    },
+    {
+      "id": 205,
+      "index": 205,
+      "character": "MA",
+      "gender": "Female",
+      "line": "No, sorry, not Dora, she's just a picture, but the other ones, with faces like ours - and there's real streets and oceans, dogs, cats -",
+      "wordCount": 26
+    },
+    {
+      "id": 206,
+      "index": 206,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "No way. Where would they all fit?",
+      "wordCount": 7
+    },
+    {
+      "id": 207,
+      "index": 207,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Just out there, in the world.",
+      "wordCount": 6
+    },
+    {
+      "id": 208,
+      "index": 208,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Can I have a sandwich?",
+      "wordCount": 5
+    },
+    {
+      "id": 209,
+      "index": 209,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Look! A leaf!",
+      "wordCount": 3
+    },
+    {
+      "id": 210,
+      "index": 210,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Where?",
+      "wordCount": 1
+    },
+    {
+      "id": 211,
+      "index": 211,
+      "character": "MA",
+      "gender": "Female",
+      "line": "On skylight.",
+      "wordCount": 2
+    },
+    {
+      "id": 212,
+      "index": 212,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Dumbo Ma. That's not a leaf. Leaves are green.",
+      "wordCount": 9
+    },
+    {
+      "id": 213,
+      "index": 213,
+      "character": "MA",
+      "gender": "Female",
+      "line": "On the trees they are but when they fall they rot, like salad, in the fridge, they -.",
+      "wordCount": 18
+    },
+    {
+      "id": 214,
+      "index": 214,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Where's all the stuff you said? Trees and dogs and -",
+      "wordCount": 11
+    },
+    {
+      "id": 215,
+      "index": 215,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Well, we can't see them from here because the skylight looks upwards instead of sideways.",
+      "wordCount": 15
+    },
+    {
+      "id": 216,
+      "index": 216,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "You're just tricking me.",
+      "wordCount": 4
+    },
+    {
+      "id": 217,
+      "index": 217,
+      "character": "MA",
+      "gender": "Female",
+      "line": "No I'm not.",
+      "wordCount": 3
+    },
+    {
+      "id": 218,
+      "index": 218,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Liar liar pants on fire!",
+      "wordCount": 5
+    },
+    {
+      "id": 219,
+      "index": 219,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Jack. I couldn't explain before, you were too small to understand, so.. I had to make up a story.",
+      "wordCount": 19
+    },
+    {
+      "id": 220,
+      "index": 220,
+      "character": "MA",
+      "gender": "Female",
+      "line": "But now - it's the opposite of lying, I'm unlying, because now you're five I think you can understand about the world, you have to understand.",
+      "wordCount": 26
+    },
+    {
+      "id": 221,
+      "index": 221,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Jack -",
+      "wordCount": 2
+    },
+    {
+      "id": 222,
+      "index": 222,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "I want to be four again.",
+      "wordCount": 6
+    },
+    {
+      "id": 223,
+      "index": 223,
+      "character": "MA",
+      "gender": "Female",
+      "line": "You know how Alice wasn't always in Wonderland?",
+      "wordCount": 8
+    },
+    {
+      "id": 224,
+      "index": 224,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "She fell down down down the hole.",
+      "wordCount": 7
+    },
+    {
+      "id": 225,
+      "index": 225,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Well, I'm like Alice. I wasn't always in Room.",
+      "wordCount": 9
+    },
+    {
+      "id": 226,
+      "index": 226,
+      "character": "MA",
+      "gender": "Female",
+      "line": "I used to be a little girl called Joy. I lived-",
+      "wordCount": 11
+    },
+    {
+      "id": 227,
+      "index": 227,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Nah!",
+      "wordCount": 1
+    },
+    {
+      "id": 228,
+      "index": 228,
+      "character": "MA",
+      "gender": "Female",
+      "line": "I lived in a house out in the world - with my mom and dad. You'd call them Grandma and Grandpa.",
+      "wordCount": 21
+    },
+    {
+      "id": 229,
+      "index": 229,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "What house?",
+      "wordCount": 2
+    },
+    {
+      "id": 230,
+      "index": 230,
+      "character": "MA",
+      "gender": "Female",
+      "line": "The house where we lived, with a hammock in the back yard. We used to swing in the hammock and eat ice cream.",
+      "wordCount": 23
+    },
+    {
+      "id": 231,
+      "index": 231,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "A TV house?",
+      "wordCount": 3
+    },
+    {
+      "id": 232,
+      "index": 232,
+      "character": "MA",
+      "gender": "Female",
+      "line": "It's not TV, Jack. Are you listening?",
+      "wordCount": 7
+    },
+    {
+      "id": 233,
+      "index": 233,
+      "character": "MA",
+      "gender": "Female",
+      "line": "And then I was nearly grown up, I was seventeen, I was walking to school and -",
+      "wordCount": 17
+    },
+    {
+      "id": 234,
+      "index": 234,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Where was I?",
+      "wordCount": 3
+    },
+    {
+      "id": 235,
+      "index": 235,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Still up in heaven. So this guy ran up to me, saying his -",
+      "wordCount": 14
+    },
+    {
+      "id": 236,
+      "index": 236,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "What guy?",
+      "wordCount": 2
+    },
+    {
+      "id": 237,
+      "index": 237,
+      "character": "MA",
+      "gender": "Female",
+      "line": "We call him Old Nick, but I don't know his real name. He pretended his dog was sick, he seemed really -",
+      "wordCount": 22
+    },
+    {
+      "id": 238,
+      "index": 238,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "What's the dog's name?",
+      "wordCount": 4
+    },
+    {
+      "id": 239,
+      "index": 239,
+      "character": "MA",
+      "gender": "Female",
+      "line": "There was no dog. It was just a trick to get me into his truck. Old Nick stole me.",
+      "wordCount": 19
+    },
+    {
+      "id": 240,
+      "index": 240,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "I want a different story.",
+      "wordCount": 5
+    },
+    {
+      "id": 241,
+      "index": 241,
+      "character": "MA",
+      "gender": "Female",
+      "line": "You need to hear this one. He put me in his garden shed.",
+      "wordCount": 13
+    },
+    {
+      "id": 242,
+      "index": 242,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Where?",
+      "wordCount": 1
+    },
+    {
+      "id": 243,
+      "index": 243,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Here. Room's the shed. He's the only one with the code - secret numbers to open the door. I've been locked in here for seven years. Do you understand?",
+      "wordCount": 29
+    },
+    {
+      "id": 244,
+      "index": 244,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "This story's boring.",
+      "wordCount": 3
+    },
+    {
+      "id": 245,
+      "index": 245,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Jack, the world. You wouldn't believe how big it is. Room's only a tiny stinky piece of it.",
+      "wordCount": 18
+    },
+    {
+      "id": 246,
+      "index": 246,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Room's not stinky. Only when you do a fart.",
+      "wordCount": 9
+    },
+    {
+      "id": 247,
+      "index": 247,
+      "character": "MA",
+      "gender": "Female",
+      "line": "OK.",
+      "wordCount": 1
+    },
+    {
+      "id": 248,
+      "index": 248,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "I don't believe in your stinky world.",
+      "wordCount": 7
+    },
+    {
+      "id": 249,
+      "index": 249,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Fine. That's fine Jack.",
+      "wordCount": 4
+    },
+    {
+      "id": 250,
+      "index": 250,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "It's warm again.",
+      "wordCount": 3
+    },
+    {
+      "id": 251,
+      "index": 251,
+      "character": "DORA AND BOOTS",
+      "gender": "NA",
+      "line": "Where do we go next? River, Bridge, Highest Hill. Will you check my backpack for something to help us?",
+      "wordCount": 19
+    },
+    {
+      "id": 252,
+      "index": 252,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Eggsnake's our longest friend and fanciest. Meltedy Spoon's the best to eat with because he's more blobbier. Labyrinth is the twistiest and she hides things so I don't know where. Toilet's the best at disappearing poo. Lamp's the brightest except when the powercut. You're the best at reading and songs and lots except if you're having a Gone Day. I'm the best at drawing and jumping and growing and nearly everything.",
+      "wordCount": 71
+    },
+    {
+      "id": 253,
+      "index": 253,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Apple?",
+      "wordCount": 1
+    },
+    {
+      "id": 254,
+      "index": 254,
+      "character": "MA",
+      "gender": "Female",
+      "line": "About time.",
+      "wordCount": 2
+    },
+    {
+      "id": 255,
+      "index": 255,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Bad Tooth? Can I have it?",
+      "wordCount": 6
+    },
+    {
+      "id": 256,
+      "index": 256,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Sure, if you want it.",
+      "wordCount": 5
+    },
+    {
+      "id": 257,
+      "index": 257,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Are turtles real?",
+      "wordCount": 3
+    },
+    {
+      "id": 258,
+      "index": 258,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Totally real. I had a pet turtle.",
+      "wordCount": 7
+    },
+    {
+      "id": 259,
+      "index": 259,
+      "character": "DAVID ATTENBOROUGH",
+      "gender": "NA",
+      "line": "Crocodiles, sharks, and hungry fish are all waiting in the shallows.",
+      "wordCount": 11
+    },
+    {
+      "id": 260,
+      "index": 260,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Crocodiles and sharks -",
+      "wordCount": 4
+    },
+    {
+      "id": 261,
+      "index": 261,
+      "character": "MA",
+      "gender": "Female",
+      "line": "They're all real.",
+      "wordCount": 3
+    },
+    {
+      "id": 262,
+      "index": 262,
+      "character": "ANNE",
+      "gender": "NA",
+      "line": "Oh, my lord...",
+      "wordCount": 3
+    },
+    {
+      "id": 263,
+      "index": 263,
+      "character": "HENRY",
+      "gender": "NA",
+      "line": "Not while he plays here...",
+      "wordCount": 5
+    },
+    {
+      "id": 264,
+      "index": 264,
+      "character": "ANNE",
+      "gender": "NA",
+      "line": "I'll send him away -",
+      "wordCount": 5
+    },
+    {
+      "id": 265,
+      "index": 265,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Real?",
+      "wordCount": 1
+    },
+    {
+      "id": 266,
+      "index": 266,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Ah, they're real people playing dress-up, pretending to be people from hundreds of years ago.",
+      "wordCount": 15
+    },
+    {
+      "id": 267,
+      "index": 267,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Just TV?",
+      "wordCount": 2
+    },
+    {
+      "id": 268,
+      "index": 268,
+      "character": "MA",
+      "gender": "Female",
+      "line": "You're getting it!",
+      "wordCount": 3
+    },
+    {
+      "id": 269,
+      "index": 269,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "When Old Nick comes back, I'm going to kick him in the butt.",
+      "wordCount": 13
+    },
+    {
+      "id": 270,
+      "index": 270,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Jack.",
+      "wordCount": 1
+    },
+    {
+      "id": 271,
+      "index": 271,
+      "character": "MA",
+      "gender": "Female",
+      "line": "One night I stood behind the door with the lid of the toilet tank -",
+      "wordCount": 15
+    },
+    {
+      "id": 272,
+      "index": 272,
+      "character": "MA",
+      "gender": "Female",
+      "line": "- it used to have a lid, it was the heaviest thing in Room. When he came in I tried to smash it down on his head. But I messed up, Jack. He shoved the door shut and grabbed me by the wrist - that's why it's sore now.",
+      "wordCount": 49
+    },
+    {
+      "id": 273,
+      "index": 273,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "We could wait till he's asleep and kill him dead.",
+      "wordCount": 10
+    },
+    {
+      "id": 274,
+      "index": 274,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Yes we could, but then we'd have no more food - and we wouldn't know the code, on the door, to get out.",
+      "wordCount": 23
+    },
+    {
+      "id": 275,
+      "index": 275,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "The Grandma and the Grandpa could come.",
+      "wordCount": 7
+    },
+    {
+      "id": 276,
+      "index": 276,
+      "character": "MA",
+      "gender": "Female",
+      "line": "They don't know where we are, Jack. Room's not on any map.",
+      "wordCount": 12
+    },
+    {
+      "id": 277,
+      "index": 277,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Can I have more TV?",
+      "wordCount": 5
+    },
+    {
+      "id": 278,
+      "index": 278,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Jack, I want you to listen to me. Jack!",
+      "wordCount": 9
+    },
+    {
+      "id": 279,
+      "index": 279,
+      "character": "MA",
+      "gender": "Female",
+      "line": "You're old enough now and we can't wait any longer ... Jack you are going to help me trick Old Nick like Jack in the stories is always tricking the giant.",
+      "wordCount": 31
+    },
+    {
+      "id": 280,
+      "index": 280,
+      "character": "MA",
+      "gender": "Female",
+      "line": "I'm going to make your face so scorching hot that Old Nick will take you to the hospital in his truck, and the minute you get there you'll tell the doctors, 'Help! Police!",
+      "wordCount": 33
+    },
+    {
+      "id": 281,
+      "index": 281,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "You can tell it.",
+      "wordCount": 4
+    },
+    {
+      "id": 282,
+      "index": 282,
+      "character": "MA",
+      "gender": "Female",
+      "line": "I'll write you a note to give them.",
+      "wordCount": 8
+    },
+    {
+      "id": 283,
+      "index": 283,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "You can give them.",
+      "wordCount": 4
+    },
+    {
+      "id": 284,
+      "index": 284,
+      "character": "MA",
+      "gender": "Female",
+      "line": "I won't be in the hospital, I'll be here.",
+      "wordCount": 9
+    },
+    {
+      "id": 285,
+      "index": 285,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "No. No.",
+      "wordCount": 2
+    },
+    {
+      "id": 286,
+      "index": 286,
+      "character": "MA",
+      "gender": "Female",
+      "line": "It'll be OK.",
+      "wordCount": 3
+    },
+    {
+      "id": 287,
+      "index": 287,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "With you!",
+      "wordCount": 2
+    },
+    {
+      "id": 288,
+      "index": 288,
+      "character": "MA",
+      "gender": "Female",
+      "line": "He won't take us both. You'll go first, just to the hospital so you can tell the police, and then...",
+      "wordCount": 20
+    },
+    {
+      "id": 289,
+      "index": 289,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Then you'll come rescue me.",
+      "wordCount": 5
+    },
+    {
+      "id": 290,
+      "index": 290,
+      "character": "MA",
+      "gender": "Female",
+      "line": "We'll be free. Go on hikes, see birds. Ride in cars and trains and planes. I'll teach you to swim. We'll have friends. And a dog - we'll call him Lucky. A party with a cake with candles, our friends singing.",
+      "wordCount": 41
+    },
+    {
+      "id": 291,
+      "index": 291,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Maybe next year when I'm six.",
+      "wordCount": 6
+    },
+    {
+      "id": 292,
+      "index": 292,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Tonight.",
+      "wordCount": 1
+    },
+    {
+      "id": 293,
+      "index": 293,
+      "character": "MA",
+      "gender": "Female",
+      "line": "It has to be tonight.",
+      "wordCount": 5
+    },
+    {
+      "id": 294,
+      "index": 294,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Listen to me.",
+      "wordCount": 3
+    },
+    {
+      "id": 295,
+      "index": 295,
+      "character": "MA",
+      "gender": "Female",
+      "line": "I'm going to tell him the powercut made you so cold, you got a fever. We might not get another chance. It's a miracle he didn't come last night.",
+      "wordCount": 29
+    },
+    {
+      "id": 296,
+      "index": 296,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Tomorrow.",
+      "wordCount": 1
+    },
+    {
+      "id": 297,
+      "index": 297,
+      "character": "MA",
+      "gender": "Female",
+      "line": "I'm your Ma. Sometimes I have to pick for both of us.",
+      "wordCount": 12
+    },
+    {
+      "id": 298,
+      "index": 298,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Ow!",
+      "wordCount": 1
+    },
+    {
+      "id": 299,
+      "index": 299,
+      "character": "MA",
+      "gender": "Female",
+      "line": "You need to feel hot when he touches you.",
+      "wordCount": 9
+    },
+    {
+      "id": 300,
+      "index": 300,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Crying's good, it makes you look sicker.",
+      "wordCount": 7
+    },
+    {
+      "id": 301,
+      "index": 301,
+      "character": "MA",
+      "gender": "Female",
+      "line": "And stay floppy, remember? You're too weak to move or say a word.",
+      "wordCount": 13
+    },
+    {
+      "id": 302,
+      "index": 302,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "What are you doing?",
+      "wordCount": 4
+    },
+    {
+      "id": 303,
+      "index": 303,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Makes you smell sick.",
+      "wordCount": 4
+    },
+    {
+      "id": 304,
+      "index": 304,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Remember when you get to the hospital you give them the note. Show me how you hold it out.",
+      "wordCount": 19
+    },
+    {
+      "id": 305,
+      "index": 305,
+      "character": "MA",
+      "gender": "Female",
+      "line": "What's that.",
+      "wordCount": 2
+    },
+    {
+      "id": 306,
+      "index": 306,
+      "character": "MA",
+      "gender": "Female",
+      "line": "See, that's a bit of me you have with you all the time.",
+      "wordCount": 13
+    },
+    {
+      "id": 307,
+      "index": 307,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "I'm scared.",
+      "wordCount": 2
+    },
+    {
+      "id": 308,
+      "index": 308,
+      "character": "MA",
+      "gender": "Female",
+      "line": "I know.",
+      "wordCount": 2
+    },
+    {
+      "id": 309,
+      "index": 309,
+      "character": "MA",
+      "gender": "Female",
+      "line": "There you are!",
+      "wordCount": 3
+    },
+    {
+      "id": 310,
+      "index": 310,
+      "character": "OLD NICK",
+      "gender": "Male",
+      "line": "You know the drill: not a peep out of you till the door's shut.",
+      "wordCount": 14
+    },
+    {
+      "id": 311,
+      "index": 311,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Sorry, just - Jack's really bad.",
+      "wordCount": 6
+    },
+    {
+      "id": 312,
+      "index": 312,
+      "character": "MA",
+      "gender": "Female",
+      "line": "It was so cold.",
+      "wordCount": 4
+    },
+    {
+      "id": 313,
+      "index": 313,
+      "character": "OLD NICK",
+      "gender": "Male",
+      "line": "You brought that on yourself.",
+      "wordCount": 5
+    },
+    {
+      "id": 314,
+      "index": 314,
+      "character": "MA",
+      "gender": "Female",
+      "line": "I couldn't keep him warm, and now he's burning.",
+      "wordCount": 9
+    },
+    {
+      "id": 315,
+      "index": 315,
+      "character": "OLD NICK",
+      "gender": "Male",
+      "line": "Give him one of those painkillers.",
+      "wordCount": 6
+    },
+    {
+      "id": 316,
+      "index": 316,
+      "character": "MA",
+      "gender": "Female",
+      "line": "I've tried, he pukes them back up. Old Nick comes up close to Jack.",
+      "wordCount": 14
+    },
+    {
+      "id": 317,
+      "index": 317,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Don't -",
+      "wordCount": 2
+    },
+    {
+      "id": 318,
+      "index": 318,
+      "character": "OLD NICK",
+      "gender": "Male",
+      "line": "I'll get him something stronger.",
+      "wordCount": 5
+    },
+    {
+      "id": 319,
+      "index": 319,
+      "character": "MA",
+      "gender": "Female",
+      "line": "He's only five! Dehydrated, temperature this high, he could go into convulsions any minute.",
+      "wordCount": 14
+    },
+    {
+      "id": 320,
+      "index": 320,
+      "character": "OLD NICK",
+      "gender": "Male",
+      "line": "Shut up and let me think.",
+      "wordCount": 6
+    },
+    {
+      "id": 321,
+      "index": 321,
+      "character": "MA",
+      "gender": "Female",
+      "line": "He needs antibiotics.",
+      "wordCount": 3
+    },
+    {
+      "id": 322,
+      "index": 322,
+      "character": "OLD NICK",
+      "gender": "Male",
+      "line": "I'll bring something tomorrow night.",
+      "wordCount": 5
+    },
+    {
+      "id": 323,
+      "index": 323,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Tomorrow night? You have to take him to the ER right now.",
+      "wordCount": 12
+    },
+    {
+      "id": 324,
+      "index": 324,
+      "character": "OLD NICK",
+      "gender": "Male",
+      "line": "Enough with the hysterics.",
+      "wordCount": 4
+    },
+    {
+      "id": 325,
+      "index": 325,
+      "character": "MA",
+      "gender": "Female",
+      "line": "I'm begging you. Please!",
+      "wordCount": 4
+    },
+    {
+      "id": 326,
+      "index": 326,
+      "character": "MA",
+      "gender": "Female",
+      "line": "If you're even halfway human -",
+      "wordCount": 6
+    },
+    {
+      "id": 327,
+      "index": 327,
+      "character": "MA",
+      "gender": "Female",
+      "line": "So Edmond pulls his friend's body out of the bag and hides it, and he climbs into the bag, and lies super still until the guards come.",
+      "wordCount": 27
+    },
+    {
+      "id": 328,
+      "index": 328,
+      "character": "MA",
+      "gender": "Female",
+      "line": "And that's what you're going to do.",
+      "wordCount": 7
+    },
+    {
+      "id": 329,
+      "index": 329,
+      "character": "MA",
+      "gender": "Female",
+      "line": "See? It's even tricksier than pretending to be sick: this time you're going to be dead.",
+      "wordCount": 16
+    },
+    {
+      "id": 330,
+      "index": 330,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Our bags are too small for being dead in.",
+      "wordCount": 9
+    },
+    {
+      "id": 331,
+      "index": 331,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Is it time for Track?",
+      "wordCount": 5
+    },
+    {
+      "id": 332,
+      "index": 332,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Rug's going to be the bag, see?",
+      "wordCount": 7
+    },
+    {
+      "id": 333,
+      "index": 333,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "I don't want to be dead.",
+      "wordCount": 6
+    },
+    {
+      "id": 334,
+      "index": 334,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Pretending to be dead, that's all. Wrapped up so Old Nick can't see that you're alive. But not floppy this time. All stiff like a robot. And not a sound. And I'll be in your head, talking to you all the time.",
+      "wordCount": 42
+    },
+    {
+      "id": 335,
+      "index": 335,
+      "character": "MA",
+      "gender": "Female",
+      "line": "He's going to carry you outside, all rolled up in Rug, and he'll put you in the back of his pick-up and drive somewhere to bury you -",
+      "wordCount": 28
+    },
+    {
+      "id": 336,
+      "index": 336,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "No!",
+      "wordCount": 1
+    },
+    {
+      "id": 337,
+      "index": 337,
+      "character": "MA",
+      "gender": "Female",
+      "line": "It's OK. You'll wriggle free and jump out of the truck. You'll -",
+      "wordCount": 13
+    },
+    {
+      "id": 338,
+      "index": 338,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "I don't like this trick.",
+      "wordCount": 5
+    },
+    {
+      "id": 339,
+      "index": 339,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Come on, Jack, let's try rolling you up.",
+      "wordCount": 8
+    },
+    {
+      "id": 340,
+      "index": 340,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Uh uh.",
+      "wordCount": 2
+    },
+    {
+      "id": 341,
+      "index": 341,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Please Jack, try just for a minute.",
+      "wordCount": 7
+    },
+    {
+      "id": 342,
+      "index": 342,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Half a minute.",
+      "wordCount": 3
+    },
+    {
+      "id": 343,
+      "index": 343,
+      "character": "MA",
+      "gender": "Female",
+      "line": "OK.",
+      "wordCount": 1
+    },
+    {
+      "id": 344,
+      "index": 344,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Okey-dokey.",
+      "wordCount": 1
+    },
+    {
+      "id": 345,
+      "index": 345,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Can you hear me? Can you breathe?",
+      "wordCount": 7
+    },
+    {
+      "id": 346,
+      "index": 346,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Yeah.",
+      "wordCount": 1
+    },
+    {
+      "id": 347,
+      "index": 347,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Excellent! He'll pick you up - stay stiff as you can.",
+      "wordCount": 11
+    },
+    {
+      "id": 348,
+      "index": 348,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Then he'll put you in his truck.",
+      "wordCount": 7
+    },
+    {
+      "id": 349,
+      "index": 349,
+      "character": "MA",
+      "gender": "Female",
+      "line": "The second you hear the engine -",
+      "wordCount": 7
+    },
+    {
+      "id": 350,
+      "index": 350,
+      "character": "MA",
+      "gender": "Female",
+      "line": "- that means Old Nick's busy driving, so that's your chance to start wriggling out. Now, Jack. Wriggle out.",
+      "wordCount": 19
+    },
+    {
+      "id": 351,
+      "index": 351,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "I can't. I'm stuck.",
+      "wordCount": 4
+    },
+    {
+      "id": 352,
+      "index": 352,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Remember your superpowers.",
+      "wordCount": 3
+    },
+    {
+      "id": 353,
+      "index": 353,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Ok, it's too many turns. Up, up. I'll fold the end over like this. Now lie down and fold your arms like this.",
+      "wordCount": 23
+    },
+    {
+      "id": 354,
+      "index": 354,
+      "character": "MA",
+      "gender": "Female",
+      "line": "There, Now push up your arms.",
+      "wordCount": 6
+    },
+    {
+      "id": 355,
+      "index": 355,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "I can't.",
+      "wordCount": 2
+    },
+    {
+      "id": 356,
+      "index": 356,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Push, Jack.",
+      "wordCount": 2
+    },
+    {
+      "id": 357,
+      "index": 357,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Now roll.",
+      "wordCount": 2
+    },
+    {
+      "id": 358,
+      "index": 358,
+      "character": "MA",
+      "gender": "Female",
+      "line": "OK. Take a breath.",
+      "wordCount": 4
+    },
+    {
+      "id": 359,
+      "index": 359,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Get me out.",
+      "wordCount": 3
+    },
+    {
+      "id": 360,
+      "index": 360,
+      "character": "MA",
+      "gender": "Female",
+      "line": "You're getting yourself out.",
+      "wordCount": 4
+    },
+    {
+      "id": 361,
+      "index": 361,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Out!",
+      "wordCount": 1
+    },
+    {
+      "id": 362,
+      "index": 362,
+      "character": "MA",
+      "gender": "Female",
+      "line": "If you panic, Old Nick will hear that you're alive, and he'll be mad.",
+      "wordCount": 14
+    },
+    {
+      "id": 363,
+      "index": 363,
+      "character": "MA",
+      "gender": "Female",
+      "line": "I know you, Jack. I know you can do this.",
+      "wordCount": 10
+    },
+    {
+      "id": 364,
+      "index": 364,
+      "character": "MA",
+      "gender": "Female",
+      "line": "You did it! You're the banana!",
+      "wordCount": 6
+    },
+    {
+      "id": 365,
+      "index": 365,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "I hate you.",
+      "wordCount": 3
+    },
+    {
+      "id": 366,
+      "index": 366,
+      "character": "MA",
+      "gender": "Female",
+      "line": "That's OK. I brought you here to Room. I didn't mean to but I did, and I've always been so glad. And now it's my job to get you out.",
+      "wordCount": 30
+    },
+    {
+      "id": 367,
+      "index": 367,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Truck, wriggle out, Jump, Run -",
+      "wordCount": 6
+    },
+    {
+      "id": 368,
+      "index": 368,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Wait till the truck slows down at the first stop sign - if you jump when it's going fast you might -",
+      "wordCount": 22
+    },
+    {
+      "id": 369,
+      "index": 369,
+      "character": "MA",
+      "gender": "Female",
+      "line": "So Truck, Wriggle Out, Jump when it Slows Down...",
+      "wordCount": 9
+    },
+    {
+      "id": 370,
+      "index": 370,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Somebody, Run -",
+      "wordCount": 3
+    },
+    {
+      "id": 371,
+      "index": 371,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Jump, Run, then shout to Somebody and show them the Note.",
+      "wordCount": 11
+    },
+    {
+      "id": 372,
+      "index": 372,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Tell them your Ma is Joy Newsome and ­",
+      "wordCount": 9
+    },
+    {
+      "id": 373,
+      "index": 373,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Who is Somebody?",
+      "wordCount": 3
+    },
+    {
+      "id": 374,
+      "index": 374,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Anybody - the first person you see.",
+      "wordCount": 7
+    },
+    {
+      "id": 375,
+      "index": 375,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "An actual real person.",
+      "wordCount": 4
+    },
+    {
+      "id": 376,
+      "index": 376,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "What if Old Nick unwraps me?",
+      "wordCount": 6
+    },
+    {
+      "id": 377,
+      "index": 377,
+      "character": "MA",
+      "gender": "Female",
+      "line": "He's not going to -",
+      "wordCount": 5
+    },
+    {
+      "id": 378,
+      "index": 378,
+      "character": "MA",
+      "gender": "Female",
+      "line": "You got Bad Tooth in your pocket?",
+      "wordCount": 7
+    },
+    {
+      "id": 379,
+      "index": 379,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "It's in here so I don't lose it.",
+      "wordCount": 8
+    },
+    {
+      "id": 380,
+      "index": 380,
+      "character": "MA",
+      "gender": "Female",
+      "line": "You're going to love it.",
+      "wordCount": 5
+    },
+    {
+      "id": 381,
+      "index": 381,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "What?",
+      "wordCount": 1
+    },
+    {
+      "id": 382,
+      "index": 382,
+      "character": "MA",
+      "gender": "Female",
+      "line": "The world. Living in the hammock house with your Grandma and Grandpa...",
+      "wordCount": 12
+    },
+    {
+      "id": 383,
+      "index": 383,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "And you.",
+      "wordCount": 2
+    },
+    {
+      "id": 384,
+      "index": 384,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Sing.",
+      "wordCount": 1
+    },
+    {
+      "id": 385,
+      "index": 385,
+      "character": "MA",
+      "gender": "Female",
+      "line": "One evening as the sun went down and the jungle fire was burning, down the track came a hobo hikin', and he said \"Boys, I'm not turning. I'm headed for a land that's far away, beside the crystal fountains. So, come with me, we'll go and see the Big -",
+      "wordCount": 50
+    },
+    {
+      "id": 386,
+      "index": 386,
+      "character": "OLD NICK",
+      "gender": "Male",
+      "line": "Antibiotics.",
+      "wordCount": 1
+    },
+    {
+      "id": 387,
+      "index": 387,
+      "character": "OLD NICK",
+      "gender": "Male",
+      "line": "Are you nuts, wrapping a sick kid up in that?",
+      "wordCount": 10
+    },
+    {
+      "id": 388,
+      "index": 388,
+      "character": "MA",
+      "gender": "Female",
+      "line": "He got worse in the night.",
+      "wordCount": 6
+    },
+    {
+      "id": 389,
+      "index": 389,
+      "character": "MA",
+      "gender": "Female",
+      "line": "He wouldn't wake up.",
+      "wordCount": 4
+    },
+    {
+      "id": 390,
+      "index": 390,
+      "character": "OLD NICK",
+      "gender": "Male",
+      "line": "Are you sure?",
+      "wordCount": 3
+    },
+    {
+      "id": 391,
+      "index": 391,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Am I sure?",
+      "wordCount": 3
+    },
+    {
+      "id": 392,
+      "index": 392,
+      "character": "OLD NICK",
+      "gender": "Male",
+      "line": "Ah gee. That's - Poor girl.",
+      "wordCount": 6
+    },
+    {
+      "id": 393,
+      "index": 393,
+      "character": "OLD NICK",
+      "gender": "Male",
+      "line": "Guess it must have been serious, pills wouldn't have worked anyway.",
+      "wordCount": 11
+    },
+    {
+      "id": 394,
+      "index": 394,
+      "character": "MA",
+      "gender": "Female",
+      "line": "You killed my baby.",
+      "wordCount": 4
+    },
+    {
+      "id": 395,
+      "index": 395,
+      "character": "OLD NICK",
+      "gender": "Male",
+      "line": "Take it easy. Let me -",
+      "wordCount": 6
+    },
+    {
+      "id": 396,
+      "index": 396,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Keep your hands off him!",
+      "wordCount": 5
+    },
+    {
+      "id": 397,
+      "index": 397,
+      "character": "OLD NICK",
+      "gender": "Male",
+      "line": "OK, OK.",
+      "wordCount": 2
+    },
+    {
+      "id": 398,
+      "index": 398,
+      "character": "OLD NICK",
+      "gender": "Male",
+      "line": "He can't stay here, you know.",
+      "wordCount": 6
+    },
+    {
+      "id": 399,
+      "index": 399,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Where will you take him?",
+      "wordCount": 5
+    },
+    {
+      "id": 400,
+      "index": 400,
+      "character": "OLD NICK",
+      "gender": "Male",
+      "line": "I don't know. I'm thinking.",
+      "wordCount": 5
+    },
+    {
+      "id": 401,
+      "index": 401,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Not here. I'd feel him. I'd know.",
+      "wordCount": 7
+    },
+    {
+      "id": 402,
+      "index": 402,
+      "character": "OLD NICK",
+      "gender": "Male",
+      "line": "OK.",
+      "wordCount": 1
+    },
+    {
+      "id": 403,
+      "index": 403,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Drive him somewhere nice, somewhere with lots of trees.",
+      "wordCount": 9
+    },
+    {
+      "id": 404,
+      "index": 404,
+      "character": "OLD NICK",
+      "gender": "Male",
+      "line": "Trees, sure.",
+      "wordCount": 2
+    },
+    {
+      "id": 405,
+      "index": 405,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Keep him wrapped up. Swear you won't even look at him with your filthy eyes.",
+      "wordCount": 15
+    },
+    {
+      "id": 406,
+      "index": 406,
+      "character": "OLD NICK",
+      "gender": "Male",
+      "line": "I swear. It'll be dark in an hour.",
+      "wordCount": 8
+    },
+    {
+      "id": 407,
+      "index": 407,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Now. I can't bear it.",
+      "wordCount": 5
+    },
+    {
+      "id": 408,
+      "index": 408,
+      "character": "OLD NICK",
+      "gender": "Male",
+      "line": "OK, OK.",
+      "wordCount": 2
+    },
+    {
+      "id": 409,
+      "index": 409,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Gently!",
+      "wordCount": 1
+    },
+    {
+      "id": 410,
+      "index": 410,
+      "character": "OLD NICK",
+      "gender": "Male",
+      "line": "Get back and turn around.",
+      "wordCount": 5
+    },
+    {
+      "id": 411,
+      "index": 411,
+      "character": "DOUG",
+      "gender": "Male",
+      "line": "Boomer!",
+      "wordCount": 1
+    },
+    {
+      "id": 412,
+      "index": 412,
+      "character": "DOUG",
+      "gender": "Male",
+      "line": "Excuse me? Hey.",
+      "wordCount": 3
+    },
+    {
+      "id": 413,
+      "index": 413,
+      "character": "DOUG",
+      "gender": "Male",
+      "line": "I'm so sorry. Is your little girl OK?",
+      "wordCount": 8
+    },
+    {
+      "id": 414,
+      "index": 414,
+      "character": "OLD NICK",
+      "gender": "Male",
+      "line": "It's under control.",
+      "wordCount": 3
+    },
+    {
+      "id": 415,
+      "index": 415,
+      "character": "DOUG",
+      "gender": "Male",
+      "line": "She been in some kind of accident? You want me to call someone?",
+      "wordCount": 13
+    },
+    {
+      "id": 416,
+      "index": 416,
+      "character": "OLD NICK",
+      "gender": "Male",
+      "line": "I'll take care of it.",
+      "wordCount": 5
+    },
+    {
+      "id": 417,
+      "index": 417,
+      "character": "DOUG",
+      "gender": "Male",
+      "line": "What's that you got there, honey?",
+      "wordCount": 6
+    },
+    {
+      "id": 418,
+      "index": 418,
+      "character": "OLD NICK",
+      "gender": "Male",
+      "line": "Why don't you mind your own business and I'll mind mine?",
+      "wordCount": 11
+    },
+    {
+      "id": 419,
+      "index": 419,
+      "character": "DOUG",
+      "gender": "Male",
+      "line": "OK, I don't like this.",
+      "wordCount": 5
+    },
+    {
+      "id": 420,
+      "index": 420,
+      "character": "DOUG",
+      "gender": "Male",
+      "line": "I've got your plates, mister! K93 -",
+      "wordCount": 7
+    },
+    {
+      "id": 421,
+      "index": 421,
+      "character": "DOUG",
+      "gender": "Male",
+      "line": "Hey! Hey!",
+      "wordCount": 2
+    },
+    {
+      "id": 422,
+      "index": 422,
+      "character": "DOUG",
+      "gender": "Male",
+      "line": "It's OK, Honey.",
+      "wordCount": 3
+    },
+    {
+      "id": 423,
+      "index": 423,
+      "character": "OFFICER PARKER",
+      "gender": "Female",
+      "line": "Hey there, I'm Officer Parker. What's your name?",
+      "wordCount": 8
+    },
+    {
+      "id": 424,
+      "index": 424,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Jack.",
+      "wordCount": 1
+    },
+    {
+      "id": 425,
+      "index": 425,
+      "character": "OFFICER PARKER",
+      "gender": "Female",
+      "line": "Jackie?",
+      "wordCount": 1
+    },
+    {
+      "id": 426,
+      "index": 426,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Jack.",
+      "wordCount": 1
+    },
+    {
+      "id": 427,
+      "index": 427,
+      "character": "OFFICER GRABOWSKI",
+      "gender": "Male",
+      "line": "We have a disturbed female juvenile, possible domestic -",
+      "wordCount": 9
+    },
+    {
+      "id": 428,
+      "index": 428,
+      "character": "OFFICER PARKER",
+      "gender": "Female",
+      "line": "Male.",
+      "wordCount": 1
+    },
+    {
+      "id": 429,
+      "index": 429,
+      "character": "OFFICER GRABOWSKI",
+      "gender": "Male",
+      "line": "Correction, male juvenile.",
+      "wordCount": 3
+    },
+    {
+      "id": 430,
+      "index": 430,
+      "character": "OFFICER PARKER",
+      "gender": "Female",
+      "line": "You must be freezing, Jack.",
+      "wordCount": 5
+    },
+    {
+      "id": 431,
+      "index": 431,
+      "character": "OFFICER GRABOWSKI",
+      "gender": "Male",
+      "line": "That's negative. White male, six feet, forties, fifties, beard, red pick-up, Ford, nineties F150, maybe, no state partial plate K93.",
+      "wordCount": 20
+    },
+    {
+      "id": 432,
+      "index": 432,
+      "character": "OFFICER PARKER",
+      "gender": "Female",
+      "line": "Do you have another name? Jack?",
+      "wordCount": 6
+    },
+    {
+      "id": 433,
+      "index": 433,
+      "character": "OFFICER PARKER",
+      "gender": "Female",
+      "line": "Do you know how old you are?",
+      "wordCount": 7
+    },
+    {
+      "id": 434,
+      "index": 434,
+      "character": "OFFICER PARKER",
+      "gender": "Female",
+      "line": "How many fingers?",
+      "wordCount": 3
+    },
+    {
+      "id": 435,
+      "index": 435,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Ten.",
+      "wordCount": 1
+    },
+    {
+      "id": 436,
+      "index": 436,
+      "character": "OFFICER PARKER",
+      "gender": "Female",
+      "line": "You're ten years old?",
+      "wordCount": 4
+    },
+    {
+      "id": 437,
+      "index": 437,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Ten fingers.",
+      "wordCount": 2
+    },
+    {
+      "id": 438,
+      "index": 438,
+      "character": "OFFICER PARKER",
+      "gender": "Female",
+      "line": "No, I meant show me with your fingers how old you are.",
+      "wordCount": 12
+    },
+    {
+      "id": 439,
+      "index": 439,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "I'm five.",
+      "wordCount": 2
+    },
+    {
+      "id": 440,
+      "index": 440,
+      "character": "OFFICER PARKER",
+      "gender": "Female",
+      "line": "Five, great. And your address?",
+      "wordCount": 5
+    },
+    {
+      "id": 441,
+      "index": 441,
+      "character": "OFFICER GRABOWSKI",
+      "gender": "Male",
+      "line": "Guess we should get onto Child Protection?",
+      "wordCount": 7
+    },
+    {
+      "id": 442,
+      "index": 442,
+      "character": "OFFICER PARKER",
+      "gender": "Female",
+      "line": "Where do you sleep at night, Jack? Where do you go to bed?",
+      "wordCount": 13
+    },
+    {
+      "id": 443,
+      "index": 443,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "In Wardrobe.",
+      "wordCount": 2
+    },
+    {
+      "id": 444,
+      "index": 444,
+      "character": "OFFICER GRABOWSKI",
+      "gender": "Male",
+      "line": "In a wardrobe?",
+      "wordCount": 3
+    },
+    {
+      "id": 445,
+      "index": 445,
+      "character": "OFFICER PARKER",
+      "gender": "Female",
+      "line": "You have a Mom, Jack?",
+      "wordCount": 5
+    },
+    {
+      "id": 446,
+      "index": 446,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Ma.",
+      "wordCount": 1
+    },
+    {
+      "id": 447,
+      "index": 447,
+      "character": "OFFICER PARKER",
+      "gender": "Female",
+      "line": "Is that her real name, Jack?",
+      "wordCount": 6
+    },
+    {
+      "id": 448,
+      "index": 448,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "She used to be Joy.",
+      "wordCount": 5
+    },
+    {
+      "id": 449,
+      "index": 449,
+      "character": "OFFICER PARKER",
+      "gender": "Female",
+      "line": "Is there another name, after Joy.",
+      "wordCount": 6
+    },
+    {
+      "id": 450,
+      "index": 450,
+      "character": "OFFICER PARKER",
+      "gender": "Female",
+      "line": "Where's your Mom right now?",
+      "wordCount": 5
+    },
+    {
+      "id": 451,
+      "index": 451,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Room.",
+      "wordCount": 1
+    },
+    {
+      "id": 452,
+      "index": 452,
+      "character": "OFFICER PARKER",
+      "gender": "Female",
+      "line": "What room? Where's the room?",
+      "wordCount": 5
+    },
+    {
+      "id": 453,
+      "index": 453,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Not on any map.",
+      "wordCount": 4
+    },
+    {
+      "id": 454,
+      "index": 454,
+      "character": "OFFICER PARKER",
+      "gender": "Female",
+      "line": "The man with the truck, that your dad? Ma's boyfriend? You know him?",
+      "wordCount": 13
+    },
+    {
+      "id": 455,
+      "index": 455,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Old Nick.",
+      "wordCount": 2
+    },
+    {
+      "id": 456,
+      "index": 456,
+      "character": "OFFICER GRABOWSKI",
+      "gender": "Male",
+      "line": "Speak up!",
+      "wordCount": 2
+    },
+    {
+      "id": 457,
+      "index": 457,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Old Nick. But that's not his name.",
+      "wordCount": 7
+    },
+    {
+      "id": 458,
+      "index": 458,
+      "character": "OFFICER PARKER",
+      "gender": "Female",
+      "line": "Did this Nick guy hurt you?",
+      "wordCount": 6
+    },
+    {
+      "id": 459,
+      "index": 459,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "I bit me by accident. And the, the, the -",
+      "wordCount": 10
+    },
+    {
+      "id": 460,
+      "index": 460,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "The hard of the street. I jumped and smasheded my knee.",
+      "wordCount": 11
+    },
+    {
+      "id": 461,
+      "index": 461,
+      "character": "OFFICER PARKER",
+      "gender": "Female",
+      "line": "What's that, Jack?",
+      "wordCount": 3
+    },
+    {
+      "id": 462,
+      "index": 462,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "A bit of Ma.",
+      "wordCount": 4
+    },
+    {
+      "id": 463,
+      "index": 463,
+      "character": "OFFICER PARKER",
+      "gender": "Female",
+      "line": "So, Jack? You see anything?",
+      "wordCount": 5
+    },
+    {
+      "id": 464,
+      "index": 464,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Everything.",
+      "wordCount": 1
+    },
+    {
+      "id": 465,
+      "index": 465,
+      "character": "OFFICER PARKER",
+      "gender": "Female",
+      "line": "No, but anything you recognise? Your room, Jack, is it in a bungalow - all one level? Or stairs? What's outside the room?",
+      "wordCount": 23
+    },
+    {
+      "id": 466,
+      "index": 466,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Space. The world.",
+      "wordCount": 3
+    },
+    {
+      "id": 467,
+      "index": 467,
+      "character": "OFFICER GRABOWSKI",
+      "gender": "Male",
+      "line": "You reckon the kid's on something?",
+      "wordCount": 6
+    },
+    {
+      "id": 468,
+      "index": 468,
+      "character": "OFFICER PARKER",
+      "gender": "Female",
+      "line": "Jack, when you step out the door -",
+      "wordCount": 8
+    },
+    {
+      "id": 469,
+      "index": 469,
+      "character": "OFFICER PARKER",
+      "gender": "Female",
+      "line": "You don't like to go outside?",
+      "wordCount": 6
+    },
+    {
+      "id": 470,
+      "index": 470,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "We don't know to open the door.",
+      "wordCount": 7
+    },
+    {
+      "id": 471,
+      "index": 471,
+      "character": "OFFICER GRABOWSKI",
+      "gender": "Male",
+      "line": "My money's on some kind of cult. The tooth, the long hair...",
+      "wordCount": 12
+    },
+    {
+      "id": 472,
+      "index": 472,
+      "character": "OFFICER PARKER",
+      "gender": "Female",
+      "line": "Is there daylight in your room?",
+      "wordCount": 6
+    },
+    {
+      "id": 473,
+      "index": 473,
+      "character": "OFFICER PARKER",
+      "gender": "Female",
+      "line": "How many windows?",
+      "wordCount": 3
+    },
+    {
+      "id": 474,
+      "index": 474,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Zero.",
+      "wordCount": 1
+    },
+    {
+      "id": 475,
+      "index": 475,
+      "character": "OFFICER PARKER",
+      "gender": "Female",
+      "line": "Then how does the sun come in?",
+      "wordCount": 7
+    },
+    {
+      "id": 476,
+      "index": 476,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Through Skylight.",
+      "wordCount": 2
+    },
+    {
+      "id": 477,
+      "index": 477,
+      "character": "OFFICER PARKER",
+      "gender": "Female",
+      "line": "Excellent. Check the satellite. Sounds like his mother's being held in a house with a skylight.",
+      "wordCount": 16
+    },
+    {
+      "id": 478,
+      "index": 478,
+      "character": "OFFICER GRABOWSKI",
+      "gender": "Male",
+      "line": "Needle in a haystack...",
+      "wordCount": 4
+    },
+    {
+      "id": 479,
+      "index": 479,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Room's not a house.",
+      "wordCount": 4
+    },
+    {
+      "id": 480,
+      "index": 480,
+      "character": "OFFICER PARKER",
+      "gender": "Female",
+      "line": "OK.",
+      "wordCount": 1
+    },
+    {
+      "id": 481,
+      "index": 481,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "It's a...",
+      "wordCount": 2
+    },
+    {
+      "id": 482,
+      "index": 482,
+      "character": "OFFICER PARKER",
+      "gender": "Female",
+      "line": "Yeah?",
+      "wordCount": 1
+    },
+    {
+      "id": 483,
+      "index": 483,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "It's a...",
+      "wordCount": 2
+    },
+    {
+      "id": 484,
+      "index": 484,
+      "character": "OFFICER GRABOWSKI",
+      "gender": "Male",
+      "line": "Might get more out of him when he's had some sleep.",
+      "wordCount": 11
+    },
+    {
+      "id": 485,
+      "index": 485,
+      "character": "OFFICER PARKER",
+      "gender": "Female",
+      "line": "Tom, give me a break.",
+      "wordCount": 5
+    },
+    {
+      "id": 486,
+      "index": 486,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Room's a... a shed.",
+      "wordCount": 4
+    },
+    {
+      "id": 487,
+      "index": 487,
+      "character": "OFFICER PARKER",
+      "gender": "Female",
+      "line": "A shed! You're doing great, Jack. Now, after you got in the truck -",
+      "wordCount": 14
+    },
+    {
+      "id": 488,
+      "index": 488,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "He putted me - I wasn't meant to be alive.",
+      "wordCount": 10
+    },
+    {
+      "id": 489,
+      "index": 489,
+      "character": "OFFICER PARKER",
+      "gender": "Female",
+      "line": "What made you jump out of the truck, Jack?",
+      "wordCount": 9
+    },
+    {
+      "id": 490,
+      "index": 490,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Ma said in my head.",
+      "wordCount": 5
+    },
+    {
+      "id": 491,
+      "index": 491,
+      "character": "OFFICER PARKER",
+      "gender": "Female",
+      "line": "What did she say, exactly?",
+      "wordCount": 5
+    },
+    {
+      "id": 492,
+      "index": 492,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Jump when it Slows Down. But I couldn't, I was all...",
+      "wordCount": 11
+    },
+    {
+      "id": 493,
+      "index": 493,
+      "character": "OFFICER PARKER",
+      "gender": "Female",
+      "line": "So what did you do?",
+      "wordCount": 5
+    },
+    {
+      "id": 494,
+      "index": 494,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "The third time, I got banged.",
+      "wordCount": 6
+    },
+    {
+      "id": 495,
+      "index": 495,
+      "character": "OFFICER PARKER",
+      "gender": "Female",
+      "line": "The third time of what?",
+      "wordCount": 5
+    },
+    {
+      "id": 496,
+      "index": 496,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "The third slow, everything went sideways - - and then it stopped and I jumped and -",
+      "wordCount": 17
+    },
+    {
+      "id": 497,
+      "index": 497,
+      "character": "OFFICER PARKER",
+      "gender": "Female",
+      "line": "Gotcha!",
+      "wordCount": 1
+    },
+    {
+      "id": 498,
+      "index": 498,
+      "character": "OFFICER PARKER",
+      "gender": "Female",
+      "line": "Control. Listen carefully. South on Maple, three stop signs from the junction with Beach, look for a garden shed with a skylight.",
+      "wordCount": 22
+    },
+    {
+      "id": 499,
+      "index": 499,
+      "character": "OFFICER PARKER",
+      "gender": "Female",
+      "line": "Stay with the boy.",
+      "wordCount": 4
+    },
+    {
+      "id": 500,
+      "index": 500,
+      "character": "OFFICER GRABOWSKI",
+      "gender": "Male",
+      "line": "You OK, kid?",
+      "wordCount": 3
+    },
+    {
+      "id": 501,
+      "index": 501,
+      "character": "OFFICER GRABOWSKI",
+      "gender": "Male",
+      "line": "Hey, hey, take it easy.",
+      "wordCount": 5
+    },
+    {
+      "id": 502,
+      "index": 502,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Can we go to Bed now?",
+      "wordCount": 6
+    },
+    {
+      "id": 503,
+      "index": 503,
+      "character": "MA",
+      "gender": "Female",
+      "line": "We can do anything. They'll find us somewhere to sleep soon.",
+      "wordCount": 11
+    },
+    {
+      "id": 504,
+      "index": 504,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "No, but Bed. In Room.",
+      "wordCount": 5
+    },
+    {
+      "id": 505,
+      "index": 505,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Ma.",
+      "wordCount": 1
+    },
+    {
+      "id": 506,
+      "index": 506,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Ma. Ma.",
+      "wordCount": 2
+    },
+    {
+      "id": 507,
+      "index": 507,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Good morning sleepy head. I was waiting so long for you to wake I fell back asleep.",
+      "wordCount": 17
+    },
+    {
+      "id": 508,
+      "index": 508,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Is this another planet?",
+      "wordCount": 4
+    },
+    {
+      "id": 509,
+      "index": 509,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Same one, just a different bit. It's a room - A bedroom in a hospital.",
+      "wordCount": 15
+    },
+    {
+      "id": 510,
+      "index": 510,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Are we sick for real or pretend?",
+      "wordCount": 7
+    },
+    {
+      "id": 511,
+      "index": 511,
+      "character": "MA",
+      "gender": "Female",
+      "line": "We're not sick. We're the opposite of sick.",
+      "wordCount": 8
+    },
+    {
+      "id": 512,
+      "index": 512,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "How long are we staying?",
+      "wordCount": 5
+    },
+    {
+      "id": 513,
+      "index": 513,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Not long. Grandma saw us last night and she'll take us when they say we're OK.",
+      "wordCount": 16
+    },
+    {
+      "id": 514,
+      "index": 514,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "And Grandpa.",
+      "wordCount": 2
+    },
+    {
+      "id": 515,
+      "index": 515,
+      "character": "MA",
+      "gender": "Female",
+      "line": "He was away at work but he's getting on a plane to come home.",
+      "wordCount": 14
+    },
+    {
+      "id": 516,
+      "index": 516,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "I wetted the bed ... before. I'm sorry.",
+      "wordCount": 8
+    },
+    {
+      "id": 517,
+      "index": 517,
+      "character": "MA",
+      "gender": "Female",
+      "line": "That's OK.",
+      "wordCount": 2
+    },
+    {
+      "id": 518,
+      "index": 518,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Yes, just now. OK ... if that's OK, thank you.",
+      "wordCount": 10
+    },
+    {
+      "id": 519,
+      "index": 519,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Don't worry about that. Someone will wash it. Come on, we have to get ready.",
+      "wordCount": 15
+    },
+    {
+      "id": 520,
+      "index": 520,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "What's that?",
+      "wordCount": 2
+    },
+    {
+      "id": 521,
+      "index": 521,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Do you like it? There's one for you, too.",
+      "wordCount": 9
+    },
+    {
+      "id": 522,
+      "index": 522,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "That's waste.",
+      "wordCount": 2
+    },
+    {
+      "id": 523,
+      "index": 523,
+      "character": "MA",
+      "gender": "Female",
+      "line": "We'll get new ones.",
+      "wordCount": 4
+    },
+    {
+      "id": 524,
+      "index": 524,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "For Sunday Treat?",
+      "wordCount": 3
+    },
+    {
+      "id": 525,
+      "index": 525,
+      "character": "MA",
+      "gender": "Female",
+      "line": "There are going to be so many treats, not just on Sundays.",
+      "wordCount": 12
+    },
+    {
+      "id": 526,
+      "index": 526,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Where's the bath.",
+      "wordCount": 3
+    },
+    {
+      "id": 527,
+      "index": 527,
+      "character": "MA",
+      "gender": "Female",
+      "line": "It's a shower instead. Splashier.",
+      "wordCount": 5
+    },
+    {
+      "id": 528,
+      "index": 528,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Jack, look. It's us.",
+      "wordCount": 4
+    },
+    {
+      "id": 529,
+      "index": 529,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Ma, will he find us.",
+      "wordCount": 5
+    },
+    {
+      "id": 530,
+      "index": 530,
+      "character": "MA",
+      "gender": "Female",
+      "line": "No, he will never, ever come again. INT. HOSPITAL - MA AND JACK'S SUITE - BATHROOM - DAY",
+      "wordCount": 18
+    },
+    {
+      "id": 531,
+      "index": 531,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Bath before Bed.",
+      "wordCount": 3
+    },
+    {
+      "id": 532,
+      "index": 532,
+      "character": "MA",
+      "gender": "Female",
+      "line": "What?",
+      "wordCount": 1
+    },
+    {
+      "id": 533,
+      "index": 533,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Bath before Bed, that's the rule.",
+      "wordCount": 6
+    },
+    {
+      "id": 534,
+      "index": 534,
+      "character": "MA",
+      "gender": "Female",
+      "line": "There aren't any rules now, Jack. We can do what we like!",
+      "wordCount": 12
+    },
+    {
+      "id": 535,
+      "index": 535,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Are you hurting?",
+      "wordCount": 3
+    },
+    {
+      "id": 536,
+      "index": 536,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "The door's ticking.",
+      "wordCount": 3
+    },
+    {
+      "id": 537,
+      "index": 537,
+      "character": "DR. MITTAL",
+      "gender": "Male",
+      "line": "Hello there, I hear we're all woken up.",
+      "wordCount": 8
+    },
+    {
+      "id": 538,
+      "index": 538,
+      "character": "MA",
+      "gender": "Female",
+      "line": "That's right.",
+      "wordCount": 2
+    },
+    {
+      "id": 539,
+      "index": 539,
+      "character": "MA",
+      "gender": "Female",
+      "line": "It's OK, Jack.",
+      "wordCount": 3
+    },
+    {
+      "id": 540,
+      "index": 540,
+      "character": "DR. MITTAL",
+      "gender": "Male",
+      "line": "Hi there, Jack. I'm Dr. Mittal. You were asleep when I cam in this morning.",
+      "wordCount": 15
+    },
+    {
+      "id": 541,
+      "index": 541,
+      "character": "DR. MITTAL",
+      "gender": "Male",
+      "line": "You must be hungry?",
+      "wordCount": 4
+    },
+    {
+      "id": 542,
+      "index": 542,
+      "character": "DR. MITTAL",
+      "gender": "Male",
+      "line": "So, I have some things for you both.",
+      "wordCount": 8
+    },
+    {
+      "id": 543,
+      "index": 543,
+      "character": "DR. MITTAL",
+      "gender": "Male",
+      "line": "You may find it more comfortable to wear these if you go outside. Some sunscreen.",
+      "wordCount": 15
+    },
+    {
+      "id": 544,
+      "index": 544,
+      "character": "DR. MITTAL",
+      "gender": "Male",
+      "line": "For Jack.",
+      "wordCount": 2
+    },
+    {
+      "id": 545,
+      "index": 545,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Is that really necessary?",
+      "wordCount": 4
+    },
+    {
+      "id": 546,
+      "index": 546,
+      "character": "DR. MITTAL",
+      "gender": "Male",
+      "line": "Lots of germs in the air to get used to. My colleague has prescribed these for the pain in your wrist until we can schedule a surgery. And something to help you sleep.",
+      "wordCount": 33
+    },
+    {
+      "id": 547,
+      "index": 547,
+      "character": "MA",
+      "gender": "Female",
+      "line": "OK. Thanks. Try it, it's delicioso.",
+      "wordCount": 6
+    },
+    {
+      "id": 548,
+      "index": 548,
+      "character": "DR. MITTAL",
+      "gender": "Male",
+      "line": "Have you thought any more about what we discussed this morning?",
+      "wordCount": 11
+    },
+    {
+      "id": 549,
+      "index": 549,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Thanks for the offer but we're going to go home.",
+      "wordCount": 10
+    },
+    {
+      "id": 550,
+      "index": 550,
+      "character": "DR. MITTAL",
+      "gender": "Male",
+      "line": "You know my view. After what you've experienced, and to assess Jack properly. And just to soften the transition -",
+      "wordCount": 20
+    },
+    {
+      "id": 551,
+      "index": 551,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Nothing happened to Jack.",
+      "wordCount": 4
+    },
+    {
+      "id": 552,
+      "index": 552,
+      "character": "DR. MITTAL",
+      "gender": "Male",
+      "line": "I understand, but even at a cognitive-sensory level - depth perception, auditory processing ...",
+      "wordCount": 14
+    },
+    {
+      "id": 553,
+      "index": 553,
+      "character": "MA",
+      "gender": "Female",
+      "line": "But he's OK, right?",
+      "wordCount": 4
+    },
+    {
+      "id": 554,
+      "index": 554,
+      "character": "DR. MITTAL",
+      "gender": "Male",
+      "line": "The most important thing you did was to get him out while he's still plastic.",
+      "wordCount": 15
+    },
+    {
+      "id": 555,
+      "index": 555,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "I'm not plastic.",
+      "wordCount": 3
+    },
+    {
+      "id": 556,
+      "index": 556,
+      "character": "DR. MITTAL",
+      "gender": "Male",
+      "line": "What's that, Jack.",
+      "wordCount": 3
+    },
+    {
+      "id": 557,
+      "index": 557,
+      "character": "MA",
+      "gender": "Female",
+      "line": "He says he's real, not plastic.",
+      "wordCount": 6
+    },
+    {
+      "id": 558,
+      "index": 558,
+      "character": "DR. MITTAL",
+      "gender": "Male",
+      "line": "I can't argue with that, Jack. Real and very brave.",
+      "wordCount": 10
+    },
+    {
+      "id": 559,
+      "index": 559,
+      "character": "VOICE",
+      "gender": "NA",
+      "line": "Oh for God's sake ...",
+      "wordCount": 5
+    },
+    {
+      "id": 560,
+      "index": 560,
+      "character": "DR. MITTAL",
+      "gender": "Male",
+      "line": "We can talk about this again later. It sounds like you have more important things to do right now.",
+      "wordCount": 19
+    },
+    {
+      "id": 561,
+      "index": 561,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Dad!",
+      "wordCount": 1
+    },
+    {
+      "id": 562,
+      "index": 562,
+      "character": "ROBERT",
+      "gender": "Male",
+      "line": "My darling.",
+      "wordCount": 2
+    },
+    {
+      "id": 563,
+      "index": 563,
+      "character": "NANCY",
+      "gender": "Female",
+      "line": "We couldn't wait any longer.",
+      "wordCount": 5
+    },
+    {
+      "id": 564,
+      "index": 564,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Jack, Jack it's OK. This is your Grandma and Grandpa.",
+      "wordCount": 10
+    },
+    {
+      "id": 565,
+      "index": 565,
+      "character": "NANCY",
+      "gender": "Female",
+      "line": "Hello, Jack.",
+      "wordCount": 2
+    },
+    {
+      "id": 566,
+      "index": 566,
+      "character": "NANCY",
+      "gender": "Female",
+      "line": "That's OK. Thanks for saving my little girl, Jack.",
+      "wordCount": 9
+    },
+    {
+      "id": 567,
+      "index": 567,
+      "character": "NANCY",
+      "gender": "Female",
+      "line": "I hope I didn't forget anything. I'm sure I did.",
+      "wordCount": 10
+    },
+    {
+      "id": 568,
+      "index": 568,
+      "character": "NANCY",
+      "gender": "Female",
+      "line": "I kept everything.",
+      "wordCount": 3
+    },
+    {
+      "id": 569,
+      "index": 569,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Leave them, Jack, you'll get used to them.",
+      "wordCount": 8
+    },
+    {
+      "id": 570,
+      "index": 570,
+      "character": "ROBERT",
+      "gender": "Male",
+      "line": "You're here.",
+      "wordCount": 2
+    },
+    {
+      "id": 571,
+      "index": 571,
+      "character": "MA",
+      "gender": "Female",
+      "line": "So, what's in Michigan?",
+      "wordCount": 4
+    },
+    {
+      "id": 572,
+      "index": 572,
+      "character": "MA",
+      "gender": "Female",
+      "line": "OK.",
+      "wordCount": 1
+    },
+    {
+      "id": 573,
+      "index": 573,
+      "character": "ROBERT",
+      "gender": "Male",
+      "line": "I'm working out of the Grand Rapids office.",
+      "wordCount": 8
+    },
+    {
+      "id": 574,
+      "index": 574,
+      "character": "ROBERT",
+      "gender": "Male",
+      "line": "I live there now.",
+      "wordCount": 4
+    },
+    {
+      "id": 575,
+      "index": 575,
+      "character": "NANCY",
+      "gender": "Female",
+      "line": "Oh, Sweetie... There have been a lot of changes in our lives since you've been gone. Your dad and I... losing you, was very hard on us. And he and I...",
+      "wordCount": 31
+    },
+    {
+      "id": 576,
+      "index": 576,
+      "character": "ROBERT",
+      "gender": "Male",
+      "line": "We had to go our different ways. It was what we had to do.",
+      "wordCount": 14
+    },
+    {
+      "id": 577,
+      "index": 577,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Whoa. This is not what I thought was happening.",
+      "wordCount": 9
+    },
+    {
+      "id": 578,
+      "index": 578,
+      "character": "NANCY",
+      "gender": "Female",
+      "line": "Your father felt we had to accept that you were...",
+      "wordCount": 10
+    },
+    {
+      "id": 579,
+      "index": 579,
+      "character": "ROBERT",
+      "gender": "Male",
+      "line": "People deal with things in their own way.",
+      "wordCount": 8
+    },
+    {
+      "id": 580,
+      "index": 580,
+      "character": "NANCY",
+      "gender": "Female",
+      "line": "I knew you'd come home one day.",
+      "wordCount": 7
+    },
+    {
+      "id": 581,
+      "index": 581,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Wow.",
+      "wordCount": 1
+    },
+    {
+      "id": 582,
+      "index": 582,
+      "character": "NANCY",
+      "gender": "Female",
+      "line": "I'm so sorry, I didn't know how to tell you. They said we should talk to you together.",
+      "wordCount": 18
+    },
+    {
+      "id": 583,
+      "index": 583,
+      "character": "ROBERT",
+      "gender": "Male",
+      "line": "The Doctor mentioned this other place where they could help you, because it's hard, you know, to suddenly -",
+      "wordCount": 19
+    },
+    {
+      "id": 584,
+      "index": 584,
+      "character": "MA",
+      "gender": "Female",
+      "line": "He has no idea what we've been through. Nothing could compare to that.",
+      "wordCount": 13
+    },
+    {
+      "id": 585,
+      "index": 585,
+      "character": "MA",
+      "gender": "Female",
+      "line": "I told him we're going home. Unless, you'd prefer us ...",
+      "wordCount": 11
+    },
+    {
+      "id": 586,
+      "index": 586,
+      "character": "NANCY",
+      "gender": "Female",
+      "line": "Of course not.",
+      "wordCount": 3
+    },
+    {
+      "id": 587,
+      "index": 587,
+      "character": "NANCY",
+      "gender": "Female",
+      "line": "Honey, there's something else I have to tell you. After your father and I separated I got close to someone else. Actually someone you know.",
+      "wordCount": 25
+    },
+    {
+      "id": 588,
+      "index": 588,
+      "character": "ROBERT",
+      "gender": "Male",
+      "line": "Leo.",
+      "wordCount": 1
+    },
+    {
+      "id": 589,
+      "index": 589,
+      "character": "MA",
+      "gender": "Female",
+      "line": "OK, this is a lot of stuff.",
+      "wordCount": 7
+    },
+    {
+      "id": 590,
+      "index": 590,
+      "character": "NANCY",
+      "gender": "Female",
+      "line": "Yes it is.",
+      "wordCount": 3
+    },
+    {
+      "id": 591,
+      "index": 591,
+      "character": "ROBERT",
+      "gender": "Male",
+      "line": "Leo's a good guy. Your mother is much happier. It's a good thing.",
+      "wordCount": 13
+    },
+    {
+      "id": 592,
+      "index": 592,
+      "character": "MA",
+      "gender": "Female",
+      "line": "What, Jack?",
+      "wordCount": 2
+    },
+    {
+      "id": 593,
+      "index": 593,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "It's too big here.",
+      "wordCount": 4
+    },
+    {
+      "id": 594,
+      "index": 594,
+      "character": "MA",
+      "gender": "Female",
+      "line": "It's OK.",
+      "wordCount": 2
+    },
+    {
+      "id": 595,
+      "index": 595,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "I want some.",
+      "wordCount": 3
+    },
+    {
+      "id": 596,
+      "index": 596,
+      "character": "ROBERT",
+      "gender": "Male",
+      "line": "What .. what's he doing?",
+      "wordCount": 5
+    },
+    {
+      "id": 597,
+      "index": 597,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Just wait a moment. We'll go inside in a moment.",
+      "wordCount": 10
+    },
+    {
+      "id": 598,
+      "index": 598,
+      "character": "NANCY",
+      "gender": "Female",
+      "line": "It's OK.",
+      "wordCount": 2
+    },
+    {
+      "id": 599,
+      "index": 599,
+      "character": "MA",
+      "gender": "Female",
+      "line": "I need to go back now, anyway. There are things we need to do inside. Ma pulls Jack to his feet. Jack risks a look at his grandparents. Robert looks down, can't look Jack in the eye. Ma notices Jack has taken his shoes off. She starts to fuss with them, then gives up and lifts Jack into her arms to bring him inside.",
+      "wordCount": 64
+    },
+    {
+      "id": 600,
+      "index": 600,
+      "character": "NEWS ANCHOR",
+      "gender": "Female",
+      "line": "Which the major utility companies say they will not cover. Tenants' organizations have said they will fight this decision, if necessary at the federal level.",
+      "wordCount": 25
+    },
+    {
+      "id": 601,
+      "index": 601,
+      "character": "NEWS ANCHOR",
+      "gender": "Female",
+      "line": "And now to developments in the case of the young woman, believed to be Joy Newsome, who was rescued last night, along with her child, from a garden shed having allegedly been held captive there for over seven years. We are getting unconfirmed reports that an individual has just been arrested, after what one witness has called a 'short stand-off' at a house on the east side.",
+      "wordCount": 67
+    },
+    {
+      "id": 602,
+      "index": 602,
+      "character": "MA",
+      "gender": "Female",
+      "line": "I know, I'm watching it right now. I can't believe it. I just want to be home now.",
+      "wordCount": 18
+    },
+    {
+      "id": 603,
+      "index": 603,
+      "character": "NEWS ANCHOR",
+      "gender": "Female",
+      "line": "Both victims are understood to be receiving medical attention at an unknown location.",
+      "wordCount": 13
+    },
+    {
+      "id": 604,
+      "index": 604,
+      "character": "NEWS ANCHOR",
+      "gender": "Female",
+      "line": "The child, of unknown gender, was described by one eyewitness as unable to walk ..",
+      "wordCount": 15
+    },
+    {
+      "id": 605,
+      "index": 605,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Wait, wait a second.",
+      "wordCount": 4
+    },
+    {
+      "id": 606,
+      "index": 606,
+      "character": "DR. MITTAL",
+      "gender": "Male",
+      "line": "You have your schedule of appointments, and your medications. Please completely finish the course of antibiotics.",
+      "wordCount": 16
+    },
+    {
+      "id": 607,
+      "index": 607,
+      "character": "MA",
+      "gender": "Female",
+      "line": "I understand.",
+      "wordCount": 2
+    },
+    {
+      "id": 608,
+      "index": 608,
+      "character": "DR. MITTAL",
+      "gender": "Male",
+      "line": "You have my number.",
+      "wordCount": 4
+    },
+    {
+      "id": 609,
+      "index": 609,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Got it.",
+      "wordCount": 2
+    },
+    {
+      "id": 610,
+      "index": 610,
+      "character": "DR. MITTAL",
+      "gender": "Male",
+      "line": "If you need anything, if you just want to talk, you use it, alright?",
+      "wordCount": 14
+    },
+    {
+      "id": 611,
+      "index": 611,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "I've been in the world nineteen hours. I've seen pancakes and stairs and a cat and windows and hundreds of cars and birds and police and doctors and Grandma and Grandpa, and persons with different faces and bigness and smells talking all at the same time. The world's like all TV planets on at the same time so I don't know which what to look and listen. Doors and doors and behind all the door there's another inside and another outside and things happen-happen- happening, it never stops. Plus the world's always changing brightness and hotness and there's invisible germs floating everywhere. When I was small I only knew small things but now I'm five I know everything.",
+      "wordCount": 118
+    },
+    {
+      "id": 612,
+      "index": 612,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Jesus.",
+      "wordCount": 1
+    },
+    {
+      "id": 613,
+      "index": 613,
+      "character": "RESIDENT AGENT",
+      "gender": "NA",
+      "line": "Ready for this?",
+      "wordCount": 3
+    },
+    {
+      "id": 614,
+      "index": 614,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Ready?",
+      "wordCount": 1
+    },
+    {
+      "id": 615,
+      "index": 615,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Steady - go.",
+      "wordCount": 3
+    },
+    {
+      "id": 616,
+      "index": 616,
+      "character": "RESIDENT AGENT",
+      "gender": "NA",
+      "line": "You're doing great.",
+      "wordCount": 3
+    },
+    {
+      "id": 617,
+      "index": 617,
+      "character": "LAWYER",
+      "gender": "Male",
+      "line": "At this time ... excuse me, please ... at this time I will read a brief statement from the family after which I would ask you to respect their privacy. I'm sure you can understand this is a very -",
+      "wordCount": 40
+    },
+    {
+      "id": 618,
+      "index": 618,
+      "character": "RESIDENT AGENT",
+      "gender": "NA",
+      "line": "The back of the property is well screened, and we've added to that where necessary, so if you keep these drapes closed you'll have complete privacy. We'll be right outside if there's anything at all you need.",
+      "wordCount": 37
+    },
+    {
+      "id": 619,
+      "index": 619,
+      "character": "NANCY",
+      "gender": "Female",
+      "line": "Thank you. Thank you so much.",
+      "wordCount": 6
+    },
+    {
+      "id": 620,
+      "index": 620,
+      "character": "NANCY",
+      "gender": "Female",
+      "line": "My goodness. Are you OK?",
+      "wordCount": 5
+    },
+    {
+      "id": 621,
+      "index": 621,
+      "character": "LEO",
+      "gender": "NA",
+      "line": "Welcome home, honey. I'm very very happy to see you.",
+      "wordCount": 10
+    },
+    {
+      "id": 622,
+      "index": 622,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Leo.",
+      "wordCount": 1
+    },
+    {
+      "id": 623,
+      "index": 623,
+      "character": "NANCY",
+      "gender": "Female",
+      "line": "Jack, this is Leo.",
+      "wordCount": 4
+    },
+    {
+      "id": 624,
+      "index": 624,
+      "character": "LEO",
+      "gender": "NA",
+      "line": "Hey there, sport.",
+      "wordCount": 3
+    },
+    {
+      "id": 625,
+      "index": 625,
+      "character": "LEO",
+      "gender": "NA",
+      "line": "What can I get you? Anyone hungry? We have everything.",
+      "wordCount": 10
+    },
+    {
+      "id": 626,
+      "index": 626,
+      "character": "NANCY",
+      "gender": "Female",
+      "line": "People have been so kind. We won't use it all. Jack, would you like a drink?",
+      "wordCount": 16
+    },
+    {
+      "id": 627,
+      "index": 627,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Jack, Grandma's asking if you'd like something to drink.",
+      "wordCount": 9
+    },
+    {
+      "id": 628,
+      "index": 628,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Juice? Just some juice. I'm fine.",
+      "wordCount": 6
+    },
+    {
+      "id": 629,
+      "index": 629,
+      "character": "LEO",
+      "gender": "NA",
+      "line": "Coming right up.",
+      "wordCount": 3
+    },
+    {
+      "id": 630,
+      "index": 630,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "What are they for?",
+      "wordCount": 4
+    },
+    {
+      "id": 631,
+      "index": 631,
+      "character": "MA",
+      "gender": "Female",
+      "line": "They're from people saying they're happy that we're safe and back home.",
+      "wordCount": 12
+    },
+    {
+      "id": 632,
+      "index": 632,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "What people?",
+      "wordCount": 2
+    },
+    {
+      "id": 633,
+      "index": 633,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Just people.",
+      "wordCount": 2
+    },
+    {
+      "id": 634,
+      "index": 634,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Where's ice cream in the hammock?",
+      "wordCount": 6
+    },
+    {
+      "id": 635,
+      "index": 635,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Mom, what have you done with the hammock?",
+      "wordCount": 8
+    },
+    {
+      "id": 636,
+      "index": 636,
+      "character": "NANCY",
+      "gender": "Female",
+      "line": "I guess it must be in the basement.",
+      "wordCount": 8
+    },
+    {
+      "id": 637,
+      "index": 637,
+      "character": "LEO",
+      "gender": "NA",
+      "line": "Just in case.",
+      "wordCount": 3
+    },
+    {
+      "id": 638,
+      "index": 638,
+      "character": "MA",
+      "gender": "Female",
+      "line": "A dog?",
+      "wordCount": 2
+    },
+    {
+      "id": 639,
+      "index": 639,
+      "character": "NANCY",
+      "gender": "Female",
+      "line": "Oh. It's Leo's dog, Seamus.",
+      "wordCount": 5
+    },
+    {
+      "id": 640,
+      "index": 640,
+      "character": "MA",
+      "gender": "Female",
+      "line": "You don't like dogs.",
+      "wordCount": 4
+    },
+    {
+      "id": 641,
+      "index": 641,
+      "character": "NANCY",
+      "gender": "Female",
+      "line": "Oh no. I've come to love Seamus. He's won me over.",
+      "wordCount": 11
+    },
+    {
+      "id": 642,
+      "index": 642,
+      "character": "LEO",
+      "gender": "NA",
+      "line": "He's on furlough at the moment, with a pal of mine out of town. Living the country life.",
+      "wordCount": 18
+    },
+    {
+      "id": 643,
+      "index": 643,
+      "character": "NANCY",
+      "gender": "Female",
+      "line": "The hospital said to avoid pets, until your immunity is back up ... and there's so much to take in.",
+      "wordCount": 20
+    },
+    {
+      "id": 644,
+      "index": 644,
+      "character": "LEO",
+      "gender": "NA",
+      "line": "I told him he was a health hazard. Gotta sling your hook, buddy. He didn't take it too well.",
+      "wordCount": 19
+    },
+    {
+      "id": 645,
+      "index": 645,
+      "character": "NANCY",
+      "gender": "Female",
+      "line": "You OK?",
+      "wordCount": 2
+    },
+    {
+      "id": 646,
+      "index": 646,
+      "character": "ROBERT",
+      "gender": "Male",
+      "line": "Lawyer says they are expecting a plea but can't rule out a trial. He wants to get into everything, I said it could wait.",
+      "wordCount": 24
+    },
+    {
+      "id": 647,
+      "index": 647,
+      "character": "NANCY",
+      "gender": "Female",
+      "line": "Good.",
+      "wordCount": 1
+    },
+    {
+      "id": 648,
+      "index": 648,
+      "character": "ROBERT",
+      "gender": "Male",
+      "line": "He thinks most of the press will move on in a couple days. I made it clear there'd be no more contact, statements. To respect the family.",
+      "wordCount": 27
+    },
+    {
+      "id": 649,
+      "index": 649,
+      "character": "ROBERT",
+      "gender": "Male",
+      "line": "I'm sorry.",
+      "wordCount": 2
+    },
+    {
+      "id": 650,
+      "index": 650,
+      "character": "LEO",
+      "gender": "NA",
+      "line": "Can I get you a drink, Bob?",
+      "wordCount": 7
+    },
+    {
+      "id": 651,
+      "index": 651,
+      "character": "ROBERT",
+      "gender": "Male",
+      "line": "Thank you, yes. I'd like that very much. Scotch... whatever you have.",
+      "wordCount": 12
+    },
+    {
+      "id": 652,
+      "index": 652,
+      "character": "LEO",
+      "gender": "NA",
+      "line": "Sure.",
+      "wordCount": 1
+    },
+    {
+      "id": 653,
+      "index": 653,
+      "character": "NANCY",
+      "gender": "Female",
+      "line": "Is there anything you'd like, or like to do?",
+      "wordCount": 9
+    },
+    {
+      "id": 654,
+      "index": 654,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Just rest.",
+      "wordCount": 2
+    },
+    {
+      "id": 655,
+      "index": 655,
+      "character": "NANCY",
+      "gender": "Female",
+      "line": "Sure.",
+      "wordCount": 1
+    },
+    {
+      "id": 656,
+      "index": 656,
+      "character": "NANCY",
+      "gender": "Female",
+      "line": "This is your Mom's room, Jack.",
+      "wordCount": 6
+    },
+    {
+      "id": 657,
+      "index": 657,
+      "character": "NANCY",
+      "gender": "Female",
+      "line": "Hey, maybe tomorrow we can cut that hair. What do you say, Jack?",
+      "wordCount": 13
+    },
+    {
+      "id": 658,
+      "index": 658,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Jack says that's where his `strong' is.",
+      "wordCount": 7
+    },
+    {
+      "id": 659,
+      "index": 659,
+      "character": "NANCY",
+      "gender": "Female",
+      "line": "Ah ha.",
+      "wordCount": 2
+    },
+    {
+      "id": 660,
+      "index": 660,
+      "character": "NANCY",
+      "gender": "Female",
+      "line": "I'll let you rest. We'll be downstairs.",
+      "wordCount": 7
+    },
+    {
+      "id": 661,
+      "index": 661,
+      "character": "MA",
+      "gender": "Female",
+      "line": "You didn't know I could play piano. Guess this tune...",
+      "wordCount": 10
+    },
+    {
+      "id": 662,
+      "index": 662,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "How long do we have to stay here?",
+      "wordCount": 8
+    },
+    {
+      "id": 663,
+      "index": 663,
+      "character": "MA",
+      "gender": "Female",
+      "line": "We live here now.",
+      "wordCount": 4
+    },
+    {
+      "id": 664,
+      "index": 664,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Ice cream hurts.",
+      "wordCount": 3
+    },
+    {
+      "id": 665,
+      "index": 665,
+      "character": "LEO",
+      "gender": "NA",
+      "line": "You got a brain freeze there, Jack?",
+      "wordCount": 7
+    },
+    {
+      "id": 666,
+      "index": 666,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Eat it slower.",
+      "wordCount": 3
+    },
+    {
+      "id": 667,
+      "index": 667,
+      "character": "ROBERT",
+      "gender": "Male",
+      "line": "I'm going to turn in.",
+      "wordCount": 5
+    },
+    {
+      "id": 668,
+      "index": 668,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Is there something wrong?",
+      "wordCount": 4
+    },
+    {
+      "id": 669,
+      "index": 669,
+      "character": "ROBERT",
+      "gender": "Male",
+      "line": "No.",
+      "wordCount": 1
+    },
+    {
+      "id": 670,
+      "index": 670,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Why are you in such a hurry?",
+      "wordCount": 7
+    },
+    {
+      "id": 671,
+      "index": 671,
+      "character": "ROBERT",
+      "gender": "Male",
+      "line": "It's been a long day.",
+      "wordCount": 5
+    },
+    {
+      "id": 672,
+      "index": 672,
+      "character": "MA",
+      "gender": "Female",
+      "line": "You haven't said one word to Jack.",
+      "wordCount": 7
+    },
+    {
+      "id": 673,
+      "index": 673,
+      "character": "NANCY",
+      "gender": "Female",
+      "line": "Joy.",
+      "wordCount": 1
+    },
+    {
+      "id": 674,
+      "index": 674,
+      "character": "ROBERT",
+      "gender": "Male",
+      "line": "We don't have to talk about this now.",
+      "wordCount": 8
+    },
+    {
+      "id": 675,
+      "index": 675,
+      "character": "NANCY",
+      "gender": "Female",
+      "line": "My God.",
+      "wordCount": 2
+    },
+    {
+      "id": 676,
+      "index": 676,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Yes we do. Look at him.",
+      "wordCount": 6
+    },
+    {
+      "id": 677,
+      "index": 677,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Dad.",
+      "wordCount": 1
+    },
+    {
+      "id": 678,
+      "index": 678,
+      "character": "NANCY",
+      "gender": "Female",
+      "line": "Robert.",
+      "wordCount": 1
+    },
+    {
+      "id": 679,
+      "index": 679,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Please.",
+      "wordCount": 1
+    },
+    {
+      "id": 680,
+      "index": 680,
+      "character": "ROBERT",
+      "gender": "Male",
+      "line": "I can't, I can't... I'm sorry.",
+      "wordCount": 6
+    },
+    {
+      "id": 681,
+      "index": 681,
+      "character": "MA",
+      "gender": "Female",
+      "line": "He's my baby.",
+      "wordCount": 3
+    },
+    {
+      "id": 682,
+      "index": 682,
+      "character": "ROBERT",
+      "gender": "Male",
+      "line": "What that bastard did to you.",
+      "wordCount": 6
+    },
+    {
+      "id": 683,
+      "index": 683,
+      "character": "LEO",
+      "gender": "NA",
+      "line": "Come on, Bob. Let's all just give this a little time.",
+      "wordCount": 11
+    },
+    {
+      "id": 684,
+      "index": 684,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Come on, Jack. Time for bed.",
+      "wordCount": 6
+    },
+    {
+      "id": 685,
+      "index": 685,
+      "character": "ROBERT",
+      "gender": "Male",
+      "line": "I'm so sorry. I shouldn't be here.",
+      "wordCount": 7
+    },
+    {
+      "id": 686,
+      "index": 686,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Where's Grandpa.",
+      "wordCount": 2
+    },
+    {
+      "id": 687,
+      "index": 687,
+      "character": "NANCY",
+      "gender": "Female",
+      "line": "He had to go home for a while.",
+      "wordCount": 8
+    },
+    {
+      "id": 688,
+      "index": 688,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Hey Jack, you want play with your new toys?",
+      "wordCount": 9
+    },
+    {
+      "id": 689,
+      "index": 689,
+      "character": "NANCY",
+      "gender": "Female",
+      "line": "Jack! Come away from there.",
+      "wordCount": 5
+    },
+    {
+      "id": 690,
+      "index": 690,
+      "character": "NANCY",
+      "gender": "Female",
+      "line": "Come in.",
+      "wordCount": 2
+    },
+    {
+      "id": 691,
+      "index": 691,
+      "character": "LAWYER",
+      "gender": "Male",
+      "line": "Thank you. Automatic door.",
+      "wordCount": 4
+    },
+    {
+      "id": 692,
+      "index": 692,
+      "character": "NANCY",
+      "gender": "Female",
+      "line": "Yes.",
+      "wordCount": 1
+    },
+    {
+      "id": 693,
+      "index": 693,
+      "character": "LAWYER",
+      "gender": "Male",
+      "line": "Let me take my shoes off here.",
+      "wordCount": 7
+    },
+    {
+      "id": 694,
+      "index": 694,
+      "character": "62A CONTINUED: 62A",
+      "gender": "NA",
+      "line": "INT. DINING ROOM - LATER",
+      "wordCount": 5
+    },
+    {
+      "id": 695,
+      "index": 695,
+      "character": "LAWYER",
+      "gender": "Male",
+      "line": "The other thing we need to talk about is coming up with some kind of media strategy. I know you're not thinking about that right now. But there's a lot to decide about in that category.",
+      "wordCount": 36
+    },
+    {
+      "id": 696,
+      "index": 696,
+      "character": "NANCY",
+      "gender": "Female",
+      "line": "I don't think we're ready for talking yet. Not like that.",
+      "wordCount": 11
+    },
+    {
+      "id": 697,
+      "index": 697,
+      "character": "LAWYER",
+      "gender": "Male",
+      "line": "There are certain to be expenses going forward and a prime time interview, one prime time interview, means a lot of money. Donations are coming - and I'll need some account details, better in yours than mine, right? - but it wouldn't amount to enough for, you know, open ended support.",
+      "wordCount": 51
+    },
+    {
+      "id": 698,
+      "index": 698,
+      "character": "LAWYER",
+      "gender": "Male",
+      "line": "There's huge interest.",
+      "wordCount": 3
+    },
+    {
+      "id": 699,
+      "index": 699,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Jack, you have all those colors. Why don't you use them. You could draw a picture of Jack the giant slayer, with every color.",
+      "wordCount": 24
+    },
+    {
+      "id": 700,
+      "index": 700,
+      "character": "LEO",
+      "gender": "NA",
+      "line": "Thank you again.",
+      "wordCount": 3
+    },
+    {
+      "id": 701,
+      "index": 701,
+      "character": "LEO",
+      "gender": "NA",
+      "line": "Gee, am I hungry.",
+      "wordCount": 4
+    },
+    {
+      "id": 702,
+      "index": 702,
+      "character": "LEO",
+      "gender": "NA",
+      "line": "Let's see what we have here.",
+      "wordCount": 6
+    },
+    {
+      "id": 703,
+      "index": 703,
+      "character": "LEO",
+      "gender": "NA",
+      "line": "Pretty good, right?",
+      "wordCount": 3
+    },
+    {
+      "id": 704,
+      "index": 704,
+      "character": "LEO",
+      "gender": "NA",
+      "line": "I like this kind, too. Kind of sweet, but pretty good.",
+      "wordCount": 11
+    },
+    {
+      "id": 705,
+      "index": 705,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "You have a dog?",
+      "wordCount": 4
+    },
+    {
+      "id": 706,
+      "index": 706,
+      "character": "LEO",
+      "gender": "NA",
+      "line": "I do. Named Seamus. He's very small. Not very smart. You'll have to meet him sometime. He'll shake your hand.",
+      "wordCount": 20
+    },
+    {
+      "id": 707,
+      "index": 707,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "I had a dog called Lucky. But he's not real.",
+      "wordCount": 10
+    },
+    {
+      "id": 708,
+      "index": 708,
+      "character": "LEO",
+      "gender": "NA",
+      "line": "Yeah?",
+      "wordCount": 1
+    },
+    {
+      "id": 709,
+      "index": 709,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "In Room.",
+      "wordCount": 2
+    },
+    {
+      "id": 710,
+      "index": 710,
+      "character": "LEO",
+      "gender": "NA",
+      "line": "You ever play catch, Jack?",
+      "wordCount": 5
+    },
+    {
+      "id": 711,
+      "index": 711,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "I hate shoes.",
+      "wordCount": 3
+    },
+    {
+      "id": 712,
+      "index": 712,
+      "character": "LEO",
+      "gender": "NA",
+      "line": "I hear what you're saying, but ...",
+      "wordCount": 7
+    },
+    {
+      "id": 713,
+      "index": 713,
+      "character": "LEO",
+      "gender": "NA",
+      "line": "They've got their uses. Am I right?",
+      "wordCount": 7
+    },
+    {
+      "id": 714,
+      "index": 714,
+      "character": "NEIGHBOR BOY",
+      "gender": "NA",
+      "line": "Hey.",
+      "wordCount": 1
+    },
+    {
+      "id": 715,
+      "index": 715,
+      "character": "NEIGHBOR BOY",
+      "gender": "NA",
+      "line": "I have a ball like that.",
+      "wordCount": 6
+    },
+    {
+      "id": 716,
+      "index": 716,
+      "character": "LEO",
+      "gender": "NA",
+      "line": "No kidding. It's a nice ball, isn't it?",
+      "wordCount": 8
+    },
+    {
+      "id": 717,
+      "index": 717,
+      "character": "NEIGHBOR BOY",
+      "gender": "NA",
+      "line": "I got mine for my birthday.",
+      "wordCount": 6
+    },
+    {
+      "id": 718,
+      "index": 718,
+      "character": "LEO",
+      "gender": "NA",
+      "line": "Fantastic. You hear that, Jack? He got this same ball for his birthday.",
+      "wordCount": 13
+    },
+    {
+      "id": 719,
+      "index": 719,
+      "character": "NEIGHBOR BOY",
+      "gender": "NA",
+      "line": "Why's he wearing those glasses.",
+      "wordCount": 5
+    },
+    {
+      "id": 720,
+      "index": 720,
+      "character": "LEO",
+      "gender": "NA",
+      "line": "He's got sore eyes.",
+      "wordCount": 4
+    },
+    {
+      "id": 721,
+      "index": 721,
+      "character": "NEIGHBOR BOY",
+      "gender": "NA",
+      "line": "Did you get that ball for your birthday? Jack shakes his head",
+      "wordCount": 12
+    },
+    {
+      "id": 722,
+      "index": 722,
+      "character": "NEIGHBOR BOY",
+      "gender": "NA",
+      "line": "What did you get for your birthday?",
+      "wordCount": 7
+    },
+    {
+      "id": 723,
+      "index": 723,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "I got a truck but it broke and Ma got me a cake.",
+      "wordCount": 13
+    },
+    {
+      "id": 724,
+      "index": 724,
+      "character": "NEIGHBOR BOY",
+      "gender": "NA",
+      "line": "A cake's not a present.",
+      "wordCount": 5
+    },
+    {
+      "id": 725,
+      "index": 725,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Yes it is.",
+      "wordCount": 3
+    },
+    {
+      "id": 726,
+      "index": 726,
+      "character": "NEIGHBOR BOY",
+      "gender": "NA",
+      "line": "That's weird. A cake's just something to eat. No way is it a present.",
+      "wordCount": 14
+    },
+    {
+      "id": 727,
+      "index": 727,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Ma. Ma.",
+      "wordCount": 2
+    },
+    {
+      "id": 728,
+      "index": 728,
+      "character": "MA",
+      "gender": "Female",
+      "line": "I already gave all this information to the last person. What, Jack?",
+      "wordCount": 12
+    },
+    {
+      "id": 729,
+      "index": 729,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Is a cake a present?",
+      "wordCount": 5
+    },
+    {
+      "id": 730,
+      "index": 730,
+      "character": "MA",
+      "gender": "Female",
+      "line": "What? She turns away, deep in her own frustration.",
+      "wordCount": 9
+    },
+    {
+      "id": 731,
+      "index": 731,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Hold on ... I don't understand the words you are using, so why do you keep repeating them? I have done that three times already.",
+      "wordCount": 25
+    },
+    {
+      "id": 732,
+      "index": 732,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Have you been outside? INT. NANCY AND LEO'S HOUSE - LEO'S DEN",
+      "wordCount": 12
+    },
+    {
+      "id": 733,
+      "index": 733,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Leo, please don't ever take Jack outside again unless you know what you're doing. He can be seriously hurt by the sun.",
+      "wordCount": 22
+    },
+    {
+      "id": 734,
+      "index": 734,
+      "character": "LEO",
+      "gender": "NA",
+      "line": "I'm so sorry. It was overcast.",
+      "wordCount": 6
+    },
+    {
+      "id": 735,
+      "index": 735,
+      "character": "MA",
+      "gender": "Female",
+      "line": "He has never had any UV. This is serious stuff, OK?",
+      "wordCount": 11
+    },
+    {
+      "id": 736,
+      "index": 736,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Look at this. She shows him an old photo. Four girls in track uniforms.",
+      "wordCount": 14
+    },
+    {
+      "id": 737,
+      "index": 737,
+      "character": "MA",
+      "gender": "Female",
+      "line": "You know who that is?",
+      "wordCount": 5
+    },
+    {
+      "id": 738,
+      "index": 738,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "You?",
+      "wordCount": 1
+    },
+    {
+      "id": 739,
+      "index": 739,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Me and Stacy Benton and Heather Noel and Laura Sullivan. That's how people did their hair. We were the relay team. I was the anchor. I was fast. We did track together.",
+      "wordCount": 32
+    },
+    {
+      "id": 740,
+      "index": 740,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Real track?",
+      "wordCount": 2
+    },
+    {
+      "id": 741,
+      "index": 741,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Real track. On a field. We were fast. Best in the district. You know what happened to them?",
+      "wordCount": 18
+    },
+    {
+      "id": 742,
+      "index": 742,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "No.",
+      "wordCount": 1
+    },
+    {
+      "id": 743,
+      "index": 743,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Exactly. Nothing. They just lived and nothing happened. Look ...",
+      "wordCount": 10
+    },
+    {
+      "id": 744,
+      "index": 744,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Show me more when you were young.",
+      "wordCount": 7
+    },
+    {
+      "id": 745,
+      "index": 745,
+      "character": "MA",
+      "gender": "Female",
+      "line": "No. I don't want to see any more. I don't want you to look at any more right now. Let's just be quiet for while. Okey dokey?",
+      "wordCount": 27
+    },
+    {
+      "id": 746,
+      "index": 746,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Ma?",
+      "wordCount": 1
+    },
+    {
+      "id": 747,
+      "index": 747,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Ma?",
+      "wordCount": 1
+    },
+    {
+      "id": 748,
+      "index": 748,
+      "character": "LEO",
+      "gender": "NA",
+      "line": "Not at all, we'll all sleep better.",
+      "wordCount": 7
+    },
+    {
+      "id": 749,
+      "index": 749,
+      "character": "LAWYER",
+      "gender": "Male",
+      "line": "I thought you'd want to know.",
+      "wordCount": 6
+    },
+    {
+      "id": 750,
+      "index": 750,
+      "character": "LEO",
+      "gender": "NA",
+      "line": "That's right",
+      "wordCount": 2
+    },
+    {
+      "id": 751,
+      "index": 751,
+      "character": "LAWYER",
+      "gender": "Male",
+      "line": "It's a good day.",
+      "wordCount": 4
+    },
+    {
+      "id": 752,
+      "index": 752,
+      "character": "NANCY",
+      "gender": "Female",
+      "line": "Thank God.",
+      "wordCount": 2
+    },
+    {
+      "id": 753,
+      "index": 753,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "You were gone!",
+      "wordCount": 3
+    },
+    {
+      "id": 754,
+      "index": 754,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Do you want to hear something really good?",
+      "wordCount": 8
+    },
+    {
+      "id": 755,
+      "index": 755,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "You were gone.",
+      "wordCount": 3
+    },
+    {
+      "id": 756,
+      "index": 756,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Hey listen. Old Nick is going to jail for a really long time.",
+      "wordCount": 13
+    },
+    {
+      "id": 757,
+      "index": 757,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "I know Old Nick is in jail.",
+      "wordCount": 7
+    },
+    {
+      "id": 758,
+      "index": 758,
+      "character": "MA",
+      "gender": "Female",
+      "line": "But now he'll be there for ever and ever. And I don't have to see him ever again or talk to the judge or any of those scary things. Isn't that great?",
+      "wordCount": 32
+    },
+    {
+      "id": 759,
+      "index": 759,
+      "character": "MA",
+      "gender": "Female",
+      "line": "We can stop worrying now and start to do all the things we want.",
+      "wordCount": 14
+    },
+    {
+      "id": 760,
+      "index": 760,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "What are you doing?",
+      "wordCount": 4
+    },
+    {
+      "id": 761,
+      "index": 761,
+      "character": "MA",
+      "gender": "Female",
+      "line": "I'm talking to people.",
+      "wordCount": 4
+    },
+    {
+      "id": 762,
+      "index": 762,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Why do you look like that?",
+      "wordCount": 6
+    },
+    {
+      "id": 763,
+      "index": 763,
+      "character": "MA",
+      "gender": "Female",
+      "line": "I'm dressed to go out, that's all.",
+      "wordCount": 7
+    },
+    {
+      "id": 764,
+      "index": 764,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "I don't like it.",
+      "wordCount": 4
+    },
+    {
+      "id": 765,
+      "index": 765,
+      "character": "MA",
+      "gender": "Female",
+      "line": "It's just some clothes and makeup.",
+      "wordCount": 6
+    },
+    {
+      "id": 766,
+      "index": 766,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Come on, we need to get you ready.",
+      "wordCount": 8
+    },
+    {
+      "id": 767,
+      "index": 767,
+      "character": "NANCY",
+      "gender": "Female",
+      "line": "Maybe it's too much for him right now.",
+      "wordCount": 8
+    },
+    {
+      "id": 768,
+      "index": 768,
+      "character": "MA",
+      "gender": "Female",
+      "line": "It's not too much for me. I need to go out, get some air.",
+      "wordCount": 14
+    },
+    {
+      "id": 769,
+      "index": 769,
+      "character": "MA",
+      "gender": "Female",
+      "line": "You could have a better attitude, you know.",
+      "wordCount": 8
+    },
+    {
+      "id": 770,
+      "index": 770,
+      "character": "MA",
+      "gender": "Female",
+      "line": "You could support me in this. That's all I'm asking. I'm trying to take a step.",
+      "wordCount": 16
+    },
+    {
+      "id": 771,
+      "index": 771,
+      "character": "NANCY",
+      "gender": "Female",
+      "line": "You don't have to do it so soon. You could wait and we could go together.",
+      "wordCount": 16
+    },
+    {
+      "id": 772,
+      "index": 772,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Oh my God!",
+      "wordCount": 3
+    },
+    {
+      "id": 773,
+      "index": 773,
+      "character": "LAURA",
+      "gender": "NA",
+      "line": "Oh my God!",
+      "wordCount": 3
+    },
+    {
+      "id": 774,
+      "index": 774,
+      "character": "LAURA",
+      "gender": "NA",
+      "line": "You look... Amazing. I can't believe you're here.",
+      "wordCount": 8
+    },
+    {
+      "id": 775,
+      "index": 775,
+      "character": "MA",
+      "gender": "Female",
+      "line": "I know. I know.",
+      "wordCount": 4
+    },
+    {
+      "id": 776,
+      "index": 776,
+      "character": "LAURA",
+      "gender": "NA",
+      "line": "I've missed you so much. I can't believe you're actually here. And look at Jack! What a sweetheart! He is so cute!",
+      "wordCount": 22
+    },
+    {
+      "id": 777,
+      "index": 777,
+      "character": "MA",
+      "gender": "Female",
+      "line": "This is too weird, sitting in this car right now.",
+      "wordCount": 10
+    },
+    {
+      "id": 778,
+      "index": 778,
+      "character": "LAURA",
+      "gender": "NA",
+      "line": "You are such an amazing person, Joy. I have thought about you so much.",
+      "wordCount": 14
+    },
+    {
+      "id": 779,
+      "index": 779,
+      "character": "LAURA",
+      "gender": "NA",
+      "line": "And I am so happy you are here with me now. I cannot even tell you.",
+      "wordCount": 16
+    },
+    {
+      "id": 780,
+      "index": 780,
+      "character": "MA",
+      "gender": "Female",
+      "line": "I'm happy, too. And a little freaked out.",
+      "wordCount": 8
+    },
+    {
+      "id": 781,
+      "index": 781,
+      "character": "LAURA",
+      "gender": "NA",
+      "line": "You just sit back. Relax. We'll take it nice and slow.",
+      "wordCount": 11
+    },
+    {
+      "id": 782,
+      "index": 782,
+      "character": "LAURA",
+      "gender": "NA",
+      "line": "...Tracy is doing so good. She got her teaching certificate and now she's teaching in Milwaukie, loving it. I saw her last summer and she is still so fun.",
+      "wordCount": 29
+    },
+    {
+      "id": 783,
+      "index": 783,
+      "character": "MA",
+      "gender": "Female",
+      "line": "I always liked her even though we never really hung out.",
+      "wordCount": 11
+    },
+    {
+      "id": 784,
+      "index": 784,
+      "character": "LAURA",
+      "gender": "NA",
+      "line": "She liked you too. Your Mom was very popular in school.",
+      "wordCount": 11
+    },
+    {
+      "id": 785,
+      "index": 785,
+      "character": "MA",
+      "gender": "Female",
+      "line": "That's actually not true.",
+      "wordCount": 4
+    },
+    {
+      "id": 786,
+      "index": 786,
+      "character": "LAURA",
+      "gender": "NA",
+      "line": "If you weren't popular, I don't know who was.",
+      "wordCount": 9
+    },
+    {
+      "id": 787,
+      "index": 787,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Susan Torrey.",
+      "wordCount": 2
+    },
+    {
+      "id": 788,
+      "index": 788,
+      "character": "LAURA",
+      "gender": "NA",
+      "line": "That's true.",
+      "wordCount": 2
+    },
+    {
+      "id": 789,
+      "index": 789,
+      "character": "LAURA",
+      "gender": "NA",
+      "line": "Hey, I'm driving.",
+      "wordCount": 3
+    },
+    {
+      "id": 790,
+      "index": 790,
+      "character": "LAURA",
+      "gender": "NA",
+      "line": "We'll see. You'll just have to, won't you?",
+      "wordCount": 8
+    },
+    {
+      "id": 791,
+      "index": 791,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Who was that?",
+      "wordCount": 3
+    },
+    {
+      "id": 792,
+      "index": 792,
+      "character": "LAURA",
+      "gender": "NA",
+      "line": "Just someone I met at work. Not serious.",
+      "wordCount": 8
+    },
+    {
+      "id": 793,
+      "index": 793,
+      "character": "MA",
+      "gender": "Female",
+      "line": "What work do you do.",
+      "wordCount": 5
+    },
+    {
+      "id": 794,
+      "index": 794,
+      "character": "LAURA",
+      "gender": "NA",
+      "line": "Real estate. I mean I graduated Environmental Studies and I'm still super passionate about that - like what we're doing to this planet, but the whole property thing is exploding.",
+      "wordCount": 30
+    },
+    {
+      "id": 795,
+      "index": 795,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Jack. This way. Just hold my hand.",
+      "wordCount": 7
+    },
+    {
+      "id": 796,
+      "index": 796,
+      "character": "MA",
+      "gender": "Female",
+      "line": "You're going to be fine. OK?",
+      "wordCount": 6
+    },
+    {
+      "id": 797,
+      "index": 797,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Ma, it's Dylan!",
+      "wordCount": 3
+    },
+    {
+      "id": 798,
+      "index": 798,
+      "character": "MA",
+      "gender": "Female",
+      "line": "You can't take that, Jack.",
+      "wordCount": 5
+    },
+    {
+      "id": 799,
+      "index": 799,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Why?",
+      "wordCount": 1
+    },
+    {
+      "id": 800,
+      "index": 800,
+      "character": "MA",
+      "gender": "Female",
+      "line": "It doesn't belong to you.",
+      "wordCount": 5
+    },
+    {
+      "id": 801,
+      "index": 801,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Come on. If you're good we can get another book, a new one on our way out.",
+      "wordCount": 17
+    },
+    {
+      "id": 802,
+      "index": 802,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Ma! Ma!",
+      "wordCount": 2
+    },
+    {
+      "id": 803,
+      "index": 803,
+      "character": "MA",
+      "gender": "Female",
+      "line": "I'm here. OK? Just calm down.",
+      "wordCount": 6
+    },
+    {
+      "id": 804,
+      "index": 804,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "I was scared!",
+      "wordCount": 3
+    },
+    {
+      "id": 805,
+      "index": 805,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Don't be. This is normal. This is what people do.",
+      "wordCount": 10
+    },
+    {
+      "id": 806,
+      "index": 806,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "I don't like it!",
+      "wordCount": 4
+    },
+    {
+      "id": 807,
+      "index": 807,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Remember your superpowers, alright, have fun. And no whining, OK?",
+      "wordCount": 10
+    },
+    {
+      "id": 808,
+      "index": 808,
+      "character": "CLERK",
+      "gender": "NA",
+      "line": "Hi, there. Anything I can help you with?",
+      "wordCount": 8
+    },
+    {
+      "id": 809,
+      "index": 809,
+      "character": "MA",
+      "gender": "Female",
+      "line": "I need some... ... some shoes.",
+      "wordCount": 6
+    },
+    {
+      "id": 810,
+      "index": 810,
+      "character": "CLERK",
+      "gender": "NA",
+      "line": "Great. Shoes are all over there. Just let me know if you need anything else, okay?",
+      "wordCount": 16
+    },
+    {
+      "id": 811,
+      "index": 811,
+      "character": "MA",
+      "gender": "Female",
+      "line": "I don't know.",
+      "wordCount": 3
+    },
+    {
+      "id": 812,
+      "index": 812,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Can we get Dylan now?",
+      "wordCount": 5
+    },
+    {
+      "id": 813,
+      "index": 813,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Please, Jack.",
+      "wordCount": 2
+    },
+    {
+      "id": 814,
+      "index": 814,
+      "character": "LAURA",
+      "gender": "NA",
+      "line": "These ones are kind of cute.",
+      "wordCount": 6
+    },
+    {
+      "id": 815,
+      "index": 815,
+      "character": "MA",
+      "gender": "Female",
+      "line": "No. I definitely don't want any of these. I'd never wear these.",
+      "wordCount": 12
+    },
+    {
+      "id": 816,
+      "index": 816,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Are you hungry, Jack? You want something in the food court? They've got, I don't know, pizza and stuff.",
+      "wordCount": 19
+    },
+    {
+      "id": 817,
+      "index": 817,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "I want Dylan. You said.",
+      "wordCount": 5
+    },
+    {
+      "id": 818,
+      "index": 818,
+      "character": "MA",
+      "gender": "Female",
+      "line": "I said if you were good.",
+      "wordCount": 6
+    },
+    {
+      "id": 819,
+      "index": 819,
+      "character": "LAURA",
+      "gender": "NA",
+      "line": "I could run and get it for him.",
+      "wordCount": 8
+    },
+    {
+      "id": 820,
+      "index": 820,
+      "character": "MA",
+      "gender": "Female",
+      "line": "No. I said no, so he has to understand.",
+      "wordCount": 9
+    },
+    {
+      "id": 821,
+      "index": 821,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Jack, you want a Cinnabon? You smell that?",
+      "wordCount": 8
+    },
+    {
+      "id": 822,
+      "index": 822,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "No.",
+      "wordCount": 1
+    },
+    {
+      "id": 823,
+      "index": 823,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Cinnabon is good. You might like it.",
+      "wordCount": 7
+    },
+    {
+      "id": 824,
+      "index": 824,
+      "character": "LAURA",
+      "gender": "NA",
+      "line": "I think we should just go.",
+      "wordCount": 6
+    },
+    {
+      "id": 825,
+      "index": 825,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "I want Dylan. I want Dylan now.You said.",
+      "wordCount": 8
+    },
+    {
+      "id": 826,
+      "index": 826,
+      "character": "MA",
+      "gender": "Female",
+      "line": "You are being really naughty Jack.",
+      "wordCount": 6
+    },
+    {
+      "id": 827,
+      "index": 827,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Suit yourself.",
+      "wordCount": 2
+    },
+    {
+      "id": 828,
+      "index": 828,
+      "character": "TEENAGER",
+      "gender": "NA",
+      "line": "Hey, are you that kid from the TV.",
+      "wordCount": 8
+    },
+    {
+      "id": 829,
+      "index": 829,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Get the fuck away from him. Get the fuck away.",
+      "wordCount": 10
+    },
+    {
+      "id": 830,
+      "index": 830,
+      "character": "LAURA",
+      "gender": "NA",
+      "line": "Oh my God. Oh. My. God.",
+      "wordCount": 6
+    },
+    {
+      "id": 831,
+      "index": 831,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Shit, shit, shit. Those assholes.",
+      "wordCount": 5
+    },
+    {
+      "id": 832,
+      "index": 832,
+      "character": "LAURA",
+      "gender": "NA",
+      "line": "Buckle up, Jack, all right?",
+      "wordCount": 5
+    },
+    {
+      "id": 833,
+      "index": 833,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "I... I...",
+      "wordCount": 2
+    },
+    {
+      "id": 834,
+      "index": 834,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Jesus Christ. Just buckle it, all right?",
+      "wordCount": 7
+    },
+    {
+      "id": 835,
+      "index": 835,
+      "character": "MA",
+      "gender": "Female",
+      "line": "That's how it works, all right?",
+      "wordCount": 6
+    },
+    {
+      "id": 836,
+      "index": 836,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "I don't like you in the world!",
+      "wordCount": 7
+    },
+    {
+      "id": 837,
+      "index": 837,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Well maybe I don't like you either!",
+      "wordCount": 7
+    },
+    {
+      "id": 838,
+      "index": 838,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Just go!",
+      "wordCount": 2
+    },
+    {
+      "id": 839,
+      "index": 839,
+      "character": "LEO",
+      "gender": "NA",
+      "line": "Oh, you got me on that one.",
+      "wordCount": 7
+    },
+    {
+      "id": 840,
+      "index": 840,
+      "character": "NANCY",
+      "gender": "Female",
+      "line": "You guys want to start again?",
+      "wordCount": 6
+    },
+    {
+      "id": 841,
+      "index": 841,
+      "character": "NANCY",
+      "gender": "Female",
+      "line": "Here we go. My turn.",
+      "wordCount": 5
+    },
+    {
+      "id": 842,
+      "index": 842,
+      "character": "NANCY",
+      "gender": "Female",
+      "line": "You know, it can be tough to be a Mom. Sometimes it's really tough, and you can get angry, but it doesn't mean you don't love your baby.",
+      "wordCount": 28
+    },
+    {
+      "id": 843,
+      "index": 843,
+      "character": "NANCY",
+      "gender": "Female",
+      "line": "I'm sorry.",
+      "wordCount": 2
+    },
+    {
+      "id": 844,
+      "index": 844,
+      "character": "DR. MITTAL",
+      "gender": "Male",
+      "line": "OK. Let her rest. I'll see you again next week, Jack.",
+      "wordCount": 11
+    },
+    {
+      "id": 845,
+      "index": 845,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Jack. Please turn that off. Jack keeps watching.",
+      "wordCount": 8
+    },
+    {
+      "id": 846,
+      "index": 846,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Now. I mean it. Now.",
+      "wordCount": 5
+    },
+    {
+      "id": 847,
+      "index": 847,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "I want to watch!",
+      "wordCount": 4
+    },
+    {
+      "id": 848,
+      "index": 848,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Jack! Please. Please. I'm begging you, please turn that off.",
+      "wordCount": 10
+    },
+    {
+      "id": 849,
+      "index": 849,
+      "character": "MA",
+      "gender": "Female",
+      "line": "It reminds me too much of Room. I can't have it.",
+      "wordCount": 11
+    },
+    {
+      "id": 850,
+      "index": 850,
+      "character": "MA",
+      "gender": "Female",
+      "line": "You've got so many other things to play with. You should try something else.",
+      "wordCount": 14
+    },
+    {
+      "id": 851,
+      "index": 851,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Come on. Let's look at all your stuff.",
+      "wordCount": 8
+    },
+    {
+      "id": 852,
+      "index": 852,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Look at all these toys. Most kids would love that stuff. You've barely even looked at them.",
+      "wordCount": 17
+    },
+    {
+      "id": 853,
+      "index": 853,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "I don't want to.",
+      "wordCount": 4
+    },
+    {
+      "id": 854,
+      "index": 854,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Come on, Jack.",
+      "wordCount": 3
+    },
+    {
+      "id": 855,
+      "index": 855,
+      "character": "MA",
+      "gender": "Female",
+      "line": "It's pretty cool, right? You like it?",
+      "wordCount": 7
+    },
+    {
+      "id": 856,
+      "index": 856,
+      "character": "MA",
+      "gender": "Female",
+      "line": "He needs something real to do. I'm getting worried about him with the phone.",
+      "wordCount": 14
+    },
+    {
+      "id": 857,
+      "index": 857,
+      "character": "NANCY",
+      "gender": "Female",
+      "line": "He's fine.",
+      "wordCount": 2
+    },
+    {
+      "id": 858,
+      "index": 858,
+      "character": "MA",
+      "gender": "Female",
+      "line": "I don't give him my phone so please don't give him yours.",
+      "wordCount": 12
+    },
+    {
+      "id": 859,
+      "index": 859,
+      "character": "NANCY",
+      "gender": "Female",
+      "line": "OK.",
+      "wordCount": 1
+    },
+    {
+      "id": 860,
+      "index": 860,
+      "character": "MA",
+      "gender": "Female",
+      "line": "I just want him to connect to something. You know?",
+      "wordCount": 10
+    },
+    {
+      "id": 861,
+      "index": 861,
+      "character": "NANCY",
+      "gender": "Female",
+      "line": "He's really doing fine.",
+      "wordCount": 4
+    },
+    {
+      "id": 862,
+      "index": 862,
+      "character": "MA",
+      "gender": "Female",
+      "line": "I'm sorry, I don't know what's happening to me. I can't feel anything. Even for ...",
+      "wordCount": 16
+    },
+    {
+      "id": 863,
+      "index": 863,
+      "character": "NANCY",
+      "gender": "Female",
+      "line": "Joy, please.",
+      "wordCount": 2
+    },
+    {
+      "id": 864,
+      "index": 864,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Don't judge me. You have no right. People walk around like the world is fine and normal but it's not.",
+      "wordCount": 20
+    },
+    {
+      "id": 865,
+      "index": 865,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Don't! I can't bear it. I thought this would be heaven, but it's worse. Can you understand that?",
+      "wordCount": 18
+    },
+    {
+      "id": 866,
+      "index": 866,
+      "character": "NANCY",
+      "gender": "Female",
+      "line": "You just need to rest.",
+      "wordCount": 5
+    },
+    {
+      "id": 867,
+      "index": 867,
+      "character": "MA",
+      "gender": "Female",
+      "line": "No I don't! That's not what I need.",
+      "wordCount": 8
+    },
+    {
+      "id": 868,
+      "index": 868,
+      "character": "NANCY",
+      "gender": "Female",
+      "line": "That's what the Doctor...",
+      "wordCount": 4
+    },
+    {
+      "id": 869,
+      "index": 869,
+      "character": "MA",
+      "gender": "Female",
+      "line": "No! That's not what he said. You don't know what he said. That's confidential and you don't even know. Just forget it.",
+      "wordCount": 22
+    },
+    {
+      "id": 870,
+      "index": 870,
+      "character": "NANCY",
+      "gender": "Female",
+      "line": "I feel like you're impossible to talk to right now.",
+      "wordCount": 10
+    },
+    {
+      "id": 871,
+      "index": 871,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Oh, I'm sorry!",
+      "wordCount": 3
+    },
+    {
+      "id": 872,
+      "index": 872,
+      "character": "NANCY",
+      "gender": "Female",
+      "line": "No, you're not sorry.",
+      "wordCount": 4
+    },
+    {
+      "id": 873,
+      "index": 873,
+      "character": "MA",
+      "gender": "Female",
+      "line": "You think you know what's in my head. Trust me, you couldn't handle it.",
+      "wordCount": 14
+    },
+    {
+      "id": 874,
+      "index": 874,
+      "character": "NANCY",
+      "gender": "Female",
+      "line": "Tell me and see. I've asked you.",
+      "wordCount": 7
+    },
+    {
+      "id": 875,
+      "index": 875,
+      "character": "MA",
+      "gender": "Female",
+      "line": "So you're seeing that every time you look at me? Great.",
+      "wordCount": 11
+    },
+    {
+      "id": 876,
+      "index": 876,
+      "character": "NANCY",
+      "gender": "Female",
+      "line": "You're my daughter, that's what I'll see.",
+      "wordCount": 7
+    },
+    {
+      "id": 877,
+      "index": 877,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Yeah, well you seemed to get on OK without me.",
+      "wordCount": 10
+    },
+    {
+      "id": 878,
+      "index": 878,
+      "character": "NANCY",
+      "gender": "Female",
+      "line": "How can you say that? You think you're the only one whose life was destroyed?",
+      "wordCount": 15
+    },
+    {
+      "id": 879,
+      "index": 879,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Actually, that's exactly what I think.",
+      "wordCount": 6
+    },
+    {
+      "id": 880,
+      "index": 880,
+      "character": "NANCY",
+      "gender": "Female",
+      "line": "How would you feel if somebody took Jack from you?",
+      "wordCount": 10
+    },
+    {
+      "id": 881,
+      "index": 881,
+      "character": "MA LEO",
+      "gender": "NA",
+      "line": "Shut up. Go easy.",
+      "wordCount": 4
+    },
+    {
+      "id": 882,
+      "index": 882,
+      "character": "NANCY",
+      "gender": "Female",
+      "line": "Look at him. You should be thinking about him.",
+      "wordCount": 9
+    },
+    {
+      "id": 883,
+      "index": 883,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Don't you ever tell me how to look after my son. I'm sorry if I'm not `nice' enough for you. Maybe if you hadn't been in my head saying `be nice' that day I wouldn't have gone to help him.",
+      "wordCount": 40
+    },
+    {
+      "id": 884,
+      "index": 884,
+      "character": "MA",
+      "gender": "Female",
+      "line": "This isn't even my house anymore. I don't know what this is.",
+      "wordCount": 12
+    },
+    {
+      "id": 885,
+      "index": 885,
+      "character": "NANCY",
+      "gender": "Female",
+      "line": "I'm sorry, Jack.",
+      "wordCount": 3
+    },
+    {
+      "id": 886,
+      "index": 886,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Come here, Jack.",
+      "wordCount": 3
+    },
+    {
+      "id": 887,
+      "index": 887,
+      "character": "MA",
+      "gender": "Female",
+      "line": "You know, Jack, we're going to have to move away from here someday. We're going to have to get our own house. And a yard. We're going to have to do all kinds of things. EXT. HOUSE - DAY",
+      "wordCount": 39
+    },
+    {
+      "id": 888,
+      "index": 888,
+      "character": "NANCY",
+      "gender": "Female",
+      "line": "Time for you to go upstairs, Jack. Remember what your Mom said.",
+      "wordCount": 12
+    },
+    {
+      "id": 889,
+      "index": 889,
+      "character": "HOSTESS",
+      "gender": "Female",
+      "line": "You are an amazing, inspiring, courageous, beautiful young woman.",
+      "wordCount": 9
+    },
+    {
+      "id": 890,
+      "index": 890,
+      "character": "HOSTESS",
+      "gender": "Female",
+      "line": "I know all our viewers are amazed by the intelligence and poise and endurance and inner strength you displayed during your ordeal.",
+      "wordCount": 22
+    },
+    {
+      "id": 891,
+      "index": 891,
+      "character": "HOSTESS",
+      "gender": "Female",
+      "line": "Truly, an amazing test of character.",
+      "wordCount": 6
+    },
+    {
+      "id": 892,
+      "index": 892,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Thank you. Thank you so much. I hope they all know how much their thoughts and prayers have meant the last few weeks. To our whole family.",
+      "wordCount": 27
+    },
+    {
+      "id": 893,
+      "index": 893,
+      "character": "HOSTESS",
+      "gender": "Female",
+      "line": "And Jack. Your son. By all accounts he is a normal, high-functioning, happy little boy. Amazing.",
+      "wordCount": 16
+    },
+    {
+      "id": 894,
+      "index": 894,
+      "character": "MA",
+      "gender": "Female",
+      "line": "He is. He's my life. I never could have survived without him.",
+      "wordCount": 12
+    },
+    {
+      "id": 895,
+      "index": 895,
+      "character": "HOSTESS",
+      "gender": "Female",
+      "line": "You made life as normal and nurturing as you could given the environment. You gave him a childhood. How did you manage to do that?",
+      "wordCount": 25
+    },
+    {
+      "id": 896,
+      "index": 896,
+      "character": "MA",
+      "gender": "Female",
+      "line": "I... I didn't think about it. I didn't plan it. When I found out I was pregnant with Jack, it just seemed like a terrible joke. You know? To bring someone into that place, it just seemed so wrong. I was in a very scary frame of mind. I thought the devil was controlling my life. In a way he was.",
+      "wordCount": 61
+    },
+    {
+      "id": 897,
+      "index": 897,
+      "character": "HOSTESS",
+      "gender": "Female",
+      "line": "Are you okay?",
+      "wordCount": 3
+    },
+    {
+      "id": 898,
+      "index": 898,
+      "character": "LAWYER",
+      "gender": "Male",
+      "line": "I'm getting the feeling my client needs to -",
+      "wordCount": 9
+    },
+    {
+      "id": 899,
+      "index": 899,
+      "character": "HOSTESS",
+      "gender": "Female",
+      "line": "Just a minute, please.",
+      "wordCount": 4
+    },
+    {
+      "id": 900,
+      "index": 900,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Then, everything was different once Jack came, because he was so beautiful and I had to keep him safe.",
+      "wordCount": 19
+    },
+    {
+      "id": 901,
+      "index": 901,
+      "character": "HOSTESS",
+      "gender": "Female",
+      "line": "When he's older will you talk to him about his father.",
+      "wordCount": 11
+    },
+    {
+      "id": 902,
+      "index": 902,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Jack's not his.",
+      "wordCount": 3
+    },
+    {
+      "id": 903,
+      "index": 903,
+      "character": "HOSTESS",
+      "gender": "Female",
+      "line": "I beg your pardon, are you -",
+      "wordCount": 7
+    },
+    {
+      "id": 904,
+      "index": 904,
+      "character": "MA",
+      "gender": "Female",
+      "line": "A father's a man who loves his kid.",
+      "wordCount": 8
+    },
+    {
+      "id": 905,
+      "index": 905,
+      "character": "HOSTESS",
+      "gender": "Female",
+      "line": "So true, in a very real sense, but the genetic relationship -",
+      "wordCount": 12
+    },
+    {
+      "id": 906,
+      "index": 906,
+      "character": "MA",
+      "gender": "Female",
+      "line": "That's not a relationship. Jack's nobody's but mine.",
+      "wordCount": 8
+    },
+    {
+      "id": 907,
+      "index": 907,
+      "character": "HOSTESS",
+      "gender": "Female",
+      "line": "You breastfed Jack for five years - in fact, viewers may be startled to learn that you still do.",
+      "wordCount": 19
+    },
+    {
+      "id": 908,
+      "index": 908,
+      "character": "MA",
+      "gender": "Female",
+      "line": "In this whole story, that's the shocking detail?",
+      "wordCount": 8
+    },
+    {
+      "id": 909,
+      "index": 909,
+      "character": "HOSTESS",
+      "gender": "Female",
+      "line": "Did it ever occur to you to ask your captor to take Jack away?",
+      "wordCount": 14
+    },
+    {
+      "id": 910,
+      "index": 910,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Away?",
+      "wordCount": 1
+    },
+    {
+      "id": 911,
+      "index": 911,
+      "character": "HOSTESS",
+      "gender": "Female",
+      "line": "To leave him outside a hospital, say, so he'd be found.",
+      "wordCount": 11
+    },
+    {
+      "id": 912,
+      "index": 912,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Why would I -",
+      "wordCount": 4
+    },
+    {
+      "id": 913,
+      "index": 913,
+      "character": "HOSTESS",
+      "gender": "Female",
+      "line": "So Jack could be free. The ultimate sacrifice, of course, but for him to have a normal childhood...",
+      "wordCount": 18
+    },
+    {
+      "id": 914,
+      "index": 914,
+      "character": "MA",
+      "gender": "Female",
+      "line": "He had me.",
+      "wordCount": 3
+    },
+    {
+      "id": 915,
+      "index": 915,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Ma?",
+      "wordCount": 1
+    },
+    {
+      "id": 916,
+      "index": 916,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Ma?",
+      "wordCount": 1
+    },
+    {
+      "id": 917,
+      "index": 917,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Ma! Ma!",
+      "wordCount": 2
+    },
+    {
+      "id": 918,
+      "index": 918,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "There's so much of place in the world, there's less time because the time has to be spread extra thin over all the places like butter, so all the persons say hurry up, let's get going, pick up the pace, finish up now. Ma was in a hurry to go boing up to heaven but she forgot me, Dumbo Ma, so the aliens threw her back down craaaaaaaash and broke her.",
+      "wordCount": 71
+    },
+    {
+      "id": 919,
+      "index": 919,
+      "character": "LEO",
+      "gender": "NA",
+      "line": "Hello? Jack, come here. It's for you. INT. NANCY AND LEO'S HOUSE - HALLWAY - CONTINUOUS",
+      "wordCount": 16
+    },
+    {
+      "id": 920,
+      "index": 920,
+      "character": "NANCY",
+      "gender": "Female",
+      "line": "Hi, Jack. I've got someone who wants to talk to you...",
+      "wordCount": 11
+    },
+    {
+      "id": 921,
+      "index": 921,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Is he there? Put him on.",
+      "wordCount": 6
+    },
+    {
+      "id": 922,
+      "index": 922,
+      "character": "LEO",
+      "gender": "NA",
+      "line": "He's on. He's waiting.",
+      "wordCount": 4
+    },
+    {
+      "id": 923,
+      "index": 923,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Jack?",
+      "wordCount": 1
+    },
+    {
+      "id": 924,
+      "index": 924,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Ma?",
+      "wordCount": 1
+    },
+    {
+      "id": 925,
+      "index": 925,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Are you doing OK?",
+      "wordCount": 4
+    },
+    {
+      "id": 926,
+      "index": 926,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Come back.",
+      "wordCount": 2
+    },
+    {
+      "id": 927,
+      "index": 927,
+      "character": "MA",
+      "gender": "Female",
+      "line": "What's that?",
+      "wordCount": 2
+    },
+    {
+      "id": 928,
+      "index": 928,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Come back now.",
+      "wordCount": 3
+    },
+    {
+      "id": 929,
+      "index": 929,
+      "character": "MA",
+      "gender": "Female",
+      "line": "I wish I could. I just need to -",
+      "wordCount": 9
+    },
+    {
+      "id": 930,
+      "index": 930,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "I pick. I pick for both of us.",
+      "wordCount": 8
+    },
+    {
+      "id": 931,
+      "index": 931,
+      "character": "NEIGHBOR",
+      "gender": "NA",
+      "line": "Been shopping.",
+      "wordCount": 2
+    },
+    {
+      "id": 932,
+      "index": 932,
+      "character": "NANCY",
+      "gender": "Female",
+      "line": "Yes we have. We're making cupcakes. INT. NANCY AND LEO'S HOUSE - KITCHEN - A LITTLE LATER",
+      "wordCount": 17
+    },
+    {
+      "id": 933,
+      "index": 933,
+      "character": "NANCY",
+      "gender": "Female",
+      "line": "You know how to beat eggs, Jack?",
+      "wordCount": 7
+    },
+    {
+      "id": 934,
+      "index": 934,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Sure. I did it before. In Room.",
+      "wordCount": 7
+    },
+    {
+      "id": 935,
+      "index": 935,
+      "character": "NANCY",
+      "gender": "Female",
+      "line": "Did you? Wow. What else did you do there.",
+      "wordCount": 9
+    },
+    {
+      "id": 936,
+      "index": 936,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Lots of things. I miss it sometimes.",
+      "wordCount": 7
+    },
+    {
+      "id": 937,
+      "index": 937,
+      "character": "NANCY",
+      "gender": "Female",
+      "line": "Wasn't it awfully small.",
+      "wordCount": 4
+    },
+    {
+      "id": 938,
+      "index": 938,
+      "character": "NANCY",
+      "gender": "Female",
+      "line": "OK.",
+      "wordCount": 1
+    },
+    {
+      "id": 939,
+      "index": 939,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "It was small in wardrobe.",
+      "wordCount": 5
+    },
+    {
+      "id": 940,
+      "index": 940,
+      "character": "NANCY",
+      "gender": "Female",
+      "line": "What did you do in wardrobe?",
+      "wordCount": 6
+    },
+    {
+      "id": 941,
+      "index": 941,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Sleep. When Old Nick came.",
+      "wordCount": 5
+    },
+    {
+      "id": 942,
+      "index": 942,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "I want to see Ma.",
+      "wordCount": 5
+    },
+    {
+      "id": 943,
+      "index": 943,
+      "character": "NANCY",
+      "gender": "Female",
+      "line": "I know. She just needs to be on her own a little while.",
+      "wordCount": 13
+    },
+    {
+      "id": 944,
+      "index": 944,
+      "character": "LEO",
+      "gender": "NA",
+      "line": "Hey Jack. There's someone here who'd like to meet you.",
+      "wordCount": 10
+    },
+    {
+      "id": 945,
+      "index": 945,
+      "character": "LEO",
+      "gender": "NA",
+      "line": "Jack, meet Seamus. Would you like to pet him?",
+      "wordCount": 9
+    },
+    {
+      "id": 946,
+      "index": 946,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "I could just go in and tell her about Seamus. Only for a minute. Or I could just look at her.",
+      "wordCount": 21
+    },
+    {
+      "id": 947,
+      "index": 947,
+      "character": "LEO",
+      "gender": "NA",
+      "line": "Come on, let's get this guy some air after being all stuffed up in the car. EXT. PLAYGROUND - DAY",
+      "wordCount": 20
+    },
+    {
+      "id": 948,
+      "index": 948,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Grandma.",
+      "wordCount": 1
+    },
+    {
+      "id": 949,
+      "index": 949,
+      "character": "NANCY",
+      "gender": "Female",
+      "line": "Yes?",
+      "wordCount": 1
+    },
+    {
+      "id": 950,
+      "index": 950,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "I need the scissors.",
+      "wordCount": 4
+    },
+    {
+      "id": 951,
+      "index": 951,
+      "character": "NANCY",
+      "gender": "Female",
+      "line": "What for?",
+      "wordCount": 2
+    },
+    {
+      "id": 952,
+      "index": 952,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "For cutting my hair.",
+      "wordCount": 4
+    },
+    {
+      "id": 953,
+      "index": 953,
+      "character": "NANCY",
+      "gender": "Female",
+      "line": "You really want to do that?",
+      "wordCount": 6
+    },
+    {
+      "id": 954,
+      "index": 954,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "I want to send it to Ma.",
+      "wordCount": 7
+    },
+    {
+      "id": 955,
+      "index": 955,
+      "character": "NANCY",
+      "gender": "Female",
+      "line": "Why?",
+      "wordCount": 1
+    },
+    {
+      "id": 956,
+      "index": 956,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "She needs my strong more than me. So I want to send it to her. Or you could take it to her.",
+      "wordCount": 22
+    },
+    {
+      "id": 957,
+      "index": 957,
+      "character": "NANCY",
+      "gender": "Female",
+      "line": "I can help you if you'd like.",
+      "wordCount": 7
+    },
+    {
+      "id": 958,
+      "index": 958,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "That would be great.",
+      "wordCount": 4
+    },
+    {
+      "id": 959,
+      "index": 959,
+      "character": "NANCY",
+      "gender": "Female",
+      "line": "Okay. Let's do this right. I've wanted to cut that hair a very long time.",
+      "wordCount": 15
+    },
+    {
+      "id": 960,
+      "index": 960,
+      "character": "NANCY",
+      "gender": "Female",
+      "line": "I used to cut your mother's hair all the time. And your Grandpa's hair. I've still got it.",
+      "wordCount": 18
+    },
+    {
+      "id": 961,
+      "index": 961,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "You think this will work? Can my strong be her strong too? I'm not really sure if it works that way.",
+      "wordCount": 21
+    },
+    {
+      "id": 962,
+      "index": 962,
+      "character": "NANCY",
+      "gender": "Female",
+      "line": "Of course it does. We all help each other stay strong. No one is strong alone. You and your mom, you help each other through, don't you?",
+      "wordCount": 27
+    },
+    {
+      "id": 963,
+      "index": 963,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Yes.",
+      "wordCount": 1
+    },
+    {
+      "id": 964,
+      "index": 964,
+      "character": "NANCY",
+      "gender": "Female",
+      "line": "And you and me. And you and Leo. And Leo and me. We all have the same strong.",
+      "wordCount": 18
+    },
+    {
+      "id": 965,
+      "index": 965,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "I guess we do.",
+      "wordCount": 4
+    },
+    {
+      "id": 966,
+      "index": 966,
+      "character": "NANCY",
+      "gender": "Female",
+      "line": "Ok, here goes.",
+      "wordCount": 3
+    },
+    {
+      "id": 967,
+      "index": 967,
+      "character": "NANCY",
+      "gender": "Female",
+      "line": "Now lean back.",
+      "wordCount": 3
+    },
+    {
+      "id": 968,
+      "index": 968,
+      "character": "NANCY",
+      "gender": "Female",
+      "line": "This is the best part.",
+      "wordCount": 5
+    },
+    {
+      "id": 969,
+      "index": 969,
+      "character": "NANCY",
+      "gender": "Female",
+      "line": "Feels good, doesn't it?",
+      "wordCount": 4
+    },
+    {
+      "id": 970,
+      "index": 970,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "I love you, Grandma.",
+      "wordCount": 4
+    },
+    {
+      "id": 971,
+      "index": 971,
+      "character": "NANCY",
+      "gender": "Female",
+      "line": "I love you, Jack. INT. NANCY'S HOUSE - KITCHEN - DAY",
+      "wordCount": 11
+    },
+    {
+      "id": 972,
+      "index": 972,
+      "character": "MA",
+      "gender": "Female",
+      "line": "I'm sorry, Jack.",
+      "wordCount": 3
+    },
+    {
+      "id": 973,
+      "index": 973,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "That's OK.",
+      "wordCount": 2
+    },
+    {
+      "id": 974,
+      "index": 974,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Don't do it again.",
+      "wordCount": 4
+    },
+    {
+      "id": 975,
+      "index": 975,
+      "character": "MA",
+      "gender": "Female",
+      "line": "I promise.",
+      "wordCount": 2
+    },
+    {
+      "id": 976,
+      "index": 976,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Are you better now?",
+      "wordCount": 4
+    },
+    {
+      "id": 977,
+      "index": 977,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Starting to be.",
+      "wordCount": 3
+    },
+    {
+      "id": 978,
+      "index": 978,
+      "character": "MA",
+      "gender": "Female",
+      "line": "I'll always keep this with me, Jack.",
+      "wordCount": 7
+    },
+    {
+      "id": 979,
+      "index": 979,
+      "character": "MA",
+      "gender": "Female",
+      "line": "I will never, ever let it go. When Grandma brought it to me, I... I knew I could get well. You saved me. Again.",
+      "wordCount": 24
+    },
+    {
+      "id": 980,
+      "index": 980,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Can I...?",
+      "wordCount": 2
+    },
+    {
+      "id": 981,
+      "index": 981,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Sorry. There's none left.",
+      "wordCount": 4
+    },
+    {
+      "id": 982,
+      "index": 982,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "OK.",
+      "wordCount": 1
+    },
+    {
+      "id": 983,
+      "index": 983,
+      "character": "MA",
+      "gender": "Female",
+      "line": "I'm not a good enough Ma.",
+      "wordCount": 6
+    },
+    {
+      "id": 984,
+      "index": 984,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "But you're Ma.",
+      "wordCount": 3
+    },
+    {
+      "id": 985,
+      "index": 985,
+      "character": "MA",
+      "gender": "Female",
+      "line": "I am.",
+      "wordCount": 2
+    },
+    {
+      "id": 986,
+      "index": 986,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "I'm going to play with Aaron now. He's my friend.",
+      "wordCount": 10
+    },
+    {
+      "id": 987,
+      "index": 987,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "When I was four I didn't even know about the world and now me and Ma are going to live in it forever and ever till we're dead. INT. NANCY AND LEO'S HOUSE - BEDROOM - DAY",
+      "wordCount": 37
+    },
+    {
+      "id": 988,
+      "index": 988,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "This is a street in a city in a country called America on the earth that's a blue and green planet always spinning so I don't know why we don't fall off. Then there's Outer Space, and nobody knows where's heaven.",
+      "wordCount": 41
+    },
+    {
+      "id": 989,
+      "index": 989,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Ma and I have decided that because we don't know what we like we get to try everything.",
+      "wordCount": 18
+    },
+    {
+      "id": 990,
+      "index": 990,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "We have so many things to do. Flying in an airplane.",
+      "wordCount": 11
+    },
+    {
+      "id": 991,
+      "index": 991,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Definitely. Making new friends.",
+      "wordCount": 4
+    },
+    {
+      "id": 992,
+      "index": 992,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Can we go back to Room?",
+      "wordCount": 6
+    },
+    {
+      "id": 993,
+      "index": 993,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Just for a visit.",
+      "wordCount": 4
+    },
+    {
+      "id": 994,
+      "index": 994,
+      "character": "OFFICER PARKER",
+      "gender": "Female",
+      "line": "Follow me, guys.",
+      "wordCount": 3
+    },
+    {
+      "id": 995,
+      "index": 995,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Dylan!",
+      "wordCount": 1
+    },
+    {
+      "id": 996,
+      "index": 996,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "This isn't Room. Has it gotten shrinked? Our friends...",
+      "wordCount": 9
+    },
+    {
+      "id": 997,
+      "index": 997,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Taken away for evidence. Proof that we were here.",
+      "wordCount": 9
+    },
+    {
+      "id": 998,
+      "index": 998,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "It's because Door's open.",
+      "wordCount": 4
+    },
+    {
+      "id": 999,
+      "index": 999,
+      "character": "MA",
+      "gender": "Female",
+      "line": "What?",
+      "wordCount": 1
+    },
+    {
+      "id": 1000,
+      "index": 1000,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "It can't really be Room if Door's open.",
+      "wordCount": 8
+    },
+    {
+      "id": 1001,
+      "index": 1001,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Do you - would you like it closed?",
+      "wordCount": 8
+    },
+    {
+      "id": 1002,
+      "index": 1002,
+      "character": "MA",
+      "gender": "Female",
+      "line": "I have to go now. Is there... anything you need?",
+      "wordCount": 10
+    },
+    {
+      "id": 1003,
+      "index": 1003,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Bye-bye.",
+      "wordCount": 1
+    },
+    {
+      "id": 1004,
+      "index": 1004,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Jack -",
+      "wordCount": 2
+    },
+    {
+      "id": 1005,
+      "index": 1005,
+      "character": "MA",
+      "gender": "Female",
+      "line": "Please, Jack.",
+      "wordCount": 2
+    },
+    {
+      "id": 1006,
+      "index": 1006,
+      "character": "JACK",
+      "gender": "Male",
+      "line": "Bye-bye. Say bye-bye to Room.",
+      "wordCount": 5
+    },
+    {
+      "id": 1007,
+      "index": 1007,
+      "character": "",
+      "gender": "Female"
+    }
+  ]
+}

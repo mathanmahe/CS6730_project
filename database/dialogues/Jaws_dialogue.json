@@ -1,0 +1,5796 @@
+{
+  "fileName": "Jaws_dialogue.txt",
+  "title": "Jaws",
+  "data": [
+    {
+      "id": 0,
+      "index": 0,
+      "character": "TOM",
+      "gender": "NA",
+      "line": "Hey! Hey hey! I'm with you, right?",
+      "wordCount": 7
+    },
+    {
+      "id": 1,
+      "index": 1,
+      "character": "CHRISSIE",
+      "gender": "Female",
+      "line": "C'mon!",
+      "wordCount": 1
+    },
+    {
+      "id": 2,
+      "index": 2,
+      "character": "CHRISSIE",
+      "gender": "Female",
+      "line": "Tommy? Don't dunk me...",
+      "wordCount": 4
+    },
+    {
+      "id": 3,
+      "index": 3,
+      "character": "RADIO ANNOUNCER",
+      "gender": "NA",
+      "line": "Hayes Landing reports conditions good, with stripers and jacks. The Coast Guard has no storm warning from Block Island to Cape Hatteras; a light chop with freshening winds, continued clear and mild...",
+      "wordCount": 32
+    },
+    {
+      "id": 4,
+      "index": 4,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "How come the sun didn't used to shine in here?",
+      "wordCount": 10
+    },
+    {
+      "id": 5,
+      "index": 5,
+      "character": "ELLEN",
+      "gender": "Female",
+      "line": "'cause when we bought the house it was Autumn. This is summer. Feed the dogs.",
+      "wordCount": 15
+    },
+    {
+      "id": 6,
+      "index": 6,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Right.",
+      "wordCount": 1
+    },
+    {
+      "id": 7,
+      "index": 7,
+      "character": "ELLEN",
+      "gender": "Female",
+      "line": "Do you see the kids?",
+      "wordCount": 5
+    },
+    {
+      "id": 8,
+      "index": 8,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Probably out in the back yard.",
+      "wordCount": 6
+    },
+    {
+      "id": 9,
+      "index": 9,
+      "character": "ELLEN",
+      "gender": "Female",
+      "line": "In Amity, you say 'Yahd.'",
+      "wordCount": 5
+    },
+    {
+      "id": 10,
+      "index": 10,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "The kids are in the yahd, playing near the cah. How's that sound?",
+      "wordCount": 13
+    },
+    {
+      "id": 11,
+      "index": 11,
+      "character": "ELLEN",
+      "gender": "Female",
+      "line": "Like you're from N'Yawk.",
+      "wordCount": 4
+    },
+    {
+      "id": 12,
+      "index": 12,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Give me 30 years, I'll get it.",
+      "wordCount": 7
+    },
+    {
+      "id": 13,
+      "index": 13,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Did you burn another kettle? Y'know you're a fire hazard? This is the third one!",
+      "wordCount": 15
+    },
+    {
+      "id": 14,
+      "index": 14,
+      "character": "ELLEN",
+      "gender": "Female",
+      "line": "I never hear the whistle.",
+      "wordCount": 5
+    },
+    {
+      "id": 15,
+      "index": 15,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Feed the dogs.",
+      "wordCount": 3
+    },
+    {
+      "id": 16,
+      "index": 16,
+      "character": "ELLEN",
+      "gender": "Female",
+      "line": "You want to go through those? I'm taking them to the Thrift Shop. It's Marcia Vaughn's pet charity. Pick out what you want to keep -- it's mostly your city clothes.",
+      "wordCount": 31
+    },
+    {
+      "id": 17,
+      "index": 17,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "I used to wear this to the Garden. Garbage strikes. Dog shit. Muggers. Ship it.",
+      "wordCount": 15
+    },
+    {
+      "id": 18,
+      "index": 18,
+      "character": "ELLEN",
+      "gender": "Female",
+      "line": "Don't be silly - You're going to make summer better for them...",
+      "wordCount": 12
+    },
+    {
+      "id": 19,
+      "index": 19,
+      "character": "MICHAEL",
+      "gender": "Male",
+      "line": "Cut my hand. Hit by a vampire.",
+      "wordCount": 7
+    },
+    {
+      "id": 20,
+      "index": 20,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "On the swing? I told you not to play near there until I sanded it down. See what your son did?",
+      "wordCount": 21
+    },
+    {
+      "id": 21,
+      "index": 21,
+      "character": "ELLEN",
+      "gender": "Female",
+      "line": "Go upstairs and bring Mommy a band- aid.",
+      "wordCount": 8
+    },
+    {
+      "id": 22,
+      "index": 22,
+      "character": "ELLEN",
+      "gender": "Female",
+      "line": "Don't forget these.",
+      "wordCount": 3
+    },
+    {
+      "id": 23,
+      "index": 23,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Oh, yeah. How do I look? Older, huh?",
+      "wordCount": 8
+    },
+    {
+      "id": 24,
+      "index": 24,
+      "character": "ELLEN",
+      "gender": "Female",
+      "line": "I think they make you look sexy.",
+      "wordCount": 7
+    },
+    {
+      "id": 25,
+      "index": 25,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Sexy, hm? What was I before?",
+      "wordCount": 6
+    },
+    {
+      "id": 26,
+      "index": 26,
+      "character": "ELLEN",
+      "gender": "Female",
+      "line": "Older, sillier.",
+      "wordCount": 2
+    },
+    {
+      "id": 27,
+      "index": 27,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "I don't want to depend on these things, y'know - sometimes you can weaken your eyes.",
+      "wordCount": 16
+    },
+    {
+      "id": 28,
+      "index": 28,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Let's see...",
+      "wordCount": 2
+    },
+    {
+      "id": 29,
+      "index": 29,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Brody... yeah, what's up... mmm... Well, what do they usually do, float or wash up? Really?... okay, I'll meet both of you at the beach in ...20 minutes, okay? Okay. First goddamn weekend of the summer.",
+      "wordCount": 36
+    },
+    {
+      "id": 30,
+      "index": 30,
+      "character": "ELLEN",
+      "gender": "Female",
+      "line": "There. What was that?",
+      "wordCount": 4
+    },
+    {
+      "id": 31,
+      "index": 31,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "The office.",
+      "wordCount": 2
+    },
+    {
+      "id": 32,
+      "index": 32,
+      "character": "ELLEN",
+      "gender": "Female",
+      "line": "Be careful.",
+      "wordCount": 2
+    },
+    {
+      "id": 33,
+      "index": 33,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Here? You gotta be kiddin'.",
+      "wordCount": 5
+    },
+    {
+      "id": 34,
+      "index": 34,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Love ya.",
+      "wordCount": 2
+    },
+    {
+      "id": 35,
+      "index": 35,
+      "character": "ELLEN",
+      "gender": "Female",
+      "line": "Hey Chief. Bring my cup back.",
+      "wordCount": 6
+    },
+    {
+      "id": 36,
+      "index": 36,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Christine what?",
+      "wordCount": 2
+    },
+    {
+      "id": 37,
+      "index": 37,
+      "character": "CASSIDY",
+      "gender": "NA",
+      "line": "Worthingsly... Worthington -- no one ever died on me before.",
+      "wordCount": 10
+    },
+    {
+      "id": 38,
+      "index": 38,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "You picked her up on the ferry.",
+      "wordCount": 7
+    },
+    {
+      "id": 39,
+      "index": 39,
+      "character": "CASSIDY",
+      "gender": "NA",
+      "line": "I didn't know her.",
+      "wordCount": 4
+    },
+    {
+      "id": 40,
+      "index": 40,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "And nobody else saw her in the water?",
+      "wordCount": 8
+    },
+    {
+      "id": 41,
+      "index": 41,
+      "character": "CASSIDY",
+      "gender": "NA",
+      "line": "Somebody could've -- I was sort of passed out.",
+      "wordCount": 9
+    },
+    {
+      "id": 42,
+      "index": 42,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Think she might've run out on you?",
+      "wordCount": 7
+    },
+    {
+      "id": 43,
+      "index": 43,
+      "character": "CASSIDY",
+      "gender": "NA",
+      "line": "Oh, no, sir. I've never had a woman do that. I'm sure she drowned.",
+      "wordCount": 14
+    },
+    {
+      "id": 44,
+      "index": 44,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "You from around here?",
+      "wordCount": 4
+    },
+    {
+      "id": 45,
+      "index": 45,
+      "character": "CASSIDY",
+      "gender": "NA",
+      "line": "No. Cambridge. Harvard. My family's in Tuxedo, New York, though.",
+      "wordCount": 10
+    },
+    {
+      "id": 46,
+      "index": 46,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "You here for the summer?",
+      "wordCount": 5
+    },
+    {
+      "id": 47,
+      "index": 47,
+      "character": "CASSIDY",
+      "gender": "NA",
+      "line": "Some friends and me took a house.",
+      "wordCount": 7
+    },
+    {
+      "id": 48,
+      "index": 48,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "What d'you pay for a place just for the summer?",
+      "wordCount": 10
+    },
+    {
+      "id": 49,
+      "index": 49,
+      "character": "CASSIDY",
+      "gender": "NA",
+      "line": "A thousand apiece, something like that. There's five of us. And we each kick in a hundred a week for beer and cleaning, stuff like that.",
+      "wordCount": 26
+    },
+    {
+      "id": 50,
+      "index": 50,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Pretty stiff.",
+      "wordCount": 2
+    },
+    {
+      "id": 51,
+      "index": 51,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Maybe that's your girl.",
+      "wordCount": 4
+    },
+    {
+      "id": 52,
+      "index": 52,
+      "character": "CASSIDY",
+      "gender": "NA",
+      "line": "You can't make me look -- !",
+      "wordCount": 7
+    },
+    {
+      "id": 53,
+      "index": 53,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "If this is going to work, you've got to keep current stuff out here, and put 'closed' files in there. The 'Pendings' stay on my desk, okay?",
+      "wordCount": 27
+    },
+    {
+      "id": 54,
+      "index": 54,
+      "character": "POLLY",
+      "gender": "NA",
+      "line": "This is in no order of importance, Chief: There's a meeting on the Amity Town Council on Aging this Monday night, Bentoncourt Hall. The Fire Inspector wants you to go over the fireworks site with him before he catches the one o'clock ferry. Mainly, you have a batch of calls about that new Karate school.",
+      "wordCount": 55
+    },
+    {
+      "id": 55,
+      "index": 55,
+      "character": "POLLY",
+      "gender": "NA",
+      "line": "Searle's Rent-a-Bike, the Rainy Ale, Tisberry's Hardware... they say it's those nine-year-olds from the school practicing karate on all those nice picket fences.",
+      "wordCount": 23
+    },
+    {
+      "id": 56,
+      "index": 56,
+      "character": "POLLY",
+      "gender": "NA",
+      "line": "It's the Coroner. Somebody pass away in the night?",
+      "wordCount": 9
+    },
+    {
+      "id": 57,
+      "index": 57,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Jesus, Santos.",
+      "wordCount": 2
+    },
+    {
+      "id": 58,
+      "index": 58,
+      "character": "POLLY",
+      "gender": "NA",
+      "line": "What's the matter?",
+      "wordCount": 3
+    },
+    {
+      "id": 59,
+      "index": 59,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Polly, I want to know what water recreation is on for today.",
+      "wordCount": 12
+    },
+    {
+      "id": 60,
+      "index": 60,
+      "character": "POLLY",
+      "gender": "NA",
+      "line": "Right this minute?",
+      "wordCount": 3
+    },
+    {
+      "id": 61,
+      "index": 61,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Where'd you hide the 'Beach Closed' signs?",
+      "wordCount": 7
+    },
+    {
+      "id": 62,
+      "index": 62,
+      "character": "HENDRICKS",
+      "gender": "Male",
+      "line": "We never had any. What's the problem?",
+      "wordCount": 7
+    },
+    {
+      "id": 63,
+      "index": 63,
+      "character": "LOCAL MERCHANT",
+      "gender": "NA",
+      "line": "Glad I caught you. There's a city truck with New Hampshire plates parked right in front of my...",
+      "wordCount": 18
+    },
+    {
+      "id": 64,
+      "index": 64,
+      "character": "KEISEL",
+      "gender": "NA",
+      "line": "Wait-a-minute. Glasses, right?",
+      "wordCount": 3
+    },
+    {
+      "id": 65,
+      "index": 65,
+      "character": "KEISEL",
+      "gender": "NA",
+      "line": "Look at those fences! Little guys about eight to ten years old. And look at this!",
+      "wordCount": 16
+    },
+    {
+      "id": 66,
+      "index": 66,
+      "character": "KEISEL",
+      "gender": "NA",
+      "line": "They did that with their bare hands.",
+      "wordCount": 7
+    },
+    {
+      "id": 67,
+      "index": 67,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Call me later in the day, okay, Harry?",
+      "wordCount": 8
+    },
+    {
+      "id": 68,
+      "index": 68,
+      "character": "LYNWOOD",
+      "gender": "NA",
+      "line": "Stuff's no good to me in August when the Pilgrims come in June... Go on and help yourself to whatever you need, Chief. Can you work the register?",
+      "wordCount": 28
+    },
+    {
+      "id": 69,
+      "index": 69,
+      "character": "HENDRICKS",
+      "gender": "Male",
+      "line": "Polly told me to tell you there's a scout troop in Avril Bay doing the mile swim for their Merit Badges. I couldn't call them in, there's no phone out there.",
+      "wordCount": 31
+    },
+    {
+      "id": 70,
+      "index": 70,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Get out of there  take these back to the office and make up some 'Beach Closed' signs, and let Polly do the printing.",
+      "wordCount": 24
+    },
+    {
+      "id": 71,
+      "index": 71,
+      "character": "HENDRICKS",
+      "gender": "Male",
+      "line": "What's the matter with my printing?",
+      "wordCount": 6
+    },
+    {
+      "id": 72,
+      "index": 72,
+      "character": "VAUGHN",
+      "gender": "Male",
+      "line": "What have you got there, Lenny?",
+      "wordCount": 6
+    },
+    {
+      "id": 73,
+      "index": 73,
+      "character": "HENDRICKS",
+      "gender": "Male",
+      "line": "We had a shark attack at South Chop this morning, Mayor. Fatal. Gotta batten down the beach.",
+      "wordCount": 17
+    },
+    {
+      "id": 74,
+      "index": 74,
+      "character": "VAUGHN",
+      "gender": "Male",
+      "line": "Who've you told this to, Lenny?",
+      "wordCount": 6
+    },
+    {
+      "id": 75,
+      "index": 75,
+      "character": "HENDRICKS",
+      "gender": "Male",
+      "line": "I just found out about it -- but there's a bunch of Boy Scouts in the water a coupla miles down the coast from where we found the girl. Avril Bay, thereabouts. Chief went to dry them off.",
+      "wordCount": 38
+    },
+    {
+      "id": 76,
+      "index": 76,
+      "character": "VAUGHN",
+      "gender": "Male",
+      "line": "Take my car, okay? You come with us, Lenny.",
+      "wordCount": 9
+    },
+    {
+      "id": 77,
+      "index": 77,
+      "character": "HENDRICKS",
+      "gender": "Male",
+      "line": "I've got all these signs here...",
+      "wordCount": 6
+    },
+    {
+      "id": 78,
+      "index": 78,
+      "character": "VAUGHN",
+      "gender": "Male",
+      "line": "C'mon, it'll give us time to think about what they're going to say.",
+      "wordCount": 13
+    },
+    {
+      "id": 79,
+      "index": 79,
+      "character": "SCOUTMASTER",
+      "gender": "NA",
+      "line": "Let's go, Robbie. You too, Hofner. Boyle, keep your head up. Alberts, keep kicking...",
+      "wordCount": 14
+    },
+    {
+      "id": 80,
+      "index": 80,
+      "character": "VAUGHN",
+      "gender": "Male",
+      "line": "Martin! Are you going to shut down the beach on your own authority?",
+      "wordCount": 13
+    },
+    {
+      "id": 81,
+      "index": 81,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Do I need any more authority?",
+      "wordCount": 6
+    },
+    {
+      "id": 82,
+      "index": 82,
+      "character": "MEADOWS",
+      "gender": "Male",
+      "line": "Technically, you need the instruction of a civic ordinance, or a special meeting of the town selectmen...",
+      "wordCount": 17
+    },
+    {
+      "id": 83,
+      "index": 83,
+      "character": "VAUGHN",
+      "gender": "Male",
+      "line": "That's just going by the book. We're just a little anxious that you're rushing into something serious here. This is your first summer.",
+      "wordCount": 23
+    },
+    {
+      "id": 84,
+      "index": 84,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Now tell me something I don't know.",
+      "wordCount": 7
+    },
+    {
+      "id": 85,
+      "index": 85,
+      "character": "VAUGHN",
+      "gender": "Male",
+      "line": "All I'm saying is that Amity is a summer town -- we need summer dollars, and if they can't swim here, they'll use the beaches at Cape Cod, or Long Island.",
+      "wordCount": 31
+    },
+    {
+      "id": 86,
+      "index": 86,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "So we should set out a smorgasbord?",
+      "wordCount": 7
+    },
+    {
+      "id": 87,
+      "index": 87,
+      "character": "MEADOWS",
+      "gender": "Male",
+      "line": "We're not even sure what it was.",
+      "wordCount": 7
+    },
+    {
+      "id": 88,
+      "index": 88,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "What else could've done that?",
+      "wordCount": 5
+    },
+    {
+      "id": 89,
+      "index": 89,
+      "character": "VAUGHN",
+      "gender": "Male",
+      "line": "Boat propeller?",
+      "wordCount": 2
+    },
+    {
+      "id": 90,
+      "index": 90,
+      "character": "DOCTOR",
+      "gender": "NA",
+      "line": "I think, possibly... sure. A boating accident.",
+      "wordCount": 7
+    },
+    {
+      "id": 91,
+      "index": 91,
+      "character": "VAUGHN",
+      "gender": "Male",
+      "line": "Some weekend tramp accidentally goes swimming too far, she's a little drunk, a fishing boat comes along --",
+      "wordCount": 18
+    },
+    {
+      "id": 92,
+      "index": 92,
+      "character": "MEADOWS",
+      "gender": "Male",
+      "line": "Remember when Fred Ganz went scalloping in his BVD's? He was going to swim to New Bedford, he said.",
+      "wordCount": 19
+    },
+    {
+      "id": 93,
+      "index": 93,
+      "character": "MEADOWS",
+      "gender": "Male",
+      "line": "...and Bill Mayhew almost caught him in his net...?",
+      "wordCount": 9
+    },
+    {
+      "id": 94,
+      "index": 94,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Doctor, you're the one who told me what it was!",
+      "wordCount": 10
+    },
+    {
+      "id": 95,
+      "index": 95,
+      "character": "DOCTOR",
+      "gender": "NA",
+      "line": "I was wrong. We'll have to amend the report.",
+      "wordCount": 9
+    },
+    {
+      "id": 96,
+      "index": 96,
+      "character": "MEADOWS",
+      "gender": "Male",
+      "line": "We never had that kind of trouble here.",
+      "wordCount": 8
+    },
+    {
+      "id": 97,
+      "index": 97,
+      "character": "VAUGHN",
+      "gender": "Male",
+      "line": "I don't think you can appreciate the gut reaction people have to these things.",
+      "wordCount": 14
+    },
+    {
+      "id": 98,
+      "index": 98,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "I was only reacting to what I was told.",
+      "wordCount": 9
+    },
+    {
+      "id": 99,
+      "index": 99,
+      "character": "VAUGHN",
+      "gender": "Male",
+      "line": "It's all psychological, anyway. You yell 'Barracuda' and everyone says 'huh'. You yell 'Shark' and we've got a panic on our hands. I think we all agree we don't need a panic this close to the 4th of July.",
+      "wordCount": 39
+    },
+    {
+      "id": 100,
+      "index": 100,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "I can't work in a vacuum. Why don't you make Hendricks Chief? His family's been here since the Puritans -- half this island are his cousins.",
+      "wordCount": 26
+    },
+    {
+      "id": 101,
+      "index": 101,
+      "character": "VAUGHN",
+      "gender": "Male",
+      "line": "Martin, we hired the best man we could find.",
+      "wordCount": 9
+    },
+    {
+      "id": 102,
+      "index": 102,
+      "character": "VAUGHN",
+      "gender": "Male",
+      "line": "We need someone who isn't prejudiced by old feuds or family ties, someone who can referee things.",
+      "wordCount": 17
+    },
+    {
+      "id": 103,
+      "index": 103,
+      "character": "MEADOWS",
+      "gender": "Male",
+      "line": "You have our complete support.",
+      "wordCount": 5
+    },
+    {
+      "id": 104,
+      "index": 104,
+      "character": "VAUGHN",
+      "gender": "Male",
+      "line": "Now then. We've got a vandalism problem we ought to talk about...",
+      "wordCount": 12
+    },
+    {
+      "id": 105,
+      "index": 105,
+      "character": "SHOPKEEPER",
+      "gender": "NA",
+      "line": "Hello, Mr. Quint.",
+      "wordCount": 3
+    },
+    {
+      "id": 106,
+      "index": 106,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "Four spools of Number 12 piano wire, Okay? I ordered them.",
+      "wordCount": 11
+    },
+    {
+      "id": 107,
+      "index": 107,
+      "character": "SHOPKEEPER",
+      "gender": "NA",
+      "line": "Yessir, right here. What do those fish do, eat this stuff?",
+      "wordCount": 11
+    },
+    {
+      "id": 108,
+      "index": 108,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "They choke on it.",
+      "wordCount": 4
+    },
+    {
+      "id": 109,
+      "index": 109,
+      "character": "SHOPKEEPER",
+      "gender": "NA",
+      "line": "Bye now.",
+      "wordCount": 2
+    },
+    {
+      "id": 110,
+      "index": 110,
+      "character": "MAX TAFT",
+      "gender": "NA",
+      "line": "Looks like another big season. Gets worse every year.",
+      "wordCount": 9
+    },
+    {
+      "id": 111,
+      "index": 111,
+      "character": "MRS. TAFT",
+      "gender": "NA",
+      "line": "And none of them from the Island. Just a lot of bother.",
+      "wordCount": 12
+    },
+    {
+      "id": 112,
+      "index": 112,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "What?",
+      "wordCount": 1
+    },
+    {
+      "id": 113,
+      "index": 113,
+      "character": "TAFT",
+      "gender": "NA",
+      "line": "Present company excepted, but off- islanders are a pain in the butt. Pardon my French.",
+      "wordCount": 15
+    },
+    {
+      "id": 114,
+      "index": 114,
+      "character": "ELLEN",
+      "gender": "Female",
+      "line": "What about this kid? What if he were born here. That make him an islander?",
+      "wordCount": 15
+    },
+    {
+      "id": 115,
+      "index": 115,
+      "character": "TAFT",
+      "gender": "NA",
+      "line": "Just 'cause a cat has kittens in an oven, it don't make them muffins.",
+      "wordCount": 14
+    },
+    {
+      "id": 116,
+      "index": 116,
+      "character": "SEAN",
+      "gender": "Male",
+      "line": "I'm not a muffin! I'm a boy!",
+      "wordCount": 7
+    },
+    {
+      "id": 117,
+      "index": 117,
+      "character": "MRS. KINTNER",
+      "gender": "Female",
+      "line": "Alex! Alex Kintner! Where do you think you're going?",
+      "wordCount": 9
+    },
+    {
+      "id": 118,
+      "index": 118,
+      "character": "ALEX",
+      "gender": "Male",
+      "line": "Water. Just once more, please?",
+      "wordCount": 5
+    },
+    {
+      "id": 119,
+      "index": 119,
+      "character": "MRS. KINTNER",
+      "gender": "Female",
+      "line": "Let me see your fingers --",
+      "wordCount": 6
+    },
+    {
+      "id": 120,
+      "index": 120,
+      "character": "MRS. KINTNER",
+      "gender": "Female",
+      "line": "They're beginning to prune. 10 minutes more.",
+      "wordCount": 7
+    },
+    {
+      "id": 121,
+      "index": 121,
+      "character": "ELLEN",
+      "gender": "Female",
+      "line": "Do you want the boys to come in? Honey, if you're worried...",
+      "wordCount": 12
+    },
+    {
+      "id": 122,
+      "index": 122,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "How's the water?",
+      "wordCount": 3
+    },
+    {
+      "id": 123,
+      "index": 123,
+      "character": "KEISEL",
+      "gender": "NA",
+      "line": "Too cold. I'm going in again Labor Day. Hope we get this weather next weekend.",
+      "wordCount": 15
+    },
+    {
+      "id": 124,
+      "index": 124,
+      "character": "ELLEN",
+      "gender": "Female",
+      "line": "You're very tight, y'know? Right there.",
+      "wordCount": 6
+    },
+    {
+      "id": 125,
+      "index": 125,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Ow. He's gotta be more careful in the water...",
+      "wordCount": 9
+    },
+    {
+      "id": 126,
+      "index": 126,
+      "character": "DOG MAN",
+      "gender": "NA",
+      "line": "Buster! Hey, Buster! Here boy! He continues to ad lib calling his dog, but there's no answer, no dog in the water.",
+      "wordCount": 22
+    },
+    {
+      "id": 127,
+      "index": 127,
+      "character": "A KID",
+      "gender": "NA",
+      "line": "Hey, no fair splashing in the eyes!",
+      "wordCount": 7
+    },
+    {
+      "id": 128,
+      "index": 128,
+      "character": "TOURIST",
+      "gender": "NA",
+      "line": "Something in the water. Right there! Didn't anyone see it?",
+      "wordCount": 10
+    },
+    {
+      "id": 129,
+      "index": 129,
+      "character": "WOMAN",
+      "gender": "NA",
+      "line": "There's blood in the water.",
+      "wordCount": 5
+    },
+    {
+      "id": 130,
+      "index": 130,
+      "character": "ELLEN",
+      "gender": "Female",
+      "line": "What is it...?",
+      "wordCount": 3
+    },
+    {
+      "id": 131,
+      "index": 131,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Michael! Sean! Out of the water. Everybody out of the water! Michael! Get out!",
+      "wordCount": 14
+    },
+    {
+      "id": 132,
+      "index": 132,
+      "character": "MRS. KINTNER",
+      "gender": "Female",
+      "line": "Alex! Alex? Alex...!",
+      "wordCount": 3
+    },
+    {
+      "id": 133,
+      "index": 133,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Look, I've got to talk to her. This isn't a contest we want the whole country entering.",
+      "wordCount": 17
+    },
+    {
+      "id": 134,
+      "index": 134,
+      "character": "MEADOWS",
+      "gender": "Male",
+      "line": "I agree. If she's going to advertise, I wouldn't recommend out-of-town papers. Amity people could take care of this.",
+      "wordCount": 19
+    },
+    {
+      "id": 135,
+      "index": 135,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "I'm responsible for public safety around here...",
+      "wordCount": 7
+    },
+    {
+      "id": 136,
+      "index": 136,
+      "character": "VAUGHN",
+      "gender": "Male",
+      "line": "Then go out tomorrow and make sure no one gets hurt. Everybody, could I have your attention? Since this affects all of us, I suggest we move into council chambers, where there's more room...",
+      "wordCount": 34
+    },
+    {
+      "id": 137,
+      "index": 137,
+      "character": "VAUGHN",
+      "gender": "Male",
+      "line": "Well, here we all are; anyone have any special questions?",
+      "wordCount": 10
+    },
+    {
+      "id": 138,
+      "index": 138,
+      "character": "DENHERDER",
+      "gender": "NA",
+      "line": "Is that $3000 bounty on the shark in cash or check?",
+      "wordCount": 11
+    },
+    {
+      "id": 139,
+      "index": 139,
+      "character": "VAUGHN",
+      "gender": "Male",
+      "line": "That's private business between you brave fishermen and Mrs. Kintner. -- Chief --",
+      "wordCount": 13
+    },
+    {
+      "id": 140,
+      "index": 140,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "I'd like to tell you what we're doing so far. These are some of the steps I've taken as Chief of Police...",
+      "wordCount": 22
+    },
+    {
+      "id": 141,
+      "index": 141,
+      "character": "MEADOWS",
+      "gender": "Male",
+      "line": "What's going on with the beaches, Chief?",
+      "wordCount": 7
+    },
+    {
+      "id": 142,
+      "index": 142,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "I'll get to that in a minute. First, I plan to start our seasonal summer help early, and to use shark spotters on beaches open to the sea. I'd like cooperation from local fishermen, and I've also contacted the Oceanographic Institute over on the mainland.",
+      "wordCount": 45
+    },
+    {
+      "id": 143,
+      "index": 143,
+      "character": "VAUGHN",
+      "gender": "Male",
+      "line": "No need to involve outsiders in our business, Martin.",
+      "wordCount": 9
+    },
+    {
+      "id": 144,
+      "index": 144,
+      "character": "WOMAN",
+      "gender": "NA",
+      "line": "Are you going to close the beaches?",
+      "wordCount": 7
+    },
+    {
+      "id": 145,
+      "index": 145,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Larry and I have also decided to close the beaches for a short time.",
+      "wordCount": 14
+    },
+    {
+      "id": 146,
+      "index": 146,
+      "character": "VAUGHN",
+      "gender": "Male",
+      "line": "Only 24 hours!",
+      "wordCount": 3
+    },
+    {
+      "id": 147,
+      "index": 147,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "I didn't agree to that!",
+      "wordCount": 5
+    },
+    {
+      "id": 148,
+      "index": 148,
+      "character": "MRS. TAFT",
+      "gender": "NA",
+      "line": "That official business could take all summer!",
+      "wordCount": 7
+    },
+    {
+      "id": 149,
+      "index": 149,
+      "character": "MR. KEISEL",
+      "gender": "NA",
+      "line": "Maybe it's better to close.",
+      "wordCount": 5
+    },
+    {
+      "id": 150,
+      "index": 150,
+      "character": "MR. WISEMAN",
+      "gender": "NA",
+      "line": "We should make sure there is no danger.",
+      "wordCount": 8
+    },
+    {
+      "id": 151,
+      "index": 151,
+      "character": "MR. HASSETT",
+      "gender": "NA",
+      "line": "I didn't raise my kids to be some fish's lunch!",
+      "wordCount": 10
+    },
+    {
+      "id": 152,
+      "index": 152,
+      "character": "MRS. TAFT",
+      "gender": "NA",
+      "line": "The motel is all I own -- you pull the plug on this town and I go down the drain with it.",
+      "wordCount": 22
+    },
+    {
+      "id": 153,
+      "index": 153,
+      "character": "MR. POSNER",
+      "gender": "NA",
+      "line": "Nobody's seen a shark.",
+      "wordCount": 4
+    },
+    {
+      "id": 154,
+      "index": 154,
+      "character": "MR. POLK",
+      "gender": "NA",
+      "line": "We'll lose business, we lose taxes, we lose our shirts!",
+      "wordCount": 10
+    },
+    {
+      "id": 155,
+      "index": 155,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "You all know me. You know what I do for a living. I'll go out and get this bird for you. He's a bad one and it's not like goin' down the pond chasing blue-gills and tommy- cods. This is a fish that can swallow a man whole. A little shakin', a little tenderizing and down ya' go. You gotta get this fellow and get him quick. If you do, it'll bring a lot of tourist business just to see him and you've got your business back on a paying basis. A shark of that size is no pleasure and I value my neck at a hell of a lot more'n 3,000 bucks. I'll find him for three. But I'll kill him for ten.",
+      "wordCount": 124
+    },
+    {
+      "id": 156,
+      "index": 156,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "The bastard is costing you more'n that every day. Do you wanna stay alive and annee up the ten or play it cheap and be on welfare next winter. I'm gonna kill this thing... just a matter of whether I do it now -- or at the end of summer.",
+      "wordCount": 50
+    },
+    {
+      "id": 157,
+      "index": 157,
+      "character": "VAUGHN",
+      "gender": "Male",
+      "line": "Thank you very much, Mr. Quint, the Selectmen will take your offer under advisement",
+      "wordCount": 14
+    },
+    {
+      "id": 158,
+      "index": 158,
+      "character": "ELLEN",
+      "gender": "Female",
+      "line": "Can you stand something to eat?",
+      "wordCount": 6
+    },
+    {
+      "id": 159,
+      "index": 159,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Love a cup of tea. With lemon.",
+      "wordCount": 7
+    },
+    {
+      "id": 160,
+      "index": 160,
+      "character": "ELLEN",
+      "gender": "Female",
+      "line": "Mikey loves his birthday present.",
+      "wordCount": 5
+    },
+    {
+      "id": 161,
+      "index": 161,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Where is he?",
+      "wordCount": 3
+    },
+    {
+      "id": 162,
+      "index": 162,
+      "character": "ELLEN",
+      "gender": "Female",
+      "line": "He's sitting in it.",
+      "wordCount": 4
+    },
+    {
+      "id": 163,
+      "index": 163,
+      "character": "ELLEN",
+      "gender": "Female",
+      "line": "Honey. He has it tied up to the jetty with a double-knot.",
+      "wordCount": 12
+    },
+    {
+      "id": 164,
+      "index": 164,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Son! -- Out of the water now!",
+      "wordCount": 7
+    },
+    {
+      "id": 165,
+      "index": 165,
+      "character": "MICHAEL",
+      "gender": "Male",
+      "line": "My boat's neat, dad!",
+      "wordCount": 4
+    },
+    {
+      "id": 166,
+      "index": 166,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "I want him out of the ocean.",
+      "wordCount": 7
+    },
+    {
+      "id": 167,
+      "index": 167,
+      "character": "ELLEN",
+      "gender": "Female",
+      "line": "It's three feet deep, Martin",
+      "wordCount": 5
+    },
+    {
+      "id": 168,
+      "index": 168,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Michael! Come inside!",
+      "wordCount": 3
+    },
+    {
+      "id": 169,
+      "index": 169,
+      "character": "ELLEN",
+      "gender": "Female",
+      "line": "It's his birthday present, and you closed the beach, Honey. I told him not to go in the water after what happened yesterday. I don't believe he'll ever do it again.",
+      "wordCount": 31
+    },
+    {
+      "id": 170,
+      "index": 170,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "I told him not to go out until he memorized the handbook and the safety safety regulations, until he was sure of himself...",
+      "wordCount": 23
+    },
+    {
+      "id": 171,
+      "index": 171,
+      "character": "ELLEN",
+      "gender": "Female",
+      "line": "You heard your father! Out right now!",
+      "wordCount": 7
+    },
+    {
+      "id": 172,
+      "index": 172,
+      "character": "DENHERDER",
+      "gender": "NA",
+      "line": "You wanna call it a night after here?",
+      "wordCount": 8
+    },
+    {
+      "id": 173,
+      "index": 173,
+      "character": "CHARLIE",
+      "gender": "NA",
+      "line": "It's only two-thirty. What, are you tired?",
+      "wordCount": 7
+    },
+    {
+      "id": 174,
+      "index": 174,
+      "character": "DENHERDER",
+      "gender": "NA",
+      "line": "Yeah, Charlie, I got my second wind three nibbles back.",
+      "wordCount": 10
+    },
+    {
+      "id": 175,
+      "index": 175,
+      "character": "DENHERDER",
+      "gender": "NA",
+      "line": "Leg of lamb this time?",
+      "wordCount": 5
+    },
+    {
+      "id": 176,
+      "index": 176,
+      "character": "CHARLIE",
+      "gender": "NA",
+      "line": "Screw lamb -- let's shoot the sirloin!",
+      "wordCount": 7
+    },
+    {
+      "id": 177,
+      "index": 177,
+      "character": "DENHERDER",
+      "gender": "NA",
+      "line": "We're blowin' half the bounty on bait --",
+      "wordCount": 8
+    },
+    {
+      "id": 178,
+      "index": 178,
+      "character": "DENHERDER",
+      "gender": "NA",
+      "line": "One more after this, then I'm going home.",
+      "wordCount": 8
+    },
+    {
+      "id": 179,
+      "index": 179,
+      "character": "CHARLIE",
+      "gender": "NA",
+      "line": "Set?",
+      "wordCount": 1
+    },
+    {
+      "id": 180,
+      "index": 180,
+      "character": "CHARLIE",
+      "gender": "NA",
+      "line": "Tide's taking it right out.",
+      "wordCount": 5
+    },
+    {
+      "id": 181,
+      "index": 181,
+      "character": "DENHERDER",
+      "gender": "NA",
+      "line": "You do this all the time, right, Charlie?",
+      "wordCount": 8
+    },
+    {
+      "id": 182,
+      "index": 182,
+      "character": "CHARLIE",
+      "gender": "NA",
+      "line": "Twenty years.",
+      "wordCount": 2
+    },
+    {
+      "id": 183,
+      "index": 183,
+      "character": "DENHERDER",
+      "gender": "NA",
+      "line": "I can't believe that people pay money to go fishing. This is really dumb. This isn't even relaxing... it's just boring.",
+      "wordCount": 21
+    },
+    {
+      "id": 184,
+      "index": 184,
+      "character": "DENHERDER",
+      "gender": "NA",
+      "line": "Hey! What's this?",
+      "wordCount": 3
+    },
+    {
+      "id": 185,
+      "index": 185,
+      "character": "CHARLIE",
+      "gender": "NA",
+      "line": "Look at him take it!",
+      "wordCount": 5
+    },
+    {
+      "id": 186,
+      "index": 186,
+      "character": "DENHERDER",
+      "gender": "NA",
+      "line": "Do I set the goddam hook?",
+      "wordCount": 6
+    },
+    {
+      "id": 187,
+      "index": 187,
+      "character": "CHARLIE",
+      "gender": "NA",
+      "line": "Let him do it! Go-go-go-go-go!",
+      "wordCount": 5
+    },
+    {
+      "id": 188,
+      "index": 188,
+      "character": "DENHERDER",
+      "gender": "NA",
+      "line": "CHARLIE! JUMP!",
+      "wordCount": 2
+    },
+    {
+      "id": 189,
+      "index": 189,
+      "character": "CHARLIE",
+      "gender": "NA",
+      "line": "Holy Jesus Christ!",
+      "wordCount": 3
+    },
+    {
+      "id": 190,
+      "index": 190,
+      "character": "DENHERDER",
+      "gender": "NA",
+      "line": "Get the hell out! Charlie! Swim!",
+      "wordCount": 6
+    },
+    {
+      "id": 191,
+      "index": 191,
+      "character": "HENDRICKS",
+      "gender": "Male",
+      "line": "...So then Denherder and Charlie sat there trying to catch their breath, and figuring out how to explain to Charlie's wife what happened to her freezer full of meat.",
+      "wordCount": 29
+    },
+    {
+      "id": 192,
+      "index": 192,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "That wasn't funny.",
+      "wordCount": 3
+    },
+    {
+      "id": 193,
+      "index": 193,
+      "character": "HENDRICKS",
+      "gender": "Male",
+      "line": "Mrs. Kintner must've put her ad in Field and Stream.",
+      "wordCount": 10
+    },
+    {
+      "id": 194,
+      "index": 194,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Looks more like the readers of the National Enquirer.",
+      "wordCount": 9
+    },
+    {
+      "id": 195,
+      "index": 195,
+      "character": "OUT-OF-TOWNER",
+      "gender": "NA",
+      "line": "You're charging me double the usual rent! I didn't come up here all the way from New Rochelle to be gouged by some Yankee Cracker!",
+      "wordCount": 25
+    },
+    {
+      "id": 196,
+      "index": 196,
+      "character": "BOAT RENTAL MAN",
+      "gender": "NA",
+      "line": "Prices go up June First every year. You want a nice cheap, leaky boat, you go down to the Hamptons. Right, Chief?",
+      "wordCount": 22
+    },
+    {
+      "id": 197,
+      "index": 197,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Hey! You know how many men that's supposed to hold?",
+      "wordCount": 10
+    },
+    {
+      "id": 198,
+      "index": 198,
+      "character": "MAN IN BOAT",
+      "gender": "NA",
+      "line": "Whatever's safe, right?",
+      "wordCount": 3
+    },
+    {
+      "id": 199,
+      "index": 199,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "What you got ain't safe. You take some guys off or you don't go out.",
+      "wordCount": 15
+    },
+    {
+      "id": 200,
+      "index": 200,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "Hello.",
+      "wordCount": 1
+    },
+    {
+      "id": 201,
+      "index": 201,
+      "character": "GARDNER",
+      "gender": "Male",
+      "line": "Hello, back.",
+      "wordCount": 2
+    },
+    {
+      "id": 202,
+      "index": 202,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "You going out too, Ben?",
+      "wordCount": 5
+    },
+    {
+      "id": 203,
+      "index": 203,
+      "character": "GARDNER",
+      "gender": "Male",
+      "line": "Might give it a try. That three thousand bounty beats working for a living. We ready?",
+      "wordCount": 16
+    },
+    {
+      "id": 204,
+      "index": 204,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Just back up! No, the other way! Cut it to your left! Your other left! The big boat, your front end is out way too far. Little boat, stay still!",
+      "wordCount": 30
+    },
+    {
+      "id": 205,
+      "index": 205,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "Ahoy, sail! You got an oar? Well, scull it out!",
+      "wordCount": 10
+    },
+    {
+      "id": 206,
+      "index": 206,
+      "character": "SAILBOAT SKIPPER",
+      "gender": "NA",
+      "line": "Tell that stinkpotter to belay!",
+      "wordCount": 5
+    },
+    {
+      "id": 207,
+      "index": 207,
+      "character": "MOTORBOAT SKIPPER",
+      "gender": "NA",
+      "line": "Tell that ragsetter I'm going to poke him in the snoot!",
+      "wordCount": 11
+    },
+    {
+      "id": 208,
+      "index": 208,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "Just cast off in turn and make for the channel, OK?",
+      "wordCount": 11
+    },
+    {
+      "id": 209,
+      "index": 209,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Thanks.",
+      "wordCount": 1
+    },
+    {
+      "id": 210,
+      "index": 210,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "Excuse me, I wonder if you could tell me...",
+      "wordCount": 9
+    },
+    {
+      "id": 211,
+      "index": 211,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "Is that dynamite?",
+      "wordCount": 3
+    },
+    {
+      "id": 212,
+      "index": 212,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "If that's dynamite, give it here, or don't leave port.",
+      "wordCount": 10
+    },
+    {
+      "id": 213,
+      "index": 213,
+      "character": "MAN",
+      "gender": "NA",
+      "line": "Aw, c'mon, it's just fireworks. Sharks like fireworks, it attracts them.",
+      "wordCount": 11
+    },
+    {
+      "id": 214,
+      "index": 214,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Hand it over.",
+      "wordCount": 3
+    },
+    {
+      "id": 215,
+      "index": 215,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "There's a fantail launch out there that won't make it beyond the breakwater.",
+      "wordCount": 13
+    },
+    {
+      "id": 216,
+      "index": 216,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "You're tellin' me. I swear, this town has gone crazy.",
+      "wordCount": 10
+    },
+    {
+      "id": 217,
+      "index": 217,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "Officer, I wonder if you could tell me where I could find Chief Brody?",
+      "wordCount": 14
+    },
+    {
+      "id": 218,
+      "index": 218,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Who are you?",
+      "wordCount": 3
+    },
+    {
+      "id": 219,
+      "index": 219,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "Hooper, Matt Hooper. From the Oceanographic Institute.",
+      "wordCount": 7
+    },
+    {
+      "id": 220,
+      "index": 220,
+      "character": "PRATT",
+      "gender": "NA",
+      "line": "Well, get over there! He ain't caught it yet!",
+      "wordCount": 9
+    },
+    {
+      "id": 221,
+      "index": 221,
+      "character": "PRATT",
+      "gender": "NA",
+      "line": "Hand me that pole! Quick!",
+      "wordCount": 5
+    },
+    {
+      "id": 222,
+      "index": 222,
+      "character": "HARRY",
+      "gender": "NA",
+      "line": "Beat it! I hooked him!",
+      "wordCount": 5
+    },
+    {
+      "id": 223,
+      "index": 223,
+      "character": "PRATT",
+      "gender": "NA",
+      "line": "How's the family, Harry? Go on and do it!",
+      "wordCount": 9
+    },
+    {
+      "id": 224,
+      "index": 224,
+      "character": "MAN WITH GAFF",
+      "gender": "NA",
+      "line": "We split down the middle?",
+      "wordCount": 5
+    },
+    {
+      "id": 225,
+      "index": 225,
+      "character": "HARRY",
+      "gender": "NA",
+      "line": "Let go my shark!",
+      "wordCount": 4
+    },
+    {
+      "id": 226,
+      "index": 226,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Let's show Mr. Hooper our accident.",
+      "wordCount": 6
+    },
+    {
+      "id": 227,
+      "index": 227,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "Victim One, identified as Christine Watkins, female Caucasian...",
+      "wordCount": 8
+    },
+    {
+      "id": 228,
+      "index": 228,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "...height and weight may only be estimated from partial remains. Torso severed in mid-thorax, eviscerated with no major organs remaining. May I have a drink of water? Right arm severed above the elbow with massive tissue loss from upper musculature. Portions of denuded bone remaining. -- did you notify the coast guard?",
+      "wordCount": 52
+    },
+    {
+      "id": 229,
+      "index": 229,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "No, it was local jurisdiction.",
+      "wordCount": 5
+    },
+    {
+      "id": 230,
+      "index": 230,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "Left arm, head, shoulders, sternum and portions of ribcage intact. Please don't smoke. With minor post- mortem lacerations and abrasions. Bite marks indicate typical non-frenzy feeding pattern of large squali, possibly carchaninus lonimanus, or isurus glaucas. Gross tissue loss and post-mortem erosion of bite surfaces prevent detailed analysis; however, teeth and jaws of the attacking squali must be considered above average for these waters. -- Did you go out in a boat and look around?",
+      "wordCount": 75
+    },
+    {
+      "id": 231,
+      "index": 231,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "No, we just checked the beach...",
+      "wordCount": 6
+    },
+    {
+      "id": 232,
+      "index": 232,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "It wasn't an 'accident,' it wasn't a boat propeller, or a coral reef, or Jack the Ripper. It was a shark. It was a shark.",
+      "wordCount": 25
+    },
+    {
+      "id": 233,
+      "index": 233,
+      "character": "MEADOWS",
+      "gender": "Male",
+      "line": "Ginny, get this out on the state wire to AP and UPI in Boston and New York. Have one of them pick it up for the national and call Dave Axelrod in New York and tell him this is from me and he owes me one... let's get a picture.",
+      "wordCount": 50
+    },
+    {
+      "id": 234,
+      "index": 234,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "Well, if one man can catch a fish in 50 days, then I guess 50 of these bozos can catch a fish in one day -- beginner's luck.",
+      "wordCount": 28
+    },
+    {
+      "id": 235,
+      "index": 235,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "You did it! Did Ben Gardner catch this?",
+      "wordCount": 8
+    },
+    {
+      "id": 236,
+      "index": 236,
+      "character": "MEADOWS",
+      "gender": "Male",
+      "line": "Okay, everybody, I want to get a picture for the paper -- could everyone clear out of the way?",
+      "wordCount": 19
+    },
+    {
+      "id": 237,
+      "index": 237,
+      "character": "MEADOWS",
+      "gender": "Male",
+      "line": "Could you get out of the shot, young man?",
+      "wordCount": 9
+    },
+    {
+      "id": 238,
+      "index": 238,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "Who, me? Okay...",
+      "wordCount": 3
+    },
+    {
+      "id": 239,
+      "index": 239,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Larry, if you'd see these clowns leave, you'd never believe they'd come back with anything. But they got him!",
+      "wordCount": 19
+    },
+    {
+      "id": 240,
+      "index": 240,
+      "character": "VAUGHN",
+      "gender": "Male",
+      "line": "That's good. That's real good. Ben Meadows getting pictures for the paper.",
+      "wordCount": 12
+    },
+    {
+      "id": 241,
+      "index": 241,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Sure he is.",
+      "wordCount": 3
+    },
+    {
+      "id": 242,
+      "index": 242,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "It's a tiger shark. Very rare in these waters, and definitely a maneater.",
+      "wordCount": 13
+    },
+    {
+      "id": 243,
+      "index": 243,
+      "character": "VAUGHN",
+      "gender": "Male",
+      "line": "Who's that young man?",
+      "wordCount": 4
+    },
+    {
+      "id": 244,
+      "index": 244,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Matt Hooper, the specialist they send down from the Oceanographic Institute.",
+      "wordCount": 11
+    },
+    {
+      "id": 245,
+      "index": 245,
+      "character": "VAUGHN",
+      "gender": "Male",
+      "line": "I think we all owe a debt of gratitude to these men for catching this monster.",
+      "wordCount": 16
+    },
+    {
+      "id": 246,
+      "index": 246,
+      "character": "PRATT",
+      "gender": "NA",
+      "line": "Whadya mean, 'Bite Radius?' What's that?",
+      "wordCount": 6
+    },
+    {
+      "id": 247,
+      "index": 247,
+      "character": "GAFFER",
+      "gender": "NA",
+      "line": "Teeth are teeth, right?",
+      "wordCount": 4
+    },
+    {
+      "id": 248,
+      "index": 248,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "I didn't say this wasn't the shark, I just said I wasn't sure this was the one...",
+      "wordCount": 17
+    },
+    {
+      "id": 249,
+      "index": 249,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "What d'ya mean?",
+      "wordCount": 3
+    },
+    {
+      "id": 250,
+      "index": 250,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "There are hundreds of different kinds of sharks; makos, blues, hammerheads, white-tips... any one of them could've attacked. Look -- shark digestion is slow. We could open this one up, and find whatever he's been eating is still inside.",
+      "wordCount": 39
+    },
+    {
+      "id": 251,
+      "index": 251,
+      "character": "VAUGHN",
+      "gender": "Male",
+      "line": "That's disgusting! This is the largest, meanest, most vicious shark ever landed off Amity Island, and a known maneater!",
+      "wordCount": 19
+    },
+    {
+      "id": 252,
+      "index": 252,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "Let's just cut him open and see what's inside...",
+      "wordCount": 9
+    },
+    {
+      "id": 253,
+      "index": 253,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Why not, Larry? We could get a positive confirmation that way.",
+      "wordCount": 11
+    },
+    {
+      "id": 254,
+      "index": 254,
+      "character": "VAUGHN",
+      "gender": "Male",
+      "line": "Be reasonable, boys -- this isn't the time or the place to do some kind of half-assed autopsy on a fish. Ben... do you have all the pictures you need?",
+      "wordCount": 30
+    },
+    {
+      "id": 255,
+      "index": 255,
+      "character": "MEADOWS",
+      "gender": "Male",
+      "line": "Plenty.",
+      "wordCount": 1
+    },
+    {
+      "id": 256,
+      "index": 256,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "Wait a minute...",
+      "wordCount": 3
+    },
+    {
+      "id": 257,
+      "index": 257,
+      "character": "VAUGHN",
+      "gender": "Male",
+      "line": "I am not going to stand here and watch this fish cut open and see some kid fall out on the dock. Besides...",
+      "wordCount": 23
+    },
+    {
+      "id": 258,
+      "index": 258,
+      "character": "VAUGHN",
+      "gender": "Male",
+      "line": "Chief, I'll take responsibility for this. Boys, cut this ugly sonofabitch down before he stinks up the whole island. Harve, tomorrow you and Carl take him out and dump him right in the drink.",
+      "wordCount": 34
+    },
+    {
+      "id": 259,
+      "index": 259,
+      "character": "MRS. KINTNER",
+      "gender": "Female",
+      "line": "Chief Brody?",
+      "wordCount": 2
+    },
+    {
+      "id": 260,
+      "index": 260,
+      "character": "MRS. KINTNER",
+      "gender": "Female",
+      "line": "My Alex was a beautiful little boy and you killed him. Did you know that? You knew there was a shark out there. You knew a girl got killed here last week. I just found that out. But you knew. You knew it was dangerous, but you let people go swimming anyway. You knew all those things, and still my boy is dead now and there's nothing you can do about that. My boy is dead. I wanted you to know that.",
+      "wordCount": 82
+    },
+    {
+      "id": 261,
+      "index": 261,
+      "character": "VAUGHN",
+      "gender": "Male",
+      "line": "I'm sorry, Martin. She's in a sick, terrible state.",
+      "wordCount": 9
+    },
+    {
+      "id": 262,
+      "index": 262,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "Look, maybe this is the wrong time to pursue this, but I'm not sure...",
+      "wordCount": 14
+    },
+    {
+      "id": 263,
+      "index": 263,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "She's right.",
+      "wordCount": 2
+    },
+    {
+      "id": 264,
+      "index": 264,
+      "character": "VAUGHN",
+      "gender": "Male",
+      "line": "Let's all get out of here, this place stinks.",
+      "wordCount": 9
+    },
+    {
+      "id": 265,
+      "index": 265,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "I'm going home.",
+      "wordCount": 3
+    },
+    {
+      "id": 266,
+      "index": 266,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "C'mere and give Daddy a kiss.",
+      "wordCount": 6
+    },
+    {
+      "id": 267,
+      "index": 267,
+      "character": "SEAN",
+      "gender": "Male",
+      "line": "Why?",
+      "wordCount": 1
+    },
+    {
+      "id": 268,
+      "index": 268,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Because he needs it.",
+      "wordCount": 4
+    },
+    {
+      "id": 269,
+      "index": 269,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "Martin Brody residence?",
+      "wordCount": 3
+    },
+    {
+      "id": 270,
+      "index": 270,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "Hi. I'm Matt Hooper. If your husband is here, I'd like to talk to him.",
+      "wordCount": 15
+    },
+    {
+      "id": 271,
+      "index": 271,
+      "character": "ELLEN",
+      "gender": "Female",
+      "line": "So would I. Come on in.",
+      "wordCount": 6
+    },
+    {
+      "id": 272,
+      "index": 272,
+      "character": "ELLEN",
+      "gender": "Female",
+      "line": "Would you like something? Some coffee?",
+      "wordCount": 6
+    },
+    {
+      "id": 273,
+      "index": 273,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "Is anyone having this...?",
+      "wordCount": 4
+    },
+    {
+      "id": 274,
+      "index": 274,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "Dynamite! How was your day...?",
+      "wordCount": 5
+    },
+    {
+      "id": 275,
+      "index": 275,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Swell.",
+      "wordCount": 1
+    },
+    {
+      "id": 276,
+      "index": 276,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "Here... one red, one white.",
+      "wordCount": 5
+    },
+    {
+      "id": 277,
+      "index": 277,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "Ummm. Really good.",
+      "wordCount": 3
+    },
+    {
+      "id": 278,
+      "index": 278,
+      "character": "ELLEN",
+      "gender": "Female",
+      "line": "My husband tells me you're in sharks.",
+      "wordCount": 7
+    },
+    {
+      "id": 279,
+      "index": 279,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "I wouldn't put it that way. But I love sharks.",
+      "wordCount": 10
+    },
+    {
+      "id": 280,
+      "index": 280,
+      "character": "ELLEN",
+      "gender": "Female",
+      "line": "You love sharks?",
+      "wordCount": 3
+    },
+    {
+      "id": 281,
+      "index": 281,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "I do. But you've still got a problem here, there's a shark just off the island somewhere.",
+      "wordCount": 17
+    },
+    {
+      "id": 282,
+      "index": 282,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "How come you have to tell them that?",
+      "wordCount": 8
+    },
+    {
+      "id": 283,
+      "index": 283,
+      "character": "ELLEN",
+      "gender": "Female",
+      "line": "Excuse me, but what are you talking about? Didn't they catch the shark this afternoon? It was on the Cape station news.",
+      "wordCount": 22
+    },
+    {
+      "id": 284,
+      "index": 284,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "They caught a shark, not the shark. Big difference. I could've proved it this afternoon, by cutting that one open and examining his stomach contents. Also, his bite was too small.",
+      "wordCount": 31
+    },
+    {
+      "id": 285,
+      "index": 285,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "I was lucky to find that in town -- it's an estate bottled vintage year...",
+      "wordCount": 15
+    },
+    {
+      "id": 286,
+      "index": 286,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "We ought to let it breathe... Whatever.",
+      "wordCount": 7
+    },
+    {
+      "id": 287,
+      "index": 287,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Let's all have a drink.",
+      "wordCount": 5
+    },
+    {
+      "id": 288,
+      "index": 288,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "You too, sweetheart...",
+      "wordCount": 3
+    },
+    {
+      "id": 289,
+      "index": 289,
+      "character": "ELLEN",
+      "gender": "Female",
+      "line": "Thank you.",
+      "wordCount": 2
+    },
+    {
+      "id": 290,
+      "index": 290,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "Here's to your husband, the only other rational man on the island. Day after tomorrow, I'll be gone, and he'll be the only one.",
+      "wordCount": 24
+    },
+    {
+      "id": 291,
+      "index": 291,
+      "character": "ELLEN",
+      "gender": "Female",
+      "line": "You're leaving?",
+      "wordCount": 2
+    },
+    {
+      "id": 292,
+      "index": 292,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "Going out on the 'Aurora.'",
+      "wordCount": 5
+    },
+    {
+      "id": 293,
+      "index": 293,
+      "character": "ELLEN",
+      "gender": "Female",
+      "line": "Is that a boat?",
+      "wordCount": 4
+    },
+    {
+      "id": 294,
+      "index": 294,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "Is it! The best-funded research expedition to ever study the shark... around the world in 18 months.",
+      "wordCount": 17
+    },
+    {
+      "id": 295,
+      "index": 295,
+      "character": "ELLEN",
+      "gender": "Female",
+      "line": "Like those Cousteau specials on television? I think it's for the kids, but I love them.",
+      "wordCount": 16
+    },
+    {
+      "id": 296,
+      "index": 296,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "Better than Cousteau, or Compagno with computers, telemetry, Defense Department funding...",
+      "wordCount": 11
+    },
+    {
+      "id": 297,
+      "index": 297,
+      "character": "ELLEN",
+      "gender": "Female",
+      "line": "I saw a show with sea otters, and a big turtle... Mikey loved it. Made me promise to get him one. Will you live on the boat?",
+      "wordCount": 27
+    },
+    {
+      "id": 298,
+      "index": 298,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "Yep.",
+      "wordCount": 1
+    },
+    {
+      "id": 299,
+      "index": 299,
+      "character": "ELLEN",
+      "gender": "Female",
+      "line": "Martin hates boats. Hates the water. On the ferry to the mainland, he sits in the car the whole way over. He's got this childhood thing, there's a clinical word for it.",
+      "wordCount": 32
+    },
+    {
+      "id": 300,
+      "index": 300,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Drowning. Lemme ask you something. Is it true most attacks take place in three feet of water, around 10 feet from the beach?",
+      "wordCount": 23
+    },
+    {
+      "id": 301,
+      "index": 301,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "Yeah. Like the kid on your beach. I wish I could've examined that shark they caught...",
+      "wordCount": 16
+    },
+    {
+      "id": 302,
+      "index": 302,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Something else. Do most attacks go unreported?",
+      "wordCount": 7
+    },
+    {
+      "id": 303,
+      "index": 303,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "About half of them. A lot of 'missing swimmers' are really shark victims.",
+      "wordCount": 13
+    },
+    {
+      "id": 304,
+      "index": 304,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "There's a kind of a lone shark, called, uh...",
+      "wordCount": 9
+    },
+    {
+      "id": 305,
+      "index": 305,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "Rogue?",
+      "wordCount": 1
+    },
+    {
+      "id": 306,
+      "index": 306,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Yeah. Rogue. Picks out an area where there's food and hangs out there as long as the food supply lasts?",
+      "wordCount": 20
+    },
+    {
+      "id": 307,
+      "index": 307,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "It's called Territoriality. It's a theory.",
+      "wordCount": 6
+    },
+    {
+      "id": 308,
+      "index": 308,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "And before 1900, when people first starting swimming for recreation, before public bathing and resorts, there were very few shark attacks, cause sharks didn't know what they were missing?",
+      "wordCount": 29
+    },
+    {
+      "id": 309,
+      "index": 309,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "You could say that.",
+      "wordCount": 4
+    },
+    {
+      "id": 310,
+      "index": 310,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Why don't we have one more drink, you and I, and then we go down and cut open that old shark and see for sure what's inside him, or not.",
+      "wordCount": 30
+    },
+    {
+      "id": 311,
+      "index": 311,
+      "character": "ELLEN",
+      "gender": "Female",
+      "line": "Can you do that?",
+      "wordCount": 4
+    },
+    {
+      "id": 312,
+      "index": 312,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "I am Chief of Police. I can do anything I want. You want to come?",
+      "wordCount": 15
+    },
+    {
+      "id": 313,
+      "index": 313,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "I'm flattered you should ask.",
+      "wordCount": 5
+    },
+    {
+      "id": 314,
+      "index": 314,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "...And it was Dartmouth Winter weekend, and she was Homecoming Queen, and I was her date; then she got into the fact that her family had more money than my family, and she was right -- her great-grandfather was in mining, and my ancestors were Yankee shipbuilders. So we broke up and I went home with some beatnik from Sarah Lawrence.",
+      "wordCount": 61
+    },
+    {
+      "id": 315,
+      "index": 315,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "What stinks so bad?",
+      "wordCount": 4
+    },
+    {
+      "id": 316,
+      "index": 316,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "Our friend, the shark.",
+      "wordCount": 4
+    },
+    {
+      "id": 317,
+      "index": 317,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "We always had a summer place on the water -- Newport, the Vineyard, so I figured I'd major in something I knew about. Oceanography, marine biology. It was that, or design racing yachts like my older brother. Hmmm. He we go. Up the old alimentary canal. Hold the light.",
+      "wordCount": 49
+    },
+    {
+      "id": 318,
+      "index": 318,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "We open the abdominal cavity and check the digestive tract. Simple.",
+      "wordCount": 11
+    },
+    {
+      "id": 319,
+      "index": 319,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "What's that?",
+      "wordCount": 2
+    },
+    {
+      "id": 320,
+      "index": 320,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "Half a flounder. Hmmm... a burlap bag... a paint can... aha!",
+      "wordCount": 11
+    },
+    {
+      "id": 321,
+      "index": 321,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "What? What?!",
+      "wordCount": 2
+    },
+    {
+      "id": 322,
+      "index": 322,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "Just as I thought. He drifted up here with the Gulf Stream, from southern waters.",
+      "wordCount": 15
+    },
+    {
+      "id": 323,
+      "index": 323,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "How can you tell?",
+      "wordCount": 4
+    },
+    {
+      "id": 324,
+      "index": 324,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "Florida license plate.",
+      "wordCount": 3
+    },
+    {
+      "id": 325,
+      "index": 325,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "He ate a car?",
+      "wordCount": 4
+    },
+    {
+      "id": 326,
+      "index": 326,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "No, but Tiger sharks are the garbage cans of the ocean. They eat anything. But this one didn't eat any people. There's nothing here...",
+      "wordCount": 24
+    },
+    {
+      "id": 327,
+      "index": 327,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "...Nothing.",
+      "wordCount": 1
+    },
+    {
+      "id": 328,
+      "index": 328,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "What do we do?",
+      "wordCount": 4
+    },
+    {
+      "id": 329,
+      "index": 329,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "If you're looking for a shark, you don't look on land. You go out and chum for him.",
+      "wordCount": 18
+    },
+    {
+      "id": 330,
+      "index": 330,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Chum?",
+      "wordCount": 1
+    },
+    {
+      "id": 331,
+      "index": 331,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "Only one sure way to find him -- offer him a little something to eat. Chum -- blood, waste meat, fish, anything. They can sense it miles away. If he's out there, we might be able to get a closer look at him. It's a good time, too. They're night feeders...",
+      "wordCount": 51
+    },
+    {
+      "id": 332,
+      "index": 332,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "That's the Cape Light -- we're on the stretch where he's feeding, if he's still here.",
+      "wordCount": 16
+    },
+    {
+      "id": 333,
+      "index": 333,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "What is all this stuff?",
+      "wordCount": 5
+    },
+    {
+      "id": 334,
+      "index": 334,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "Depth-finder, fathometer, sonar, closed-circuit TV -- fore and aft -- RDF, single side band... And two loose nuts behind the wheel.",
+      "wordCount": 21
+    },
+    {
+      "id": 335,
+      "index": 335,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Can you tell from that if a big man- eater is around?",
+      "wordCount": 12
+    },
+    {
+      "id": 336,
+      "index": 336,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "Sometimes. Look here -- something big, probably a school of mackerel clumped together. And staying right with us.",
+      "wordCount": 18
+    },
+    {
+      "id": 337,
+      "index": 337,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Where'd you get all this?",
+      "wordCount": 5
+    },
+    {
+      "id": 338,
+      "index": 338,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "I Bought it. Both sets of grandparents set up trust funds for me; stocks went up, so I don't have to touch my principal.",
+      "wordCount": 24
+    },
+    {
+      "id": 339,
+      "index": 339,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "You're at the Institute full time? Or do you have a job?",
+      "wordCount": 12
+    },
+    {
+      "id": 340,
+      "index": 340,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "It is a job. I'm not fooling around like some amateur. It's my life!",
+      "wordCount": 14
+    },
+    {
+      "id": 341,
+      "index": 341,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "We gotta get back soon...",
+      "wordCount": 5
+    },
+    {
+      "id": 342,
+      "index": 342,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Hey!",
+      "wordCount": 1
+    },
+    {
+      "id": 343,
+      "index": 343,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "What the hell?",
+      "wordCount": 3
+    },
+    {
+      "id": 344,
+      "index": 344,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "That's Ben Gardner's boat! It's the Flicka! Ben? Ben!",
+      "wordCount": 9
+    },
+    {
+      "id": 345,
+      "index": 345,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "What happened?",
+      "wordCount": 2
+    },
+    {
+      "id": 346,
+      "index": 346,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "I want to check something. Hold my feet.",
+      "wordCount": 8
+    },
+    {
+      "id": 347,
+      "index": 347,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Don't they have lifejackets or something? An extra boat?",
+      "wordCount": 9
+    },
+    {
+      "id": 348,
+      "index": 348,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "They must've hit something.",
+      "wordCount": 4
+    },
+    {
+      "id": 349,
+      "index": 349,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "He didn't have a dinghy aboard. I'm going down to take a look at his hull.",
+      "wordCount": 16
+    },
+    {
+      "id": 350,
+      "index": 350,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Why don't we just tow it in?",
+      "wordCount": 7
+    },
+    {
+      "id": 351,
+      "index": 351,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "We will. There's something I've got to find out.",
+      "wordCount": 9
+    },
+    {
+      "id": 352,
+      "index": 352,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Be careful, for chrissake.",
+      "wordCount": 4
+    },
+    {
+      "id": 353,
+      "index": 353,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "You all right?",
+      "wordCount": 3
+    },
+    {
+      "id": 354,
+      "index": 354,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "A White! A Great White, I found a tooth buried in the hull. He must've attacked... I knew it... Gardner's dead in there. I didn't see the mate...",
+      "wordCount": 28
+    },
+    {
+      "id": 355,
+      "index": 355,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "No shark did that to a boat!",
+      "wordCount": 7
+    },
+    {
+      "id": 356,
+      "index": 356,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "Jesus Christ! A Great White! Who'd believe it! We're not talking about a shark, we're talking about a Shark!",
+      "wordCount": 19
+    },
+    {
+      "id": 357,
+      "index": 357,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "There is a kind of shark called a Great White Shark that every expert in the world agrees is a maneater.",
+      "wordCount": 21
+    },
+    {
+      "id": 358,
+      "index": 358,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "You're situation here suggests that a Great White has staked out a claim in the waters around Amity Island, and that he will continue to feed here as long as there is food in the water.",
+      "wordCount": 36
+    },
+    {
+      "id": 359,
+      "index": 359,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "There's no limits to where he can strike, and we've had three attacks and two deaths in the past few days. It happened like this before, in 1916, when a Great White killed five swimmers at Jones Beach, in Long Island.",
+      "wordCount": 41
+    },
+    {
+      "id": 360,
+      "index": 360,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "A shark's attack is stimulated by the kind of splashing and activity that occurs whenever humans go swimming -- you can't avoid it!",
+      "wordCount": 23
+    },
+    {
+      "id": 361,
+      "index": 361,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "A 4th of July beach is like ringing a dinner bell, for Chrissake!",
+      "wordCount": 13
+    },
+    {
+      "id": 362,
+      "index": 362,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "I just pulled a shark tooth the size of a shot glass out of the hull of a wrecked boat out there.",
+      "wordCount": 22
+    },
+    {
+      "id": 363,
+      "index": 363,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "We towed Ben Gardner's boat in, Larry; he was dead and his boat was all chewed up.",
+      "wordCount": 17
+    },
+    {
+      "id": 364,
+      "index": 364,
+      "character": "VAUGHN",
+      "gender": "Male",
+      "line": "Is that tooth here? Did anyone see it?",
+      "wordCount": 8
+    },
+    {
+      "id": 365,
+      "index": 365,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "I don't have it.",
+      "wordCount": 4
+    },
+    {
+      "id": 366,
+      "index": 366,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "He lost it on the way up.",
+      "wordCount": 7
+    },
+    {
+      "id": 367,
+      "index": 367,
+      "character": "VAUGHN",
+      "gender": "Male",
+      "line": "What kind of a shark did you say it was?",
+      "wordCount": 10
+    },
+    {
+      "id": 368,
+      "index": 368,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "Carcaradon carcharias. A Great White.",
+      "wordCount": 5
+    },
+    {
+      "id": 369,
+      "index": 369,
+      "character": "VAUGHN",
+      "gender": "Male",
+      "line": "Well, I'm not going to commit economic suicide on that flimsy evidence. We depend on the summer people for our lives, and if our beaches are closed, then we're all finished.",
+      "wordCount": 31
+    },
+    {
+      "id": 370,
+      "index": 370,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "We have got to close the beaches. We have got to get someone to kill the shark, we need non-corrosive mesh netting, we need scientific support... It's gonna cost money just to keep the nuts out and save what we have.",
+      "wordCount": 41
+    },
+    {
+      "id": 371,
+      "index": 371,
+      "character": "VAUGHN",
+      "gender": "Male",
+      "line": "I don't thing either of you is familiar with our problems...",
+      "wordCount": 11
+    },
+    {
+      "id": 372,
+      "index": 372,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "I'm familiar with the fact that you are going to ignore this thing until it swims up and bites you on the ass! There are only two ways to solve this thing: you can kill it, or you can cut off its food supply...",
+      "wordCount": 44
+    },
+    {
+      "id": 373,
+      "index": 373,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "That means closing the beaches.",
+      "wordCount": 5
+    },
+    {
+      "id": 374,
+      "index": 374,
+      "character": "VAUGHN",
+      "gender": "Male",
+      "line": "Come here, I want to show you something.",
+      "wordCount": 8
+    },
+    {
+      "id": 375,
+      "index": 375,
+      "character": "VAUGHN",
+      "gender": "Male",
+      "line": "Sick vandalism! Brody, that's a deliberate mutilation of a public service message! I want those little paint-happy bastards caught and hung up by their baby Buster Browns!",
+      "wordCount": 27
+    },
+    {
+      "id": 376,
+      "index": 376,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "That's it! I'm standing here arguing with a guy who can't wait to be a hot lunch. Goodbye.",
+      "wordCount": 18
+    },
+    {
+      "id": 377,
+      "index": 377,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Wait a minute! I need you.",
+      "wordCount": 6
+    },
+    {
+      "id": 378,
+      "index": 378,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "Out there is a Perfect Engine, an Eating Machine that is a miracle of evolution -- it swims and eats and that's all. Look at that! Those proportions are correct. I know sharks.",
+      "wordCount": 33
+    },
+    {
+      "id": 379,
+      "index": 379,
+      "character": "VAUGHN",
+      "gender": "Male",
+      "line": "You'd love to prove that. Getting your name in the National Geographic.",
+      "wordCount": 12
+    },
+    {
+      "id": 380,
+      "index": 380,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Larry, we can re-open the beaches in August.",
+      "wordCount": 8
+    },
+    {
+      "id": 381,
+      "index": 381,
+      "character": "VAUGHN",
+      "gender": "Male",
+      "line": "August! Tomorrow is the 4th of July, and we are going to open for business. It's going to be our best summer in years. If you're so concerned about the beaches, you two, you do whatever you have to to keep them safe, but with you or without you, the beaches stay open this weekend.",
+      "wordCount": 55
+    },
+    {
+      "id": 382,
+      "index": 382,
+      "character": "OFFICER",
+      "gender": "NA",
+      "line": "Martin Brody? I'll need your signature here... here... and here.",
+      "wordCount": 10
+    },
+    {
+      "id": 383,
+      "index": 383,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "What is this?",
+      "wordCount": 3
+    },
+    {
+      "id": 384,
+      "index": 384,
+      "character": "OFFICER",
+      "gender": "NA",
+      "line": "Authorization for direct payment of flight expenses not directly connected to a normal mission of this command. You pay for the gas.",
+      "wordCount": 22
+    },
+    {
+      "id": 385,
+      "index": 385,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "I signed on the wrong line...",
+      "wordCount": 6
+    },
+    {
+      "id": 386,
+      "index": 386,
+      "character": "OFFICER",
+      "gender": "NA",
+      "line": "Just erase your signature and initial your erasure.",
+      "wordCount": 8
+    },
+    {
+      "id": 387,
+      "index": 387,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "I want to thank you guys from local agencies for cooperating, and I hope we won't actually be needing your services. But I'm glad to have you here.",
+      "wordCount": 28
+    },
+    {
+      "id": 388,
+      "index": 388,
+      "character": "ENSIGN",
+      "gender": "NA",
+      "line": "I want to get our lines and repellent out, so we better shove off.",
+      "wordCount": 14
+    },
+    {
+      "id": 389,
+      "index": 389,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "We're all on one channel, so let's keep radio traffic to a minimum, okay?",
+      "wordCount": 14
+    },
+    {
+      "id": 390,
+      "index": 390,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "I hope we get some more help.",
+      "wordCount": 7
+    },
+    {
+      "id": 391,
+      "index": 391,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "I wish it would rain...",
+      "wordCount": 5
+    },
+    {
+      "id": 392,
+      "index": 392,
+      "character": "TV DIRECTOR",
+      "gender": "NA",
+      "line": "Put 1 on the line. In five. 4. 3. 2. 1. Roll.",
+      "wordCount": 12
+    },
+    {
+      "id": 393,
+      "index": 393,
+      "character": "ANNOUNCER",
+      "gender": "NA",
+      "line": "...and with me is the Mayor of Amity, Lawrence Vaughn. Mr. Vaughn, how about those rumors?",
+      "wordCount": 16
+    },
+    {
+      "id": 394,
+      "index": 394,
+      "character": "VAUGHN",
+      "gender": "Male",
+      "line": "How about them indeed. I'm pleased and happy to repeat the news that we have, in fact, caught and killed a large predator that supposedly injured some bathers here. As you can see, it's a beautiful day, the beaches are open, and the folks here are having a wonderful time. Amity, y'know, means 'Friendship.'",
+      "wordCount": 54
+    },
+    {
+      "id": 395,
+      "index": 395,
+      "character": "ANNOUNCER",
+      "gender": "NA",
+      "line": "Also here today is a Marine Biologist and Research Fellow from the Oceanographic Institute, Matthew Hooper. Mr. Hooper, what've you heard?",
+      "wordCount": 21
+    },
+    {
+      "id": 396,
+      "index": 396,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "What I've heard and what I've seen are two different things. I believe there is a large Great White Shark -- Carcharodon Cacharias - in the waters off this very beach, that he has killed and that he will kill again...",
+      "wordCount": 41
+    },
+    {
+      "id": 397,
+      "index": 397,
+      "character": "ANNOUNCER",
+      "gender": "NA",
+      "line": "And there you have it -- two different opinions, by men of good will. The holiday crowd here at Amity seems to be making up its own mind...",
+      "wordCount": 28
+    },
+    {
+      "id": 398,
+      "index": 398,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "I'm sorry, I just don't have the time.",
+      "wordCount": 8
+    },
+    {
+      "id": 399,
+      "index": 399,
+      "character": "TV DIRECTOR",
+      "gender": "NA",
+      "line": "Recue the machines. 2, pan off the Chief and show me some tits and ass. 1, get me some cute kids. 3... see if you got a shot at the water.",
+      "wordCount": 31
+    },
+    {
+      "id": 400,
+      "index": 400,
+      "character": "ASSISTANT DIRECTOR",
+      "gender": "NA",
+      "line": "Mayor, 43 seconds, Biologist 45 seconds. That's equal time, right?",
+      "wordCount": 10
+    },
+    {
+      "id": 401,
+      "index": 401,
+      "character": "DIRECTOR",
+      "gender": "NA",
+      "line": "Right. Jerry, come on in and look at this. Roll 2. In five, 4. 3. 2. 1.",
+      "wordCount": 17
+    },
+    {
+      "id": 402,
+      "index": 402,
+      "character": "ANNOUNCER",
+      "gender": "NA",
+      "line": "Amity Island is famed for its clear air and white sand beaches. But a cloud appeared...",
+      "wordCount": 16
+    },
+    {
+      "id": 403,
+      "index": 403,
+      "character": "ANNOUNCER",
+      "gender": "NA",
+      "line": "Look at that shine on my nose. It's a beacon.",
+      "wordCount": 10
+    },
+    {
+      "id": 404,
+      "index": 404,
+      "character": "DIRECTOR",
+      "gender": "NA",
+      "line": "Close enough for remote.",
+      "wordCount": 4
+    },
+    {
+      "id": 405,
+      "index": 405,
+      "character": "VAUGHN",
+      "gender": "Male",
+      "line": "...I'm pleased and happy...",
+      "wordCount": 4
+    },
+    {
+      "id": 406,
+      "index": 406,
+      "character": "DIRECTOR",
+      "gender": "NA",
+      "line": "Think we ought to stick around?",
+      "wordCount": 6
+    },
+    {
+      "id": 407,
+      "index": 407,
+      "character": "ANNOUNCER",
+      "gender": "NA",
+      "line": "What else you got?",
+      "wordCount": 4
+    },
+    {
+      "id": 408,
+      "index": 408,
+      "character": "ASSISTANT DIRECTOR",
+      "gender": "NA",
+      "line": "Teachers' strike downtown.",
+      "wordCount": 3
+    },
+    {
+      "id": 409,
+      "index": 409,
+      "character": "CAMERAMAN'S VOICE",
+      "gender": "NA",
+      "line": "Christenson, this is Al. Union says time for Engineering Five.",
+      "wordCount": 10
+    },
+    {
+      "id": 410,
+      "index": 410,
+      "character": "DIRECTOR",
+      "gender": "NA",
+      "line": "That's five minutes, guys. Coffee.",
+      "wordCount": 5
+    },
+    {
+      "id": 411,
+      "index": 411,
+      "character": "VAUGHN",
+      "gender": "Male",
+      "line": "Why don't you get in the water?",
+      "wordCount": 7
+    },
+    {
+      "id": 412,
+      "index": 412,
+      "character": "SELECTMAN",
+      "gender": "NA",
+      "line": "I don't want to wash off my suntan lotion. I'll get a burn...",
+      "wordCount": 13
+    },
+    {
+      "id": 413,
+      "index": 413,
+      "character": "VAUGHN",
+      "gender": "Male",
+      "line": "Nobody's going in!",
+      "wordCount": 3
+    },
+    {
+      "id": 414,
+      "index": 414,
+      "character": "WOMAN",
+      "gender": "NA",
+      "line": "Is there nobody going in? What a shame. Arthur, should I be going in?",
+      "wordCount": 14
+    },
+    {
+      "id": 415,
+      "index": 415,
+      "character": "ARTHUR",
+      "gender": "NA",
+      "line": "If you'd like.",
+      "wordCount": 3
+    },
+    {
+      "id": 416,
+      "index": 416,
+      "character": "ARTHUR",
+      "gender": "NA",
+      "line": "It's very nice. Not too cold... Quite refreshing... Very pleasant....",
+      "wordCount": 10
+    },
+    {
+      "id": 417,
+      "index": 417,
+      "character": "ARTHUR",
+      "gender": "NA",
+      "line": "No sharks, m'lady.",
+      "wordCount": 3
+    },
+    {
+      "id": 418,
+      "index": 418,
+      "character": "WOMAN",
+      "gender": "NA",
+      "line": "This is marvelous! Arthur, I want to come back to this very spot. Will you make a note of where we are?",
+      "wordCount": 22
+    },
+    {
+      "id": 419,
+      "index": 419,
+      "character": "HENDRICKS",
+      "gender": "Male",
+      "line": "Anything? Thought I saw a shadow. Over.",
+      "wordCount": 7
+    },
+    {
+      "id": 420,
+      "index": 420,
+      "character": "COPTER SPOTTER",
+      "gender": "NA",
+      "line": "Nothing from up here, Daisy. Over.",
+      "wordCount": 6
+    },
+    {
+      "id": 421,
+      "index": 421,
+      "character": "HENDRICKS",
+      "gender": "Male",
+      "line": "False alarm. Must be this glare.",
+      "wordCount": 6
+    },
+    {
+      "id": 422,
+      "index": 422,
+      "character": "VOICES",
+      "gender": "NA",
+      "line": "Who's scared to go in! I was in! Up to your knees, yeah -- So come with me -- I'll go again.",
+      "wordCount": 22
+    },
+    {
+      "id": 423,
+      "index": 423,
+      "character": "MEADOWS",
+      "gender": "Male",
+      "line": "Beautiful day, Chief!",
+      "wordCount": 3
+    },
+    {
+      "id": 424,
+      "index": 424,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Hey Mikey -- !",
+      "wordCount": 4
+    },
+    {
+      "id": 425,
+      "index": 425,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "You're not going to the ocean with that, are you son?",
+      "wordCount": 11
+    },
+    {
+      "id": 426,
+      "index": 426,
+      "character": "MICHAEL",
+      "gender": "Male",
+      "line": "I'm all checked out for light surf and look at it.",
+      "wordCount": 11
+    },
+    {
+      "id": 427,
+      "index": 427,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Do me this favor just once. Use the ponds.",
+      "wordCount": 9
+    },
+    {
+      "id": 428,
+      "index": 428,
+      "character": "MICHAEL",
+      "gender": "Male",
+      "line": "Dad, the ponds are for old ladies.",
+      "wordCount": 7
+    },
+    {
+      "id": 429,
+      "index": 429,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Just a favor for your old man.",
+      "wordCount": 7
+    },
+    {
+      "id": 430,
+      "index": 430,
+      "character": "MICHAEL",
+      "gender": "Male",
+      "line": "Sure, Dad.",
+      "wordCount": 2
+    },
+    {
+      "id": 431,
+      "index": 431,
+      "character": "COPTER SPOTTER",
+      "gender": "NA",
+      "line": "Copter to Daisy! Red Four, Red Four!",
+      "wordCount": 7
+    },
+    {
+      "id": 432,
+      "index": 432,
+      "character": "HENDRICKS",
+      "gender": "Male",
+      "line": "Where -- ?",
+      "wordCount": 3
+    },
+    {
+      "id": 433,
+      "index": 433,
+      "character": "COPTER SPOTTER",
+      "gender": "NA",
+      "line": "Went under your -- There!",
+      "wordCount": 5
+    },
+    {
+      "id": 434,
+      "index": 434,
+      "character": "SONAR OPERATOR",
+      "gender": "NA",
+      "line": "Jesus Christ -- Shark!",
+      "wordCount": 4
+    },
+    {
+      "id": 435,
+      "index": 435,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Everybody out! Out of the water, please -- leave the water, please --",
+      "wordCount": 13
+    },
+    {
+      "id": 436,
+      "index": 436,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "No whistles! No whistles!",
+      "wordCount": 4
+    },
+    {
+      "id": 437,
+      "index": 437,
+      "character": "TV DIRECTOR",
+      "gender": "NA",
+      "line": "Why did we wrap? Get that! Somebody get that!",
+      "wordCount": 9
+    },
+    {
+      "id": 438,
+      "index": 438,
+      "character": "THE VICTIM",
+      "gender": "NA",
+      "line": "It's no good. I'm dead...",
+      "wordCount": 5
+    },
+    {
+      "id": 439,
+      "index": 439,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "Block the estuary! The estuary!",
+      "wordCount": 5
+    },
+    {
+      "id": 440,
+      "index": 440,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "He's in shock. Get blankets!",
+      "wordCount": 5
+    },
+    {
+      "id": 441,
+      "index": 441,
+      "character": "NURSE",
+      "gender": "NA",
+      "line": "The doctor said it's okay -- mild shock. He can come home in the morning.",
+      "wordCount": 15
+    },
+    {
+      "id": 442,
+      "index": 442,
+      "character": "ELLEN",
+      "gender": "Female",
+      "line": "Hey, big guy -- you want anything from home?",
+      "wordCount": 9
+    },
+    {
+      "id": 443,
+      "index": 443,
+      "character": "MICHAEL",
+      "gender": "Male",
+      "line": "My cars. And a comic book.",
+      "wordCount": 6
+    },
+    {
+      "id": 444,
+      "index": 444,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Here -- Take him home.",
+      "wordCount": 5
+    },
+    {
+      "id": 445,
+      "index": 445,
+      "character": "ELLEN",
+      "gender": "Female",
+      "line": "Home... New York?",
+      "wordCount": 3
+    },
+    {
+      "id": 446,
+      "index": 446,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "No. Home here.",
+      "wordCount": 3
+    },
+    {
+      "id": 447,
+      "index": 447,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Got a pen on you?",
+      "wordCount": 5
+    },
+    {
+      "id": 448,
+      "index": 448,
+      "character": "VAUGHN",
+      "gender": "Male",
+      "line": "Why?",
+      "wordCount": 1
+    },
+    {
+      "id": 449,
+      "index": 449,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "There's only one thing you're good for anymore -- signing a damn voucher. Here. It's an authorization to employ a contractor.",
+      "wordCount": 21
+    },
+    {
+      "id": 450,
+      "index": 450,
+      "character": "VAUGHN",
+      "gender": "Male",
+      "line": "I don't know if I can do that without a...",
+      "wordCount": 10
+    },
+    {
+      "id": 451,
+      "index": 451,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "I'm going to hire Quint to kill the fish. I want to see that shark dead.",
+      "wordCount": 16
+    },
+    {
+      "id": 452,
+      "index": 452,
+      "character": "VAUGHN",
+      "gender": "Male",
+      "line": "Maybe we can save August...",
+      "wordCount": 5
+    },
+    {
+      "id": 453,
+      "index": 453,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Forget it. This summer's had it. Next summer's had it. You're the mayor of Shark City. You wanted to keep the beaches open. What happens when the town finds out about that?",
+      "wordCount": 32
+    },
+    {
+      "id": 454,
+      "index": 454,
+      "character": "VAUGHN",
+      "gender": "Male",
+      "line": "I was acting in the town's best interests...",
+      "wordCount": 8
+    },
+    {
+      "id": 455,
+      "index": 455,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "The best interest in this town would be to see that fish belly-up in the water with a hole in his head. You do the right thing. You authorize me. Right there. Whatever it costs.",
+      "wordCount": 35
+    },
+    {
+      "id": 456,
+      "index": 456,
+      "character": "VAUGHN",
+      "gender": "Male",
+      "line": "My kids were on that beach...",
+      "wordCount": 6
+    },
+    {
+      "id": 457,
+      "index": 457,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Just sign it, Larry.",
+      "wordCount": 4
+    },
+    {
+      "id": 458,
+      "index": 458,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "This has got to be one big violation...",
+      "wordCount": 8
+    },
+    {
+      "id": 459,
+      "index": 459,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "This is quite a place.",
+      "wordCount": 5
+    },
+    {
+      "id": 460,
+      "index": 460,
+      "character": "QUINT'S VOICE",
+      "gender": "NA",
+      "line": "Keep your hands off my stuff.",
+      "wordCount": 6
+    },
+    {
+      "id": 461,
+      "index": 461,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "Did you bring a check?",
+      "wordCount": 5
+    },
+    {
+      "id": 462,
+      "index": 462,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "What?",
+      "wordCount": 1
+    },
+    {
+      "id": 463,
+      "index": 463,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "Cash? Or do we do this on a handshake and a promise?",
+      "wordCount": 12
+    },
+    {
+      "id": 464,
+      "index": 464,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "I'm authorized by the township of Amity to hire you as an independent contractor. We'll meet your price. $10,000.",
+      "wordCount": 19
+    },
+    {
+      "id": 465,
+      "index": 465,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "And my regular daily rate -- $200, whether we catch him or not.",
+      "wordCount": 13
+    },
+    {
+      "id": 466,
+      "index": 466,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "You got it.",
+      "wordCount": 3
+    },
+    {
+      "id": 467,
+      "index": 467,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "And incidental damages, if any...",
+      "wordCount": 5
+    },
+    {
+      "id": 468,
+      "index": 468,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "You got it.",
+      "wordCount": 3
+    },
+    {
+      "id": 469,
+      "index": 469,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "And you get the Mayor off my back with this zoning crap. Nobody tells me how to run my property.",
+      "wordCount": 20
+    },
+    {
+      "id": 470,
+      "index": 470,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "You got it.",
+      "wordCount": 3
+    },
+    {
+      "id": 471,
+      "index": 471,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "And, uh, a case of apricot brandy and you buy the lunch.",
+      "wordCount": 12
+    },
+    {
+      "id": 472,
+      "index": 472,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Two cases. And dinner when you land.",
+      "wordCount": 7
+    },
+    {
+      "id": 473,
+      "index": 473,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "Try some of this. I made it myself.",
+      "wordCount": 8
+    },
+    {
+      "id": 474,
+      "index": 474,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "Here's to swimmin' with bowlegged women.",
+      "wordCount": 6
+    },
+    {
+      "id": 475,
+      "index": 475,
+      "character": "HERSCHEL",
+      "gender": "NA",
+      "line": "Mr. Quint...",
+      "wordCount": 2
+    },
+    {
+      "id": 476,
+      "index": 476,
+      "character": "HERSCHEL",
+      "gender": "NA",
+      "line": "I'm not goin'. No sir.",
+      "wordCount": 5
+    },
+    {
+      "id": 477,
+      "index": 477,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "You want to get paid, you go.",
+      "wordCount": 7
+    },
+    {
+      "id": 478,
+      "index": 478,
+      "character": "HERSCHEL",
+      "gender": "NA",
+      "line": "Forget the money. You can't pay me enough. I ain't crazy. I worked some big mean fish with you, but I ain't goin' on this one.",
+      "wordCount": 26
+    },
+    {
+      "id": 479,
+      "index": 479,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "This is the last time I hear from you. I don't want anyone with piss for blood on my vessel. Put that blackfish on board, pump the bilges, and top off the fuel tanks, and finish up in the morning. Then you're on the beach.",
+      "wordCount": 45
+    },
+    {
+      "id": 480,
+      "index": 480,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "You're going to need an extra hand...",
+      "wordCount": 7
+    },
+    {
+      "id": 481,
+      "index": 481,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "This is Matt Hooper...",
+      "wordCount": 4
+    },
+    {
+      "id": 482,
+      "index": 482,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "I know who he is...",
+      "wordCount": 5
+    },
+    {
+      "id": 483,
+      "index": 483,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "He's from the Oceanographic Institute.",
+      "wordCount": 5
+    },
+    {
+      "id": 484,
+      "index": 484,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "I've been to sea since I was 12. I've crewed three Trans-pacs --",
+      "wordCount": 13
+    },
+    {
+      "id": 485,
+      "index": 485,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "Transplants?",
+      "wordCount": 1
+    },
+    {
+      "id": 486,
+      "index": 486,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "-- and an America's Cup Trials...",
+      "wordCount": 6
+    },
+    {
+      "id": 487,
+      "index": 487,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "I'm not talking about day sailing or pleasure boating. I'm talking about working for a living. Sharking.",
+      "wordCount": 17
+    },
+    {
+      "id": 488,
+      "index": 488,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "And I'm not talking about hooking some poor dogfish or sand shark. I'm talking about a Great White.",
+      "wordCount": 18
+    },
+    {
+      "id": 489,
+      "index": 489,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "Are you now. I know about porkers in the water -- Here. Tie me a sheepshank.",
+      "wordCount": 16
+    },
+    {
+      "id": 490,
+      "index": 490,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "I don't need to pass basic seamanship.",
+      "wordCount": 7
+    },
+    {
+      "id": 491,
+      "index": 491,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "Let me see your hands...",
+      "wordCount": 5
+    },
+    {
+      "id": 492,
+      "index": 492,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "Ha. City hands. You been counting money. If you had a $5000 net and $2000 worth of fish in it, and along comes Mr. White, and makes it look like a kiddy scissors class has gone to work on it and made paper dolls. If you'd ever worked for a living, you'd know what that means.",
+      "wordCount": 56
+    },
+    {
+      "id": 493,
+      "index": 493,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "Look, I don't need to hear any of this working class hero crap. Some party boat skipper who's killed a few sharks...",
+      "wordCount": 22
+    },
+    {
+      "id": 494,
+      "index": 494,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Hey. Knock it off. I don't want to have to listen to this while we're out there...",
+      "wordCount": 17
+    },
+    {
+      "id": 495,
+      "index": 495,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "What do you mean 'We...?'",
+      "wordCount": 5
+    },
+    {
+      "id": 496,
+      "index": 496,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "It's my charter. My party.",
+      "wordCount": 5
+    },
+    {
+      "id": 497,
+      "index": 497,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "All right, Commissioner. But when we're on my ship, I am Master, Mate and Pilot. And I want him... ...along for ballast.",
+      "wordCount": 22
+    },
+    {
+      "id": 498,
+      "index": 498,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "You got it.",
+      "wordCount": 3
+    },
+    {
+      "id": 499,
+      "index": 499,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "5 lengths of 1/2-inch, 20 number 14's, straight gaff, flying gaffs, tail rope, eye splice, M-1, 20 clips, pliers, irons...",
+      "wordCount": 20
+    },
+    {
+      "id": 500,
+      "index": 500,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "Powerhead, CO2 darts, hypo, regulator, tanks, depth gauge, camera, extra magazines, cage...",
+      "wordCount": 12
+    },
+    {
+      "id": 501,
+      "index": 501,
+      "character": "ASSISTANT",
+      "gender": "NA",
+      "line": "You got everything you asked for?",
+      "wordCount": 6
+    },
+    {
+      "id": 502,
+      "index": 502,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "All of it. And thank Dr. Miro for me. And tell Borack I'll catch up with them in New Zealand.",
+      "wordCount": 20
+    },
+    {
+      "id": 503,
+      "index": 503,
+      "character": "ASSISTANT",
+      "gender": "NA",
+      "line": "This is actually a killing expedition?",
+      "wordCount": 6
+    },
+    {
+      "id": 504,
+      "index": 504,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "An eye for an eye, you know.",
+      "wordCount": 7
+    },
+    {
+      "id": 505,
+      "index": 505,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "Hey, Squirt! You want to stow this gear or you want me to use it for ballast? It ain't good for much but bait.",
+      "wordCount": 24
+    },
+    {
+      "id": 506,
+      "index": 506,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "I'll see ya. Tell Dorothy hello.",
+      "wordCount": 6
+    },
+    {
+      "id": 507,
+      "index": 507,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "Hello, Junior. What are you? Some kind of half-assed astronaut? Jesus Christ, when I was a kid, every little squirt wanted to be a harpooner or a sword fisherman. What d'ya have there -- a portable shower?",
+      "wordCount": 37
+    },
+    {
+      "id": 508,
+      "index": 508,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "Anti-Shark cage.",
+      "wordCount": 2
+    },
+    {
+      "id": 509,
+      "index": 509,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "Who's inside, you or the shark?",
+      "wordCount": 6
+    },
+    {
+      "id": 510,
+      "index": 510,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "You're in the cage? The cage is in the water? The shark is in the water too? You're in the water with the shark.",
+      "wordCount": 24
+    },
+    {
+      "id": 511,
+      "index": 511,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "Comin' aboard...",
+      "wordCount": 2
+    },
+    {
+      "id": 512,
+      "index": 512,
+      "character": "ELLEN",
+      "gender": "Female",
+      "line": "Did you take your dramamine? Here.",
+      "wordCount": 6
+    },
+    {
+      "id": 513,
+      "index": 513,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "Hurry up, Chief, daylight's a wastin'.",
+      "wordCount": 6
+    },
+    {
+      "id": 514,
+      "index": 514,
+      "character": "ELLEN",
+      "gender": "Female",
+      "line": "Is that him?",
+      "wordCount": 3
+    },
+    {
+      "id": 515,
+      "index": 515,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Colorful, isn't he?",
+      "wordCount": 3
+    },
+    {
+      "id": 516,
+      "index": 516,
+      "character": "ELLEN",
+      "gender": "Female",
+      "line": "You going to be all right?",
+      "wordCount": 6
+    },
+    {
+      "id": 517,
+      "index": 517,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Nothing to worry about -- I'll survive this.",
+      "wordCount": 8
+    },
+    {
+      "id": 518,
+      "index": 518,
+      "character": "ELLEN",
+      "gender": "Female",
+      "line": "I'll see you back soon. There's an extra pair of glasses in your black socks, and there's some suntan lotion and blistex in your kit.",
+      "wordCount": 25
+    },
+    {
+      "id": 519,
+      "index": 519,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Yo-ho-ho and a bottle of rum.",
+      "wordCount": 6
+    },
+    {
+      "id": 520,
+      "index": 520,
+      "character": "ELLEN",
+      "gender": "Female",
+      "line": "What'll I tell the kids?",
+      "wordCount": 5
+    },
+    {
+      "id": 521,
+      "index": 521,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Tell 'em I went fishin'!",
+      "wordCount": 5
+    },
+    {
+      "id": 522,
+      "index": 522,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "Cast off the bow line! Now your stern!",
+      "wordCount": 8
+    },
+    {
+      "id": 523,
+      "index": 523,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "Front-Bow, Back-Stern, Port, Starboard. Aloft, Below. It's not a staircase, it's a ladder, it's not a rope, it's a line, and if you don't get it right... I'll throw your ass through that little round window.",
+      "wordCount": 36
+    },
+    {
+      "id": 524,
+      "index": 524,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "Now hear this. You're aboard the fishing vessel 'Orca,' and I'm her Captain, Master, Mate, and Owner. You'll jump when I holler. We're doin' a job here, and Christ, I ain't got time to watch you birds get hooks in your ass and fall overboard. Ship with me, and you'll do all right. Cross me, and I'll slap you upside your heads. Now -- if you boys are ready -- let's go fishin'.",
+      "wordCount": 73
+    },
+    {
+      "id": 525,
+      "index": 525,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "Here's something for you...",
+      "wordCount": 4
+    },
+    {
+      "id": 526,
+      "index": 526,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "These greedy sons-a-bitches will eat their own guts.",
+      "wordCount": 8
+    },
+    {
+      "id": 527,
+      "index": 527,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "Go ahead, you cannibals. Tell 'em where you got it!",
+      "wordCount": 10
+    },
+    {
+      "id": 528,
+      "index": 528,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "What's that supposed to prove?",
+      "wordCount": 5
+    },
+    {
+      "id": 529,
+      "index": 529,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "Just a little appetizer. I want our porker to know we're serving. I want to put some iron into that big yap...",
+      "wordCount": 22
+    },
+    {
+      "id": 530,
+      "index": 530,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "Keep that chum line going -- we've got five good miles. Don't break it.",
+      "wordCount": 14
+    },
+    {
+      "id": 531,
+      "index": 531,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Who's driving the boat?",
+      "wordCount": 4
+    },
+    {
+      "id": 532,
+      "index": 532,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "Nobody. We're drifting with the current.",
+      "wordCount": 6
+    },
+    {
+      "id": 533,
+      "index": 533,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "Nothing. Nothing, nothing, nothing.",
+      "wordCount": 4
+    },
+    {
+      "id": 534,
+      "index": 534,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "Hell, in the old days we went out with good charts, good sounding lead, and a damn good compass. Nowadays, these kids are afraid to go out without depth finders, radar, radio, electric toothbrush, every stupid thing...",
+      "wordCount": 37
+    },
+    {
+      "id": 535,
+      "index": 535,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "Get a fresh barrel.",
+      "wordCount": 4
+    },
+    {
+      "id": 536,
+      "index": 536,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "Watch it! Compressed air -- you screw around with one of those and Boom! Careful, huh?",
+      "wordCount": 16
+    },
+    {
+      "id": 537,
+      "index": 537,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "Real fine stuff but it won't mean a thing to Mr. Whitey, of course... he didn't go to schools in electronics. He was born with what he does best. Eat. He's a swimming appetite. 'Course he might eat this stuff, but then I've seen him eat a rocking chair, too. Next time, ask me.",
+      "wordCount": 54
+    },
+    {
+      "id": 538,
+      "index": 538,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "That's pilot whale, isn't it?",
+      "wordCount": 5
+    },
+    {
+      "id": 539,
+      "index": 539,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "It ain't a Big Mac. The expert don't approve. What do you thing? You're closer to the situation.",
+      "wordCount": 18
+    },
+    {
+      "id": 540,
+      "index": 540,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Why are we way out here, when the shark's back there?",
+      "wordCount": 11
+    },
+    {
+      "id": 541,
+      "index": 541,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "...'cause this is where he lives. You gotta think like they do.",
+      "wordCount": 12
+    },
+    {
+      "id": 542,
+      "index": 542,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "Easy for you -- they got a brain the size of a radish.",
+      "wordCount": 13
+    },
+    {
+      "id": 543,
+      "index": 543,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "Now if he weren't around, we'd of hooked something else by now, wouldn't we? But he scared 'em all away. Big lonesome son of a bitch...",
+      "wordCount": 26
+    },
+    {
+      "id": 544,
+      "index": 544,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "-- he'll gulp it down now... Hooooooo!",
+      "wordCount": 7
+    },
+    {
+      "id": 545,
+      "index": 545,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "You got it?",
+      "wordCount": 3
+    },
+    {
+      "id": 546,
+      "index": 546,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "Get behind me, dummy! Reverse her and turn -- he's taking too much line! Wet my reel, quick!",
+      "wordCount": 18
+    },
+    {
+      "id": 547,
+      "index": 547,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "Starboard, for Chris'sake --",
+      "wordCount": 4
+    },
+    {
+      "id": 548,
+      "index": 548,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "Hey, you! Farmer! Half-speed there...",
+      "wordCount": 5
+    },
+    {
+      "id": 549,
+      "index": 549,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "Aye, Aye SIR. Stand by to repel boarders. Poop the mainsail. Argh, Jim Boy.",
+      "wordCount": 14
+    },
+    {
+      "id": 550,
+      "index": 550,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "Neutral! Where the hell is he going?",
+      "wordCount": 7
+    },
+    {
+      "id": 551,
+      "index": 551,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "Oh, this ain't foolin' me -- Sure -- try it!",
+      "wordCount": 10
+    },
+    {
+      "id": 552,
+      "index": 552,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "Makin' believe it's easy now.",
+      "wordCount": 5
+    },
+    {
+      "id": 553,
+      "index": 553,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "Gettin' ready to run again -- no? No? What's he playin' here? Put the gloves on! Let's see who's gonna tease who now!",
+      "wordCount": 23
+    },
+    {
+      "id": 554,
+      "index": 554,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "Let it go, don't waste your time.",
+      "wordCount": 7
+    },
+    {
+      "id": 555,
+      "index": 555,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "Down here, Hooper!",
+      "wordCount": 3
+    },
+    {
+      "id": 556,
+      "index": 556,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "I don't know what it is, but it's not a shark.",
+      "wordCount": 11
+    },
+    {
+      "id": 557,
+      "index": 557,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "Look -- you may be a big Yahoo in the lab, but out here you're just supercargo, and you'll do as I say, or you can take your gear and backstroke home. Now get down here!",
+      "wordCount": 36
+    },
+    {
+      "id": 558,
+      "index": 558,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "The wire's showing!",
+      "wordCount": 3
+    },
+    {
+      "id": 559,
+      "index": 559,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "Unbuckle me -- fast! Grab the leader. He ain't normal, this one... they never --",
+      "wordCount": 15
+    },
+    {
+      "id": 560,
+      "index": 560,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "It's too wild, too erratic. It's a marlin or a stingray. It's a gamefish.",
+      "wordCount": 14
+    },
+    {
+      "id": 561,
+      "index": 561,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "Watch your hands -- Grab onto this!",
+      "wordCount": 7
+    },
+    {
+      "id": 562,
+      "index": 562,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "A marlin, or a stingray. Huh. Don't ever tell me my business again. Get back up on the bridge.",
+      "wordCount": 19
+    },
+    {
+      "id": 563,
+      "index": 563,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "I'm okay...",
+      "wordCount": 2
+    },
+    {
+      "id": 564,
+      "index": 564,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "Fasten the pole.",
+      "wordCount": 3
+    },
+    {
+      "id": 565,
+      "index": 565,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "What's the point with hooks and Lines? --",
+      "wordCount": 8
+    },
+    {
+      "id": 566,
+      "index": 566,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "Don't tell me my business! Quarter-mile, that way. Full throttle.",
+      "wordCount": 10
+    },
+    {
+      "id": 567,
+      "index": 567,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "How -- if they're gonna keep on breaking?",
+      "wordCount": 8
+    },
+    {
+      "id": 568,
+      "index": 568,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "What I do is trick him to the surface, got that? Then I can jab him, understand? Think I'm gonna haul it in as if he's a catfish, like everyone else does?",
+      "wordCount": 32
+    },
+    {
+      "id": 569,
+      "index": 569,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "Over there!",
+      "wordCount": 2
+    },
+    {
+      "id": 570,
+      "index": 570,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "What do you see?",
+      "wordCount": 4
+    },
+    {
+      "id": 571,
+      "index": 571,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "At least you handle the boat all right. Stop. Here... Cut the engine.",
+      "wordCount": 13
+    },
+    {
+      "id": 572,
+      "index": 572,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "20 feet, if it's an inch...",
+      "wordCount": 6
+    },
+    {
+      "id": 573,
+      "index": 573,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "25 feet. And three tons of him there.",
+      "wordCount": 8
+    },
+    {
+      "id": 574,
+      "index": 574,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "I never saw one that big.",
+      "wordCount": 6
+    },
+    {
+      "id": 575,
+      "index": 575,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "What do we do? Get some help? Radio in?",
+      "wordCount": 9
+    },
+    {
+      "id": 576,
+      "index": 576,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "How're we gonna handle this?",
+      "wordCount": 5
+    },
+    {
+      "id": 577,
+      "index": 577,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "There's a formula! Girth, about 150 inches, squared, divide by 800 -- son of a bitch, they are not going to believe this! -- divide by 2000... three tons! You're right, you old fart! Three tons!",
+      "wordCount": 36
+    },
+    {
+      "id": 578,
+      "index": 578,
+      "character": "RADIO VOICE",
+      "gender": "NA",
+      "line": "Amity Point Light Station to Orca. This is Amity Point Light Station, to Orca...",
+      "wordCount": 14
+    },
+    {
+      "id": 579,
+      "index": 579,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "Orca here.",
+      "wordCount": 2
+    },
+    {
+      "id": 580,
+      "index": 580,
+      "character": "RADIO VOICE",
+      "gender": "NA",
+      "line": "I have Mrs. Martin Brody here...",
+      "wordCount": 6
+    },
+    {
+      "id": 581,
+      "index": 581,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "Put her on.",
+      "wordCount": 3
+    },
+    {
+      "id": 582,
+      "index": 582,
+      "character": "ELLEN'S VOICE",
+      "gender": "NA",
+      "line": "...push this? Oh. It's working. Hello, Martin?",
+      "wordCount": 7
+    },
+    {
+      "id": 583,
+      "index": 583,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "This is Quint, Missus.",
+      "wordCount": 4
+    },
+    {
+      "id": 584,
+      "index": 584,
+      "character": "ELLEN'S VOICE",
+      "gender": "NA",
+      "line": "I just wanted to know if you were all right... the Coast Guard let me use their radio. Is Chief Brody there?",
+      "wordCount": 22
+    },
+    {
+      "id": 585,
+      "index": 585,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "He's busy.",
+      "wordCount": 2
+    },
+    {
+      "id": 586,
+      "index": 586,
+      "character": "ELLEN'S VOICE",
+      "gender": "NA",
+      "line": "Well... is everything all right?",
+      "wordCount": 5
+    },
+    {
+      "id": 587,
+      "index": 587,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "Just fine, Missus. We'll be back soon. Everything's fine. We haven't seen anything yet. Orca out.",
+      "wordCount": 16
+    },
+    {
+      "id": 588,
+      "index": 588,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "Damn it! I need something in the foreground to give it some scale. Martin! Stand here! No, to your left!",
+      "wordCount": 20
+    },
+    {
+      "id": 589,
+      "index": 589,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "Here. Rig this to the forward keg up there.",
+      "wordCount": 9
+    },
+    {
+      "id": 590,
+      "index": 590,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "Get up there and steer her. Follow my hand, and hold 'er steady. I've got to get a clean shot at that porker's head.",
+      "wordCount": 24
+    },
+    {
+      "id": 591,
+      "index": 591,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "Hurry up, rig the line!",
+      "wordCount": 5
+    },
+    {
+      "id": 592,
+      "index": 592,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "Come to port. Watch my hand. Steady now...",
+      "wordCount": 8
+    },
+    {
+      "id": 593,
+      "index": 593,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "The line, man, the line!",
+      "wordCount": 5
+    },
+    {
+      "id": 594,
+      "index": 594,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "Get clear, damn you!",
+      "wordCount": 4
+    },
+    {
+      "id": 595,
+      "index": 595,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "Clear!",
+      "wordCount": 1
+    },
+    {
+      "id": 596,
+      "index": 596,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "Jesus H. Christ On a Crutch!",
+      "wordCount": 6
+    },
+    {
+      "id": 597,
+      "index": 597,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "Now you've done it, you piss-ant. Stop and rig a goddam tinker toy to my gear. Let the bastard fight the keg for a while. He can't stay down with that on.",
+      "wordCount": 32
+    },
+    {
+      "id": 598,
+      "index": 598,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "Rig another keg! I'm bringing her around!",
+      "wordCount": 7
+    },
+    {
+      "id": 599,
+      "index": 599,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "God damn it! We had him! I'm coming about!",
+      "wordCount": 9
+    },
+    {
+      "id": 600,
+      "index": 600,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Why don't we go in? Get another crack at him tomorrow.",
+      "wordCount": 11
+    },
+    {
+      "id": 601,
+      "index": 601,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "We got a barrel on him. We can't lose him. We stay out here until we find him.",
+      "wordCount": 18
+    },
+    {
+      "id": 602,
+      "index": 602,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Let's call in -- we can radio and have a big boat here in an hour...",
+      "wordCount": 16
+    },
+    {
+      "id": 603,
+      "index": 603,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "You hired me, remember? It's my $10,000. It's my shark...",
+      "wordCount": 10
+    },
+    {
+      "id": 604,
+      "index": 604,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "He's up again.",
+      "wordCount": 3
+    },
+    {
+      "id": 605,
+      "index": 605,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "That's not so bad. Look at this: ...St. Paddy's Day in Knocko Nolans, in Boston, where some sunovabitch winged me upside the head with a spittoon.",
+      "wordCount": 26
+    },
+    {
+      "id": 606,
+      "index": 606,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "Look here. Steve Kaplan bit me during recess.",
+      "wordCount": 8
+    },
+    {
+      "id": 607,
+      "index": 607,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "Wire burn. Trying to stop a backstay from taking my head off.",
+      "wordCount": 12
+    },
+    {
+      "id": 608,
+      "index": 608,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "Moray Eel. Bit right through a wet suit.",
+      "wordCount": 8
+    },
+    {
+      "id": 609,
+      "index": 609,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "Face and head scars come from amateur amusements in the bar room. This love line here... ...that's from some crazy Frenchie come after me with a knife. I caught him with a good right hand right in the snot locker and laid him amongst the sweetpeas.",
+      "wordCount": 46
+    },
+    {
+      "id": 610,
+      "index": 610,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "Ever see one like this?",
+      "wordCount": 5
+    },
+    {
+      "id": 611,
+      "index": 611,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "Bull shark scraped me while I was taking samples...",
+      "wordCount": 9
+    },
+    {
+      "id": 612,
+      "index": 612,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "Nothing! A pleasure scar. Look here --",
+      "wordCount": 7
+    },
+    {
+      "id": 613,
+      "index": 613,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "Slammed with a thresher's tail. Look just like somebody caressed me with a nutmeg grater...",
+      "wordCount": 15
+    },
+    {
+      "id": 614,
+      "index": 614,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "I'll drink to your leg.",
+      "wordCount": 5
+    },
+    {
+      "id": 615,
+      "index": 615,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "And I'll drink to yours.",
+      "wordCount": 5
+    },
+    {
+      "id": 616,
+      "index": 616,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "Wait a minute, young fella. Look. Just look. Don't touch...",
+      "wordCount": 10
+    },
+    {
+      "id": 617,
+      "index": 617,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "...Mako. Fell out of the tail rope and onto the deck. You don't get bitten by one of those bastards but twice -- your first and your last.",
+      "wordCount": 28
+    },
+    {
+      "id": 618,
+      "index": 618,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "I think I can top that, Mister...",
+      "wordCount": 7
+    },
+    {
+      "id": 619,
+      "index": 619,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "Gimme a hand, here. I got something to show you --",
+      "wordCount": 11
+    },
+    {
+      "id": 620,
+      "index": 620,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "There. Right there. Mary Ellen Moffit broke my heart. Let's drink to Mary Ellen.",
+      "wordCount": 14
+    },
+    {
+      "id": 621,
+      "index": 621,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "And here's to the ladies. And here's to their sisters; I'd rather one Miss than a shipload of Misters.",
+      "wordCount": 19
+    },
+    {
+      "id": 622,
+      "index": 622,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "Look a' that -- Bayonet Iwo Jima.",
+      "wordCount": 7
+    },
+    {
+      "id": 623,
+      "index": 623,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "C'mon. Middle appendix --",
+      "wordCount": 4
+    },
+    {
+      "id": 624,
+      "index": 624,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "I almost had 'im.",
+      "wordCount": 4
+    },
+    {
+      "id": 625,
+      "index": 625,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "What's that one, there?",
+      "wordCount": 4
+    },
+    {
+      "id": 626,
+      "index": 626,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "Tattoo. Had it taken off.",
+      "wordCount": 5
+    },
+    {
+      "id": 627,
+      "index": 627,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "Don't tell me -- 'Death Before Dishonor.' 'Mother.' 'Semper Fi.' Uhhh... 'Don't Tread on Me.' C'mon -- what?",
+      "wordCount": 18
+    },
+    {
+      "id": 628,
+      "index": 628,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "'U.S.S Indianapolis.' 1944.",
+      "wordCount": 3
+    },
+    {
+      "id": 629,
+      "index": 629,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "What's that, a ship?",
+      "wordCount": 4
+    },
+    {
+      "id": 630,
+      "index": 630,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "You were on the Indianapolis? In '45? Jesus...",
+      "wordCount": 8
+    },
+    {
+      "id": 631,
+      "index": 631,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "Yeah. The U.S.S. Indianapolis. June 29th, 1945, three and a half minutes past midnight, two torpedoes from a Japanese submarine slammed into our side. Two or three. We was still under sealed orders after deliverin' the bomb...the Hiroshima bomb...we was goin' back across the Pacific from Tinian to Leyte. Damn near eleven hundred men went over the side. The life boats was lashed down so tight to make the bomb run we couldn't cut a single one adrift. Not one. And there was no rafts. None. That vessel sank in twelve minutes. Yes, that's all she took. We didn't see the first shark till we'd been in the water about an hour. A thirteen-footer near enough. A blue. You measure that by judgin' the dorsal to the tail. What we didn't know... of course the Captain knew...I guess some officers knew... was the bomb mission had been so secret, no distress signals was sent. What the men didn't know was that they wouldn't even list us as overdue for a week. Well, I didn't know that -- I wasn't an officer -- just as well perhaps. So some of us were dead already -- in the water -- just hangin' limp in our lifejackets. And several already bleedin'. And the three hundred or so laying on the bottom of the ocean. As the light went, the sharks came crusin'. We formed tight groups -- somewhat like squares in an old battle -- You know what I mean -- so that when one come close, the man nearest would yell and shout and pound the water and sometimes it worked and the fish turned away, but other times that shark would seem to look right at a man -- right into his eyes -- and in spite of all shoutin' and poundin' you'd hear that terrible high screamin' and the ocean would go red, then churn up as they ripped him. Then we'd reform our little squares. By the first dawn the sharks had taken more than a hundred. Hard for me to count but more than a hundred. I don't know how many sharks. Maybe a thousand. I do know they averaged six men an hour. All kinds -- blues, makos, tigers. All kinds. In the middle of the second day, some of us started to go crazy from the thirst. One fella cried out he saw a river, another claimed he saw a waterfall, some started to drink the ocean and choked on it, and some left our little groups -- our little squares -- and swam off alone lookin' for islands and the sharks always took them right away. It was mainly the young fellas that did that -- the older ones stayed where they was. That second day -- my life jacket rubbed me raw and that was more blood in the water. Oh my. On Thursday morning I bumped up against a friend of mine -- Herbie Robinson from Cleveland -- a bosun's mate -- it seemed he was asleep but when I reached over to waken him, he bobbed in the water and I saw his body upend because he'd been bitten in half beneath the waist. Well Chief, so it went on -- bombers high overhead but nobody noticin' us. Yes -- suicides, sharks, and all this goin' crazy and dyin' of thirst. Noon the fifth day, Mr. Hooper, a Lockheed Ventura swung around and came in low. Yes. He did that. Yes, that pilot saw us. And early evenin', a big fat PBY come down out of the sky and began the pickup. That was when I was most frightened of all -- while I was waitin' for my turn. Just two and a half hours short of five days and five nights when they got to me and took me up. Eleven hundred of us went into that ocean -- three hundred and sixteen got out. Yeah. Nineteen hundred and forty five. June the 29th. Anyway, we delivered the bomb.",
+      "wordCount": 668
+    },
+    {
+      "id": 632,
+      "index": 632,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "What the hell?",
+      "wordCount": 3
+    },
+    {
+      "id": 633,
+      "index": 633,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "It's a whale out there.",
+      "wordCount": 5
+    },
+    {
+      "id": 634,
+      "index": 634,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "Show me the way to go home... I'm tired and I want to go to bed. I had a little drink about an hour ago, and it went right to my head.",
+      "wordCount": 32
+    },
+    {
+      "id": 635,
+      "index": 635,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "Start the engines.",
+      "wordCount": 3
+    },
+    {
+      "id": 636,
+      "index": 636,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "He's busting the shaft! Start the pump!",
+      "wordCount": 7
+    },
+    {
+      "id": 637,
+      "index": 637,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Where...?",
+      "wordCount": 1
+    },
+    {
+      "id": 638,
+      "index": 638,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "The bilge pumps. There --",
+      "wordCount": 5
+    },
+    {
+      "id": 639,
+      "index": 639,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "Cut the engines!",
+      "wordCount": 3
+    },
+    {
+      "id": 640,
+      "index": 640,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "Rudder bearings?",
+      "wordCount": 2
+    },
+    {
+      "id": 641,
+      "index": 641,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "Get up forward! Watch for him!",
+      "wordCount": 6
+    },
+    {
+      "id": 642,
+      "index": 642,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "Keep your eyes open, Mr. Hooper!",
+      "wordCount": 6
+    },
+    {
+      "id": 643,
+      "index": 643,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "Nobody sleeps! Nobody.",
+      "wordCount": 3
+    },
+    {
+      "id": 644,
+      "index": 644,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "Show me the way to go home... I'm tired and I want to go to bed.",
+      "wordCount": 16
+    },
+    {
+      "id": 645,
+      "index": 645,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "More left rudder! More! Left hand down now, Chief.",
+      "wordCount": 9
+    },
+    {
+      "id": 646,
+      "index": 646,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "Lemme get a better angle on it. Now.",
+      "wordCount": 8
+    },
+    {
+      "id": 647,
+      "index": 647,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "He's bent the housing. You can hear it.",
+      "wordCount": 8
+    },
+    {
+      "id": 648,
+      "index": 648,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "The barrel!",
+      "wordCount": 2
+    },
+    {
+      "id": 649,
+      "index": 649,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "It's him.",
+      "wordCount": 2
+    },
+    {
+      "id": 650,
+      "index": 650,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "He's under the keg. Careful --",
+      "wordCount": 6
+    },
+    {
+      "id": 651,
+      "index": 651,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "Easy -- just want to goose him up. The minute he runs, drop it or you'll lose your hands.",
+      "wordCount": 19
+    },
+    {
+      "id": 652,
+      "index": 652,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "Here -- gimme. I don't see what he's been doin'.",
+      "wordCount": 10
+    },
+    {
+      "id": 653,
+      "index": 653,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Shark! Starboard!",
+      "wordCount": 2
+    },
+    {
+      "id": 654,
+      "index": 654,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "Haul in that rope -- it'll foul us! Start the engine!",
+      "wordCount": 11
+    },
+    {
+      "id": 655,
+      "index": 655,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "Easy! It'll tear right out!",
+      "wordCount": 5
+    },
+    {
+      "id": 656,
+      "index": 656,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "The shaft is giving.",
+      "wordCount": 4
+    },
+    {
+      "id": 657,
+      "index": 657,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "That's it! Radio in for help!",
+      "wordCount": 6
+    },
+    {
+      "id": 658,
+      "index": 658,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "Shut up! Just pump her out!",
+      "wordCount": 6
+    },
+    {
+      "id": 659,
+      "index": 659,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Yeah, Captain, as soon as I make a call.",
+      "wordCount": 9
+    },
+    {
+      "id": 660,
+      "index": 660,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "Duty first and pleasure after --",
+      "wordCount": 6
+    },
+    {
+      "id": 661,
+      "index": 661,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "Excuse me!",
+      "wordCount": 2
+    },
+    {
+      "id": 662,
+      "index": 662,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Some great idea! Now where are we? Some goddamn skipper you are. You're certifiable, y'know that? You're a real treat! Certifiable! Bananas!",
+      "wordCount": 22
+    },
+    {
+      "id": 663,
+      "index": 663,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "Coming right to us!",
+      "wordCount": 4
+    },
+    {
+      "id": 664,
+      "index": 664,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "No -- comin' right at us! Slow ahead, he'll hit us head on -- Slower! Throttle back ---",
+      "wordCount": 18
+    },
+    {
+      "id": 665,
+      "index": 665,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "Hard to port!",
+      "wordCount": 3
+    },
+    {
+      "id": 666,
+      "index": 666,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "Try shakin' that out!",
+      "wordCount": 4
+    },
+    {
+      "id": 667,
+      "index": 667,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Did you get him in the head?",
+      "wordCount": 7
+    },
+    {
+      "id": 668,
+      "index": 668,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "No! No! No! Swing around! After him!",
+      "wordCount": 7
+    },
+    {
+      "id": 669,
+      "index": 669,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "More gas... go to half! Get me right alongside him --",
+      "wordCount": 11
+    },
+    {
+      "id": 670,
+      "index": 670,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "We can't rev it up this high --",
+      "wordCount": 8
+    },
+    {
+      "id": 671,
+      "index": 671,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "Watch it!",
+      "wordCount": 2
+    },
+    {
+      "id": 672,
+      "index": 672,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "Atta boy!",
+      "wordCount": 2
+    },
+    {
+      "id": 673,
+      "index": 673,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "Take two, they're small!",
+      "wordCount": 4
+    },
+    {
+      "id": 674,
+      "index": 674,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "Don't shoot him any more! He's crazy on his own blood already!",
+      "wordCount": 12
+    },
+    {
+      "id": 675,
+      "index": 675,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "I can't stand here doing nothing!",
+      "wordCount": 6
+    },
+    {
+      "id": 676,
+      "index": 676,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "Order in the court!",
+      "wordCount": 4
+    },
+    {
+      "id": 677,
+      "index": 677,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "Three'll do it! He's havin' trouble with two!",
+      "wordCount": 8
+    },
+    {
+      "id": 678,
+      "index": 678,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "Grab yourselves a couple of poles!",
+      "wordCount": 6
+    },
+    {
+      "id": 679,
+      "index": 679,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "Get ready! Now snag 'em!",
+      "wordCount": 5
+    },
+    {
+      "id": 680,
+      "index": 680,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "Pull in the ropes and tie 'em onto the transom -- free ride.",
+      "wordCount": 13
+    },
+    {
+      "id": 681,
+      "index": 681,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "Get tired! That's the idea! Here's a little reverse for you!",
+      "wordCount": 11
+    },
+    {
+      "id": 682,
+      "index": 682,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "Haul in -- watch the prop!",
+      "wordCount": 6
+    },
+    {
+      "id": 683,
+      "index": 683,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "Now! Untie 'em! Quick! He'll tear us to pieces.",
+      "wordCount": 9
+    },
+    {
+      "id": 684,
+      "index": 684,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "Damn head is too far away. He's too big.",
+      "wordCount": 9
+    },
+    {
+      "id": 685,
+      "index": 685,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "He can't go so deep. Not with all those on him.",
+      "wordCount": 11
+    },
+    {
+      "id": 686,
+      "index": 686,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "What about us?",
+      "wordCount": 3
+    },
+    {
+      "id": 687,
+      "index": 687,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "Have to pump her steady, s'all.",
+      "wordCount": 6
+    },
+    {
+      "id": 688,
+      "index": 688,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "Follow him -- You start pumpin' out here.",
+      "wordCount": 8
+    },
+    {
+      "id": 689,
+      "index": 689,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "He's heading under -- !",
+      "wordCount": 5
+    },
+    {
+      "id": 690,
+      "index": 690,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "No way! He can't!",
+      "wordCount": 4
+    },
+    {
+      "id": 691,
+      "index": 691,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Where'd he go?",
+      "wordCount": 3
+    },
+    {
+      "id": 692,
+      "index": 692,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "He can't stay down with three barrels on him! Where is he?!",
+      "wordCount": 12
+    },
+    {
+      "id": 693,
+      "index": 693,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Have you ever had one do this?",
+      "wordCount": 7
+    },
+    {
+      "id": 694,
+      "index": 694,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "No!",
+      "wordCount": 1
+    },
+    {
+      "id": 695,
+      "index": 695,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "Follow him!",
+      "wordCount": 2
+    },
+    {
+      "id": 696,
+      "index": 696,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "He's under!",
+      "wordCount": 2
+    },
+    {
+      "id": 697,
+      "index": 697,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "There!",
+      "wordCount": 1
+    },
+    {
+      "id": 698,
+      "index": 698,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "He's trying to sink us!",
+      "wordCount": 5
+    },
+    {
+      "id": 699,
+      "index": 699,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "Dead astern! Zig-zag!",
+      "wordCount": 3
+    },
+    {
+      "id": 700,
+      "index": 700,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "He's chasing us! I don't believe it.",
+      "wordCount": 7
+    },
+    {
+      "id": 701,
+      "index": 701,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "Full throttle! To port!",
+      "wordCount": 4
+    },
+    {
+      "id": 702,
+      "index": 702,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "Hold her.",
+      "wordCount": 2
+    },
+    {
+      "id": 703,
+      "index": 703,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "Keep him there! Keep him!",
+      "wordCount": 5
+    },
+    {
+      "id": 704,
+      "index": 704,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "Throttling back!",
+      "wordCount": 2
+    },
+    {
+      "id": 705,
+      "index": 705,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "What can that gun of yours do?",
+      "wordCount": 7
+    },
+    {
+      "id": 706,
+      "index": 706,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "Power head with 20 ccs of strychnine nitrate. If I can hit him. I can kill him. But I gotta be close. Very close.",
+      "wordCount": 24
+    },
+    {
+      "id": 707,
+      "index": 707,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "You gotta go in the water...",
+      "wordCount": 6
+    },
+    {
+      "id": 708,
+      "index": 708,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "Rig the cable to the roof eyebolts.",
+      "wordCount": 7
+    },
+    {
+      "id": 709,
+      "index": 709,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "Take me up.",
+      "wordCount": 3
+    },
+    {
+      "id": 710,
+      "index": 710,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "Lower away, Chief. Try and keep him off me till I'm under.",
+      "wordCount": 12
+    },
+    {
+      "id": 711,
+      "index": 711,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "Let go of it!",
+      "wordCount": 4
+    },
+    {
+      "id": 712,
+      "index": 712,
+      "character": "QUINT",
+      "gender": "Male",
+      "line": "He's comin' up -- !",
+      "wordCount": 5
+    },
+    {
+      "id": 713,
+      "index": 713,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "He's taken him!",
+      "wordCount": 3
+    },
+    {
+      "id": 714,
+      "index": 714,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "Quint...?",
+      "wordCount": 1
+    },
+    {
+      "id": 715,
+      "index": 715,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "No... (notices something",
+      "wordCount": 3
+    },
+    {
+      "id": 716,
+      "index": 716,
+      "character": "O.S.)",
+      "gender": "NA",
+      "line": "You think we can get back with those?",
+      "wordCount": 8
+    },
+    {
+      "id": 717,
+      "index": 717,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "What day is this?",
+      "wordCount": 4
+    },
+    {
+      "id": 718,
+      "index": 718,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "Wednesday... No, it's Tuesday, I think.",
+      "wordCount": 6
+    },
+    {
+      "id": 719,
+      "index": 719,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Think the tide's with us?",
+      "wordCount": 5
+    },
+    {
+      "id": 720,
+      "index": 720,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "Just keep kicking.",
+      "wordCount": 3
+    },
+    {
+      "id": 721,
+      "index": 721,
+      "character": "BRODY",
+      "gender": "Male",
+      "line": "Y'know, I used to hate the water...",
+      "wordCount": 7
+    },
+    {
+      "id": 722,
+      "index": 722,
+      "character": "HOOPER",
+      "gender": "Male",
+      "line": "I can't imagine why.",
+      "wordCount": 4
+    },
+    {
+      "id": 723,
+      "index": 723,
+      "character": "",
+      "gender": "Male"
+    }
+  ]
+}

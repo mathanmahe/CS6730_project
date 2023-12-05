@@ -1,0 +1,4908 @@
+{
+  "fileName": "Joker_dialogue.txt",
+  "title": "Joker",
+  "data": [
+    {
+      "id": 0,
+      "index": 0,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "--is it just me, or is it getting crazier out there?",
+      "wordCount": 11
+    },
+    {
+      "id": 1,
+      "index": 1,
+      "character": "SOCIAL WORKER",
+      "gender": "Female",
+      "line": "It's certainly tense. People are upset, they're struggling. Looking for work. The garbage strike seems like it's been going on forever. These are tough times. How 'bout you. How's the job? Still enjoying it?",
+      "wordCount": 34
+    },
+    {
+      "id": 2,
+      "index": 2,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Yeah, I mean, it's different each day, so I really like that. I don't think I could ever work in an office. Behind a desk.",
+      "wordCount": 25
+    },
+    {
+      "id": 3,
+      "index": 3,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "No offense.",
+      "wordCount": 2
+    },
+    {
+      "id": 4,
+      "index": 4,
+      "character": "SOCIAL WORKER",
+      "gender": "Female",
+      "line": "Have you been keeping up with your journal?",
+      "wordCount": 8
+    },
+    {
+      "id": 5,
+      "index": 5,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Everyday.",
+      "wordCount": 1
+    },
+    {
+      "id": 6,
+      "index": 6,
+      "character": "SOCIAL WORKER",
+      "gender": "Female",
+      "line": "Great. Did you bring it with you?",
+      "wordCount": 7
+    },
+    {
+      "id": 7,
+      "index": 7,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "I'm sorry. Did I bring what?",
+      "wordCount": 6
+    },
+    {
+      "id": 8,
+      "index": 8,
+      "character": "SOCIAL WORKER",
+      "gender": "Female",
+      "line": "Arthur, last time I asked you to bring your journal with you. For these appointments. Do you have it?",
+      "wordCount": 19
+    },
+    {
+      "id": 9,
+      "index": 9,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Yes ma'am.",
+      "wordCount": 2
+    },
+    {
+      "id": 10,
+      "index": 10,
+      "character": "SOCIAL WORKER",
+      "gender": "Female",
+      "line": "Can I see it?",
+      "wordCount": 4
+    },
+    {
+      "id": 11,
+      "index": 11,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "I've been using it as a journal, but also a joke diary. Funny thoughts or, or observations-- Did I tell you I'm pursuing a career in stand-up comedy?",
+      "wordCount": 28
+    },
+    {
+      "id": 12,
+      "index": 12,
+      "character": "SOCIAL WORKER",
+      "gender": "Female",
+      "line": "No. You didn't.",
+      "wordCount": 3
+    },
+    {
+      "id": 13,
+      "index": 13,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "I think I did.",
+      "wordCount": 4
+    },
+    {
+      "id": 14,
+      "index": 14,
+      "character": "SOCIAL WORKER",
+      "gender": "Female",
+      "line": "Oh yeah. Because of what your mother said,-- about your purpose. \"To bring laughter and joy to the world,\" right?",
+      "wordCount": 20
+    },
+    {
+      "id": 15,
+      "index": 15,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Right.",
+      "wordCount": 1
+    },
+    {
+      "id": 16,
+      "index": 16,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "I didn't realize you wanted to read it.",
+      "wordCount": 8
+    },
+    {
+      "id": 17,
+      "index": 17,
+      "character": "SOCIAL WORKER",
+      "gender": "Female",
+      "line": "\"I just hope my death makes more sense than my life.\"",
+      "wordCount": 11
+    },
+    {
+      "id": 18,
+      "index": 18,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Yeah. I mean, that's just--",
+      "wordCount": 5
+    },
+    {
+      "id": 19,
+      "index": 19,
+      "character": "SOCIAL WORKER",
+      "gender": "Female",
+      "line": "Does my reading it upset you?",
+      "wordCount": 6
+    },
+    {
+      "id": 20,
+      "index": 20,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "No. I just,-- some of it's personal. You know?",
+      "wordCount": 9
+    },
+    {
+      "id": 21,
+      "index": 21,
+      "character": "SOCIAL WORKER",
+      "gender": "Female",
+      "line": "I understand. I just want to make sure you're keeping up with it.",
+      "wordCount": 13
+    },
+    {
+      "id": 22,
+      "index": 22,
+      "character": "SOCIAL WORKER",
+      "gender": "Female",
+      "line": "What about your mom? How's she feeling?",
+      "wordCount": 7
+    },
+    {
+      "id": 23,
+      "index": 23,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "She has good days. But mostly bad. It's been a big help having me there. She really needs me.",
+      "wordCount": 19
+    },
+    {
+      "id": 24,
+      "index": 24,
+      "character": "SOCIAL WORKER",
+      "gender": "Female",
+      "line": "Seems like she's been sick a lot since you got home.",
+      "wordCount": 11
+    },
+    {
+      "id": 25,
+      "index": 25,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Yeah, it's good I'm there. When I was in the hospital, after my last episode-- she was having trouble getting over there to visit.",
+      "wordCount": 24
+    },
+    {
+      "id": 26,
+      "index": 26,
+      "character": "SOCIAL WORKER",
+      "gender": "Female",
+      "line": "All right. So, I'll see you again, two weeks from today?",
+      "wordCount": 11
+    },
+    {
+      "id": 27,
+      "index": 27,
+      "character": "SOCIAL WORKER",
+      "gender": "Female",
+      "line": "Is there something else I can help you with, Arthur? My next appointment is waiting.",
+      "wordCount": 15
+    },
+    {
+      "id": 28,
+      "index": 28,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Yeah, I was wondering if you could ask the doctor to increase the dosage on my medications? Nothing seems to make a difference.",
+      "wordCount": 23
+    },
+    {
+      "id": 29,
+      "index": 29,
+      "character": "SOCIAL WORKER",
+      "gender": "Female",
+      "line": "Do you know which ones you'd like increased?",
+      "wordCount": 8
+    },
+    {
+      "id": 30,
+      "index": 30,
+      "character": "SOCIAL WORKER",
+      "gender": "Female",
+      "line": "Have you been sleeping?",
+      "wordCount": 4
+    },
+    {
+      "id": 31,
+      "index": 31,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Some.",
+      "wordCount": 1
+    },
+    {
+      "id": 32,
+      "index": 32,
+      "character": "SOCIAL WORKER",
+      "gender": "Female",
+      "line": "Arthur, you're on seven different medications. Surely they must be doing something.",
+      "wordCount": 12
+    },
+    {
+      "id": 33,
+      "index": 33,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "I just don't wanna feel so bad anymore.",
+      "wordCount": 8
+    },
+    {
+      "id": 34,
+      "index": 34,
+      "character": "WOMAN ON BUS",
+      "gender": "NA",
+      "line": "Can you please stop bothering my kid?",
+      "wordCount": 7
+    },
+    {
+      "id": 35,
+      "index": 35,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "I wasn't bothering her, I was--",
+      "wordCount": 6
+    },
+    {
+      "id": 36,
+      "index": 36,
+      "character": "WOMAN ON BUS",
+      "gender": "NA",
+      "line": "Just stop.",
+      "wordCount": 2
+    },
+    {
+      "id": 37,
+      "index": 37,
+      "character": "WOMAN ON BUS",
+      "gender": "NA",
+      "line": "You think that's funny?",
+      "wordCount": 4
+    },
+    {
+      "id": 38,
+      "index": 38,
+      "character": "SOPHIE",
+      "gender": "Female",
+      "line": "Wait!!",
+      "wordCount": 1
+    },
+    {
+      "id": 39,
+      "index": 39,
+      "character": "SOPHIE",
+      "gender": "Female",
+      "line": "Thank you. Of course it's you,-- everyone else in this building is just so fucking rude.",
+      "wordCount": 16
+    },
+    {
+      "id": 40,
+      "index": 40,
+      "character": "SOPHIE",
+      "gender": "Female",
+      "line": "How's your mom doing?",
+      "wordCount": 4
+    },
+    {
+      "id": 41,
+      "index": 41,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "It's day to day. I'm doing everything I can to get her back on her feet. Picked up her medicine. Gonna make her some dinner.",
+      "wordCount": 25
+    },
+    {
+      "id": 42,
+      "index": 42,
+      "character": "SOPHIE",
+      "gender": "Female",
+      "line": "She's lucky she has you--",
+      "wordCount": 5
+    },
+    {
+      "id": 43,
+      "index": 43,
+      "character": "SOPHIE",
+      "gender": "Female",
+      "line": "Jesus. Don't do that, GiGi! How many times have I told you that? This building is so awful, isn't it?",
+      "wordCount": 20
+    },
+    {
+      "id": 44,
+      "index": 44,
+      "character": "SOPHIE",
+      "gender": "Female",
+      "line": "Okay. Well, tell your mom I said hello.",
+      "wordCount": 8
+    },
+    {
+      "id": 45,
+      "index": 45,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Hey Sophie--",
+      "wordCount": 2
+    },
+    {
+      "id": 46,
+      "index": 46,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "I'll tell my mom you said hello.",
+      "wordCount": 7
+    },
+    {
+      "id": 47,
+      "index": 47,
+      "character": "MOM",
+      "gender": "NA",
+      "line": "Happy?! Did you check the mail before you came up?",
+      "wordCount": 10
+    },
+    {
+      "id": 48,
+      "index": 48,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Yes, Ma. Nothing. No letter.",
+      "wordCount": 5
+    },
+    {
+      "id": 49,
+      "index": 49,
+      "character": "MOM",
+      "gender": "NA",
+      "line": "You sure you looked? Sometimes I don't know where your head is.",
+      "wordCount": 12
+    },
+    {
+      "id": 50,
+      "index": 50,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Yes I'm sure. And my head's right here. I'm gonna make you some dinner, okay?",
+      "wordCount": 15
+    },
+    {
+      "id": 51,
+      "index": 51,
+      "character": "AHENELZINE... AMITRIPTYLINE... BENZEDRINE... DIAZEPAM...",
+      "gender": "NA",
+      "line": "MEPROBAMATE...",
+      "wordCount": 1
+    },
+    {
+      "id": 52,
+      "index": 52,
+      "character": "MOM",
+      "gender": "NA",
+      "line": "He must not be getting my letters.",
+      "wordCount": 7
+    },
+    {
+      "id": 53,
+      "index": 53,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "He's a busy man.",
+      "wordCount": 4
+    },
+    {
+      "id": 54,
+      "index": 54,
+      "character": "MOM",
+      "gender": "NA",
+      "line": "Too busy for me? I worked for that family for 12 years. He always had a smile for me. Least he could do is write back.",
+      "wordCount": 26
+    },
+    {
+      "id": 55,
+      "index": 55,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Ma, eat. You need to eat.",
+      "wordCount": 6
+    },
+    {
+      "id": 56,
+      "index": 56,
+      "character": "MOM",
+      "gender": "NA",
+      "line": "You need to eat. Look how skinny you are.",
+      "wordCount": 9
+    },
+    {
+      "id": 57,
+      "index": 57,
+      "character": "MOM",
+      "gender": "NA",
+      "line": "All day long it's more bad news. That's all there is.",
+      "wordCount": 11
+    },
+    {
+      "id": 58,
+      "index": 58,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Maybe you shouldn't watch so much television.",
+      "wordCount": 7
+    },
+    {
+      "id": 59,
+      "index": 59,
+      "character": "MOM",
+      "gender": "NA",
+      "line": "He's the only hope for Gotham. He'll make a great mayor. Everybody says so.",
+      "wordCount": 14
+    },
+    {
+      "id": 60,
+      "index": 60,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Everybody who? Who do you talk to?",
+      "wordCount": 7
+    },
+    {
+      "id": 61,
+      "index": 61,
+      "character": "MOM",
+      "gender": "NA",
+      "line": "Well everybody on the news.",
+      "wordCount": 5
+    },
+    {
+      "id": 62,
+      "index": 62,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Stop it. He's not even gonna run. Why would Thomas Wayne want to be mayor? He can do more good as a businessman.",
+      "wordCount": 23
+    },
+    {
+      "id": 63,
+      "index": 63,
+      "character": "MOM",
+      "gender": "NA",
+      "line": "Because he cares about this city. And everyone in it-- that's why I can't believe he hasn't written me back.",
+      "wordCount": 20
+    },
+    {
+      "id": 64,
+      "index": 64,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "He will. Now eat some dinner.",
+      "wordCount": 6
+    },
+    {
+      "id": 65,
+      "index": 65,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "How you feeling today?",
+      "wordCount": 4
+    },
+    {
+      "id": 66,
+      "index": 66,
+      "character": "MOM",
+      "gender": "NA",
+      "line": "I don't know. It always hits me worse at night, you notice that?",
+      "wordCount": 13
+    },
+    {
+      "id": 67,
+      "index": 67,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Maybe it's the moon. Maybe you're a werewolf?",
+      "wordCount": 8
+    },
+    {
+      "id": 68,
+      "index": 68,
+      "character": "MOM",
+      "gender": "NA",
+      "line": "It's not funny.",
+      "wordCount": 3
+    },
+    {
+      "id": 69,
+      "index": 69,
+      "character": "MOM",
+      "gender": "NA",
+      "line": "Anyway, I wrote a new letter today. A better one. I want you to hand deliver it to him.",
+      "wordCount": 19
+    },
+    {
+      "id": 70,
+      "index": 70,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "What? Why?",
+      "wordCount": 2
+    },
+    {
+      "id": 71,
+      "index": 71,
+      "character": "MOM",
+      "gender": "NA",
+      "line": "Cause maybe the mailman is throwing them away. We should have tipped him at Christmas time.",
+      "wordCount": 16
+    },
+    {
+      "id": 72,
+      "index": 72,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Who tips their mailman?",
+      "wordCount": 4
+    },
+    {
+      "id": 73,
+      "index": 73,
+      "character": "MOM",
+      "gender": "NA",
+      "line": "Some people do. Rich people do.",
+      "wordCount": 6
+    },
+    {
+      "id": 74,
+      "index": 74,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Okay. I can try his office. Tomorrow.",
+      "wordCount": 7
+    },
+    {
+      "id": 75,
+      "index": 75,
+      "character": "MOM",
+      "gender": "NA",
+      "line": "Thank you. Come sit. It's almost on.",
+      "wordCount": 7
+    },
+    {
+      "id": 76,
+      "index": 76,
+      "character": "ANNOUNCER",
+      "gender": "NA",
+      "line": "It's Live with Murray Franklin! Tonight Murray welcomes, Sandra Winger, comedian Skip Byron and the piano stylings of Yeldon & Chantel! As always, Don Ellis and his Jazz Orchestra. And now, without any further ado-- Murray Franklin!",
+      "wordCount": 37
+    },
+    {
+      "id": 77,
+      "index": 77,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Hello. I have a personal letter for Mr. Thomas Wayne.",
+      "wordCount": 10
+    },
+    {
+      "id": 78,
+      "index": 78,
+      "character": "RECEPTIONIST",
+      "gender": "NA",
+      "line": "Okay. You can leave it with me.",
+      "wordCount": 7
+    },
+    {
+      "id": 79,
+      "index": 79,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "It's kind of important. I need to make sure he gets it himself.",
+      "wordCount": 13
+    },
+    {
+      "id": 80,
+      "index": 80,
+      "character": "RECEPTIONIST",
+      "gender": "NA",
+      "line": "Oh, in that case, I'll buzz you right in.",
+      "wordCount": 9
+    },
+    {
+      "id": 81,
+      "index": 81,
+      "character": "RECEPTIONIST",
+      "gender": "NA",
+      "line": "I'm kidding. Leave it here.",
+      "wordCount": 5
+    },
+    {
+      "id": 82,
+      "index": 82,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Oh. Right-- well, my mom used to work for the Wayne family-- for 12 years. She was their housekeeper.",
+      "wordCount": 19
+    },
+    {
+      "id": 83,
+      "index": 83,
+      "character": "RECEPTIONIST",
+      "gender": "NA",
+      "line": "That's great. But you can leave it with me or you can leave with the letter. Those are your options. Now please step aside.",
+      "wordCount": 24
+    },
+    {
+      "id": 84,
+      "index": 84,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Mr. Wayne knows her. Can you maybe at least call back to him? Tell him that I'm here.",
+      "wordCount": 18
+    },
+    {
+      "id": 85,
+      "index": 85,
+      "character": "RECEPTIONIST",
+      "gender": "NA",
+      "line": "Thomas Wayne is away on business.",
+      "wordCount": 6
+    },
+    {
+      "id": 86,
+      "index": 86,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Okay. Well, can I have your name? So I know who I left it with.",
+      "wordCount": 15
+    },
+    {
+      "id": 87,
+      "index": 87,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Wait. He's right there. Mr. Wayne! Mr. Wayne.",
+      "wordCount": 8
+    },
+    {
+      "id": 88,
+      "index": 88,
+      "character": "RECEPTIONIST",
+      "gender": "NA",
+      "line": "Sir. Please stop. Sir!!",
+      "wordCount": 4
+    },
+    {
+      "id": 89,
+      "index": 89,
+      "character": "RANDALL",
+      "gender": "Male",
+      "line": "You okay?",
+      "wordCount": 2
+    },
+    {
+      "id": 90,
+      "index": 90,
+      "character": "RANDALL",
+      "gender": "Male",
+      "line": "I heard about the beat down you took. Fucking savages.",
+      "wordCount": 10
+    },
+    {
+      "id": 91,
+      "index": 91,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "It was just a bunch of kids. I should have left it alone.",
+      "wordCount": 13
+    },
+    {
+      "id": 92,
+      "index": 92,
+      "character": "RANDALL",
+      "gender": "Male",
+      "line": "It's crazy out there. And it's only getting worse.",
+      "wordCount": 9
+    },
+    {
+      "id": 93,
+      "index": 93,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "My mother says that the people nowadays lack empathy.",
+      "wordCount": 9
+    },
+    {
+      "id": 94,
+      "index": 94,
+      "character": "RANDALL",
+      "gender": "Male",
+      "line": "What's empathy?",
+      "wordCount": 2
+    },
+    {
+      "id": 95,
+      "index": 95,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "It means like \"feeling for other people.\"",
+      "wordCount": 7
+    },
+    {
+      "id": 96,
+      "index": 96,
+      "character": "RANDALL",
+      "gender": "Male",
+      "line": "Like sympathy?",
+      "wordCount": 2
+    },
+    {
+      "id": 97,
+      "index": 97,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Kind of. But different.",
+      "wordCount": 4
+    },
+    {
+      "id": 98,
+      "index": 98,
+      "character": "RANDALL",
+      "gender": "Male",
+      "line": "Take it. I got a few. You gotta protect yourself out there, buddy. Too many wackos.",
+      "wordCount": 16
+    },
+    {
+      "id": 99,
+      "index": 99,
+      "character": "RANDALL",
+      "gender": "Male",
+      "line": "It's a .38 snub-nose. Gets the job done if you ever need to use it. Usually pulling it out is enough.",
+      "wordCount": 21
+    },
+    {
+      "id": 100,
+      "index": 100,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "I, I don't have the money for this, Randall.",
+      "wordCount": 9
+    },
+    {
+      "id": 101,
+      "index": 101,
+      "character": "RANDALL",
+      "gender": "Male",
+      "line": "Don't sweat it. You can pay me some other time. You're my boy.",
+      "wordCount": 13
+    },
+    {
+      "id": 102,
+      "index": 102,
+      "character": "RANDALL",
+      "gender": "Male",
+      "line": "But you didn't get it from me, okay?",
+      "wordCount": 8
+    },
+    {
+      "id": 103,
+      "index": 103,
+      "character": "GARY",
+      "gender": "Male",
+      "line": "Arthur,-- Hoyt wants to see you in his office.",
+      "wordCount": 9
+    },
+    {
+      "id": 104,
+      "index": 104,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "What for?",
+      "wordCount": 2
+    },
+    {
+      "id": 105,
+      "index": 105,
+      "character": "GARY",
+      "gender": "Male",
+      "line": "No clue.",
+      "wordCount": 2
+    },
+    {
+      "id": 106,
+      "index": 106,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Hey Hoyt. Gary said you wanted to see me?",
+      "wordCount": 9
+    },
+    {
+      "id": 107,
+      "index": 107,
+      "character": "HOYT",
+      "gender": "Male",
+      "line": "How's the comedy career? Are you a famous stand-up yet?",
+      "wordCount": 10
+    },
+    {
+      "id": 108,
+      "index": 108,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Not quite. Haven't even performed yet. Just been working my material. This business is all about fine- tuning.",
+      "wordCount": 18
+    },
+    {
+      "id": 109,
+      "index": 109,
+      "character": "HOYT",
+      "gender": "Male",
+      "line": "Right.",
+      "wordCount": 1
+    },
+    {
+      "id": 110,
+      "index": 110,
+      "character": "HOYT",
+      "gender": "Male",
+      "line": "Don't sit. This will be quick.",
+      "wordCount": 6
+    },
+    {
+      "id": 111,
+      "index": 111,
+      "character": "HOYT",
+      "gender": "Male",
+      "line": "Look, I like you, Arthur. A lot of the guys here, they think you're a freak. But I like you. I don't even know why I like you. I mean, you don't say much. It's probably that stupid laugh. It gets me every time. Kills me.",
+      "wordCount": 46
+    },
+    {
+      "id": 112,
+      "index": 112,
+      "character": "HOYT",
+      "gender": "Male",
+      "line": "But I got another complaint. And it's starting to piss me off.",
+      "wordCount": 12
+    },
+    {
+      "id": 113,
+      "index": 113,
+      "character": "HOYT",
+      "gender": "Male",
+      "line": "Kenny's Music. Sunday. The guy said you disappeared. Never even returned his sign.",
+      "wordCount": 13
+    },
+    {
+      "id": 114,
+      "index": 114,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "No. I got jumped. I told you about that.",
+      "wordCount": 9
+    },
+    {
+      "id": 115,
+      "index": 115,
+      "character": "HOYT",
+      "gender": "Male",
+      "line": "For a sign? Bullshit. It makes no sense, just give him his sign back. He's going out of business for god's--",
+      "wordCount": 21
+    },
+    {
+      "id": 116,
+      "index": 116,
+      "character": "HOYT",
+      "gender": "Male",
+      "line": "Hey!",
+      "wordCount": 1
+    },
+    {
+      "id": 117,
+      "index": 117,
+      "character": "HOYT",
+      "gender": "Male",
+      "line": "What the fuck, Arthur?!",
+      "wordCount": 4
+    },
+    {
+      "id": 118,
+      "index": 118,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "I don't have his sign.",
+      "wordCount": 5
+    },
+    {
+      "id": 119,
+      "index": 119,
+      "character": "MOM",
+      "gender": "NA",
+      "line": "--so what did he say when you gave him the letter?",
+      "wordCount": 11
+    },
+    {
+      "id": 120,
+      "index": 120,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "They wouldn't let me see him. But they promised me it would get to him.",
+      "wordCount": 15
+    },
+    {
+      "id": 121,
+      "index": 121,
+      "character": "MOM",
+      "gender": "NA",
+      "line": "It's good they promised. He only works with the best. We should hear something soon.",
+      "wordCount": 15
+    },
+    {
+      "id": 122,
+      "index": 122,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Look up.",
+      "wordCount": 2
+    },
+    {
+      "id": 123,
+      "index": 123,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Why are these letters so important to you, Ma? What do you think he's gonna do?",
+      "wordCount": 16
+    },
+    {
+      "id": 124,
+      "index": 124,
+      "character": "MOM",
+      "gender": "NA",
+      "line": "He's gonna help us.",
+      "wordCount": 4
+    },
+    {
+      "id": 125,
+      "index": 125,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Help us how?",
+      "wordCount": 3
+    },
+    {
+      "id": 126,
+      "index": 126,
+      "character": "MOM",
+      "gender": "NA",
+      "line": "Get us out of here, take me away from this place and these-- these awful people.",
+      "wordCount": 16
+    },
+    {
+      "id": 127,
+      "index": 127,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "You worked for him over 30 years ago. What makes you think he would help you?",
+      "wordCount": 16
+    },
+    {
+      "id": 128,
+      "index": 128,
+      "character": "MOM",
+      "gender": "NA",
+      "line": "Because Thomas Wayne is a good man. If he knew how I was living, if he saw this place, it would make him sick. I can't explain it to you any better than that.",
+      "wordCount": 34
+    },
+    {
+      "id": 129,
+      "index": 129,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "I don't want you worrying about money. Everyone's been telling me they think my stand-up is ready for the big clubs. It's just a matter of time before I get a break.",
+      "wordCount": 32
+    },
+    {
+      "id": 130,
+      "index": 130,
+      "character": "MOM",
+      "gender": "NA",
+      "line": "Happy, what makes you think you could do that?",
+      "wordCount": 9
+    },
+    {
+      "id": 131,
+      "index": 131,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "What do you mean?",
+      "wordCount": 4
+    },
+    {
+      "id": 132,
+      "index": 132,
+      "character": "MOM",
+      "gender": "NA",
+      "line": "I mean, don't you have to be funny to be a comedian?",
+      "wordCount": 12
+    },
+    {
+      "id": 133,
+      "index": 133,
+      "character": "MOM",
+      "gender": "NA",
+      "line": "HAPPY!? What was that?",
+      "wordCount": 4
+    },
+    {
+      "id": 134,
+      "index": 134,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "What?!",
+      "wordCount": 1
+    },
+    {
+      "id": 135,
+      "index": 135,
+      "character": "MOM",
+      "gender": "NA",
+      "line": "THAT NOISE! DID YOU HEAR THAT NOISE?",
+      "wordCount": 7
+    },
+    {
+      "id": 136,
+      "index": 136,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "I'M WATCHING AN OLD WAR MOVIE.",
+      "wordCount": 6
+    },
+    {
+      "id": 137,
+      "index": 137,
+      "character": "MOM",
+      "gender": "NA",
+      "line": "TURN IT DOWN!",
+      "wordCount": 3
+    },
+    {
+      "id": 138,
+      "index": 138,
+      "character": "MOM",
+      "gender": "NA",
+      "line": "It's so loud.",
+      "wordCount": 3
+    },
+    {
+      "id": 139,
+      "index": 139,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "I know. The Americans are really giving it to the Japs.",
+      "wordCount": 11
+    },
+    {
+      "id": 140,
+      "index": 140,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "I'm sorry. I'll turn it down.",
+      "wordCount": 6
+    },
+    {
+      "id": 141,
+      "index": 141,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Why didn't Randall tell me the gun was loaded? He's my friend. With my luck, I could have killed someone. I could have killed myself.",
+      "wordCount": 25
+    },
+    {
+      "id": 142,
+      "index": 142,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "I should have killed myself.",
+      "wordCount": 5
+    },
+    {
+      "id": 143,
+      "index": 143,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "I should kill myself.",
+      "wordCount": 4
+    },
+    {
+      "id": 144,
+      "index": 144,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Hello. I'd like to open an account.",
+      "wordCount": 7
+    },
+    {
+      "id": 145,
+      "index": 145,
+      "character": "SOPHIE",
+      "gender": "Female",
+      "line": "Hey, what are you doing up here?",
+      "wordCount": 7
+    },
+    {
+      "id": 146,
+      "index": 146,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Oh, hi. That's weird. I didn't know you worked at a bank.",
+      "wordCount": 12
+    },
+    {
+      "id": 147,
+      "index": 147,
+      "character": "SOPHIE",
+      "gender": "Female",
+      "line": "Pretty glamorous, right?",
+      "wordCount": 3
+    },
+    {
+      "id": 148,
+      "index": 148,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Very glamorous. Look at this place.",
+      "wordCount": 6
+    },
+    {
+      "id": 149,
+      "index": 149,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "I'm a comedian. I do stand-up comedy.",
+      "wordCount": 7
+    },
+    {
+      "id": 150,
+      "index": 150,
+      "character": "SOPHIE",
+      "gender": "Female",
+      "line": "Really? I had no idea.",
+      "wordCount": 5
+    },
+    {
+      "id": 151,
+      "index": 151,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Yeah. You know, I'm always making funny observations. Always on the look out for my next bit-- so it makes sense.",
+      "wordCount": 21
+    },
+    {
+      "id": 152,
+      "index": 152,
+      "character": "SOPHIE",
+      "gender": "Female",
+      "line": "Right. Anyway, is there something I could help you with?",
+      "wordCount": 10
+    },
+    {
+      "id": 153,
+      "index": 153,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "I said hi to my mom.",
+      "wordCount": 6
+    },
+    {
+      "id": 154,
+      "index": 154,
+      "character": "SOPHIE",
+      "gender": "Female",
+      "line": "Excuse me?",
+      "wordCount": 2
+    },
+    {
+      "id": 155,
+      "index": 155,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Last week. You said to say hi to my mom. I did. Made her day.",
+      "wordCount": 15
+    },
+    {
+      "id": 156,
+      "index": 156,
+      "character": "BRANCH MANAGER",
+      "gender": "NA",
+      "line": "Everything okay here?",
+      "wordCount": 3
+    },
+    {
+      "id": 157,
+      "index": 157,
+      "character": "SOPHIE",
+      "gender": "Female",
+      "line": "Everything is fine Mr. Slotnick.",
+      "wordCount": 5
+    },
+    {
+      "id": 158,
+      "index": 158,
+      "character": "SOPHIE",
+      "gender": "Female",
+      "line": "No. He's not. He's interested in opening an account.",
+      "wordCount": 9
+    },
+    {
+      "id": 159,
+      "index": 159,
+      "character": "BRANCH MANAGER",
+      "gender": "NA",
+      "line": "Great. You just need to fill out a form. They are back there-- against the wall.",
+      "wordCount": 16
+    },
+    {
+      "id": 160,
+      "index": 160,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Okay. Thank you, sir. And thank you as well, Miss.",
+      "wordCount": 10
+    },
+    {
+      "id": 161,
+      "index": 161,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "YOU KNOW WHAT?! I FORGOT MY ID! I'LL BE BACK. THANK YOU.",
+      "wordCount": 12
+    },
+    {
+      "id": 162,
+      "index": 162,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "--if you're happy and you know it and you really want to show it, if you're happy and you know it clap your hands.",
+      "wordCount": 24
+    },
+    {
+      "id": 163,
+      "index": 163,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "If you're happy and you know it, stomp your feet.",
+      "wordCount": 10
+    },
+    {
+      "id": 164,
+      "index": 164,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "If you're happy and you know it, stomp your feet. If you're happy and you know it and you really want to show it, if you're happy and you know it stomp your feet.",
+      "wordCount": 34
+    },
+    {
+      "id": 165,
+      "index": 165,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Hoyt, let me explain.",
+      "wordCount": 4
+    },
+    {
+      "id": 166,
+      "index": 166,
+      "character": "HOYT",
+      "gender": "Male",
+      "line": "Oh, this'll be good. Please tell me why you brought a gun into a sick kid's ward?",
+      "wordCount": 17
+    },
+    {
+      "id": 167,
+      "index": 167,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "It was, it was a prop gun. It's part of my act now.",
+      "wordCount": 13
+    },
+    {
+      "id": 168,
+      "index": 168,
+      "character": "HOYT",
+      "gender": "Male",
+      "line": "Bullshit. Jingles would never carry a fucking gun. Besides, Randall told me you tried to buy a .38 off him last week.",
+      "wordCount": 22
+    },
+    {
+      "id": 169,
+      "index": 169,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Randall told you that?",
+      "wordCount": 4
+    },
+    {
+      "id": 170,
+      "index": 170,
+      "character": "HOYT",
+      "gender": "Male",
+      "line": "He was with me when the call came in. You're a fuck up, Arthur. And a liar. You're fired.",
+      "wordCount": 19
+    },
+    {
+      "id": 171,
+      "index": 171,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Hoyt--",
+      "wordCount": 1
+    },
+    {
+      "id": 172,
+      "index": 172,
+      "character": "HOYT",
+      "gender": "Male",
+      "line": "Say it, Arthur. Let me hear you say it.",
+      "wordCount": 9
+    },
+    {
+      "id": 173,
+      "index": 173,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Say what?",
+      "wordCount": 2
+    },
+    {
+      "id": 174,
+      "index": 174,
+      "character": "HOYT",
+      "gender": "Male",
+      "line": "I'm a fuck up and I'm fired.",
+      "wordCount": 7
+    },
+    {
+      "id": 175,
+      "index": 175,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "--I'm a fuck up and I'm fired.",
+      "wordCount": 7
+    },
+    {
+      "id": 176,
+      "index": 176,
+      "character": "HOYT",
+      "gender": "Male",
+      "line": "Louder.",
+      "wordCount": 1
+    },
+    {
+      "id": 177,
+      "index": 177,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "I'm a fuck up and I'm fired.",
+      "wordCount": 7
+    },
+    {
+      "id": 178,
+      "index": 178,
+      "character": "HOYT",
+      "gender": "Male",
+      "line": "Yes. You are.",
+      "wordCount": 3
+    },
+    {
+      "id": 179,
+      "index": 179,
+      "character": "YOUNG WOMAN",
+      "gender": "NA",
+      "line": "No thank you.",
+      "wordCount": 3
+    },
+    {
+      "id": 180,
+      "index": 180,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Please. Don't.",
+      "wordCount": 2
+    },
+    {
+      "id": 181,
+      "index": 181,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Nothing. I have a condition--",
+      "wordCount": 5
+    },
+    {
+      "id": 182,
+      "index": 182,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "No. It's just my stuff. I don't have anything.",
+      "wordCount": 9
+    },
+    {
+      "id": 183,
+      "index": 183,
+      "character": "BOBBY SHORT",
+      "gender": "NA",
+      "line": "Just when I'd stopped opening doors Finally knowin' the one that I wanted was yours",
+      "wordCount": 15
+    },
+    {
+      "id": 184,
+      "index": 184,
+      "character": "BOBBY SHORT",
+      "gender": "NA",
+      "line": "Making my entrance again with my usual flair Sure of my lines No one is there",
+      "wordCount": 16
+    },
+    {
+      "id": 185,
+      "index": 185,
+      "character": "BOBBY SHORT",
+      "gender": "NA",
+      "line": "Don't you love farce? My fault I fear...",
+      "wordCount": 8
+    },
+    {
+      "id": 186,
+      "index": 186,
+      "character": "BOBBY SHORT",
+      "gender": "NA",
+      "line": "I thought that you'd want what I want. Sorry, my dear.",
+      "wordCount": 11
+    },
+    {
+      "id": 187,
+      "index": 187,
+      "character": "BOBBY SHORT",
+      "gender": "NA",
+      "line": "But where are the clowns? Quick, send in the clowns Don't bother they're here.",
+      "wordCount": 14
+    },
+    {
+      "id": 188,
+      "index": 188,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Hi. Do you like to laugh?",
+      "wordCount": 6
+    },
+    {
+      "id": 189,
+      "index": 189,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Remember how I told you that I'm a stand-up comedian? Hi. How are you?",
+      "wordCount": 14
+    },
+    {
+      "id": 190,
+      "index": 190,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Hi. Do you like to laugh?",
+      "wordCount": 6
+    },
+    {
+      "id": 191,
+      "index": 191,
+      "character": "SOPHIE",
+      "gender": "Female",
+      "line": "What?",
+      "wordCount": 1
+    },
+    {
+      "id": 192,
+      "index": 192,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Remember the other day when I told you about my stand-up comedy. Well, I'm doing a set next Thursday and I'm inviting a bunch of my friends and I was wondering if maybe you wanted to come and check it out.",
+      "wordCount": 41
+    },
+    {
+      "id": 193,
+      "index": 193,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Were you crying? Why are you crying?",
+      "wordCount": 7
+    },
+    {
+      "id": 194,
+      "index": 194,
+      "character": "SOPHIE",
+      "gender": "Female",
+      "line": "I had a bad day.",
+      "wordCount": 5
+    },
+    {
+      "id": 195,
+      "index": 195,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "I'm sorry. I, I didn't--",
+      "wordCount": 5
+    },
+    {
+      "id": 196,
+      "index": 196,
+      "character": "SOPHIE",
+      "gender": "Female",
+      "line": "It's okay. How would you know.",
+      "wordCount": 6
+    },
+    {
+      "id": 197,
+      "index": 197,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "What happened?",
+      "wordCount": 2
+    },
+    {
+      "id": 198,
+      "index": 198,
+      "character": "SOPHIE",
+      "gender": "Female",
+      "line": "I got fired. From the bank.",
+      "wordCount": 6
+    },
+    {
+      "id": 199,
+      "index": 199,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "What for?",
+      "wordCount": 2
+    },
+    {
+      "id": 200,
+      "index": 200,
+      "character": "SOPHIE",
+      "gender": "Female",
+      "line": "Because,-- I don't know. It doesn't fucking matter. I don't know what I'm gonna do.",
+      "wordCount": 15
+    },
+    {
+      "id": 201,
+      "index": 201,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Okay. Well, all the info is right there on the flyer.",
+      "wordCount": 11
+    },
+    {
+      "id": 202,
+      "index": 202,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "You know they say laughter is the best medicine.",
+      "wordCount": 9
+    },
+    {
+      "id": 203,
+      "index": 203,
+      "character": "SOPHIE",
+      "gender": "Female",
+      "line": "Is that what they say?",
+      "wordCount": 5
+    },
+    {
+      "id": 204,
+      "index": 204,
+      "character": "SOCIAL WORKER",
+      "gender": "Female",
+      "line": "We spoke about this last time, Arthur. You're supposed to bring your journal with you.",
+      "wordCount": 15
+    },
+    {
+      "id": 205,
+      "index": 205,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Well I didn't think you were going to read it.",
+      "wordCount": 10
+    },
+    {
+      "id": 206,
+      "index": 206,
+      "character": "SOCIAL WORKER",
+      "gender": "Female",
+      "line": "You said it didn't bother you.",
+      "wordCount": 6
+    },
+    {
+      "id": 207,
+      "index": 207,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "I lied. Everything bothers me.",
+      "wordCount": 5
+    },
+    {
+      "id": 208,
+      "index": 208,
+      "character": "SOCIAL WORKER",
+      "gender": "Female",
+      "line": "What about it bothered you?",
+      "wordCount": 5
+    },
+    {
+      "id": 209,
+      "index": 209,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "It's personal. It's my private thoughts. Plus it contains original comedy material that I don't feel comfortable handing over to you.",
+      "wordCount": 21
+    },
+    {
+      "id": 210,
+      "index": 210,
+      "character": "SOCIAL WORKER",
+      "gender": "Female",
+      "line": "Arthur, I have some bad news for you.",
+      "wordCount": 8
+    },
+    {
+      "id": 211,
+      "index": 211,
+      "character": "SOCIAL WORKER",
+      "gender": "Female",
+      "line": "They've cut our funding. We're closing down our offices next week.",
+      "wordCount": 11
+    },
+    {
+      "id": 212,
+      "index": 212,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "So where will we be meeting?",
+      "wordCount": 6
+    },
+    {
+      "id": 213,
+      "index": 213,
+      "character": "SOCIAL WORKER",
+      "gender": "Female",
+      "line": "We won't be. The city's cut funding across the board. Social services is part of that.",
+      "wordCount": 16
+    },
+    {
+      "id": 214,
+      "index": 214,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Okay.",
+      "wordCount": 1
+    },
+    {
+      "id": 215,
+      "index": 215,
+      "character": "SOCIAL WORKER",
+      "gender": "Female",
+      "line": "They don't give a shit about people like you, Arthur. You don't have a voice and they don't really care what happens to you or to us for that matter.",
+      "wordCount": 30
+    },
+    {
+      "id": 216,
+      "index": 216,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "How am I gonna get my medication?",
+      "wordCount": 7
+    },
+    {
+      "id": 217,
+      "index": 217,
+      "character": "MOM",
+      "gender": "NA",
+      "line": "Happy! Come in here. Thomas Wayne is on TV.",
+      "wordCount": 9
+    },
+    {
+      "id": 218,
+      "index": 218,
+      "character": "MOM",
+      "gender": "NA",
+      "line": "Quick! Come.",
+      "wordCount": 2
+    },
+    {
+      "id": 219,
+      "index": 219,
+      "character": "MOM",
+      "gender": "NA",
+      "line": "They're interviewing him about those horrible murders on the subway last week.",
+      "wordCount": 12
+    },
+    {
+      "id": 220,
+      "index": 220,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Why are they talking to him?",
+      "wordCount": 6
+    },
+    {
+      "id": 221,
+      "index": 221,
+      "character": "THOMAS WAYNE",
+      "gender": "Male",
+      "line": "--as you know, Jerry, all three of them worked at Wayne Investments, and they were the best of the best. Solid young men.",
+      "wordCount": 23
+    },
+    {
+      "id": 222,
+      "index": 222,
+      "character": "THOMAS WAYNE",
+      "gender": "Male",
+      "line": "And while I didn't know them personally, like all Wayne employees, past and present, they were family.",
+      "wordCount": 17
+    },
+    {
+      "id": 223,
+      "index": 223,
+      "character": "MOM",
+      "gender": "NA",
+      "line": "You hear that! I told you. We're family.",
+      "wordCount": 8
+    },
+    {
+      "id": 224,
+      "index": 224,
+      "character": "THOMAS WAYNE",
+      "gender": "Male",
+      "line": "Yes and it's a shame. It's one of the reasons I'm considering a run for mayor. Gotham has lost its way.",
+      "wordCount": 21
+    },
+    {
+      "id": 225,
+      "index": 225,
+      "character": "THOMAS WAYNE",
+      "gender": "Male",
+      "line": "No comment.",
+      "wordCount": 2
+    },
+    {
+      "id": 226,
+      "index": 226,
+      "character": "THOMAS WAYNE",
+      "gender": "Male",
+      "line": "It makes total sense to me. What kind of coward would do something that cold-blooded? Someone who hides behind a mask. Someone who's envious of those more fortunate than themselves, yet too scared to show their own face. And until that jealousy ends, those of us who've made a good life for ourselves will always look at those who haven't as nothing but clowns.",
+      "wordCount": 64
+    },
+    {
+      "id": 227,
+      "index": 227,
+      "character": "EMCEE",
+      "gender": "NA",
+      "line": "This next comic describes himself as a lifelong Gotham resident who from a young age was always told that \"his purpose in life was to bring joy and laughter into this cold, dark world.\" Ummm. Okay.",
+      "wordCount": 36
+    },
+    {
+      "id": 228,
+      "index": 228,
+      "character": "EMCEE",
+      "gender": "NA",
+      "line": "Please help me welcome Arthur Fleck!",
+      "wordCount": 6
+    },
+    {
+      "id": 229,
+      "index": 229,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "-- good evening, hello. Good to be here. I, I hated school as a kid. But my mother would always say,-- \"You should enjoy it. One day you'll have to work for a living.\" \"No I won't, Ma. I'm gonna be a comedian!\"",
+      "wordCount": 43
+    },
+    {
+      "id": 230,
+      "index": 230,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "So, did you laugh? Really couldn't see much from up there.",
+      "wordCount": 11
+    },
+    {
+      "id": 231,
+      "index": 231,
+      "character": "SOPHIE",
+      "gender": "Female",
+      "line": "Of course. Yeah. You couldn't hear anything?",
+      "wordCount": 7
+    },
+    {
+      "id": 232,
+      "index": 232,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "All I heard was my heart pounding.",
+      "wordCount": 7
+    },
+    {
+      "id": 233,
+      "index": 233,
+      "character": "SOPHIE",
+      "gender": "Female",
+      "line": "It was good. I really needed to get out of my apartment so, thanks. What happened to the rest of your friends?",
+      "wordCount": 22
+    },
+    {
+      "id": 234,
+      "index": 234,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "What friends?",
+      "wordCount": 2
+    },
+    {
+      "id": 235,
+      "index": 235,
+      "character": "SOPHIE",
+      "gender": "Female",
+      "line": "Didn't you say some of your friends were coming?",
+      "wordCount": 9
+    },
+    {
+      "id": 236,
+      "index": 236,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Yeah, I decided not to invite them. As a performer sometimes you want to see how a \"real\" crowd reacts. People who don't already love me, or, or have a notion of who I am, you know?",
+      "wordCount": 37
+    },
+    {
+      "id": 237,
+      "index": 237,
+      "character": "SOPHIE",
+      "gender": "Female",
+      "line": "Yeah. I get that.",
+      "wordCount": 4
+    },
+    {
+      "id": 238,
+      "index": 238,
+      "character": "SOPHIE",
+      "gender": "Female",
+      "line": "You believe that shit?",
+      "wordCount": 4
+    },
+    {
+      "id": 239,
+      "index": 239,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Yeah,-- I don't know how something like that happens.",
+      "wordCount": 9
+    },
+    {
+      "id": 240,
+      "index": 240,
+      "character": "SOPHIE",
+      "gender": "Female",
+      "line": "Please. I'll bet you five bucks those rich assholes deserved it.",
+      "wordCount": 11
+    },
+    {
+      "id": 241,
+      "index": 241,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "You think?",
+      "wordCount": 2
+    },
+    {
+      "id": 242,
+      "index": 242,
+      "character": "SOPHIE",
+      "gender": "Female",
+      "line": "Look at their faces. Those smug smiles. I've seen that look. Fuck them.",
+      "wordCount": 13
+    },
+    {
+      "id": 243,
+      "index": 243,
+      "character": "SOPHIE",
+      "gender": "Female",
+      "line": "The guy who did it is a hero. Three less pricks in Gotham City. Woo- hoo! Only a million more to go.",
+      "wordCount": 22
+    },
+    {
+      "id": 244,
+      "index": 244,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Hey. You want to get some coffee?",
+      "wordCount": 7
+    },
+    {
+      "id": 245,
+      "index": 245,
+      "character": "SOPHIE",
+      "gender": "Female",
+      "line": "--I'm telling you, it's across the board. Wall Street, the banks, politicians. They've been making a killing for years. Fuck them.",
+      "wordCount": 21
+    },
+    {
+      "id": 246,
+      "index": 246,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "I don't know.",
+      "wordCount": 3
+    },
+    {
+      "id": 247,
+      "index": 247,
+      "character": "SOPHIE",
+      "gender": "Female",
+      "line": "What don't you know?",
+      "wordCount": 4
+    },
+    {
+      "id": 248,
+      "index": 248,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Not all of them are awful. Take someone like Thomas Wayne for example. He's a hero.",
+      "wordCount": 16
+    },
+    {
+      "id": 249,
+      "index": 249,
+      "character": "SOPHIE",
+      "gender": "Female",
+      "line": "Oh c'mon, he's the worst!",
+      "wordCount": 5
+    },
+    {
+      "id": 250,
+      "index": 250,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Sophie, he's the only one who can save this city.",
+      "wordCount": 10
+    },
+    {
+      "id": 251,
+      "index": 251,
+      "character": "SOPHIE",
+      "gender": "Female",
+      "line": "You can't be serious!? He's a complete narcissist. Brags about his money. Meanwhile, the rest of us can barely make rent. Or feed our kids.",
+      "wordCount": 25
+    },
+    {
+      "id": 252,
+      "index": 252,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "What happened?",
+      "wordCount": 2
+    },
+    {
+      "id": 253,
+      "index": 253,
+      "character": "SOPHIE",
+      "gender": "Female",
+      "line": "With what?",
+      "wordCount": 2
+    },
+    {
+      "id": 254,
+      "index": 254,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "With your job. At the bank?",
+      "wordCount": 6
+    },
+    {
+      "id": 255,
+      "index": 255,
+      "character": "SOPHIE",
+      "gender": "Female",
+      "line": "Oh. Yeah, I was, um,--",
+      "wordCount": 5
+    },
+    {
+      "id": 256,
+      "index": 256,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "We don't have to talk about it.",
+      "wordCount": 7
+    },
+    {
+      "id": 257,
+      "index": 257,
+      "character": "SOPHIE",
+      "gender": "Female",
+      "line": "Have you ever been fired before?",
+      "wordCount": 6
+    },
+    {
+      "id": 258,
+      "index": 258,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Every time.",
+      "wordCount": 2
+    },
+    {
+      "id": 259,
+      "index": 259,
+      "character": "SOPHIE",
+      "gender": "Female",
+      "line": "And have you ever wanted to torch the place?",
+      "wordCount": 9
+    },
+    {
+      "id": 260,
+      "index": 260,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Every time.",
+      "wordCount": 2
+    },
+    {
+      "id": 261,
+      "index": 261,
+      "character": "SOPHIE",
+      "gender": "Female",
+      "line": "Right. And this was like the first good job I had in like, years. Not waitressing or anything like that. It was 9-5. I had benefits. You know what that means when you have a kid?",
+      "wordCount": 36
+    },
+    {
+      "id": 262,
+      "index": 262,
+      "character": "SOPHIE",
+      "gender": "Female",
+      "line": "But from the very first day, the manager guy starts smiling at me, whispering in my ear, touching me, trying to get me to sleep with him--",
+      "wordCount": 27
+    },
+    {
+      "id": 263,
+      "index": 263,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Did you do it? Did you go to bed with him?",
+      "wordCount": 11
+    },
+    {
+      "id": 264,
+      "index": 264,
+      "character": "SOPHIE",
+      "gender": "Female",
+      "line": "Fuck no. The guy's a fucking pig. So finally I complained to his boss, and they fired me... And now, now I don't know what to do with myself.",
+      "wordCount": 29
+    },
+    {
+      "id": 265,
+      "index": 265,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Right. Wait, what do you mean?",
+      "wordCount": 6
+    },
+    {
+      "id": 266,
+      "index": 266,
+      "character": "SOPHIE",
+      "gender": "Female",
+      "line": "I finally felt good. Like I had a future. A purpose. And now I don't even know how I'm gonna pay my rent.",
+      "wordCount": 23
+    },
+    {
+      "id": 267,
+      "index": 267,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "I'm sorry. I have this thing--",
+      "wordCount": 6
+    },
+    {
+      "id": 268,
+      "index": 268,
+      "character": "SOPHIE",
+      "gender": "Female",
+      "line": "I know.",
+      "wordCount": 2
+    },
+    {
+      "id": 269,
+      "index": 269,
+      "character": "SOPHIE",
+      "gender": "Female",
+      "line": "How did you get it?",
+      "wordCount": 5
+    },
+    {
+      "id": 270,
+      "index": 270,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "I don't know. I read you can get it from a brain injury or, or a lesion in there. My mom said I was born this way. Born laughing.",
+      "wordCount": 29
+    },
+    {
+      "id": 271,
+      "index": 271,
+      "character": "SOPHIE",
+      "gender": "Female",
+      "line": "Is that why she calls you Happy?",
+      "wordCount": 7
+    },
+    {
+      "id": 272,
+      "index": 272,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Kind of. That actually started when I was a kid. The other kids made fun of me, called me Happy-- but not in a good way. I got so sick of it, one day when I was about ten, I, I,--",
+      "wordCount": 41
+    },
+    {
+      "id": 273,
+      "index": 273,
+      "character": "SOPHIE",
+      "gender": "Female",
+      "line": "What?",
+      "wordCount": 1
+    },
+    {
+      "id": 274,
+      "index": 274,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "I took a razor and cut this smile onto my face. Sort of like \"You want happy? Here, how's this for happy?\"",
+      "wordCount": 22
+    },
+    {
+      "id": 275,
+      "index": 275,
+      "character": "SOPHIE",
+      "gender": "Female",
+      "line": "You okay?",
+      "wordCount": 2
+    },
+    {
+      "id": 276,
+      "index": 276,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "I've been thinking about this night my whole life.",
+      "wordCount": 9
+    },
+    {
+      "id": 277,
+      "index": 277,
+      "character": "MURRAY FRANKLIN",
+      "gender": "Male",
+      "line": "Good night! And always remember,-- That's life.",
+      "wordCount": 7
+    },
+    {
+      "id": 278,
+      "index": 278,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "\"That's life.\"",
+      "wordCount": 2
+    },
+    {
+      "id": 279,
+      "index": 279,
+      "character": "MOM",
+      "gender": "NA",
+      "line": "--what, what time is it?",
+      "wordCount": 5
+    },
+    {
+      "id": 280,
+      "index": 280,
+      "character": "MOM",
+      "gender": "NA",
+      "line": "What happened? Did you hurt yourself again?",
+      "wordCount": 7
+    },
+    {
+      "id": 281,
+      "index": 281,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "What is this? How come you never told me?",
+      "wordCount": 9
+    },
+    {
+      "id": 282,
+      "index": 282,
+      "character": "MOM",
+      "gender": "NA",
+      "line": "Is, is that my letter? Is that my letter, Happy?",
+      "wordCount": 10
+    },
+    {
+      "id": 283,
+      "index": 283,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "How could you not tell me, Ma?",
+      "wordCount": 7
+    },
+    {
+      "id": 284,
+      "index": 284,
+      "character": "MOM",
+      "gender": "NA",
+      "line": "You told me you dropped it off. You have no right opening my mail. Who do you think you are?",
+      "wordCount": 20
+    },
+    {
+      "id": 285,
+      "index": 285,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "",
+      "wordCount": 1
+    },
+    {
+      "id": 286,
+      "index": 286,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Apparently I'm Thomas Wayne's son! How could you keep that from me?",
+      "wordCount": 12
+    },
+    {
+      "id": 287,
+      "index": 287,
+      "character": "MOM",
+      "gender": "NA",
+      "line": "Stop yelling at me, you're gonna kill me, give me a heart attack!",
+      "wordCount": 13
+    },
+    {
+      "id": 288,
+      "index": 288,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "I'm not yelling! I'm just, excited. How can any of this be real!? How can Thomas Wayne be my father?",
+      "wordCount": 20
+    },
+    {
+      "id": 289,
+      "index": 289,
+      "character": "MOM",
+      "gender": "NA",
+      "line": "I'm not talking to you until you calm down.",
+      "wordCount": 9
+    },
+    {
+      "id": 290,
+      "index": 290,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Okay. How's this, Mom? Better? Will you please talk to me?",
+      "wordCount": 11
+    },
+    {
+      "id": 291,
+      "index": 291,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Please.",
+      "wordCount": 1
+    },
+    {
+      "id": 292,
+      "index": 292,
+      "character": "MOM",
+      "gender": "NA",
+      "line": "He is an extraordinary man, Arthur. We had a connection. I was so beautiful then. We were in love.",
+      "wordCount": 19
+    },
+    {
+      "id": 293,
+      "index": 293,
+      "character": "MOM",
+      "gender": "NA",
+      "line": "His wife could see it. She was jealous from the moment I started working there. She fired me before I even knew I was pregnant with you.",
+      "wordCount": 27
+    },
+    {
+      "id": 294,
+      "index": 294,
+      "character": "MOM",
+      "gender": "NA",
+      "line": "And, I never told him or anybody because, well, you can imagine what people would say about Thomas and me, and, and what they would say about you.",
+      "wordCount": 28
+    },
+    {
+      "id": 295,
+      "index": 295,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "What would they say, Ma?",
+      "wordCount": 5
+    },
+    {
+      "id": 296,
+      "index": 296,
+      "character": "MOM",
+      "gender": "NA",
+      "line": "That I was a whore, and Thomas Wayne was a fornicator, and that you're a little, unwanted bastard.",
+      "wordCount": 18
+    },
+    {
+      "id": 297,
+      "index": 297,
+      "character": "GARY",
+      "gender": "Male",
+      "line": "Hey Art, I heard what happened-- I'm sorry man.",
+      "wordCount": 9
+    },
+    {
+      "id": 298,
+      "index": 298,
+      "character": "RANDALL",
+      "gender": "Male",
+      "line": "Yeah, Hoyt did you wrong, buddy. Doesn't seem fair.",
+      "wordCount": 9
+    },
+    {
+      "id": 299,
+      "index": 299,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "It was a prop gun. And I didn't pull it out, it fell out.",
+      "wordCount": 14
+    },
+    {
+      "id": 300,
+      "index": 300,
+      "character": "MAGICIAN",
+      "gender": "NA",
+      "line": "So is that part of your new act? If your singing doesn't do the trick, you just gonna shoot yourself?",
+      "wordCount": 20
+    },
+    {
+      "id": 301,
+      "index": 301,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Why don't you ask Randall about it? It was his idea.",
+      "wordCount": 11
+    },
+    {
+      "id": 302,
+      "index": 302,
+      "character": "GARY",
+      "gender": "Male",
+      "line": "Since when do you use a prop gun?",
+      "wordCount": 8
+    },
+    {
+      "id": 303,
+      "index": 303,
+      "character": "RANDALL",
+      "gender": "Male",
+      "line": "What? I don't. Stop talking outta your ass, Art!",
+      "wordCount": 9
+    },
+    {
+      "id": 304,
+      "index": 304,
+      "character": "RANDALL",
+      "gender": "Male",
+      "line": "I think all his stupid laughing musta scrambled his brain or something.",
+      "wordCount": 12
+    },
+    {
+      "id": 305,
+      "index": 305,
+      "character": "RANDALL",
+      "gender": "Male",
+      "line": "Art! Hold up,--",
+      "wordCount": 3
+    },
+    {
+      "id": 306,
+      "index": 306,
+      "character": "RANDALL",
+      "gender": "Male",
+      "line": "What the fuck was that about?",
+      "wordCount": 6
+    },
+    {
+      "id": 307,
+      "index": 307,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "What?",
+      "wordCount": 1
+    },
+    {
+      "id": 308,
+      "index": 308,
+      "character": "RANDALL",
+      "gender": "Male",
+      "line": "Why would you say that? That, that it was my idea.",
+      "wordCount": 11
+    },
+    {
+      "id": 309,
+      "index": 309,
+      "character": "RANDALL",
+      "gender": "Male",
+      "line": "You don't get it, do you, buddy, that shit that went down on the subway, that's no joke. They got clown sketches on the front of every fucking paper. It's just a matter of time before the cops come around.",
+      "wordCount": 40
+    },
+    {
+      "id": 310,
+      "index": 310,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "I don't know anything about it.",
+      "wordCount": 6
+    },
+    {
+      "id": 311,
+      "index": 311,
+      "character": "RANDALL",
+      "gender": "Male",
+      "line": "Art, you know you're my boy. I'm not gonna say shit. I just hope you got rid of that gun. That can't come back on me, okay?",
+      "wordCount": 27
+    },
+    {
+      "id": 312,
+      "index": 312,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Randall, I didn't shoot anybody. That wasn't me. And I don't have time for this, I got somebody real important I gotta go see.",
+      "wordCount": 24
+    },
+    {
+      "id": 313,
+      "index": 313,
+      "character": "RANDALL",
+      "gender": "Male",
+      "line": "You know they're sellin' masks.",
+      "wordCount": 5
+    },
+    {
+      "id": 314,
+      "index": 314,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "What?",
+      "wordCount": 1
+    },
+    {
+      "id": 315,
+      "index": 315,
+      "character": "RANDALL",
+      "gender": "Male",
+      "line": "They're selling masks of your clown face,-- based off the description I guess. It's like a thing now.",
+      "wordCount": 18
+    },
+    {
+      "id": 316,
+      "index": 316,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "What are you talking about?",
+      "wordCount": 5
+    },
+    {
+      "id": 317,
+      "index": 317,
+      "character": "RANDALL",
+      "gender": "Male",
+      "line": "There's a lot of people in this city who are happy you did what you did. If you did it.",
+      "wordCount": 20
+    },
+    {
+      "id": 318,
+      "index": 318,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Randall. Your nose.",
+      "wordCount": 3
+    },
+    {
+      "id": 319,
+      "index": 319,
+      "character": "RANDALL",
+      "gender": "Male",
+      "line": "What?",
+      "wordCount": 1
+    },
+    {
+      "id": 320,
+      "index": 320,
+      "character": "ALFRED",
+      "gender": "Male",
+      "line": "Bruce! What are you doing? Get away from that man.",
+      "wordCount": 10
+    },
+    {
+      "id": 321,
+      "index": 321,
+      "character": "ALFRED",
+      "gender": "Male",
+      "line": "What are you doing? Who are you?",
+      "wordCount": 7
+    },
+    {
+      "id": 322,
+      "index": 322,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "My name's Arthur. I'm here to see Mr. Wayne--",
+      "wordCount": 9
+    },
+    {
+      "id": 323,
+      "index": 323,
+      "character": "ALFRED",
+      "gender": "Male",
+      "line": "You shouldn't be talking to his son. Why did you give him those flowers?",
+      "wordCount": 14
+    },
+    {
+      "id": 324,
+      "index": 324,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "I, I was just trying to make him laugh.",
+      "wordCount": 9
+    },
+    {
+      "id": 325,
+      "index": 325,
+      "character": "ALFRED",
+      "gender": "Male",
+      "line": "Well it's not funny. Do I need to call the police?",
+      "wordCount": 11
+    },
+    {
+      "id": 326,
+      "index": 326,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "No, please. My mother's name is Penny Fleck. She used to work here, years ago. Can you tell Mr. Wayne that I need to see him?",
+      "wordCount": 26
+    },
+    {
+      "id": 327,
+      "index": 327,
+      "character": "ALFRED",
+      "gender": "Male",
+      "line": "You're her son?",
+      "wordCount": 3
+    },
+    {
+      "id": 328,
+      "index": 328,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Did you know her?",
+      "wordCount": 4
+    },
+    {
+      "id": 329,
+      "index": 329,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "You don't need to cover for them. I'm sure Mrs. Wayne was very upset when she found out.",
+      "wordCount": 18
+    },
+    {
+      "id": 330,
+      "index": 330,
+      "character": "ALFRED",
+      "gender": "Male",
+      "line": "There was nothing to find out about. Your mother was, was delusional. She was a sick woman.",
+      "wordCount": 17
+    },
+    {
+      "id": 331,
+      "index": 331,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "No. No, just let me speak to Mr. Wayne.",
+      "wordCount": 9
+    },
+    {
+      "id": 332,
+      "index": 332,
+      "character": "ALFRED",
+      "gender": "Male",
+      "line": "Please just go, before you make a fool of yourself.",
+      "wordCount": 10
+    },
+    {
+      "id": 333,
+      "index": 333,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Thomas Wayne is my father--",
+      "wordCount": 5
+    },
+    {
+      "id": 334,
+      "index": 334,
+      "character": "DET. GARRITY",
+      "gender": "NA",
+      "line": "Mr. Fleck, sorry to bother you, I'm Detective Garrity, this is my partner Detective Burke.",
+      "wordCount": 15
+    },
+    {
+      "id": 335,
+      "index": 335,
+      "character": "DET. GARRITY",
+      "gender": "NA",
+      "line": "We had a few questions for you, but you weren't home. So we spoke to your mother.",
+      "wordCount": 17
+    },
+    {
+      "id": 336,
+      "index": 336,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "You did this to her?",
+      "wordCount": 5
+    },
+    {
+      "id": 337,
+      "index": 337,
+      "character": "DET. GARRITY",
+      "gender": "NA",
+      "line": "What? No. We just asked her some questions and she started getting hysterical-- hyperventilating, trouble speaking-- then she collapsed. Hit her head pretty hard.",
+      "wordCount": 24
+    },
+    {
+      "id": 338,
+      "index": 338,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "They told me she had a stroke.",
+      "wordCount": 7
+    },
+    {
+      "id": 339,
+      "index": 339,
+      "character": "DET. GARRITY",
+      "gender": "NA",
+      "line": "Sorry to hear that.",
+      "wordCount": 4
+    },
+    {
+      "id": 340,
+      "index": 340,
+      "character": "DET. BURKE",
+      "gender": "NA",
+      "line": "I'm lost. Is something funny?",
+      "wordCount": 5
+    },
+    {
+      "id": 341,
+      "index": 341,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "No I,-- I have a, a--",
+      "wordCount": 6
+    },
+    {
+      "id": 342,
+      "index": 342,
+      "character": "DET. BURKE",
+      "gender": "NA",
+      "line": "Okay. But we have some questions for you.",
+      "wordCount": 8
+    },
+    {
+      "id": 343,
+      "index": 343,
+      "character": "DET. GARRITY",
+      "gender": "NA",
+      "line": "About those subway killings from a few weeks ago.",
+      "wordCount": 9
+    },
+    {
+      "id": 344,
+      "index": 344,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "I don't know anything about that.",
+      "wordCount": 6
+    },
+    {
+      "id": 345,
+      "index": 345,
+      "character": "DET. GARRITY",
+      "gender": "NA",
+      "line": "We have an eyewitness who described a white male, about 6 feet tall, in clown make up. Or a clown mask. Spoke to your boss at Ha-Ha's, Mr. Vaughn, and he said you were on a job the day of the shooting.",
+      "wordCount": 42
+    },
+    {
+      "id": 346,
+      "index": 346,
+      "character": "DET. GARRITY",
+      "gender": "NA",
+      "line": "He also said you got fired that day,-- For bringing a gun into the children's hospital.",
+      "wordCount": 16
+    },
+    {
+      "id": 347,
+      "index": 347,
+      "character": "DET. GARRITY",
+      "gender": "NA",
+      "line": "You weren't fired?",
+      "wordCount": 3
+    },
+    {
+      "id": 348,
+      "index": 348,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Not for having a gun. That was prop gun. Part of my act.",
+      "wordCount": 13
+    },
+    {
+      "id": 349,
+      "index": 349,
+      "character": "DET. BURKE",
+      "gender": "NA",
+      "line": "So why were you fired?",
+      "wordCount": 5
+    },
+    {
+      "id": 350,
+      "index": 350,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "They said I wasn't funny.",
+      "wordCount": 5
+    },
+    {
+      "id": 351,
+      "index": 351,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Now, if you don't mind, I have to go back and look after my mother.",
+      "wordCount": 15
+    },
+    {
+      "id": 352,
+      "index": 352,
+      "character": "DET. BURKE",
+      "gender": "NA",
+      "line": "Hey lemme ask you a question? This condition of yours,-- Is this real or is this like some sorta clown thing?",
+      "wordCount": 21
+    },
+    {
+      "id": 353,
+      "index": 353,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Clown thing?",
+      "wordCount": 2
+    },
+    {
+      "id": 354,
+      "index": 354,
+      "character": "DET. BURKE",
+      "gender": "NA",
+      "line": "I mean, is it part of your act?",
+      "wordCount": 8
+    },
+    {
+      "id": 355,
+      "index": 355,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "What do you think?",
+      "wordCount": 4
+    },
+    {
+      "id": 356,
+      "index": 356,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Excuse me, I was wondering how I could check my mother out of here?",
+      "wordCount": 14
+    },
+    {
+      "id": 357,
+      "index": 357,
+      "character": "ER NURSE",
+      "gender": "NA",
+      "line": "What's your mother's name?",
+      "wordCount": 4
+    },
+    {
+      "id": 358,
+      "index": 358,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Penny Fleck. I'd like to take her home.",
+      "wordCount": 8
+    },
+    {
+      "id": 359,
+      "index": 359,
+      "character": "ER RESIDENT",
+      "gender": "NA",
+      "line": "Mr. Fleck, your mother had a stroke. It's very serious. You can't \"check her out.\" She's gonna be here for at least a week.",
+      "wordCount": 24
+    },
+    {
+      "id": 360,
+      "index": 360,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "She's not gonna wanna stay that long. She doesn't like hospitals. Or doctors.",
+      "wordCount": 13
+    },
+    {
+      "id": 361,
+      "index": 361,
+      "character": "ER RESIDENT",
+      "gender": "NA",
+      "line": "I'm sorry to hear that. But she can't just leave.",
+      "wordCount": 10
+    },
+    {
+      "id": 362,
+      "index": 362,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "I don't like hospitals either.",
+      "wordCount": 5
+    },
+    {
+      "id": 363,
+      "index": 363,
+      "character": "ER RESIDENT",
+      "gender": "NA",
+      "line": "Listen, I wanted to talk you about something we noticed in her tox report. We found heavy traces of multiple medications in her system.",
+      "wordCount": 24
+    },
+    {
+      "id": 364,
+      "index": 364,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Okay. Thanks.",
+      "wordCount": 2
+    },
+    {
+      "id": 365,
+      "index": 365,
+      "character": "ER RESIDENT",
+      "gender": "NA",
+      "line": "One of them's perphenazine. It's a powerful anti-psychotic. If she was taking that regularly and then suddenly stopped, the withdrawal could have contributed to her stroke. Did you notice any symptoms?",
+      "wordCount": 31
+    },
+    {
+      "id": 366,
+      "index": 366,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Symptoms?",
+      "wordCount": 1
+    },
+    {
+      "id": 367,
+      "index": 367,
+      "character": "ER RESIDENT",
+      "gender": "NA",
+      "line": "Withdrawal symptoms. Nausea... anxiety... hallucinations.",
+      "wordCount": 5
+    },
+    {
+      "id": 368,
+      "index": 368,
+      "character": "ER RESIDENT",
+      "gender": "NA",
+      "line": "Do you know how long she's been taking it?",
+      "wordCount": 9
+    },
+    {
+      "id": 369,
+      "index": 369,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Can you tell me what those symptoms are again?",
+      "wordCount": 9
+    },
+    {
+      "id": 370,
+      "index": 370,
+      "character": "MURRAY FRANKLIN",
+      "gender": "Male",
+      "line": "So I told my youngest son, Tommy, remember he's the 'not so bright' one,-- I told him that the garbage strike is still going on. And he says, and I'm not kidding, Tommy says, \"So where are we gonna get all our garbage from?\"",
+      "wordCount": 44
+    },
+    {
+      "id": 371,
+      "index": 371,
+      "character": "MURRAY FRANKLIN",
+      "gender": "Male",
+      "line": "And finally, in a world where everyone thinks they could do my job, we got this videotape from the Gotham Comedy Club. Here's a guy who thinks if you just keep laughing, it'll somehow make you funny. Check out this joker.",
+      "wordCount": 41
+    },
+    {
+      "id": 372,
+      "index": 372,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "-- good evening, hello. Good to be here. I, I hated school as a kid. But my mother would always say,-- \"You should enjoy it. One day you'll have to work for a living.\" \"No I won't, Ma. I'm gonna be a comedian!\"",
+      "wordCount": 43
+    },
+    {
+      "id": 373,
+      "index": 373,
+      "character": "MURRAY FRANKLIN",
+      "gender": "Male",
+      "line": "You should have listened to your mother.",
+      "wordCount": 7
+    },
+    {
+      "id": 374,
+      "index": 374,
+      "character": "MURRAY FRANKLIN",
+      "gender": "Male",
+      "line": "One more, Bernie. Let's see one more. I love this guy.",
+      "wordCount": 11
+    },
+    {
+      "id": 375,
+      "index": 375,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "It's funny, when I was a little boy and told people I wanted to be a comedian, everyone laughed at me. Well no one is laughing now.",
+      "wordCount": 27
+    },
+    {
+      "id": 376,
+      "index": 376,
+      "character": "MURRAY FRANKLIN",
+      "gender": "Male",
+      "line": "You can say that again, pal!",
+      "wordCount": 6
+    },
+    {
+      "id": 377,
+      "index": 377,
+      "character": "YOUNG DOCTOR",
+      "gender": "NA",
+      "line": "-- I'm sorry to bother you, but can you settle an argument for us?",
+      "wordCount": 14
+    },
+    {
+      "id": 378,
+      "index": 378,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Excuse me?",
+      "wordCount": 2
+    },
+    {
+      "id": 379,
+      "index": 379,
+      "character": "YOUNG DOCTOR",
+      "gender": "NA",
+      "line": "You were the guy on Murray Franklin last night, right?",
+      "wordCount": 10
+    },
+    {
+      "id": 380,
+      "index": 380,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "No, sorry. Wasn't me.",
+      "wordCount": 4
+    },
+    {
+      "id": 381,
+      "index": 381,
+      "character": "YOUNG DOCTOR",
+      "gender": "NA",
+      "line": "Except you weren't funny. You didn't tell any jokes.",
+      "wordCount": 9
+    },
+    {
+      "id": 382,
+      "index": 382,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "I don't know what you're talking about.",
+      "wordCount": 7
+    },
+    {
+      "id": 383,
+      "index": 383,
+      "character": "YOUNG DOCTOR",
+      "gender": "NA",
+      "line": "No. It was definitely you, buddy. You're the guy who couldn't stop laughing. Murray killed you.",
+      "wordCount": 16
+    },
+    {
+      "id": 384,
+      "index": 384,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "If I were you, I'd walk away from this table before I strangle all three of you with that fucking stethoscope hanging from your neck.",
+      "wordCount": 25
+    },
+    {
+      "id": 385,
+      "index": 385,
+      "character": "THOMAS WAYNE",
+      "gender": "Male",
+      "line": "Can I help you, pal?",
+      "wordCount": 5
+    },
+    {
+      "id": 386,
+      "index": 386,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "What? Yeah. No I, I--",
+      "wordCount": 5
+    },
+    {
+      "id": 387,
+      "index": 387,
+      "character": "THOMAS WAYNE",
+      "gender": "Male",
+      "line": "You need to get in here or something?",
+      "wordCount": 8
+    },
+    {
+      "id": 388,
+      "index": 388,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Dad. It's me.",
+      "wordCount": 3
+    },
+    {
+      "id": 389,
+      "index": 389,
+      "character": "THOMAS WAYNE",
+      "gender": "Male",
+      "line": "Excuse me?",
+      "wordCount": 2
+    },
+    {
+      "id": 390,
+      "index": 390,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "My name is Arthur. I'm Penny's son. I know you didn't know about me, and I don't want anything from you. Well... maybe a hug.",
+      "wordCount": 25
+    },
+    {
+      "id": 391,
+      "index": 391,
+      "character": "THOMAS WAYNE",
+      "gender": "Male",
+      "line": "Jesus? You're the guy who came by my house yesterday.",
+      "wordCount": 10
+    },
+    {
+      "id": 392,
+      "index": 392,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Yes. But they wouldn't let me in, wouldn't let me see you. So I came here. I have so many questions.",
+      "wordCount": 21
+    },
+    {
+      "id": 393,
+      "index": 393,
+      "character": "THOMAS WAYNE",
+      "gender": "Male",
+      "line": "Look pal, I'm not your father. What's wrong with you?",
+      "wordCount": 10
+    },
+    {
+      "id": 394,
+      "index": 394,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "How do you know?",
+      "wordCount": 4
+    },
+    {
+      "id": 395,
+      "index": 395,
+      "character": "THOMAS WAYNE",
+      "gender": "Male",
+      "line": "Cause you were adopted. And I never fucked your mother. What do you want from me, money?",
+      "wordCount": 17
+    },
+    {
+      "id": 396,
+      "index": 396,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "No. What? I wasn't adopted.",
+      "wordCount": 5
+    },
+    {
+      "id": 397,
+      "index": 397,
+      "character": "THOMAS WAYNE",
+      "gender": "Male",
+      "line": "She never told you? Your mother adopted you before she even started working for us. She was arrested when you were four years old and committed to Arkham State Hospital. She's batshit crazy.",
+      "wordCount": 33
+    },
+    {
+      "id": 398,
+      "index": 398,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "No. No, I don't believe that.",
+      "wordCount": 6
+    },
+    {
+      "id": 399,
+      "index": 399,
+      "character": "THOMAS WAYNE",
+      "gender": "Male",
+      "line": "I don't really give a shit what you believe. But if you ever come to my house again, if you ever talk to my son again, if I ever even hear about you again, I'll--",
+      "wordCount": 35
+    },
+    {
+      "id": 400,
+      "index": 400,
+      "character": "THOMAS WAYNE",
+      "gender": "Male",
+      "line": "Are you laughing at me?",
+      "wordCount": 5
+    },
+    {
+      "id": 401,
+      "index": 401,
+      "character": "THOMAS WAYNE",
+      "gender": "Male",
+      "line": "You think this is funny?",
+      "wordCount": 5
+    },
+    {
+      "id": 402,
+      "index": 402,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "No, no I have a con--",
+      "wordCount": 6
+    },
+    {
+      "id": 403,
+      "index": 403,
+      "character": "THOMAS WAYNE",
+      "gender": "Male",
+      "line": "Is this a fucking joke to you?",
+      "wordCount": 7
+    },
+    {
+      "id": 404,
+      "index": 404,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Sophie?",
+      "wordCount": 1
+    },
+    {
+      "id": 405,
+      "index": 405,
+      "character": "CLERK",
+      "gender": "NA",
+      "line": "Sorry for the wait. All our records that are 10 years or older are stored in the basement. You're talking over 30 years ago,-- I had to do some serious digging.",
+      "wordCount": 31
+    },
+    {
+      "id": 406,
+      "index": 406,
+      "character": "CLERK",
+      "gender": "NA",
+      "line": "Like I said, if it's in here, I'm still gonna need a release from her.",
+      "wordCount": 15
+    },
+    {
+      "id": 407,
+      "index": 407,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Can I ask you a question? How does someone wind up in here? Have all these people committed crimes?",
+      "wordCount": 19
+    },
+    {
+      "id": 408,
+      "index": 408,
+      "character": "CLERK",
+      "gender": "NA",
+      "line": "Some have. Some are just crazy and pose a danger to themselves or others. Some just got nowhere else to go.",
+      "wordCount": 21
+    },
+    {
+      "id": 409,
+      "index": 409,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Yeah, I know how that is. Sometimes I don't know what to do, y'know, I don't think I can take any more of this.",
+      "wordCount": 24
+    },
+    {
+      "id": 410,
+      "index": 410,
+      "character": "CLERK",
+      "gender": "NA",
+      "line": "Yeah, I can't take much more of this shit either.",
+      "wordCount": 10
+    },
+    {
+      "id": 411,
+      "index": 411,
+      "character": "CLERK",
+      "gender": "NA",
+      "line": "Now they talking about more layoffs, man, we're understaffed as it is. I don't know what I'm gonna do.",
+      "wordCount": 19
+    },
+    {
+      "id": 412,
+      "index": 412,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Last time I ended up taking it out on some,-- people. Bad shit. I thought it would bother me but, it really hasn't.",
+      "wordCount": 23
+    },
+    {
+      "id": 413,
+      "index": 413,
+      "character": "CLERK",
+      "gender": "NA",
+      "line": "What's that?",
+      "wordCount": 2
+    },
+    {
+      "id": 414,
+      "index": 414,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "It's just so hard to try and be happy all the time, y'know, when everything's going to shit all around you.",
+      "wordCount": 21
+    },
+    {
+      "id": 415,
+      "index": 415,
+      "character": "CLERK",
+      "gender": "NA",
+      "line": "Listen, I'm just an administrative assistant, like a clerk. I file paperwork, fill out forms. I don't really know what to tell you, but maybe you should see someone-- they have programs, like city services.",
+      "wordCount": 35
+    },
+    {
+      "id": 416,
+      "index": 416,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Yeah. They cut those. Anyway, I was just talking to talk.",
+      "wordCount": 11
+    },
+    {
+      "id": 417,
+      "index": 417,
+      "character": "CLERK",
+      "gender": "NA",
+      "line": "Here it is,-- Fleck. Penny Fleck.",
+      "wordCount": 6
+    },
+    {
+      "id": 418,
+      "index": 418,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "So she was a patient here.",
+      "wordCount": 6
+    },
+    {
+      "id": 419,
+      "index": 419,
+      "character": "CLERK",
+      "gender": "NA",
+      "line": "Uh-huh. Diagnosed by Dr. Benjamin Stoner... The patient suffers from delusional psychosis and narcissistic personality disorder... Found guilty of endangering the welfare of a child--",
+      "wordCount": 25
+    },
+    {
+      "id": 420,
+      "index": 420,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "What?",
+      "wordCount": 1
+    },
+    {
+      "id": 421,
+      "index": 421,
+      "character": "CLERK",
+      "gender": "NA",
+      "line": "You said she's your mother?",
+      "wordCount": 5
+    },
+    {
+      "id": 422,
+      "index": 422,
+      "character": "CLERK",
+      "gender": "NA",
+      "line": "I'm sorry, I can't. Like I said, I can't release this without the proper forms. I could get in trouble. Besides, it's pretty bad.",
+      "wordCount": 24
+    },
+    {
+      "id": 423,
+      "index": 423,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "I can handle bad. I've been on a pretty bad run myself.",
+      "wordCount": 12
+    },
+    {
+      "id": 424,
+      "index": 424,
+      "character": "CLERK",
+      "gender": "NA",
+      "line": "I can't help you. If you want these records you have to get your mom to sign a patient disclosure form. I can have someone mail you one.",
+      "wordCount": 28
+    },
+    {
+      "id": 425,
+      "index": 425,
+      "character": "MOM",
+      "gender": "NA",
+      "line": "He's not adopted-- he's Thomas Wayne's son. I work for him, I told you, I clean his house. He's always smiling at me.",
+      "wordCount": 23
+    },
+    {
+      "id": 426,
+      "index": 426,
+      "character": "DR. STONER",
+      "gender": "NA",
+      "line": "We went over this, Penny. You adopted him. We have all the paperwork right here.",
+      "wordCount": 15
+    },
+    {
+      "id": 427,
+      "index": 427,
+      "character": "DR. STONER",
+      "gender": "NA",
+      "line": "You also stood by as one of your boyfriends repeatedly abused your adopted son. And battered you.",
+      "wordCount": 17
+    },
+    {
+      "id": 428,
+      "index": 428,
+      "character": "MOM",
+      "gender": "NA",
+      "line": "He didn't do anything to me. Or to my boy. Can I go now, I don't like hospitals.",
+      "wordCount": 18
+    },
+    {
+      "id": 429,
+      "index": 429,
+      "character": "MOM",
+      "gender": "NA",
+      "line": "I never heard him crying. Not once. He's always been such a happy little boy.",
+      "wordCount": 15
+    },
+    {
+      "id": 430,
+      "index": 430,
+      "character": "DR. STONER",
+      "gender": "NA",
+      "line": "Penny, your son was found tied to a radiator in your filthy apartment, malnourished, with multiple bruises across his body and severe trauma to his head.",
+      "wordCount": 26
+    },
+    {
+      "id": 431,
+      "index": 431,
+      "character": "MOM",
+      "gender": "NA",
+      "line": "That's not true. My apartment wasn't filthy. I keep a clean house.",
+      "wordCount": 12
+    },
+    {
+      "id": 432,
+      "index": 432,
+      "character": "DR. STONER",
+      "gender": "NA",
+      "line": "And what do you have to say about your son?",
+      "wordCount": 10
+    },
+    {
+      "id": 433,
+      "index": 433,
+      "character": "MOM",
+      "gender": "NA",
+      "line": "I'm just glad I got to know him.",
+      "wordCount": 8
+    },
+    {
+      "id": 434,
+      "index": 434,
+      "character": "SOPHIE",
+      "gender": "Female",
+      "line": "What the hell was that? You can't just walk into my apartment like that.",
+      "wordCount": 14
+    },
+    {
+      "id": 435,
+      "index": 435,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "No, wait,-- Sophie, we can get through this, that's why I'm here.",
+      "wordCount": 12
+    },
+    {
+      "id": 436,
+      "index": 436,
+      "character": "SOPHIE",
+      "gender": "Female",
+      "line": "What are you talking about? What do you think this is?",
+      "wordCount": 11
+    },
+    {
+      "id": 437,
+      "index": 437,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "I don't know. I mean I've never been with a woman \"like that,\" but, this feels like a beginning to me.",
+      "wordCount": 21
+    },
+    {
+      "id": 438,
+      "index": 438,
+      "character": "SOPHIE",
+      "gender": "Female",
+      "line": "Arthur, I was just being nice to you. I felt sorry for you. I have a boyfriend.",
+      "wordCount": 17
+    },
+    {
+      "id": 439,
+      "index": 439,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "You what? What? What kind of woman are you? Who does that?",
+      "wordCount": 12
+    },
+    {
+      "id": 440,
+      "index": 440,
+      "character": "SOPHIE",
+      "gender": "Female",
+      "line": "You need to leave. I'm not having this conversation with you.",
+      "wordCount": 11
+    },
+    {
+      "id": 441,
+      "index": 441,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Why not?",
+      "wordCount": 2
+    },
+    {
+      "id": 442,
+      "index": 442,
+      "character": "SOPHIE",
+      "gender": "Female",
+      "line": "Go back with your friends, honey. Mommy's having a grown up talk.",
+      "wordCount": 12
+    },
+    {
+      "id": 443,
+      "index": 443,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "No. Don't listen to her GiGi, you need to hear this. Your mother's a bad person. She's a whore, she's seeing two men at once. You can't trust her,-- She'll break your fucking heart.",
+      "wordCount": 34
+    },
+    {
+      "id": 444,
+      "index": 444,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "How come nothing ever comes easy for me?",
+      "wordCount": 8
+    },
+    {
+      "id": 445,
+      "index": 445,
+      "character": "SHOW BOOKER",
+      "gender": "NA",
+      "line": "This message is for Arthur Fleck. My name is Shirley Woods, I work on the Murray Franklin show.",
+      "wordCount": 18
+    },
+    {
+      "id": 446,
+      "index": 446,
+      "character": "SHOW BOOKER",
+      "gender": "NA",
+      "line": "I don't know if you're aware, but Murray played a clip of your stand- up on the show recently and we've gotten an amazing--",
+      "wordCount": 24
+    },
+    {
+      "id": 447,
+      "index": 447,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Who is this?",
+      "wordCount": 3
+    },
+    {
+      "id": 448,
+      "index": 448,
+      "character": "SHOW BOOKER",
+      "gender": "NA",
+      "line": "Hi, this is Shirley Woods from Murray Franklin Live. Is this Arthur?",
+      "wordCount": 12
+    },
+    {
+      "id": 449,
+      "index": 449,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Yes.",
+      "wordCount": 1
+    },
+    {
+      "id": 450,
+      "index": 450,
+      "character": "SHOW BOOKER",
+      "gender": "NA",
+      "line": "Hi Arthur. Well, as I was saying-- we've gotten a lot of calls about your clip, amazing responses. And, Murray asked if I would reach out to see if you would come on as his guest. Can we set up a day?",
+      "wordCount": 42
+    },
+    {
+      "id": 451,
+      "index": 451,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Murray wants me to come on the show?",
+      "wordCount": 8
+    },
+    {
+      "id": 452,
+      "index": 452,
+      "character": "SHOW BOOKER",
+      "gender": "NA",
+      "line": "Yes. Isn't that great? He'd love to talk to you, maybe do some of your act. Does that sound good to you?",
+      "wordCount": 22
+    },
+    {
+      "id": 453,
+      "index": 453,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Ma, remember how you used to tell me that God gave me this laugh for a reason. That I had a purpose. To bring laughter and joy into this fucked up world,--",
+      "wordCount": 32
+    },
+    {
+      "id": 454,
+      "index": 454,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "HA! It wasn't God, it was you or, or one of your boyfriends,-- how could you let that happen? What kind of woman are you? What kind of mother are you?",
+      "wordCount": 31
+    },
+    {
+      "id": 455,
+      "index": 455,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "What's my real name?",
+      "wordCount": 4
+    },
+    {
+      "id": 456,
+      "index": 456,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "C'mon, Ma, I know I was adopted. What's my name? Who am I really?",
+      "wordCount": 14
+    },
+    {
+      "id": 457,
+      "index": 457,
+      "character": "MOM",
+      "gender": "NA",
+      "line": "H-h-happ--",
+      "wordCount": 1
+    },
+    {
+      "id": 458,
+      "index": 458,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "",
+      "wordCount": 1
+    },
+    {
+      "id": 459,
+      "index": 459,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Happy?! I'm not happy. I haven't been happy for one minute of my entire fucking life.",
+      "wordCount": 16
+    },
+    {
+      "id": 460,
+      "index": 460,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "But you know what's funny? You know what really makes me laugh?",
+      "wordCount": 12
+    },
+    {
+      "id": 461,
+      "index": 461,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "I used to think my life was nothing but a tragedy, but now, now I realize it's all just a fucking comedy.",
+      "wordCount": 22
+    },
+    {
+      "id": 462,
+      "index": 462,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "You wanna hear a joke, Murray?",
+      "wordCount": 6
+    },
+    {
+      "id": 463,
+      "index": 463,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Knock-knock.",
+      "wordCount": 1
+    },
+    {
+      "id": 464,
+      "index": 464,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Yeah, I don't know if I should cross or uncross 'em. Both feel completely unnatural.",
+      "wordCount": 15
+    },
+    {
+      "id": 465,
+      "index": 465,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Thanks for having me on, Murray. I can't tell you how much this means to me, it's been a life long dream. I have a joke for you--",
+      "wordCount": 28
+    },
+    {
+      "id": 466,
+      "index": 466,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "You're right. You're right, uncrossed is better.",
+      "wordCount": 7
+    },
+    {
+      "id": 467,
+      "index": 467,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "You shouldn't be here. It's not right.",
+      "wordCount": 7
+    },
+    {
+      "id": 468,
+      "index": 468,
+      "character": "DET. GARRITY",
+      "gender": "NA",
+      "line": "We just came to pay our respects. Sorry about your mother.",
+      "wordCount": 11
+    },
+    {
+      "id": 469,
+      "index": 469,
+      "character": "DET. BURKE",
+      "gender": "NA",
+      "line": "Yeah, it's too bad.",
+      "wordCount": 4
+    },
+    {
+      "id": 470,
+      "index": 470,
+      "character": "DET. BURKE",
+      "gender": "NA",
+      "line": "Where is everybody?",
+      "wordCount": 3
+    },
+    {
+      "id": 471,
+      "index": 471,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "It's always been just me and her.",
+      "wordCount": 7
+    },
+    {
+      "id": 472,
+      "index": 472,
+      "character": "DET. BURKE",
+      "gender": "NA",
+      "line": "We saw you on Murray Franklin.",
+      "wordCount": 6
+    },
+    {
+      "id": 473,
+      "index": 473,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "You saw that?",
+      "wordCount": 3
+    },
+    {
+      "id": 474,
+      "index": 474,
+      "character": "DET. GARRITY",
+      "gender": "NA",
+      "line": "Yeah. Heard you were on, so we got a videotape.",
+      "wordCount": 10
+    },
+    {
+      "id": 475,
+      "index": 475,
+      "character": "DET. BURKE",
+      "gender": "NA",
+      "line": "I just couldn't tell if you were actually trying to be funny or not.",
+      "wordCount": 14
+    },
+    {
+      "id": 476,
+      "index": 476,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Yeah, well I guess you didn't get the joke.",
+      "wordCount": 9
+    },
+    {
+      "id": 477,
+      "index": 477,
+      "character": "DET. GARRITY",
+      "gender": "NA",
+      "line": "Listen, we need to clear a few things up, we spoke to the hospital administrator--",
+      "wordCount": 15
+    },
+    {
+      "id": 478,
+      "index": 478,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Which hospital?",
+      "wordCount": 2
+    },
+    {
+      "id": 479,
+      "index": 479,
+      "character": "DET. BURKE",
+      "gender": "NA",
+      "line": "The Children's Hospital. The night you were fired. He said it didn't look like a prop gun, it was heavy, like a real one. We have some more questions for you.",
+      "wordCount": 31
+    },
+    {
+      "id": 480,
+      "index": 480,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "I just buried my mother.",
+      "wordCount": 5
+    },
+    {
+      "id": 481,
+      "index": 481,
+      "character": "DET. GARRITY",
+      "gender": "NA",
+      "line": "We can do it tomorrow. But you need to come down to the precinct-- first thing in the morning.",
+      "wordCount": 19
+    },
+    {
+      "id": 482,
+      "index": 482,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Right. Thanks for coming.",
+      "wordCount": 4
+    },
+    {
+      "id": 483,
+      "index": 483,
+      "character": "DET. BURKE",
+      "gender": "NA",
+      "line": "Of course.",
+      "wordCount": 2
+    },
+    {
+      "id": 484,
+      "index": 484,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "That was a joke.",
+      "wordCount": 4
+    },
+    {
+      "id": 485,
+      "index": 485,
+      "character": "GARY",
+      "gender": "Male",
+      "line": "Hey Arthur, how's it going? You get a new gig?",
+      "wordCount": 10
+    },
+    {
+      "id": 486,
+      "index": 486,
+      "character": "RANDALL",
+      "gender": "Male",
+      "line": "You must be goin' down to that rally at City Hall. Right? I hear it's gonna be nuts.",
+      "wordCount": 18
+    },
+    {
+      "id": 487,
+      "index": 487,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Is that today?",
+      "wordCount": 3
+    },
+    {
+      "id": 488,
+      "index": 488,
+      "character": "RANDALL",
+      "gender": "Male",
+      "line": "Yeah. What's with the clown-face then?",
+      "wordCount": 6
+    },
+    {
+      "id": 489,
+      "index": 489,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "My mom died.",
+      "wordCount": 3
+    },
+    {
+      "id": 490,
+      "index": 490,
+      "character": "RANDALL",
+      "gender": "Male",
+      "line": "Yeah we heard. That's why we're here. Figured you might wanna go out, get a drink or something?",
+      "wordCount": 18
+    },
+    {
+      "id": 491,
+      "index": 491,
+      "character": "GARY",
+      "gender": "Male",
+      "line": "We don't wanna bother you. Randall just thought we should come and pay our respects.",
+      "wordCount": 15
+    },
+    {
+      "id": 492,
+      "index": 492,
+      "character": "RANDALL",
+      "gender": "Male",
+      "line": "Yeah, we're family. We gotta stick together.",
+      "wordCount": 7
+    },
+    {
+      "id": 493,
+      "index": 493,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "It's not a good time. I'm in the middle of something here.",
+      "wordCount": 12
+    },
+    {
+      "id": 494,
+      "index": 494,
+      "character": "GARY",
+      "gender": "Male",
+      "line": "Of course. No problem. Another time.",
+      "wordCount": 6
+    },
+    {
+      "id": 495,
+      "index": 495,
+      "character": "RANDALL",
+      "gender": "Male",
+      "line": "Yeah. Another time, then. Oh hey,-- one other thing--",
+      "wordCount": 9
+    },
+    {
+      "id": 496,
+      "index": 496,
+      "character": "RANDALL",
+      "gender": "Male",
+      "line": "Listen, the cops have been poking around the shop, they're talking to all the clowns about those subway murders and--",
+      "wordCount": 20
+    },
+    {
+      "id": 497,
+      "index": 497,
+      "character": "GARY",
+      "gender": "Male",
+      "line": "They didn't talk to me.",
+      "wordCount": 5
+    },
+    {
+      "id": 498,
+      "index": 498,
+      "character": "RANDALL",
+      "gender": "Male",
+      "line": "That's because the suspect was a regular-sized person. If it was a fucking midget you'd be in jail right now. Anyway, Hoyt said they were looking for me, and, and I just wanna see what you said. You know, make sure our stories line up, bein' that you're my boy and--",
+      "wordCount": 51
+    },
+    {
+      "id": 499,
+      "index": 499,
+      "character": "GARY",
+      "gender": "Male",
+      "line": "What the fuck what the fuck WHAT THE FUCK--",
+      "wordCount": 9
+    },
+    {
+      "id": 500,
+      "index": 500,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "I'm gonna be on TV tonight. Can you believe it?",
+      "wordCount": 10
+    },
+    {
+      "id": 501,
+      "index": 501,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "It's okay, Gary. You can go.",
+      "wordCount": 6
+    },
+    {
+      "id": 502,
+      "index": 502,
+      "character": "GARY",
+      "gender": "Male",
+      "line": "Hey, Art?",
+      "wordCount": 2
+    },
+    {
+      "id": 503,
+      "index": 503,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Go on. Go. You're free.",
+      "wordCount": 5
+    },
+    {
+      "id": 504,
+      "index": 504,
+      "character": "DET. GARRITY",
+      "gender": "NA",
+      "line": "Hey Arthur, where you going?",
+      "wordCount": 5
+    },
+    {
+      "id": 505,
+      "index": 505,
+      "character": "DET. BURKE",
+      "gender": "NA",
+      "line": "Yeah, thought you were coming down to the station this morning.",
+      "wordCount": 11
+    },
+    {
+      "id": 506,
+      "index": 506,
+      "character": "BURKE",
+      "gender": "Male",
+      "line": "EVERYBODY DOWN, GOTHAM PD!",
+      "wordCount": 4
+    },
+    {
+      "id": 507,
+      "index": 507,
+      "character": "GENE UFLAND",
+      "gender": "Male",
+      "line": "--You gotta see this nut for yourself, Murray. I don't think we can put him on. With the rioting out there.",
+      "wordCount": 21
+    },
+    {
+      "id": 508,
+      "index": 508,
+      "character": "MURRAY FRANKLIN",
+      "gender": "Male",
+      "line": "Jesus, Gene, I don't have time for this. Cindy's been breaking my balls all day.",
+      "wordCount": 15
+    },
+    {
+      "id": 509,
+      "index": 509,
+      "character": "GENE UFLAND",
+      "gender": "Male",
+      "line": "She's still mad at you about that thing?",
+      "wordCount": 8
+    },
+    {
+      "id": 510,
+      "index": 510,
+      "character": "MURRAY FRANKLIN",
+      "gender": "Male",
+      "line": "Three marriages, you'd think I'da fuckin' learned something. What do I gotta see? I already know he's a nut. That's why we're putting him on, it's a goof.",
+      "wordCount": 28
+    },
+    {
+      "id": 511,
+      "index": 511,
+      "character": "GENE UFLAND",
+      "gender": "Male",
+      "line": "I'm telling you, you gotta see him, Murray. I think it's too risky, the show's too big. It's worth too much to blow it on this,-- this freak.",
+      "wordCount": 28
+    },
+    {
+      "id": 512,
+      "index": 512,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Murray, I can't believe this is real, that I'm really here.",
+      "wordCount": 11
+    },
+    {
+      "id": 513,
+      "index": 513,
+      "character": "GENE UFLAND",
+      "gender": "Male",
+      "line": "It's Mr. Franklin kid, show some respect.",
+      "wordCount": 7
+    },
+    {
+      "id": 514,
+      "index": 514,
+      "character": "MURRAY FRANKLIN",
+      "gender": "Male",
+      "line": "Oh shut up, Gene. Murray is fine. I prefer it in fact. Thanks for coming on the show.",
+      "wordCount": 18
+    },
+    {
+      "id": 515,
+      "index": 515,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Are you kidding? Thank you for the opportunity. I've been watching you forever. My mother never missed a show.",
+      "wordCount": 19
+    },
+    {
+      "id": 516,
+      "index": 516,
+      "character": "MURRAY FRANKLIN",
+      "gender": "Male",
+      "line": "So what's with the face? Are you part of the protests?",
+      "wordCount": 11
+    },
+    {
+      "id": 517,
+      "index": 517,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "No, I don't believe in any of that. I don't believe in anything. I just thought it would be good for my act.",
+      "wordCount": 23
+    },
+    {
+      "id": 518,
+      "index": 518,
+      "character": "GENE UFLAND",
+      "gender": "Male",
+      "line": "Your act? Didn't you hear that a kid got killed on the subway and two cops who were almost beat to death? You didn't hear about the dozens of protestors and police injured in the riots?",
+      "wordCount": 36
+    },
+    {
+      "id": 519,
+      "index": 519,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "No. I hadn't heard.",
+      "wordCount": 4
+    },
+    {
+      "id": 520,
+      "index": 520,
+      "character": "GENE UFLAND",
+      "gender": "Male",
+      "line": "--the audience is gonna go crazy if you put him on. It was okay maybe for a bit, but not a whole segment.",
+      "wordCount": 23
+    },
+    {
+      "id": 521,
+      "index": 521,
+      "character": "MURRAY FRANKLIN",
+      "gender": "Male",
+      "line": "I like it. It's timely. It's edgy. It's, it's dangerous. The best comedy is all those things put together. We're gonna go with it.",
+      "wordCount": 24
+    },
+    {
+      "id": 522,
+      "index": 522,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Thank you Murray.",
+      "wordCount": 3
+    },
+    {
+      "id": 523,
+      "index": 523,
+      "character": "MURRAY FRANKLIN",
+      "gender": "Male",
+      "line": "Couple rules though,-- No cussing, no off-color material, we do a clean show, okay? You'll be on after Dr. Sally. Someone will come and get you. Good?",
+      "wordCount": 27
+    },
+    {
+      "id": 524,
+      "index": 524,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Hey Murray,-- one small thing? When you bring me out, can you introduce me as \"The Joker\"?",
+      "wordCount": 17
+    },
+    {
+      "id": 525,
+      "index": 525,
+      "character": "GENE UFLAND",
+      "gender": "Male",
+      "line": "What? You don't want to use your real name?",
+      "wordCount": 9
+    },
+    {
+      "id": 526,
+      "index": 526,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Honestly, I don't even know what my real name is.",
+      "wordCount": 10
+    },
+    {
+      "id": 527,
+      "index": 527,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Besides, that's what you called me on the show, Murray. A joker. Remember?",
+      "wordCount": 13
+    },
+    {
+      "id": 528,
+      "index": 528,
+      "character": "MURRAY FRANKLIN",
+      "gender": "Male",
+      "line": "Did I?",
+      "wordCount": 2
+    },
+    {
+      "id": 529,
+      "index": 529,
+      "character": "GENE UFLAND",
+      "gender": "Male",
+      "line": "I have no idea.",
+      "wordCount": 4
+    },
+    {
+      "id": 530,
+      "index": 530,
+      "character": "MURRAY FRANKLIN",
+      "gender": "Male",
+      "line": "Well, if you say so, kid. Joker it is.",
+      "wordCount": 9
+    },
+    {
+      "id": 531,
+      "index": 531,
+      "character": "MURRAY FRANKLIN",
+      "gender": "Male",
+      "line": "You gotta see our next guest for yourself. Will you stick around? Maybe you can help, I'm pretty sure he could use a doctor.",
+      "wordCount": 24
+    },
+    {
+      "id": 532,
+      "index": 532,
+      "character": "DR. SALLY FRIEDMAN",
+      "gender": "NA",
+      "line": "Oh. Does he have sexual problems?",
+      "wordCount": 6
+    },
+    {
+      "id": 533,
+      "index": 533,
+      "character": "MURRAY FRANKLIN",
+      "gender": "Male",
+      "line": "He looks like he's got a lot of problems.",
+      "wordCount": 9
+    },
+    {
+      "id": 534,
+      "index": 534,
+      "character": "MURRAY FRANKLIN",
+      "gender": "Male",
+      "line": "It's been a crazy few days here in Gotham, and, I think maybe things are about to get crazy around here too. Don't go anywhere folks. We'll be right back.",
+      "wordCount": 30
+    },
+    {
+      "id": 535,
+      "index": 535,
+      "character": "ASSOCIATE PRODUCER",
+      "gender": "NA",
+      "line": "Back in 30 seconds.",
+      "wordCount": 4
+    },
+    {
+      "id": 536,
+      "index": 536,
+      "character": "DIRECTOR",
+      "gender": "NA",
+      "line": "Okay, cue the clip. We'll come to it straight out of break.",
+      "wordCount": 12
+    },
+    {
+      "id": 537,
+      "index": 537,
+      "character": "ASSOCIATE PRODUCER",
+      "gender": "NA",
+      "line": "Five... Four... Three...",
+      "wordCount": 3
+    },
+    {
+      "id": 538,
+      "index": 538,
+      "character": "DIRECTOR",
+      "gender": "NA",
+      "line": "Roll clip. Put up the show graphic.",
+      "wordCount": 7
+    },
+    {
+      "id": 539,
+      "index": 539,
+      "character": "MURRAY FRANKLIN",
+      "gender": "Male",
+      "line": "O-kay, you may have seen that clip of our next guest when we first played it two weeks ago. Now before he comes out, I just want to say that we're all heartbroken here and sensitive to what's going on in the city tonight. But, this is how he wanted to come on the show. So let me introduce-- The Joker.",
+      "wordCount": 61
+    },
+    {
+      "id": 540,
+      "index": 540,
+      "character": "MURRAY FRANKLIN",
+      "gender": "Male",
+      "line": "So, ahhh, thanks for coming on the show. But I gotta tell ya, with what happened at City Hall today, I'm sure many of our viewers here in the studio, and at home, might find this look of yours in poor taste.",
+      "wordCount": 42
+    },
+    {
+      "id": 541,
+      "index": 541,
+      "character": "MURRAY FRANKLIN",
+      "gender": "Male",
+      "line": "Can you tell us why you're dressed like this?",
+      "wordCount": 9
+    },
+    {
+      "id": 542,
+      "index": 542,
+      "character": "MURRAY FRANKLIN",
+      "gender": "Male",
+      "line": "Okay. But I'm not sure how any of this is funny. A lot of those protesters are going with this look. City seems to be full of clowns these days.",
+      "wordCount": 30
+    },
+    {
+      "id": 543,
+      "index": 543,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Yeah. Isn't it great?",
+      "wordCount": 4
+    },
+    {
+      "id": 544,
+      "index": 544,
+      "character": "TECHNICAL DIRECTOR",
+      "gender": "NA",
+      "line": "This guy's got nothing.",
+      "wordCount": 4
+    },
+    {
+      "id": 545,
+      "index": 545,
+      "character": "DIRECTOR",
+      "gender": "NA",
+      "line": "Gene, what the hell? You wanna kill this?",
+      "wordCount": 8
+    },
+    {
+      "id": 546,
+      "index": 546,
+      "character": "MURRAY FRANKLIN",
+      "gender": "Male",
+      "line": "So when we talked earlier, you mentioned that you aren't political. That this look isn't a political statement.",
+      "wordCount": 18
+    },
+    {
+      "id": 547,
+      "index": 547,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "That's right. I'm not political, Murray. I'm, I'm, I'm just trying to make people laugh.",
+      "wordCount": 15
+    },
+    {
+      "id": 548,
+      "index": 548,
+      "character": "MURRAY FRANKLIN",
+      "gender": "Male",
+      "line": "How's that goin' for ya? Have you been working on any new material? Do you want to tell us a joke?",
+      "wordCount": 21
+    },
+    {
+      "id": 549,
+      "index": 549,
+      "character": "MURRAY FRANKLIN",
+      "gender": "Male",
+      "line": "You brought a joke book?",
+      "wordCount": 5
+    },
+    {
+      "id": 550,
+      "index": 550,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Okay. Here's one. Knock knock.",
+      "wordCount": 5
+    },
+    {
+      "id": 551,
+      "index": 551,
+      "character": "MURRAY FRANKLIN",
+      "gender": "Male",
+      "line": "Oh god, a knock-knock joke? And you need to read it?",
+      "wordCount": 11
+    },
+    {
+      "id": 552,
+      "index": 552,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "I want to get it right. Knock knock.",
+      "wordCount": 8
+    },
+    {
+      "id": 553,
+      "index": 553,
+      "character": "MURRAY FRANKLIN",
+      "gender": "Male",
+      "line": "Who's there?",
+      "wordCount": 2
+    },
+    {
+      "id": 554,
+      "index": 554,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "It's the police, ma'am. Your son has been hit by a drunk driver. He's dead.",
+      "wordCount": 15
+    },
+    {
+      "id": 555,
+      "index": 555,
+      "character": "DIRECTOR",
+      "gender": "NA",
+      "line": "Okay, ready Camera Two. Take Two. Ready Three. Three.",
+      "wordCount": 9
+    },
+    {
+      "id": 556,
+      "index": 556,
+      "character": "MURRAY FRANKLIN",
+      "gender": "Male",
+      "line": "So, Arthur, you told me backstage that your--",
+      "wordCount": 8
+    },
+    {
+      "id": 557,
+      "index": 557,
+      "character": "MURRAY FRANKLIN",
+      "gender": "Male",
+      "line": "Right. Sorry. I mean Joker-- you told me backstage that your mother's a big fan of the show, that she never misses it.",
+      "wordCount": 23
+    },
+    {
+      "id": 558,
+      "index": 558,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "That's right, Murray. But she's dead now.",
+      "wordCount": 7
+    },
+    {
+      "id": 559,
+      "index": 559,
+      "character": "MURRAY FRANKLIN",
+      "gender": "Male",
+      "line": "Hold on. Your mother's dead?",
+      "wordCount": 5
+    },
+    {
+      "id": 560,
+      "index": 560,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Yeah. She is.",
+      "wordCount": 3
+    },
+    {
+      "id": 561,
+      "index": 561,
+      "character": "MURRAY FRANKLIN",
+      "gender": "Male",
+      "line": "Okay. What about your father? Does he watch the show?",
+      "wordCount": 10
+    },
+    {
+      "id": 562,
+      "index": 562,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "I don't know who my father is, Murray. Turns out I was adopted and sexually assaulted by my mother's boyfriend.",
+      "wordCount": 20
+    },
+    {
+      "id": 563,
+      "index": 563,
+      "character": "DR. SALLY FRIEDMAN",
+      "gender": "NA",
+      "line": "Ahhhh! No, no,-- You can not joke about that.",
+      "wordCount": 9
+    },
+    {
+      "id": 564,
+      "index": 564,
+      "character": "MURRAY FRANKLIN",
+      "gender": "Male",
+      "line": "Yeah, that's not funny, that's not the kind of humor we do on this show.",
+      "wordCount": 15
+    },
+    {
+      "id": 565,
+      "index": 565,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Sorry. It's been a rough few months, Murray. I mean, after my mother died, the police came to question me at her funeral. Who does that?",
+      "wordCount": 26
+    },
+    {
+      "id": 566,
+      "index": 566,
+      "character": "MURRAY FRANKLIN",
+      "gender": "Male",
+      "line": "Oh really? Were you a suspect?",
+      "wordCount": 6
+    },
+    {
+      "id": 567,
+      "index": 567,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Very funny, Murray. No, they came because I killed those three Wall Street guys.",
+      "wordCount": 14
+    },
+    {
+      "id": 568,
+      "index": 568,
+      "character": "MURRAY FRANKLIN",
+      "gender": "Male",
+      "line": "Okay. I'm waiting for the punchline.",
+      "wordCount": 6
+    },
+    {
+      "id": 569,
+      "index": 569,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "There is no punchline. It's not a joke.",
+      "wordCount": 8
+    },
+    {
+      "id": 570,
+      "index": 570,
+      "character": "DIRECTOR",
+      "gender": "NA",
+      "line": "Did he just confess to killing the Wall Street Three?",
+      "wordCount": 10
+    },
+    {
+      "id": 571,
+      "index": 571,
+      "character": "TECHNICAL DIRECTOR",
+      "gender": "NA",
+      "line": "Yeah. I think he did.",
+      "wordCount": 5
+    },
+    {
+      "id": 572,
+      "index": 572,
+      "character": "ASSOCIATE PRODUCER",
+      "gender": "NA",
+      "line": "He definitely did.",
+      "wordCount": 3
+    },
+    {
+      "id": 573,
+      "index": 573,
+      "character": "DIRECTOR",
+      "gender": "NA",
+      "line": "Jesus Christ. Camera Three, get in close.",
+      "wordCount": 7
+    },
+    {
+      "id": 574,
+      "index": 574,
+      "character": "MURRAY FRANKLIN",
+      "gender": "Male",
+      "line": "You're serious, aren't you? You're telling us you killed those three boys on the subway. Why should we believe you?",
+      "wordCount": 20
+    },
+    {
+      "id": 575,
+      "index": 575,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "I got nothing left to lose, Murray. Nothing can hurt me anymore. This is my fate, it was always my fate. My life is nothing but a comedy.",
+      "wordCount": 28
+    },
+    {
+      "id": 576,
+      "index": 576,
+      "character": "MURRAY FRANKLIN",
+      "gender": "Male",
+      "line": "Let me get this straight, you think killing those young men is funny?",
+      "wordCount": 13
+    },
+    {
+      "id": 577,
+      "index": 577,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Yeah. But comedy is subjective, isn't that what they say? Besides, the way I see it, what happened was a good thing. All of you, Gotham, the system that knows so much, you decide, you decide what's right and wrong. What's real or what's made up. The same way you decide what's funny or not.",
+      "wordCount": 55
+    },
+    {
+      "id": 578,
+      "index": 578,
+      "character": "MURRAY FRANKLIN",
+      "gender": "Male",
+      "line": "Okay, I think I understand. You did it to start a movement, to become a symbol.",
+      "wordCount": 16
+    },
+    {
+      "id": 579,
+      "index": 579,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "C'mon, Murray, do I look like the kind of clown who could start a movement? I killed those guys because they were awful. Everybody's awful these days. It's enough to make anyone crazy.",
+      "wordCount": 33
+    },
+    {
+      "id": 580,
+      "index": 580,
+      "character": "MURRAY FRANKLIN",
+      "gender": "Male",
+      "line": "So that's it, you're crazy. That's your defense for killing three young men? Because they were mean to you?",
+      "wordCount": 19
+    },
+    {
+      "id": 581,
+      "index": 581,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "No. They couldn't carry a tune to save their lives.",
+      "wordCount": 10
+    },
+    {
+      "id": 582,
+      "index": 582,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Why is everyone so upset about these guys? Because Thomas Wayne went and cried about them on TV?",
+      "wordCount": 18
+    },
+    {
+      "id": 583,
+      "index": 583,
+      "character": "MURRAY FRANKLIN",
+      "gender": "Male",
+      "line": "You have a problem with Thomas Wayne, too?",
+      "wordCount": 8
+    },
+    {
+      "id": 584,
+      "index": 584,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Yeah. I do. Everything comes so easy for him.",
+      "wordCount": 9
+    },
+    {
+      "id": 585,
+      "index": 585,
+      "character": "MURRAY FRANKLIN",
+      "gender": "Male",
+      "line": "And what's wrong with that?",
+      "wordCount": 5
+    },
+    {
+      "id": 586,
+      "index": 586,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Have you seen what it's like out there, Murray? Do you ever actually leave the studio? Everybody just yells and screams at each other. Nobody's civil anymore. Nobody thinks what it's like to be the other guy. You think men like Thomas Wayne, men at ease, ever think what it's like to be a guy like me? To be anybody but themselves. They don't. They think we'll all just sit there and take it like good little boys. That we won't werewolf and go wild. Well, this is for all of you out there.",
+      "wordCount": 94
+    },
+    {
+      "id": 587,
+      "index": 587,
+      "character": "POLICE LIEUTENANT",
+      "gender": "NA",
+      "line": "That asshole just confessed to killing those Wall Street guys on fucking live TV!",
+      "wordCount": 14
+    },
+    {
+      "id": 588,
+      "index": 588,
+      "character": "MURRAY FRANKLIN",
+      "gender": "Male",
+      "line": "So much self-pity, Arthur. You sound like you're making excuses for killing three young men. Not everybody's awful.",
+      "wordCount": 18
+    },
+    {
+      "id": 589,
+      "index": 589,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "You're awful, Murray.",
+      "wordCount": 3
+    },
+    {
+      "id": 590,
+      "index": 590,
+      "character": "MURRAY FRANKLIN",
+      "gender": "Male",
+      "line": "Me? How am I awful?",
+      "wordCount": 5
+    },
+    {
+      "id": 591,
+      "index": 591,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Playing my video, inviting me on the show,-- You just wanted to make fun of me. Well it's easy to laugh at Frankenstein on a crowded beach, isn't it? You're just like the rest of them, Murray. Everything comes too easy for you.",
+      "wordCount": 43
+    },
+    {
+      "id": 592,
+      "index": 592,
+      "character": "MURRAY FRANKLIN",
+      "gender": "Male",
+      "line": "You don't know the first thing about me, pal. Look what happened because of what you did, Arthur, what it led to. There are riots out there. Two policemen are in critical condition, someone was killed today.",
+      "wordCount": 37
+    },
+    {
+      "id": 593,
+      "index": 593,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "How about another joke, Murray? What do you get when you cross a mentally-ill loner with a system that abandons him and treats him like trash?",
+      "wordCount": 26
+    },
+    {
+      "id": 594,
+      "index": 594,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "I'll tell you what you get. You get what you fucking deserve,--",
+      "wordCount": 12
+    },
+    {
+      "id": 595,
+      "index": 595,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "GOOD NIGHT AND ALWAYS REMEMBER,-- THAT'S LIFE!",
+      "wordCount": 7
+    },
+    {
+      "id": 596,
+      "index": 596,
+      "character": "PUNK",
+      "gender": "NA",
+      "line": "You still think we're all fucking clowns?",
+      "wordCount": 7
+    },
+    {
+      "id": 597,
+      "index": 597,
+      "character": "HOSPITAL DOCTOR",
+      "gender": "NA",
+      "line": "What's so funny?",
+      "wordCount": 3
+    },
+    {
+      "id": 598,
+      "index": 598,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "-- just thinking of this joke.",
+      "wordCount": 6
+    },
+    {
+      "id": 599,
+      "index": 599,
+      "character": "HOSPITAL DOCTOR",
+      "gender": "NA",
+      "line": "Do you want to tell it to me?",
+      "wordCount": 8
+    },
+    {
+      "id": 600,
+      "index": 600,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "No.",
+      "wordCount": 1
+    },
+    {
+      "id": 601,
+      "index": 601,
+      "character": "HOSPITAL DOCTOR",
+      "gender": "NA",
+      "line": "Because you don't think I'll get it?",
+      "wordCount": 7
+    },
+    {
+      "id": 602,
+      "index": 602,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Because it's personal, it's between me and him.",
+      "wordCount": 8
+    },
+    {
+      "id": 603,
+      "index": 603,
+      "character": "HOSPITAL DOCTOR",
+      "gender": "NA",
+      "line": "Okay. Is the medication working? How's your sleeping?",
+      "wordCount": 8
+    },
+    {
+      "id": 604,
+      "index": 604,
+      "character": "HOSPITAL DOCTOR",
+      "gender": "NA",
+      "line": "How are you feeling?",
+      "wordCount": 4
+    },
+    {
+      "id": 605,
+      "index": 605,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Good. Everything's good now.",
+      "wordCount": 4
+    },
+    {
+      "id": 606,
+      "index": 606,
+      "character": "HOSPITAL DOCTOR",
+      "gender": "NA",
+      "line": "Have you been writing in your journal?",
+      "wordCount": 7
+    },
+    {
+      "id": 607,
+      "index": 607,
+      "character": "HOSPITAL DOCTOR",
+      "gender": "NA",
+      "line": "Great. I want to make sure you're keeping up with it.",
+      "wordCount": 11
+    },
+    {
+      "id": 608,
+      "index": 608,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "Yeah.",
+      "wordCount": 1
+    },
+    {
+      "id": 609,
+      "index": 609,
+      "character": "HOSPITAL DOCTOR",
+      "gender": "NA",
+      "line": "Have you written about your episode? About what happened?",
+      "wordCount": 9
+    },
+    {
+      "id": 610,
+      "index": 610,
+      "character": "JOKER",
+      "gender": "NA",
+      "line": "How I remember it.",
+      "wordCount": 4
+    },
+    {
+      "id": 611,
+      "index": 611,
+      "character": "HOSPITAL DOCTOR",
+      "gender": "NA",
+      "line": "Can I see?",
+      "wordCount": 3
+    },
+    {
+      "id": 612,
+      "index": 612,
+      "character": "",
+      "gender": "Male"
+    }
+  ]
+}

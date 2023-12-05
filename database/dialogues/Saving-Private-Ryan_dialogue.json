@@ -1,0 +1,7116 @@
+{
+  "fileName": "Saving-Private-Ryan_dialogue.txt",
+  "title": "Saving Private Ryan",
+  "data": [
+    {
+      "id": 0,
+      "index": 0,
+      "character": "OFFSHORE",
+      "gender": "NA",
+      "line": "SUPERIMPOSITION:",
+      "wordCount": 1
+    },
+    {
+      "id": 1,
+      "index": 1,
+      "character": "OMAHA BEACH, NORMANDY",
+      "gender": "NA",
+      "line": "June 6, 1944",
+      "wordCount": 3
+    },
+    {
+      "id": 2,
+      "index": 2,
+      "character": "THE CLIFFS",
+      "gender": "NA",
+      "line": "At the far end of the beach, a ninety- foot cliff. Topped by bunkers. Ringed by fortified machine gun nests. A clear line-of-fire down the entire beach.",
+      "wordCount": 27
+    },
+    {
+      "id": 3,
+      "index": 3,
+      "character": "TEN LANDING CRAFT",
+      "gender": "NA",
+      "line": "Make their way toward the base of the cliffs. Running a gauntlet of explosions.",
+      "wordCount": 14
+    },
+    {
+      "id": 4,
+      "index": 4,
+      "character": "SUPERIMPOSITION:",
+      "gender": "NA",
+      "line": "THE FOLLOWING IS BASED ON A TRUE STORY THE LEAD LANDING CRAFT Plows through the waves.",
+      "wordCount": 16
+    },
+    {
+      "id": 5,
+      "index": 5,
+      "character": "A YOUNG SOLDIER",
+      "gender": "NA",
+      "line": "His face covered with the remains of the motorman. Starts to lose it. Begins to shudder and weep. His name is DeLancey.",
+      "wordCount": 22
+    },
+    {
+      "id": 6,
+      "index": 6,
+      "character": "A FIGURE",
+      "gender": "NA",
+      "line": "Pushes through the men. Puts himself in front of DeLancey.",
+      "wordCount": 10
+    },
+    {
+      "id": 7,
+      "index": 7,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Looks over the gunwale at THE HELL IN FRONT OF THEM.",
+      "wordCount": 11
+    },
+    {
+      "id": 8,
+      "index": 8,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Somehow survives. Jumps into the breakers.",
+      "wordCount": 6
+    },
+    {
+      "id": 9,
+      "index": 9,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "MOVE, GODDAMN IT! GO! GO! GO!",
+      "wordCount": 6
+    },
+    {
+      "id": 10,
+      "index": 10,
+      "character": "EXPLOSIONS EVERYWHERE",
+      "gender": "NA",
+      "line": "THE GERMANS On the edge of the cliff. Rain down MACHINE GUN FIRE and GRENADES.",
+      "wordCount": 15
+    },
+    {
+      "id": 11,
+      "index": 11,
+      "character": "THE AMERICANS",
+      "gender": "NA",
+      "line": "Struggle through the surf. FIRING up as best they can. Making for the base of the cliffs.",
+      "wordCount": 17
+    },
+    {
+      "id": 12,
+      "index": 12,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Ignores the EXPLOSIONS and BULLETS. Uses hand signals and curt orders.",
+      "wordCount": 11
+    },
+    {
+      "id": 13,
+      "index": 13,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "THERE! THERE! HOOKS THERE! FIRE SQUAD, THOSE ROCKS!",
+      "wordCount": 8
+    },
+    {
+      "id": 14,
+      "index": 14,
+      "character": "THE MEN",
+      "gender": "NA",
+      "line": "Obey instantly. Set the grappling hooks. Take position. Return fire.",
+      "wordCount": 10
+    },
+    {
+      "id": 15,
+      "index": 15,
+      "character": "THE MEN",
+      "gender": "NA",
+      "line": "Know what they have to do. Start up the ropes. Into the teeth of the German defenders.",
+      "wordCount": 17
+    },
+    {
+      "id": 16,
+      "index": 16,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Back-straps his Thompson sub-machine gun. Starts climbing with the first group.",
+      "wordCount": 11
+    },
+    {
+      "id": 17,
+      "index": 17,
+      "character": "THE CLIFF FACE",
+      "gender": "NA",
+      "line": "The Americans swarm up the ropes. Taking turns firing up at the Germans.",
+      "wordCount": 13
+    },
+    {
+      "id": 18,
+      "index": 18,
+      "character": "HALF-WAY",
+      "gender": "NA",
+      "line": "An American private is HIT. FALLS, taking two others with him. All three land on the rocks below. Another way to die.",
+      "wordCount": 22
+    },
+    {
+      "id": 19,
+      "index": 19,
+      "character": "NEAR THE TOP",
+      "gender": "NA",
+      "line": "Less steep. They leave the ropes. Free climb, scrambling up the rocks.",
+      "wordCount": 12
+    },
+    {
+      "id": 20,
+      "index": 20,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Joins half-a-dozen pinned down men. Others bottleneck behind them. Miller scans the route and the defenders.",
+      "wordCount": 16
+    },
+    {
+      "id": 21,
+      "index": 21,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "That's the route.",
+      "wordCount": 3
+    },
+    {
+      "id": 22,
+      "index": 22,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Go!",
+      "wordCount": 1
+    },
+    {
+      "id": 23,
+      "index": 23,
+      "character": "THE SIX MEN",
+      "gender": "NA",
+      "line": "Take an instant to get ready. Then SCRAMBLE into the gap.",
+      "wordCount": 11
+    },
+    {
+      "id": 24,
+      "index": 24,
+      "character": "THE SIX MEN",
+      "gender": "NA",
+      "line": "Are CUT TO RIBBONS by MACHINE GUN FIRE. All KILLED. They fall to the rocks below.",
+      "wordCount": 16
+    },
+    {
+      "id": 25,
+      "index": 25,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "It's the only way.",
+      "wordCount": 4
+    },
+    {
+      "id": 26,
+      "index": 26,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Turns to the next half-dozen men.",
+      "wordCount": 6
+    },
+    {
+      "id": 27,
+      "index": 27,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "YOU'RE NEXT!",
+      "wordCount": 2
+    },
+    {
+      "id": 28,
+      "index": 28,
+      "character": "THE SECOND SIX",
+      "gender": "NA",
+      "line": "Move to the head of the gap. Miller moves for a better angle against the machine guns. Calls to JACKSON, a tall, gangly Southern country boy, sharp-shooter.",
+      "wordCount": 27
+    },
+    {
+      "id": 29,
+      "index": 29,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "JACKSON, PICK OFF A FEW OF THEM, WILL YOU?",
+      "wordCount": 9
+    },
+    {
+      "id": 30,
+      "index": 30,
+      "character": "JACKSON",
+      "gender": "Male",
+      "line": "You betcha, Captain.",
+      "wordCount": 3
+    },
+    {
+      "id": 31,
+      "index": 31,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "GO!",
+      "wordCount": 1
+    },
+    {
+      "id": 32,
+      "index": 32,
+      "character": "THE SECOND SIX",
+      "gender": "NA",
+      "line": "Take deep breaths. Head into the gap.",
+      "wordCount": 7
+    },
+    {
+      "id": 33,
+      "index": 33,
+      "character": "THE SECOND SIX",
+      "gender": "NA",
+      "line": "Are RAKED BY MACHINE GUNS. All are KILLED.",
+      "wordCount": 8
+    },
+    {
+      "id": 34,
+      "index": 34,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Turns, looking for the next six. His eyes fall on Sarge and REIBEN who is a cynical, sharp, New Yorker. Reiben smiles.",
+      "wordCount": 22
+    },
+    {
+      "id": 35,
+      "index": 35,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "Captain, can I put in for a transfer?",
+      "wordCount": 8
+    },
+    {
+      "id": 36,
+      "index": 36,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Sure, meet me at the top, we'll start the paperwork.",
+      "wordCount": 10
+    },
+    {
+      "id": 37,
+      "index": 37,
+      "character": "THE THIRD SIX",
+      "gender": "NA",
+      "line": "Moves into place. Sarge and Miller exchange a look. They both see the madness of what they're doing.",
+      "wordCount": 18
+    },
+    {
+      "id": 38,
+      "index": 38,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "GO!",
+      "wordCount": 1
+    },
+    {
+      "id": 39,
+      "index": 39,
+      "character": "SARGE",
+      "gender": "NA",
+      "line": "Rolls his eyes, takes a breath. Scrambles into the gap. The other five right behind.",
+      "wordCount": 15
+    },
+    {
+      "id": 40,
+      "index": 40,
+      "character": "IN THE GAP",
+      "gender": "NA",
+      "line": "BULLETS EVERYWHERE.",
+      "wordCount": 2
+    },
+    {
+      "id": 41,
+      "index": 41,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "I'll be Goddamned! I'm not dead!",
+      "wordCount": 6
+    },
+    {
+      "id": 42,
+      "index": 42,
+      "character": "SARGE",
+      "gender": "NA",
+      "line": "CAPTAIN, IF YOUR MOTHER SAW YOU DO THAT, SHE'D BE VERY UPSET!",
+      "wordCount": 12
+    },
+    {
+      "id": 43,
+      "index": 43,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "I THOUGHT YOU WERE MY MOTHER.",
+      "wordCount": 6
+    },
+    {
+      "id": 44,
+      "index": 44,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Crosses the gap. His men follow.",
+      "wordCount": 6
+    },
+    {
+      "id": 45,
+      "index": 45,
+      "character": "AT THE CREST",
+      "gender": "NA",
+      "line": "The Americans swarm over the top. FIRING.",
+      "wordCount": 7
+    },
+    {
+      "id": 46,
+      "index": 46,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Okay, Wade, your turn.",
+      "wordCount": 4
+    },
+    {
+      "id": 47,
+      "index": 47,
+      "character": "MILLER AND SARGE",
+      "gender": "NA",
+      "line": "Survey the field.",
+      "wordCount": 3
+    },
+    {
+      "id": 48,
+      "index": 48,
+      "character": "SARGE",
+      "gender": "NA",
+      "line": "What the hell were you doing? Drawing fire!",
+      "wordCount": 8
+    },
+    {
+      "id": 49,
+      "index": 49,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Worked, didn't it?",
+      "wordCount": 3
+    },
+    {
+      "id": 50,
+      "index": 50,
+      "character": "SARGE",
+      "gender": "NA",
+      "line": "You tryin' to get yourself killed?",
+      "wordCount": 6
+    },
+    {
+      "id": 51,
+      "index": 51,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Don't need to, the Krauts go that covered.",
+      "wordCount": 8
+    },
+    {
+      "id": 52,
+      "index": 52,
+      "character": "SUPERIMPOSITION:",
+      "gender": "NA",
+      "line": "WAR DEPARTMENT WASHINGTON, D.C.",
+      "wordCount": 4
+    },
+    {
+      "id": 53,
+      "index": 53,
+      "character": "A CLERK",
+      "gender": "NA",
+      "line": "Older than the others, sad-eyed, adds a sheet of paper to a large pile in his out-box.",
+      "wordCount": 17
+    },
+    {
+      "id": 54,
+      "index": 54,
+      "character": "CLOSE SHOT",
+      "gender": "NA",
+      "line": "An outgoing telegram. It reads: \"We regret to inform you...killed in action...heroic service...\" This is the paperwork of death.",
+      "wordCount": 19
+    },
+    {
+      "id": 55,
+      "index": 55,
+      "character": "THE CLERK",
+      "gender": "NA",
+      "line": "Pulls out a file. Reads. Finds something troubling. Quickly shuffles through some other papers. Finds what he's looking for. Rises from his desk and hurries out of the office.",
+      "wordCount": 29
+    },
+    {
+      "id": 56,
+      "index": 56,
+      "character": "IN THE YARD",
+      "gender": "NA",
+      "line": "A tire swing. A bushel basket nailed to the barn over a dirt basketball court.",
+      "wordCount": 15
+    },
+    {
+      "id": 57,
+      "index": 57,
+      "character": "A PORCH SWING",
+      "gender": "NA",
+      "line": "Sits empty. Moves slightly.",
+      "wordCount": 4
+    },
+    {
+      "id": 58,
+      "index": 58,
+      "character": "MARGARET RYAN",
+      "gender": "NA",
+      "line": "Steps out. Around sixty. Her face shows the lines of a life of hard work and mother hood. A good woman.",
+      "wordCount": 21
+    },
+    {
+      "id": 59,
+      "index": 59,
+      "character": "GENERAL MARSHALL",
+      "gender": "NA",
+      "line": "Goddamn it.",
+      "wordCount": 2
+    },
+    {
+      "id": 60,
+      "index": 60,
+      "character": "GENERAL MARSHALL",
+      "gender": "NA",
+      "line": "Any contact with the fourth brother, James?",
+      "wordCount": 7
+    },
+    {
+      "id": 61,
+      "index": 61,
+      "character": "GENERAL MARSHALL",
+      "gender": "NA",
+      "line": "Well, if he's alive, we're going to send someone to get him the hell out of there. That's just what the General's staff wanted to hear.",
+      "wordCount": 26
+    },
+    {
+      "id": 62,
+      "index": 62,
+      "character": "SUPERIMPOSITION:",
+      "gender": "NA",
+      "line": "Normandy 1300 hours June 9",
+      "wordCount": 5
+    },
+    {
+      "id": 63,
+      "index": 63,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Trailed by a RADIOMAN, dashes through the fire and dives into a sludge- filled crater. He surfaces, sees Sarge and Reiben, and reels from a horrific smell. Their conversation is repeatedly broken by FIRING And DUCKING GERMAN FIRE.",
+      "wordCount": 38
+    },
+    {
+      "id": 64,
+      "index": 64,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Jesus Christ! What the hell are we swimming in?",
+      "wordCount": 9
+    },
+    {
+      "id": 65,
+      "index": 65,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "Shit, sir.",
+      "wordCount": 2
+    },
+    {
+      "id": 66,
+      "index": 66,
+      "character": "SARGE",
+      "gender": "NA",
+      "line": "Fertilizer, Captain, I think we're in a cranberry bog.",
+      "wordCount": 9
+    },
+    {
+      "id": 67,
+      "index": 67,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "Out of the frying pan, into the fucking latrine.",
+      "wordCount": 9
+    },
+    {
+      "id": 68,
+      "index": 68,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Look at the bright side, the Krauts sure as hell don't want to advance and hold this cesspool.",
+      "wordCount": 18
+    },
+    {
+      "id": 69,
+      "index": 69,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Get Fire Control, we need some artillery...",
+      "wordCount": 7
+    },
+    {
+      "id": 70,
+      "index": 70,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "Sir, what if they send some other company into Caen ahead of us while we're pinned down here?",
+      "wordCount": 18
+    },
+    {
+      "id": 71,
+      "index": 71,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Don't worry, we're the only Rangers this side of the continent, we've got to be first into Caen.",
+      "wordCount": 18
+    },
+    {
+      "id": 72,
+      "index": 72,
+      "character": "SARGE",
+      "gender": "NA",
+      "line": "Who cares?",
+      "wordCount": 2
+    },
+    {
+      "id": 73,
+      "index": 73,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "I care. Don't you know what Caen's famous for, Sarge?",
+      "wordCount": 10
+    },
+    {
+      "id": 74,
+      "index": 74,
+      "character": "SARGE",
+      "gender": "NA",
+      "line": "Frogs?",
+      "wordCount": 1
+    },
+    {
+      "id": 75,
+      "index": 75,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "Lingerie.",
+      "wordCount": 1
+    },
+    {
+      "id": 76,
+      "index": 76,
+      "character": "SARGE",
+      "gender": "NA",
+      "line": "Yeah? So?",
+      "wordCount": 2
+    },
+    {
+      "id": 77,
+      "index": 77,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "So, you ever heard of employee discounts? My uncle sells shoes, gets twenty-five percent off everything in the line, got a closet filled with the best looking shoes you ever seen.",
+      "wordCount": 31
+    },
+    {
+      "id": 78,
+      "index": 78,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "Just picture some French number been spending all day, every day, making cream-colored, shear-body negligees with gentle-lift silk cups and gathered empire waists, what the hell you think she wears at night?",
+      "wordCount": 32
+    },
+    {
+      "id": 79,
+      "index": 79,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Reiben, how the hell do you know so much about lingerie?",
+      "wordCount": 11
+    },
+    {
+      "id": 80,
+      "index": 80,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "Lingerie is my life, sir. My mother's got a shop in Brooklyn, I grew up in it, from the time I could crawl, we carry Caen lingerie, it's the best there is, it's all I been thinking about since the invasion.",
+      "wordCount": 41
+    },
+    {
+      "id": 81,
+      "index": 81,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "There's a war on, good chance they're not still making lingerie in Caen.",
+      "wordCount": 13
+    },
+    {
+      "id": 82,
+      "index": 82,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "Oh, Captain, they'll always make lingerie, it's one of the three basic needs of man -- food, shelter, silk teddies. Miller Dream on, private.",
+      "wordCount": 24
+    },
+    {
+      "id": 83,
+      "index": 83,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "Happy to, sir.",
+      "wordCount": 3
+    },
+    {
+      "id": 84,
+      "index": 84,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Maybe the war's over.",
+      "wordCount": 4
+    },
+    {
+      "id": 85,
+      "index": 85,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "I don't think so, Captain.",
+      "wordCount": 5
+    },
+    {
+      "id": 86,
+      "index": 86,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Stay at it until you get fire control. Keep 'em down, wait for the navy.",
+      "wordCount": 15
+    },
+    {
+      "id": 87,
+      "index": 87,
+      "character": "SARGE",
+      "gender": "NA",
+      "line": "Yes, sir.",
+      "wordCount": 2
+    },
+    {
+      "id": 88,
+      "index": 88,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Runs over the broken ground and makes it to the sandbagged H.Q. He stumbles down the make-shift stairs.",
+      "wordCount": 18
+    },
+    {
+      "id": 89,
+      "index": 89,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Miller, Company B, Second Rangers.",
+      "wordCount": 5
+    },
+    {
+      "id": 90,
+      "index": 90,
+      "character": "COLONEL ANDERSON",
+      "gender": "Male",
+      "line": "...I understand your problem, but if we don't get those tanks off-loaded by 0600, we're going to have an entire division up at Caen with its ass hanging out of its pants...",
+      "wordCount": 32
+    },
+    {
+      "id": 91,
+      "index": 91,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "My what?",
+      "wordCount": 2
+    },
+    {
+      "id": 92,
+      "index": 92,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Find a chaplain.",
+      "wordCount": 3
+    },
+    {
+      "id": 93,
+      "index": 93,
+      "character": "COLONEL ANDERSON",
+      "gender": "Male",
+      "line": "...alright, let me know when.",
+      "wordCount": 5
+    },
+    {
+      "id": 94,
+      "index": 94,
+      "character": "COLONEL ANDERSON",
+      "gender": "Male",
+      "line": "Have the Second and Third Regiments hold at St. Michel until we get those tanks. Aide Yes, sir.",
+      "wordCount": 18
+    },
+    {
+      "id": 95,
+      "index": 95,
+      "character": "COLONEL ANDERSON",
+      "gender": "Male",
+      "line": "Report.",
+      "wordCount": 1
+    },
+    {
+      "id": 96,
+      "index": 96,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Sector four is secured, we put out the last three German one-fifty-fives, found them about two miles in from Ponte du Hoc.",
+      "wordCount": 22
+    },
+    {
+      "id": 97,
+      "index": 97,
+      "character": "COLONEL ANDERSON",
+      "gender": "Male",
+      "line": "Resistance?",
+      "wordCount": 1
+    },
+    {
+      "id": 98,
+      "index": 98,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "A company, Wehrmacht, no artillery, we took twenty-three prisoners, turned them over to intelligence.",
+      "wordCount": 14
+    },
+    {
+      "id": 99,
+      "index": 99,
+      "character": "COLONEL ANDERSON",
+      "gender": "Male",
+      "line": "Casualties?",
+      "wordCount": 1
+    },
+    {
+      "id": 100,
+      "index": 100,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Fourty-four, twenty one dead.",
+      "wordCount": 4
+    },
+    {
+      "id": 101,
+      "index": 101,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "They didn't want to give up those one-fifty-fives, sir.",
+      "wordCount": 9
+    },
+    {
+      "id": 102,
+      "index": 102,
+      "character": "COLONEL ANDERSON",
+      "gender": "Male",
+      "line": "It was a hard assignment, that's why you got it.",
+      "wordCount": 10
+    },
+    {
+      "id": 103,
+      "index": 103,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Yes, sir.",
+      "wordCount": 2
+    },
+    {
+      "id": 104,
+      "index": 104,
+      "character": "COLONEL ANDERSON",
+      "gender": "Male",
+      "line": "Where are your men now?",
+      "wordCount": 5
+    },
+    {
+      "id": 105,
+      "index": 105,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Pinned down, a mile east of here, waiting for some help from the navy guns.",
+      "wordCount": 15
+    },
+    {
+      "id": 106,
+      "index": 106,
+      "character": "COLONEL ANDERSON",
+      "gender": "Male",
+      "line": "I'm sending Simpson to take over for you, the division is going to Caen, you're not coming with us, I have something else for you.",
+      "wordCount": 25
+    },
+    {
+      "id": 107,
+      "index": 107,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Sir?",
+      "wordCount": 1
+    },
+    {
+      "id": 108,
+      "index": 108,
+      "character": "COLONEL ANDERSON",
+      "gender": "Male",
+      "line": "There's a Private James Ryan who parachuted in with the Hundred-and- First near Ramelle. I want you to take a squad up there. If he's alive, bring him back to the beach for debarkation. Take whoever you need, you've got your pick of the company.",
+      "wordCount": 45
+    },
+    {
+      "id": 109,
+      "index": 109,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "A private, sir?",
+      "wordCount": 3
+    },
+    {
+      "id": 110,
+      "index": 110,
+      "character": "COLONEL ANDERSON",
+      "gender": "Male",
+      "line": "He's the last of four brothers, the other three were killed in action. This is straight from the Chief of Staff.",
+      "wordCount": 21
+    },
+    {
+      "id": 111,
+      "index": 111,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "But, sir...I...I...",
+      "wordCount": 2
+    },
+    {
+      "id": 112,
+      "index": 112,
+      "character": "COLONEL ANDERSON",
+      "gender": "Male",
+      "line": "Spit it out, Captain.",
+      "wordCount": 4
+    },
+    {
+      "id": 113,
+      "index": 113,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Respectfully, sir, sending men all the way up to Ramelle to save one private doesn't make a fucking, goddamned bit of sense. Sir.",
+      "wordCount": 23
+    },
+    {
+      "id": 114,
+      "index": 114,
+      "character": "COLONEL ANDERSON",
+      "gender": "Male",
+      "line": "You think just because you hold the Congressional Medal of Honor, you can say any damn thing you please to your superior officers?",
+      "wordCount": 23
+    },
+    {
+      "id": 115,
+      "index": 115,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Yes, sir, more or less.",
+      "wordCount": 5
+    },
+    {
+      "id": 116,
+      "index": 116,
+      "character": "COLONEL ANDERSON",
+      "gender": "Male",
+      "line": "Alright, I'll give you that. Continue.",
+      "wordCount": 6
+    },
+    {
+      "id": 117,
+      "index": 117,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "The numbers don't make sense, sir. His brothers are dead, that's too bad, but they're out of the equation. Sending men up there is bleeding heart crapola from three thousand miles away. One private is simply not worth a squad. Colonel anderson This one is. He's worth a lot more than that. Which is why I'm sending you, you're the best field officer there is.",
+      "wordCount": 65
+    },
+    {
+      "id": 118,
+      "index": 118,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Yes and no, sir, what about Morgan? Fine officer, regular church goer, writes poetry, he might like a mission like this. And he's taller than me.",
+      "wordCount": 26
+    },
+    {
+      "id": 119,
+      "index": 119,
+      "character": "COLONEL ANDERSON",
+      "gender": "Male",
+      "line": "That's enough, Captain, you have your orders. Major Thomas will fill you in.",
+      "wordCount": 13
+    },
+    {
+      "id": 120,
+      "index": 120,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Yes, sir.",
+      "wordCount": 2
+    },
+    {
+      "id": 121,
+      "index": 121,
+      "character": "COLONEL ANDERSON",
+      "gender": "Male",
+      "line": "Good luck, John.",
+      "wordCount": 3
+    },
+    {
+      "id": 122,
+      "index": 122,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Thank you, sir.",
+      "wordCount": 3
+    },
+    {
+      "id": 123,
+      "index": 123,
+      "character": "IN THE CRATERS",
+      "gender": "NA",
+      "line": "Miller's Ranger company ducks and covers. The BARRAGE SUBSIDES. The Rangers rise, FIRING, leap-frogging from crater to crater, advancing against the remaining Germans who return SMALL ARMS FIRE.",
+      "wordCount": 28
+    },
+    {
+      "id": 124,
+      "index": 124,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Crouch-runs and dives into a crater with Sarge.",
+      "wordCount": 8
+    },
+    {
+      "id": 125,
+      "index": 125,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Put on your traveling shoes, Sarge, we're heading out.",
+      "wordCount": 9
+    },
+    {
+      "id": 126,
+      "index": 126,
+      "character": "SARGE",
+      "gender": "NA",
+      "line": "Caen?",
+      "wordCount": 1
+    },
+    {
+      "id": 127,
+      "index": 127,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "I wish. You and I are taking a squad up to Ramelle on a public relations mission.",
+      "wordCount": 17
+    },
+    {
+      "id": 128,
+      "index": 128,
+      "character": "SARGE",
+      "gender": "NA",
+      "line": "You? Leading a squad?",
+      "wordCount": 4
+    },
+    {
+      "id": 129,
+      "index": 129,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Some private up there lost three brothers, got a ticket home.",
+      "wordCount": 11
+    },
+    {
+      "id": 130,
+      "index": 130,
+      "character": "SARGE",
+      "gender": "NA",
+      "line": "What about the company?",
+      "wordCount": 4
+    },
+    {
+      "id": 131,
+      "index": 131,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Simpson.",
+      "wordCount": 1
+    },
+    {
+      "id": 132,
+      "index": 132,
+      "character": "SARGE",
+      "gender": "NA",
+      "line": "Simpson? Jesus Christ on a fucking pogo stick!",
+      "wordCount": 8
+    },
+    {
+      "id": 133,
+      "index": 133,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "I want Reiben on B.A.R; Jackson with his sniper rifle; Beasley, demolition.",
+      "wordCount": 12
+    },
+    {
+      "id": 134,
+      "index": 134,
+      "character": "SARGE",
+      "gender": "NA",
+      "line": "Beasley's dead.",
+      "wordCount": 2
+    },
+    {
+      "id": 135,
+      "index": 135,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Okay, Wade. Translators?",
+      "wordCount": 3
+    },
+    {
+      "id": 136,
+      "index": 136,
+      "character": "SARGE",
+      "gender": "NA",
+      "line": "Fresh out.",
+      "wordCount": 2
+    },
+    {
+      "id": 137,
+      "index": 137,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "What about Talbot?",
+      "wordCount": 3
+    },
+    {
+      "id": 138,
+      "index": 138,
+      "character": "SARGE",
+      "gender": "NA",
+      "line": "Twenty minutes ago. Miller Damn, I'll go see if I can find another one. You get Reiben, Jackson and Wade, meet me at transport.",
+      "wordCount": 24
+    },
+    {
+      "id": 139,
+      "index": 139,
+      "character": "SARGE",
+      "gender": "NA",
+      "line": "Yes, sir.",
+      "wordCount": 2
+    },
+    {
+      "id": 140,
+      "index": 140,
+      "character": "SUPPLY SERGEANT",
+      "gender": "NA",
+      "line": "GET THOSE GODDAMNED HALF-TRACKS OUT OF THERE!",
+      "wordCount": 7
+    },
+    {
+      "id": 141,
+      "index": 141,
+      "character": "SERGEANT",
+      "gender": "Male",
+      "line": "THEN UNBLOCK 'EM!",
+      "wordCount": 3
+    },
+    {
+      "id": 142,
+      "index": 142,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Strides through the chaos, avoiding the passing vehicles. He sees his men and walks toward them. Reiben hurries up to Miller, pleading.",
+      "wordCount": 22
+    },
+    {
+      "id": 143,
+      "index": 143,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "Please, sir, you can't take me to Ramelle, I gotta go to Caen, sir, please, I told you, they make Caen lingerie there, it's beautiful, it's the best there is, it's...oh, please, sir...",
+      "wordCount": 33
+    },
+    {
+      "id": 144,
+      "index": 144,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Sorry, I need a B.A.R. man, you're the best.",
+      "wordCount": 9
+    },
+    {
+      "id": 145,
+      "index": 145,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "No, I'm not, Kaback is, honest. Or what about Faulkner? Or that little guy with the glasses?",
+      "wordCount": 17
+    },
+    {
+      "id": 146,
+      "index": 146,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Trust me, you're the best.",
+      "wordCount": 5
+    },
+    {
+      "id": 147,
+      "index": 147,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "But, sir...",
+      "wordCount": 2
+    },
+    {
+      "id": 148,
+      "index": 148,
+      "character": "SARGE",
+      "gender": "NA",
+      "line": "You get a translator, Captain?",
+      "wordCount": 5
+    },
+    {
+      "id": 149,
+      "index": 149,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "I've got a line on one.",
+      "wordCount": 6
+    },
+    {
+      "id": 150,
+      "index": 150,
+      "character": "TRANSPORT OPERATIONS TABLE",
+      "gender": "NA",
+      "line": "Chaos. Vehicles THUNDERING by. The Supply Sergeant juggles runners and paperwork. Miller steps up to him.",
+      "wordCount": 16
+    },
+    {
+      "id": 151,
+      "index": 151,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Sergeant, I need a truck.",
+      "wordCount": 5
+    },
+    {
+      "id": 152,
+      "index": 152,
+      "character": "SUPPLY SERGEANT",
+      "gender": "NA",
+      "line": "Sorry, sir, fresh out of trucks, how 'bout a '38 Ford Roadster, hard-top, red with black interior.",
+      "wordCount": 17
+    },
+    {
+      "id": 153,
+      "index": 153,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "White-walls?",
+      "wordCount": 1
+    },
+    {
+      "id": 154,
+      "index": 154,
+      "character": "SUPPLY SERGEANT",
+      "gender": "NA",
+      "line": "No white-walls, sir, there's a war on. NOT THERE, YOU GODDAMNED IDIOT, OVER",
+      "wordCount": 13
+    },
+    {
+      "id": 155,
+      "index": 155,
+      "character": "THERE!",
+      "gender": "NA",
+      "line": "I can't help you, sir.",
+      "wordCount": 5
+    },
+    {
+      "id": 156,
+      "index": 156,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "A half-track, anything.",
+      "wordCount": 3
+    },
+    {
+      "id": 157,
+      "index": 157,
+      "character": "SUPPLY SERGEANT",
+      "gender": "NA",
+      "line": "Sorry, sir. Division is using everything on wheels to get up to Caen. How come you guys aren't going?",
+      "wordCount": 19
+    },
+    {
+      "id": 158,
+      "index": 158,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "How about that jeep?",
+      "wordCount": 4
+    },
+    {
+      "id": 159,
+      "index": 159,
+      "character": "SUPPLY SERGEANT",
+      "gender": "NA",
+      "line": "That's General Gavin's. His lap dog told me if anyone breathes on it, I'll get busted and if anyone so much as touches it with their little finger, I'll get court marshaled. If you were to take it, they'd shoot me.",
+      "wordCount": 41
+    },
+    {
+      "id": 160,
+      "index": 160,
+      "character": "JACKSON",
+      "gender": "Male",
+      "line": "Cap'n, does that mean we got to walk all the way up to Ramelle?",
+      "wordCount": 14
+    },
+    {
+      "id": 161,
+      "index": 161,
+      "character": "SUPPLY SERGEANT",
+      "gender": "NA",
+      "line": "What's at Ramelle beside a lot of Germans.",
+      "wordCount": 8
+    },
+    {
+      "id": 162,
+      "index": 162,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "A paratrooper named Ryan. He's going home, if he's alive.",
+      "wordCount": 10
+    },
+    {
+      "id": 163,
+      "index": 163,
+      "character": "SUPPLY SERGEANT",
+      "gender": "NA",
+      "line": "Senator's son?",
+      "wordCount": 2
+    },
+    {
+      "id": 164,
+      "index": 164,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "No, three brothers of his were killed in action. Command wants him out of there.",
+      "wordCount": 15
+    },
+    {
+      "id": 165,
+      "index": 165,
+      "character": "SUPPLY SERGEANT",
+      "gender": "NA",
+      "line": "Damn...I got a couple brothers...",
+      "wordCount": 5
+    },
+    {
+      "id": 166,
+      "index": 166,
+      "character": "GENERAL GAVIN",
+      "gender": "NA",
+      "line": "SERGEANT, WHERE THE HELL IS MY GODDAMNED JEEP!?",
+      "wordCount": 8
+    },
+    {
+      "id": 167,
+      "index": 167,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "We've got to make one stop.",
+      "wordCount": 6
+    },
+    {
+      "id": 168,
+      "index": 168,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Wait here.",
+      "wordCount": 2
+    },
+    {
+      "id": 169,
+      "index": 169,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "I understand you speak French and German.",
+      "wordCount": 7
+    },
+    {
+      "id": 170,
+      "index": 170,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Do you have an accent?",
+      "wordCount": 5
+    },
+    {
+      "id": 171,
+      "index": 171,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Good, you've been re-assigned to me, we're going to Ramelle.",
+      "wordCount": 10
+    },
+    {
+      "id": 172,
+      "index": 172,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "That's my understanding.",
+      "wordCount": 3
+    },
+    {
+      "id": 173,
+      "index": 173,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Do you have a problem with that, Corporal?",
+      "wordCount": 8
+    },
+    {
+      "id": 174,
+      "index": 174,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "I need a translator, all mine have been killed.",
+      "wordCount": 9
+    },
+    {
+      "id": 175,
+      "index": 175,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "It'll come back to you. Get your gear.",
+      "wordCount": 8
+    },
+    {
+      "id": 176,
+      "index": 176,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "A small one.",
+      "wordCount": 3
+    },
+    {
+      "id": 177,
+      "index": 177,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Go, go...",
+      "wordCount": 2
+    },
+    {
+      "id": 178,
+      "index": 178,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "Captain, can I ask you a question?",
+      "wordCount": 7
+    },
+    {
+      "id": 179,
+      "index": 179,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Sure, Reiben.",
+      "wordCount": 2
+    },
+    {
+      "id": 180,
+      "index": 180,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "Where are you planning on putting Private Ryan, sir?",
+      "wordCount": 9
+    },
+    {
+      "id": 181,
+      "index": 181,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "It's just that it's kind of crowded back here, I was wondering if you're expecting to have more room on the way back?",
+      "wordCount": 23
+    },
+    {
+      "id": 182,
+      "index": 182,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Left.",
+      "wordCount": 1
+    },
+    {
+      "id": 183,
+      "index": 183,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Now we've got a straight shot, due north, to Ramelle, twenty-six miles, two villages between here and there, St. Mere, then Bernay. We'll take the jeep as far as we can, then go on on foot.",
+      "wordCount": 36
+    },
+    {
+      "id": 184,
+      "index": 184,
+      "character": "SARGE",
+      "gender": "NA",
+      "line": "We in radio contact with anybody up there?",
+      "wordCount": 8
+    },
+    {
+      "id": 185,
+      "index": 185,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Somebody put the wrong crystals in every one of the Hundred-and-First's radios the night before the drop, not one of them works. We're going in blind.",
+      "wordCount": 26
+    },
+    {
+      "id": 186,
+      "index": 186,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "I usually like surprises.",
+      "wordCount": 4
+    },
+    {
+      "id": 187,
+      "index": 187,
+      "character": "SARGE",
+      "gender": "NA",
+      "line": "What are we likely to run into?",
+      "wordCount": 7
+    },
+    {
+      "id": 188,
+      "index": 188,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "A fucking mess, two maybe three Kraut divisions, no fronts, no lines, the drops were completely fouled up, we've got little pockets of paratroopers all over the place, trying to hang on. Command says we hold St. Mere, but north of that, it's all Krauts. Even if Ryan's where he's supposed to be, he's more than likely dead.",
+      "wordCount": 58
+    },
+    {
+      "id": 189,
+      "index": 189,
+      "character": "SARGE",
+      "gender": "NA",
+      "line": "Hell of a mission.",
+      "wordCount": 4
+    },
+    {
+      "id": 190,
+      "index": 190,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Yep, hell of a mission.",
+      "wordCount": 5
+    },
+    {
+      "id": 191,
+      "index": 191,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "You want to shoot him, or should I?",
+      "wordCount": 8
+    },
+    {
+      "id": 192,
+      "index": 192,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "Jackson?",
+      "wordCount": 1
+    },
+    {
+      "id": 193,
+      "index": 193,
+      "character": "JACKSON",
+      "gender": "Male",
+      "line": "Hell, no, last time I shot a corporal, Cap'n Miller near bit my head off.",
+      "wordCount": 15
+    },
+    {
+      "id": 194,
+      "index": 194,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "I don't want anybody to shoot him, that's an order. He speaks French and his German has a touch of the Bavarian.",
+      "wordCount": 22
+    },
+    {
+      "id": 195,
+      "index": 195,
+      "character": "UPHAM",
+      "gender": "Male",
+      "line": "...who won the Congressional Medal of Hon...?",
+      "wordCount": 7
+    },
+    {
+      "id": 196,
+      "index": 196,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "Captain, I gotta tell you, the irony of this mission is fucking killing me.",
+      "wordCount": 14
+    },
+    {
+      "id": 197,
+      "index": 197,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Yeah, how so?",
+      "wordCount": 3
+    },
+    {
+      "id": 198,
+      "index": 198,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "I should be on my way to Caen, sir. It's like Beethoven, the guy's one of the greatest composers ever lived and he goes deaf. Go figure, I mean, who'd he piss off? And here I am, the Beethoven of ladies foundation garments, one step away from Caen, the center of the known lingerie universe and instead, I'm going to Ramelle to save some fucking private who's probably already dead.",
+      "wordCount": 70
+    },
+    {
+      "id": 199,
+      "index": 199,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "There's to be a bright side, look for it.",
+      "wordCount": 9
+    },
+    {
+      "id": 200,
+      "index": 200,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "Sir, you know what Ramelle is famous for? Cheese. The rest of the company is going to Caen and we're going to the goddamned cheese capital of France. There is no bright side.",
+      "wordCount": 33
+    },
+    {
+      "id": 201,
+      "index": 201,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "There's always a bright side.",
+      "wordCount": 5
+    },
+    {
+      "id": 202,
+      "index": 202,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "I'm listening, sir.",
+      "wordCount": 3
+    },
+    {
+      "id": 203,
+      "index": 203,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Well, I, for one, like cheese.",
+      "wordCount": 6
+    },
+    {
+      "id": 204,
+      "index": 204,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "Well, you're a happy idiot.",
+      "wordCount": 5
+    },
+    {
+      "id": 205,
+      "index": 205,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "How's the road up to St. Mere?",
+      "wordCount": 7
+    },
+    {
+      "id": 206,
+      "index": 206,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Anybody getting through?",
+      "wordCount": 3
+    },
+    {
+      "id": 207,
+      "index": 207,
+      "character": "IN THE BACK",
+      "gender": "NA",
+      "line": "The men bounce up and down like stuffed animals, doing their best to not be thrown out.",
+      "wordCount": 17
+    },
+    {
+      "id": 208,
+      "index": 208,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "Hell, this is better than Coney Island!",
+      "wordCount": 7
+    },
+    {
+      "id": 209,
+      "index": 209,
+      "character": "A HUGE BUMP",
+      "gender": "NA",
+      "line": "Bounces Reiben up and slams his back down on his shovel. He HOLLERS IN PAIN.",
+      "wordCount": 15
+    },
+    {
+      "id": 210,
+      "index": 210,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Just trying to make room for Ryan.",
+      "wordCount": 7
+    },
+    {
+      "id": 211,
+      "index": 211,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Sarge?",
+      "wordCount": 1
+    },
+    {
+      "id": 212,
+      "index": 212,
+      "character": "ANOTHER SHELL EXPLODES",
+      "gender": "NA",
+      "line": "Thirty yards ahead of them.",
+      "wordCount": 5
+    },
+    {
+      "id": 213,
+      "index": 213,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Directs Sarge off the road.",
+      "wordCount": 5
+    },
+    {
+      "id": 214,
+      "index": 214,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "They've got the road zeroed.",
+      "wordCount": 5
+    },
+    {
+      "id": 215,
+      "index": 215,
+      "character": "SARGE",
+      "gender": "NA",
+      "line": "Yanks the wheel, driving the jeep off the road.",
+      "wordCount": 9
+    },
+    {
+      "id": 216,
+      "index": 216,
+      "character": "THE JEEP BOUNCES",
+      "gender": "NA",
+      "line": "Off the shoulder. Nearly throwing everyone out. Somehow they hang on. The jeep tears along the rutted field.",
+      "wordCount": 18
+    },
+    {
+      "id": 217,
+      "index": 217,
+      "character": "ANOTHER EXPLOSION",
+      "gender": "NA",
+      "line": "Just behind them.",
+      "wordCount": 3
+    },
+    {
+      "id": 218,
+      "index": 218,
+      "character": "SARGE DRIVES MADLY",
+      "gender": "NA",
+      "line": "Not slowing down. Trying to avoid the biggest ruts and bumps.",
+      "wordCount": 11
+    },
+    {
+      "id": 219,
+      "index": 219,
+      "character": "ANOTHER EXPLOSION",
+      "gender": "NA",
+      "line": "Close on their side. Showers them with debris.",
+      "wordCount": 8
+    },
+    {
+      "id": 220,
+      "index": 220,
+      "character": "SARGE",
+      "gender": "NA",
+      "line": "Jesus Christ!",
+      "wordCount": 2
+    },
+    {
+      "id": 221,
+      "index": 221,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "They've got a hell of a spotter somewhere.",
+      "wordCount": 8
+    },
+    {
+      "id": 222,
+      "index": 222,
+      "character": "ANOTHER EXPLOSION",
+      "gender": "NA",
+      "line": "Even closer. The jeep's PEPPERED WITH SHRAPNEL. They BARREL THROUGH the smoke.",
+      "wordCount": 12
+    },
+    {
+      "id": 223,
+      "index": 223,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "S-curves, Sarge.",
+      "wordCount": 2
+    },
+    {
+      "id": 224,
+      "index": 224,
+      "character": "SARGE",
+      "gender": "NA",
+      "line": "Turns shallow curves without slowing down.",
+      "wordCount": 6
+    },
+    {
+      "id": 225,
+      "index": 225,
+      "character": "SARGE AND MILLER",
+      "gender": "NA",
+      "line": "Hang on. Stay in the jeep but are battered. All stunned. MILLER Is first to regain his bearings. Jumps up. Checks out the jeep. Undamaged. Deep in the soft dirt.",
+      "wordCount": 30
+    },
+    {
+      "id": 226,
+      "index": 226,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Sarge! Reverse!",
+      "wordCount": 2
+    },
+    {
+      "id": 227,
+      "index": 227,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "COME ON! YOU WANNA WALK?",
+      "wordCount": 5
+    },
+    {
+      "id": 228,
+      "index": 228,
+      "character": "STILL DAZED",
+      "gender": "NA",
+      "line": "Reiben, Wade, Jackson, Upham screw their heads back on. Shoulder into the jeep. Push for all they're worth. The WHEELS STILL SPIN.",
+      "wordCount": 22
+    },
+    {
+      "id": 229,
+      "index": 229,
+      "character": "MILLER IGNORES IT",
+      "gender": "NA",
+      "line": "He's the only one who does.",
+      "wordCount": 6
+    },
+    {
+      "id": 230,
+      "index": 230,
+      "character": "SARGE",
+      "gender": "NA",
+      "line": "Captain, they got us zeroed.",
+      "wordCount": 5
+    },
+    {
+      "id": 231,
+      "index": 231,
+      "character": "UPHAM",
+      "gender": "Male",
+      "line": "That's bracketing, right?",
+      "wordCount": 3
+    },
+    {
+      "id": 232,
+      "index": 232,
+      "character": "UPHAM",
+      "gender": "Male",
+      "line": "I know about bracketing. I read about it. The next one is going to land right on us.",
+      "wordCount": 18
+    },
+    {
+      "id": 233,
+      "index": 233,
+      "character": "MILLER FORWARD! FORWARD!",
+      "gender": "NA",
+      "line": "NOW REVERSE!",
+      "wordCount": 2
+    },
+    {
+      "id": 234,
+      "index": 234,
+      "character": "SARGE",
+      "gender": "NA",
+      "line": "Uh, Captain...",
+      "wordCount": 2
+    },
+    {
+      "id": 235,
+      "index": 235,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "PUSH!",
+      "wordCount": 1
+    },
+    {
+      "id": 236,
+      "index": 236,
+      "character": "SARGE",
+      "gender": "NA",
+      "line": "Uh, Captain...",
+      "wordCount": 2
+    },
+    {
+      "id": 237,
+      "index": 237,
+      "character": "THE TIRES SCREAM",
+      "gender": "NA",
+      "line": "A bit more progress. It's almost out.",
+      "wordCount": 7
+    },
+    {
+      "id": 238,
+      "index": 238,
+      "character": "SARGE",
+      "gender": "NA",
+      "line": "Oh, Captain...",
+      "wordCount": 2
+    },
+    {
+      "id": 239,
+      "index": 239,
+      "character": "ONE MORE PUSH",
+      "gender": "NA",
+      "line": "The jeep rocks back in, deeper.",
+      "wordCount": 6
+    },
+    {
+      "id": 240,
+      "index": 240,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "SHIT!",
+      "wordCount": 1
+    },
+    {
+      "id": 241,
+      "index": 241,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "GO!",
+      "wordCount": 1
+    },
+    {
+      "id": 242,
+      "index": 242,
+      "character": "THE MEN",
+      "gender": "NA",
+      "line": "Instantly take off. Away from the jeep. As fast as they can.",
+      "wordCount": 12
+    },
+    {
+      "id": 243,
+      "index": 243,
+      "character": "DIRECT HIT",
+      "gender": "NA",
+      "line": "OBLITERATING THE JEEP",
+      "wordCount": 3
+    },
+    {
+      "id": 244,
+      "index": 244,
+      "character": "THE MEN",
+      "gender": "NA",
+      "line": "Barely out of the BLAST PERIMETER. STUNNED by the concussion. SHOWERED with dirt, rock and debris.",
+      "wordCount": 16
+    },
+    {
+      "id": 245,
+      "index": 245,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Is first up. Sarge and the men struggle to their feet. Hear MORE INCOMING. Miller grabs Upham by the collar and pulls him up.",
+      "wordCount": 24
+    },
+    {
+      "id": 246,
+      "index": 246,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "HERE COME THE MORTARS!",
+      "wordCount": 4
+    },
+    {
+      "id": 247,
+      "index": 247,
+      "character": "THE FIELD",
+      "gender": "NA",
+      "line": "The six Americans run madly, in zig- zag patterns through the gauntlet of MORTAR EXPLOSIONS. BOOM",
+      "wordCount": 16
+    },
+    {
+      "id": 248,
+      "index": 248,
+      "character": "RUNNING, STUMBLING",
+      "gender": "NA",
+      "line": "BOOM, BOOM, BOOM",
+      "wordCount": 3
+    },
+    {
+      "id": 249,
+      "index": 249,
+      "character": "THE EXPLOSIONS STOP",
+      "gender": "NA",
+      "line": "THE MEN ALL STOP Panting. Struggling to catch their breath. Check their body parts. Everything's there. They have their weapons, most of their gear.",
+      "wordCount": 24
+    },
+    {
+      "id": 250,
+      "index": 250,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "General Gavin is going to be very irritated at you, Captain.",
+      "wordCount": 11
+    },
+    {
+      "id": 251,
+      "index": 251,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Stands on the edge of the woods, almost in a trance.",
+      "wordCount": 11
+    },
+    {
+      "id": 252,
+      "index": 252,
+      "character": "UPHAM",
+      "gender": "Male",
+      "line": "Captain, I...",
+      "wordCount": 2
+    },
+    {
+      "id": 253,
+      "index": 253,
+      "character": "SARGE",
+      "gender": "NA",
+      "line": "Sssssh!",
+      "wordCount": 1
+    },
+    {
+      "id": 254,
+      "index": 254,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Sarge, maps.",
+      "wordCount": 2
+    },
+    {
+      "id": 255,
+      "index": 255,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Two eighty-eights, just under two- and-a-half miles, that way, vector from the jeep, through those two trees at the base of the hill. The mortars came from behind that rise, there, four of them.",
+      "wordCount": 34
+    },
+    {
+      "id": 256,
+      "index": 256,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Wade, the radio.",
+      "wordCount": 3
+    },
+    {
+      "id": 257,
+      "index": 257,
+      "character": "UPHAM",
+      "gender": "Male",
+      "line": "You can tell all that, just by the sound, sire?",
+      "wordCount": 10
+    },
+    {
+      "id": 258,
+      "index": 258,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "That's not all. There were nine gunners on the eighty-eights, one had a broken heel on his boot, two had bratwurst for supper last night, one of them is named Fritz, the other, Hans, maybe, I don't know, it's hard to tell.",
+      "wordCount": 42
+    },
+    {
+      "id": 259,
+      "index": 259,
+      "character": "JACKSON",
+      "gender": "Male",
+      "line": "Corporal, you have just seen one of Captain Miller's many God-given talents. If, by some miracle, you survive, you will witness many more of them.",
+      "wordCount": 25
+    },
+    {
+      "id": 260,
+      "index": 260,
+      "character": "SARGE",
+      "gender": "NA",
+      "line": "Got it, sir. We gonna go take care of those eighty-eights?",
+      "wordCount": 11
+    },
+    {
+      "id": 261,
+      "index": 261,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "That's not what we're here for.",
+      "wordCount": 6
+    },
+    {
+      "id": 262,
+      "index": 262,
+      "character": "WADE",
+      "gender": "NA",
+      "line": "I've got command, Captain.",
+      "wordCount": 4
+    },
+    {
+      "id": 263,
+      "index": 263,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "This is Baker Charley One, fire mark, sector three, foxtrot quadrant, four- three by baker-three. Two eighty- eights. Tell our boys to come in low from the east in case the Krauts have ack-ack. Good hunting. Over.",
+      "wordCount": 37
+    },
+    {
+      "id": 264,
+      "index": 264,
+      "character": "SARGE",
+      "gender": "NA",
+      "line": "He's right, Captain, it might be kind of dangerous for those flyboys.",
+      "wordCount": 12
+    },
+    {
+      "id": 265,
+      "index": 265,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Tell that to Private James Ryan. We've got our orders. Let's go.",
+      "wordCount": 12
+    },
+    {
+      "id": 266,
+      "index": 266,
+      "character": "UPHAM",
+      "gender": "Male",
+      "line": "So, where are you from?",
+      "wordCount": 5
+    },
+    {
+      "id": 267,
+      "index": 267,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "Get lost.",
+      "wordCount": 2
+    },
+    {
+      "id": 268,
+      "index": 268,
+      "character": "UPHAM",
+      "gender": "Male",
+      "line": "So, where are you from?",
+      "wordCount": 5
+    },
+    {
+      "id": 269,
+      "index": 269,
+      "character": "JACKSON",
+      "gender": "Male",
+      "line": "You writin' a book or somethin'?",
+      "wordCount": 6
+    },
+    {
+      "id": 270,
+      "index": 270,
+      "character": "UPHAM",
+      "gender": "Male",
+      "line": "As a matter of fact, I am.",
+      "wordCount": 7
+    },
+    {
+      "id": 271,
+      "index": 271,
+      "character": "JACKSON",
+      "gender": "Male",
+      "line": "Figured.",
+      "wordCount": 1
+    },
+    {
+      "id": 272,
+      "index": 272,
+      "character": "WADE",
+      "gender": "NA",
+      "line": "I'm Wade, that's spelled, W-A-D-E, I'm small but wiry, with piercing, steel-gray eyes, and a rough-hewn but handsome face, I'm from Colorado, my father's a mining engineer, don't you take notes?",
+      "wordCount": 31
+    },
+    {
+      "id": 273,
+      "index": 273,
+      "character": "UPHAM",
+      "gender": "Male",
+      "line": "Demolition, right?",
+      "wordCount": 2
+    },
+    {
+      "id": 274,
+      "index": 274,
+      "character": "WADE",
+      "gender": "NA",
+      "line": "Since I was nine years old. They got a lot of explosives around mines. Me and my little brother could get into any warehouse you ever saw. Damn, we had fun!",
+      "wordCount": 31
+    },
+    {
+      "id": 275,
+      "index": 275,
+      "character": "JACKSON",
+      "gender": "Male",
+      "line": "I'm Jackson. I'm from West Fork, Tennessee. My pappy's a preacher. Him and his two brothers got a ministry, The Blessed Church of the Wandering Gospel.",
+      "wordCount": 26
+    },
+    {
+      "id": 276,
+      "index": 276,
+      "character": "UPHAM",
+      "gender": "Male",
+      "line": "In West Fork?",
+      "wordCount": 3
+    },
+    {
+      "id": 277,
+      "index": 277,
+      "character": "JACKSON",
+      "gender": "Male",
+      "line": "In the back of a nineteen and thirty- one stretch Hudson with a big ole' trailer.",
+      "wordCount": 16
+    },
+    {
+      "id": 278,
+      "index": 278,
+      "character": "UPHAM",
+      "gender": "Male",
+      "line": "No kidding.",
+      "wordCount": 2
+    },
+    {
+      "id": 279,
+      "index": 279,
+      "character": "JACKSON",
+      "gender": "Male",
+      "line": "I don't make jokes about things of, or related to, the preaching of the Holy Gospel, including the ministerial calling of my family.",
+      "wordCount": 23
+    },
+    {
+      "id": 280,
+      "index": 280,
+      "character": "UPHAM",
+      "gender": "Male",
+      "line": "So they travel around from place to place and preach?",
+      "wordCount": 10
+    },
+    {
+      "id": 281,
+      "index": 281,
+      "character": "JACKSON",
+      "gender": "Male",
+      "line": "We got us a tent, forty-two feet across, eighteen feet at center, hundred-and-ten foldin' chairs. Circuit's eleven towns, covers all 'a Hasset County and most 'a Weller County. I expect that upon completion of my military service I will be joinin' said ministry.",
+      "wordCount": 43
+    },
+    {
+      "id": 282,
+      "index": 282,
+      "character": "UPHAM",
+      "gender": "Male",
+      "line": "What about the Captain? Where's he from?",
+      "wordCount": 7
+    },
+    {
+      "id": 283,
+      "index": 283,
+      "character": "JACKSON",
+      "gender": "Male",
+      "line": "You figure that out, you got yourself one nice prize.",
+      "wordCount": 10
+    },
+    {
+      "id": 284,
+      "index": 284,
+      "character": "SARGE",
+      "gender": "NA",
+      "line": "Over three hundred bucks, last I heard. Wade Company's got a pool, five bucks gets you in, whoever guesses where the Captain's from and what he did as a civilian gets it all.",
+      "wordCount": 33
+    },
+    {
+      "id": 285,
+      "index": 285,
+      "character": "JACKSON",
+      "gender": "Male",
+      "line": "The whole kit and caboodle.",
+      "wordCount": 5
+    },
+    {
+      "id": 286,
+      "index": 286,
+      "character": "UPHAM",
+      "gender": "Male",
+      "line": "But everybody's heard of him, he won the Congressional Medal of Honor, he saved a dozen men.",
+      "wordCount": 17
+    },
+    {
+      "id": 287,
+      "index": 287,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "We know.",
+      "wordCount": 2
+    },
+    {
+      "id": 288,
+      "index": 288,
+      "character": "UPHAM",
+      "gender": "Male",
+      "line": "Somebody must know where he's from, what he did for a living.",
+      "wordCount": 12
+    },
+    {
+      "id": 289,
+      "index": 289,
+      "character": "SARGE",
+      "gender": "NA",
+      "line": "Somebody probably does.",
+      "wordCount": 3
+    },
+    {
+      "id": 290,
+      "index": 290,
+      "character": "UPHAM",
+      "gender": "Male",
+      "line": "Why don't you just ask him?",
+      "wordCount": 6
+    },
+    {
+      "id": 291,
+      "index": 291,
+      "character": "JACKSON",
+      "gender": "Male",
+      "line": "The Captain prefers not to discuss certain aspects of his life, in particular, everything up to and including his enlistment in the United States Army.",
+      "wordCount": 25
+    },
+    {
+      "id": 292,
+      "index": 292,
+      "character": "SARGE",
+      "gender": "NA",
+      "line": "I've been with him since Anzio. I'm closer to him that I am to my own brother but I don't even know what state he's from. Somewhere in the Northeast as near as I can figure. I don't even have a clue what he did for a living as civilian.",
+      "wordCount": 50
+    },
+    {
+      "id": 293,
+      "index": 293,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "No one's gonna win the money for the simple reason that the Captain never was a civilian. They assembled him at O.C.S. out of spare body parts from dead G.I.'s. I know this for a fact.",
+      "wordCount": 36
+    },
+    {
+      "id": 294,
+      "index": 294,
+      "character": "JACKSON",
+      "gender": "Male",
+      "line": "You got somethin' against the Cap'n?",
+      "wordCount": 6
+    },
+    {
+      "id": 295,
+      "index": 295,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "Hell, no. I think he's the best officer in the whole goddamned army, bar none.",
+      "wordCount": 15
+    },
+    {
+      "id": 296,
+      "index": 296,
+      "character": "JACKSON",
+      "gender": "Male",
+      "line": "You got that right.",
+      "wordCount": 4
+    },
+    {
+      "id": 297,
+      "index": 297,
+      "character": "JACKSON",
+      "gender": "Male",
+      "line": "Captain, my feet are most uncomfortable. If I'd 'a known we was gonna have to walk all the way to Ramelle, I never would 'a volunteered for this here mission.",
+      "wordCount": 30
+    },
+    {
+      "id": 298,
+      "index": 298,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "You didn't volunteer, Jackson.",
+      "wordCount": 4
+    },
+    {
+      "id": 299,
+      "index": 299,
+      "character": "JACKSON",
+      "gender": "Male",
+      "line": "I most likely would have, sir, had I been given the opportunity.",
+      "wordCount": 12
+    },
+    {
+      "id": 300,
+      "index": 300,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "If we find Ryan and he's still alive, that son-of-a-bitch is gonna carry this goddamned B.A.R. back to the beach for me.",
+      "wordCount": 22
+    },
+    {
+      "id": 301,
+      "index": 301,
+      "character": "JACKSON",
+      "gender": "Male",
+      "line": "Army life is too dang easy, my feet have gone soft. Back home, we go out squirrel huntin', I walk forever and a day and then some, don't even raise a blister.",
+      "wordCount": 32
+    },
+    {
+      "id": 302,
+      "index": 302,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "You know what a B.A.R. weighs? Nineteen and a half pounds, not counting ammo. And you think these things are comfortable? They may look good but they weigh twelve pounds each, that's thirty-six pounds, right there.",
+      "wordCount": 36
+    },
+    {
+      "id": 303,
+      "index": 303,
+      "character": "WADE",
+      "gender": "NA",
+      "line": "So what? I've got three satchel charges, six gammon grenades, a dozen- and-a-half pineapples, and all my regular gear. You don't hear me complaining.",
+      "wordCount": 24
+    },
+    {
+      "id": 304,
+      "index": 304,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "That's because, as I have pointed out on numerous occasions, you are a happy idiot.",
+      "wordCount": 15
+    },
+    {
+      "id": 305,
+      "index": 305,
+      "character": "WADE",
+      "gender": "NA",
+      "line": "No, I just happen to take the Captain's advice and look at the bright side of things.",
+      "wordCount": 17
+    },
+    {
+      "id": 306,
+      "index": 306,
+      "character": "UPHAM",
+      "gender": "Male",
+      "line": "How do you do it?",
+      "wordCount": 5
+    },
+    {
+      "id": 307,
+      "index": 307,
+      "character": "WADE",
+      "gender": "NA",
+      "line": "It's easy, it runs in my family, take my grandfather, for example...",
+      "wordCount": 12
+    },
+    {
+      "id": 308,
+      "index": 308,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "Oh, Christ, now we gotta listen to that grandfather thing again.",
+      "wordCount": 11
+    },
+    {
+      "id": 309,
+      "index": 309,
+      "character": "WADE",
+      "gender": "NA",
+      "line": "As I was saying, before I was so rudely interrupted, my grandfather got old, as grandfathers tend to do. He needed someone to take care of him. We move around all the time, going from one mine to another, so we had to put him in a home. Nice enough place but kind of depressing. But not for Granddad. He just convinced himself he was on a cruise ship, going to Tahiti, he had his own cabin, first class, with room service. It just so happened that the weather was always lousy, so he never bothered to go up on deck. Happiest guy you ever saw until the day he died.",
+      "wordCount": 111
+    },
+    {
+      "id": 310,
+      "index": 310,
+      "character": "UPHAM",
+      "gender": "Male",
+      "line": "You think he really believed it?",
+      "wordCount": 6
+    },
+    {
+      "id": 311,
+      "index": 311,
+      "character": "WADE",
+      "gender": "NA",
+      "line": "Who knows? It worked.",
+      "wordCount": 4
+    },
+    {
+      "id": 312,
+      "index": 312,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "Fine, you convince yourself you got a pack full of feathers and goddamned Private James Ryan can carry my fucking gear.",
+      "wordCount": 21
+    },
+    {
+      "id": 313,
+      "index": 313,
+      "character": "WADE",
+      "gender": "NA",
+      "line": "Reiben, you can be very unpleasant to be around sometimes.",
+      "wordCount": 10
+    },
+    {
+      "id": 314,
+      "index": 314,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "You want unpleasant? Just wait, I can do much better than this.",
+      "wordCount": 12
+    },
+    {
+      "id": 315,
+      "index": 315,
+      "character": "WADE",
+      "gender": "NA",
+      "line": "Look at Upham, you don't hear him complaining.",
+      "wordCount": 8
+    },
+    {
+      "id": 316,
+      "index": 316,
+      "character": "UPHAM",
+      "gender": "Male",
+      "line": "Well, as a matter of fact, I was just thinking...",
+      "wordCount": 10
+    },
+    {
+      "id": 317,
+      "index": 317,
+      "character": "UPHAM",
+      "gender": "Male",
+      "line": "That I'm so fucking tired of this goddamned walking, I'd pay a thousand dollars to see that bastard Ryan crawl on his belly over an acre of broken glass to hear my great-aunt Martha fart through a field-phone.",
+      "wordCount": 38
+    },
+    {
+      "id": 318,
+      "index": 318,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "Jesus Christ, he's a natural!",
+      "wordCount": 5
+    },
+    {
+      "id": 319,
+      "index": 319,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Upham, are you sure you've never been in combat?",
+      "wordCount": 9
+    },
+    {
+      "id": 320,
+      "index": 320,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "He's good.",
+      "wordCount": 2
+    },
+    {
+      "id": 321,
+      "index": 321,
+      "character": "JACKSON",
+      "gender": "Male",
+      "line": "Cap'n, my feet are most uncomfortable.",
+      "wordCount": 6
+    },
+    {
+      "id": 322,
+      "index": 322,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Stay low.",
+      "wordCount": 2
+    },
+    {
+      "id": 323,
+      "index": 323,
+      "character": "JACKSON",
+      "gender": "Male",
+      "line": "Dang! That was close!",
+      "wordCount": 4
+    },
+    {
+      "id": 324,
+      "index": 324,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Your turn.",
+      "wordCount": 2
+    },
+    {
+      "id": 325,
+      "index": 325,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Zig-zag, change your pace a couple times, you'll be alright.",
+      "wordCount": 10
+    },
+    {
+      "id": 326,
+      "index": 326,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Okay, I'm going to draw fire for you. But if I do, you goddamned well better go.",
+      "wordCount": 17
+    },
+    {
+      "id": 327,
+      "index": 327,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Looks to Upham",
+      "wordCount": 3
+    },
+    {
+      "id": 328,
+      "index": 328,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Ready?",
+      "wordCount": 1
+    },
+    {
+      "id": 329,
+      "index": 329,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Go.",
+      "wordCount": 1
+    },
+    {
+      "id": 330,
+      "index": 330,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "Hey, that guy can move.",
+      "wordCount": 5
+    },
+    {
+      "id": 331,
+      "index": 331,
+      "character": "SARGE",
+      "gender": "NA",
+      "line": "Damn fool. Sir.",
+      "wordCount": 3
+    },
+    {
+      "id": 332,
+      "index": 332,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "Captain, he's fast!",
+      "wordCount": 3
+    },
+    {
+      "id": 333,
+      "index": 333,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Glad of it.",
+      "wordCount": 3
+    },
+    {
+      "id": 334,
+      "index": 334,
+      "character": "UPHAM",
+      "gender": "Male",
+      "line": "On the other side of the street, crouches in a doorway with Jackson. Upham is a bit in shock, less from the nearness of the bullets than from what Miller just did for him.",
+      "wordCount": 34
+    },
+    {
+      "id": 335,
+      "index": 335,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "DASHES across the street.",
+      "wordCount": 4
+    },
+    {
+      "id": 336,
+      "index": 336,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Bring 'em over.",
+      "wordCount": 3
+    },
+    {
+      "id": 337,
+      "index": 337,
+      "character": "UPHAM",
+      "gender": "Male",
+      "line": "Captain, I...",
+      "wordCount": 2
+    },
+    {
+      "id": 338,
+      "index": 338,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "One at a time.",
+      "wordCount": 4
+    },
+    {
+      "id": 339,
+      "index": 339,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Ducks out of the doorway and crouch- runs down the block. He passes a:",
+      "wordCount": 14
+    },
+    {
+      "id": 340,
+      "index": 340,
+      "character": "BOMBED OUT BUILDING",
+      "gender": "NA",
+      "line": "Out of the line of fire. A dozen dead American soldiers lined up on the ground. The battered, bloody bodies, only partially covered by ponchos.",
+      "wordCount": 25
+    },
+    {
+      "id": 341,
+      "index": 341,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Sees the dead and wounded, shows no reaction. Runs to:",
+      "wordCount": 10
+    },
+    {
+      "id": 342,
+      "index": 342,
+      "character": "AN ALLEY",
+      "gender": "NA",
+      "line": "Captain Hamill and his men are bunched there, out of the line of fire. He's sending off a squad to continue their door-to-door.",
+      "wordCount": 23
+    },
+    {
+      "id": 343,
+      "index": 343,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "We had a jeep until a few hours ago, a nice one, it had a cute little flag with a couple of stars on it.",
+      "wordCount": 25
+    },
+    {
+      "id": 344,
+      "index": 344,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "We called in a strike on the eighty- eights that took it out, but it's the Kraut spotter that counts, wherever the hell that bastard is.",
+      "wordCount": 26
+    },
+    {
+      "id": 345,
+      "index": 345,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Jackson.",
+      "wordCount": 1
+    },
+    {
+      "id": 346,
+      "index": 346,
+      "character": "UPHAM",
+      "gender": "Male",
+      "line": "What is that?",
+      "wordCount": 3
+    },
+    {
+      "id": 347,
+      "index": 347,
+      "character": "JACKSON",
+      "gender": "Male",
+      "line": "Thirty-ought-six, Norton long-barrel with dual-groove, parallel rifling, elevated three-glass scope and a single-throw hammer.",
+      "wordCount": 14
+    },
+    {
+      "id": 348,
+      "index": 348,
+      "character": "UPHAM",
+      "gender": "Male",
+      "line": "The Army gave you that?",
+      "wordCount": 5
+    },
+    {
+      "id": 349,
+      "index": 349,
+      "character": "JACKSON",
+      "gender": "Male",
+      "line": "Yep.",
+      "wordCount": 1
+    },
+    {
+      "id": 350,
+      "index": 350,
+      "character": "UPHAM",
+      "gender": "Male",
+      "line": "You must be a hell a shot.",
+      "wordCount": 7
+    },
+    {
+      "id": 351,
+      "index": 351,
+      "character": "JACKSON",
+      "gender": "Male",
+      "line": "Not where I come from.",
+      "wordCount": 5
+    },
+    {
+      "id": 352,
+      "index": 352,
+      "character": "UPHAM",
+      "gender": "Male",
+      "line": "That must be four thousand yards.",
+      "wordCount": 6
+    },
+    {
+      "id": 353,
+      "index": 353,
+      "character": "JACKSON",
+      "gender": "Male",
+      "line": "Forty-two-hundred, I figure.",
+      "wordCount": 3
+    },
+    {
+      "id": 354,
+      "index": 354,
+      "character": "UPHAM",
+      "gender": "Male",
+      "line": "You take account of the wind?",
+      "wordCount": 6
+    },
+    {
+      "id": 355,
+      "index": 355,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "Dang right, he take 'count of the wind, ain't ya'll ever heard a Kentucky windage?",
+      "wordCount": 15
+    },
+    {
+      "id": 356,
+      "index": 356,
+      "character": "JACKSON",
+      "gender": "Male",
+      "line": "Reiben, how many time I got to tell you, I'm from Tennessee.",
+      "wordCount": 12
+    },
+    {
+      "id": 357,
+      "index": 357,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "They got squirrels there, too, right?",
+      "wordCount": 6
+    },
+    {
+      "id": 358,
+      "index": 358,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Very far, they're not coming this way, they're going to take Caen first.",
+      "wordCount": 13
+    },
+    {
+      "id": 359,
+      "index": 359,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Five, but we not staying, we're on our way to Ramelle.",
+      "wordCount": 11
+    },
+    {
+      "id": 360,
+      "index": 360,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Yeah, you know about that?",
+      "wordCount": 5
+    },
+    {
+      "id": 361,
+      "index": 361,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Wonderful.",
+      "wordCount": 1
+    },
+    {
+      "id": 362,
+      "index": 362,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "How do we get out of here?",
+      "wordCount": 7
+    },
+    {
+      "id": 363,
+      "index": 363,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Yeah?",
+      "wordCount": 1
+    },
+    {
+      "id": 364,
+      "index": 364,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Thanks.",
+      "wordCount": 1
+    },
+    {
+      "id": 365,
+      "index": 365,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Let's find someplace to hole up.",
+      "wordCount": 6
+    },
+    {
+      "id": 366,
+      "index": 366,
+      "character": "UPHAM",
+      "gender": "Male",
+      "line": "Sir, I'm sorry about what happened, I...",
+      "wordCount": 7
+    },
+    {
+      "id": 367,
+      "index": 367,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "It was nothing.",
+      "wordCount": 3
+    },
+    {
+      "id": 368,
+      "index": 368,
+      "character": "UPHAM",
+      "gender": "Male",
+      "line": "But you could have gotten killed and I...",
+      "wordCount": 8
+    },
+    {
+      "id": 369,
+      "index": 369,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Like I said, it was nothing. Don't bunch up.",
+      "wordCount": 9
+    },
+    {
+      "id": 370,
+      "index": 370,
+      "character": "UPHAM",
+      "gender": "Male",
+      "line": "Did you see what he did, back there? He stepped right into the open, so I could get across.",
+      "wordCount": 19
+    },
+    {
+      "id": 371,
+      "index": 371,
+      "character": "JACKSON",
+      "gender": "Male",
+      "line": "Shit, that was no big deal.",
+      "wordCount": 6
+    },
+    {
+      "id": 372,
+      "index": 372,
+      "character": "WADE",
+      "gender": "NA",
+      "line": "They can't kill him.",
+      "wordCount": 4
+    },
+    {
+      "id": 373,
+      "index": 373,
+      "character": "SARGE",
+      "gender": "NA",
+      "line": "Like hell they can't.",
+      "wordCount": 4
+    },
+    {
+      "id": 374,
+      "index": 374,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "Wade's right, it's some kind of scientific, magnetic thing, I can't explain it, but I've seen it.",
+      "wordCount": 17
+    },
+    {
+      "id": 375,
+      "index": 375,
+      "character": "WADE",
+      "gender": "NA",
+      "line": "We all have, he's got nine lives, or he's bulletproof, or some damn thing.",
+      "wordCount": 14
+    },
+    {
+      "id": 376,
+      "index": 376,
+      "character": "SARGE",
+      "gender": "NA",
+      "line": "No one's bulletproof. No one. C'mon, stay low.",
+      "wordCount": 8
+    },
+    {
+      "id": 377,
+      "index": 377,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "Captain, could you please explain the math of this mission to me?",
+      "wordCount": 12
+    },
+    {
+      "id": 378,
+      "index": 378,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Sure, what do you want to know?",
+      "wordCount": 7
+    },
+    {
+      "id": 379,
+      "index": 379,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "Well, sir, in purely arithmetic terms, since when does six equal one? What's the sense in risking six guys to save one?",
+      "wordCount": 22
+    },
+    {
+      "id": 380,
+      "index": 380,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Ours is not to reason why.",
+      "wordCount": 6
+    },
+    {
+      "id": 381,
+      "index": 381,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "Huh?",
+      "wordCount": 1
+    },
+    {
+      "id": 382,
+      "index": 382,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Never mind, don't worry, we'll pick up this kid, high-tail it back to division, everything'll work out fine.",
+      "wordCount": 18
+    },
+    {
+      "id": 383,
+      "index": 383,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "I'd much rather die in Caen than Ramelle, sir. It's a personal thing.",
+      "wordCount": 13
+    },
+    {
+      "id": 384,
+      "index": 384,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Reiben, there's a fairly good chance you're not going to die at all.",
+      "wordCount": 13
+    },
+    {
+      "id": 385,
+      "index": 385,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "Easy for you to say, sir. Fucking James Ryan, I'd like to wring his fucking neck.",
+      "wordCount": 16
+    },
+    {
+      "id": 386,
+      "index": 386,
+      "character": "SARGE",
+      "gender": "NA",
+      "line": "Jesus, Reiben, think of the poor bastard's mother.",
+      "wordCount": 8
+    },
+    {
+      "id": 387,
+      "index": 387,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "Hey, I got a mother. Jackson, you got a mother?",
+      "wordCount": 10
+    },
+    {
+      "id": 388,
+      "index": 388,
+      "character": "JACKSON",
+      "gender": "Male",
+      "line": "Last I knew.",
+      "wordCount": 3
+    },
+    {
+      "id": 389,
+      "index": 389,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "Wade, Sarge, Corporal Insect, all of us, hell, I'll bet even the Captain has a mother.",
+      "wordCount": 16
+    },
+    {
+      "id": 390,
+      "index": 390,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "Well, maybe not the Captain, but the rest of us have mothers.",
+      "wordCount": 12
+    },
+    {
+      "id": 391,
+      "index": 391,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "You have orders, too.",
+      "wordCount": 4
+    },
+    {
+      "id": 392,
+      "index": 392,
+      "character": "JACKSON",
+      "gender": "Male",
+      "line": "Sir, I have an opinion on this matter.",
+      "wordCount": 8
+    },
+    {
+      "id": 393,
+      "index": 393,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "I'd love to hear it.",
+      "wordCount": 5
+    },
+    {
+      "id": 394,
+      "index": 394,
+      "character": "JACKSON",
+      "gender": "Male",
+      "line": "Seems to me, Cap'n, this mission is a serious misallocation of valuable military resources. Miller Go on.",
+      "wordCount": 17
+    },
+    {
+      "id": 395,
+      "index": 395,
+      "character": "JACKSON",
+      "gender": "Male",
+      "line": "Well, sir, by my way a thinkin' I am a finely made instrument of warfare. What I mean by that is, if you was to put me with this here sniper rifle anywhere up to and includin' one mile from Adolf Hitler, with a clear line of sight, war's over.",
+      "wordCount": 50
+    },
+    {
+      "id": 396,
+      "index": 396,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Reiben, I want you to listen closely to Jackson. This is the way to gripe. Jackson, continue.",
+      "wordCount": 17
+    },
+    {
+      "id": 397,
+      "index": 397,
+      "character": "JACKSON",
+      "gender": "Male",
+      "line": "Yes, sir. It seems to me, sir, that the entire resources of the United States Army oughta be dedicated to one thing and one thing only, and that is to put me and this here weapon on a rooftop, smack-dab in the middle of Berlin, Germany. Now I ain't one to question decisions made up on high, sir, but it seems to me that saving one private, no matter how grievous the losses of his family, is a waste of my God-given talent.",
+      "wordCount": 83
+    },
+    {
+      "id": 398,
+      "index": 398,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Wade?",
+      "wordCount": 1
+    },
+    {
+      "id": 399,
+      "index": 399,
+      "character": "WADE",
+      "gender": "NA",
+      "line": "Hell, I don't mind this mission, sir, as long as there's something up at Ramelle for...",
+      "wordCount": 16
+    },
+    {
+      "id": 400,
+      "index": 400,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "...for you to blow up, yeah, yeah, we heard that.",
+      "wordCount": 10
+    },
+    {
+      "id": 401,
+      "index": 401,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Upham?",
+      "wordCount": 1
+    },
+    {
+      "id": 402,
+      "index": 402,
+      "character": "UPHAM",
+      "gender": "Male",
+      "line": "Pass.",
+      "wordCount": 1
+    },
+    {
+      "id": 403,
+      "index": 403,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Sarge?",
+      "wordCount": 1
+    },
+    {
+      "id": 404,
+      "index": 404,
+      "character": "SARGE",
+      "gender": "NA",
+      "line": "I'm just here to keep a bunch of numb-nuts, including one certain, frequently suicidal, tempter-of-fate, from getting themselves killed.",
+      "wordCount": 19
+    },
+    {
+      "id": 405,
+      "index": 405,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "And what about you, Captain?",
+      "wordCount": 5
+    },
+    {
+      "id": 406,
+      "index": 406,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Reiben, what's the matter with you? I don't gripe to you. I'm a captain. There's a chain of command. Griping goes one way, up, only up, never down. You gripe to me, I gripe to my superior officers. Up, get it? I don't gripe to you, I don't gripe in front of you. How long you been in the army?",
+      "wordCount": 60
+    },
+    {
+      "id": 407,
+      "index": 407,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "I'm sorry, sir, I apologize. But if you weren't a captain, or if I were a major, what would you say?",
+      "wordCount": 21
+    },
+    {
+      "id": 408,
+      "index": 408,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "In that case, I would say this is an excellent mission, with an extremely valuable objective, worthy of my best efforts.",
+      "wordCount": 21
+    },
+    {
+      "id": 409,
+      "index": 409,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "In addition, as I pointed out earlier, I have a fondness for cheese and I hope to have the opportunity to sample some of the Ramelle products, when we arrive there, to see if they live up to their excellent reputation. Moreover, I feel heartfelt sorrow for the mother of Private James Ryan and I'm more than willing to lay down my life, and the lives of my men, especially you, Reiben, to help relieve her suffering. The men thoroughly enjoy the performance.",
+      "wordCount": 83
+    },
+    {
+      "id": 410,
+      "index": 410,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "Sir, if you were not a captain, I would compliment you, now, for being an excellent liar.",
+      "wordCount": 17
+    },
+    {
+      "id": 411,
+      "index": 411,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "But I am a captain. If I were not a captain, I would thank you for the compliment and tell you that the ability to lie comes from being a top-notch poker player, which I am, having learned at the side of my mother who is, by popular acclaim, the best poker player in...",
+      "wordCount": 54
+    },
+    {
+      "id": 412,
+      "index": 412,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "...my home town, which shall remain un-named.",
+      "wordCount": 7
+    },
+    {
+      "id": 413,
+      "index": 413,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Any further thoughts on the subject?",
+      "wordCount": 6
+    },
+    {
+      "id": 414,
+      "index": 414,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "Yes, sir, as a final note, I'd like to say, fuck our orders, fuck Ramelle, fuck the cheese capital of France and while we're at it, fuck Private James Ryan.",
+      "wordCount": 30
+    },
+    {
+      "id": 415,
+      "index": 415,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "I'll make a note of your suggestions but I'll leave that last one to you, especially if he's already dead.",
+      "wordCount": 20
+    },
+    {
+      "id": 416,
+      "index": 416,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "We move out in two hours, try and get some sleep.",
+      "wordCount": 11
+    },
+    {
+      "id": 417,
+      "index": 417,
+      "character": "SARGE",
+      "gender": "NA",
+      "line": "You ever going to open those letters? Miller keeps his eyes on the maps.",
+      "wordCount": 14
+    },
+    {
+      "id": 418,
+      "index": 418,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Maybe.",
+      "wordCount": 1
+    },
+    {
+      "id": 419,
+      "index": 419,
+      "character": "SARGE",
+      "gender": "NA",
+      "line": "It's not normal, not reading letters from home.",
+      "wordCount": 8
+    },
+    {
+      "id": 420,
+      "index": 420,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Since when have things been normal?",
+      "wordCount": 6
+    },
+    {
+      "id": 421,
+      "index": 421,
+      "character": "SARGE",
+      "gender": "NA",
+      "line": "You got me. Afraid of bad news?",
+      "wordCount": 7
+    },
+    {
+      "id": 422,
+      "index": 422,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Nope.",
+      "wordCount": 1
+    },
+    {
+      "id": 423,
+      "index": 423,
+      "character": "SARGE",
+      "gender": "NA",
+      "line": "Good news?",
+      "wordCount": 2
+    },
+    {
+      "id": 424,
+      "index": 424,
+      "character": "SARGE",
+      "gender": "NA",
+      "line": "You think they'll be alright?",
+      "wordCount": 5
+    },
+    {
+      "id": 425,
+      "index": 425,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "They're fine. As long as they can gripe, they'll be alright.",
+      "wordCount": 11
+    },
+    {
+      "id": 426,
+      "index": 426,
+      "character": "SARGE",
+      "gender": "NA",
+      "line": "And what about you?",
+      "wordCount": 4
+    },
+    {
+      "id": 427,
+      "index": 427,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "They guys here aren't going to be able to hold out until battalion shows up.",
+      "wordCount": 15
+    },
+    {
+      "id": 428,
+      "index": 428,
+      "character": "SARGE",
+      "gender": "NA",
+      "line": "Nope.",
+      "wordCount": 1
+    },
+    {
+      "id": 429,
+      "index": 429,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Command isn't going to let them withdraw and the Germans sure as hell aren't going to let them surrender.",
+      "wordCount": 19
+    },
+    {
+      "id": 430,
+      "index": 430,
+      "character": "SARGE",
+      "gender": "NA",
+      "line": "Three for three.",
+      "wordCount": 3
+    },
+    {
+      "id": 431,
+      "index": 431,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "If we stayed, we could make a difference.",
+      "wordCount": 8
+    },
+    {
+      "id": 432,
+      "index": 432,
+      "character": "SARGE",
+      "gender": "NA",
+      "line": "You're kidding yourself.",
+      "wordCount": 3
+    },
+    {
+      "id": 433,
+      "index": 433,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "You never know.",
+      "wordCount": 3
+    },
+    {
+      "id": 434,
+      "index": 434,
+      "character": "SARGE",
+      "gender": "NA",
+      "line": "I hope this boy Ryan is worth it.",
+      "wordCount": 8
+    },
+    {
+      "id": 435,
+      "index": 435,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Now you're the one kidding yourself. Hell of a mission.",
+      "wordCount": 10
+    },
+    {
+      "id": 436,
+      "index": 436,
+      "character": "SARGE",
+      "gender": "NA",
+      "line": "Yup, hell of a mission.",
+      "wordCount": 5
+    },
+    {
+      "id": 437,
+      "index": 437,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Rise and shine, boys. Let's go.",
+      "wordCount": 6
+    },
+    {
+      "id": 438,
+      "index": 438,
+      "character": "SARGE",
+      "gender": "NA",
+      "line": "Makes you feel small, doesn't it?",
+      "wordCount": 6
+    },
+    {
+      "id": 439,
+      "index": 439,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "It doesn't take this.",
+      "wordCount": 4
+    },
+    {
+      "id": 440,
+      "index": 440,
+      "character": "UPHAM",
+      "gender": "Male",
+      "line": "I wasn't made for this.",
+      "wordCount": 5
+    },
+    {
+      "id": 441,
+      "index": 441,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "You think the rest of us were?",
+      "wordCount": 7
+    },
+    {
+      "id": 442,
+      "index": 442,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Don't worry, Upham, God'll protect you, this shit's gonna keep him up all night, anyway.",
+      "wordCount": 15
+    },
+    {
+      "id": 443,
+      "index": 443,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Let's go, this ain't what they pay us for.",
+      "wordCount": 9
+    },
+    {
+      "id": 444,
+      "index": 444,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "Just what I need.",
+      "wordCount": 4
+    },
+    {
+      "id": 445,
+      "index": 445,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Thanks, but you may need these more than us, or Ryan.",
+      "wordCount": 11
+    },
+    {
+      "id": 446,
+      "index": 446,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Let's move out.",
+      "wordCount": 3
+    },
+    {
+      "id": 447,
+      "index": 447,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "A couple of weeks. It started in Portsmouth when they brought us down for loading.",
+      "wordCount": 15
+    },
+    {
+      "id": 448,
+      "index": 448,
+      "character": "SARGE",
+      "gender": "NA",
+      "line": "Is it getting worse?",
+      "wordCount": 4
+    },
+    {
+      "id": 449,
+      "index": 449,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "No. It comes and goes. It stops when I look at it.",
+      "wordCount": 12
+    },
+    {
+      "id": 450,
+      "index": 450,
+      "character": "SARGE",
+      "gender": "NA",
+      "line": "You may have to find yourself a new line of work, this one doesn't seem to agree with you anymore.",
+      "wordCount": 20
+    },
+    {
+      "id": 451,
+      "index": 451,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "I'll be alright.",
+      "wordCount": 3
+    },
+    {
+      "id": 452,
+      "index": 452,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "It'll be light, soon. Let's pick it up.",
+      "wordCount": 8
+    },
+    {
+      "id": 453,
+      "index": 453,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "It looks like a Renoir.",
+      "wordCount": 5
+    },
+    {
+      "id": 454,
+      "index": 454,
+      "character": "UPHAM",
+      "gender": "Male",
+      "line": "Yes. Do you know Sibelius' Fourth Symphony, The Normandy?",
+      "wordCount": 9
+    },
+    {
+      "id": 455,
+      "index": 455,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "I've been humming it.",
+      "wordCount": 4
+    },
+    {
+      "id": 456,
+      "index": 456,
+      "character": "UPHAM",
+      "gender": "Male",
+      "line": "I heard.",
+      "wordCount": 2
+    },
+    {
+      "id": 457,
+      "index": 457,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "It seemed appropriate.",
+      "wordCount": 3
+    },
+    {
+      "id": 458,
+      "index": 458,
+      "character": "UPHAM",
+      "gender": "Male",
+      "line": "You know classical music?",
+      "wordCount": 4
+    },
+    {
+      "id": 459,
+      "index": 459,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Some.",
+      "wordCount": 1
+    },
+    {
+      "id": 460,
+      "index": 460,
+      "character": "UPHAM",
+      "gender": "Male",
+      "line": "Where are you from, Captain?",
+      "wordCount": 5
+    },
+    {
+      "id": 461,
+      "index": 461,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "What's the pool up to?",
+      "wordCount": 5
+    },
+    {
+      "id": 462,
+      "index": 462,
+      "character": "UPHAM",
+      "gender": "Male",
+      "line": "Over three-hundred.",
+      "wordCount": 2
+    },
+    {
+      "id": 463,
+      "index": 463,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "I'll tell you what, if I'm still alive when it hits five-hundred, I'll let you know and we'll split the money.",
+      "wordCount": 21
+    },
+    {
+      "id": 464,
+      "index": 464,
+      "character": "UPHAM",
+      "gender": "Male",
+      "line": "If that's the way you feel, why don't we wait until it's up to a thousand.",
+      "wordCount": 16
+    },
+    {
+      "id": 465,
+      "index": 465,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "I don't expect to live that long.",
+      "wordCount": 7
+    },
+    {
+      "id": 466,
+      "index": 466,
+      "character": "UPHAM",
+      "gender": "Male",
+      "line": "Five hundred, then.",
+      "wordCount": 3
+    },
+    {
+      "id": 467,
+      "index": 467,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Let's go, private.",
+      "wordCount": 3
+    },
+    {
+      "id": 468,
+      "index": 468,
+      "character": "UPHAM",
+      "gender": "Male",
+      "line": "Five nights ago, he found this paratrooper caught in a tree with a broken leg. The leg got infected. Last night he went to Ville Cholet to get a doctor. The doctor refused to come and when he got back, this is what he found. The Krauts must have shown up while he was gone.",
+      "wordCount": 55
+    },
+    {
+      "id": 469,
+      "index": 469,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Did he see any sign of them?",
+      "wordCount": 7
+    },
+    {
+      "id": 470,
+      "index": 470,
+      "character": "UPHAM",
+      "gender": "Male",
+      "line": "No, but he heard firing, just east, less that a kilometer.",
+      "wordCount": 11
+    },
+    {
+      "id": 471,
+      "index": 471,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Thank him and tell him we're sorry about his loss.",
+      "wordCount": 10
+    },
+    {
+      "id": 472,
+      "index": 472,
+      "character": "WADE",
+      "gender": "NA",
+      "line": "Captain.",
+      "wordCount": 1
+    },
+    {
+      "id": 473,
+      "index": 473,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Where?",
+      "wordCount": 1
+    },
+    {
+      "id": 474,
+      "index": 474,
+      "character": "JACKSON",
+      "gender": "Male",
+      "line": "In the shadow by those two trees.",
+      "wordCount": 7
+    },
+    {
+      "id": 475,
+      "index": 475,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "My guess, too.",
+      "wordCount": 3
+    },
+    {
+      "id": 476,
+      "index": 476,
+      "character": "UPHAM",
+      "gender": "Male",
+      "line": "What is it?",
+      "wordCount": 3
+    },
+    {
+      "id": 477,
+      "index": 477,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "A machine gun.",
+      "wordCount": 3
+    },
+    {
+      "id": 478,
+      "index": 478,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "Sir, I've got an idea, let's go around.",
+      "wordCount": 8
+    },
+    {
+      "id": 479,
+      "index": 479,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "We can't leave it here.",
+      "wordCount": 5
+    },
+    {
+      "id": 480,
+      "index": 480,
+      "character": "JACKSON",
+      "gender": "Male",
+      "line": "We left them eighty-eights.",
+      "wordCount": 4
+    },
+    {
+      "id": 481,
+      "index": 481,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "They don't send planes to put out machine guns. Two flank runners with surpressing fire. I'm going right, whoever goes left has to be fast.",
+      "wordCount": 25
+    },
+    {
+      "id": 482,
+      "index": 482,
+      "character": "UPHAM",
+      "gender": "Male",
+      "line": "Sir, I ran the 220 in high school.",
+      "wordCount": 8
+    },
+    {
+      "id": 483,
+      "index": 483,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "He's fast, Captain, I saw him.",
+      "wordCount": 6
+    },
+    {
+      "id": 484,
+      "index": 484,
+      "character": "WADE",
+      "gender": "NA",
+      "line": "How fast?",
+      "wordCount": 2
+    },
+    {
+      "id": 485,
+      "index": 485,
+      "character": "UPHAM",
+      "gender": "Male",
+      "line": "Twenty-four-five.",
+      "wordCount": 1
+    },
+    {
+      "id": 486,
+      "index": 486,
+      "character": "WADE",
+      "gender": "NA",
+      "line": "Shit, that's nothing, I ran twenty- two flat.",
+      "wordCount": 8
+    },
+    {
+      "id": 487,
+      "index": 487,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Wade goes left.",
+      "wordCount": 3
+    },
+    {
+      "id": 488,
+      "index": 488,
+      "character": "UPHAM",
+      "gender": "Male",
+      "line": "Twenty-two flat?",
+      "wordCount": 2
+    },
+    {
+      "id": 489,
+      "index": 489,
+      "character": "WADE",
+      "gender": "NA",
+      "line": "I would have won the states if some bastard hadn't tripped me in the finals.",
+      "wordCount": 15
+    },
+    {
+      "id": 490,
+      "index": 490,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Sarge, Upham, here. Jackson, Reiben, ten yards, either side.",
+      "wordCount": 9
+    },
+    {
+      "id": 491,
+      "index": 491,
+      "character": "SARGE",
+      "gender": "NA",
+      "line": "Rule of thumb, Captain, says you ought to detail this one, instead of going yourself.",
+      "wordCount": 15
+    },
+    {
+      "id": 492,
+      "index": 492,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Yeah? What rule of thumb is that?",
+      "wordCount": 7
+    },
+    {
+      "id": 493,
+      "index": 493,
+      "character": "SARGE",
+      "gender": "NA",
+      "line": "How about I go right, sir?",
+      "wordCount": 6
+    },
+    {
+      "id": 494,
+      "index": 494,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "How about you take your position?",
+      "wordCount": 6
+    },
+    {
+      "id": 495,
+      "index": 495,
+      "character": "SARGE",
+      "gender": "NA",
+      "line": "How about...?",
+      "wordCount": 2
+    },
+    {
+      "id": 496,
+      "index": 496,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "How about you shut up and take your position?",
+      "wordCount": 9
+    },
+    {
+      "id": 497,
+      "index": 497,
+      "character": "SARGE",
+      "gender": "NA",
+      "line": "Yes, sir.",
+      "wordCount": 2
+    },
+    {
+      "id": 498,
+      "index": 498,
+      "character": "UPHAM",
+      "gender": "Male",
+      "line": "Good luck, Captain.",
+      "wordCount": 3
+    },
+    {
+      "id": 499,
+      "index": 499,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Don't need it, I'm a cat, I've got five lives.",
+      "wordCount": 10
+    },
+    {
+      "id": 500,
+      "index": 500,
+      "character": "UPHAM",
+      "gender": "Male",
+      "line": "The men said, nine.",
+      "wordCount": 4
+    },
+    {
+      "id": 501,
+      "index": 501,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "What do they know? I had nine, but I feel through the ice when I was seven, my brother pulled me out. Then I used one when a grenade landed in my foxhole in Sicily, it was a dud. I figure one on the beaches, one on the cliffs and two getting here.",
+      "wordCount": 53
+    },
+    {
+      "id": 502,
+      "index": 502,
+      "character": "UPHAM",
+      "gender": "Male",
+      "line": "That only leaves three.",
+      "wordCount": 4
+    },
+    {
+      "id": 503,
+      "index": 503,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Plenty.",
+      "wordCount": 1
+    },
+    {
+      "id": 504,
+      "index": 504,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Ready?",
+      "wordCount": 1
+    },
+    {
+      "id": 505,
+      "index": 505,
+      "character": "WADE",
+      "gender": "NA",
+      "line": "Yes, sir.",
+      "wordCount": 2
+    },
+    {
+      "id": 506,
+      "index": 506,
+      "character": "IN THE NEST",
+      "gender": "NA",
+      "line": "A squad of Germans, dug deep, BLASTING THE MACHINE GUN, a BIG SCHWARZLOSE 8MM, a stunningly powerful weapon. Four Germans in the nest, four more outlying riflemen.",
+      "wordCount": 27
+    },
+    {
+      "id": 507,
+      "index": 507,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Takes the FIRST FIRE. He HITS THE DIRT. The BULLETS SCREAM just over him.",
+      "wordCount": 14
+    },
+    {
+      "id": 508,
+      "index": 508,
+      "character": "SARGE",
+      "gender": "NA",
+      "line": "FIRES A LONG BURST from his Thompson. No effect. Pissed. POPS THE CLIP. SLAMS in another. FIRES.",
+      "wordCount": 17
+    },
+    {
+      "id": 509,
+      "index": 509,
+      "character": "WADE",
+      "gender": "NA",
+      "line": "Ten more yards. Too slow. A deadly row of BULLETS KICK UP DIRT toward him.",
+      "wordCount": 15
+    },
+    {
+      "id": 510,
+      "index": 510,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Makes it to the far side. Scrambles up the roots. Dives through the brush.",
+      "wordCount": 14
+    },
+    {
+      "id": 511,
+      "index": 511,
+      "character": "WADE",
+      "gender": "NA",
+      "line": "On a slight rise. Can't hit the dirt. A line of bullets. Desperately sprints.",
+      "wordCount": 14
+    },
+    {
+      "id": 512,
+      "index": 512,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "STRUGGLES through the hedgerow. Stumbles onto the path. Rolls to his feet, running. Swings his Thompson into firing position. Racing toward the nest.",
+      "wordCount": 23
+    },
+    {
+      "id": 513,
+      "index": 513,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Tearing along the path. Sees a German rifleman. FIRES A BURST. CUTS HIM DOWN. Runs over the body without breaking stride.",
+      "wordCount": 21
+    },
+    {
+      "id": 514,
+      "index": 514,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "TEARS THROUGH THE TREES. BLASTS his Thompson. CUTS DOWN two more German riflemen. Grabs a grenade. Pulls the pin.",
+      "wordCount": 19
+    },
+    {
+      "id": 515,
+      "index": 515,
+      "character": "THE NEST",
+      "gender": "NA",
+      "line": "The Germans see Miller coming. Wheel from Sarge. Too late.",
+      "wordCount": 10
+    },
+    {
+      "id": 516,
+      "index": 516,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "THROWS the grenade, VEERS and DIVES.",
+      "wordCount": 6
+    },
+    {
+      "id": 517,
+      "index": 517,
+      "character": "SARGE",
+      "gender": "NA",
+      "line": "HOLD YOUR FIRE!",
+      "wordCount": 3
+    },
+    {
+      "id": 518,
+      "index": 518,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Rolls to his feet. FIRE another BURST. KILLS the last of the German riflemen. Doesn't pause. RUNS onto the field.",
+      "wordCount": 20
+    },
+    {
+      "id": 519,
+      "index": 519,
+      "character": "WADE",
+      "gender": "NA",
+      "line": "Lies in the grass. Holding his belly. Astonished by the pain.",
+      "wordCount": 11
+    },
+    {
+      "id": 520,
+      "index": 520,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "REIBEN, UPHAM, PERIMETER! COVER!",
+      "wordCount": 4
+    },
+    {
+      "id": 521,
+      "index": 521,
+      "character": "REIBEN AND UPHAM",
+      "gender": "NA",
+      "line": "Stop instantly. Turn toward the perimeter of the field.",
+      "wordCount": 9
+    },
+    {
+      "id": 522,
+      "index": 522,
+      "character": "SARGE",
+      "gender": "NA",
+      "line": "Roots through his medical kit as he runs. Dropping and scattering inessentials behind him.",
+      "wordCount": 14
+    },
+    {
+      "id": 523,
+      "index": 523,
+      "character": "WADE",
+      "gender": "NA",
+      "line": "Wide-eyed. Not even writhing. Too much pain.",
+      "wordCount": 7
+    },
+    {
+      "id": 524,
+      "index": 524,
+      "character": "SARGE",
+      "gender": "NA",
+      "line": "Pulls Wade's hands from the wound. Pours sulfa powder.",
+      "wordCount": 9
+    },
+    {
+      "id": 525,
+      "index": 525,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "About to pour his sulfa. Sees the wound. Stops. Knows it's fatal.",
+      "wordCount": 12
+    },
+    {
+      "id": 526,
+      "index": 526,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Damn it!",
+      "wordCount": 2
+    },
+    {
+      "id": 527,
+      "index": 527,
+      "character": "SARGE",
+      "gender": "NA",
+      "line": "Fumbles with a second sulfa bag.",
+      "wordCount": 6
+    },
+    {
+      "id": 528,
+      "index": 528,
+      "character": "SARGE",
+      "gender": "NA",
+      "line": "Sulfa, more sulfa...",
+      "wordCount": 3
+    },
+    {
+      "id": 529,
+      "index": 529,
+      "character": "WADE",
+      "gender": "NA",
+      "line": "Frozen in agony. Looks at Miller. Sees him preparing the morphine shot. They both know.",
+      "wordCount": 15
+    },
+    {
+      "id": 530,
+      "index": 530,
+      "character": "WADE",
+      "gender": "NA",
+      "line": "Yeah...morphine...make it a double...huh...Captain...?",
+      "wordCount": 4
+    },
+    {
+      "id": 531,
+      "index": 531,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "SHOVES THE NEEDLE into Wade's neck. Thick vein. Pumps the morphine straight to Wade's brain. Motions impatiently to Sarge.",
+      "wordCount": 19
+    },
+    {
+      "id": 532,
+      "index": 532,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "More morphine, hurry up, come on, come on...",
+      "wordCount": 8
+    },
+    {
+      "id": 533,
+      "index": 533,
+      "character": "SARGE",
+      "gender": "NA",
+      "line": "Hesitates. Then drops his sulfa. Fumbles in his pack. Finds the morphine.",
+      "wordCount": 12
+    },
+    {
+      "id": 534,
+      "index": 534,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Snatches the morphine from Sarge. Quickly and efficiently prepares a second shot. He's done this before.",
+      "wordCount": 16
+    },
+    {
+      "id": 535,
+      "index": 535,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "On guard, glancing back. Pissed off.",
+      "wordCount": 6
+    },
+    {
+      "id": 536,
+      "index": 536,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "Goddamn it...Goddamn it...Goddamn it...",
+      "wordCount": 4
+    },
+    {
+      "id": 537,
+      "index": 537,
+      "character": "UPHAM",
+      "gender": "Male",
+      "line": "Freaked out. Trying to keep his eyes on the perimeter. Can't.",
+      "wordCount": 11
+    },
+    {
+      "id": 538,
+      "index": 538,
+      "character": "JACKSON",
+      "gender": "Male",
+      "line": "Watching.",
+      "wordCount": 1
+    },
+    {
+      "id": 539,
+      "index": 539,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Gives Wade the second shot.",
+      "wordCount": 5
+    },
+    {
+      "id": 540,
+      "index": 540,
+      "character": "WADE",
+      "gender": "NA",
+      "line": "Feels the effects of the first shot. He sees Upham and manages a pained smile.",
+      "wordCount": 15
+    },
+    {
+      "id": 541,
+      "index": 541,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "Goddamn it...Goddamn it...Goddamn it...",
+      "wordCount": 4
+    },
+    {
+      "id": 542,
+      "index": 542,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Is silent. Motionless. He gently closes Wade's eyes. His hand quivers slightly as he unclips one of Wades dogtags. He fumbles and drops it. Sarge notices.",
+      "wordCount": 26
+    },
+    {
+      "id": 543,
+      "index": 543,
+      "character": "UPHAM",
+      "gender": "Male",
+      "line": "That was no twenty-two flat.",
+      "wordCount": 5
+    },
+    {
+      "id": 544,
+      "index": 544,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "He lied. Let's move out.",
+      "wordCount": 5
+    },
+    {
+      "id": 545,
+      "index": 545,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "Fuck Private James Ryan, fuck him, just fuck the goddamned son-of-a- bitch.",
+      "wordCount": 12
+    },
+    {
+      "id": 546,
+      "index": 546,
+      "character": "JACKSON",
+      "gender": "Male",
+      "line": "Shut up, will you?",
+      "wordCount": 4
+    },
+    {
+      "id": 547,
+      "index": 547,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "You shut up, this is the most fucked up mission I ever heard of. Goddamned Ryan, fuck the little bastard.",
+      "wordCount": 20
+    },
+    {
+      "id": 548,
+      "index": 548,
+      "character": "JACKSON",
+      "gender": "Male",
+      "line": "Just shut up, Ryan didn't kill Wade.",
+      "wordCount": 7
+    },
+    {
+      "id": 549,
+      "index": 549,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "The hell he didn't.",
+      "wordCount": 4
+    },
+    {
+      "id": 550,
+      "index": 550,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Keep it down.",
+      "wordCount": 3
+    },
+    {
+      "id": 551,
+      "index": 551,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "We've got to find someplace to hole up for a bit.",
+      "wordCount": 11
+    },
+    {
+      "id": 552,
+      "index": 552,
+      "character": "SARGE",
+      "gender": "NA",
+      "line": "You alright?",
+      "wordCount": 2
+    },
+    {
+      "id": 553,
+      "index": 553,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Let's just find someplace.",
+      "wordCount": 4
+    },
+    {
+      "id": 554,
+      "index": 554,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Rest. One hour. Jackson, Reiben, perimeter. Keep your eyes open. I'm going to re-con.",
+      "wordCount": 14
+    },
+    {
+      "id": 555,
+      "index": 555,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "What was the name of that kid at Anzio, the one who got his face burned off?",
+      "wordCount": 17
+    },
+    {
+      "id": 556,
+      "index": 556,
+      "character": "SARGE",
+      "gender": "NA",
+      "line": "Vecchio.",
+      "wordCount": 1
+    },
+    {
+      "id": 557,
+      "index": 557,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Yeah, Vecchio, I couldn't remember his name, he was a good kid, remember how he used to walk on his hands and sing that song about the man on flying trapeze?",
+      "wordCount": 31
+    },
+    {
+      "id": 558,
+      "index": 558,
+      "character": "SARGE",
+      "gender": "NA",
+      "line": "Yeah.",
+      "wordCount": 1
+    },
+    {
+      "id": 559,
+      "index": 559,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "You know why I'm such a good officer? Because of my mother. Have I ever told you about her?",
+      "wordCount": 19
+    },
+    {
+      "id": 560,
+      "index": 560,
+      "character": "SARGE",
+      "gender": "NA",
+      "line": "Bits and pieces.",
+      "wordCount": 3
+    },
+    {
+      "id": 561,
+      "index": 561,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "She's the best poker player you ever saw. My father used to go to these Saturday night games and lose his shirt. Finally, my mother gave him an ultimatum, either she gets a regular seat at the table or she locks him in every Saturday night. He squawked and so did his buddies but after a while they gave in and from the first night she sat down, she never lost. She could read those cocky bastards like they were playing open hands. And he bluffs? He had sixteen levels of bullshit. Her eyes, the tone of her voice, her bets, her jokes, the way she sipped her coffee, she was a master. She won more money on shit hands than anyone in the history of the game. Every Saturday night, my father would lose two, three hundred bucks and she'd win it all back and then some. And I'd stand there, glued to her shoulder, from the time I was five years old, watching every hand, every move, studying how she did it. That's why I'm such a good officer, I can look at a man's face and tell you exactly what he's holding, and if it's a shit hand, I know just what cards to deal him.",
+      "wordCount": 209
+    },
+    {
+      "id": 562,
+      "index": 562,
+      "character": "SARGE",
+      "gender": "NA",
+      "line": "And what about your own hand?",
+      "wordCount": 6
+    },
+    {
+      "id": 563,
+      "index": 563,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "No problem. A pair of deuces? Less? So what? I bluff. It used to tear me apart when I'd get one of my men killed, but what was I supposed to do? Break down in front of the ones who were standing there waiting for me to tell them what to do? Of course not, so I bluffed, and after a while, I started to fall for my own bluff. It was great, it made everything so much easier. Sarge Is that why your hand's been shaking?",
+      "wordCount": 87
+    },
+    {
+      "id": 564,
+      "index": 564,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "It could be worse. You know the first thing they teach you at O.C.S.? Lie to your men.",
+      "wordCount": 18
+    },
+    {
+      "id": 565,
+      "index": 565,
+      "character": "SARGE",
+      "gender": "NA",
+      "line": "Oh, yeah?",
+      "wordCount": 2
+    },
+    {
+      "id": 566,
+      "index": 566,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Not in so many words, but they tell you you can have all the firepower in the world and if your men don't have good morale, it's not worth a damn. So if you're scared or empty or half-a-step from a Section Eight, do you tell your men? Of course not. You bluff, you lie.",
+      "wordCount": 55
+    },
+    {
+      "id": 567,
+      "index": 567,
+      "character": "SARGE",
+      "gender": "NA",
+      "line": "And how do you bluff yourself?",
+      "wordCount": 6
+    },
+    {
+      "id": 568,
+      "index": 568,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Simple, numbers. Every time you kill one of your men, you tell yourself you just saved the lives of two, three, ten, a hundred others. We lost, what, thirty-one on the cliffs? I'll bet we saved ten times that number by putting out those guns. That's over three hundred men. Maybe five hundred. A thousand. Then thousand. Any number you want. See? It's simple. It lets you always choose mission over men.",
+      "wordCount": 72
+    },
+    {
+      "id": 569,
+      "index": 569,
+      "character": "SARGE",
+      "gender": "NA",
+      "line": "Except this time, the mission IS a man.",
+      "wordCount": 8
+    },
+    {
+      "id": 570,
+      "index": 570,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "That's the rub. I liked Wade. Who's Ryan? If they're both standing in front of me and I have to shoot one or the other, how do I choose? Look at my hand, there it goes again.",
+      "wordCount": 37
+    },
+    {
+      "id": 571,
+      "index": 571,
+      "character": "SARGE",
+      "gender": "NA",
+      "line": "John, I've got to tell you, I think you're about used up.",
+      "wordCount": 12
+    },
+    {
+      "id": 572,
+      "index": 572,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "I think you're right, Keith.",
+      "wordCount": 5
+    },
+    {
+      "id": 573,
+      "index": 573,
+      "character": "SARGE",
+      "gender": "NA",
+      "line": "You want me to take over?",
+      "wordCount": 6
+    },
+    {
+      "id": 574,
+      "index": 574,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "No, but if I get any worse, you'll have to relieve me.",
+      "wordCount": 12
+    },
+    {
+      "id": 575,
+      "index": 575,
+      "character": "SARGE",
+      "gender": "NA",
+      "line": "Just what I want to do.",
+      "wordCount": 6
+    },
+    {
+      "id": 576,
+      "index": 576,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "You know Wade was the eleventh of the twelve, you're the last one still alive.",
+      "wordCount": 15
+    },
+    {
+      "id": 577,
+      "index": 577,
+      "character": "SARGE",
+      "gender": "NA",
+      "line": "I know.",
+      "wordCount": 2
+    },
+    {
+      "id": 578,
+      "index": 578,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Don't let yourself get killed, if you do, they might make me give back the medal and then I won't be able to lip off to colonels anymore.",
+      "wordCount": 28
+    },
+    {
+      "id": 579,
+      "index": 579,
+      "character": "SARGE",
+      "gender": "NA",
+      "line": "I'll do my best.",
+      "wordCount": 4
+    },
+    {
+      "id": 580,
+      "index": 580,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Thanks for drawing that machine gun off me.",
+      "wordCount": 8
+    },
+    {
+      "id": 581,
+      "index": 581,
+      "character": "SARGE",
+      "gender": "NA",
+      "line": "You're welcome, John.",
+      "wordCount": 3
+    },
+    {
+      "id": 582,
+      "index": 582,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "But, that's my personal brand of stupidity, I feel kind of proprietary about it, if you do it again, you're busted.",
+      "wordCount": 21
+    },
+    {
+      "id": 583,
+      "index": 583,
+      "character": "SARGE",
+      "gender": "NA",
+      "line": "Yes, sir.",
+      "wordCount": 2
+    },
+    {
+      "id": 584,
+      "index": 584,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Up. We're moving out.",
+      "wordCount": 4
+    },
+    {
+      "id": 585,
+      "index": 585,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "I thought you said we had an hour, sir?",
+      "wordCount": 9
+    },
+    {
+      "id": 586,
+      "index": 586,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Well now I'm saying we're moving out. Get off your ass.",
+      "wordCount": 11
+    },
+    {
+      "id": 587,
+      "index": 587,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "What the hell's the matter with you, Jackson?",
+      "wordCount": 8
+    },
+    {
+      "id": 588,
+      "index": 588,
+      "character": "JACKSON",
+      "gender": "Male",
+      "line": "Sir, I ain't feeling so chipper on account of Wade.",
+      "wordCount": 10
+    },
+    {
+      "id": 589,
+      "index": 589,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Who's Wade?",
+      "wordCount": 2
+    },
+    {
+      "id": 590,
+      "index": 590,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "I said, who the hell is Wade?",
+      "wordCount": 7
+    },
+    {
+      "id": 591,
+      "index": 591,
+      "character": "JACKSON",
+      "gender": "Male",
+      "line": "Sir, I understand what you're doin', but I respectfully request permission to grieve in my own manner.",
+      "wordCount": 17
+    },
+    {
+      "id": 592,
+      "index": 592,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "You'll grieve the way I tell you to goddamned grieve. There is no Wade, there was one, but he died a long time ago, he's been dead for so long you can hardly remember his name, you understand?",
+      "wordCount": 38
+    },
+    {
+      "id": 593,
+      "index": 593,
+      "character": "JACKSON",
+      "gender": "Male",
+      "line": "Sir, I understand. I don't like it, but I understand.",
+      "wordCount": 10
+    },
+    {
+      "id": 594,
+      "index": 594,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Good, now get your goddamned gear.",
+      "wordCount": 6
+    },
+    {
+      "id": 595,
+      "index": 595,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "You know what the best possible thing that could happen is?",
+      "wordCount": 11
+    },
+    {
+      "id": 596,
+      "index": 596,
+      "character": "JACKSON",
+      "gender": "Male",
+      "line": "Yep, you step on a rusty nail, get lockjaw, never say another word as long as you live.",
+      "wordCount": 18
+    },
+    {
+      "id": 597,
+      "index": 597,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "I've given this a lot of thought, sir. The best thing that could happen is, we find Ryan and he's dead.",
+      "wordCount": 21
+    },
+    {
+      "id": 598,
+      "index": 598,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Why's that?",
+      "wordCount": 2
+    },
+    {
+      "id": 599,
+      "index": 599,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "Well, sir, consider the possibilities. A: Ryan is alive. We have to take him back to the beach. Knowing you, you don't let him carry my gear, even though he really should, and we all get killed, trying to keep him alive.",
+      "wordCount": 42
+    },
+    {
+      "id": 600,
+      "index": 600,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Except for the last part, that one's not bad.",
+      "wordCount": 9
+    },
+    {
+      "id": 601,
+      "index": 601,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "B: Ryan is dead. He's been blown up by the German equivalent of Wade, whose name I know you don't want me to mention. There's nothing to find. The biggest piece is the size of a pea. We wander around, looking for him until the Germans pick us off, one after another.",
+      "wordCount": 52
+    },
+    {
+      "id": 602,
+      "index": 602,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "I don't like that one.",
+      "wordCount": 5
+    },
+    {
+      "id": 603,
+      "index": 603,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "Neither do I, sir. C: And this is the worst one, we find Ryan and he's wounded. Not only does he not carry my gear, we have to carry his gear. And him.",
+      "wordCount": 33
+    },
+    {
+      "id": 604,
+      "index": 604,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "But we accomplish the mission.",
+      "wordCount": 5
+    },
+    {
+      "id": 605,
+      "index": 605,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "Maybe. But what if he dies on the way back? you see what I'm saying, sir? The best possible situation is, he's dead, we find his body, more or less intact, we grab one of his dog-tags and high-tail it back to the beach, or better yet, we head over to Caen and catch up with division.",
+      "wordCount": 57
+    },
+    {
+      "id": 606,
+      "index": 606,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Has anyone ever told you, you're officer material?",
+      "wordCount": 8
+    },
+    {
+      "id": 607,
+      "index": 607,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "No, sir.",
+      "wordCount": 2
+    },
+    {
+      "id": 608,
+      "index": 608,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "That's a mystery to me.",
+      "wordCount": 5
+    },
+    {
+      "id": 609,
+      "index": 609,
+      "character": "SARGE",
+      "gender": "NA",
+      "line": "Looks like we're going to beat those Kraut companies to Ramelle.",
+      "wordCount": 11
+    },
+    {
+      "id": 610,
+      "index": 610,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "I don't think so.",
+      "wordCount": 4
+    },
+    {
+      "id": 611,
+      "index": 611,
+      "character": "GERMAN FLANK SQUADS",
+      "gender": "NA",
+      "line": "Hurry along the fields on either side of the road, trying to keep up with the vehicles. MILLER AND HIS MEN Catch a glimpse of an approaching German Flank Squad. They flatten themselves into the mucky water. Ready their weapons. Prepare to fire.",
+      "wordCount": 43
+    },
+    {
+      "id": 612,
+      "index": 612,
+      "character": "THE GERMAN SQUAD",
+      "gender": "NA",
+      "line": "Approaches the bridge.",
+      "wordCount": 3
+    },
+    {
+      "id": 613,
+      "index": 613,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Is just about to open up on them.",
+      "wordCount": 8
+    },
+    {
+      "id": 614,
+      "index": 614,
+      "character": "THE GERMAN SERGEANT",
+      "gender": "NA",
+      "line": "Sees his Flank Squad lagging behind and CALLS to them.",
+      "wordCount": 10
+    },
+    {
+      "id": 615,
+      "index": 615,
+      "character": "THE GERMAN PRIVATES",
+      "gender": "NA",
+      "line": "Obey. Hurry after the rest of the convoy.",
+      "wordCount": 8
+    },
+    {
+      "id": 616,
+      "index": 616,
+      "character": "IN THE CULVERT",
+      "gender": "NA",
+      "line": "The Americans breathe again.",
+      "wordCount": 4
+    },
+    {
+      "id": 617,
+      "index": 617,
+      "character": "UPHAM",
+      "gender": "Male",
+      "line": "I wonder where they're going.",
+      "wordCount": 5
+    },
+    {
+      "id": 618,
+      "index": 618,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Same place we are.",
+      "wordCount": 4
+    },
+    {
+      "id": 619,
+      "index": 619,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Scans the Germans with his binoculars.",
+      "wordCount": 6
+    },
+    {
+      "id": 620,
+      "index": 620,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "Looks like tea time, maybe they're Brits.",
+      "wordCount": 7
+    },
+    {
+      "id": 621,
+      "index": 621,
+      "character": "UPHAM",
+      "gender": "Male",
+      "line": "I sure hope so.",
+      "wordCount": 4
+    },
+    {
+      "id": 622,
+      "index": 622,
+      "character": "SARGE",
+      "gender": "NA",
+      "line": "What do you think they're waiting for, Captain?",
+      "wordCount": 8
+    },
+    {
+      "id": 623,
+      "index": 623,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Puts away the binoculars and jerks his head for his men to follow, low, along the wall. The men are happy to do so, looking back nervously at the German tanks.",
+      "wordCount": 31
+    },
+    {
+      "id": 624,
+      "index": 624,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "Looks like they've been having a hell of a party, here, Captain.",
+      "wordCount": 12
+    },
+    {
+      "id": 625,
+      "index": 625,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "ON THE BRIDGE! WE'RE COMING IN.",
+      "wordCount": 6
+    },
+    {
+      "id": 626,
+      "index": 626,
+      "character": "VOICE FROM BRIDGE",
+      "gender": "NA",
+      "line": "KISS MY ASS, FRITZ.",
+      "wordCount": 4
+    },
+    {
+      "id": 627,
+      "index": 627,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "YOU FIRE AT US AND I'LL DO A HELL OF A LOT MORE THAN THAT.",
+      "wordCount": 15
+    },
+    {
+      "id": 628,
+      "index": 628,
+      "character": "VOICE FROM BRIDGE",
+      "gender": "NA",
+      "line": "WHO WON THE '38 ARMY-NAVY GAME?",
+      "wordCount": 6
+    },
+    {
+      "id": 629,
+      "index": 629,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "I HAVE NO FUCKING IDEA. HERE WE",
+      "wordCount": 7
+    },
+    {
+      "id": 630,
+      "index": 630,
+      "character": "COME.",
+      "gender": "NA",
+      "line": "Cover me.",
+      "wordCount": 2
+    },
+    {
+      "id": 631,
+      "index": 631,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "What if our guys open up, sir?",
+      "wordCount": 7
+    },
+    {
+      "id": 632,
+      "index": 632,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "You're only allowed to shoot at Germans, that's one of the rules.",
+      "wordCount": 12
+    },
+    {
+      "id": 633,
+      "index": 633,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "Have it your way, Captain.",
+      "wordCount": 5
+    },
+    {
+      "id": 634,
+      "index": 634,
+      "character": "MILLER'S MEN",
+      "gender": "NA",
+      "line": "POUR FIRE at the German positions, SURPRESSING THE GERMAN FIRE.",
+      "wordCount": 10
+    },
+    {
+      "id": 635,
+      "index": 635,
+      "character": "ON THE BRIDGE",
+      "gender": "NA",
+      "line": "The Paratroopers pour a HEAVY STREAM OF BULLETS at the German positions.",
+      "wordCount": 12
+    },
+    {
+      "id": 636,
+      "index": 636,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "I'll keep it in mind. OKAY, SARGE, ONE AT A TIME.",
+      "wordCount": 11
+    },
+    {
+      "id": 637,
+      "index": 637,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Things are tough all over. We're looking for a Private James Ryan.",
+      "wordCount": 12
+    },
+    {
+      "id": 638,
+      "index": 638,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Is he here?",
+      "wordCount": 3
+    },
+    {
+      "id": 639,
+      "index": 639,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Jackson, get a hold of command.",
+      "wordCount": 6
+    },
+    {
+      "id": 640,
+      "index": 640,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "How many men do you have?",
+      "wordCount": 6
+    },
+    {
+      "id": 641,
+      "index": 641,
+      "character": "JACKSON",
+      "gender": "Male",
+      "line": "Not yet.",
+      "wordCount": 2
+    },
+    {
+      "id": 642,
+      "index": 642,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Keep trying.",
+      "wordCount": 2
+    },
+    {
+      "id": 643,
+      "index": 643,
+      "character": "PRIVATE JAMES RYAN",
+      "gender": "NA",
+      "line": "Dashing from cover to cover, making his way toward them. Ryan is an American classic, nineteen years old, earthy, handsome, sharp, cocky. Though he's exhausted, unshaven, and smeared with dirt and blood, he's very alive. His eyes shine, his face has a spark. You can't help but love this kid.",
+      "wordCount": 50
+    },
+    {
+      "id": 644,
+      "index": 644,
+      "character": "MILLER'S MEN",
+      "gender": "NA",
+      "line": "All watch Ryan run toward them.",
+      "wordCount": 6
+    },
+    {
+      "id": 645,
+      "index": 645,
+      "character": "JACKSON",
+      "gender": "Male",
+      "line": "So, that's Ryan.",
+      "wordCount": 3
+    },
+    {
+      "id": 646,
+      "index": 646,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "Looks like a flaming asshole to me.",
+      "wordCount": 7
+    },
+    {
+      "id": 647,
+      "index": 647,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "I'm Ryan, sir. You wanted to see me?",
+      "wordCount": 8
+    },
+    {
+      "id": 648,
+      "index": 648,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Yes.",
+      "wordCount": 1
+    },
+    {
+      "id": 649,
+      "index": 649,
+      "character": "THE PARATROOPERS",
+      "gender": "NA",
+      "line": "Are stunned at the news. They look at Ryan, there's nothing else they can do.",
+      "wordCount": 15
+    },
+    {
+      "id": 650,
+      "index": 650,
+      "character": "MILLER'S MEN",
+      "gender": "NA",
+      "line": "Also look at Ryan, but then, one after another, they turn away, adverting their eyes, looking a their own boots, the debris on the bridge, the sky, anything other than Ryan.",
+      "wordCount": 31
+    },
+    {
+      "id": 651,
+      "index": 651,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "We've been sent to get you out of here. You're going home.",
+      "wordCount": 12
+    },
+    {
+      "id": 652,
+      "index": 652,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Sergeant, we're moving out and I'm taking you and your men with me.",
+      "wordCount": 13
+    },
+    {
+      "id": 653,
+      "index": 653,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "I'm giving you new orders, Sergeant.",
+      "wordCount": 6
+    },
+    {
+      "id": 654,
+      "index": 654,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "I'm not going to leave you and your men here to get killed. Get them together, we're moving out.",
+      "wordCount": 19
+    },
+    {
+      "id": 655,
+      "index": 655,
+      "character": "RYAN",
+      "gender": "Male",
+      "line": "No, sir.",
+      "wordCount": 2
+    },
+    {
+      "id": 656,
+      "index": 656,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Come on, Private, you're going home.",
+      "wordCount": 6
+    },
+    {
+      "id": 657,
+      "index": 657,
+      "character": "RYAN",
+      "gender": "Male",
+      "line": "No, sir.",
+      "wordCount": 2
+    },
+    {
+      "id": 658,
+      "index": 658,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Private. I'm sorry about your brothers but staying here and getting yourself killed isn't going to help.",
+      "wordCount": 17
+    },
+    {
+      "id": 659,
+      "index": 659,
+      "character": "RYAN",
+      "gender": "Male",
+      "line": "Sir, if the Krauts are holding this bridge when division shows up, our guys are going to be sitting ducks.",
+      "wordCount": 20
+    },
+    {
+      "id": 660,
+      "index": 660,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "This bridge cannot be held. The Germans have two companies less than three miles from here. They have tanks.",
+      "wordCount": 19
+    },
+    {
+      "id": 661,
+      "index": 661,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Private, if you want to commit suicide, that's your choice, but you're going to have to wait until after I get you back to the beach. And you're not going to take these men with you.",
+      "wordCount": 36
+    },
+    {
+      "id": 662,
+      "index": 662,
+      "character": "RYAN",
+      "gender": "Male",
+      "line": "I'm not leaving, sir.",
+      "wordCount": 4
+    },
+    {
+      "id": 663,
+      "index": 663,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "The hell you aren't, you're comin' with me if I have to drag you every inch of the way. You hear me, Private?",
+      "wordCount": 23
+    },
+    {
+      "id": 664,
+      "index": 664,
+      "character": "RYAN",
+      "gender": "Male",
+      "line": "I hear you sir, but I'm not leaving.",
+      "wordCount": 8
+    },
+    {
+      "id": 665,
+      "index": 665,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Listen you little son-of-a-bitch you're coming with me or I'll...I'll...",
+      "wordCount": 10
+    },
+    {
+      "id": 666,
+      "index": 666,
+      "character": "RYAN",
+      "gender": "Male",
+      "line": "What are you going to do, sir, shoot me?",
+      "wordCount": 9
+    },
+    {
+      "id": 667,
+      "index": 667,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "Uh, excuse me, Captain.",
+      "wordCount": 4
+    },
+    {
+      "id": 668,
+      "index": 668,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "So, what are a few tanks, sir?",
+      "wordCount": 7
+    },
+    {
+      "id": 669,
+      "index": 669,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "He's right, we can't shoot him...well, we could but we'd get in an enormous amount of trouble. And he's right about the bridge, it's a hell of a lot more important than he is.",
+      "wordCount": 34
+    },
+    {
+      "id": 670,
+      "index": 670,
+      "character": "JACKSON",
+      "gender": "Male",
+      "line": "Cap'n...?",
+      "wordCount": 1
+    },
+    {
+      "id": 671,
+      "index": 671,
+      "character": "JACKSON",
+      "gender": "Male",
+      "line": "Seems to me, we got us a opportunity, here, to kill two birds with one stone. Command seems to think keepin' this boy alive is worth somethin'. If we was to do that and hold this bridge, good chance we'd get us a bucket full of medals. I might even get me one 'a them big, fancy ones like you got, so's I could sass any officer in the whole dang army, you included.",
+      "wordCount": 74
+    },
+    {
+      "id": 672,
+      "index": 672,
+      "character": "UPHAM",
+      "gender": "Male",
+      "line": "I'd like to stay, too, Captain.",
+      "wordCount": 6
+    },
+    {
+      "id": 673,
+      "index": 673,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "You don't count.",
+      "wordCount": 3
+    },
+    {
+      "id": 674,
+      "index": 674,
+      "character": "SARGE",
+      "gender": "NA",
+      "line": "I do and personally, I'd rather get the hell out of here, but somebody's got to stay and take care of you and these pin-head privates of yours.",
+      "wordCount": 28
+    },
+    {
+      "id": 675,
+      "index": 675,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "See, Captain? The vote's unanimous.",
+      "wordCount": 5
+    },
+    {
+      "id": 676,
+      "index": 676,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "Yes, sir, of course, sir, I was merely speaking hypothetically. IF this was a voting situation, then the vote would have been unanimous. But of course, it's not a voting situation, you're the captain, and you give the orders, sir.",
+      "wordCount": 40
+    },
+    {
+      "id": 677,
+      "index": 677,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "You're goddamned right, I give the order. Vote! Jesus Christ! Listen to me, you little pissant pieces of shit, I am the ranking officer here and what I say goes, is that clear?",
+      "wordCount": 33
+    },
+    {
+      "id": 678,
+      "index": 678,
+      "character": "JACKSON",
+      "gender": "Male",
+      "line": "Yes, sir.",
+      "wordCount": 2
+    },
+    {
+      "id": 679,
+      "index": 679,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "Of course, sir.",
+      "wordCount": 3
+    },
+    {
+      "id": 680,
+      "index": 680,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "In that case... I vote we stay.",
+      "wordCount": 7
+    },
+    {
+      "id": 681,
+      "index": 681,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Reiben, the B.A.R., there. Jackson, get up on the bridgekeepers hut with your sniper rifle. Sarge, you and Upham move that machine gun so it can cover the left flank, it's worthless where it is. Forrest, I want a full inventory of all your weapons, ammo and ordnance. Go.",
+      "wordCount": 49
+    },
+    {
+      "id": 682,
+      "index": 682,
+      "character": "RYAN",
+      "gender": "Male",
+      "line": "Thank you, sir.",
+      "wordCount": 3
+    },
+    {
+      "id": 683,
+      "index": 683,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Yeah, yeah. I want you right next to me, no matter where I go, you understand?",
+      "wordCount": 16
+    },
+    {
+      "id": 684,
+      "index": 684,
+      "character": "RYAN",
+      "gender": "Male",
+      "line": "Yes, sir.",
+      "wordCount": 2
+    },
+    {
+      "id": 685,
+      "index": 685,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Alright, come with me.",
+      "wordCount": 4
+    },
+    {
+      "id": 686,
+      "index": 686,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "That's it?",
+      "wordCount": 2
+    },
+    {
+      "id": 687,
+      "index": 687,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "Sir, can I change my vote?",
+      "wordCount": 6
+    },
+    {
+      "id": 688,
+      "index": 688,
+      "character": "A GERMAN SNIPER",
+      "gender": "NA",
+      "line": "Falls from a window on the edge of town, dead.",
+      "wordCount": 10
+    },
+    {
+      "id": 689,
+      "index": 689,
+      "character": "UPHAM",
+      "gender": "Male",
+      "line": "Sits beside Jackson with a pair of binoculars, searching for another target. The German sniper fire has subsided for now. Ext. bridge - day Miller watches as Ryan and several other paratroopers dig a series of trenches across the street, leading to the bridge.",
+      "wordCount": 44
+    },
+    {
+      "id": 690,
+      "index": 690,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Sarge, see what you can do to make those buildings inhospitable.",
+      "wordCount": 11
+    },
+    {
+      "id": 691,
+      "index": 691,
+      "character": "SARGE",
+      "gender": "NA",
+      "line": "Yes, sir.",
+      "wordCount": 2
+    },
+    {
+      "id": 692,
+      "index": 692,
+      "character": "UPHAM",
+      "gender": "Male",
+      "line": "Eighty-eights, right?",
+      "wordCount": 2
+    },
+    {
+      "id": 693,
+      "index": 693,
+      "character": "UPHAM",
+      "gender": "Male",
+      "line": "I can tell what the gunners had for dinner.",
+      "wordCount": 9
+    },
+    {
+      "id": 694,
+      "index": 694,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Those guns are close.",
+      "wordCount": 4
+    },
+    {
+      "id": 695,
+      "index": 695,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Let's hope they don't change their mind.",
+      "wordCount": 7
+    },
+    {
+      "id": 696,
+      "index": 696,
+      "character": "SARGE",
+      "gender": "NA",
+      "line": "What do you think?",
+      "wordCount": 4
+    },
+    {
+      "id": 697,
+      "index": 697,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Well, if we had ten times the men and a lot more ammo, we might stand a chance, but not against those tanks.",
+      "wordCount": 23
+    },
+    {
+      "id": 698,
+      "index": 698,
+      "character": "SARGE",
+      "gender": "NA",
+      "line": "What are we going to do?",
+      "wordCount": 6
+    },
+    {
+      "id": 699,
+      "index": 699,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "We're going to hope like hell the tanks were on their way somewhere else.",
+      "wordCount": 14
+    },
+    {
+      "id": 700,
+      "index": 700,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "Maybe Caen.",
+      "wordCount": 2
+    },
+    {
+      "id": 701,
+      "index": 701,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Let's hope, because we're sure as hell not going to do any damage to them with what we have here.",
+      "wordCount": 20
+    },
+    {
+      "id": 702,
+      "index": 702,
+      "character": "UPHAM",
+      "gender": "Male",
+      "line": "What about our grenades?",
+      "wordCount": 4
+    },
+    {
+      "id": 703,
+      "index": 703,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Those are Tigers, they have six-inch armor, they don't even notice grenades.",
+      "wordCount": 12
+    },
+    {
+      "id": 704,
+      "index": 704,
+      "character": "UPHAM",
+      "gender": "Male",
+      "line": "Would they notice and eighty-eight?",
+      "wordCount": 5
+    },
+    {
+      "id": 705,
+      "index": 705,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Sure, you got one?",
+      "wordCount": 4
+    },
+    {
+      "id": 706,
+      "index": 706,
+      "character": "UPHAM",
+      "gender": "Male",
+      "line": "The Germans do.",
+      "wordCount": 3
+    },
+    {
+      "id": 707,
+      "index": 707,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Upham, go find Jackson, he and I are going hunting.",
+      "wordCount": 10
+    },
+    {
+      "id": 708,
+      "index": 708,
+      "character": "SARGE",
+      "gender": "NA",
+      "line": "Uh, oh.",
+      "wordCount": 2
+    },
+    {
+      "id": 709,
+      "index": 709,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Out of the mouth of babes.",
+      "wordCount": 6
+    },
+    {
+      "id": 710,
+      "index": 710,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Upham, you've got to learn the difference between whining and griping. You can't just rely on natural ability, you've got to study and practice.",
+      "wordCount": 24
+    },
+    {
+      "id": 711,
+      "index": 711,
+      "character": "UPHAM",
+      "gender": "Male",
+      "line": "But, sir...",
+      "wordCount": 2
+    },
+    {
+      "id": 712,
+      "index": 712,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "There you go again, that's whining, that's not okay.",
+      "wordCount": 9
+    },
+    {
+      "id": 713,
+      "index": 713,
+      "character": "UPHAM",
+      "gender": "Male",
+      "line": "Goddamn it, sir...",
+      "wordCount": 3
+    },
+    {
+      "id": 714,
+      "index": 714,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "That's better, but you've still got a long way to go. Talk to Reiben, he's a natural and works at it, he'll give you some pointers.",
+      "wordCount": 26
+    },
+    {
+      "id": 715,
+      "index": 715,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "Leave him to me, Captain, I'll have him pissing and moaning with the best of us.",
+      "wordCount": 16
+    },
+    {
+      "id": 716,
+      "index": 716,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "See to it.",
+      "wordCount": 3
+    },
+    {
+      "id": 717,
+      "index": 717,
+      "character": "RYAN",
+      "gender": "Male",
+      "line": "I'd like to go, sir.",
+      "wordCount": 5
+    },
+    {
+      "id": 718,
+      "index": 718,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "No, private, I want you to stay here, keep your head down, don't do anything brave or stupid.",
+      "wordCount": 18
+    },
+    {
+      "id": 719,
+      "index": 719,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "Aren't they the same thing, sir?",
+      "wordCount": 6
+    },
+    {
+      "id": 720,
+      "index": 720,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Reiben, I don't know what I'd do without you. Sarge, keep Ryan close to you and alive.",
+      "wordCount": 17
+    },
+    {
+      "id": 721,
+      "index": 721,
+      "character": "SARGE",
+      "gender": "NA",
+      "line": "Yes, sir.",
+      "wordCount": 2
+    },
+    {
+      "id": 722,
+      "index": 722,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "You ready?",
+      "wordCount": 2
+    },
+    {
+      "id": 723,
+      "index": 723,
+      "character": "JACKSON",
+      "gender": "Male",
+      "line": "You betcha, sir.",
+      "wordCount": 3
+    },
+    {
+      "id": 724,
+      "index": 724,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "Y'all come back.",
+      "wordCount": 3
+    },
+    {
+      "id": 725,
+      "index": 725,
+      "character": "JACKSON",
+      "gender": "Male",
+      "line": "Reiben, are you makin' fun 'a the way I talk?",
+      "wordCount": 10
+    },
+    {
+      "id": 726,
+      "index": 726,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "Hell, no!",
+      "wordCount": 2
+    },
+    {
+      "id": 727,
+      "index": 727,
+      "character": "IN THE DARKNESS",
+      "gender": "NA",
+      "line": "A slight movement. It's Miller. He crawls to the edge of the emplacement and freezes in the shadows.",
+      "wordCount": 18
+    },
+    {
+      "id": 728,
+      "index": 728,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Eyes the emplacement. Looks for a weakness. There is none. He motions to Forrest and Jackson to wait. The three of them settle into the darkness.",
+      "wordCount": 26
+    },
+    {
+      "id": 729,
+      "index": 729,
+      "character": "SARGE",
+      "gender": "NA",
+      "line": "Private, I'm sorry about your brothers.",
+      "wordCount": 6
+    },
+    {
+      "id": 730,
+      "index": 730,
+      "character": "SARGE",
+      "gender": "NA",
+      "line": "Wade.",
+      "wordCount": 1
+    },
+    {
+      "id": 731,
+      "index": 731,
+      "character": "RYAN",
+      "gender": "Male",
+      "line": "Wade. Huh, he died coming up here to keep me alive...I never met him...he didn't know me from Adam, strange. What was he like?",
+      "wordCount": 24
+    },
+    {
+      "id": 732,
+      "index": 732,
+      "character": "SARGE",
+      "gender": "NA",
+      "line": "A good man, kind of cheerful, Reiben, here, used to call him a happy idiot.",
+      "wordCount": 15
+    },
+    {
+      "id": 733,
+      "index": 733,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "Like hell, I did.",
+      "wordCount": 4
+    },
+    {
+      "id": 734,
+      "index": 734,
+      "character": "RYAN",
+      "gender": "Male",
+      "line": "My brothers would be mighty pissed off at me, if they knew I let some guy get killed trying to keep me alive.",
+      "wordCount": 23
+    },
+    {
+      "id": 735,
+      "index": 735,
+      "character": "SARGE",
+      "gender": "NA",
+      "line": "You didn't let anybody get killed, you didn't even know we were coming up here.",
+      "wordCount": 15
+    },
+    {
+      "id": 736,
+      "index": 736,
+      "character": "RYAN",
+      "gender": "Male",
+      "line": "Sure, I know, but... Goddamn it all...",
+      "wordCount": 7
+    },
+    {
+      "id": 737,
+      "index": 737,
+      "character": "A SHADOW",
+      "gender": "NA",
+      "line": "It's Miller. Easing through the darkness. Closer to one of the sentries.",
+      "wordCount": 12
+    },
+    {
+      "id": 738,
+      "index": 738,
+      "character": "BEHIND THE EIGHTY-EIGHT",
+      "gender": "NA",
+      "line": "Forrest removes the wheel-blocks.",
+      "wordCount": 4
+    },
+    {
+      "id": 739,
+      "index": 739,
+      "character": "A GERMAN SENTRY",
+      "gender": "NA",
+      "line": "Approaches. He sees Forrest. Just as he's about to open up with his sub-machine gun, Miller grabs him from behind, STABS him, eases the body silently to the ground.",
+      "wordCount": 29
+    },
+    {
+      "id": 740,
+      "index": 740,
+      "character": "MILLER AND JACKSON",
+      "gender": "NA",
+      "line": "Join Forrest at the eighty-eight.",
+      "wordCount": 5
+    },
+    {
+      "id": 741,
+      "index": 741,
+      "character": "ANOTHER GERMAN SENTRY",
+      "gender": "NA",
+      "line": "Rounds a corner. Sees them. OPENS UP WITH HIS SUB-MACHINE GUN.",
+      "wordCount": 11
+    },
+    {
+      "id": 742,
+      "index": 742,
+      "character": "OTHER GERMANS",
+      "gender": "NA",
+      "line": "Race over, FIRING.",
+      "wordCount": 3
+    },
+    {
+      "id": 743,
+      "index": 743,
+      "character": "JACKSON",
+      "gender": "Male",
+      "line": "Covering them, OPENS UP. Kills the advancing Germans.",
+      "wordCount": 8
+    },
+    {
+      "id": 744,
+      "index": 744,
+      "character": "THE WINDSHIELD",
+      "gender": "NA",
+      "line": "Is shattered by bullets.",
+      "wordCount": 4
+    },
+    {
+      "id": 745,
+      "index": 745,
+      "character": "FORREST",
+      "gender": "NA",
+      "line": "In the back of the truck.",
+      "wordCount": 6
+    },
+    {
+      "id": 746,
+      "index": 746,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "RYAN! GET BACK THERE!",
+      "wordCount": 4
+    },
+    {
+      "id": 747,
+      "index": 747,
+      "character": "RYAN",
+      "gender": "Male",
+      "line": "Sorry, sir.",
+      "wordCount": 2
+    },
+    {
+      "id": 748,
+      "index": 748,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Don't do that again.",
+      "wordCount": 4
+    },
+    {
+      "id": 749,
+      "index": 749,
+      "character": "RYAN",
+      "gender": "Male",
+      "line": "I won't need to sir, it's already here, behind the barricade so...",
+      "wordCount": 12
+    },
+    {
+      "id": 750,
+      "index": 750,
+      "character": "RYAN",
+      "gender": "Male",
+      "line": "Yes, sir.",
+      "wordCount": 2
+    },
+    {
+      "id": 751,
+      "index": 751,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "What do you think?",
+      "wordCount": 4
+    },
+    {
+      "id": 752,
+      "index": 752,
+      "character": "JACKSON",
+      "gender": "Male",
+      "line": "I think I'm we got that eighty-eight.",
+      "wordCount": 7
+    },
+    {
+      "id": 753,
+      "index": 753,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "I mean, Ryan, what do you think of him?",
+      "wordCount": 9
+    },
+    {
+      "id": 754,
+      "index": 754,
+      "character": "JACKSON",
+      "gender": "Male",
+      "line": "He ain't half-bad, I guess.",
+      "wordCount": 5
+    },
+    {
+      "id": 755,
+      "index": 755,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "I guess.",
+      "wordCount": 2
+    },
+    {
+      "id": 756,
+      "index": 756,
+      "character": "JACKSON",
+      "gender": "Male",
+      "line": "He ain't Wade.",
+      "wordCount": 3
+    },
+    {
+      "id": 757,
+      "index": 757,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "Nope, he ain't Wade.",
+      "wordCount": 4
+    },
+    {
+      "id": 758,
+      "index": 758,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Crouch-runs through the shadows and stops at the bridgekeepers hut.",
+      "wordCount": 10
+    },
+    {
+      "id": 759,
+      "index": 759,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Reiben...",
+      "wordCount": 1
+    },
+    {
+      "id": 760,
+      "index": 760,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "Yes, sir.",
+      "wordCount": 2
+    },
+    {
+      "id": 761,
+      "index": 761,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "You set? Sarge nods.",
+      "wordCount": 4
+    },
+    {
+      "id": 762,
+      "index": 762,
+      "character": "RYAN",
+      "gender": "Male",
+      "line": "Yes, sir.",
+      "wordCount": 2
+    },
+    {
+      "id": 763,
+      "index": 763,
+      "character": "REIBEN AND UPHAM",
+      "gender": "NA",
+      "line": "Manning the forward machine gun nest.",
+      "wordCount": 6
+    },
+    {
+      "id": 764,
+      "index": 764,
+      "character": "JACKSON",
+      "gender": "Male",
+      "line": "Behind the sandbags, on top of the bridgekeeper's hut.",
+      "wordCount": 9
+    },
+    {
+      "id": 765,
+      "index": 765,
+      "character": "RYAN AND SARGE",
+      "gender": "NA",
+      "line": "Manning rear machine gun.",
+      "wordCount": 4
+    },
+    {
+      "id": 766,
+      "index": 766,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "At the bridgehead, waiting.",
+      "wordCount": 4
+    },
+    {
+      "id": 767,
+      "index": 767,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Cocks his Thompson. Settles down behind some sandbags.",
+      "wordCount": 8
+    },
+    {
+      "id": 768,
+      "index": 768,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "HERE THEY COME!",
+      "wordCount": 3
+    },
+    {
+      "id": 769,
+      "index": 769,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "OPENS UP with the MACHINE GUN.",
+      "wordCount": 6
+    },
+    {
+      "id": 770,
+      "index": 770,
+      "character": "THE GERMANS",
+      "gender": "NA",
+      "line": "At least fifty of them, advancing on the bridge. Running from cover to cover. A squad pushing a French truck, using it as a shield.",
+      "wordCount": 25
+    },
+    {
+      "id": 771,
+      "index": 771,
+      "character": "JACKSON",
+      "gender": "Male",
+      "line": "Calmly picking off the attacking Germans.",
+      "wordCount": 6
+    },
+    {
+      "id": 772,
+      "index": 772,
+      "character": "THE GERMAN INFANTRYMEN",
+      "gender": "NA",
+      "line": "Make their way down the streets. Along the riverbank. Through the houses. There are GERMANS FIRING from all directions.",
+      "wordCount": 19
+    },
+    {
+      "id": 773,
+      "index": 773,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Sees Reiben and Upham being cut off. Grabs the B.A.R., stands and fires.",
+      "wordCount": 13
+    },
+    {
+      "id": 774,
+      "index": 774,
+      "character": "REIBEN AND UPHAM",
+      "gender": "NA",
+      "line": "Running out of ammo. See that there's nothing else they can do.",
+      "wordCount": 12
+    },
+    {
+      "id": 775,
+      "index": 775,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "Time to go.",
+      "wordCount": 3
+    },
+    {
+      "id": 776,
+      "index": 776,
+      "character": "RYAN IS FIRING",
+      "gender": "NA",
+      "line": "With the rear MACHINE GUN. Drops several Germans.",
+      "wordCount": 8
+    },
+    {
+      "id": 777,
+      "index": 777,
+      "character": "GERMANS EVERYWHERE",
+      "gender": "NA",
+      "line": "They swarm over the first barricade.",
+      "wordCount": 6
+    },
+    {
+      "id": 778,
+      "index": 778,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "FIRES A BURST into a German's belly. HITS another with the stock of his Thompson.",
+      "wordCount": 15
+    },
+    {
+      "id": 779,
+      "index": 779,
+      "character": "HAND-TO-HAND FIGHTING",
+      "gender": "NA",
+      "line": "Half a dozen Germans break through.",
+      "wordCount": 6
+    },
+    {
+      "id": 780,
+      "index": 780,
+      "character": "RYAN",
+      "gender": "Male",
+      "line": "Is jumped on by one. Upham FIRES. KILLS the German.",
+      "wordCount": 10
+    },
+    {
+      "id": 781,
+      "index": 781,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Struggling with a pair of Germans.",
+      "wordCount": 6
+    },
+    {
+      "id": 782,
+      "index": 782,
+      "character": "JACKSON",
+      "gender": "Male",
+      "line": "FIRES. Drops one of the Germans on Miller with a head shot. Cuts open Miller's face with bits of skull.",
+      "wordCount": 20
+    },
+    {
+      "id": 783,
+      "index": 783,
+      "character": "RYAN",
+      "gender": "Male",
+      "line": "Leaps onto the final German attacking Miller. That German raises his rifle on Ryan.",
+      "wordCount": 14
+    },
+    {
+      "id": 784,
+      "index": 784,
+      "character": "THE STUNNED GERMAN",
+      "gender": "NA",
+      "line": "About to kill Ryan. Torn apart by bullets from three directions.",
+      "wordCount": 11
+    },
+    {
+      "id": 785,
+      "index": 785,
+      "character": "UPHAM",
+      "gender": "Male",
+      "line": "I got him.",
+      "wordCount": 3
+    },
+    {
+      "id": 786,
+      "index": 786,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "Like hell you did, I got him.",
+      "wordCount": 7
+    },
+    {
+      "id": 787,
+      "index": 787,
+      "character": "JACKSON SMILES",
+      "gender": "NA",
+      "line": "He got him.",
+      "wordCount": 3
+    },
+    {
+      "id": 788,
+      "index": 788,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "BACK! LET'S GO!",
+      "wordCount": 3
+    },
+    {
+      "id": 789,
+      "index": 789,
+      "character": "SARGE",
+      "gender": "NA",
+      "line": "Sees them in deep trouble. Leaves Ryan firing the rear machine gun. Grabs the B.A.R. ADVANCES, FIRING COVER. Exposed.",
+      "wordCount": 19
+    },
+    {
+      "id": 790,
+      "index": 790,
+      "character": "BULLETS EVERYWHERE",
+      "gender": "NA",
+      "line": "MILLER, REIBEN, UPHAM make it to the barricade. Dive over.",
+      "wordCount": 10
+    },
+    {
+      "id": 791,
+      "index": 791,
+      "character": "SARGE",
+      "gender": "NA",
+      "line": "Sees they've made it. FIRES A FINAL BURST. Races for cover. A trail of bullets right behind him.",
+      "wordCount": 18
+    },
+    {
+      "id": 792,
+      "index": 792,
+      "character": "THE AMERICANS",
+      "gender": "NA",
+      "line": "Desperately trying to cover him.",
+      "wordCount": 5
+    },
+    {
+      "id": 793,
+      "index": 793,
+      "character": "THE GERMANS",
+      "gender": "NA",
+      "line": "Open up with a volley.",
+      "wordCount": 5
+    },
+    {
+      "id": 794,
+      "index": 794,
+      "character": "SARGE",
+      "gender": "NA",
+      "line": "Is almost there.",
+      "wordCount": 3
+    },
+    {
+      "id": 795,
+      "index": 795,
+      "character": "SARGE",
+      "gender": "NA",
+      "line": "Five feet from the sandbags, his back is TORN APART by Germans fire. He looks down, stunned at his chest. Amazed to see GAPING HOLES. An instant of surprise, more than fear.",
+      "wordCount": 32
+    },
+    {
+      "id": 796,
+      "index": 796,
+      "character": "THE GERMANS",
+      "gender": "NA",
+      "line": "Who killed Sarge are killed. The others back off for now.",
+      "wordCount": 11
+    },
+    {
+      "id": 797,
+      "index": 797,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Grabs Sarge and pulls him over the barricade. Sees that he's dead.",
+      "wordCount": 12
+    },
+    {
+      "id": 798,
+      "index": 798,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Stunned, lays Sarge down, kneeling next to him.",
+      "wordCount": 8
+    },
+    {
+      "id": 799,
+      "index": 799,
+      "character": "THE OTHERS",
+      "gender": "NA",
+      "line": "Watch, start to gather.",
+      "wordCount": 4
+    },
+    {
+      "id": 800,
+      "index": 800,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "Goddamn it...Goddamn it...Goddamn it...",
+      "wordCount": 4
+    },
+    {
+      "id": 801,
+      "index": 801,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Get back to your positions!",
+      "wordCount": 5
+    },
+    {
+      "id": 802,
+      "index": 802,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Go!",
+      "wordCount": 1
+    },
+    {
+      "id": 803,
+      "index": 803,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Doesn't move. He just stares at Sarge's body.",
+      "wordCount": 8
+    },
+    {
+      "id": 804,
+      "index": 804,
+      "character": "RYAN",
+      "gender": "Male",
+      "line": "Looks at Miller, sees him growing weak, starting to sway. He gently tries to move Miller aside.",
+      "wordCount": 17
+    },
+    {
+      "id": 805,
+      "index": 805,
+      "character": "RYAN",
+      "gender": "Male",
+      "line": "I'll take care of Sarge...",
+      "wordCount": 5
+    },
+    {
+      "id": 806,
+      "index": 806,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Sarge? Who's Sarge?",
+      "wordCount": 3
+    },
+    {
+      "id": 807,
+      "index": 807,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "English teacher, Addley, Pennsylvania.",
+      "wordCount": 4
+    },
+    {
+      "id": 808,
+      "index": 808,
+      "character": "UPHAM",
+      "gender": "Male",
+      "line": "What'd you say, Captain?",
+      "wordCount": 4
+    },
+    {
+      "id": 809,
+      "index": 809,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "I teach English at Addley High School in Addley, Pennsylvania.",
+      "wordCount": 10
+    },
+    {
+      "id": 810,
+      "index": 810,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "Well, I'll be goddamned, I knew it.",
+      "wordCount": 7
+    },
+    {
+      "id": 811,
+      "index": 811,
+      "character": "JACKSON",
+      "gender": "Male",
+      "line": "Like hell, you did.",
+      "wordCount": 4
+    },
+    {
+      "id": 812,
+      "index": 812,
+      "character": "UPHAM",
+      "gender": "Male",
+      "line": "Captain, what about our deal?",
+      "wordCount": 5
+    },
+    {
+      "id": 813,
+      "index": 813,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "I changed my mind.",
+      "wordCount": 4
+    },
+    {
+      "id": 814,
+      "index": 814,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "What deal?",
+      "wordCount": 2
+    },
+    {
+      "id": 815,
+      "index": 815,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "I coach the baseball team, too.",
+      "wordCount": 6
+    },
+    {
+      "id": 816,
+      "index": 816,
+      "character": "JACKSON",
+      "gender": "Male",
+      "line": "No kiddin'?",
+      "wordCount": 2
+    },
+    {
+      "id": 817,
+      "index": 817,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "What deal?",
+      "wordCount": 2
+    },
+    {
+      "id": 818,
+      "index": 818,
+      "character": "UPHAM",
+      "gender": "Male",
+      "line": "Forget it.",
+      "wordCount": 2
+    },
+    {
+      "id": 819,
+      "index": 819,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "You know that cruise ship Wade's grandfather was on?",
+      "wordCount": 9
+    },
+    {
+      "id": 820,
+      "index": 820,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "I wonder if his cabin is still available?",
+      "wordCount": 8
+    },
+    {
+      "id": 821,
+      "index": 821,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "That's not where I am. Miller No? Where are you?",
+      "wordCount": 10
+    },
+    {
+      "id": 822,
+      "index": 822,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "I'm in a dressing room with Mrs. Rachel Troubowitz, our super's wife. She's an easy forty-four, double E, but I've convinced her she's a thirty- eight D and I'm watching her try and squeeze herself into a side-stay, silk-ribboned, three-panel girdle with s Helf-lift brassiere. She's having a devil of a time, getting into that thing.",
+      "wordCount": 56
+    },
+    {
+      "id": 823,
+      "index": 823,
+      "character": "JACKSON",
+      "gender": "Male",
+      "line": "Me? I'm walking with my hound, Lucy, it's about an hour 'fore sunrise and we're out huntin' coon. I got me a flask of pure Kentucky mash whiskey...",
+      "wordCount": 28
+    },
+    {
+      "id": 824,
+      "index": 824,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "Jackson, how many times I got to tell you, you're from Tennessee.",
+      "wordCount": 12
+    },
+    {
+      "id": 825,
+      "index": 825,
+      "character": "JACKSON",
+      "gender": "Male",
+      "line": "I am, but I like imported whiskey. So there I am and I hear the biggest ole' coon you ever did hear, 'a rustlin' right there in front of me. That ole' boy comes right out of the brush, I got a clear shot and he knows he's 'bout to meet his maker. I aim, I got my finger tight on the trigger and then I just smile and say to that ole' coon, go on, now, you get out 'a here. Then I sit down on a hollow log and take me a right long pull a' that mash whiskey.",
+      "wordCount": 101
+    },
+    {
+      "id": 826,
+      "index": 826,
+      "character": "UPHAM",
+      "gender": "Male",
+      "line": "I don't know, I kind of like Wade's idea about the cruise ship. I've never been to Tahiti.",
+      "wordCount": 18
+    },
+    {
+      "id": 827,
+      "index": 827,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "What about you, Captain?",
+      "wordCount": 4
+    },
+    {
+      "id": 828,
+      "index": 828,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "I'm in my backyard, lying in my hammock, with my arm around my wife, listening for the sound of breaking glass.",
+      "wordCount": 21
+    },
+    {
+      "id": 829,
+      "index": 829,
+      "character": "JACKSON",
+      "gender": "Male",
+      "line": "Say what, Cap'n?",
+      "wordCount": 3
+    },
+    {
+      "id": 830,
+      "index": 830,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "You see, I've got the best house in all of Addley. It's not the biggest house, but it's got the best location, right next to the junior high baseball field. The garage windows face left field. The guy who owned the house before me had these heavy screen S put over them. The first thing I did when I bought the place was take off those screens. Two-hundred-twenty- two yards from home plate to my garage windows. It takes a hell of a junior high kid to hit a ball that far. I look at my garage windows as a Motivator and a way to scout the kids coming up, the ones who are going to give us a shot at the state championship. I lay there in my hammock and every time I hear the sound of breaking glass, I know we're one step closer to winning it all.",
+      "wordCount": 150
+    },
+    {
+      "id": 831,
+      "index": 831,
+      "character": "JACKSON",
+      "gender": "Male",
+      "line": "Don't that get kind of expensive, Cap'n?",
+      "wordCount": 7
+    },
+    {
+      "id": 832,
+      "index": 832,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "It's worth it.",
+      "wordCount": 3
+    },
+    {
+      "id": 833,
+      "index": 833,
+      "character": "JACKSON",
+      "gender": "Male",
+      "line": "To each, his own.",
+      "wordCount": 4
+    },
+    {
+      "id": 834,
+      "index": 834,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "How about you, James?",
+      "wordCount": 4
+    },
+    {
+      "id": 835,
+      "index": 835,
+      "character": "RYAN",
+      "gender": "Male",
+      "line": "I'm home, playing basketball with my brothers, it's evenin' time, we're trying' to get in a few more points before it's too dark to see the ball. That's where I am.",
+      "wordCount": 31
+    },
+    {
+      "id": 836,
+      "index": 836,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Hears the FAINT DISTANT RUMBLE OF THE TANK. Barely has time to react. Sees:",
+      "wordCount": 14
+    },
+    {
+      "id": 837,
+      "index": 837,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Here they come.",
+      "wordCount": 3
+    },
+    {
+      "id": 838,
+      "index": 838,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "FIRES a burst. Germans drops.",
+      "wordCount": 5
+    },
+    {
+      "id": 839,
+      "index": 839,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "FIRES a burst. More Germans drop.",
+      "wordCount": 6
+    },
+    {
+      "id": 840,
+      "index": 840,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Manning the forward machine gun. Way out front. Sees that he's going to be cut off. He grabs the hot gun. The barrel burns into his flesh. He ignores the pain and RUNS BACK toward the bridge.",
+      "wordCount": 37
+    },
+    {
+      "id": 841,
+      "index": 841,
+      "character": "THE GERMANS",
+      "gender": "NA",
+      "line": "Take positions near the bridge. Moving in. FIRING. Overwhelming. They're everywhere.",
+      "wordCount": 11
+    },
+    {
+      "id": 842,
+      "index": 842,
+      "character": "THREE GERMANS",
+      "gender": "NA",
+      "line": "Break through the perimeter.",
+      "wordCount": 4
+    },
+    {
+      "id": 843,
+      "index": 843,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "Sees Ryan. Races over. SHOOTS one German. STABS the other.",
+      "wordCount": 10
+    },
+    {
+      "id": 844,
+      "index": 844,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "FIRES again. More Germans drop.",
+      "wordCount": 5
+    },
+    {
+      "id": 845,
+      "index": 845,
+      "character": "THE GERMANS",
+      "gender": "NA",
+      "line": "Take positions in the building near the bridge.",
+      "wordCount": 8
+    },
+    {
+      "id": 846,
+      "index": 846,
+      "character": "REIBEN AND RYAN",
+      "gender": "NA",
+      "line": "Forward. Reiben FIRING. Ryan feeding the ammo belt.",
+      "wordCount": 8
+    },
+    {
+      "id": 847,
+      "index": 847,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "MORE AMMO!",
+      "wordCount": 2
+    },
+    {
+      "id": 848,
+      "index": 848,
+      "character": "UPHAM",
+      "gender": "Male",
+      "line": "Hears that. Doesn't hesitate. He grabs a pair of ammo boxes. RUNS toward Reiben and Ryan.",
+      "wordCount": 16
+    },
+    {
+      "id": 849,
+      "index": 849,
+      "character": "UPHAM",
+      "gender": "Male",
+      "line": "TAKES HALF-A-DOZEN SLUGS. Torn apart. Stumbles the final few steps to the machine gun nest. Falls on the sandbags, giving Reiben and Ryan the ammo. UPHAM'S DEAD.",
+      "wordCount": 27
+    },
+    {
+      "id": 850,
+      "index": 850,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "Continues FIRING. CUTTING DOWN the advancing Germans.",
+      "wordCount": 7
+    },
+    {
+      "id": 851,
+      "index": 851,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Knows what that means. He hears the RUMBLE OF THE TANKS.",
+      "wordCount": 11
+    },
+    {
+      "id": 852,
+      "index": 852,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "TIGHTEN IT UP! HERE THEY COME!",
+      "wordCount": 6
+    },
+    {
+      "id": 853,
+      "index": 853,
+      "character": "RYAN AND REIBEN",
+      "gender": "NA",
+      "line": "Immediately grab the machine gun and ammo and race back to the rear nest.",
+      "wordCount": 14
+    },
+    {
+      "id": 854,
+      "index": 854,
+      "character": "JACKSON",
+      "gender": "Male",
+      "line": "On the bridgekeeper's hut. Picking off German soldiers who follow the tank.",
+      "wordCount": 12
+    },
+    {
+      "id": 855,
+      "index": 855,
+      "character": "THE TANK",
+      "gender": "NA",
+      "line": "Stops. Grinds its gears. Turning it's turret towards the bridgekeepers hut.",
+      "wordCount": 11
+    },
+    {
+      "id": 856,
+      "index": 856,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "JACKSON!",
+      "wordCount": 1
+    },
+    {
+      "id": 857,
+      "index": 857,
+      "character": "JACKSON",
+      "gender": "Male",
+      "line": "Knows what's coming but he holds his position, continuing to pick off German soldiers.",
+      "wordCount": 14
+    },
+    {
+      "id": 858,
+      "index": 858,
+      "character": "THE TANK BLASTS",
+      "gender": "NA",
+      "line": "THE BRIDGEKEEPER'S HUT AND JACKSON ARE OBLITERATED IN THE EXPLOSION.",
+      "wordCount": 10
+    },
+    {
+      "id": 859,
+      "index": 859,
+      "character": "MILLER AND RYAN",
+      "gender": "NA",
+      "line": "SEE JACKSON DIE. A bare moment to react. Then, they turn their attention back to the eighty-eight. Frantically turning the aiming cranks. Lowering the barrel to point blank.",
+      "wordCount": 28
+    },
+    {
+      "id": 860,
+      "index": 860,
+      "character": "MILLER AND RYAN",
+      "gender": "NA",
+      "line": "Win the race.",
+      "wordCount": 3
+    },
+    {
+      "id": 861,
+      "index": 861,
+      "character": "FIRE THE EIGHTY-EIGHT",
+      "gender": "NA",
+      "line": "BLAST THE LEAD TANK DESTROY IT IN A SHOWER OF METAL AND FLAMES",
+      "wordCount": 13
+    },
+    {
+      "id": 862,
+      "index": 862,
+      "character": "MILLER AND RYAN",
+      "gender": "NA",
+      "line": "Quickly reload the eighty-eight. FIRE AGAIN.",
+      "wordCount": 6
+    },
+    {
+      "id": 863,
+      "index": 863,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Shoves the FINAL SHELL into the breech of the eighty-eight. Pats Ryan on the back. Grabs a SATCHEL CHARGE.",
+      "wordCount": 19
+    },
+    {
+      "id": 864,
+      "index": 864,
+      "character": "RYAN",
+      "gender": "Male",
+      "line": "FIRES THE EIGHTY-EIGHT.",
+      "wordCount": 3
+    },
+    {
+      "id": 865,
+      "index": 865,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Races through the debris. Trailed by BULLETS.",
+      "wordCount": 7
+    },
+    {
+      "id": 866,
+      "index": 866,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "With the machine gun. Covers Miller. Keeping most of the German infantry down.",
+      "wordCount": 13
+    },
+    {
+      "id": 867,
+      "index": 867,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Is almost there. He arms the satchel charge.",
+      "wordCount": 8
+    },
+    {
+      "id": 868,
+      "index": 868,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Throws the satchel charge under the tank. Rolls off the edge of the bridge. Lands on the embankment below.",
+      "wordCount": 19
+    },
+    {
+      "id": 869,
+      "index": 869,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "HOLD IT! HOLD IT!",
+      "wordCount": 4
+    },
+    {
+      "id": 870,
+      "index": 870,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Goddamn it!",
+      "wordCount": 2
+    },
+    {
+      "id": 871,
+      "index": 871,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "More tanks... Ryan Lot's of them The fear on their faces turns to resignation. They know that they are dead men. They settle into their positions, and prepare to fire and die.",
+      "wordCount": 32
+    },
+    {
+      "id": 872,
+      "index": 872,
+      "character": "THE ADVANCING TROOPS",
+      "gender": "NA",
+      "line": "Run onto the bridge and start to secure the position. A SERGEANT and a few of HIS MEN look around, curiously eyeing Miller, Reiben and Ryan, battered and bloody, standing among the bodies.",
+      "wordCount": 33
+    },
+    {
+      "id": 873,
+      "index": 873,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Miller, Company B, Second Rangers, that's Private Richard Reiben and that's Private James Ryan, Hundred- and-First Airborne.",
+      "wordCount": 17
+    },
+    {
+      "id": 874,
+      "index": 874,
+      "character": "SERGEANT",
+      "gender": "Male",
+      "line": "Ryan?",
+      "wordCount": 1
+    },
+    {
+      "id": 875,
+      "index": 875,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Walks to the bodies. He kneels down next to Sarge and looks at him for a long moment. Then, with a steady hand, he takes one of Sarge's two dog-tags. Then he does the same to Jackson and Upham.",
+      "wordCount": 39
+    },
+    {
+      "id": 876,
+      "index": 876,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Stands and walks back to Reiben and Ryan. He hands the dog-tags to Ryan who grips them tightly and nods in thanks.",
+      "wordCount": 22
+    },
+    {
+      "id": 877,
+      "index": 877,
+      "character": "CAMERA CRANES UP",
+      "gender": "NA",
+      "line": "The three dirty, bloodied, tired men walk down the road, ignored by the fresh troops marching in the opposite direction.",
+      "wordCount": 20
+    },
+    {
+      "id": 878,
+      "index": 878,
+      "character": "RYAN",
+      "gender": "Male",
+      "line": "Captain?",
+      "wordCount": 1
+    },
+    {
+      "id": 879,
+      "index": 879,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Yes, Private.",
+      "wordCount": 2
+    },
+    {
+      "id": 880,
+      "index": 880,
+      "character": "RYAN",
+      "gender": "Male",
+      "line": "Upham and Jackson, what were they like?",
+      "wordCount": 7
+    },
+    {
+      "id": 881,
+      "index": 881,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Upham? Good kid, smart, he was writing a book.",
+      "wordCount": 9
+    },
+    {
+      "id": 882,
+      "index": 882,
+      "character": "RYAN",
+      "gender": "Male",
+      "line": "Yeah?",
+      "wordCount": 1
+    },
+    {
+      "id": 883,
+      "index": 883,
+      "character": "REIBEN",
+      "gender": "Male",
+      "line": "Yeah, and he was fast, too, ran the 220 in twenty-four-five.",
+      "wordCount": 11
+    },
+    {
+      "id": 884,
+      "index": 884,
+      "character": "RYAN",
+      "gender": "Male",
+      "line": "No kidding.",
+      "wordCount": 2
+    },
+    {
+      "id": 885,
+      "index": 885,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Jackson was from West Fork, Tennessee, he was going to be a preacher, his father and uncles have a traveling ministry out of the back of a stretch Hudson.",
+      "wordCount": 29
+    },
+    {
+      "id": 886,
+      "index": 886,
+      "character": "RYAN",
+      "gender": "Male",
+      "line": "And Sarge?",
+      "wordCount": 2
+    },
+    {
+      "id": 887,
+      "index": 887,
+      "character": "MILLER",
+      "gender": "Male",
+      "line": "Sarge? He was the best friend I ever had. Lemme tell you about Sarge...",
+      "wordCount": 14
+    },
+    {
+      "id": 888,
+      "index": 888,
+      "character": "",
+      "gender": "Male"
+    }
+  ]
+}

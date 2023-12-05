@@ -1,0 +1,7332 @@
+{
+  "fileName": "Fargo_dialogue.txt",
+  "title": "Fargo",
+  "data": [
+    {
+      "id": 0,
+      "index": 0,
+      "character": "CLERK",
+      "gender": "NA",
+      "line": "And how are you today, sir?",
+      "wordCount": 6
+    },
+    {
+      "id": 1,
+      "index": 1,
+      "character": "MAN",
+      "gender": "Male",
+      "line": "Real good now. I'm checking in - Mr. Anderson.",
+      "wordCount": 9
+    },
+    {
+      "id": 2,
+      "index": 2,
+      "character": "CLERK",
+      "gender": "NA",
+      "line": "Okay, Mr. Anderson, and you're still planning on staying with us just the night, then?",
+      "wordCount": 15
+    },
+    {
+      "id": 3,
+      "index": 3,
+      "character": "ANDERSON",
+      "gender": "NA",
+      "line": "You bet.",
+      "wordCount": 2
+    },
+    {
+      "id": 4,
+      "index": 4,
+      "character": "NEWS ANCHOR",
+      "gender": "NA",
+      "line": "- whether they will go to summer camp at all. Katie Jensen has more.",
+      "wordCount": 14
+    },
+    {
+      "id": 5,
+      "index": 5,
+      "character": "KATIE",
+      "gender": "NA",
+      "line": "It was supposed to be a project funded by the city council; it was supposed to benefit those Fargo-Moorehead children who would otherwise not be able to afford to attend a lakeshore summer camp. But nobody consulted city controller Stu Jacobson...",
+      "wordCount": 41
+    },
+    {
+      "id": 6,
+      "index": 6,
+      "character": "WAITRESS",
+      "gender": "NA",
+      "line": "Can I warm that up for ya there?",
+      "wordCount": 8
+    },
+    {
+      "id": 7,
+      "index": 7,
+      "character": "ANDERSON",
+      "gender": "NA",
+      "line": "You bet.",
+      "wordCount": 2
+    },
+    {
+      "id": 8,
+      "index": 8,
+      "character": "ANDERSON",
+      "gender": "NA",
+      "line": "I'm, uh, Jerry Lundegaard -",
+      "wordCount": 5
+    },
+    {
+      "id": 9,
+      "index": 9,
+      "character": "YOUNGER MAN",
+      "gender": "NA",
+      "line": "You're Jerry Lundegaard?",
+      "wordCount": 3
+    },
+    {
+      "id": 10,
+      "index": 10,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Yah, Shep Proudfoot said -",
+      "wordCount": 5
+    },
+    {
+      "id": 11,
+      "index": 11,
+      "character": "YOUNGER MAN",
+      "gender": "NA",
+      "line": "Shep said you'd be here at 7:30. What gives, man?",
+      "wordCount": 10
+    },
+    {
+      "id": 12,
+      "index": 12,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Shep said 8:30.",
+      "wordCount": 3
+    },
+    {
+      "id": 13,
+      "index": 13,
+      "character": "YOUNGER MAN",
+      "gender": "NA",
+      "line": "We been sitting here an hour. I've peed three times already.",
+      "wordCount": 11
+    },
+    {
+      "id": 14,
+      "index": 14,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "I'm sure sorry. I - Shep told me 8:30. It was a mix-up, I guess.",
+      "wordCount": 15
+    },
+    {
+      "id": 15,
+      "index": 15,
+      "character": "YOUNGER MAN",
+      "gender": "NA",
+      "line": "Ya got the car?",
+      "wordCount": 4
+    },
+    {
+      "id": 16,
+      "index": 16,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Yah, you bet. It's in the lot there. Brand-new burnt umber Ciera.",
+      "wordCount": 12
+    },
+    {
+      "id": 17,
+      "index": 17,
+      "character": "YOUNGER MAN",
+      "gender": "NA",
+      "line": "Yeah, okay. Well, siddown then. I'm Carl Showalter and this is my associate Gaear Grimsrud.",
+      "wordCount": 15
+    },
+    {
+      "id": 18,
+      "index": 18,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Yah, how ya doin'. So, uh, we all set on this thing, then?",
+      "wordCount": 13
+    },
+    {
+      "id": 19,
+      "index": 19,
+      "character": "YOUNGER MAN",
+      "gender": "NA",
+      "line": "Sure, Jerry, we're all set. Why wouldn't we be?",
+      "wordCount": 9
+    },
+    {
+      "id": 20,
+      "index": 20,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Yah, no, I'm sure you are. Shep vouched for you and all. I got every confidence in you fellas.",
+      "wordCount": 19
+    },
+    {
+      "id": 21,
+      "index": 21,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "... So I guess that's it, then. Here's the keys -",
+      "wordCount": 11
+    },
+    {
+      "id": 22,
+      "index": 22,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "No, that's not it, Jerry.",
+      "wordCount": 5
+    },
+    {
+      "id": 23,
+      "index": 23,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Huh?",
+      "wordCount": 1
+    },
+    {
+      "id": 24,
+      "index": 24,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "The new vehicle, plus forty thousand dollars.",
+      "wordCount": 7
+    },
+    {
+      "id": 25,
+      "index": 25,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Yah, but the deal was, the car first, see, then the forty thousand, like as if it was the ransom. I thought Shep told you -",
+      "wordCount": 26
+    },
+    {
+      "id": 26,
+      "index": 26,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Shep didn't tell us much, Jerry.",
+      "wordCount": 6
+    },
+    {
+      "id": 27,
+      "index": 27,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Well, okay, it's -",
+      "wordCount": 4
+    },
+    {
+      "id": 28,
+      "index": 28,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Except that you were gonna be here at 7:30.",
+      "wordCount": 9
+    },
+    {
+      "id": 29,
+      "index": 29,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Yah, well, that was a mix-up, then.",
+      "wordCount": 7
+    },
+    {
+      "id": 30,
+      "index": 30,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Yeah, you already said that.",
+      "wordCount": 5
+    },
+    {
+      "id": 31,
+      "index": 31,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Yah. But it's not a whole pay- in-advance deal. I give you a brand-new vehicle in advance and -",
+      "wordCount": 19
+    },
+    {
+      "id": 32,
+      "index": 32,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "I'm not gonna debate you, Jerry.",
+      "wordCount": 6
+    },
+    {
+      "id": 33,
+      "index": 33,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Okay.",
+      "wordCount": 1
+    },
+    {
+      "id": 34,
+      "index": 34,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "I'm not gonna sit here and debate. I will say this though: what Shep told us didn't make a whole lot of sense.",
+      "wordCount": 23
+    },
+    {
+      "id": 35,
+      "index": 35,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Oh, no, it's real sound. It's all worked out.",
+      "wordCount": 9
+    },
+    {
+      "id": 36,
+      "index": 36,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "You want your own wife kidnapped?",
+      "wordCount": 6
+    },
+    {
+      "id": 37,
+      "index": 37,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Yah.",
+      "wordCount": 1
+    },
+    {
+      "id": 38,
+      "index": 38,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "... You - my point is, you pay the ransom - what eighty thousand bucks? - I mean, you give us half the ransom, forty thousand, you keep half. It's like robbing Peter to play Paul, it doesn't make any -",
+      "wordCount": 41
+    },
+    {
+      "id": 39,
+      "index": 39,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Okay, it's - see, it's not me payin' the ransom. The thing is, my wife, she's wealthy - her dad, he's real well off. Now, I'm in a bit of trouble -",
+      "wordCount": 32
+    },
+    {
+      "id": 40,
+      "index": 40,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "What kind of trouble are you in, Jerry?",
+      "wordCount": 8
+    },
+    {
+      "id": 41,
+      "index": 41,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Well, that's, that's, I'm not go inta, inta - see, I just need money. Now, her dad's real wealthy -",
+      "wordCount": 20
+    },
+    {
+      "id": 42,
+      "index": 42,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "So why don't you just ask him for the money?",
+      "wordCount": 10
+    },
+    {
+      "id": 43,
+      "index": 43,
+      "character": "GRIMSRUD",
+      "gender": "Male",
+      "line": "Or your fucking wife, you know.",
+      "wordCount": 6
+    },
+    {
+      "id": 44,
+      "index": 44,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Or your fucking wife, Jerry.",
+      "wordCount": 5
+    },
+    {
+      "id": 45,
+      "index": 45,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Well, it's all just part of this - they don't know I need it, see. Okay, so there's that. And even if they did, I wouldn't get it. So there's that on top, then. See, these're personal matters.",
+      "wordCount": 38
+    },
+    {
+      "id": 46,
+      "index": 46,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Personal matters.",
+      "wordCount": 2
+    },
+    {
+      "id": 47,
+      "index": 47,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Yah. Personal matters that needn't, uh -",
+      "wordCount": 7
+    },
+    {
+      "id": 48,
+      "index": 48,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Okay, Jerry. You're tasking us to perform this mission, but you, you won't, uh, you won't - aw, fuck it, let's take a look at that Ciera.",
+      "wordCount": 27
+    },
+    {
+      "id": 49,
+      "index": 49,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Hon? Got the growshries.",
+      "wordCount": 4
+    },
+    {
+      "id": 50,
+      "index": 50,
+      "character": "VOICE",
+      "gender": "NA",
+      "line": "Thank you, hon. How's Fargo?",
+      "wordCount": 5
+    },
+    {
+      "id": 51,
+      "index": 51,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Yah, real good.",
+      "wordCount": 3
+    },
+    {
+      "id": 52,
+      "index": 52,
+      "character": "VOICE",
+      "gender": "NA",
+      "line": "Dad's here.",
+      "wordCount": 2
+    },
+    {
+      "id": 53,
+      "index": 53,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "How ya doin', Wade?",
+      "wordCount": 4
+    },
+    {
+      "id": 54,
+      "index": 54,
+      "character": "WADE",
+      "gender": "Male",
+      "line": "Yah, pretty good.",
+      "wordCount": 3
+    },
+    {
+      "id": 55,
+      "index": 55,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Whatcha watchin' there?",
+      "wordCount": 3
+    },
+    {
+      "id": 56,
+      "index": 56,
+      "character": "WADE",
+      "gender": "Male",
+      "line": "Norstars.",
+      "wordCount": 1
+    },
+    {
+      "id": 57,
+      "index": 57,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "... Who they playin'?",
+      "wordCount": 4
+    },
+    {
+      "id": 58,
+      "index": 58,
+      "character": "WADE",
+      "gender": "Male",
+      "line": "OOOoooh!",
+      "wordCount": 1
+    },
+    {
+      "id": 59,
+      "index": 59,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Is he stayin' for supper, then?",
+      "wordCount": 6
+    },
+    {
+      "id": 60,
+      "index": 60,
+      "character": "WIFE",
+      "gender": "Female",
+      "line": "Yah, I think so... Dad, are you stayin' for supper?",
+      "wordCount": 10
+    },
+    {
+      "id": 61,
+      "index": 61,
+      "character": "WADE",
+      "gender": "Male",
+      "line": "Yah.",
+      "wordCount": 1
+    },
+    {
+      "id": 62,
+      "index": 62,
+      "character": "SCOTTY",
+      "gender": "Male",
+      "line": "May I be excused?",
+      "wordCount": 4
+    },
+    {
+      "id": 63,
+      "index": 63,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Sure, ya done there?",
+      "wordCount": 4
+    },
+    {
+      "id": 64,
+      "index": 64,
+      "character": "SCOTTY",
+      "gender": "Male",
+      "line": "Uh-huh. Goin' out.",
+      "wordCount": 3
+    },
+    {
+      "id": 65,
+      "index": 65,
+      "character": "WIFE",
+      "gender": "Female",
+      "line": "Where are you going?",
+      "wordCount": 4
+    },
+    {
+      "id": 66,
+      "index": 66,
+      "character": "SCOTTY",
+      "gender": "Male",
+      "line": "Just out. Just McDonald's.",
+      "wordCount": 4
+    },
+    {
+      "id": 67,
+      "index": 67,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Back at 9:30.",
+      "wordCount": 3
+    },
+    {
+      "id": 68,
+      "index": 68,
+      "character": "SCOTTY",
+      "gender": "Male",
+      "line": "Okay.",
+      "wordCount": 1
+    },
+    {
+      "id": 69,
+      "index": 69,
+      "character": "WADE",
+      "gender": "Male",
+      "line": "He just ate. And he didn't finish. He's going to McDonald's instead of finishing here?",
+      "wordCount": 15
+    },
+    {
+      "id": 70,
+      "index": 70,
+      "character": "WIFE",
+      "gender": "Female",
+      "line": "He sees his friends there. It's okay.",
+      "wordCount": 7
+    },
+    {
+      "id": 71,
+      "index": 71,
+      "character": "WADE",
+      "gender": "Male",
+      "line": "It's okay? McDonald's? What do you think they do there? They don't drink milkshakes, I assure you!",
+      "wordCount": 17
+    },
+    {
+      "id": 72,
+      "index": 72,
+      "character": "WIFE",
+      "gender": "Female",
+      "line": "It's okay, Dad.",
+      "wordCount": 3
+    },
+    {
+      "id": 73,
+      "index": 73,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Wade, have ya had a chance to think about, uh, that deal I was talkin' about, those forty acres there on Wayzata?",
+      "wordCount": 22
+    },
+    {
+      "id": 74,
+      "index": 74,
+      "character": "WADE",
+      "gender": "Male",
+      "line": "You told me about it.",
+      "wordCount": 5
+    },
+    {
+      "id": 75,
+      "index": 75,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Yah, you said you'd have a think about it. I understand it's a lot of money -",
+      "wordCount": 17
+    },
+    {
+      "id": 76,
+      "index": 76,
+      "character": "WADE",
+      "gender": "Male",
+      "line": "A heck of a lot. What'd you say you were gonna put there?",
+      "wordCount": 13
+    },
+    {
+      "id": 77,
+      "index": 77,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "A lot. It's a limited -",
+      "wordCount": 6
+    },
+    {
+      "id": 78,
+      "index": 78,
+      "character": "WADE",
+      "gender": "Male",
+      "line": "I know it's a lot.",
+      "wordCount": 5
+    },
+    {
+      "id": 79,
+      "index": 79,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "I mean a parking lot.",
+      "wordCount": 5
+    },
+    {
+      "id": 80,
+      "index": 80,
+      "character": "WADE",
+      "gender": "Male",
+      "line": "Yah, well, seven hundred and fifty thousand dollars is a lot - ha ha ha!",
+      "wordCount": 15
+    },
+    {
+      "id": 81,
+      "index": 81,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Yah, well, it's a chunk, but -",
+      "wordCount": 7
+    },
+    {
+      "id": 82,
+      "index": 82,
+      "character": "WADE",
+      "gender": "Male",
+      "line": "I thought you were gonna show it to Stan Grossman. He passes on this stuff before it gets kicked up to me.",
+      "wordCount": 22
+    },
+    {
+      "id": 83,
+      "index": 83,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Well, you know Stan'll say no dice. That's why you pay him. I'm asking you here, Wade. This could work out real good for me and Jean and Scotty -",
+      "wordCount": 30
+    },
+    {
+      "id": 84,
+      "index": 84,
+      "character": "WADE",
+      "gender": "Male",
+      "line": "Jean and Scotty never have to worry.",
+      "wordCount": 7
+    },
+    {
+      "id": 85,
+      "index": 85,
+      "character": "GRIMSRUD",
+      "gender": "Male",
+      "line": "Where is Pancakes Hause?",
+      "wordCount": 4
+    },
+    {
+      "id": 86,
+      "index": 86,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "What?",
+      "wordCount": 1
+    },
+    {
+      "id": 87,
+      "index": 87,
+      "character": "GRIMSRUD",
+      "gender": "Male",
+      "line": "We stop at Pancakes Hause.",
+      "wordCount": 5
+    },
+    {
+      "id": 88,
+      "index": 88,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "What're you, nuts? We had pancakes for breakfast. I gotta go somewhere I can get a shot and a beer - and a steak maybe. Not more fuckin' pancakes. Come on.",
+      "wordCount": 31
+    },
+    {
+      "id": 89,
+      "index": 89,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "... Come on, man. Okay, here's an idea. We'll stop outside of Brainerd. I know a place there we can get laid. Wuddya think?",
+      "wordCount": 24
+    },
+    {
+      "id": 90,
+      "index": 90,
+      "character": "GRIMSRUD",
+      "gender": "Male",
+      "line": "I'm fuckin' hungry now, you know.",
+      "wordCount": 6
+    },
+    {
+      "id": 91,
+      "index": 91,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Yeah, yeah, Jesus - I'm sayin', we'll stop for pancakes, then we'll get laid. Wuddya think?",
+      "wordCount": 16
+    },
+    {
+      "id": 92,
+      "index": 92,
+      "character": "CUSTOMER",
+      "gender": "Male",
+      "line": "We sat here right in this room and went over this and over this!",
+      "wordCount": 14
+    },
+    {
+      "id": 93,
+      "index": 93,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Yah, but that TruCoat -",
+      "wordCount": 5
+    },
+    {
+      "id": 94,
+      "index": 94,
+      "character": "CUSTOMER",
+      "gender": "Male",
+      "line": "I sat right here and said I didn't want no TruCoat!",
+      "wordCount": 11
+    },
+    {
+      "id": 95,
+      "index": 95,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Yah, but I'm sayin', that TruCoat, you don't get it and you get oxidization problems. It'll cost you a heck of lot more'n five hunnert -",
+      "wordCount": 26
+    },
+    {
+      "id": 96,
+      "index": 96,
+      "character": "CUSTOMER",
+      "gender": "Male",
+      "line": "You're sittin' here, you're talkin' in circles! You're talkin' like we didn't go over this already!",
+      "wordCount": 16
+    },
+    {
+      "id": 97,
+      "index": 97,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Yah, but this TruCoat -",
+      "wordCount": 5
+    },
+    {
+      "id": 98,
+      "index": 98,
+      "character": "CUSTOMER",
+      "gender": "Male",
+      "line": "We had us a deal here for nine- teen-five. You sat there and darned if you didn't tell me you'd get this car, these options, WITHOUT THE SEALANT, for nine- teen-five!",
+      "wordCount": 31
+    },
+    {
+      "id": 99,
+      "index": 99,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Okay, I'm not sayin' I didn't -",
+      "wordCount": 7
+    },
+    {
+      "id": 100,
+      "index": 100,
+      "character": "CUSTOMER",
+      "gender": "Male",
+      "line": "You called me twenty minutes ago and said you had it! Ready to make delivery, ya says! Come on down and get it! And here ya are and you're wastin' my time and you're wastin' my wife's time and I'm payin' nineteen-five for this vehicle here!",
+      "wordCount": 46
+    },
+    {
+      "id": 101,
+      "index": 101,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Well, okay, I'll talk to my boss...",
+      "wordCount": 7
+    },
+    {
+      "id": 102,
+      "index": 102,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "... See, they install that TruCoat at the factory, there's nothin' we can do, but I'll talk to my boss.",
+      "wordCount": 20
+    },
+    {
+      "id": 103,
+      "index": 103,
+      "character": "CUSTOMER",
+      "gender": "Male",
+      "line": "These guys here - these guys! It's always the same! It's always more! He's a liar!",
+      "wordCount": 16
+    },
+    {
+      "id": 104,
+      "index": 104,
+      "character": "WIFE",
+      "gender": "Female",
+      "line": "Please, dear.",
+      "wordCount": 2
+    },
+    {
+      "id": 105,
+      "index": 105,
+      "character": "CUSTOMER",
+      "gender": "Male",
+      "line": "We went over this and over this -",
+      "wordCount": 8
+    },
+    {
+      "id": 106,
+      "index": 106,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "So you're goin' to the Gophers on Sunday?",
+      "wordCount": 8
+    },
+    {
+      "id": 107,
+      "index": 107,
+      "character": "SALESMAN",
+      "gender": "Male",
+      "line": "You bet.",
+      "wordCount": 2
+    },
+    {
+      "id": 108,
+      "index": 108,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "You wouldn't have an extra ticket there?",
+      "wordCount": 7
+    },
+    {
+      "id": 109,
+      "index": 109,
+      "character": "SALESMAN",
+      "gender": "Male",
+      "line": "They're playin' the Buckeyes!",
+      "wordCount": 4
+    },
+    {
+      "id": 110,
+      "index": 110,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Yah.",
+      "wordCount": 1
+    },
+    {
+      "id": 111,
+      "index": 111,
+      "character": "SALESMAN",
+      "gender": "Male",
+      "line": "Ya kiddin'!",
+      "wordCount": 2
+    },
+    {
+      "id": 112,
+      "index": 112,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Well, he never done this before, but seein' as it's special circumstances and all, he says I can knock one hunnert off that TruCoat.",
+      "wordCount": 24
+    },
+    {
+      "id": 113,
+      "index": 113,
+      "character": "CUSTOMER",
+      "gender": "Male",
+      "line": "One hundred! You lied to me, Mr. Lundegaard. You're a bald-faced liar!",
+      "wordCount": 12
+    },
+    {
+      "id": 114,
+      "index": 114,
+      "character": "CUSTOMER",
+      "gender": "Male",
+      "line": "... A fucking liar -",
+      "wordCount": 5
+    },
+    {
+      "id": 115,
+      "index": 115,
+      "character": "WIFE",
+      "gender": "Female",
+      "line": "Bucky, please!",
+      "wordCount": 2
+    },
+    {
+      "id": 116,
+      "index": 116,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "One hunnert's the best we can do here.",
+      "wordCount": 8
+    },
+    {
+      "id": 117,
+      "index": 117,
+      "character": "CUSTOMER",
+      "gender": "Male",
+      "line": "Oh, for Christ's sake, where's my goddamn checkbook. Let's get this over with.",
+      "wordCount": 13
+    },
+    {
+      "id": 118,
+      "index": 118,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Oh, Jesus, yeah.",
+      "wordCount": 3
+    },
+    {
+      "id": 119,
+      "index": 119,
+      "character": "HIS HOOKER",
+      "gender": "NA",
+      "line": "There ya go, sugar.",
+      "wordCount": 4
+    },
+    {
+      "id": 120,
+      "index": 120,
+      "character": "GRIMSRUD",
+      "gender": "Male",
+      "line": "Nnph.",
+      "wordCount": 1
+    },
+    {
+      "id": 121,
+      "index": 121,
+      "character": "HIS HOOKER",
+      "gender": "NA",
+      "line": "Yeah. Yeah. Oh, yeah.",
+      "wordCount": 4
+    },
+    {
+      "id": 122,
+      "index": 122,
+      "character": "ED MCMAHON",
+      "gender": "NA",
+      "line": "- Johnny's guests tonight will be Lee Majors, George Wendt, and Steve Boutsikaros from the San Diego Zoo, so keep that dial -",
+      "wordCount": 23
+    },
+    {
+      "id": 123,
+      "index": 123,
+      "character": "JEAN",
+      "gender": "Female",
+      "line": "I'm talkin' about your potential.",
+      "wordCount": 5
+    },
+    {
+      "id": 124,
+      "index": 124,
+      "character": "SCOTT",
+      "gender": "Male",
+      "line": "Uh-huh.",
+      "wordCount": 1
+    },
+    {
+      "id": 125,
+      "index": 125,
+      "character": "JEAN",
+      "gender": "Female",
+      "line": "You're not a C student.",
+      "wordCount": 5
+    },
+    {
+      "id": 126,
+      "index": 126,
+      "character": "SCOTT",
+      "gender": "Male",
+      "line": "Uhn.",
+      "wordCount": 1
+    },
+    {
+      "id": 127,
+      "index": 127,
+      "character": "JEAN",
+      "gender": "Female",
+      "line": "And yet you're gettin' C grades. It's this disparity there that concerns your dad and me.",
+      "wordCount": 16
+    },
+    {
+      "id": 128,
+      "index": 128,
+      "character": "SCOTT",
+      "gender": "Male",
+      "line": "Uh-huh.",
+      "wordCount": 1
+    },
+    {
+      "id": 129,
+      "index": 129,
+      "character": "JEAN",
+      "gender": "Female",
+      "line": "You know what a disparity is?",
+      "wordCount": 6
+    },
+    {
+      "id": 130,
+      "index": 130,
+      "character": "SCOTT",
+      "gender": "Male",
+      "line": "Yeah!",
+      "wordCount": 1
+    },
+    {
+      "id": 131,
+      "index": 131,
+      "character": "JEAN",
+      "gender": "Female",
+      "line": "Okay. Well, that's why we don't want ya goin' out fer hockey.",
+      "wordCount": 12
+    },
+    {
+      "id": 132,
+      "index": 132,
+      "character": "SCOTT",
+      "gender": "Male",
+      "line": "Oh, man!",
+      "wordCount": 2
+    },
+    {
+      "id": 133,
+      "index": 133,
+      "character": "SCOTT",
+      "gender": "Male",
+      "line": "... What's the big deal? It's an hour -",
+      "wordCount": 9
+    },
+    {
+      "id": 134,
+      "index": 134,
+      "character": "JEAN",
+      "gender": "Female",
+      "line": "Hold on.",
+      "wordCount": 2
+    },
+    {
+      "id": 135,
+      "index": 135,
+      "character": "JEAN",
+      "gender": "Female",
+      "line": "... Hello?",
+      "wordCount": 2
+    },
+    {
+      "id": 136,
+      "index": 136,
+      "character": "PHONE VOICE",
+      "gender": "NA",
+      "line": "Yah, hiya, hon.",
+      "wordCount": 3
+    },
+    {
+      "id": 137,
+      "index": 137,
+      "character": "JEAN",
+      "gender": "Female",
+      "line": "Oh, hiya, Dad.",
+      "wordCount": 3
+    },
+    {
+      "id": 138,
+      "index": 138,
+      "character": "WADE",
+      "gender": "Male",
+      "line": "Jerry around?",
+      "wordCount": 2
+    },
+    {
+      "id": 139,
+      "index": 139,
+      "character": "JEAN",
+      "gender": "Female",
+      "line": "Yah, he's still here - I'll catch him for ya.",
+      "wordCount": 10
+    },
+    {
+      "id": 140,
+      "index": 140,
+      "character": "JEAN",
+      "gender": "Female",
+      "line": "... Hon?",
+      "wordCount": 2
+    },
+    {
+      "id": 141,
+      "index": 141,
+      "character": "VOICE",
+      "gender": "NA",
+      "line": "Yah.",
+      "wordCount": 1
+    },
+    {
+      "id": 142,
+      "index": 142,
+      "character": "JEAN",
+      "gender": "Female",
+      "line": "It's Dad.",
+      "wordCount": 2
+    },
+    {
+      "id": 143,
+      "index": 143,
+      "character": "VOICE",
+      "gender": "NA",
+      "line": "Yah...",
+      "wordCount": 1
+    },
+    {
+      "id": 144,
+      "index": 144,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "... Yah, okay...",
+      "wordCount": 3
+    },
+    {
+      "id": 145,
+      "index": 145,
+      "character": "SCOTT",
+      "gender": "Male",
+      "line": "Look, Dad, there is no fucking way -",
+      "wordCount": 8
+    },
+    {
+      "id": 146,
+      "index": 146,
+      "character": "JEAN",
+      "gender": "Female",
+      "line": "Scott!",
+      "wordCount": 1
+    },
+    {
+      "id": 147,
+      "index": 147,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Say, let's watch the language -",
+      "wordCount": 6
+    },
+    {
+      "id": 148,
+      "index": 148,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "How ya doin', Wade?",
+      "wordCount": 4
+    },
+    {
+      "id": 149,
+      "index": 149,
+      "character": "WADE",
+      "gender": "Male",
+      "line": "What's goin' on there?",
+      "wordCount": 4
+    },
+    {
+      "id": 150,
+      "index": 150,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Oh, nothing, Wade. How ya doin' there?",
+      "wordCount": 7
+    },
+    {
+      "id": 151,
+      "index": 151,
+      "character": "WADE",
+      "gender": "Male",
+      "line": "Stan Grossman looked at your proposal. Says it's pretty sweet.",
+      "wordCount": 10
+    },
+    {
+      "id": 152,
+      "index": 152,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "No kiddin'?",
+      "wordCount": 2
+    },
+    {
+      "id": 153,
+      "index": 153,
+      "character": "WADE",
+      "gender": "Male",
+      "line": "We might be innarested.",
+      "wordCount": 4
+    },
+    {
+      "id": 154,
+      "index": 154,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "No kiddin'! I'd need the cash pretty quick there. In order to close the deal.",
+      "wordCount": 15
+    },
+    {
+      "id": 155,
+      "index": 155,
+      "character": "WADE",
+      "gender": "Male",
+      "line": "Come by at 2:30 and we'll talk about it. If your numbers are right, Stan says its pretty sweet. Stan Grossman.",
+      "wordCount": 21
+    },
+    {
+      "id": 156,
+      "index": 156,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Yah.",
+      "wordCount": 1
+    },
+    {
+      "id": 157,
+      "index": 157,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Yah, okay.",
+      "wordCount": 2
+    },
+    {
+      "id": 158,
+      "index": 158,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Say, Shep, how ya doin' there?",
+      "wordCount": 6
+    },
+    {
+      "id": 159,
+      "index": 159,
+      "character": "SHEP",
+      "gender": "Male",
+      "line": "Mm.",
+      "wordCount": 1
+    },
+    {
+      "id": 160,
+      "index": 160,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Say, ya know those two fellas ya put me in touch with, up there in Fargo?",
+      "wordCount": 16
+    },
+    {
+      "id": 161,
+      "index": 161,
+      "character": "SHEP",
+      "gender": "Male",
+      "line": "Put you in touch with Grimsrud.",
+      "wordCount": 6
+    },
+    {
+      "id": 162,
+      "index": 162,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Well, yah, but he had a buddy there. He, uh -",
+      "wordCount": 11
+    },
+    {
+      "id": 163,
+      "index": 163,
+      "character": "SHEP",
+      "gender": "Male",
+      "line": "Well, I don't vouch for him.",
+      "wordCount": 6
+    },
+    {
+      "id": 164,
+      "index": 164,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Well, that's okay, I just -",
+      "wordCount": 6
+    },
+    {
+      "id": 165,
+      "index": 165,
+      "character": "SHEP",
+      "gender": "Male",
+      "line": "I vouch for Grimsrud. Who's his buddy?",
+      "wordCount": 7
+    },
+    {
+      "id": 166,
+      "index": 166,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Carl somethin'?",
+      "wordCount": 2
+    },
+    {
+      "id": 167,
+      "index": 167,
+      "character": "SHEP",
+      "gender": "Male",
+      "line": "Never heard of him. Don't vouch for him.",
+      "wordCount": 8
+    },
+    {
+      "id": 168,
+      "index": 168,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Well, that's okay, he's a buddy of the guy ya vouched for, so I'm not worryin'. I just, I was wonderin', see, I gotta get in touch with 'em for, I might not need it anymore, sumpn's happenin', see -",
+      "wordCount": 40
+    },
+    {
+      "id": 169,
+      "index": 169,
+      "character": "SHEP",
+      "gender": "Male",
+      "line": "Call 'em up.",
+      "wordCount": 3
+    },
+    {
+      "id": 170,
+      "index": 170,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Yah, well, see, I did that, and I haven't been able to get 'em, so I thought you maybe'd know an alternate number or what have ya.",
+      "wordCount": 27
+    },
+    {
+      "id": 171,
+      "index": 171,
+      "character": "SHEP",
+      "gender": "Male",
+      "line": "Nope.",
+      "wordCount": 1
+    },
+    {
+      "id": 172,
+      "index": 172,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Okay, well, real good, then.",
+      "wordCount": 5
+    },
+    {
+      "id": 173,
+      "index": 173,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "... Look at that. Twin Cities. IDS Building, the big glass one. Tallest skyscraper in the Midwest. After the Sears, uh, Chicago... You never been to Minneapolis?",
+      "wordCount": 27
+    },
+    {
+      "id": 174,
+      "index": 174,
+      "character": "GRIMSRUD",
+      "gender": "Male",
+      "line": "No.",
+      "wordCount": 1
+    },
+    {
+      "id": 175,
+      "index": 175,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "... Would it kill you to say something?",
+      "wordCount": 8
+    },
+    {
+      "id": 176,
+      "index": 176,
+      "character": "GRIMSRUD",
+      "gender": "Male",
+      "line": "I did.",
+      "wordCount": 2
+    },
+    {
+      "id": 177,
+      "index": 177,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "\"No.\" First thing you've said in the last four hours. That's a, that's a fountain of conversation, man. That's a geyser. I mean, whoa, daddy, stand back, man. Shit, I'm sittin' here driving, man, doin' all the driving, whole fuckin' way from Brainerd, drivin', tryin' to, you know, tryin' to chat, keep our spirits up, fight the boredom of the road, and you can't say one fucking thing just in the way of conversation.",
+      "wordCount": 74
+    },
+    {
+      "id": 178,
+      "index": 178,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "... Well, fuck it, I don't have to talk either, man. See how you like it...",
+      "wordCount": 16
+    },
+    {
+      "id": 179,
+      "index": 179,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "... Total silence...",
+      "wordCount": 3
+    },
+    {
+      "id": 180,
+      "index": 180,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Yah, real good. How you doin'?",
+      "wordCount": 6
+    },
+    {
+      "id": 181,
+      "index": 181,
+      "character": "VOICE",
+      "gender": "NA",
+      "line": "Pretty good, Mr. Lundegaard. You're damned hard to get on the phone.",
+      "wordCount": 12
+    },
+    {
+      "id": 182,
+      "index": 182,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Yah, it's pretty darned busy here, but that's the way we like it.",
+      "wordCount": 13
+    },
+    {
+      "id": 183,
+      "index": 183,
+      "character": "VOICE",
+      "gender": "NA",
+      "line": "That's for sure. Now, I just need, on these last, these financing documents you sent us, I can't read the serial numbers of the vehicles on here, so I -",
+      "wordCount": 30
+    },
+    {
+      "id": 184,
+      "index": 184,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "But I already got the, it's okay, the loans are in place, I already got the, the what, the -",
+      "wordCount": 20
+    },
+    {
+      "id": 185,
+      "index": 185,
+      "character": "VOICE",
+      "gender": "NA",
+      "line": "Yeah, the three hundred and twenty thousand dollars, you got the money last month.",
+      "wordCount": 14
+    },
+    {
+      "id": 186,
+      "index": 186,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Yah, so we're all set.",
+      "wordCount": 5
+    },
+    {
+      "id": 187,
+      "index": 187,
+      "character": "VOICE",
+      "gender": "NA",
+      "line": "Yeah, but the vehicles you were borrowing on, I just can't read the serial numbers on your applicaton. Maybe if you could just read them to me -",
+      "wordCount": 28
+    },
+    {
+      "id": 188,
+      "index": 188,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "But the deal's already done, I already got the money -",
+      "wordCount": 11
+    },
+    {
+      "id": 189,
+      "index": 189,
+      "character": "VOICE",
+      "gender": "NA",
+      "line": "Yeah, but we have an audit here, I just have to know that these vehicles you're financing with this money, that they really exist.",
+      "wordCount": 24
+    },
+    {
+      "id": 190,
+      "index": 190,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Yah, well, they exist all right.",
+      "wordCount": 6
+    },
+    {
+      "id": 191,
+      "index": 191,
+      "character": "VOICE",
+      "gender": "NA",
+      "line": "I'm sure they do - ha ha! But I can't read their serial numbers here. So if you could read me -",
+      "wordCount": 22
+    },
+    {
+      "id": 192,
+      "index": 192,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Well, but see, I don't have 'em in front a me - why don't I just fax you over a copy -",
+      "wordCount": 22
+    },
+    {
+      "id": 193,
+      "index": 193,
+      "character": "VOICE",
+      "gender": "NA",
+      "line": "No, fax is no good, that's what I have and I can't read the darn thing -",
+      "wordCount": 17
+    },
+    {
+      "id": 194,
+      "index": 194,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Yah, okay, I'll have my girl send you over a copy, then.",
+      "wordCount": 12
+    },
+    {
+      "id": 195,
+      "index": 195,
+      "character": "VOICE",
+      "gender": "NA",
+      "line": "Okay, because if I can't correlate this note with the specific vehicles, then I gotta call back that money -",
+      "wordCount": 20
+    },
+    {
+      "id": 196,
+      "index": 196,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Yah, how much money was that?",
+      "wordCount": 6
+    },
+    {
+      "id": 197,
+      "index": 197,
+      "character": "VOICE",
+      "gender": "NA",
+      "line": "Three hundred and twenty thousand dollars. See, I gotta correlate that money with the cars it's being lent on.",
+      "wordCount": 19
+    },
+    {
+      "id": 198,
+      "index": 198,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Yah, no problem, I'll just fax that over to ya, then.",
+      "wordCount": 11
+    },
+    {
+      "id": 199,
+      "index": 199,
+      "character": "VOICE",
+      "gender": "NA",
+      "line": "No, no, fax is -",
+      "wordCount": 5
+    },
+    {
+      "id": 200,
+      "index": 200,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "I mean send it over. I'll shoot it right over to ya.",
+      "wordCount": 12
+    },
+    {
+      "id": 201,
+      "index": 201,
+      "character": "VOICE",
+      "gender": "NA",
+      "line": "Okay.",
+      "wordCount": 1
+    },
+    {
+      "id": 202,
+      "index": 202,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Okay, real good, then.",
+      "wordCount": 4
+    },
+    {
+      "id": 203,
+      "index": 203,
+      "character": "HOST",
+      "gender": "Male",
+      "line": "So I seperate the - how the heck do I get the egg out of the shell without breaking it?",
+      "wordCount": 20
+    },
+    {
+      "id": 204,
+      "index": 204,
+      "character": "HOSTESS",
+      "gender": "Female",
+      "line": "You just prick a little hole in the end and blow!",
+      "wordCount": 11
+    },
+    {
+      "id": 205,
+      "index": 205,
+      "character": "HOST",
+      "gender": "Male",
+      "line": "Okay, here goes nothing.",
+      "wordCount": 4
+    },
+    {
+      "id": 206,
+      "index": 206,
+      "character": "AUDIENCE",
+      "gender": "NA",
+      "line": "Awoooo!",
+      "wordCount": 1
+    },
+    {
+      "id": 207,
+      "index": 207,
+      "character": "GRIMSRUD",
+      "gender": "Male",
+      "line": "Unguent.",
+      "wordCount": 1
+    },
+    {
+      "id": 208,
+      "index": 208,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Huh?",
+      "wordCount": 1
+    },
+    {
+      "id": 209,
+      "index": 209,
+      "character": "GRIMSRUD",
+      "gender": "Male",
+      "line": "I need ... unguent.",
+      "wordCount": 4
+    },
+    {
+      "id": 210,
+      "index": 210,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "How ya doin' there, Stan? How are ya, Wade?",
+      "wordCount": 9
+    },
+    {
+      "id": 211,
+      "index": 211,
+      "character": "STAN",
+      "gender": "Male",
+      "line": "Good to see ya again, Jerry. If these numbers are right, this looks pretty sweet.",
+      "wordCount": 15
+    },
+    {
+      "id": 212,
+      "index": 212,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Oh, those numbers are all right, bleemee.",
+      "wordCount": 7
+    },
+    {
+      "id": 213,
+      "index": 213,
+      "character": "WADE",
+      "gender": "Male",
+      "line": "This is do-able.",
+      "wordCount": 3
+    },
+    {
+      "id": 214,
+      "index": 214,
+      "character": "STAN",
+      "gender": "Male",
+      "line": "Congratulations, Jerry.",
+      "wordCount": 2
+    },
+    {
+      "id": 215,
+      "index": 215,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Yah, thanks, Stan, it's a pretty -",
+      "wordCount": 7
+    },
+    {
+      "id": 216,
+      "index": 216,
+      "character": "WADE",
+      "gender": "Male",
+      "line": "What kind of finder's fee were you looking for?",
+      "wordCount": 9
+    },
+    {
+      "id": 217,
+      "index": 217,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "... Huh?",
+      "wordCount": 2
+    },
+    {
+      "id": 218,
+      "index": 218,
+      "character": "STAN",
+      "gender": "Male",
+      "line": "The financials are pretty thorough, so the only thing we don't know is your fee.",
+      "wordCount": 15
+    },
+    {
+      "id": 219,
+      "index": 219,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "... My fee? Wade, what the heck're you talkin' about?",
+      "wordCount": 10
+    },
+    {
+      "id": 220,
+      "index": 220,
+      "character": "WADE",
+      "gender": "Male",
+      "line": "Stan and I're okay.",
+      "wordCount": 4
+    },
+    {
+      "id": 221,
+      "index": 221,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Yah.",
+      "wordCount": 1
+    },
+    {
+      "id": 222,
+      "index": 222,
+      "character": "WADE",
+      "gender": "Male",
+      "line": "We're good to loan in.",
+      "wordCount": 5
+    },
+    {
+      "id": 223,
+      "index": 223,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Yah.",
+      "wordCount": 1
+    },
+    {
+      "id": 224,
+      "index": 224,
+      "character": "WADE",
+      "gender": "Male",
+      "line": "But we never talked about your fee for bringin' it to us.",
+      "wordCount": 12
+    },
+    {
+      "id": 225,
+      "index": 225,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "No, but, Wade, see, I was bringin' you this deal for you to loan me the money to put in. It's my deal here, see?",
+      "wordCount": 25
+    },
+    {
+      "id": 226,
+      "index": 226,
+      "character": "STAN",
+      "gender": "Male",
+      "line": "Jerry - we thought you were bringin' us an investment.",
+      "wordCount": 10
+    },
+    {
+      "id": 227,
+      "index": 227,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Yah, right -",
+      "wordCount": 3
+    },
+    {
+      "id": 228,
+      "index": 228,
+      "character": "STAN",
+      "gender": "Male",
+      "line": "You're sayin' - what're you sayin'?",
+      "wordCount": 6
+    },
+    {
+      "id": 229,
+      "index": 229,
+      "character": "WADE",
+      "gender": "Male",
+      "line": "You're sayin' that we put in all the money and you collect when it pays off?",
+      "wordCount": 16
+    },
+    {
+      "id": 230,
+      "index": 230,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "No, no. I - I'd, I'd - pay you back the principal, and interest - heck, I'd go - one over prime -",
+      "wordCount": 23
+    },
+    {
+      "id": 231,
+      "index": 231,
+      "character": "STAN",
+      "gender": "Male",
+      "line": "We're not a bank, Jerry.",
+      "wordCount": 5
+    },
+    {
+      "id": 232,
+      "index": 232,
+      "character": "WADE",
+      "gender": "Male",
+      "line": "What the heck, Jerry, if I wanted bank interest on seven hunnert'n fifty thousand I'd go to Midwest Federal. Talk to Bill Diehl.",
+      "wordCount": 23
+    },
+    {
+      "id": 233,
+      "index": 233,
+      "character": "STAN",
+      "gender": "Male",
+      "line": "He's at Norstar.",
+      "wordCount": 3
+    },
+    {
+      "id": 234,
+      "index": 234,
+      "character": "WADE",
+      "gender": "Male",
+      "line": "He's at -",
+      "wordCount": 3
+    },
+    {
+      "id": 235,
+      "index": 235,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "No, see, I don't need a finder's fee, I need - finder's fee's, what, ten percent, heck that's not gonna do it for me. I need the principal.",
+      "wordCount": 28
+    },
+    {
+      "id": 236,
+      "index": 236,
+      "character": "STAN",
+      "gender": "Male",
+      "line": "Jerry, we're not just going to give you seven hundred and fifty thousand dollars.",
+      "wordCount": 14
+    },
+    {
+      "id": 237,
+      "index": 237,
+      "character": "WADE",
+      "gender": "Male",
+      "line": "What the heck were you thinkin'? Heck, if I'm only gettin' bank interest, I'd look for complete security. Heck, FDIC. I don't see nothin' like that here.",
+      "wordCount": 27
+    },
+    {
+      "id": 238,
+      "index": 238,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Yah, but I - okay, I would, I'd guarantee ya your money back.",
+      "wordCount": 13
+    },
+    {
+      "id": 239,
+      "index": 239,
+      "character": "WADE",
+      "gender": "Male",
+      "line": "I'm not talkin' about your damn word, Jerry. Geez, what the heck're you?... Well, look, I don't want to cut you out of the loop, but his here's a good deal. I assume, if you're not innarested, you won't mind if we move on it independently.",
+      "wordCount": 46
+    },
+    {
+      "id": 240,
+      "index": 240,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Hon?",
+      "wordCount": 1
+    },
+    {
+      "id": 241,
+      "index": 241,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "... Got the growshries...",
+      "wordCount": 4
+    },
+    {
+      "id": 242,
+      "index": 242,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "... Hon?",
+      "wordCount": 2
+    },
+    {
+      "id": 243,
+      "index": 243,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Yah, Wade, I - it's Jerry, I.",
+      "wordCount": 7
+    },
+    {
+      "id": 244,
+      "index": 244,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "... Yah, Wade, it's, I, it's Jerry...",
+      "wordCount": 7
+    },
+    {
+      "id": 245,
+      "index": 245,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "... Wade, it's Jerry, I - we gotta talk, Wade, it's terrible...",
+      "wordCount": 12
+    },
+    {
+      "id": 246,
+      "index": 246,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "... Yah, Wade Gustafson, please.",
+      "wordCount": 5
+    },
+    {
+      "id": 247,
+      "index": 247,
+      "character": "GRIMSRUD",
+      "gender": "Male",
+      "line": "Shut the fuck up or I'll throw you back in the trunk, you know.",
+      "wordCount": 14
+    },
+    {
+      "id": 248,
+      "index": 248,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Geez. That's more'n I've heard you say all week.",
+      "wordCount": 9
+    },
+    {
+      "id": 249,
+      "index": 249,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Ah, shit, the tags...",
+      "wordCount": 4
+    },
+    {
+      "id": 250,
+      "index": 250,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "... It's just the tags. I never put my tags on the car. Don't worry, I'll take care of this.",
+      "wordCount": 20
+    },
+    {
+      "id": 251,
+      "index": 251,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "... Let's keep still back there, lady, or we're gonna have to, ya know, to shoot ya.",
+      "wordCount": 17
+    },
+    {
+      "id": 252,
+      "index": 252,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "... Hey! I'll take care of this!",
+      "wordCount": 7
+    },
+    {
+      "id": 253,
+      "index": 253,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "How can I help you, officer?",
+      "wordCount": 6
+    },
+    {
+      "id": 254,
+      "index": 254,
+      "character": "TROOPER",
+      "gender": "Male",
+      "line": "This is a new car, then, sir?",
+      "wordCount": 7
+    },
+    {
+      "id": 255,
+      "index": 255,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "It certainly is, officer. Still got that smell!",
+      "wordCount": 8
+    },
+    {
+      "id": 256,
+      "index": 256,
+      "character": "TROOPER",
+      "gender": "Male",
+      "line": "You're required to display temporary tags, either in the plate area or taped inside the back window.",
+      "wordCount": 17
+    },
+    {
+      "id": 257,
+      "index": 257,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Certainly -",
+      "wordCount": 2
+    },
+    {
+      "id": 258,
+      "index": 258,
+      "character": "TROOPER",
+      "gender": "Male",
+      "line": "Can I see your license and registration please?",
+      "wordCount": 8
+    },
+    {
+      "id": 259,
+      "index": 259,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Certainly.",
+      "wordCount": 1
+    },
+    {
+      "id": 260,
+      "index": 260,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "... I was gonna tape up the temporary tag, ya know, to be in full compliance, but it, uh, it, uh ... must a slipped my mind...",
+      "wordCount": 27
+    },
+    {
+      "id": 261,
+      "index": 261,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "... So maybe the best thing would be to take care of that, right here in Brainerd.",
+      "wordCount": 17
+    },
+    {
+      "id": 262,
+      "index": 262,
+      "character": "TROOPER",
+      "gender": "Male",
+      "line": "What's this, sir?",
+      "wordCount": 3
+    },
+    {
+      "id": 263,
+      "index": 263,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "That's my license and regis- tration. I wanna be in compliance.",
+      "wordCount": 11
+    },
+    {
+      "id": 264,
+      "index": 264,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "... I was just thinking I could take care of it right here. In Brainerd.",
+      "wordCount": 15
+    },
+    {
+      "id": 265,
+      "index": 265,
+      "character": "TROOPER",
+      "gender": "Male",
+      "line": "Put that back in your pocket, please.",
+      "wordCount": 7
+    },
+    {
+      "id": 266,
+      "index": 266,
+      "character": "TROOPER",
+      "gender": "Male",
+      "line": "... And step out of the car, please, sir.",
+      "wordCount": 9
+    },
+    {
+      "id": 267,
+      "index": 267,
+      "character": "GRIMSRUD",
+      "gender": "Male",
+      "line": "Shut up.",
+      "wordCount": 2
+    },
+    {
+      "id": 268,
+      "index": 268,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Whoa... Whoa, Daddy.",
+      "wordCount": 3
+    },
+    {
+      "id": 269,
+      "index": 269,
+      "character": "GRIMSRUD",
+      "gender": "Male",
+      "line": "You'll take care of it. Boy, you are smooth smooth, you know.",
+      "wordCount": 12
+    },
+    {
+      "id": 270,
+      "index": 270,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Whoa, Daddy.",
+      "wordCount": 2
+    },
+    {
+      "id": 271,
+      "index": 271,
+      "character": "GRIMSRUD",
+      "gender": "Male",
+      "line": "Clear him off the road.",
+      "wordCount": 5
+    },
+    {
+      "id": 272,
+      "index": 272,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Yeah.",
+      "wordCount": 1
+    },
+    {
+      "id": 273,
+      "index": 273,
+      "character": "WOMAN",
+      "gender": "NA",
+      "line": "Oh, geez...",
+      "wordCount": 2
+    },
+    {
+      "id": 274,
+      "index": 274,
+      "character": "WOMAN",
+      "gender": "NA",
+      "line": "... Hi, it's Marge...",
+      "wordCount": 4
+    },
+    {
+      "id": 275,
+      "index": 275,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "... Oh, my. Where?... Yah... Oh, geez...",
+      "wordCount": 7
+    },
+    {
+      "id": 276,
+      "index": 276,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "... Okay. There in a jif... Real good, then.",
+      "wordCount": 9
+    },
+    {
+      "id": 277,
+      "index": 277,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "... You can sleep, hon. It's early yet.",
+      "wordCount": 8
+    },
+    {
+      "id": 278,
+      "index": 278,
+      "character": "MAN",
+      "gender": "Male",
+      "line": "Gotta go?",
+      "wordCount": 2
+    },
+    {
+      "id": 279,
+      "index": 279,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Yah.",
+      "wordCount": 1
+    },
+    {
+      "id": 280,
+      "index": 280,
+      "character": "MAN",
+      "gender": "Male",
+      "line": "I'll fix ya some eggs.",
+      "wordCount": 5
+    },
+    {
+      "id": 281,
+      "index": 281,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "That's okay, hon. I gotta run.",
+      "wordCount": 6
+    },
+    {
+      "id": 282,
+      "index": 282,
+      "character": "MAN",
+      "gender": "Male",
+      "line": "Gotta eat a breakfast, Marge. I'll fix ya some eggs.",
+      "wordCount": 10
+    },
+    {
+      "id": 283,
+      "index": 283,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Aw, you can sleep, hon.",
+      "wordCount": 5
+    },
+    {
+      "id": 284,
+      "index": 284,
+      "character": "MAN",
+      "gender": "Male",
+      "line": "Ya gotta eat a breakfast...",
+      "wordCount": 5
+    },
+    {
+      "id": 285,
+      "index": 285,
+      "character": "MAN",
+      "gender": "Male",
+      "line": "... I'll fix ya some eggs.",
+      "wordCount": 6
+    },
+    {
+      "id": 286,
+      "index": 286,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Aw, Norm.",
+      "wordCount": 2
+    },
+    {
+      "id": 287,
+      "index": 287,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Thanks, hon. Time to shove off.",
+      "wordCount": 6
+    },
+    {
+      "id": 288,
+      "index": 288,
+      "character": "NORM",
+      "gender": "NA",
+      "line": "Love ya, Margie.",
+      "wordCount": 3
+    },
+    {
+      "id": 289,
+      "index": 289,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Love ya, hon.",
+      "wordCount": 3
+    },
+    {
+      "id": 290,
+      "index": 290,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Hon?",
+      "wordCount": 1
+    },
+    {
+      "id": 291,
+      "index": 291,
+      "character": "NORM",
+      "gender": "NA",
+      "line": "Yah?",
+      "wordCount": 1
+    },
+    {
+      "id": 292,
+      "index": 292,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Prowler needs a jump.",
+      "wordCount": 4
+    },
+    {
+      "id": 293,
+      "index": 293,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Hiya, Lou.",
+      "wordCount": 2
+    },
+    {
+      "id": 294,
+      "index": 294,
+      "character": "LOU",
+      "gender": "NA",
+      "line": "Margie. Thought you might need a little warm-up.",
+      "wordCount": 8
+    },
+    {
+      "id": 295,
+      "index": 295,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Yah, thanks a bunch. So what's the deal, now? Gary says triple homicide?",
+      "wordCount": 13
+    },
+    {
+      "id": 296,
+      "index": 296,
+      "character": "LOU",
+      "gender": "NA",
+      "line": "Yah, looks pretty bad. Two of'm're over here.",
+      "wordCount": 8
+    },
+    {
+      "id": 297,
+      "index": 297,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Where is everybody?",
+      "wordCount": 3
+    },
+    {
+      "id": 298,
+      "index": 298,
+      "character": "LOU",
+      "gender": "NA",
+      "line": "Well - it's cold, Margie.",
+      "wordCount": 5
+    },
+    {
+      "id": 299,
+      "index": 299,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Ah, geez. So... Aw, geez. Here's the second one... It's in the head and the ... hand there, I guess that's a defensive wound. Okay.",
+      "wordCount": 25
+    },
+    {
+      "id": 300,
+      "index": 300,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "... Where's the state trooper?",
+      "wordCount": 5
+    },
+    {
+      "id": 301,
+      "index": 301,
+      "character": "LOU",
+      "gender": "NA",
+      "line": "Back there a good piece. In the ditch next to his prowler.",
+      "wordCount": 12
+    },
+    {
+      "id": 302,
+      "index": 302,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Okay, so we got a state trooper pulls someone over, we got a shooting, and these folks drive by, and we got a high-speed pursuit, ends here, and this execution-type deal.",
+      "wordCount": 31
+    },
+    {
+      "id": 303,
+      "index": 303,
+      "character": "LOU",
+      "gender": "NA",
+      "line": "Yah.",
+      "wordCount": 1
+    },
+    {
+      "id": 304,
+      "index": 304,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "I'd be very surprised if our suspect was from Brainerd.",
+      "wordCount": 10
+    },
+    {
+      "id": 305,
+      "index": 305,
+      "character": "LOU",
+      "gender": "NA",
+      "line": "Yah.",
+      "wordCount": 1
+    },
+    {
+      "id": 306,
+      "index": 306,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Yah. And I'll tell you what, from his footprints he looks like a big fella -",
+      "wordCount": 16
+    },
+    {
+      "id": 307,
+      "index": 307,
+      "character": "LOU",
+      "gender": "NA",
+      "line": "Ya see something down there, Chief?",
+      "wordCount": 6
+    },
+    {
+      "id": 308,
+      "index": 308,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Uh - I just, I think I'm gonna barf.",
+      "wordCount": 9
+    },
+    {
+      "id": 309,
+      "index": 309,
+      "character": "LOU",
+      "gender": "NA",
+      "line": "Geez, you okay, Margie?",
+      "wordCount": 4
+    },
+    {
+      "id": 310,
+      "index": 310,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "I'm fine - it's just morning sickness.",
+      "wordCount": 7
+    },
+    {
+      "id": 311,
+      "index": 311,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "... Well, that passed.",
+      "wordCount": 4
+    },
+    {
+      "id": 312,
+      "index": 312,
+      "character": "LOU",
+      "gender": "NA",
+      "line": "Yah?",
+      "wordCount": 1
+    },
+    {
+      "id": 313,
+      "index": 313,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Yah. Now I'm hungry again.",
+      "wordCount": 5
+    },
+    {
+      "id": 314,
+      "index": 314,
+      "character": "LOU",
+      "gender": "NA",
+      "line": "You had breakfast yet, Margie?",
+      "wordCount": 5
+    },
+    {
+      "id": 315,
+      "index": 315,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Oh, yah. Norm made some eggs.",
+      "wordCount": 6
+    },
+    {
+      "id": 316,
+      "index": 316,
+      "character": "LOU",
+      "gender": "NA",
+      "line": "Yah? Well, what now, d'ya think?",
+      "wordCount": 6
+    },
+    {
+      "id": 317,
+      "index": 317,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Let's go take a look at that trooper.",
+      "wordCount": 8
+    },
+    {
+      "id": 318,
+      "index": 318,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "There's two of 'em, Lou!",
+      "wordCount": 5
+    },
+    {
+      "id": 319,
+      "index": 319,
+      "character": "LOU",
+      "gender": "NA",
+      "line": "Yah?",
+      "wordCount": 1
+    },
+    {
+      "id": 320,
+      "index": 320,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Yah, this guy's smaller than his buddy.",
+      "wordCount": 7
+    },
+    {
+      "id": 321,
+      "index": 321,
+      "character": "LOU",
+      "gender": "NA",
+      "line": "Oh, yah?",
+      "wordCount": 2
+    },
+    {
+      "id": 322,
+      "index": 322,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "For Pete's sake.",
+      "wordCount": 3
+    },
+    {
+      "id": 323,
+      "index": 323,
+      "character": "LOU",
+      "gender": "NA",
+      "line": "How's it look, Marge?",
+      "wordCount": 4
+    },
+    {
+      "id": 324,
+      "index": 324,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Well, he's got his gun on his hip there, and he looks like a nice enough guy. It's a real shame.",
+      "wordCount": 21
+    },
+    {
+      "id": 325,
+      "index": 325,
+      "character": "LOU",
+      "gender": "NA",
+      "line": "Yah.",
+      "wordCount": 1
+    },
+    {
+      "id": 326,
+      "index": 326,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "You haven't monkeyed with his car there, have ya?",
+      "wordCount": 9
+    },
+    {
+      "id": 327,
+      "index": 327,
+      "character": "LOU",
+      "gender": "NA",
+      "line": "No way.",
+      "wordCount": 2
+    },
+    {
+      "id": 328,
+      "index": 328,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Somebody shut his lights. I guess the little guy sat in there, waitin' for his buddy t'come back.",
+      "wordCount": 18
+    },
+    {
+      "id": 329,
+      "index": 329,
+      "character": "LOU",
+      "gender": "NA",
+      "line": "Yah, woulda been cold out here.",
+      "wordCount": 6
+    },
+    {
+      "id": 330,
+      "index": 330,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Heck, yah. Ya think, is Dave open yet?",
+      "wordCount": 8
+    },
+    {
+      "id": 331,
+      "index": 331,
+      "character": "LOU",
+      "gender": "NA",
+      "line": "You don't think he's mixed up in -",
+      "wordCount": 8
+    },
+    {
+      "id": 332,
+      "index": 332,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "No, no, I just wanna get Norm some night crawlers.",
+      "wordCount": 10
+    },
+    {
+      "id": 333,
+      "index": 333,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "You look in his citation book?",
+      "wordCount": 6
+    },
+    {
+      "id": 334,
+      "index": 334,
+      "character": "LOU",
+      "gender": "NA",
+      "line": "Yah...",
+      "wordCount": 1
+    },
+    {
+      "id": 335,
+      "index": 335,
+      "character": "LOU",
+      "gender": "NA",
+      "line": "... Last vehicle he wrote in was a tan Ciera at 2:18 a.m. Under the plate number he put DLR - I figure they stopped him or shot him before he could finish fillin' out the tag number.",
+      "wordCount": 38
+    },
+    {
+      "id": 336,
+      "index": 336,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Uh-huh.",
+      "wordCount": 1
+    },
+    {
+      "id": 337,
+      "index": 337,
+      "character": "LOU",
+      "gender": "NA",
+      "line": "So I got the state lookin' for a Ciera with a tag startin' DLR. They don't got no match yet.",
+      "wordCount": 20
+    },
+    {
+      "id": 338,
+      "index": 338,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "I'm not sure I agree with you a hunnert percent on your policework, there, Lou.",
+      "wordCount": 15
+    },
+    {
+      "id": 339,
+      "index": 339,
+      "character": "LOU",
+      "gender": "NA",
+      "line": "Yah?",
+      "wordCount": 1
+    },
+    {
+      "id": 340,
+      "index": 340,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Yah, I think that vehicle there probly had dealer plates. DLR?",
+      "wordCount": 11
+    },
+    {
+      "id": 341,
+      "index": 341,
+      "character": "LOU",
+      "gender": "NA",
+      "line": "Oh...",
+      "wordCount": 1
+    },
+    {
+      "id": 342,
+      "index": 342,
+      "character": "LOU",
+      "gender": "NA",
+      "line": "... Geez.",
+      "wordCount": 2
+    },
+    {
+      "id": 343,
+      "index": 343,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Yah. Say, Lou, ya hear the one about the guy who couldn't afford personalized plates, so he went and changed his name to J2L 4685?",
+      "wordCount": 25
+    },
+    {
+      "id": 344,
+      "index": 344,
+      "character": "LOU",
+      "gender": "NA",
+      "line": "Yah, that's a good one.",
+      "wordCount": 5
+    },
+    {
+      "id": 345,
+      "index": 345,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Yah.",
+      "wordCount": 1
+    },
+    {
+      "id": 346,
+      "index": 346,
+      "character": "WADE",
+      "gender": "Male",
+      "line": "- All's I know is, ya got a problem, ya call a professional!",
+      "wordCount": 13
+    },
+    {
+      "id": 347,
+      "index": 347,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "No! They said no cops! They were darned clear on that, Wade! They said you call the cops and we -",
+      "wordCount": 21
+    },
+    {
+      "id": 348,
+      "index": 348,
+      "character": "WADE",
+      "gender": "Male",
+      "line": "Well, a course they're gonna say that! But where's my protection? They got Jean here! I give these sons a bitches a million dollars, where's my guarantee they're gonna let her go.",
+      "wordCount": 32
+    },
+    {
+      "id": 349,
+      "index": 349,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Well, they -",
+      "wordCount": 3
+    },
+    {
+      "id": 350,
+      "index": 350,
+      "character": "WADE",
+      "gender": "Male",
+      "line": "A million dollars is a lot a damn money! And there they are, they got my daughter!",
+      "wordCount": 17
+    },
+    {
+      "id": 351,
+      "index": 351,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Yah, but think this thing through here, Wade. Ya give 'em what they want, why wont' they let her go? You gotta listen to me on this one, Wade.",
+      "wordCount": 29
+    },
+    {
+      "id": 352,
+      "index": 352,
+      "character": "WADE",
+      "gender": "Male",
+      "line": "Heck, you don't know! You're just whistlin' Dixie here! I'm sayin', the cops, they can advise us on this! I'm sayin' call a professional!",
+      "wordCount": 24
+    },
+    {
+      "id": 353,
+      "index": 353,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "No! No cops! That's final! This is my deal here, Wade! Jean is my wife here!",
+      "wordCount": 16
+    },
+    {
+      "id": 354,
+      "index": 354,
+      "character": "STAN",
+      "gender": "Male",
+      "line": "I gotta tell ya, Wade, I'm leanin' to Jerry's viewpoint here.",
+      "wordCount": 11
+    },
+    {
+      "id": 355,
+      "index": 355,
+      "character": "WADE",
+      "gender": "Male",
+      "line": "Well -",
+      "wordCount": 2
+    },
+    {
+      "id": 356,
+      "index": 356,
+      "character": "STAN",
+      "gender": "Male",
+      "line": "We gotta protect Jean. These - we're not holdin' any cards here, Wade, they got all of 'em. So they call the shots.",
+      "wordCount": 23
+    },
+    {
+      "id": 357,
+      "index": 357,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "You're darned tootin'!",
+      "wordCount": 3
+    },
+    {
+      "id": 358,
+      "index": 358,
+      "character": "WADE",
+      "gender": "Male",
+      "line": "Ah, dammit!",
+      "wordCount": 2
+    },
+    {
+      "id": 359,
+      "index": 359,
+      "character": "STAN",
+      "gender": "Male",
+      "line": "I'm tellin' ya.",
+      "wordCount": 3
+    },
+    {
+      "id": 360,
+      "index": 360,
+      "character": "WADE",
+      "gender": "Male",
+      "line": "Well... Why don't we...",
+      "wordCount": 4
+    },
+    {
+      "id": 361,
+      "index": 361,
+      "character": "WADE",
+      "gender": "Male",
+      "line": "... Stan, I'm thinkin' we should offer 'em half a million.",
+      "wordCount": 11
+    },
+    {
+      "id": 362,
+      "index": 362,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Now come on here, no way, Wade! No way!",
+      "wordCount": 9
+    },
+    {
+      "id": 363,
+      "index": 363,
+      "character": "STAN",
+      "gender": "Male",
+      "line": "We're not horse-trading here, Wade, we just gotta bite the bullet on this thing.",
+      "wordCount": 14
+    },
+    {
+      "id": 364,
+      "index": 364,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Yah!",
+      "wordCount": 1
+    },
+    {
+      "id": 365,
+      "index": 365,
+      "character": "STAN",
+      "gender": "Male",
+      "line": "What's the next step here, Jerry?",
+      "wordCount": 6
+    },
+    {
+      "id": 366,
+      "index": 366,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "They're gonna call, give me instructions for a drop. I'm supposed to have the money ready tomorrow.",
+      "wordCount": 17
+    },
+    {
+      "id": 367,
+      "index": 367,
+      "character": "WADE",
+      "gender": "Male",
+      "line": "Dammit!",
+      "wordCount": 1
+    },
+    {
+      "id": 368,
+      "index": 368,
+      "character": "CASHIER",
+      "gender": "NA",
+      "line": "How was everything today?",
+      "wordCount": 4
+    },
+    {
+      "id": 369,
+      "index": 369,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Yah, real good now.",
+      "wordCount": 4
+    },
+    {
+      "id": 370,
+      "index": 370,
+      "character": "STAN",
+      "gender": "Male",
+      "line": "Okay. We'll get the money together. Don't worry about it, Jerry. Now, d'you want anyone at home, with you, until they call?",
+      "wordCount": 22
+    },
+    {
+      "id": 371,
+      "index": 371,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "No, I - they don't want - they're just s'posed to be dealin' with me, they were real clear.",
+      "wordCount": 19
+    },
+    {
+      "id": 372,
+      "index": 372,
+      "character": "STAN",
+      "gender": "Male",
+      "line": "Yah.",
+      "wordCount": 1
+    },
+    {
+      "id": 373,
+      "index": 373,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Ya know, they said no one listenin' in, they'll be watchin', ya know. Maybe it's all bull, but like you said, Stan, they're callin' the shots.",
+      "wordCount": 26
+    },
+    {
+      "id": 374,
+      "index": 374,
+      "character": "STAN",
+      "gender": "Male",
+      "line": "Okay. And Scotty, is he gonna be all right?",
+      "wordCount": 9
+    },
+    {
+      "id": 375,
+      "index": 375,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Yah, geez, Scotty. I'll go talk to him.",
+      "wordCount": 8
+    },
+    {
+      "id": 376,
+      "index": 376,
+      "character": "STAN",
+      "gender": "Male",
+      "line": "We'll call.",
+      "wordCount": 2
+    },
+    {
+      "id": 377,
+      "index": 377,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "... How ya doin' there, Scotty?",
+      "wordCount": 6
+    },
+    {
+      "id": 378,
+      "index": 378,
+      "character": "SCOTT",
+      "gender": "Male",
+      "line": "Dad! What're they doing? Wuddya think they're doin' with Mom?",
+      "wordCount": 10
+    },
+    {
+      "id": 379,
+      "index": 379,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "It's okay, Scotty. They're not gonna want to hurt her any. These men, they just want money, see.",
+      "wordCount": 18
+    },
+    {
+      "id": 380,
+      "index": 380,
+      "character": "SCOTT",
+      "gender": "Male",
+      "line": "What if - what if sumpn goes wrong?",
+      "wordCount": 8
+    },
+    {
+      "id": 381,
+      "index": 381,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "No, no, nothin's goin' wrong here. Grandad and I, we're - we're makin' sure this gets handled right.",
+      "wordCount": 18
+    },
+    {
+      "id": 382,
+      "index": 382,
+      "character": "SCOTT",
+      "gender": "Male",
+      "line": "Dad, I really think we should call the cops.",
+      "wordCount": 9
+    },
+    {
+      "id": 383,
+      "index": 383,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "No! We can't let anyone know about this thing! We gotta play ball with these guys - you ask Stan Grossman, he'll tell ya the same thing!",
+      "wordCount": 27
+    },
+    {
+      "id": 384,
+      "index": 384,
+      "character": "SCOTT",
+      "gender": "Male",
+      "line": "Yeah, but -",
+      "wordCount": 3
+    },
+    {
+      "id": 385,
+      "index": 385,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "We're gonna get Mom back for ya, but we gotta play ball. Ya know, that's the deal. Now if Lorraine calls, or Sylvia, you just say that Mom is in Florida with Pearl and Marty...",
+      "wordCount": 35
+    },
+    {
+      "id": 386,
+      "index": 386,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "... That's the best we can do here.",
+      "wordCount": 8
+    },
+    {
+      "id": 387,
+      "index": 387,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Hold it.",
+      "wordCount": 2
+    },
+    {
+      "id": 388,
+      "index": 388,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Ha ha ha ha ha ha! Jesus!",
+      "wordCount": 7
+    },
+    {
+      "id": 389,
+      "index": 389,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Hiya, hon.",
+      "wordCount": 2
+    },
+    {
+      "id": 390,
+      "index": 390,
+      "character": "NORM",
+      "gender": "NA",
+      "line": "Brought ya some lunch, Margie. What're those, night crawlers?",
+      "wordCount": 9
+    },
+    {
+      "id": 391,
+      "index": 391,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Yah.",
+      "wordCount": 1
+    },
+    {
+      "id": 392,
+      "index": 392,
+      "character": "NORM",
+      "gender": "NA",
+      "line": "Thanks, hon.",
+      "wordCount": 2
+    },
+    {
+      "id": 393,
+      "index": 393,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "You bet. Thanks for lunch. What do we got here, Arbie's?",
+      "wordCount": 11
+    },
+    {
+      "id": 394,
+      "index": 394,
+      "character": "NORM",
+      "gender": "NA",
+      "line": "Uh-huh.",
+      "wordCount": 1
+    },
+    {
+      "id": 395,
+      "index": 395,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "... How's the paintin' goin'?",
+      "wordCount": 5
+    },
+    {
+      "id": 396,
+      "index": 396,
+      "character": "NORM",
+      "gender": "NA",
+      "line": "Pretty good. Found out the Hautmans are entering a painting this year.",
+      "wordCount": 12
+    },
+    {
+      "id": 397,
+      "index": 397,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Aw, hon, you're better'n them.",
+      "wordCount": 5
+    },
+    {
+      "id": 398,
+      "index": 398,
+      "character": "NORM",
+      "gender": "NA",
+      "line": "They're real good.",
+      "wordCount": 3
+    },
+    {
+      "id": 399,
+      "index": 399,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "They're good, Norm, but you're better'n them.",
+      "wordCount": 7
+    },
+    {
+      "id": 400,
+      "index": 400,
+      "character": "NORM",
+      "gender": "NA",
+      "line": "Yah, ya think?",
+      "wordCount": 3
+    },
+    {
+      "id": 401,
+      "index": 401,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Ah, ya got Arbie's all o'er me.",
+      "wordCount": 7
+    },
+    {
+      "id": 402,
+      "index": 402,
+      "character": "LOU",
+      "gender": "NA",
+      "line": "Hiya, Norm, how's the paintin' goin'?",
+      "wordCount": 6
+    },
+    {
+      "id": 403,
+      "index": 403,
+      "character": "NORM",
+      "gender": "NA",
+      "line": "Not too bad. You know.",
+      "wordCount": 5
+    },
+    {
+      "id": 404,
+      "index": 404,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "How we doin' on that vehicle?",
+      "wordCount": 6
+    },
+    {
+      "id": 405,
+      "index": 405,
+      "character": "LOU",
+      "gender": "NA",
+      "line": "No motels registered any tan Ciera last night. But the night before, two men checked into the Blue Ox registering a Ciera and leavin' the tag space blank.",
+      "wordCount": 28
+    },
+    {
+      "id": 406,
+      "index": 406,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Geez, that's a good lead. The Blue Ox, that's that trucker's joint out there on I-35?",
+      "wordCount": 16
+    },
+    {
+      "id": 407,
+      "index": 407,
+      "character": "LOU",
+      "gender": "NA",
+      "line": "Yah. Owner was on the desk then, said these two guys had company.",
+      "wordCount": 13
+    },
+    {
+      "id": 408,
+      "index": 408,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Oh, yah?",
+      "wordCount": 2
+    },
+    {
+      "id": 409,
+      "index": 409,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Where you girls from?",
+      "wordCount": 4
+    },
+    {
+      "id": 410,
+      "index": 410,
+      "character": "HOOKER ONE",
+      "gender": "NA",
+      "line": "Chaska.",
+      "wordCount": 1
+    },
+    {
+      "id": 411,
+      "index": 411,
+      "character": "HOOKER TWO",
+      "gender": "NA",
+      "line": "LeSeure. But I went to high school in White Bear Lake.",
+      "wordCount": 11
+    },
+    {
+      "id": 412,
+      "index": 412,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Okay, I want you to tell me what these fellas looked like.",
+      "wordCount": 12
+    },
+    {
+      "id": 413,
+      "index": 413,
+      "character": "HOOKER ONE",
+      "gender": "NA",
+      "line": "Well, the little guy, he was kinda funny-looking.",
+      "wordCount": 8
+    },
+    {
+      "id": 414,
+      "index": 414,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "In what way?",
+      "wordCount": 3
+    },
+    {
+      "id": 415,
+      "index": 415,
+      "character": "HOOKER ONE",
+      "gender": "NA",
+      "line": "I dunno. Just funny-looking.",
+      "wordCount": 4
+    },
+    {
+      "id": 416,
+      "index": 416,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Can you be any more specific?",
+      "wordCount": 6
+    },
+    {
+      "id": 417,
+      "index": 417,
+      "character": "HOOKER ONE",
+      "gender": "NA",
+      "line": "I couldn't really say. He wasn't circumcised.",
+      "wordCount": 7
+    },
+    {
+      "id": 418,
+      "index": 418,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Was he funny-looking apart from that?",
+      "wordCount": 6
+    },
+    {
+      "id": 419,
+      "index": 419,
+      "character": "HOOKER ONE",
+      "gender": "NA",
+      "line": "Yah.",
+      "wordCount": 1
+    },
+    {
+      "id": 420,
+      "index": 420,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "So you were having sex with the little fella, then?",
+      "wordCount": 10
+    },
+    {
+      "id": 421,
+      "index": 421,
+      "character": "HOOKER ONE",
+      "gender": "NA",
+      "line": "Uh-huh.",
+      "wordCount": 1
+    },
+    {
+      "id": 422,
+      "index": 422,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Is there anything else you can tell me about him?",
+      "wordCount": 10
+    },
+    {
+      "id": 423,
+      "index": 423,
+      "character": "HOOKER ONE",
+      "gender": "NA",
+      "line": "No. Like I say, he was funny-looking. More'n most people even.",
+      "wordCount": 11
+    },
+    {
+      "id": 424,
+      "index": 424,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "And what about the other fella?",
+      "wordCount": 6
+    },
+    {
+      "id": 425,
+      "index": 425,
+      "character": "HOOKER TWO",
+      "gender": "NA",
+      "line": "He was a little older. Looked like the Marlboro man.",
+      "wordCount": 10
+    },
+    {
+      "id": 426,
+      "index": 426,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Yah?",
+      "wordCount": 1
+    },
+    {
+      "id": 427,
+      "index": 427,
+      "character": "HOOKER TWO",
+      "gender": "NA",
+      "line": "Yah. Maybe I'm sayin' that cause he smoked Marlboros.",
+      "wordCount": 9
+    },
+    {
+      "id": 428,
+      "index": 428,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Uh-huh.",
+      "wordCount": 1
+    },
+    {
+      "id": 429,
+      "index": 429,
+      "character": "HOOKER TWO",
+      "gender": "NA",
+      "line": "A subconscious-type thing.",
+      "wordCount": 3
+    },
+    {
+      "id": 430,
+      "index": 430,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Yah, that can happen.",
+      "wordCount": 4
+    },
+    {
+      "id": 431,
+      "index": 431,
+      "character": "HOOKER TWO",
+      "gender": "NA",
+      "line": "Yah.",
+      "wordCount": 1
+    },
+    {
+      "id": 432,
+      "index": 432,
+      "character": "HOOKER ONE",
+      "gender": "NA",
+      "line": "They said they were goin' to the Twin Cities?",
+      "wordCount": 9
+    },
+    {
+      "id": 433,
+      "index": 433,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Oh, yah?",
+      "wordCount": 2
+    },
+    {
+      "id": 434,
+      "index": 434,
+      "character": "HOOKER TWO",
+      "gender": "NA",
+      "line": "Yah.",
+      "wordCount": 1
+    },
+    {
+      "id": 435,
+      "index": 435,
+      "character": "HOOKER ONE",
+      "gender": "NA",
+      "line": "Yah. Is that useful to ya?",
+      "wordCount": 6
+    },
+    {
+      "id": 436,
+      "index": 436,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Oh, you bet, yah.",
+      "wordCount": 4
+    },
+    {
+      "id": 437,
+      "index": 437,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "...days ... be here for days with a - DAMMIT! - a goddamn mute ... nothin' to do ... and the fucking - DAMMIT!...",
+      "wordCount": 24
+    },
+    {
+      "id": 438,
+      "index": 438,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "... TV doesn't even ... plug me in, man... Gimmee a - DAMMIT! - signal... Plug me into the ozone, baby... Plug me into the ozone - FUCK!...",
+      "wordCount": 28
+    },
+    {
+      "id": 439,
+      "index": 439,
+      "character": "TV VOICE-OVER",
+      "gender": "NA",
+      "line": "The bark beetle carries the worm to the nest ... where it will feed its young for up to six weeks...",
+      "wordCount": 21
+    },
+    {
+      "id": 440,
+      "index": 440,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "... Well, I'm turnin' in, Norm.",
+      "wordCount": 6
+    },
+    {
+      "id": 441,
+      "index": 441,
+      "character": "NORM",
+      "gender": "NA",
+      "line": "... Oh, yah?",
+      "wordCount": 3
+    },
+    {
+      "id": 442,
+      "index": 442,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Hello?",
+      "wordCount": 1
+    },
+    {
+      "id": 443,
+      "index": 443,
+      "character": "VOICE",
+      "gender": "NA",
+      "line": "Yah, is this Marge?",
+      "wordCount": 4
+    },
+    {
+      "id": 444,
+      "index": 444,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Yah?",
+      "wordCount": 1
+    },
+    {
+      "id": 445,
+      "index": 445,
+      "character": "VOICE",
+      "gender": "NA",
+      "line": "Margie Olmstead?",
+      "wordCount": 2
+    },
+    {
+      "id": 446,
+      "index": 446,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "... Well, yah. Who's this?",
+      "wordCount": 5
+    },
+    {
+      "id": 447,
+      "index": 447,
+      "character": "VOICE",
+      "gender": "NA",
+      "line": "This is Mike Yanagita. Ya know - Mike Yanagita. Remember me?",
+      "wordCount": 11
+    },
+    {
+      "id": 448,
+      "index": 448,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "... Mike Yanagita!",
+      "wordCount": 3
+    },
+    {
+      "id": 449,
+      "index": 449,
+      "character": "MIKE",
+      "gender": "NA",
+      "line": "Yah!",
+      "wordCount": 1
+    },
+    {
+      "id": 450,
+      "index": 450,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Yah, yah, course I remember. How are ya? What time is it?",
+      "wordCount": 12
+    },
+    {
+      "id": 451,
+      "index": 451,
+      "character": "MIKE",
+      "gender": "NA",
+      "line": "Oh, geez. It's quarter to eleven. I hope I dint wake you.",
+      "wordCount": 12
+    },
+    {
+      "id": 452,
+      "index": 452,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "No, that's okay.",
+      "wordCount": 3
+    },
+    {
+      "id": 453,
+      "index": 453,
+      "character": "MIKE",
+      "gender": "NA",
+      "line": "Yah, I'm down in the Twin Cities and I was just watching on TV about these shootings up in Brainderd, and I saw you on the news there.",
+      "wordCount": 28
+    },
+    {
+      "id": 454,
+      "index": 454,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Yah.",
+      "wordCount": 1
+    },
+    {
+      "id": 455,
+      "index": 455,
+      "character": "MIKE",
+      "gender": "NA",
+      "line": "I thought, geez, is that Margie Olmstead? I can't believe it!",
+      "wordCount": 11
+    },
+    {
+      "id": 456,
+      "index": 456,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Yah, that's me.",
+      "wordCount": 3
+    },
+    {
+      "id": 457,
+      "index": 457,
+      "character": "MIKE",
+      "gender": "NA",
+      "line": "Well, how the heck are ya?",
+      "wordCount": 6
+    },
+    {
+      "id": 458,
+      "index": 458,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Okay, ya know. Okay.",
+      "wordCount": 4
+    },
+    {
+      "id": 459,
+      "index": 459,
+      "character": "MIKE",
+      "gender": "NA",
+      "line": "Yah?",
+      "wordCount": 1
+    },
+    {
+      "id": 460,
+      "index": 460,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Yah - how are you doon?",
+      "wordCount": 6
+    },
+    {
+      "id": 461,
+      "index": 461,
+      "character": "MIKE",
+      "gender": "NA",
+      "line": "Oh, pretty good.",
+      "wordCount": 3
+    },
+    {
+      "id": 462,
+      "index": 462,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Heck, it's been such a long time, Mike. It's great to hear from ya.",
+      "wordCount": 14
+    },
+    {
+      "id": 463,
+      "index": 463,
+      "character": "MIKE",
+      "gender": "NA",
+      "line": "Yah... Yah, yah. Geeze, Margie!",
+      "wordCount": 5
+    },
+    {
+      "id": 464,
+      "index": 464,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Yah, ya got yer, this loaded here, this has yer independent, uh, yer slipped differential, uh, yer rack- and-pinion steering, yer alarm and radar, and I can give it to ya with a heck of a sealant, this TruCoat stuff, it'll keep the salt off -",
+      "wordCount": 46
+    },
+    {
+      "id": 465,
+      "index": 465,
+      "character": "CUSTOMER",
+      "gender": "Male",
+      "line": "Yah, I don't need no sealant though.",
+      "wordCount": 7
+    },
+    {
+      "id": 466,
+      "index": 466,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Yah, you don't need that. Now were you thinking of financing here? You oughta be aware a this GMAC plan they have now, it's really super -",
+      "wordCount": 27
+    },
+    {
+      "id": 467,
+      "index": 467,
+      "character": "ANOTHER SALESMAN",
+      "gender": "NA",
+      "line": "Jerry, ya got a call here.",
+      "wordCount": 6
+    },
+    {
+      "id": 468,
+      "index": 468,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Yah, okay.",
+      "wordCount": 2
+    },
+    {
+      "id": 469,
+      "index": 469,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Jerry Lundegaard.",
+      "wordCount": 2
+    },
+    {
+      "id": 470,
+      "index": 470,
+      "character": "VOICE",
+      "gender": "NA",
+      "line": "All right, Jerry, you got this phone to yourself?",
+      "wordCount": 9
+    },
+    {
+      "id": 471,
+      "index": 471,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Well ... yah.",
+      "wordCount": 3
+    },
+    {
+      "id": 472,
+      "index": 472,
+      "character": "VOICE",
+      "gender": "NA",
+      "line": "Know who this is?",
+      "wordCount": 4
+    },
+    {
+      "id": 473,
+      "index": 473,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Well, yah, I got an idea. How's that Ciera workin' out for ya?",
+      "wordCount": 13
+    },
+    {
+      "id": 474,
+      "index": 474,
+      "character": "VOICE",
+      "gender": "NA",
+      "line": "Circumstances have changed, Jerry.",
+      "wordCount": 4
+    },
+    {
+      "id": 475,
+      "index": 475,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Well, what do ya mean?",
+      "wordCount": 5
+    },
+    {
+      "id": 476,
+      "index": 476,
+      "character": "VOICE",
+      "gender": "NA",
+      "line": "Things have changed. Circumstances, Jerry. Beyond the, uh ... acts of God, force majeure...",
+      "wordCount": 14
+    },
+    {
+      "id": 477,
+      "index": 477,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "What the - how's Jean?",
+      "wordCount": 5
+    },
+    {
+      "id": 478,
+      "index": 478,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "... Who's Jean?",
+      "wordCount": 3
+    },
+    {
+      "id": 479,
+      "index": 479,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "My wife! What the - how's -",
+      "wordCount": 7
+    },
+    {
+      "id": 480,
+      "index": 480,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Oh, Jean's okay. But there's three people up in Brainerd who aren't so okay, I'll tell ya that.",
+      "wordCount": 18
+    },
+    {
+      "id": 481,
+      "index": 481,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "What the heck're you talkin' about? Let's just finish up this deal here -",
+      "wordCount": 14
+    },
+    {
+      "id": 482,
+      "index": 482,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Blood has been shed, Jerry.",
+      "wordCount": 5
+    },
+    {
+      "id": 483,
+      "index": 483,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "... Blood has been shed.",
+      "wordCount": 5
+    },
+    {
+      "id": 484,
+      "index": 484,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "What the heck d'ya mean?",
+      "wordCount": 5
+    },
+    {
+      "id": 485,
+      "index": 485,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Three people. In Brainerd.",
+      "wordCount": 4
+    },
+    {
+      "id": 486,
+      "index": 486,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Oh, geez.",
+      "wordCount": 2
+    },
+    {
+      "id": 487,
+      "index": 487,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "That's right. And we need more money.",
+      "wordCount": 7
+    },
+    {
+      "id": 488,
+      "index": 488,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "The heck d'ya mean? What a you guys got yourself mixed up in?",
+      "wordCount": 13
+    },
+    {
+      "id": 489,
+      "index": 489,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "We need more -",
+      "wordCount": 4
+    },
+    {
+      "id": 490,
+      "index": 490,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "This was s'posed to be a no-rough -stuff-type deal -",
+      "wordCount": 10
+    },
+    {
+      "id": 491,
+      "index": 491,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "DON'T EVER INTERRUPT ME, JERRY! JUST SHUT THE FUCK UP!",
+      "wordCount": 10
+    },
+    {
+      "id": 492,
+      "index": 492,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Well, I'm sorry, but I just - I -",
+      "wordCount": 9
+    },
+    {
+      "id": 493,
+      "index": 493,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Look. I'm not gonna debate you, Jerry. The price is now the whole amount. We want the entire eighty thousand.",
+      "wordCount": 20
+    },
+    {
+      "id": 494,
+      "index": 494,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Oh, for Chrissakes here -",
+      "wordCount": 5
+    },
+    {
+      "id": 495,
+      "index": 495,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Blood has been shed. We've incurred risks, Jerry. I'm coming into town tomorrow. Have the money ready.",
+      "wordCount": 17
+    },
+    {
+      "id": 496,
+      "index": 496,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Now we had a deal here! A deal's a deal!",
+      "wordCount": 10
+    },
+    {
+      "id": 497,
+      "index": 497,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "IS IT, JERRY? You ask those three pour souls up in Brainerd if a deal's a deal! Go ahead, ask 'em!",
+      "wordCount": 21
+    },
+    {
+      "id": 498,
+      "index": 498,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "... The heck d'ya mean?",
+      "wordCount": 5
+    },
+    {
+      "id": 499,
+      "index": 499,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "I'll see you tomorrow.",
+      "wordCount": 4
+    },
+    {
+      "id": 500,
+      "index": 500,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Yah!",
+      "wordCount": 1
+    },
+    {
+      "id": 501,
+      "index": 501,
+      "character": "VOICE",
+      "gender": "NA",
+      "line": "Jerome Lundegaard?",
+      "wordCount": 2
+    },
+    {
+      "id": 502,
+      "index": 502,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Yah!",
+      "wordCount": 1
+    },
+    {
+      "id": 503,
+      "index": 503,
+      "character": "VOICE",
+      "gender": "NA",
+      "line": "This is Reilly Deifenbach at GMAC. Sir, I have not yet recieved those vehicle IDs you promised me.",
+      "wordCount": 18
+    },
+    {
+      "id": 504,
+      "index": 504,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Yah! I ... those are in the mail.",
+      "wordCount": 8
+    },
+    {
+      "id": 505,
+      "index": 505,
+      "character": "VOICE",
+      "gender": "NA",
+      "line": "Mr. Lundegaard, that very well may be. I must inform you, however, that absent the reciept of those numbers by tomorrow afternoon, I will have to refer this matter to our legal department.",
+      "wordCount": 33
+    },
+    {
+      "id": 506,
+      "index": 506,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Yah.",
+      "wordCount": 1
+    },
+    {
+      "id": 507,
+      "index": 507,
+      "character": "VOICE",
+      "gender": "NA",
+      "line": "My patience is at an end.",
+      "wordCount": 6
+    },
+    {
+      "id": 508,
+      "index": 508,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Yah.",
+      "wordCount": 1
+    },
+    {
+      "id": 509,
+      "index": 509,
+      "character": "VOICE",
+      "gender": "NA",
+      "line": "Good day, sir.",
+      "wordCount": 3
+    },
+    {
+      "id": 510,
+      "index": 510,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "... Yah.",
+      "wordCount": 2
+    },
+    {
+      "id": 511,
+      "index": 511,
+      "character": "GARY",
+      "gender": "NA",
+      "line": "Hiya, Norm. How ya doin', Margie? How's the fricasse?",
+      "wordCount": 9
+    },
+    {
+      "id": 512,
+      "index": 512,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Pretty darn good, ya want some?",
+      "wordCount": 6
+    },
+    {
+      "id": 513,
+      "index": 513,
+      "character": "GARY",
+      "gender": "NA",
+      "line": "No, I gotta - hey, Norm, I thought you were goin' fishin' up at Mile Lacs?",
+      "wordCount": 16
+    },
+    {
+      "id": 514,
+      "index": 514,
+      "character": "NORM",
+      "gender": "NA",
+      "line": "Yah, after lunch.",
+      "wordCount": 3
+    },
+    {
+      "id": 515,
+      "index": 515,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Whatcha got there?",
+      "wordCount": 3
+    },
+    {
+      "id": 516,
+      "index": 516,
+      "character": "GARY",
+      "gender": "NA",
+      "line": "The numbers y'asked for, calls made from the lobby pay phone at the Blue Ox. Two to Minneapolis that night.",
+      "wordCount": 20
+    },
+    {
+      "id": 517,
+      "index": 517,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Mm.",
+      "wordCount": 1
+    },
+    {
+      "id": 518,
+      "index": 518,
+      "character": "GARY",
+      "gender": "NA",
+      "line": "First one's a trucking company, second one's a private residence. A Shep Proudfoot.",
+      "wordCount": 13
+    },
+    {
+      "id": 519,
+      "index": 519,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Uh-huh... A what?",
+      "wordCount": 3
+    },
+    {
+      "id": 520,
+      "index": 520,
+      "character": "GARY",
+      "gender": "NA",
+      "line": "Shep Proudfoot. That's a name.",
+      "wordCount": 5
+    },
+    {
+      "id": 521,
+      "index": 521,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Uh-huh.",
+      "wordCount": 1
+    },
+    {
+      "id": 522,
+      "index": 522,
+      "character": "GARY",
+      "gender": "NA",
+      "line": "Yah.",
+      "wordCount": 1
+    },
+    {
+      "id": 523,
+      "index": 523,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "... Yah, okay, I think I'll drive down there, then.",
+      "wordCount": 10
+    },
+    {
+      "id": 524,
+      "index": 524,
+      "character": "GARY",
+      "gender": "NA",
+      "line": "Oh, yah? Twin Cities?",
+      "wordCount": 4
+    },
+    {
+      "id": 525,
+      "index": 525,
+      "character": "NORM",
+      "gender": "NA",
+      "line": "... Oh, yah?",
+      "wordCount": 3
+    },
+    {
+      "id": 526,
+      "index": 526,
+      "character": "WADE",
+      "gender": "Male",
+      "line": "Dammit! I wanna be a part a this thing!",
+      "wordCount": 9
+    },
+    {
+      "id": 527,
+      "index": 527,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "No, Wade! They were real clear! They said they'd call tomorrow, with instructions, and it's gonna be delivered by me alone!",
+      "wordCount": 21
+    },
+    {
+      "id": 528,
+      "index": 528,
+      "character": "WADE",
+      "gender": "Male",
+      "line": "It's my money, I'll deliver it - what do they care?",
+      "wordCount": 11
+    },
+    {
+      "id": 529,
+      "index": 529,
+      "character": "STAN",
+      "gender": "Male",
+      "line": "Wade's got a point there. I'll handle the call if you want, Jerry.",
+      "wordCount": 13
+    },
+    {
+      "id": 530,
+      "index": 530,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "No, no. See - they, no, see, they only deal with me. Ya feel this, this nervousness on the phone there, they're very - these guys're dangerous -",
+      "wordCount": 28
+    },
+    {
+      "id": 531,
+      "index": 531,
+      "character": "WADE",
+      "gender": "Male",
+      "line": "All the more reason! I don't want you - with all due respect, Jerry - I don't want you mucking this up.",
+      "wordCount": 22
+    },
+    {
+      "id": 532,
+      "index": 532,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "The heck d'ya mean?",
+      "wordCount": 4
+    },
+    {
+      "id": 533,
+      "index": 533,
+      "character": "WADE",
+      "gender": "Male",
+      "line": "They want my money, they can deal with me. Otherwise I'm goin' to a professional.",
+      "wordCount": 15
+    },
+    {
+      "id": 534,
+      "index": 534,
+      "character": "WADE",
+      "gender": "Male",
+      "line": "... There's a million dollars here!",
+      "wordCount": 6
+    },
+    {
+      "id": 535,
+      "index": 535,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "No, see -",
+      "wordCount": 3
+    },
+    {
+      "id": 536,
+      "index": 536,
+      "character": "WADE",
+      "gender": "Male",
+      "line": "Look, Jerry, you're not sellin' me a damn car. It's my show here. That's that.",
+      "wordCount": 15
+    },
+    {
+      "id": 537,
+      "index": 537,
+      "character": "STAN",
+      "gender": "Male",
+      "line": "It's the way we prefer to handle it, Jerry.",
+      "wordCount": 9
+    },
+    {
+      "id": 538,
+      "index": 538,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "How ya doin'?",
+      "wordCount": 3
+    },
+    {
+      "id": 539,
+      "index": 539,
+      "character": "CLERK",
+      "gender": "NA",
+      "line": "Real good. How're you today, ma'am?",
+      "wordCount": 6
+    },
+    {
+      "id": 540,
+      "index": 540,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Real good. I'm Mrs. Gunderson, I have a reservation.",
+      "wordCount": 9
+    },
+    {
+      "id": 541,
+      "index": 541,
+      "character": "CLERK",
+      "gender": "NA",
+      "line": "You sure do, Mrs. Gunderson.",
+      "wordCount": 5
+    },
+    {
+      "id": 542,
+      "index": 542,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Is there a phone down here, ya think?",
+      "wordCount": 8
+    },
+    {
+      "id": 543,
+      "index": 543,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "... Detective Sibert? Yah, this is Marge Gunderson from up Brainerd, we spoke - Yah. Well, actually I'm in town here. I had to do a few things in the Twin Cities, so I thought I'd check in with ya about that USIF search on Shep Proudfoot... Oh, yah?... Well, maybe I'll go visit with him if I have the... No, I can find that... Well, thanks a bunch. Say, d'ya happen to know a good place for lunch in the downtown area?... Yah, the Radisson... Oh, yah? Is it reasonable?",
+      "wordCount": 91
+    },
+    {
+      "id": 544,
+      "index": 544,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Yeah, I decided not to park here.",
+      "wordCount": 7
+    },
+    {
+      "id": 545,
+      "index": 545,
+      "character": "ATTENDANT",
+      "gender": "NA",
+      "line": "... What do you mean, you decided not to park here?",
+      "wordCount": 11
+    },
+    {
+      "id": 546,
+      "index": 546,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Yeah, I just came in. I decided not to park here.",
+      "wordCount": 11
+    },
+    {
+      "id": 547,
+      "index": 547,
+      "character": "ATTENDANT",
+      "gender": "NA",
+      "line": "You, uh... I'm sorry, sir, but -",
+      "wordCount": 7
+    },
+    {
+      "id": 548,
+      "index": 548,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "I decided not to - I'm, uh, not taking the trip as it turns out.",
+      "wordCount": 15
+    },
+    {
+      "id": 549,
+      "index": 549,
+      "character": "ATTENDANT",
+      "gender": "NA",
+      "line": "I'm sorry, sir, we do have to charge you the four dollars.",
+      "wordCount": 12
+    },
+    {
+      "id": 550,
+      "index": 550,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "I just pulled in here. I just fucking pulled in here!",
+      "wordCount": 11
+    },
+    {
+      "id": 551,
+      "index": 551,
+      "character": "ATTENDANT",
+      "gender": "NA",
+      "line": "Well, see, there's a minimum charge of four dollars. Long-term parking charges by the day.",
+      "wordCount": 15
+    },
+    {
+      "id": 552,
+      "index": 552,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "I guess you think, ya know, you're an authority figure. With that stupid fucking uniform. Huh, buddy?",
+      "wordCount": 17
+    },
+    {
+      "id": 553,
+      "index": 553,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "... King Clip-on Tie here. Big fucking man.",
+      "wordCount": 8
+    },
+    {
+      "id": 554,
+      "index": 554,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "... You know, these are the limits of your life, man. Ruler of your little fucking gate here. There's your four dollars. You pathetic piece of shit.",
+      "wordCount": 27
+    },
+    {
+      "id": 555,
+      "index": 555,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Where's Shep?",
+      "wordCount": 2
+    },
+    {
+      "id": 556,
+      "index": 556,
+      "character": "MECHANIC",
+      "gender": "NA",
+      "line": "Talkin' to a cop.",
+      "wordCount": 4
+    },
+    {
+      "id": 557,
+      "index": 557,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "... Cop?",
+      "wordCount": 2
+    },
+    {
+      "id": 558,
+      "index": 558,
+      "character": "MECHANIC",
+      "gender": "NA",
+      "line": "Said she was a policewoman.",
+      "wordCount": 5
+    },
+    {
+      "id": 559,
+      "index": 559,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "- Wednesday night?",
+      "wordCount": 3
+    },
+    {
+      "id": 560,
+      "index": 560,
+      "character": "SHEP",
+      "gender": "Male",
+      "line": "Nope.",
+      "wordCount": 1
+    },
+    {
+      "id": 561,
+      "index": 561,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Well, you do reside their at 1425 Fremont Terrace?",
+      "wordCount": 9
+    },
+    {
+      "id": 562,
+      "index": 562,
+      "character": "SHEP",
+      "gender": "Male",
+      "line": "Yep.",
+      "wordCount": 1
+    },
+    {
+      "id": 563,
+      "index": 563,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Anyone else residing there?",
+      "wordCount": 4
+    },
+    {
+      "id": 564,
+      "index": 564,
+      "character": "SHEP",
+      "gender": "Male",
+      "line": "Nope.",
+      "wordCount": 1
+    },
+    {
+      "id": 565,
+      "index": 565,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Well, Mr. Proudfoot, this call came in past three in the morning. It's just hard for me to believe you can't remember anyone calling.",
+      "wordCount": 24
+    },
+    {
+      "id": 566,
+      "index": 566,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "... Now, I know you've had some problems, struggling with the narcotics, some other entanglements, currently on parole -",
+      "wordCount": 19
+    },
+    {
+      "id": 567,
+      "index": 567,
+      "character": "SHEP",
+      "gender": "Male",
+      "line": "So?",
+      "wordCount": 1
+    },
+    {
+      "id": 568,
+      "index": 568,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Well, associating with criminals, if you're the one they talked to, that right there would be a violation of your parole and would end with you back in Stillwater.",
+      "wordCount": 29
+    },
+    {
+      "id": 569,
+      "index": 569,
+      "character": "SHEP",
+      "gender": "Male",
+      "line": "Uh-huh.",
+      "wordCount": 1
+    },
+    {
+      "id": 570,
+      "index": 570,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Now, I saw some rough stuff on your priors, but nothing in the nature of a homicide...",
+      "wordCount": 17
+    },
+    {
+      "id": 571,
+      "index": 571,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "... I know you don't want to be an accessory to something like that.",
+      "wordCount": 14
+    },
+    {
+      "id": 572,
+      "index": 572,
+      "character": "SHEP",
+      "gender": "Male",
+      "line": "Nope.",
+      "wordCount": 1
+    },
+    {
+      "id": 573,
+      "index": 573,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "So you think you might remember who those folks were who called ya?",
+      "wordCount": 13
+    },
+    {
+      "id": 574,
+      "index": 574,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Mr. Lundegaard?",
+      "wordCount": 2
+    },
+    {
+      "id": 575,
+      "index": 575,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Huh? Yah?",
+      "wordCount": 2
+    },
+    {
+      "id": 576,
+      "index": 576,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "I wonder if I could take just a minute of your time here -",
+      "wordCount": 14
+    },
+    {
+      "id": 577,
+      "index": 577,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "What... What is it all about?",
+      "wordCount": 6
+    },
+    {
+      "id": 578,
+      "index": 578,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Huh? Do you mind if I sit down - I'm carrying quite a load here.",
+      "wordCount": 15
+    },
+    {
+      "id": 579,
+      "index": 579,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "... You're the owner here, Mr. Lundegaard?",
+      "wordCount": 7
+    },
+    {
+      "id": 580,
+      "index": 580,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Naw, I... Executive Sales Manager.",
+      "wordCount": 5
+    },
+    {
+      "id": 581,
+      "index": 581,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Well, you can help me. My name's Marge Gunderson -",
+      "wordCount": 10
+    },
+    {
+      "id": 582,
+      "index": 582,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "My father-in-law, he's the owner.",
+      "wordCount": 5
+    },
+    {
+      "id": 583,
+      "index": 583,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Uh-huh. Well, I'm a police officer from up Brainerd investigating some malfeasance and I was just wondering if you've had any new vehicles stolen off the lot in the past couple of weeks - specifically a tan Cutlass Ciera?",
+      "wordCount": 39
+    },
+    {
+      "id": 584,
+      "index": 584,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "... Mr. Lundegaard?",
+      "wordCount": 3
+    },
+    {
+      "id": 585,
+      "index": 585,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "... Brainerd?",
+      "wordCount": 2
+    },
+    {
+      "id": 586,
+      "index": 586,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Yah. Yah. Home a Paul Bunyan and Babe the Blue Ox.",
+      "wordCount": 11
+    },
+    {
+      "id": 587,
+      "index": 587,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "... Babe the Blue Ox?",
+      "wordCount": 5
+    },
+    {
+      "id": 588,
+      "index": 588,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Yah, ya know we've got the big statue there. So you haven't had any vehicles go missing, then?",
+      "wordCount": 18
+    },
+    {
+      "id": 589,
+      "index": 589,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "No. No, ma'am.",
+      "wordCount": 3
+    },
+    {
+      "id": 590,
+      "index": 590,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Okey-dokey, thanks a bunch. I'll let you get back to your paperwork, then.",
+      "wordCount": 13
+    },
+    {
+      "id": 591,
+      "index": 591,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "... Yah, okay.",
+      "wordCount": 3
+    },
+    {
+      "id": 592,
+      "index": 592,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "... Yah, gimmee Shep... The heck d'ya mean?... Well, where'd he go? It's only... No, I don't need a mechanic - oh, geez - I gotta talk to a friend of his, so, uh ... have him, uh ... oh, geez...",
+      "wordCount": 41
+    },
+    {
+      "id": 593,
+      "index": 593,
+      "character": "VOICE",
+      "gender": "NA",
+      "line": "Marge?",
+      "wordCount": 1
+    },
+    {
+      "id": 594,
+      "index": 594,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Mike!",
+      "wordCount": 1
+    },
+    {
+      "id": 595,
+      "index": 595,
+      "character": "MIKE",
+      "gender": "NA",
+      "line": "Geez! You look great!",
+      "wordCount": 4
+    },
+    {
+      "id": 596,
+      "index": 596,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Yah - easy there - you do too! I'm expecting, ya know.",
+      "wordCount": 12
+    },
+    {
+      "id": 597,
+      "index": 597,
+      "character": "MIKE",
+      "gender": "NA",
+      "line": "I see that! That's great!",
+      "wordCount": 5
+    },
+    {
+      "id": 598,
+      "index": 598,
+      "character": "MIKE",
+      "gender": "NA",
+      "line": "... What can I get ya?",
+      "wordCount": 6
+    },
+    {
+      "id": 599,
+      "index": 599,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Just a Diet Coke.",
+      "wordCount": 4
+    },
+    {
+      "id": 600,
+      "index": 600,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "... This is a nice place.",
+      "wordCount": 6
+    },
+    {
+      "id": 601,
+      "index": 601,
+      "character": "MIKE",
+      "gender": "NA",
+      "line": "Yah, ya know it's the Radisson, so it's pretty good.",
+      "wordCount": 10
+    },
+    {
+      "id": 602,
+      "index": 602,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "You're livin' in Edina, then?",
+      "wordCount": 5
+    },
+    {
+      "id": 603,
+      "index": 603,
+      "character": "MIKE",
+      "gender": "NA",
+      "line": "Oh, yah, couple years now. It's actually Eden Prarie - that school district. So Chief Gunderson, then! So ya went and married Norm Son-of- a-Gunderson!",
+      "wordCount": 25
+    },
+    {
+      "id": 604,
+      "index": 604,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Oh, yah, a long time ago.",
+      "wordCount": 6
+    },
+    {
+      "id": 605,
+      "index": 605,
+      "character": "MIKE",
+      "gender": "NA",
+      "line": "Great. What brings ya down - are ya down here on that homicide - if you're allowed, ya know, to discuss that?",
+      "wordCount": 22
+    },
+    {
+      "id": 606,
+      "index": 606,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Oh, yah, but there's not a heckuva lot to discuss. What about you, Mike? Are you married - you have kids?",
+      "wordCount": 21
+    },
+    {
+      "id": 607,
+      "index": 607,
+      "character": "MIKE",
+      "gender": "NA",
+      "line": "Well, yah, I was married. I was married to - You mind if I sit over here?",
+      "wordCount": 17
+    },
+    {
+      "id": 608,
+      "index": 608,
+      "character": "MIKE",
+      "gender": "NA",
+      "line": "... I was married to Linda Cooksey -",
+      "wordCount": 8
+    },
+    {
+      "id": 609,
+      "index": 609,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "No, I - Mike - wyncha sit over there, I'd prefer that.",
+      "wordCount": 12
+    },
+    {
+      "id": 610,
+      "index": 610,
+      "character": "MIKE",
+      "gender": "NA",
+      "line": "Huh? Oh, okay, I'm sorry.",
+      "wordCount": 5
+    },
+    {
+      "id": 611,
+      "index": 611,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "No, just so I can see ya, ya know. Don't have to turn my neck.",
+      "wordCount": 15
+    },
+    {
+      "id": 612,
+      "index": 612,
+      "character": "MIKE",
+      "gender": "NA",
+      "line": "Oh, sure, I unnerstand, I didn't mean to -",
+      "wordCount": 9
+    },
+    {
+      "id": 613,
+      "index": 613,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "No, no, that's fine.",
+      "wordCount": 4
+    },
+    {
+      "id": 614,
+      "index": 614,
+      "character": "MIKE",
+      "gender": "NA",
+      "line": "Yah, sorry, so I was married to Linda Cooksey - ya remember Linda? She was a year behind us.",
+      "wordCount": 19
+    },
+    {
+      "id": 615,
+      "index": 615,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "I think I remember Linda, yah. She was - yah. So things didn't work out, huh?",
+      "wordCount": 16
+    },
+    {
+      "id": 616,
+      "index": 616,
+      "character": "MIKE",
+      "gender": "NA",
+      "line": "And then I, and then I been workin' for Honeywell for a few years now.",
+      "wordCount": 15
+    },
+    {
+      "id": 617,
+      "index": 617,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Well, they're a good outfit.",
+      "wordCount": 5
+    },
+    {
+      "id": 618,
+      "index": 618,
+      "character": "MIKE",
+      "gender": "NA",
+      "line": "Yah, if you're an engineer, yah, you could do a lot worse. Of course, it's not, uh, it's nothin' like your achievement.",
+      "wordCount": 22
+    },
+    {
+      "id": 619,
+      "index": 619,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "It sounds like you're doin' really super.",
+      "wordCount": 7
+    },
+    {
+      "id": 620,
+      "index": 620,
+      "character": "MIKE",
+      "gender": "NA",
+      "line": "Yah, well, I, uh ... it's not that it didn't work out - Linda passed away. She, uh...",
+      "wordCount": 18
+    },
+    {
+      "id": 621,
+      "index": 621,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "I'm sorry.",
+      "wordCount": 2
+    },
+    {
+      "id": 622,
+      "index": 622,
+      "character": "MIKE",
+      "gender": "NA",
+      "line": "Yah, I, uh... She had leukemia, you know...",
+      "wordCount": 8
+    },
+    {
+      "id": 623,
+      "index": 623,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "No, I didn't...",
+      "wordCount": 3
+    },
+    {
+      "id": 624,
+      "index": 624,
+      "character": "MIKE",
+      "gender": "NA",
+      "line": "It was a tough, uh ... it was a long - She fought real hard, Marge...",
+      "wordCount": 16
+    },
+    {
+      "id": 625,
+      "index": 625,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "I'm sorry, Mike.",
+      "wordCount": 3
+    },
+    {
+      "id": 626,
+      "index": 626,
+      "character": "MIKE",
+      "gender": "NA",
+      "line": "Oh, ya know, that's, uh - what can I say?...",
+      "wordCount": 10
+    },
+    {
+      "id": 627,
+      "index": 627,
+      "character": "MIKE",
+      "gender": "NA",
+      "line": "... Better times, huh?",
+      "wordCount": 4
+    },
+    {
+      "id": 628,
+      "index": 628,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Better times.",
+      "wordCount": 2
+    },
+    {
+      "id": 629,
+      "index": 629,
+      "character": "MIKE",
+      "gender": "NA",
+      "line": "I was so... I been so ... and then I saw you on TV, and I remembered, ya know... I always liked you...",
+      "wordCount": 23
+    },
+    {
+      "id": 630,
+      "index": 630,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Well, I always liked you, Mike.",
+      "wordCount": 6
+    },
+    {
+      "id": 631,
+      "index": 631,
+      "character": "MIKE",
+      "gender": "NA",
+      "line": "I always liked ya so much...",
+      "wordCount": 6
+    },
+    {
+      "id": 632,
+      "index": 632,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "It's okay, Mike - Should we get together another time, ya think?",
+      "wordCount": 12
+    },
+    {
+      "id": 633,
+      "index": 633,
+      "character": "MIKE",
+      "gender": "NA",
+      "line": "No - I'm sorry! It's just - I been so lonely - then I saw you, and...",
+      "wordCount": 17
+    },
+    {
+      "id": 634,
+      "index": 634,
+      "character": "MIKE",
+      "gender": "NA",
+      "line": "... I'm sorry... I shouldn't a done this... I thought we'd have a really terrific time, and now I've...",
+      "wordCount": 19
+    },
+    {
+      "id": 635,
+      "index": 635,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "It's okay...",
+      "wordCount": 2
+    },
+    {
+      "id": 636,
+      "index": 636,
+      "character": "MIKE",
+      "gender": "NA",
+      "line": "You were such a super lady ... and then I... I been so lonely...",
+      "wordCount": 14
+    },
+    {
+      "id": 637,
+      "index": 637,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "It's okay, Mike...",
+      "wordCount": 3
+    },
+    {
+      "id": 638,
+      "index": 638,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Just in town on business. Just in and out. Ha ha! A little of the old in-and-out!",
+      "wordCount": 17
+    },
+    {
+      "id": 639,
+      "index": 639,
+      "character": "WOMAN",
+      "gender": "NA",
+      "line": "Wuddya do?",
+      "wordCount": 2
+    },
+    {
+      "id": 640,
+      "index": 640,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Have ya been to the Celebrity Room before? With other, uh, clients?",
+      "wordCount": 12
+    },
+    {
+      "id": 641,
+      "index": 641,
+      "character": "WOMAN",
+      "gender": "NA",
+      "line": "I don't think so. It's nice.",
+      "wordCount": 6
+    },
+    {
+      "id": 642,
+      "index": 642,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Yeah, well, it depends on the artist. You know, Jose Feliciano, ya got no complaints. Waiter!",
+      "wordCount": 16
+    },
+    {
+      "id": 643,
+      "index": 643,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "... What is he, deaf?... So, uh, how long have you been with the escort service?",
+      "wordCount": 16
+    },
+    {
+      "id": 644,
+      "index": 644,
+      "character": "WOMAN",
+      "gender": "NA",
+      "line": "I don't know. Few munce.",
+      "wordCount": 5
+    },
+    {
+      "id": 645,
+      "index": 645,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Ya find the work interesting, do ya?",
+      "wordCount": 7
+    },
+    {
+      "id": 646,
+      "index": 646,
+      "character": "WOMAN",
+      "gender": "NA",
+      "line": "... What're you talking about?",
+      "wordCount": 5
+    },
+    {
+      "id": 647,
+      "index": 647,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Shep! What the hell are you doing? I'm banging that girl! Shep! Jesus Ch -",
+      "wordCount": 15
+    },
+    {
+      "id": 648,
+      "index": 648,
+      "character": "SHEP",
+      "gender": "Male",
+      "line": "Fuck out of my house!",
+      "wordCount": 5
+    },
+    {
+      "id": 649,
+      "index": 649,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Shep! Don't you dare fucking hit me, man! Don't you -",
+      "wordCount": 11
+    },
+    {
+      "id": 650,
+      "index": 650,
+      "character": "SHEP",
+      "gender": "Male",
+      "line": "Fuck outta here. Put me back in Stillwater. Little fucking shit.",
+      "wordCount": 11
+    },
+    {
+      "id": 651,
+      "index": 651,
+      "character": "VOICE",
+      "gender": "NA",
+      "line": "Hey! Come on in there!",
+      "wordCount": 5
+    },
+    {
+      "id": 652,
+      "index": 652,
+      "character": "MAN",
+      "gender": "Male",
+      "line": "C'mon, brother, it's late - Unghh!",
+      "wordCount": 6
+    },
+    {
+      "id": 653,
+      "index": 653,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Stay away from me, man! Hey! Smoke a fuckin' peace pipe, man! Don't you dare fuckin' - Unghh!",
+      "wordCount": 18
+    },
+    {
+      "id": 654,
+      "index": 654,
+      "character": "VOICE",
+      "gender": "NA",
+      "line": "... Yah?",
+      "wordCount": 2
+    },
+    {
+      "id": 655,
+      "index": 655,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "All right, Jerry, I'm through fucking around. You got the fucking money?",
+      "wordCount": 12
+    },
+    {
+      "id": 656,
+      "index": 656,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Yah, I got the money, but, uh -",
+      "wordCount": 8
+    },
+    {
+      "id": 657,
+      "index": 657,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Don't you fucking but me, Jerry. I want you with this money on the Dayton-Radisson parking ramp, top level, thirty minutes, and we'll wrap this up.",
+      "wordCount": 26
+    },
+    {
+      "id": 658,
+      "index": 658,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Yah, okay, but, uh -",
+      "wordCount": 5
+    },
+    {
+      "id": 659,
+      "index": 659,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "You're there in thirty minutes or I find you, Jerry, and I shoot you, and I shoot your fucking wife, and I shoot all your little fucking children, and I shoot 'em all in the back of their little fucking heads. Got it?",
+      "wordCount": 43
+    },
+    {
+      "id": 660,
+      "index": 660,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "... Yah, well, you stay away from Scotty now -",
+      "wordCount": 10
+    },
+    {
+      "id": 661,
+      "index": 661,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "GOT IT?",
+      "wordCount": 2
+    },
+    {
+      "id": 662,
+      "index": 662,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Okay, real good, then.",
+      "wordCount": 4
+    },
+    {
+      "id": 663,
+      "index": 663,
+      "character": "WADE",
+      "gender": "Male",
+      "line": "Okay ... here's your damn money, now where's my daughter?... Goddamn punk ... where's my damn daughter...",
+      "wordCount": 17
+    },
+    {
+      "id": 664,
+      "index": 664,
+      "character": "WADE",
+      "gender": "Male",
+      "line": "... You little punk.",
+      "wordCount": 4
+    },
+    {
+      "id": 665,
+      "index": 665,
+      "character": "VOICE",
+      "gender": "NA",
+      "line": "... Dad?",
+      "wordCount": 2
+    },
+    {
+      "id": 666,
+      "index": 666,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "It's okay, Scotty.",
+      "wordCount": 3
+    },
+    {
+      "id": 667,
+      "index": 667,
+      "character": "VOICE",
+      "gender": "NA",
+      "line": "Where're you going?",
+      "wordCount": 3
+    },
+    {
+      "id": 668,
+      "index": 668,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Be back in a minute. If Stan calls you, just tell him I went to Embers. Oh, geez -",
+      "wordCount": 19
+    },
+    {
+      "id": 669,
+      "index": 669,
+      "character": "VOICE",
+      "gender": "NA",
+      "line": "... Hello?",
+      "wordCount": 2
+    },
+    {
+      "id": 670,
+      "index": 670,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Norm?",
+      "wordCount": 1
+    },
+    {
+      "id": 671,
+      "index": 671,
+      "character": "MARGE'S VOICE",
+      "gender": "NA",
+      "line": "They bitin'?",
+      "wordCount": 2
+    },
+    {
+      "id": 672,
+      "index": 672,
+      "character": "NORM",
+      "gender": "NA",
+      "line": "Yah, okay. How's the hotel?",
+      "wordCount": 5
+    },
+    {
+      "id": 673,
+      "index": 673,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Oh, pretty good. They bitin'?",
+      "wordCount": 5
+    },
+    {
+      "id": 674,
+      "index": 674,
+      "character": "NORM",
+      "gender": "NA",
+      "line": "Yeah, couple a muskies. No pike yet. How d'you feel?",
+      "wordCount": 10
+    },
+    {
+      "id": 675,
+      "index": 675,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Oh, fine.",
+      "wordCount": 2
+    },
+    {
+      "id": 676,
+      "index": 676,
+      "character": "NORM",
+      "gender": "NA",
+      "line": "Not on your feet too much?",
+      "wordCount": 6
+    },
+    {
+      "id": 677,
+      "index": 677,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "No, no.",
+      "wordCount": 2
+    },
+    {
+      "id": 678,
+      "index": 678,
+      "character": "NORM",
+      "gender": "NA",
+      "line": "You shouldn't be on your feet too much, you got weight you're not used too. How's the food down there?",
+      "wordCount": 20
+    },
+    {
+      "id": 679,
+      "index": 679,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Had dinner at a place called the King's Table. Buffet style. It was pretty darn good.",
+      "wordCount": 16
+    },
+    {
+      "id": 680,
+      "index": 680,
+      "character": "NORM",
+      "gender": "NA",
+      "line": "Was it reasonable?",
+      "wordCount": 3
+    },
+    {
+      "id": 681,
+      "index": 681,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Yah, not too bad. So it's nice up there?",
+      "wordCount": 9
+    },
+    {
+      "id": 682,
+      "index": 682,
+      "character": "NORM",
+      "gender": "NA",
+      "line": "Yah, it's good. No pike yet, but it's good.",
+      "wordCount": 9
+    },
+    {
+      "id": 683,
+      "index": 683,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Who the fuck are you? Who the fuck are you?",
+      "wordCount": 10
+    },
+    {
+      "id": 684,
+      "index": 684,
+      "character": "WADE",
+      "gender": "Male",
+      "line": "I got your goddamn money, you little punk. Now where's my daughter?",
+      "wordCount": 12
+    },
+    {
+      "id": 685,
+      "index": 685,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "I am through fucking around! Drop that fucking briefcase!",
+      "wordCount": 9
+    },
+    {
+      "id": 686,
+      "index": 686,
+      "character": "WADE",
+      "gender": "Male",
+      "line": "Where's my daughter?",
+      "wordCount": 3
+    },
+    {
+      "id": 687,
+      "index": 687,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Fuck you, man! Where's Jerry? I gave SIMPLE FUCKING INSTRUCTIONS -",
+      "wordCount": 11
+    },
+    {
+      "id": 688,
+      "index": 688,
+      "character": "WADE",
+      "gender": "Male",
+      "line": "Where's my damn daughter? No Jean, no money!",
+      "wordCount": 8
+    },
+    {
+      "id": 689,
+      "index": 689,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Drop that fucking money!",
+      "wordCount": 4
+    },
+    {
+      "id": 690,
+      "index": 690,
+      "character": "WADE",
+      "gender": "Male",
+      "line": "No Jean, no money!",
+      "wordCount": 4
+    },
+    {
+      "id": 691,
+      "index": 691,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Is this a fucking joke here?",
+      "wordCount": 6
+    },
+    {
+      "id": 692,
+      "index": 692,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "... Is this a fucking joke?",
+      "wordCount": 6
+    },
+    {
+      "id": 693,
+      "index": 693,
+      "character": "WADE",
+      "gender": "Male",
+      "line": "Unghh ... oh, geez...",
+      "wordCount": 4
+    },
+    {
+      "id": 694,
+      "index": 694,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "You fucking imbeciles!",
+      "wordCount": 3
+    },
+    {
+      "id": 695,
+      "index": 695,
+      "character": "WADE",
+      "gender": "Male",
+      "line": "Oh, for Christ ... oh, geez...",
+      "wordCount": 6
+    },
+    {
+      "id": 696,
+      "index": 696,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Oh!",
+      "wordCount": 1
+    },
+    {
+      "id": 697,
+      "index": 697,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "... Owwmm...",
+      "wordCount": 2
+    },
+    {
+      "id": 698,
+      "index": 698,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "... Mmmmmphnck! He fnkem shop me...",
+      "wordCount": 6
+    },
+    {
+      "id": 699,
+      "index": 699,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Oh, geez!",
+      "wordCount": 2
+    },
+    {
+      "id": 700,
+      "index": 700,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Ophhem ma fuchem gaphe!",
+      "wordCount": 4
+    },
+    {
+      "id": 701,
+      "index": 701,
+      "character": "ATTENDANT",
+      "gender": "NA",
+      "line": "May I have your ticket, please?",
+      "wordCount": 6
+    },
+    {
+      "id": 702,
+      "index": 702,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Oh! Oh, geez!",
+      "wordCount": 3
+    },
+    {
+      "id": 703,
+      "index": 703,
+      "character": "SCOTT'S VOICE",
+      "gender": "NA",
+      "line": "... Dad?",
+      "wordCount": 2
+    },
+    {
+      "id": 704,
+      "index": 704,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Yah.",
+      "wordCount": 1
+    },
+    {
+      "id": 705,
+      "index": 705,
+      "character": "SCOTT'S VOICE",
+      "gender": "NA",
+      "line": "Stan Grossman called.",
+      "wordCount": 3
+    },
+    {
+      "id": 706,
+      "index": 706,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Yah, okay.",
+      "wordCount": 2
+    },
+    {
+      "id": 707,
+      "index": 707,
+      "character": "SCOTT'S VOICE",
+      "gender": "NA",
+      "line": "Twice.",
+      "wordCount": 1
+    },
+    {
+      "id": 708,
+      "index": 708,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Okay.",
+      "wordCount": 1
+    },
+    {
+      "id": 709,
+      "index": 709,
+      "character": "SCOTT'S VOICE",
+      "gender": "NA",
+      "line": "... Is everything okay?",
+      "wordCount": 4
+    },
+    {
+      "id": 710,
+      "index": 710,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Yah.",
+      "wordCount": 1
+    },
+    {
+      "id": 711,
+      "index": 711,
+      "character": "SCOTT'S VOICE",
+      "gender": "NA",
+      "line": "Are you calling Stan?",
+      "wordCount": 4
+    },
+    {
+      "id": 712,
+      "index": 712,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Well... I'm goin' ta bed now.",
+      "wordCount": 6
+    },
+    {
+      "id": 713,
+      "index": 713,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "... Fnnkn ashlzh... Fnk...",
+      "wordCount": 4
+    },
+    {
+      "id": 714,
+      "index": 714,
+      "character": "MAN",
+      "gender": "Male",
+      "line": "How ya doin'?",
+      "wordCount": 3
+    },
+    {
+      "id": 715,
+      "index": 715,
+      "character": "GARY",
+      "gender": "NA",
+      "line": "Mr. Mohra?",
+      "wordCount": 2
+    },
+    {
+      "id": 716,
+      "index": 716,
+      "character": "MAN",
+      "gender": "Male",
+      "line": "Yah.",
+      "wordCount": 1
+    },
+    {
+      "id": 717,
+      "index": 717,
+      "character": "GARY",
+      "gender": "NA",
+      "line": "Officer Olson.",
+      "wordCount": 2
+    },
+    {
+      "id": 718,
+      "index": 718,
+      "character": "MAN",
+      "gender": "Male",
+      "line": "Yah, right-o.",
+      "wordCount": 2
+    },
+    {
+      "id": 719,
+      "index": 719,
+      "character": "MAN",
+      "gender": "Male",
+      "line": "... So, I'm tendin' bar there at Ecklund && Swedlin's last Tuesday and this little guy's drinkin' and he says, 'So where can a guy find some action - I'm goin' crazy down there at the lake.' And I says, 'What kinda action?' and he says, 'Woman action, what do I look like,' And I says 'Well, what do I look like, I don't arrange that kinda thing,' and he says, 'I'm goin' crazy out there at the lake' and I says, 'Well, this ain't that kinda place.'",
+      "wordCount": 88
+    },
+    {
+      "id": 720,
+      "index": 720,
+      "character": "GARY",
+      "gender": "NA",
+      "line": "Uh-huh.",
+      "wordCount": 1
+    },
+    {
+      "id": 721,
+      "index": 721,
+      "character": "MAN",
+      "gender": "Male",
+      "line": "So he says, 'So I get it, so you think I'm some kinda jerk for askin',' only he doesn't use the word jerk.",
+      "wordCount": 23
+    },
+    {
+      "id": 722,
+      "index": 722,
+      "character": "GARY",
+      "gender": "NA",
+      "line": "I unnerstand.",
+      "wordCount": 2
+    },
+    {
+      "id": 723,
+      "index": 723,
+      "character": "MAN",
+      "gender": "Male",
+      "line": "And then he calls me a jerk and says the last guy who thought he was a jerk was dead now. So I don't say nothin' and he says, 'What do ya think about that?' So I says, 'Well, that don't sound like too good a deal for him then.'",
+      "wordCount": 50
+    },
+    {
+      "id": 724,
+      "index": 724,
+      "character": "GARY",
+      "gender": "NA",
+      "line": "Ya got that right.",
+      "wordCount": 4
+    },
+    {
+      "id": 725,
+      "index": 725,
+      "character": "MAN",
+      "gender": "Male",
+      "line": "And he says, 'Yah, that guy's dead and I don't mean a old age.' And then he says, 'Geez, I'm goin' crazy out there at the lake.'",
+      "wordCount": 27
+    },
+    {
+      "id": 726,
+      "index": 726,
+      "character": "GARY",
+      "gender": "NA",
+      "line": "White Bear Lake?",
+      "wordCount": 3
+    },
+    {
+      "id": 727,
+      "index": 727,
+      "character": "MAN",
+      "gender": "Male",
+      "line": "Well, Ecklund && Swedlin's, that's closer ta Moose Lake, so I made that assumption.",
+      "wordCount": 14
+    },
+    {
+      "id": 728,
+      "index": 728,
+      "character": "GARY",
+      "gender": "NA",
+      "line": "Oh sure.",
+      "wordCount": 2
+    },
+    {
+      "id": 729,
+      "index": 729,
+      "character": "MAN",
+      "gender": "Male",
+      "line": "So, ya know, he's drinkin', so I don't think a whole great deal of it, but Mrs. Mohra heard about the homicides out here and she thought I should call it in, so I called it in. End a story.",
+      "wordCount": 40
+    },
+    {
+      "id": 730,
+      "index": 730,
+      "character": "GARY",
+      "gender": "NA",
+      "line": "What'd this guy look like anyways?",
+      "wordCount": 6
+    },
+    {
+      "id": 731,
+      "index": 731,
+      "character": "MAN",
+      "gender": "Male",
+      "line": "Oh, he was a little guy, kinda funny-lookin'.",
+      "wordCount": 8
+    },
+    {
+      "id": 732,
+      "index": 732,
+      "character": "GARY",
+      "gender": "NA",
+      "line": "Uh-huh - in what way?",
+      "wordCount": 5
+    },
+    {
+      "id": 733,
+      "index": 733,
+      "character": "MAN",
+      "gender": "Male",
+      "line": "Just a general way.",
+      "wordCount": 4
+    },
+    {
+      "id": 734,
+      "index": 734,
+      "character": "GARY",
+      "gender": "NA",
+      "line": "Okay, well, thanks a bunch, Mr. Mohra. You're right, it's probably nothin', but thanks for callin' her in.",
+      "wordCount": 18
+    },
+    {
+      "id": 735,
+      "index": 735,
+      "character": "MAN",
+      "gender": "Male",
+      "line": "Oh sure. They say she's gonna turn cold tomorrow.",
+      "wordCount": 9
+    },
+    {
+      "id": 736,
+      "index": 736,
+      "character": "GARY",
+      "gender": "NA",
+      "line": "Yah, got a front movin' in.",
+      "wordCount": 6
+    },
+    {
+      "id": 737,
+      "index": 737,
+      "character": "MAN",
+      "gender": "Male",
+      "line": "Ya got that right.",
+      "wordCount": 4
+    },
+    {
+      "id": 738,
+      "index": 738,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "... Mmmnphh.",
+      "wordCount": 2
+    },
+    {
+      "id": 739,
+      "index": 739,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "... Jeshush Shrist... Jeshush fuchem Shrist!",
+      "wordCount": 6
+    },
+    {
+      "id": 740,
+      "index": 740,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Mmmphh...",
+      "wordCount": 1
+    },
+    {
+      "id": 741,
+      "index": 741,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "No, I'm leavin' this mornin', back up to Brainerd.",
+      "wordCount": 9
+    },
+    {
+      "id": 742,
+      "index": 742,
+      "character": "VOICE",
+      "gender": "NA",
+      "line": "Well, I'm sorry I won't see ya.",
+      "wordCount": 7
+    },
+    {
+      "id": 743,
+      "index": 743,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Mm. But ya think he's all right? I saw him last night and he's -",
+      "wordCount": 15
+    },
+    {
+      "id": 744,
+      "index": 744,
+      "character": "VOICE",
+      "gender": "NA",
+      "line": "What'd he say?",
+      "wordCount": 3
+    },
+    {
+      "id": 745,
+      "index": 745,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Well, it was nothin' specific he said, it just seemd like it all hit him really hard, his wife dyin' -",
+      "wordCount": 21
+    },
+    {
+      "id": 746,
+      "index": 746,
+      "character": "VOICE",
+      "gender": "NA",
+      "line": "His wife?",
+      "wordCount": 2
+    },
+    {
+      "id": 747,
+      "index": 747,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Linda.",
+      "wordCount": 1
+    },
+    {
+      "id": 748,
+      "index": 748,
+      "character": "VOICE",
+      "gender": "NA",
+      "line": "No.",
+      "wordCount": 1
+    },
+    {
+      "id": 749,
+      "index": 749,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Linda Cooksey?",
+      "wordCount": 2
+    },
+    {
+      "id": 750,
+      "index": 750,
+      "character": "VOICE",
+      "gender": "NA",
+      "line": "No. No. No. They weren't - he, uh, he was bothering Linda for about, oh, for a good year. Really pestering her, wouldn't leave her alone.",
+      "wordCount": 26
+    },
+    {
+      "id": 751,
+      "index": 751,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "So ... they didn't...",
+      "wordCount": 4
+    },
+    {
+      "id": 752,
+      "index": 752,
+      "character": "VOICE",
+      "gender": "NA",
+      "line": "No. No. They never married. Mike's had psychiatric problems.",
+      "wordCount": 9
+    },
+    {
+      "id": 753,
+      "index": 753,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Oh. Oh, my.",
+      "wordCount": 3
+    },
+    {
+      "id": 754,
+      "index": 754,
+      "character": "VOICE",
+      "gender": "NA",
+      "line": "Yah, he - he's been struggling. He's living with his parents now.",
+      "wordCount": 12
+    },
+    {
+      "id": 755,
+      "index": 755,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Oh. Geez.",
+      "wordCount": 2
+    },
+    {
+      "id": 756,
+      "index": 756,
+      "character": "VOICE",
+      "gender": "NA",
+      "line": "Yah, Linda's fine. You should call her.",
+      "wordCount": 7
+    },
+    {
+      "id": 757,
+      "index": 757,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Geez. Well - geez. That's a suprise.",
+      "wordCount": 7
+    },
+    {
+      "id": 758,
+      "index": 758,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Hello?",
+      "wordCount": 1
+    },
+    {
+      "id": 759,
+      "index": 759,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Mr. Lundegaard? Sorry to bother you again. Can I come in?",
+      "wordCount": 11
+    },
+    {
+      "id": 760,
+      "index": 760,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Yah, no, I'm kinda - I'm kinda busy -",
+      "wordCount": 9
+    },
+    {
+      "id": 761,
+      "index": 761,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "I unnerstand. I'll keep it real short, then. I'm on my way out of town, but I was just - Do you mind if I sit down? I'm carrying a bit of a load here.",
+      "wordCount": 35
+    },
+    {
+      "id": 762,
+      "index": 762,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "No, I -",
+      "wordCount": 3
+    },
+    {
+      "id": 763,
+      "index": 763,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Yah, it's this vehicle I asked you about yesterday. I was just wondering -",
+      "wordCount": 14
+    },
+    {
+      "id": 764,
+      "index": 764,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Yah, like I told ya, we haven't had any vehicles go missing.",
+      "wordCount": 12
+    },
+    {
+      "id": 765,
+      "index": 765,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Okay, are you sure, cause, I mean, how do you know? Because, see, the crime I'm investigating, the perpetrators were driving a car with dealer plates. And they called someone who works here, so it'd be quite a coincidence if they weren't, ya know, connected.",
+      "wordCount": 45
+    },
+    {
+      "id": 766,
+      "index": 766,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Yah, I see.",
+      "wordCount": 3
+    },
+    {
+      "id": 767,
+      "index": 767,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "So how do you - have you done any kind of inventory recently?",
+      "wordCount": 13
+    },
+    {
+      "id": 768,
+      "index": 768,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "The car's not from our lot, ma'am.",
+      "wordCount": 7
+    },
+    {
+      "id": 769,
+      "index": 769,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "but do you know that for sure without -",
+      "wordCount": 9
+    },
+    {
+      "id": 770,
+      "index": 770,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Well, I would know. I'm the Executive Sales Manager.",
+      "wordCount": 9
+    },
+    {
+      "id": 771,
+      "index": 771,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Yah, but -",
+      "wordCount": 3
+    },
+    {
+      "id": 772,
+      "index": 772,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "We run a pretty tight ship here.",
+      "wordCount": 7
+    },
+    {
+      "id": 773,
+      "index": 773,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "I know, but - well, how do you establish that, sir? Are the cars, uh, counted daily or what kind of -",
+      "wordCount": 22
+    },
+    {
+      "id": 774,
+      "index": 774,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Ma'am, I answered your question.",
+      "wordCount": 5
+    },
+    {
+      "id": 775,
+      "index": 775,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "... I'm sorry, sir?",
+      "wordCount": 4
+    },
+    {
+      "id": 776,
+      "index": 776,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Ma'am, I answered your question. I answered the darn - I'm cooperating here, and I...",
+      "wordCount": 15
+    },
+    {
+      "id": 777,
+      "index": 777,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Sir, you have no call to get snippy with me. I'm just doin' my job here.",
+      "wordCount": 16
+    },
+    {
+      "id": 778,
+      "index": 778,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "I'm not, uh, I'm not arguin' here. I'm cooperating... There's no, uh - we're doin' all we can...",
+      "wordCount": 18
+    },
+    {
+      "id": 779,
+      "index": 779,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Sir, could I talk to Mr. Gustafson?",
+      "wordCount": 7
+    },
+    {
+      "id": 780,
+      "index": 780,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "... Mr. Lundegaard?",
+      "wordCount": 3
+    },
+    {
+      "id": 781,
+      "index": 781,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Well, heck, if you wanna, if you wanna play games here! I'm workin' with ya on this thing, but I...",
+      "wordCount": 20
+    },
+    {
+      "id": 782,
+      "index": 782,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Okay, I'll do a damned lot count!",
+      "wordCount": 7
+    },
+    {
+      "id": 783,
+      "index": 783,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Sir? Right now?",
+      "wordCount": 3
+    },
+    {
+      "id": 784,
+      "index": 784,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Sure right now! You're darned tootin'!",
+      "wordCount": 6
+    },
+    {
+      "id": 785,
+      "index": 785,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "... If it's so damned imporant to ya!",
+      "wordCount": 8
+    },
+    {
+      "id": 786,
+      "index": 786,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "I'm sorry, sir, I -",
+      "wordCount": 5
+    },
+    {
+      "id": 787,
+      "index": 787,
+      "character": "JERRY",
+      "gender": "Male",
+      "line": "Aw, what the Christ!",
+      "wordCount": 4
+    },
+    {
+      "id": 788,
+      "index": 788,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "... Oh, for Pete's sake.",
+      "wordCount": 5
+    },
+    {
+      "id": 789,
+      "index": 789,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "... Oh, for Pete's sake...",
+      "wordCount": 5
+    },
+    {
+      "id": 790,
+      "index": 790,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "... For Pete's s- he's fleein' the interview. He's feelin' the interview...",
+      "wordCount": 12
+    },
+    {
+      "id": 791,
+      "index": 791,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "... Detective Sibert, please...",
+      "wordCount": 4
+    },
+    {
+      "id": 792,
+      "index": 792,
+      "character": "WOMAN",
+      "gender": "NA",
+      "line": "Well, so far we're just saying he's wanted for questioning in connection with a triple homicide. Nobody at the dealship there's been much help guessing where he might go...",
+      "wordCount": 29
+    },
+    {
+      "id": 793,
+      "index": 793,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Uh-huh.",
+      "wordCount": 1
+    },
+    {
+      "id": 794,
+      "index": 794,
+      "character": "WOMAN",
+      "gender": "NA",
+      "line": "We called his house; his little boy said he hadn't been there.",
+      "wordCount": 12
+    },
+    {
+      "id": 795,
+      "index": 795,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "And his wife?",
+      "wordCount": 3
+    },
+    {
+      "id": 796,
+      "index": 796,
+      "character": "WOMAN",
+      "gender": "NA",
+      "line": "She's visiting relatives in Florida. Now his boss, this guy Gustafson, he's also disappeared. Nobody at his office knows where he is.",
+      "wordCount": 22
+    },
+    {
+      "id": 797,
+      "index": 797,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Geez. Looks like this thing goes higher than we thought. You call his home?",
+      "wordCount": 14
+    },
+    {
+      "id": 798,
+      "index": 798,
+      "character": "WOMAN",
+      "gender": "NA",
+      "line": "His wife's in the hospital, has been for a couple months. The big C.",
+      "wordCount": 14
+    },
+    {
+      "id": 799,
+      "index": 799,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Oh, my.",
+      "wordCount": 2
+    },
+    {
+      "id": 800,
+      "index": 800,
+      "character": "WOMAN",
+      "gender": "NA",
+      "line": "And this Shep Proudfoot character, he's a little darling. He's now wanted for assault and parole violation. He clobbered a neighbor of his last night and another person who could be one of your perps, and he's at large.",
+      "wordCount": 39
+    },
+    {
+      "id": 801,
+      "index": 801,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Boy, this thing is really ... geez.",
+      "wordCount": 7
+    },
+    {
+      "id": 802,
+      "index": 802,
+      "character": "WOMAN",
+      "gender": "NA",
+      "line": "Well, they're all out on the wire. Well, you know...",
+      "wordCount": 10
+    },
+    {
+      "id": 803,
+      "index": 803,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Yah. Well, I just can't thank you enough, Detective Sibert, this cooperation has been outstanding.",
+      "wordCount": 15
+    },
+    {
+      "id": 804,
+      "index": 804,
+      "character": "DETECTIVE SIBERT",
+      "gender": "NA",
+      "line": "Ah, well, we haven't had to run around like you. When're you due?",
+      "wordCount": 13
+    },
+    {
+      "id": 805,
+      "index": 805,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "End a April.",
+      "wordCount": 3
+    },
+    {
+      "id": 806,
+      "index": 806,
+      "character": "DETECTIVE SIBERT",
+      "gender": "NA",
+      "line": "Any others?",
+      "wordCount": 2
+    },
+    {
+      "id": 807,
+      "index": 807,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "This'll be our first. We've been waiting a long time.",
+      "wordCount": 10
+    },
+    {
+      "id": 808,
+      "index": 808,
+      "character": "DETECTIVE SIBERT",
+      "gender": "NA",
+      "line": "That's wonderful. Mm-mm. It'll change your life, a course.",
+      "wordCount": 9
+    },
+    {
+      "id": 809,
+      "index": 809,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Oh, yah, I know that!",
+      "wordCount": 5
+    },
+    {
+      "id": 810,
+      "index": 810,
+      "character": "DETECTIVE SIBERT",
+      "gender": "NA",
+      "line": "They can really take over, that's for sure.",
+      "wordCount": 8
+    },
+    {
+      "id": 811,
+      "index": 811,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "You have children?",
+      "wordCount": 3
+    },
+    {
+      "id": 812,
+      "index": 812,
+      "character": "DETECTIVE SIBERT",
+      "gender": "NA",
+      "line": "I thought you'd never ask. The older one is Janet, she's nine, and the younger one is Morgan.",
+      "wordCount": 18
+    },
+    {
+      "id": 813,
+      "index": 813,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Oh, now he's adorable.",
+      "wordCount": 4
+    },
+    {
+      "id": 814,
+      "index": 814,
+      "character": "DETECTIVE SIBERT",
+      "gender": "NA",
+      "line": "He's three now. Course, not in that picture.",
+      "wordCount": 8
+    },
+    {
+      "id": 815,
+      "index": 815,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Oh, he's adorable.",
+      "wordCount": 3
+    },
+    {
+      "id": 816,
+      "index": 816,
+      "character": "DETECTIVE SIBERT",
+      "gender": "NA",
+      "line": "Yah, he -",
+      "wordCount": 3
+    },
+    {
+      "id": 817,
+      "index": 817,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Where'd you get him that parka?",
+      "wordCount": 6
+    },
+    {
+      "id": 818,
+      "index": 818,
+      "character": "DETECTIVE SIBERT",
+      "gender": "NA",
+      "line": "Both of these.",
+      "wordCount": 3
+    },
+    {
+      "id": 819,
+      "index": 819,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Oh, no, I can't let you do that.",
+      "wordCount": 8
+    },
+    {
+      "id": 820,
+      "index": 820,
+      "character": "DETECTIVE SIBERT",
+      "gender": "NA",
+      "line": "Oh, don't be silly.",
+      "wordCount": 4
+    },
+    {
+      "id": 821,
+      "index": 821,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Well, okay - thank you, Detective.",
+      "wordCount": 6
+    },
+    {
+      "id": 822,
+      "index": 822,
+      "character": "DETECTIVE SIBERT",
+      "gender": "NA",
+      "line": "Oh, don't be silly.",
+      "wordCount": 4
+    },
+    {
+      "id": 823,
+      "index": 823,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "You should she zhe uzher guy!",
+      "wordCount": 6
+    },
+    {
+      "id": 824,
+      "index": 824,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "... The fuck happen a her?",
+      "wordCount": 6
+    },
+    {
+      "id": 825,
+      "index": 825,
+      "character": "GRIMSRUD",
+      "gender": "Male",
+      "line": "She started shrieking, you know.",
+      "wordCount": 5
+    },
+    {
+      "id": 826,
+      "index": 826,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Jezhush.",
+      "wordCount": 1
+    },
+    {
+      "id": 827,
+      "index": 827,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "... Well, I gotta muddy.",
+      "wordCount": 5
+    },
+    {
+      "id": 828,
+      "index": 828,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "... All of it. All eighty gran. Forty for you...",
+      "wordCount": 10
+    },
+    {
+      "id": 829,
+      "index": 829,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "... Forty for me. Sho thishuzh it. Adiosh.",
+      "wordCount": 8
+    },
+    {
+      "id": 830,
+      "index": 830,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "... You c'n'ave my truck. I'm takin' a Shiera.",
+      "wordCount": 9
+    },
+    {
+      "id": 831,
+      "index": 831,
+      "character": "GRIMSRUD",
+      "gender": "Male",
+      "line": "We split that.",
+      "wordCount": 3
+    },
+    {
+      "id": 832,
+      "index": 832,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "HOW THE FUCK DO WE SHPLITTA FUCKIN' CAR? Ya dummy! Widda fuckin' chainshaw?",
+      "wordCount": 13
+    },
+    {
+      "id": 833,
+      "index": 833,
+      "character": "GRIMSRUD",
+      "gender": "Male",
+      "line": "One of us pays the other for half.",
+      "wordCount": 8
+    },
+    {
+      "id": 834,
+      "index": 834,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "HOLD ON! NO FUCKIN' WAY! YOU FUCKIN' NOTISH ISH? I GOT FUCKIN' SHOT INNA FAISH! I WENT'N GOTTA FUCKIN' MONEY! I GET SHOT FUCKIN' PICKIN' IT UP! I BEEN UP FOR",
+      "wordCount": 31
+    },
+    {
+      "id": 835,
+      "index": 835,
+      "character": "THIRTY-SHIKSH FUCKIN' HOURZH! I'M",
+      "gender": "NA",
+      "line": "TAKIN' THAT FUCKIN' CAR! THAT FUCKERZH MINE!",
+      "wordCount": 7
+    },
+    {
+      "id": 836,
+      "index": 836,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "... YOU FUCKIN' ASH-HOLE! I LISHEN A YOUR BULLSHIT FOR A WHOLE FUCKIN' WEEK!",
+      "wordCount": 14
+    },
+    {
+      "id": 837,
+      "index": 837,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "... Are we shquare?",
+      "wordCount": 4
+    },
+    {
+      "id": 838,
+      "index": 838,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "... ARE WE SHQUARE?",
+      "wordCount": 4
+    },
+    {
+      "id": 839,
+      "index": 839,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "... Fuckin' ash-hole. And if you shee your friend Shep Proudpfut, tell him I'm gonna NAIL hizh fuckin' ash.",
+      "wordCount": 19
+    },
+    {
+      "id": 840,
+      "index": 840,
+      "character": "VOICE",
+      "gender": "NA",
+      "line": "His wife. This guy says she was kidnapped last Wednesday.",
+      "wordCount": 10
+    },
+    {
+      "id": 841,
+      "index": 841,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "The day of our homicides.",
+      "wordCount": 5
+    },
+    {
+      "id": 842,
+      "index": 842,
+      "character": "VOICE",
+      "gender": "NA",
+      "line": "Yah.",
+      "wordCount": 1
+    },
+    {
+      "id": 843,
+      "index": 843,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "And this guy is...",
+      "wordCount": 4
+    },
+    {
+      "id": 844,
+      "index": 844,
+      "character": "VOICE",
+      "gender": "NA",
+      "line": "Lundegaard's father-in-law's accountant.",
+      "wordCount": 3
+    },
+    {
+      "id": 845,
+      "index": 845,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Gustafson's accountant.",
+      "wordCount": 2
+    },
+    {
+      "id": 846,
+      "index": 846,
+      "character": "VOICE",
+      "gender": "NA",
+      "line": "Yah.",
+      "wordCount": 1
+    },
+    {
+      "id": 847,
+      "index": 847,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "But we still haven't found Gustafson.",
+      "wordCount": 6
+    },
+    {
+      "id": 848,
+      "index": 848,
+      "character": "VOICE",
+      "gender": "NA",
+      "line": "- looking.",
+      "wordCount": 2
+    },
+    {
+      "id": 849,
+      "index": 849,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Sorry - didn't copy.",
+      "wordCount": 4
+    },
+    {
+      "id": 850,
+      "index": 850,
+      "character": "VOICE",
+      "gender": "NA",
+      "line": "Still missing. We're looking.",
+      "wordCount": 4
+    },
+    {
+      "id": 851,
+      "index": 851,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Copy. And Lundegaard too.",
+      "wordCount": 4
+    },
+    {
+      "id": 852,
+      "index": 852,
+      "character": "VOICE",
+      "gender": "NA",
+      "line": "Yah. Where are ya, Margie?",
+      "wordCount": 5
+    },
+    {
+      "id": 853,
+      "index": 853,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Oh, I'm almost back - I'm driving around Moose Lake.",
+      "wordCount": 10
+    },
+    {
+      "id": 854,
+      "index": 854,
+      "character": "VOICE",
+      "gender": "NA",
+      "line": "Oh. Gary's loudmouth.",
+      "wordCount": 3
+    },
+    {
+      "id": 855,
+      "index": 855,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Yah, the loudmouth. So the whole state has it, Lundegaard and Gustafson?",
+      "wordCount": 12
+    },
+    {
+      "id": 856,
+      "index": 856,
+      "character": "VOICE",
+      "gender": "NA",
+      "line": "Yah, it's over the wire, it's everywhere, they'll find 'em.",
+      "wordCount": 10
+    },
+    {
+      "id": 857,
+      "index": 857,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Copy.",
+      "wordCount": 1
+    },
+    {
+      "id": 858,
+      "index": 858,
+      "character": "VOICE",
+      "gender": "NA",
+      "line": "We've got a -",
+      "wordCount": 4
+    },
+    {
+      "id": 859,
+      "index": 859,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "There's the car! There's the car!",
+      "wordCount": 6
+    },
+    {
+      "id": 860,
+      "index": 860,
+      "character": "VOICE",
+      "gender": "NA",
+      "line": "Whose car?",
+      "wordCount": 2
+    },
+    {
+      "id": 861,
+      "index": 861,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "My car! My car! Tan Ciera!",
+      "wordCount": 6
+    },
+    {
+      "id": 862,
+      "index": 862,
+      "character": "VOICE",
+      "gender": "NA",
+      "line": "Don't go in! Wait for back-up!",
+      "wordCount": 6
+    },
+    {
+      "id": 863,
+      "index": 863,
+      "character": "VOICE",
+      "gender": "NA",
+      "line": "... Chief Gunderson?",
+      "wordCount": 3
+    },
+    {
+      "id": 864,
+      "index": 864,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Copy. Yah, send me back-up!",
+      "wordCount": 5
+    },
+    {
+      "id": 865,
+      "index": 865,
+      "character": "VOICE",
+      "gender": "NA",
+      "line": "Yes, ma'am. Are we the closest PD?",
+      "wordCount": 7
+    },
+    {
+      "id": 866,
+      "index": 866,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Yah, Menominie only has Chief Perpich and he takes February off to go to Boundary Waters.",
+      "wordCount": 16
+    },
+    {
+      "id": 867,
+      "index": 867,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Stop! Police! Turn around and hands up!",
+      "wordCount": 7
+    },
+    {
+      "id": 868,
+      "index": 868,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "... Hands up!",
+      "wordCount": 3
+    },
+    {
+      "id": 869,
+      "index": 869,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "... Police!",
+      "wordCount": 2
+    },
+    {
+      "id": 870,
+      "index": 870,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "... Halt!",
+      "wordCount": 2
+    },
+    {
+      "id": 871,
+      "index": 871,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "... Halt!",
+      "wordCount": 2
+    },
+    {
+      "id": 872,
+      "index": 872,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "... Halt!",
+      "wordCount": 2
+    },
+    {
+      "id": 873,
+      "index": 873,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "... All right, buddy. On your belly and your hands clasped behind you.",
+      "wordCount": 13
+    },
+    {
+      "id": 874,
+      "index": 874,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "... So that was Mrs. Lundegaard in there?",
+      "wordCount": 8
+    },
+    {
+      "id": 875,
+      "index": 875,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "... I guess that was your accomplice in the wood chipper.",
+      "wordCount": 11
+    },
+    {
+      "id": 876,
+      "index": 876,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "... And those three people in Brainerd.",
+      "wordCount": 7
+    },
+    {
+      "id": 877,
+      "index": 877,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "... And for what? For a little bit of money.",
+      "wordCount": 10
+    },
+    {
+      "id": 878,
+      "index": 878,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "... There's more to life than money, you know.",
+      "wordCount": 9
+    },
+    {
+      "id": 879,
+      "index": 879,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "... Don't you know that?... And here ya are, and it's a beautiful day...",
+      "wordCount": 14
+    },
+    {
+      "id": 880,
+      "index": 880,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "... Well...",
+      "wordCount": 2
+    },
+    {
+      "id": 881,
+      "index": 881,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "... I just don't unnerstand it.",
+      "wordCount": 6
+    },
+    {
+      "id": 882,
+      "index": 882,
+      "character": "COP ONE",
+      "gender": "NA",
+      "line": "Mr. Anderson...",
+      "wordCount": 2
+    },
+    {
+      "id": 883,
+      "index": 883,
+      "character": "VOICE",
+      "gender": "NA",
+      "line": "... Who?...",
+      "wordCount": 2
+    },
+    {
+      "id": 884,
+      "index": 884,
+      "character": "COP ONE",
+      "gender": "NA",
+      "line": "Mr. Anderson, is this your burgundy 88 out here?",
+      "wordCount": 9
+    },
+    {
+      "id": 885,
+      "index": 885,
+      "character": "VOICE",
+      "gender": "NA",
+      "line": "... Just a sec.",
+      "wordCount": 4
+    },
+    {
+      "id": 886,
+      "index": 886,
+      "character": "COP ONE",
+      "gender": "NA",
+      "line": "Could you open the door, please?",
+      "wordCount": 6
+    },
+    {
+      "id": 887,
+      "index": 887,
+      "character": "VOICE",
+      "gender": "NA",
+      "line": "... Yah. Yah, just a sec.",
+      "wordCount": 6
+    },
+    {
+      "id": 888,
+      "index": 888,
+      "character": "VOICE",
+      "gender": "NA",
+      "line": "... Just a sec...",
+      "wordCount": 4
+    },
+    {
+      "id": 889,
+      "index": 889,
+      "character": "COP ONE",
+      "gender": "NA",
+      "line": "Dale!",
+      "wordCount": 1
+    },
+    {
+      "id": 890,
+      "index": 890,
+      "character": "COP ONE",
+      "gender": "NA",
+      "line": "Call an ambulance!",
+      "wordCount": 3
+    },
+    {
+      "id": 891,
+      "index": 891,
+      "character": "COP TWO",
+      "gender": "NA",
+      "line": "You got him okay?",
+      "wordCount": 4
+    },
+    {
+      "id": 892,
+      "index": 892,
+      "character": "COP ONE",
+      "gender": "NA",
+      "line": "Yah, yah, call an ambulance.",
+      "wordCount": 5
+    },
+    {
+      "id": 893,
+      "index": 893,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Oooph!",
+      "wordCount": 1
+    },
+    {
+      "id": 894,
+      "index": 894,
+      "character": "NORM",
+      "gender": "NA",
+      "line": "They announced it.",
+      "wordCount": 3
+    },
+    {
+      "id": 895,
+      "index": 895,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "They announced it?",
+      "wordCount": 3
+    },
+    {
+      "id": 896,
+      "index": 896,
+      "character": "NORM",
+      "gender": "NA",
+      "line": "Yah.",
+      "wordCount": 1
+    },
+    {
+      "id": 897,
+      "index": 897,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "... So?",
+      "wordCount": 2
+    },
+    {
+      "id": 898,
+      "index": 898,
+      "character": "NORM",
+      "gender": "NA",
+      "line": "Three-cent stamp.",
+      "wordCount": 2
+    },
+    {
+      "id": 899,
+      "index": 899,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Your mallard?",
+      "wordCount": 2
+    },
+    {
+      "id": 900,
+      "index": 900,
+      "character": "NORM",
+      "gender": "NA",
+      "line": "Yah.",
+      "wordCount": 1
+    },
+    {
+      "id": 901,
+      "index": 901,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Norm, that's terrific!",
+      "wordCount": 3
+    },
+    {
+      "id": 902,
+      "index": 902,
+      "character": "NORM",
+      "gender": "NA",
+      "line": "It's just the three cent.",
+      "wordCount": 5
+    },
+    {
+      "id": 903,
+      "index": 903,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "It's terrific!",
+      "wordCount": 2
+    },
+    {
+      "id": 904,
+      "index": 904,
+      "character": "NORM",
+      "gender": "NA",
+      "line": "Hautman's blue-winged teal got the twenty-nine cent. People don't much use the three-cent.",
+      "wordCount": 13
+    },
+    {
+      "id": 905,
+      "index": 905,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Oh, for Pete's - a course they do! Every time they raise the darned postage, people need the little stamps!",
+      "wordCount": 20
+    },
+    {
+      "id": 906,
+      "index": 906,
+      "character": "NORM",
+      "gender": "NA",
+      "line": "Yah.",
+      "wordCount": 1
+    },
+    {
+      "id": 907,
+      "index": 907,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "When they're stuck with a bunch a the old ones!",
+      "wordCount": 10
+    },
+    {
+      "id": 908,
+      "index": 908,
+      "character": "NORM",
+      "gender": "NA",
+      "line": "Yah, I guess.",
+      "wordCount": 3
+    },
+    {
+      "id": 909,
+      "index": 909,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "That's terrific.",
+      "wordCount": 2
+    },
+    {
+      "id": 910,
+      "index": 910,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "... I'm so proud a you, Norm.",
+      "wordCount": 7
+    },
+    {
+      "id": 911,
+      "index": 911,
+      "character": "NORM",
+      "gender": "NA",
+      "line": "I love you, Margie.",
+      "wordCount": 4
+    },
+    {
+      "id": 912,
+      "index": 912,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "I love you, Norm.",
+      "wordCount": 4
+    },
+    {
+      "id": 913,
+      "index": 913,
+      "character": "NORM",
+      "gender": "NA",
+      "line": "... Two more months.",
+      "wordCount": 4
+    },
+    {
+      "id": 914,
+      "index": 914,
+      "character": "MARGE",
+      "gender": "Female",
+      "line": "Two more months.",
+      "wordCount": 3
+    },
+    {
+      "id": 915,
+      "index": 915,
+      "character": "",
+      "gender": "Male"
+    }
+  ]
+}

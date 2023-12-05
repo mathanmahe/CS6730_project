@@ -1,0 +1,5604 @@
+{
+  "fileName": "Up_dialogue.txt",
+  "title": "Up",
+  "data": [
+    {
+      "id": 0,
+      "index": 0,
+      "character": "NEWSREEL ANNOUNCER",
+      "gender": "Male",
+      "line": "What you are now witnessing is footage never before seen by civilized humanity: a lost world in South America! Lurking in the shadow of majestic Paradise Falls, it sports plants and animals undiscovered by science. Who would dare set foot on this inhospitable summit?",
+      "wordCount": 44
+    },
+    {
+      "id": 1,
+      "index": 1,
+      "character": "NEWSREEL ANNOUNCER",
+      "gender": "Male",
+      "line": "Why, our subject today: Charles Muntz!",
+      "wordCount": 6
+    },
+    {
+      "id": 2,
+      "index": 2,
+      "character": "NEWSREEL ANNOUNCER",
+      "gender": "Male",
+      "line": "The beloved explorer lands his dirigible, the \"Spirit of Adventure,\" in New Hampshire this week, completing a year long expedition to the lost world!",
+      "wordCount": 24
+    },
+    {
+      "id": 3,
+      "index": 3,
+      "character": "NEWSREEL ANNOUNCER",
+      "gender": "Male",
+      "line": "This lighter-than-air craft was designed by Muntz himself, and is longer than 22 Prohibition paddy- wagons placed end to end.",
+      "wordCount": 20
+    },
+    {
+      "id": 4,
+      "index": 4,
+      "character": "NEWSREEL ANNOUNCER",
+      "gender": "Male",
+      "line": "And here comes the adventurer now!",
+      "wordCount": 6
+    },
+    {
+      "id": 5,
+      "index": 5,
+      "character": "NEWSREEL ANNOUNCER",
+      "gender": "Male",
+      "line": "Never apart from his faithful dogs, Muntz conceived the craft for canine comfort! It's a veritable floating palace in the sky...",
+      "wordCount": 21
+    },
+    {
+      "id": 6,
+      "index": 6,
+      "character": "NEWSREEL ANNOUNCER",
+      "gender": "Male",
+      "line": "...complete with doggie bath and mechanical canine walker.",
+      "wordCount": 8
+    },
+    {
+      "id": 7,
+      "index": 7,
+      "character": "NEWSREEL ANNOUNCER",
+      "gender": "Male",
+      "line": "And Jiminy Cricket, do the locals consider Muntz the bee's knees! And how!",
+      "wordCount": 13
+    },
+    {
+      "id": 8,
+      "index": 8,
+      "character": "MUNTZ",
+      "gender": "Male",
+      "line": "\"Adventure is out there!\"",
+      "wordCount": 4
+    },
+    {
+      "id": 9,
+      "index": 9,
+      "character": "NEWSREEL ANNOUNCER",
+      "gender": "Male",
+      "line": "But what has Muntz brought back this time?",
+      "wordCount": 8
+    },
+    {
+      "id": 10,
+      "index": 10,
+      "character": "MUNTZ",
+      "gender": "Male",
+      "line": "Gentlemen, I give you: the Monster of Paradise Falls!",
+      "wordCount": 9
+    },
+    {
+      "id": 11,
+      "index": 11,
+      "character": "CROWD",
+      "gender": "NA",
+      "line": "Ooh! Young Carl leans forward, eyes bulging.",
+      "wordCount": 7
+    },
+    {
+      "id": 12,
+      "index": 12,
+      "character": "NEWSREEL ANNOUNCER",
+      "gender": "Male",
+      "line": "And golly, what a swell monster this is. But what's this?",
+      "wordCount": 11
+    },
+    {
+      "id": 13,
+      "index": 13,
+      "character": "NEWSREEL ANNOUNCER",
+      "gender": "Male",
+      "line": "Scientists cry foul! The National Explorers Society accuses Muntz of fabricating the skeleton!",
+      "wordCount": 13
+    },
+    {
+      "id": 14,
+      "index": 14,
+      "character": "YOUNG CARL",
+      "gender": "Male",
+      "line": "No!",
+      "wordCount": 1
+    },
+    {
+      "id": 15,
+      "index": 15,
+      "character": "NEWSREEL ANNOUNCER",
+      "gender": "Male",
+      "line": "The organization strips Muntz of his membership.",
+      "wordCount": 7
+    },
+    {
+      "id": 16,
+      "index": 16,
+      "character": "NEWSREEL ANNOUNCER",
+      "gender": "Male",
+      "line": "Humiliated, Muntz vows a return to Paradise Falls and promises to capture the beast... alive!",
+      "wordCount": 15
+    },
+    {
+      "id": 17,
+      "index": 17,
+      "character": "MUNTZ",
+      "gender": "Male",
+      "line": "I promise to capture the beast... alive!",
+      "wordCount": 7
+    },
+    {
+      "id": 18,
+      "index": 18,
+      "character": "MUNTZ",
+      "gender": "Male",
+      "line": "And I will not come back until I do! The crowd CHEERS.",
+      "wordCount": 12
+    },
+    {
+      "id": 19,
+      "index": 19,
+      "character": "NEWSREEL ANNOUNCER",
+      "gender": "Male",
+      "line": "And so the explorer is off to clear his name. Bon voyage Charles Muntz, and good luck capturing the Monster of Paradise Falls! Carl looks like he just witnessed a miracle.",
+      "wordCount": 31
+    },
+    {
+      "id": 20,
+      "index": 20,
+      "character": "NEWSREEL ANNOUNCER",
+      "gender": "Male",
+      "line": "Here's Charles Muntz piloting his famous dirigible!!",
+      "wordCount": 7
+    },
+    {
+      "id": 21,
+      "index": 21,
+      "character": "NEWSREEL ANNOUNCER",
+      "gender": "Male",
+      "line": "He hurdles Pike's Peak!",
+      "wordCount": 4
+    },
+    {
+      "id": 22,
+      "index": 22,
+      "character": "NEWSREEL ANNOUNCER",
+      "gender": "Male",
+      "line": "He hurdles the Grand Canyon!",
+      "wordCount": 5
+    },
+    {
+      "id": 23,
+      "index": 23,
+      "character": "NEWSREEL ANNOUNCER",
+      "gender": "Male",
+      "line": "He hurdles Mount Everest!",
+      "wordCount": 4
+    },
+    {
+      "id": 24,
+      "index": 24,
+      "character": "NEWSREEL ANNOUNCER",
+      "gender": "Male",
+      "line": "He... goes around Mount Everest! Is there nothing he cannot do?",
+      "wordCount": 11
+    },
+    {
+      "id": 25,
+      "index": 25,
+      "character": "NEWSREEL ANNOUNCER",
+      "gender": "Male",
+      "line": "Yes, as Muntz himself says: \"Adventure is--\"",
+      "wordCount": 7
+    },
+    {
+      "id": 26,
+      "index": 26,
+      "character": "GIRL'S VOICE",
+      "gender": "NA",
+      "line": "\"Adventure is out there!\" Carl stops. Who said that?",
+      "wordCount": 9
+    },
+    {
+      "id": 27,
+      "index": 27,
+      "character": "GIRL'S VOICE",
+      "gender": "NA",
+      "line": "Look out! Mount Rushmore! Hard to starboard. Must get the Spirit of Adventure over Mount Rushmore...",
+      "wordCount": 16
+    },
+    {
+      "id": 28,
+      "index": 28,
+      "character": "GIRL'S VOICE",
+      "gender": "NA",
+      "line": "Hold together old girl. How're my dogs doing? Ruff ruff!",
+      "wordCount": 10
+    },
+    {
+      "id": 29,
+      "index": 29,
+      "character": "GIRL'S VOICE",
+      "gender": "NA",
+      "line": "All engines ahead full! Let's take her up to 26,000 feet! Rudders eighteen degrees towards the south.",
+      "wordCount": 17
+    },
+    {
+      "id": 30,
+      "index": 30,
+      "character": "YOUNG ELLIE",
+      "gender": "Female",
+      "line": "It's a beautiful day, winds out of the east at ten knots. Visibility... unlimited. Enter the weather in the logbook! The navigator skitters in its cage.",
+      "wordCount": 26
+    },
+    {
+      "id": 31,
+      "index": 31,
+      "character": "YOUNG ELLIE",
+      "gender": "Female",
+      "line": "Oh! There's something down there! I will bring it back for science. Awwww, it's a puppy!",
+      "wordCount": 16
+    },
+    {
+      "id": 32,
+      "index": 32,
+      "character": "YOUNG ELLIE",
+      "gender": "Female",
+      "line": "No time! A storm! Lightning! Hail! Ellie pops up in front of Carl.",
+      "wordCount": 13
+    },
+    {
+      "id": 33,
+      "index": 33,
+      "character": "YOUNG ELLIE",
+      "gender": "Female",
+      "line": "What are you doing!?!",
+      "wordCount": 4
+    },
+    {
+      "id": 34,
+      "index": 34,
+      "character": "YOUNG ELLIE",
+      "gender": "Female",
+      "line": "Don't you know this is an exclusive club? Only explorers get in here. Not just any kid off the street with a helmet and a pair of goggles. Do you think you got what it takes? Well, do you?!?",
+      "wordCount": 39
+    },
+    {
+      "id": 35,
+      "index": 35,
+      "character": "YOUNG ELLIE",
+      "gender": "Female",
+      "line": "Alright, you're in. Welcome aboard. She offers her hand. Carl looks down, embarrassed.",
+      "wordCount": 13
+    },
+    {
+      "id": 36,
+      "index": 36,
+      "character": "YOUNG ELLIE",
+      "gender": "Female",
+      "line": "What's wrong? Can't you talk? Carl is frozen. Ellie softens.",
+      "wordCount": 10
+    },
+    {
+      "id": 37,
+      "index": 37,
+      "character": "YOUNG ELLIE",
+      "gender": "Female",
+      "line": "Hey, I don't bite. She takes off her helmet. Her hair frizzes out in all directions. She removes a homemade GRAPE SODA CAP pin from her shirt and pins it on Carl.",
+      "wordCount": 32
+    },
+    {
+      "id": 38,
+      "index": 38,
+      "character": "YOUNG ELLIE",
+      "gender": "Female",
+      "line": "You and me, we're in a club now.",
+      "wordCount": 8
+    },
+    {
+      "id": 39,
+      "index": 39,
+      "character": "YOUNG ELLIE",
+      "gender": "Female",
+      "line": "I saw where your balloon went. Come on, let's go get it!",
+      "wordCount": 12
+    },
+    {
+      "id": 40,
+      "index": 40,
+      "character": "YOUNG ELLIE",
+      "gender": "Female",
+      "line": "My name's Ellie.",
+      "wordCount": 3
+    },
+    {
+      "id": 41,
+      "index": 41,
+      "character": "YOUNG ELLIE",
+      "gender": "Female",
+      "line": "There it is.",
+      "wordCount": 3
+    },
+    {
+      "id": 42,
+      "index": 42,
+      "character": "YOUNG ELLIE",
+      "gender": "Female",
+      "line": "Well, go ahead. She pushes him out onto the beam.",
+      "wordCount": 10
+    },
+    {
+      "id": 43,
+      "index": 43,
+      "character": "YOUNG ELLIE",
+      "gender": "Female",
+      "line": "Go on.",
+      "wordCount": 2
+    },
+    {
+      "id": 44,
+      "index": 44,
+      "character": "YOUNG CARL",
+      "gender": "Male",
+      "line": "Ow!",
+      "wordCount": 1
+    },
+    {
+      "id": 45,
+      "index": 45,
+      "character": "YOUNG ELLIE",
+      "gender": "Female",
+      "line": "Hey kid!!",
+      "wordCount": 2
+    },
+    {
+      "id": 46,
+      "index": 46,
+      "character": "YOUNG CARL",
+      "gender": "Male",
+      "line": "Ow!!",
+      "wordCount": 1
+    },
+    {
+      "id": 47,
+      "index": 47,
+      "character": "YOUNG ELLIE",
+      "gender": "Female",
+      "line": "Thought you might need a little cheerin' up. I got somethin' to show ya!",
+      "wordCount": 14
+    },
+    {
+      "id": 48,
+      "index": 48,
+      "character": "YOUNG ELLIE",
+      "gender": "Female",
+      "line": "I am about to let you see something I have never shown to another human being. Ever. In my life. Carl's eyes widen in alarm.",
+      "wordCount": 25
+    },
+    {
+      "id": 49,
+      "index": 49,
+      "character": "YOUNG ELLIE",
+      "gender": "Female",
+      "line": "You'll have to swear you will not tell anyone. Carl nods.",
+      "wordCount": 11
+    },
+    {
+      "id": 50,
+      "index": 50,
+      "character": "YOUNG ELLIE",
+      "gender": "Female",
+      "line": "Cross your heart. Do it! Carl crosses. Ellie unveils...",
+      "wordCount": 9
+    },
+    {
+      "id": 51,
+      "index": 51,
+      "character": "YOUNG ELLIE",
+      "gender": "Female",
+      "line": "My Adventure Book! It's a reused photo album with the words \"My Adventure Book\" written across it. She opens it to a photo of Charles Muntz.",
+      "wordCount": 26
+    },
+    {
+      "id": 52,
+      "index": 52,
+      "character": "YOUNG ELLIE",
+      "gender": "Female",
+      "line": "You know him. Carl smiles excitedly.",
+      "wordCount": 6
+    },
+    {
+      "id": 53,
+      "index": 53,
+      "character": "YOUNG ELLIE",
+      "gender": "Female",
+      "line": "Charles Muntz, explorer. When I get big, I'm going where he's going: South America. She turns the page to a map.",
+      "wordCount": 21
+    },
+    {
+      "id": 54,
+      "index": 54,
+      "character": "YOUNG ELLIE",
+      "gender": "Female",
+      "line": "It's like America... but south. Wanna know where I'm gonna live?",
+      "wordCount": 11
+    },
+    {
+      "id": 55,
+      "index": 55,
+      "character": "YOUNG ELLIE",
+      "gender": "Female",
+      "line": "\"Paradise Falls, a land lost in time.\" I ripped this right out of a library book.",
+      "wordCount": 16
+    },
+    {
+      "id": 56,
+      "index": 56,
+      "character": "YOUNG ELLIE",
+      "gender": "Female",
+      "line": "I'm gonna move my clubhouse there, and park it right next to the falls. Who knows what lives up there? And once I get there...",
+      "wordCount": 25
+    },
+    {
+      "id": 57,
+      "index": 57,
+      "character": "YOUNG ELLIE",
+      "gender": "Female",
+      "line": "Well, I'm saving these pages for all the adventures I'm gonna have. Only... I just don't know how I'm gonna get to Paradise Falls. Ellie closes the book, disappointed.",
+      "wordCount": 29
+    },
+    {
+      "id": 58,
+      "index": 58,
+      "character": "YOUNG ELLIE",
+      "gender": "Female",
+      "line": "That's it! You can take us there in a blimp! Swear you'll take us. Cross your heart! Cross it! Cross your heart.",
+      "wordCount": 22
+    },
+    {
+      "id": 59,
+      "index": 59,
+      "character": "YOUNG ELLIE",
+      "gender": "Female",
+      "line": "Good. You promised. No backing out.",
+      "wordCount": 6
+    },
+    {
+      "id": 60,
+      "index": 60,
+      "character": "YOUNG ELLIE",
+      "gender": "Female",
+      "line": "Well, see you tomorrow kid! Bye.",
+      "wordCount": 6
+    },
+    {
+      "id": 61,
+      "index": 61,
+      "character": "YOUNG ELLIE",
+      "gender": "Female",
+      "line": "\"Adventure is out there!!\"",
+      "wordCount": 4
+    },
+    {
+      "id": 62,
+      "index": 62,
+      "character": "YOUNG ELLIE",
+      "gender": "Female",
+      "line": "You know, you don't talk very much. I like you.",
+      "wordCount": 10
+    },
+    {
+      "id": 63,
+      "index": 63,
+      "character": "YOUNG CARL",
+      "gender": "Male",
+      "line": "Wow.",
+      "wordCount": 1
+    },
+    {
+      "id": 64,
+      "index": 64,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Quite a sight, huh Ellie? Uhp, mail's here.",
+      "wordCount": 8
+    },
+    {
+      "id": 65,
+      "index": 65,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Shady Oaks Retirement. Oh brother.",
+      "wordCount": 5
+    },
+    {
+      "id": 66,
+      "index": 66,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Hm.",
+      "wordCount": 1
+    },
+    {
+      "id": 67,
+      "index": 67,
+      "character": "CONSTRUCTION FOREMAN TOM",
+      "gender": "Male",
+      "line": "Hey! `Morning, Mr. Fredricksen! Need any help there?",
+      "wordCount": 8
+    },
+    {
+      "id": 68,
+      "index": 68,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "No. Yes. Tell your boss over there that you boys are ruining our house.",
+      "wordCount": 14
+    },
+    {
+      "id": 69,
+      "index": 69,
+      "character": "CONSTRUCTION FOREMAN TOM",
+      "gender": "Male",
+      "line": "Well just to let you know, my boss would be happy to take this old place off your hands, and for double his last offer. Whaddya say to that? The leaf blower blasts off his hat.",
+      "wordCount": 36
+    },
+    {
+      "id": 70,
+      "index": 70,
+      "character": "CONSTRUCTION FOREMAN TOM",
+      "gender": "Male",
+      "line": "Uh, I take that as a no, then.",
+      "wordCount": 8
+    },
+    {
+      "id": 71,
+      "index": 71,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "I believe I made my position to your boss quite clear.",
+      "wordCount": 11
+    },
+    {
+      "id": 72,
+      "index": 72,
+      "character": "CONSTRUCTION FOREMAN TOM",
+      "gender": "Male",
+      "line": "You poured prune juice in his gas tank.",
+      "wordCount": 8
+    },
+    {
+      "id": 73,
+      "index": 73,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Oh yeah, that was good. Here, let me talk to him.",
+      "wordCount": 11
+    },
+    {
+      "id": 74,
+      "index": 74,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "You in the suit. Yes, you. Take a bath, hippy!",
+      "wordCount": 10
+    },
+    {
+      "id": 75,
+      "index": 75,
+      "character": "CONSTRUCTION FOREMAN TOM",
+      "gender": "Male",
+      "line": "I am not with him! This is serious. He's out to get your house!",
+      "wordCount": 14
+    },
+    {
+      "id": 76,
+      "index": 76,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Tell your boss he can have our house.",
+      "wordCount": 8
+    },
+    {
+      "id": 77,
+      "index": 77,
+      "character": "CONSTRUCTION FOREMAN TOM",
+      "gender": "Male",
+      "line": "Really?",
+      "wordCount": 1
+    },
+    {
+      "id": 78,
+      "index": 78,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "When I'm dead! Carl SLAMS the door.",
+      "wordCount": 7
+    },
+    {
+      "id": 79,
+      "index": 79,
+      "character": "CONSTRUCTION FOREMAN TOM",
+      "gender": "Male",
+      "line": "I'll take that as a maybe!",
+      "wordCount": 6
+    },
+    {
+      "id": 80,
+      "index": 80,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "\"Good afternoon. My name is Russell. And I am a Wilderness Explorer in Tribe 54, Sweatlodge 12. Are you in need of any assistance today, sir?\"",
+      "wordCount": 26
+    },
+    {
+      "id": 81,
+      "index": 81,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "No.",
+      "wordCount": 1
+    },
+    {
+      "id": 82,
+      "index": 82,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "I could help you cross the street.",
+      "wordCount": 7
+    },
+    {
+      "id": 83,
+      "index": 83,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "No.",
+      "wordCount": 1
+    },
+    {
+      "id": 84,
+      "index": 84,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "I could help you cross your yard.",
+      "wordCount": 7
+    },
+    {
+      "id": 85,
+      "index": 85,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "No.",
+      "wordCount": 1
+    },
+    {
+      "id": 86,
+      "index": 86,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "I could help you cross your... porch?",
+      "wordCount": 7
+    },
+    {
+      "id": 87,
+      "index": 87,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "No.",
+      "wordCount": 1
+    },
+    {
+      "id": 88,
+      "index": 88,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Well, I gotta help you cross something.",
+      "wordCount": 7
+    },
+    {
+      "id": 89,
+      "index": 89,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Uh, no. I'm doing fine.",
+      "wordCount": 5
+    },
+    {
+      "id": 90,
+      "index": 90,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "\"Good afternoon. My name is Russell.\"",
+      "wordCount": 6
+    },
+    {
+      "id": 91,
+      "index": 91,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Uh... kid...",
+      "wordCount": 2
+    },
+    {
+      "id": 92,
+      "index": 92,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "\"And I am a Wilderness Explorer in Tribe 54, Sweatlodge 12.\"",
+      "wordCount": 11
+    },
+    {
+      "id": 93,
+      "index": 93,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Kid. KID!!",
+      "wordCount": 2
+    },
+    {
+      "id": 94,
+      "index": 94,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "\"Are you in need of any assistance today Sir?\"",
+      "wordCount": 9
+    },
+    {
+      "id": 95,
+      "index": 95,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Thank you, but I don't need any help!",
+      "wordCount": 8
+    },
+    {
+      "id": 96,
+      "index": 96,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Ow.",
+      "wordCount": 1
+    },
+    {
+      "id": 97,
+      "index": 97,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "\"Good afternoon. My-\"",
+      "wordCount": 3
+    },
+    {
+      "id": 98,
+      "index": 98,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "But skip to the end!",
+      "wordCount": 5
+    },
+    {
+      "id": 99,
+      "index": 99,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "See these? These are my Wilderness Explorer badges. You may notice one is missing. It's my Assisting the Elderly badge. If I get it I will become a Senior Wilderness Explorer! Russell makes the Explorer Sign: his thumbs form a \"W\", his fingers the \"wings\" of a bird, then the \"claws\" of a bear.",
+      "wordCount": 54
+    },
+    {
+      "id": 100,
+      "index": 100,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "\"The wilderness must be explored!",
+      "wordCount": 5
+    },
+    {
+      "id": 101,
+      "index": 101,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "It's gonna be great! There's a big ceremony, and all the dads come, and they pin on our badges...",
+      "wordCount": 19
+    },
+    {
+      "id": 102,
+      "index": 102,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "So you want to assist an old person?",
+      "wordCount": 8
+    },
+    {
+      "id": 103,
+      "index": 103,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Yep! Then I will be a Senior Wilderness Explorer! Carl leans in close to Russell.",
+      "wordCount": 15
+    },
+    {
+      "id": 104,
+      "index": 104,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Snipe?",
+      "wordCount": 1
+    },
+    {
+      "id": 105,
+      "index": 105,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Bird. Beady eyes. Every night it sneaks in my yard and gobbles my poor azaleas. I'm elderly and infirm. I can't catch it. If only someone could help me...",
+      "wordCount": 29
+    },
+    {
+      "id": 106,
+      "index": 106,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Me! Me! I'll do it!",
+      "wordCount": 5
+    },
+    {
+      "id": 107,
+      "index": 107,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Oh, I don't know, it's awfully crafty. You'd have to clap your hands three times to lure it in.",
+      "wordCount": 19
+    },
+    {
+      "id": 108,
+      "index": 108,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "I'll find it, Mr. Fredricksen!",
+      "wordCount": 5
+    },
+    {
+      "id": 109,
+      "index": 109,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "I think its burrow is two blocks down. If you go past --",
+      "wordCount": 13
+    },
+    {
+      "id": 110,
+      "index": 110,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Two blocks down! Got it!",
+      "wordCount": 5
+    },
+    {
+      "id": 111,
+      "index": 111,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Sniiiipe! Here Snipey Snipey...",
+      "wordCount": 4
+    },
+    {
+      "id": 112,
+      "index": 112,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Bring it back here when you find it! Carl rolls his eyes and begins to close his door.",
+      "wordCount": 18
+    },
+    {
+      "id": 113,
+      "index": 113,
+      "character": "CONSTRUCTION WORKER STEVE",
+      "gender": "Male",
+      "line": "Okay, keep her coming... And... stop. Stop! STOP!! The truck hits Ellie's mailbox, crushing the front.",
+      "wordCount": 16
+    },
+    {
+      "id": 114,
+      "index": 114,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "What? Hey! Hey you! What do you think you're doing?",
+      "wordCount": 10
+    },
+    {
+      "id": 115,
+      "index": 115,
+      "character": "CONSTRUCTION WORKER STEVE",
+      "gender": "Male",
+      "line": "I am so sorry, sir...",
+      "wordCount": 5
+    },
+    {
+      "id": 116,
+      "index": 116,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Don't touch that!",
+      "wordCount": 3
+    },
+    {
+      "id": 117,
+      "index": 117,
+      "character": "CONSTRUCTION WORKER STEVE",
+      "gender": "Male",
+      "line": "No no, let me take care of that for you.",
+      "wordCount": 10
+    },
+    {
+      "id": 118,
+      "index": 118,
+      "character": "CONSTRUCTION WORKER STEVE",
+      "gender": "Male",
+      "line": "Hey sir, I...",
+      "wordCount": 3
+    },
+    {
+      "id": 119,
+      "index": 119,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "I don't want you to touch it! Carl HITS the worker with his cane. He falls to the sidewalk. The worker rubs his head. Blood.",
+      "wordCount": 25
+    },
+    {
+      "id": 120,
+      "index": 120,
+      "character": "OFFICER EDITH",
+      "gender": "Female",
+      "line": "Sorry Mr. Fredricksen. You don't seem like a public menace to me. Take this.",
+      "wordCount": 14
+    },
+    {
+      "id": 121,
+      "index": 121,
+      "character": "OFFICER EDITH",
+      "gender": "Female",
+      "line": "The guys from Shady Oaks will be by to pick you up in the morning, okay? The officer drives off, leaving Carl alone.",
+      "wordCount": 23
+    },
+    {
+      "id": 122,
+      "index": 122,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "What do I do now, Ellie?",
+      "wordCount": 6
+    },
+    {
+      "id": 123,
+      "index": 123,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Morning gentlemen.",
+      "wordCount": 2
+    },
+    {
+      "id": 124,
+      "index": 124,
+      "character": "NURSE GEORGE",
+      "gender": "Male",
+      "line": "Good morning, Mr. Fredricksen. You ready to go?",
+      "wordCount": 8
+    },
+    {
+      "id": 125,
+      "index": 125,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Ready as I'll ever be. Would you do me a favor and take this?",
+      "wordCount": 14
+    },
+    {
+      "id": 126,
+      "index": 126,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "I'll meet you at the van in just a minute. I... want to say one last goodbye to the old place.",
+      "wordCount": 21
+    },
+    {
+      "id": 127,
+      "index": 127,
+      "character": "NURSE GEORGE",
+      "gender": "Male",
+      "line": "Sure. Take all the time you need, sir.",
+      "wordCount": 8
+    },
+    {
+      "id": 128,
+      "index": 128,
+      "character": "NURSE A.J.",
+      "gender": "NA",
+      "line": "Typical. He's probably going to the bathroom for the eightieth time.",
+      "wordCount": 11
+    },
+    {
+      "id": 129,
+      "index": 129,
+      "character": "NURSE GEORGE",
+      "gender": "Male",
+      "line": "You'd think he'd take better care of his house.",
+      "wordCount": 9
+    },
+    {
+      "id": 130,
+      "index": 130,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "So long boys! I'll send you a postcard from Paradise Falls!",
+      "wordCount": 11
+    },
+    {
+      "id": 131,
+      "index": 131,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "We're on our way, Ellie. Carl kneels at the fireplace and plunks the balloon strings tied to the grate. He CHUCKLES and settles into his chair. He closes his eyes and smiles. SHADOWS move gently across the fireplace mantle.",
+      "wordCount": 39
+    },
+    {
+      "id": 132,
+      "index": 132,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Huh?",
+      "wordCount": 1
+    },
+    {
+      "id": 133,
+      "index": 133,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Hm.",
+      "wordCount": 1
+    },
+    {
+      "id": 134,
+      "index": 134,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Hi, Mr. Fredricksen. It's me, Russell.",
+      "wordCount": 6
+    },
+    {
+      "id": 135,
+      "index": 135,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "What are you doing out here, kid?",
+      "wordCount": 7
+    },
+    {
+      "id": 136,
+      "index": 136,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "I found the snipe and I followed it under your porch, but this snipe had a long tail and looked more like a large mouse.",
+      "wordCount": 25
+    },
+    {
+      "id": 137,
+      "index": 137,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Please let me in?",
+      "wordCount": 4
+    },
+    {
+      "id": 138,
+      "index": 138,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "No.",
+      "wordCount": 1
+    },
+    {
+      "id": 139,
+      "index": 139,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Oh, alright, you can come... Russell runs into the house past Carl.",
+      "wordCount": 12
+    },
+    {
+      "id": 140,
+      "index": 140,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "...in.",
+      "wordCount": 1
+    },
+    {
+      "id": 141,
+      "index": 141,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Huh. I've never been in a floating house before.",
+      "wordCount": 9
+    },
+    {
+      "id": 142,
+      "index": 142,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Goggles. Look at this stuff! Russell finds Ellie's house drawing sitting on the pages of the open atlas.",
+      "wordCount": 18
+    },
+    {
+      "id": 143,
+      "index": 143,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Wow, you going on a trip? \"Paradise Falls: A Land Lost in Time.\" You going to South America, Mr. Fredricksen? Carl takes the page and puts it in his pocket.",
+      "wordCount": 30
+    },
+    {
+      "id": 144,
+      "index": 144,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Don't touch that. You'll soil it.",
+      "wordCount": 6
+    },
+    {
+      "id": 145,
+      "index": 145,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "You know, most people take a plane, but you're smart because you'll have all your TV and clocks and stuff. Russell runs over to the steering rig.",
+      "wordCount": 27
+    },
+    {
+      "id": 146,
+      "index": 146,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Whoah. Is this how you steer your house? Does it really work?",
+      "wordCount": 12
+    },
+    {
+      "id": 147,
+      "index": 147,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Kid, would you stop with the -- Russell steers and the house tilts, knocking Carl back and forth.",
+      "wordCount": 18
+    },
+    {
+      "id": 148,
+      "index": 148,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Oh, this makes it go right, and that way's left.",
+      "wordCount": 10
+    },
+    {
+      "id": 149,
+      "index": 149,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Let go of the -- knock it off! Russell looks out the window in front of him.",
+      "wordCount": 17
+    },
+    {
+      "id": 150,
+      "index": 150,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Hey look, buildings!",
+      "wordCount": 3
+    },
+    {
+      "id": 151,
+      "index": 151,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "That building's so close I could almost touch it.",
+      "wordCount": 9
+    },
+    {
+      "id": 152,
+      "index": 152,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Wow! This is great! You should try this, Mr. Fredricksen! Look, there's a bus that could take me home two blocks away! Hey, I can see your house from here!",
+      "wordCount": 30
+    },
+    {
+      "id": 153,
+      "index": 153,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Don't jerk around so much, kid!",
+      "wordCount": 6
+    },
+    {
+      "id": 154,
+      "index": 154,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Well, that's not gonna work.",
+      "wordCount": 5
+    },
+    {
+      "id": 155,
+      "index": 155,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "I know that cloud, it's a Cumulo Nimbus. Did you know that the Cumulo Nimbus...",
+      "wordCount": 15
+    },
+    {
+      "id": 156,
+      "index": 156,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Stayed up all night blowing up balloons, for what?",
+      "wordCount": 9
+    },
+    {
+      "id": 157,
+      "index": 157,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "...warm air goes by cool air, and the airs go by each other and that's how we get lightning.",
+      "wordCount": 19
+    },
+    {
+      "id": 158,
+      "index": 158,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "That's nice, kid.",
+      "wordCount": 3
+    },
+    {
+      "id": 159,
+      "index": 159,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Mr. Fredricksen, there's a big storm coming. It's starting to get scary. We're gonna get blown to bits! We're in big trouble, Mr. Fredricksen!",
+      "wordCount": 24
+    },
+    {
+      "id": 160,
+      "index": 160,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "What are you doing over there?",
+      "wordCount": 6
+    },
+    {
+      "id": 161,
+      "index": 161,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Look!",
+      "wordCount": 1
+    },
+    {
+      "id": 162,
+      "index": 162,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "See? Cumulo Nimbus.",
+      "wordCount": 3
+    },
+    {
+      "id": 163,
+      "index": 163,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "My pack!",
+      "wordCount": 2
+    },
+    {
+      "id": 164,
+      "index": 164,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Got ya!",
+      "wordCount": 2
+    },
+    {
+      "id": 165,
+      "index": 165,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Whew! I thought you were dead.",
+      "wordCount": 6
+    },
+    {
+      "id": 166,
+      "index": 166,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Wha... what happened?",
+      "wordCount": 3
+    },
+    {
+      "id": 167,
+      "index": 167,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "I steered us. I did! I steered the house!",
+      "wordCount": 9
+    },
+    {
+      "id": 168,
+      "index": 168,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Steered us?",
+      "wordCount": 2
+    },
+    {
+      "id": 169,
+      "index": 169,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "After you tied your stuff down you took a nap, so I went ahead and steered us down here.",
+      "wordCount": 19
+    },
+    {
+      "id": 170,
+      "index": 170,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Huh?",
+      "wordCount": 1
+    },
+    {
+      "id": 171,
+      "index": 171,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Can't tell where we are.",
+      "wordCount": 5
+    },
+    {
+      "id": 172,
+      "index": 172,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Oh we're in South America all right. It was a cinch, with my Wilderness Explorer GPS.",
+      "wordCount": 16
+    },
+    {
+      "id": 173,
+      "index": 173,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "GP-what?",
+      "wordCount": 1
+    },
+    {
+      "id": 174,
+      "index": 174,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "My dad gave it to me. It shows exactly where we are on the planet. With this baby, we'll never be lost! Russell gestures, tossing the unit out the window.",
+      "wordCount": 30
+    },
+    {
+      "id": 175,
+      "index": 175,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Oops.",
+      "wordCount": 1
+    },
+    {
+      "id": 176,
+      "index": 176,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "We'll get you down, find a bus stop. You just tell the man you want to go back to your mother.",
+      "wordCount": 21
+    },
+    {
+      "id": 177,
+      "index": 177,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Sure, but I don't think they have busses in Paradise Falls.",
+      "wordCount": 11
+    },
+    {
+      "id": 178,
+      "index": 178,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "There. That ought to do it. Here, I'll give you some change for bus fare.",
+      "wordCount": 15
+    },
+    {
+      "id": 179,
+      "index": 179,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Nah, I'll just use my city bus pass.",
+      "wordCount": 8
+    },
+    {
+      "id": 180,
+      "index": 180,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Whoah, that's gonna be like a billion transfers to get back to my house.",
+      "wordCount": 14
+    },
+    {
+      "id": 181,
+      "index": 181,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Mr. Fredricksen, how much longer?",
+      "wordCount": 5
+    },
+    {
+      "id": 182,
+      "index": 182,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Well, we're up pretty high. Could take hours to get down. Something flashes by them in the fog. Carl leans forward.",
+      "wordCount": 21
+    },
+    {
+      "id": 183,
+      "index": 183,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "What was that, Mr. Fredricksen?",
+      "wordCount": 5
+    },
+    {
+      "id": 184,
+      "index": 184,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "We can't be close to the ground yet.",
+      "wordCount": 8
+    },
+    {
+      "id": 185,
+      "index": 185,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Wait, wait! No don't, don't, don't!",
+      "wordCount": 6
+    },
+    {
+      "id": 186,
+      "index": 186,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Whoah! Hey, hey! Russell JUMPS onto Carl's leg and the extra weight pulls them to the ground.",
+      "wordCount": 17
+    },
+    {
+      "id": 187,
+      "index": 187,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Russell, hang on! Carl and Russell slide toward the edge of a CLIFF EDGE.",
+      "wordCount": 14
+    },
+    {
+      "id": 188,
+      "index": 188,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Whoah! They slide toward the edge... and stop. The drop is thousands of feet. Carl is TERRIFIED.",
+      "wordCount": 17
+    },
+    {
+      "id": 189,
+      "index": 189,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Walk back! Walk back!",
+      "wordCount": 4
+    },
+    {
+      "id": 190,
+      "index": 190,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Okay!",
+      "wordCount": 1
+    },
+    {
+      "id": 191,
+      "index": 191,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Where... where are we?",
+      "wordCount": 4
+    },
+    {
+      "id": 192,
+      "index": 192,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "This doesn't look like the city or the jungle, Mr. Fredricksen. The wind picks up and they STRUGGLE against it.",
+      "wordCount": 20
+    },
+    {
+      "id": 193,
+      "index": 193,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Don't worry, Ellie. I got it. The wind clears the fog, slowly revealing a crescent shaped, flat-topped mountain on which they stand.",
+      "wordCount": 22
+    },
+    {
+      "id": 194,
+      "index": 194,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "There it is. Ellie, it's so beautiful.",
+      "wordCount": 7
+    },
+    {
+      "id": 195,
+      "index": 195,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "We made it. We made it! Russell, we could float right over there. Climb up. Climb up!",
+      "wordCount": 17
+    },
+    {
+      "id": 196,
+      "index": 196,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "You mean assist you?",
+      "wordCount": 4
+    },
+    {
+      "id": 197,
+      "index": 197,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Yeah, yeah. Whatever.",
+      "wordCount": 3
+    },
+    {
+      "id": 198,
+      "index": 198,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Okay, I'll climb up!",
+      "wordCount": 4
+    },
+    {
+      "id": 199,
+      "index": 199,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Watch it.",
+      "wordCount": 2
+    },
+    {
+      "id": 200,
+      "index": 200,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Sorry. The hose jiggles as Russell CLIMBS out of frame.",
+      "wordCount": 10
+    },
+    {
+      "id": 201,
+      "index": 201,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Now, when you get up there, go ahead and hoist me up! Got it?!",
+      "wordCount": 14
+    },
+    {
+      "id": 202,
+      "index": 202,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "You on the porch yet?!",
+      "wordCount": 5
+    },
+    {
+      "id": 203,
+      "index": 203,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "What? That's it?! I came all this way just to get stuck at the wrong end of this rock pile? Aw, great!",
+      "wordCount": 22
+    },
+    {
+      "id": 204,
+      "index": 204,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Hey, if I could assist you over there, would you sign off on my badge?",
+      "wordCount": 15
+    },
+    {
+      "id": 205,
+      "index": 205,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "What are you talking about?",
+      "wordCount": 5
+    },
+    {
+      "id": 206,
+      "index": 206,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "We could walk your house to the falls!",
+      "wordCount": 8
+    },
+    {
+      "id": 207,
+      "index": 207,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Walk it?",
+      "wordCount": 2
+    },
+    {
+      "id": 208,
+      "index": 208,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Yeah, after all, we weigh it down. We could walk it right over there. Like a parade balloon. Carl considers this.",
+      "wordCount": 21
+    },
+    {
+      "id": 209,
+      "index": 209,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Now, we're gonna walk to the falls quickly and quietly, with no rap music or flash-dancing. Russell inspects his surroundings.",
+      "wordCount": 20
+    },
+    {
+      "id": 210,
+      "index": 210,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "We have three days, at best, before the helium leaks out of those balloons. And if we're not at the falls when that happens...",
+      "wordCount": 24
+    },
+    {
+      "id": 211,
+      "index": 211,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Sand!",
+      "wordCount": 1
+    },
+    {
+      "id": 212,
+      "index": 212,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "...we're not getting to the falls!",
+      "wordCount": 6
+    },
+    {
+      "id": 213,
+      "index": 213,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "I found sand!",
+      "wordCount": 3
+    },
+    {
+      "id": 214,
+      "index": 214,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Don't you worry, Ellie. We'll get our house over there. Russell looks up at the house. Who's Carl talking to?",
+      "wordCount": 20
+    },
+    {
+      "id": 215,
+      "index": 215,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Huh. This is fun already, isn't it? By the time we get there, you're gonna feel so assisted... Oh, Mr. Fredricksen, if we happen to get separated, use the Wilderness Explorer call. Caw caw, raaar!!",
+      "wordCount": 35
+    },
+    {
+      "id": 216,
+      "index": 216,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Wait. Why are we going to Paradise Falls again?",
+      "wordCount": 9
+    },
+    {
+      "id": 217,
+      "index": 217,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Hey, let's play a game. It's called: \"See who can be quiet the longest.\"",
+      "wordCount": 14
+    },
+    {
+      "id": 218,
+      "index": 218,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Cool! My mom loves that game!",
+      "wordCount": 6
+    },
+    {
+      "id": 219,
+      "index": 219,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Darn thing. C'mon, Russell, would you hurry it up?",
+      "wordCount": 9
+    },
+    {
+      "id": 220,
+      "index": 220,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "I'm tiiiired. And my knee hurts.",
+      "wordCount": 6
+    },
+    {
+      "id": 221,
+      "index": 221,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Which knee?",
+      "wordCount": 2
+    },
+    {
+      "id": 222,
+      "index": 222,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "My elbow hurts and I have to go to the bathroom.",
+      "wordCount": 11
+    },
+    {
+      "id": 223,
+      "index": 223,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "I asked you about that five minutes ago!",
+      "wordCount": 8
+    },
+    {
+      "id": 224,
+      "index": 224,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Well, I didn't have to go then! Russell goes limp and lies face down in the dirt.",
+      "wordCount": 17
+    },
+    {
+      "id": 225,
+      "index": 225,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "I don't want to walk anymore. Can we stop?",
+      "wordCount": 9
+    },
+    {
+      "id": 226,
+      "index": 226,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Russell! If you don't hurry up, the tigers will eat you.",
+      "wordCount": 11
+    },
+    {
+      "id": 227,
+      "index": 227,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "There's no tigers in South America. Russell rolls over to show Carl a badge.",
+      "wordCount": 14
+    },
+    {
+      "id": 228,
+      "index": 228,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Zoology.",
+      "wordCount": 1
+    },
+    {
+      "id": 229,
+      "index": 229,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Oh, for the love of Pete. Go on into the bushes and do your business.",
+      "wordCount": 15
+    },
+    {
+      "id": 230,
+      "index": 230,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Okay! Here, hold my stuff.",
+      "wordCount": 5
+    },
+    {
+      "id": 231,
+      "index": 231,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "I've always wanted to try this!",
+      "wordCount": 6
+    },
+    {
+      "id": 232,
+      "index": 232,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Mr. Fredricksen? Am I supposed to dig the hole before or after?",
+      "wordCount": 12
+    },
+    {
+      "id": 233,
+      "index": 233,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Eugh! None of my concern! Beat.",
+      "wordCount": 6
+    },
+    {
+      "id": 234,
+      "index": 234,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Oh. It's before!",
+      "wordCount": 3
+    },
+    {
+      "id": 235,
+      "index": 235,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Huh? Tracks?!",
+      "wordCount": 2
+    },
+    {
+      "id": 236,
+      "index": 236,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Here, snipe... Come on out, snipe. Snipe! The footprints continue for a time, then stop.",
+      "wordCount": 15
+    },
+    {
+      "id": 237,
+      "index": 237,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Huh. Russell munches on a chocolate bar.",
+      "wordCount": 7
+    },
+    {
+      "id": 238,
+      "index": 238,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Ha! Gotcha!",
+      "wordCount": 2
+    },
+    {
+      "id": 239,
+      "index": 239,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Don't be afraid, little snipe. I am a Wilderness Explorer so I am a friend to all of nature. Want some more?",
+      "wordCount": 22
+    },
+    {
+      "id": 240,
+      "index": 240,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Hi boy. Don't eat it all. Come on out.",
+      "wordCount": 9
+    },
+    {
+      "id": 241,
+      "index": 241,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Come on. Don't be afraid little snipe. Nice snipe. Good little snipe. Nice... A massive shadowy creature rises up over Russell.",
+      "wordCount": 21
+    },
+    {
+      "id": 242,
+      "index": 242,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "...giant snipe!",
+      "wordCount": 2
+    },
+    {
+      "id": 243,
+      "index": 243,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "I found the snipe!",
+      "wordCount": 4
+    },
+    {
+      "id": 244,
+      "index": 244,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Oh, did you?",
+      "wordCount": 3
+    },
+    {
+      "id": 245,
+      "index": 245,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Are they tall?",
+      "wordCount": 3
+    },
+    {
+      "id": 246,
+      "index": 246,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Oh yes, they're very tall.",
+      "wordCount": 5
+    },
+    {
+      "id": 247,
+      "index": 247,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Do they have a lot of colors?",
+      "wordCount": 7
+    },
+    {
+      "id": 248,
+      "index": 248,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "They do indeed.",
+      "wordCount": 3
+    },
+    {
+      "id": 249,
+      "index": 249,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Do they like chocolate?",
+      "wordCount": 4
+    },
+    {
+      "id": 250,
+      "index": 250,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Oh ye- Chocolate?",
+      "wordCount": 3
+    },
+    {
+      "id": 251,
+      "index": 251,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "What is that thing?!",
+      "wordCount": 4
+    },
+    {
+      "id": 252,
+      "index": 252,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "It's a snipe!",
+      "wordCount": 3
+    },
+    {
+      "id": 253,
+      "index": 253,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "There's no such thing as a snipe!",
+      "wordCount": 7
+    },
+    {
+      "id": 254,
+      "index": 254,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "But you said snipes eat--",
+      "wordCount": 5
+    },
+    {
+      "id": 255,
+      "index": 255,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Whoah! Russell GIGGLES.",
+      "wordCount": 3
+    },
+    {
+      "id": 256,
+      "index": 256,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Go on, get out of here. Go on! Shoo!",
+      "wordCount": 9
+    },
+    {
+      "id": 257,
+      "index": 257,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Careful, Russell!",
+      "wordCount": 2
+    },
+    {
+      "id": 258,
+      "index": 258,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Russell! The bird grooms Russell.",
+      "wordCount": 5
+    },
+    {
+      "id": 259,
+      "index": 259,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Get out of here. Go on, git!",
+      "wordCount": 7
+    },
+    {
+      "id": 260,
+      "index": 260,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Aaaah!",
+      "wordCount": 1
+    },
+    {
+      "id": 261,
+      "index": 261,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Uh-oh! No no no no no Kevin, it's okay. Mr. Fredricksen is nice!",
+      "wordCount": 13
+    },
+    {
+      "id": 262,
+      "index": 262,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "\"Kevin\"?",
+      "wordCount": 1
+    },
+    {
+      "id": 263,
+      "index": 263,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Yeah, that's his name I just gave him.",
+      "wordCount": 8
+    },
+    {
+      "id": 264,
+      "index": 264,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Hey. Beat it! Vamoose! Scram!",
+      "wordCount": 5
+    },
+    {
+      "id": 265,
+      "index": 265,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Hey! That's mine!",
+      "wordCount": 3
+    },
+    {
+      "id": 266,
+      "index": 266,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Aaah! Shoo, shoo! Get out of here.",
+      "wordCount": 7
+    },
+    {
+      "id": 267,
+      "index": 267,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Go on, beat it.",
+      "wordCount": 4
+    },
+    {
+      "id": 268,
+      "index": 268,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Can we keep him? Please?? I'll get the food for him, I'll walk him, I'll change his newspapers...",
+      "wordCount": 18
+    },
+    {
+      "id": 269,
+      "index": 269,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "No.",
+      "wordCount": 1
+    },
+    {
+      "id": 270,
+      "index": 270,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "That doesn't even rhyme.",
+      "wordCount": 4
+    },
+    {
+      "id": 271,
+      "index": 271,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Yeah it does. Russell points up to the roof of Carl's house.",
+      "wordCount": 12
+    },
+    {
+      "id": 272,
+      "index": 272,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Hey, look! Kevin!",
+      "wordCount": 3
+    },
+    {
+      "id": 273,
+      "index": 273,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "What? Get down! You're not allowed up there!",
+      "wordCount": 8
+    },
+    {
+      "id": 274,
+      "index": 274,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "You come down here right now!",
+      "wordCount": 6
+    },
+    {
+      "id": 275,
+      "index": 275,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Sheesh! Can you believe this, Ellie?",
+      "wordCount": 6
+    },
+    {
+      "id": 276,
+      "index": 276,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Ellie?",
+      "wordCount": 1
+    },
+    {
+      "id": 277,
+      "index": 277,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "But I told him no -- I told you no! N-O. The bird HISSES at Carl.",
+      "wordCount": 16
+    },
+    {
+      "id": 278,
+      "index": 278,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "I see you back there!",
+      "wordCount": 5
+    },
+    {
+      "id": 279,
+      "index": 279,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Go on, get out of here. Shoo! Go annoy someone else for a while.",
+      "wordCount": 14
+    },
+    {
+      "id": 280,
+      "index": 280,
+      "character": "VOICE",
+      "gender": "NA",
+      "line": "Hey, are you okay over there? The bird dashes away.",
+      "wordCount": 10
+    },
+    {
+      "id": 281,
+      "index": 281,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Uh, hello?",
+      "wordCount": 2
+    },
+    {
+      "id": 282,
+      "index": 282,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Oh! Hello sir! Thank goodness.",
+      "wordCount": 5
+    },
+    {
+      "id": 283,
+      "index": 283,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "It's nice to know someone else is up here!",
+      "wordCount": 9
+    },
+    {
+      "id": 284,
+      "index": 284,
+      "character": "VOICE",
+      "gender": "NA",
+      "line": "I can smell you.",
+      "wordCount": 4
+    },
+    {
+      "id": 285,
+      "index": 285,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "What? You can smell us?",
+      "wordCount": 5
+    },
+    {
+      "id": 286,
+      "index": 286,
+      "character": "VOICE",
+      "gender": "NA",
+      "line": "I can smell you.",
+      "wordCount": 4
+    },
+    {
+      "id": 287,
+      "index": 287,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Hey.",
+      "wordCount": 1
+    },
+    {
+      "id": 288,
+      "index": 288,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "You were talking to a rock. Russell points to another rock shape.",
+      "wordCount": 12
+    },
+    {
+      "id": 289,
+      "index": 289,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Hey, that one looks like a turtle!",
+      "wordCount": 7
+    },
+    {
+      "id": 290,
+      "index": 290,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Look at that one! That one looks like a dog! The \"rock\" walks forward.",
+      "wordCount": 14
+    },
+    {
+      "id": 291,
+      "index": 291,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "It is a dog!",
+      "wordCount": 4
+    },
+    {
+      "id": 292,
+      "index": 292,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "What?",
+      "wordCount": 1
+    },
+    {
+      "id": 293,
+      "index": 293,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Uh, we're not allowed to have dogs in my apartment. The dog nuzzles Russell, who nervously pets it.",
+      "wordCount": 18
+    },
+    {
+      "id": 294,
+      "index": 294,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Hey, I like dogs!",
+      "wordCount": 4
+    },
+    {
+      "id": 295,
+      "index": 295,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "We have your dog! Wonder who he belongs to?",
+      "wordCount": 9
+    },
+    {
+      "id": 296,
+      "index": 296,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Sit boy.",
+      "wordCount": 2
+    },
+    {
+      "id": 297,
+      "index": 297,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Hey look, he's trained! Shake!",
+      "wordCount": 5
+    },
+    {
+      "id": 298,
+      "index": 298,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Uh-huh. Speak.",
+      "wordCount": 2
+    },
+    {
+      "id": 299,
+      "index": 299,
+      "character": "DUG",
+      "gender": "Male",
+      "line": "Hi there.",
+      "wordCount": 2
+    },
+    {
+      "id": 300,
+      "index": 300,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Did that dog just say \"Hi there?\"",
+      "wordCount": 7
+    },
+    {
+      "id": 301,
+      "index": 301,
+      "character": "DUG",
+      "gender": "Male",
+      "line": "Oh yes. Carl JUMPS back.",
+      "wordCount": 5
+    },
+    {
+      "id": 302,
+      "index": 302,
+      "character": "DUG",
+      "gender": "Male",
+      "line": "My name is Dug. I have just met you and I love you.",
+      "wordCount": 13
+    },
+    {
+      "id": 303,
+      "index": 303,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Uh..wha?",
+      "wordCount": 1
+    },
+    {
+      "id": 304,
+      "index": 304,
+      "character": "DUG",
+      "gender": "Male",
+      "line": "My master made me this collar. He is a good and smart master and he made me this collar so that I may talk -- SQUIRREL!! Dug stares transfixed at a tree. False alarm.",
+      "wordCount": 34
+    },
+    {
+      "id": 305,
+      "index": 305,
+      "character": "DUG",
+      "gender": "Male",
+      "line": "My master is good and smart.",
+      "wordCount": 6
+    },
+    {
+      "id": 306,
+      "index": 306,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "It's not possible.",
+      "wordCount": 3
+    },
+    {
+      "id": 307,
+      "index": 307,
+      "character": "DUG",
+      "gender": "Male",
+      "line": "Oh it is, because my master is smart.",
+      "wordCount": 8
+    },
+    {
+      "id": 308,
+      "index": 308,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Cool! What do these do, boy?",
+      "wordCount": 6
+    },
+    {
+      "id": 309,
+      "index": 309,
+      "character": "DUG",
+      "gender": "Male",
+      "line": "Hey would you-",
+      "wordCount": 3
+    },
+    {
+      "id": 310,
+      "index": 310,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Russell, don't touch that. It could be radioactive or something. Dug sniffs the ground around Carl and Russell.",
+      "wordCount": 18
+    },
+    {
+      "id": 311,
+      "index": 311,
+      "character": "DUG",
+      "gender": "Male",
+      "line": "I am a great tracker. My pack sent me on a special mission all by myself. Have you seen a bird? I want to find one and I have been on the scent. I am a great tracker, did I mention that? BAM! The bird tackles Dug and HISSES.",
+      "wordCount": 49
+    },
+    {
+      "id": 312,
+      "index": 312,
+      "character": "DUG",
+      "gender": "Male",
+      "line": "Hey, that is the bird! I have never seen one up close but this is the bird. May I take your bird back to camp as my prisoner?",
+      "wordCount": 28
+    },
+    {
+      "id": 313,
+      "index": 313,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Yes! Take it! And on the way, learn how to bark like a real dog!",
+      "wordCount": 15
+    },
+    {
+      "id": 314,
+      "index": 314,
+      "character": "DUG",
+      "gender": "Male",
+      "line": "Oh I can bark! Dug BARKS.",
+      "wordCount": 6
+    },
+    {
+      "id": 315,
+      "index": 315,
+      "character": "DUG",
+      "gender": "Male",
+      "line": "And here's howling! Dug HOWLS. The bird HISSES at Dug.",
+      "wordCount": 10
+    },
+    {
+      "id": 316,
+      "index": 316,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Can we keep him? Please please please?",
+      "wordCount": 7
+    },
+    {
+      "id": 317,
+      "index": 317,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "No.",
+      "wordCount": 1
+    },
+    {
+      "id": 318,
+      "index": 318,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "But it's a talking dog!",
+      "wordCount": 5
+    },
+    {
+      "id": 319,
+      "index": 319,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "It's just a weird trick or something. Let's get to the falls.",
+      "wordCount": 12
+    },
+    {
+      "id": 320,
+      "index": 320,
+      "character": "DUG",
+      "gender": "Male",
+      "line": "Please be my prisoner. Oh please oh please be my prisoner.",
+      "wordCount": 11
+    },
+    {
+      "id": 321,
+      "index": 321,
+      "character": "GAMMA",
+      "gender": "Male",
+      "line": "Oh, here it is. I picked up the bird's scent!",
+      "wordCount": 10
+    },
+    {
+      "id": 322,
+      "index": 322,
+      "character": "BETA",
+      "gender": "Male",
+      "line": "Wait a minute, wait a minute! What is this? Chocolate. I smell chocolate.",
+      "wordCount": 13
+    },
+    {
+      "id": 323,
+      "index": 323,
+      "character": "GAMMA",
+      "gender": "Male",
+      "line": "I'm getting prunes and denture cream! Who are they?",
+      "wordCount": 9
+    },
+    {
+      "id": 324,
+      "index": 324,
+      "character": "BETA",
+      "gender": "Male",
+      "line": "Ah man, Master will not be pleased. We'd better tell him someone took the bird, right Alpha? ALPHA, a Doberman pinscher, sits with his back to them.",
+      "wordCount": 27
+    },
+    {
+      "id": 325,
+      "index": 325,
+      "character": "ALPHA",
+      "gender": "NA",
+      "line": "No. Soon enough the bird will be ours yet again.",
+      "wordCount": 10
+    },
+    {
+      "id": 326,
+      "index": 326,
+      "character": "ALPHA",
+      "gender": "NA",
+      "line": "Find the scent, my compadres and you two shall have much rewardings from Master for the toil factor you wage.",
+      "wordCount": 20
+    },
+    {
+      "id": 327,
+      "index": 327,
+      "character": "BETA",
+      "gender": "Male",
+      "line": "Hey Alpha, I think there's something wrong with your collar. You must have bumped it.",
+      "wordCount": 15
+    },
+    {
+      "id": 328,
+      "index": 328,
+      "character": "GAMMA",
+      "gender": "Male",
+      "line": "Yeah, your voice sounds funny! Beta and Gamma LAUGH. Alpha turns. They stop laughing.",
+      "wordCount": 14
+    },
+    {
+      "id": 329,
+      "index": 329,
+      "character": "ALPHA",
+      "gender": "NA",
+      "line": "Beta. Gamma. Mayhaps you desire to -- SQUIRREL!",
+      "wordCount": 8
+    },
+    {
+      "id": 330,
+      "index": 330,
+      "character": "ALPHA",
+      "gender": "NA",
+      "line": "Mayhaps you desire to challenge the ranking that I have been assigned by my strength and cunning?",
+      "wordCount": 17
+    },
+    {
+      "id": 331,
+      "index": 331,
+      "character": "BETA",
+      "gender": "Male",
+      "line": "No no. But maybe Dug would. You might want to ask him.",
+      "wordCount": 12
+    },
+    {
+      "id": 332,
+      "index": 332,
+      "character": "GAMMA",
+      "gender": "Male",
+      "line": "Yeah, I wonder if he's found the bird on his very special mission.",
+      "wordCount": 13
+    },
+    {
+      "id": 333,
+      "index": 333,
+      "character": "ALPHA",
+      "gender": "NA",
+      "line": "Do not mention Dug to me at this time. His fool's errand will keep him most occupied, most occupied indeed. Ha ha ha. Do you not agree with that which I am saying to you now?",
+      "wordCount": 36
+    },
+    {
+      "id": 334,
+      "index": 334,
+      "character": "BETA",
+      "gender": "Male",
+      "line": "Sure, but the second Master finds out you sent Dug out by himself, none of us will get a treat.",
+      "wordCount": 20
+    },
+    {
+      "id": 335,
+      "index": 335,
+      "character": "ALPHA",
+      "gender": "NA",
+      "line": "You are wise, my trusted Lieutenant.",
+      "wordCount": 6
+    },
+    {
+      "id": 336,
+      "index": 336,
+      "character": "ALPHA",
+      "gender": "NA",
+      "line": "This is Alpha calling Dug. Come in, Dug.",
+      "wordCount": 8
+    },
+    {
+      "id": 337,
+      "index": 337,
+      "character": "DUG",
+      "gender": "Male",
+      "line": "Hi Alpha. Hey, your voice sounds funny.",
+      "wordCount": 7
+    },
+    {
+      "id": 338,
+      "index": 338,
+      "character": "ALPHA",
+      "gender": "NA",
+      "line": "I know, I know! Have you seen the bird?",
+      "wordCount": 9
+    },
+    {
+      "id": 339,
+      "index": 339,
+      "character": "DUG",
+      "gender": "Male",
+      "line": "Why yes, the bird is my prisoner now.",
+      "wordCount": 8
+    },
+    {
+      "id": 340,
+      "index": 340,
+      "character": "GAMMA",
+      "gender": "Male",
+      "line": "Yeah, right.",
+      "wordCount": 2
+    },
+    {
+      "id": 341,
+      "index": 341,
+      "character": "ALPHA",
+      "gender": "NA",
+      "line": "Impossible! Where are you?!",
+      "wordCount": 4
+    },
+    {
+      "id": 342,
+      "index": 342,
+      "character": "DUG",
+      "gender": "Male",
+      "line": "I am here with the bird and I will bring it back and then you will like me. Oh, gotta go. On the collar screen, the dogs get a fleeting glimpse of a boy's face. It's Russell.",
+      "wordCount": 37
+    },
+    {
+      "id": 343,
+      "index": 343,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Hey Dug! Who you talking to?",
+      "wordCount": 6
+    },
+    {
+      "id": 344,
+      "index": 344,
+      "character": "BETA",
+      "gender": "Male",
+      "line": "What's Dug doing?",
+      "wordCount": 3
+    },
+    {
+      "id": 345,
+      "index": 345,
+      "character": "GAMMA",
+      "gender": "Male",
+      "line": "Why's he with that small mailman?",
+      "wordCount": 6
+    },
+    {
+      "id": 346,
+      "index": 346,
+      "character": "BETA",
+      "gender": "Male",
+      "line": "Where are they?",
+      "wordCount": 3
+    },
+    {
+      "id": 347,
+      "index": 347,
+      "character": "ALPHA",
+      "gender": "NA",
+      "line": "There he is. Come on!",
+      "wordCount": 5
+    },
+    {
+      "id": 348,
+      "index": 348,
+      "character": "DUG",
+      "gender": "Male",
+      "line": "Oh please oh please oh PLEASE be my prisoner!",
+      "wordCount": 9
+    },
+    {
+      "id": 349,
+      "index": 349,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Dug, stop bothering Kevin!",
+      "wordCount": 4
+    },
+    {
+      "id": 350,
+      "index": 350,
+      "character": "DUG",
+      "gender": "Male",
+      "line": "That man there says I can take the bird and I love that man there like he is my master.",
+      "wordCount": 20
+    },
+    {
+      "id": 351,
+      "index": 351,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "I am not your master!",
+      "wordCount": 5
+    },
+    {
+      "id": 352,
+      "index": 352,
+      "character": "DUG",
+      "gender": "Male",
+      "line": "I am warning you, once again, bird!",
+      "wordCount": 7
+    },
+    {
+      "id": 353,
+      "index": 353,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Hey! Quit it!",
+      "wordCount": 3
+    },
+    {
+      "id": 354,
+      "index": 354,
+      "character": "DUG",
+      "gender": "Male",
+      "line": "I am jumping on you now, bird.",
+      "wordCount": 7
+    },
+    {
+      "id": 355,
+      "index": 355,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Russell! At this rate we'll never get to the falls!",
+      "wordCount": 10
+    },
+    {
+      "id": 356,
+      "index": 356,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "I am nobody's master, got it? I don't want you here, ...and I don't want you here. I'm stuck with you. And if you two don't clear out of here by the time I count to three- Dug sees the tennis balls on Carl's cane.",
+      "wordCount": 45
+    },
+    {
+      "id": 357,
+      "index": 357,
+      "character": "DUG",
+      "gender": "Male",
+      "line": "A ball! Oh boy oh boy! A ball!",
+      "wordCount": 8
+    },
+    {
+      "id": 358,
+      "index": 358,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Ball? Carl pops off one of the tennis balls.",
+      "wordCount": 9
+    },
+    {
+      "id": 359,
+      "index": 359,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "You want it boy? Huh? Huh? Yeah?",
+      "wordCount": 7
+    },
+    {
+      "id": 360,
+      "index": 360,
+      "character": "DUG",
+      "gender": "Male",
+      "line": "Oh oh oh! Yes, I do. I do ever so want the ball!",
+      "wordCount": 13
+    },
+    {
+      "id": 361,
+      "index": 361,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Go get it!! Carl throws the ball far away. Dug chases after it.",
+      "wordCount": 13
+    },
+    {
+      "id": 362,
+      "index": 362,
+      "character": "DUG",
+      "gender": "Male",
+      "line": "Oh boy, oh boy! I will get it and then bring it back!",
+      "wordCount": 13
+    },
+    {
+      "id": 363,
+      "index": 363,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Why?",
+      "wordCount": 1
+    },
+    {
+      "id": 364,
+      "index": 364,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Just give it to me! Carl grabs some chocolate and waves it at the bird.",
+      "wordCount": 15
+    },
+    {
+      "id": 365,
+      "index": 365,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Bird. Bird! Carl THROWS the chocolate. The bird runs after it.",
+      "wordCount": 11
+    },
+    {
+      "id": 366,
+      "index": 366,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "C'mon Russell!",
+      "wordCount": 2
+    },
+    {
+      "id": 367,
+      "index": 367,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Wait. Wait, Mr. Fredricksen.",
+      "wordCount": 4
+    },
+    {
+      "id": 368,
+      "index": 368,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Daah!",
+      "wordCount": 1
+    },
+    {
+      "id": 369,
+      "index": 369,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Aaahh...",
+      "wordCount": 1
+    },
+    {
+      "id": 370,
+      "index": 370,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "What are we doing?",
+      "wordCount": 4
+    },
+    {
+      "id": 371,
+      "index": 371,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Hey, uh, we're pretty far now. Kevin's gonna miss me.",
+      "wordCount": 10
+    },
+    {
+      "id": 372,
+      "index": 372,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "I think that did the trick.",
+      "wordCount": 6
+    },
+    {
+      "id": 373,
+      "index": 373,
+      "character": "DUG",
+      "gender": "Male",
+      "line": "Hi, Master.",
+      "wordCount": 2
+    },
+    {
+      "id": 374,
+      "index": 374,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Afternoon. Carl turns the other way. The bird. It HONKS at him.",
+      "wordCount": 12
+    },
+    {
+      "id": 375,
+      "index": 375,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Well, thanks for keeping us dry anyway, Ellie.",
+      "wordCount": 8
+    },
+    {
+      "id": 376,
+      "index": 376,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Which one's the front?",
+      "wordCount": 4
+    },
+    {
+      "id": 377,
+      "index": 377,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Is this step three, or step five? Carl ROLLS HIS EYES at Russell's ineptness.",
+      "wordCount": 14
+    },
+    {
+      "id": 378,
+      "index": 378,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "There! Russell struggles with a tent pole, trying to winch it into place.",
+      "wordCount": 13
+    },
+    {
+      "id": 379,
+      "index": 379,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "All done. Russell turns, revealing a large RED WELT on his face.",
+      "wordCount": 12
+    },
+    {
+      "id": 380,
+      "index": 380,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "That's for you!",
+      "wordCount": 3
+    },
+    {
+      "id": 381,
+      "index": 381,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Awh. Tents are hard.",
+      "wordCount": 4
+    },
+    {
+      "id": 382,
+      "index": 382,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Wait, aren't you \"Super Wilderness Guy?\" With the GPM's and the badges?",
+      "wordCount": 12
+    },
+    {
+      "id": 383,
+      "index": 383,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Yeah, but... can I tell you a secret?",
+      "wordCount": 8
+    },
+    {
+      "id": 384,
+      "index": 384,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "No.",
+      "wordCount": 1
+    },
+    {
+      "id": 385,
+      "index": 385,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Alright, here goes. I never actually built a tent before. There. I said it.",
+      "wordCount": 14
+    },
+    {
+      "id": 386,
+      "index": 386,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "You've been camping before, haven't you?",
+      "wordCount": 6
+    },
+    {
+      "id": 387,
+      "index": 387,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Well, never outside.",
+      "wordCount": 3
+    },
+    {
+      "id": 388,
+      "index": 388,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Well, why didn't you ask your Dad how to build a tent?",
+      "wordCount": 12
+    },
+    {
+      "id": 389,
+      "index": 389,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "I don't think he wants to talk about this stuff.",
+      "wordCount": 10
+    },
+    {
+      "id": 390,
+      "index": 390,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Why don't you try him sometime? Maybe he'll surprise you.",
+      "wordCount": 10
+    },
+    {
+      "id": 391,
+      "index": 391,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Well, he's away a lot. I don't see him much.",
+      "wordCount": 10
+    },
+    {
+      "id": 392,
+      "index": 392,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "He's got to be home sometime.",
+      "wordCount": 6
+    },
+    {
+      "id": 393,
+      "index": 393,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Well, I called, but Phyllis told me I bug him too much.",
+      "wordCount": 12
+    },
+    {
+      "id": 394,
+      "index": 394,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Phyllis? You call your own mother by her first name?",
+      "wordCount": 10
+    },
+    {
+      "id": 395,
+      "index": 395,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Phyllis isn't my mom. Carl realizes he put his foot in it.",
+      "wordCount": 12
+    },
+    {
+      "id": 396,
+      "index": 396,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Oh.",
+      "wordCount": 1
+    },
+    {
+      "id": 397,
+      "index": 397,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "But he promised he'd come to my Explorer ceremony to pin on my Assisting the Elderly badge, so he can show me about tents then, right?",
+      "wordCount": 26
+    },
+    {
+      "id": 398,
+      "index": 398,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Hey, uh, why don't you get some sleep. Don't want to wake up the traveling flea circus.",
+      "wordCount": 17
+    },
+    {
+      "id": 399,
+      "index": 399,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Mr. Fredricksen, Dug says he wants to take Kevin prisoner. We have to protect him!",
+      "wordCount": 15
+    },
+    {
+      "id": 400,
+      "index": 400,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Can Kevin go with us?",
+      "wordCount": 5
+    },
+    {
+      "id": 401,
+      "index": 401,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Alright. He can come.",
+      "wordCount": 4
+    },
+    {
+      "id": 402,
+      "index": 402,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Promise you won't leave him?",
+      "wordCount": 5
+    },
+    {
+      "id": 403,
+      "index": 403,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Yeah.",
+      "wordCount": 1
+    },
+    {
+      "id": 404,
+      "index": 404,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Cross your heart?",
+      "wordCount": 3
+    },
+    {
+      "id": 405,
+      "index": 405,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Cross my heart.",
+      "wordCount": 3
+    },
+    {
+      "id": 406,
+      "index": 406,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "What have I got myself into, Ellie?",
+      "wordCount": 7
+    },
+    {
+      "id": 407,
+      "index": 407,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Morning Sweetheart.",
+      "wordCount": 2
+    },
+    {
+      "id": 408,
+      "index": 408,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "We better get moving.",
+      "wordCount": 4
+    },
+    {
+      "id": 409,
+      "index": 409,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Huh. Bird's gone. Maybe Russell won't notice. Alright, everybody up!",
+      "wordCount": 10
+    },
+    {
+      "id": 410,
+      "index": 410,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Where's Kevin? He's wandered off! Kevin! Dug, find Kevin!",
+      "wordCount": 9
+    },
+    {
+      "id": 411,
+      "index": 411,
+      "character": "DUG",
+      "gender": "Male",
+      "line": "Find the bird. Find the bird...",
+      "wordCount": 6
+    },
+    {
+      "id": 412,
+      "index": 412,
+      "character": "POINT!",
+      "gender": "NA",
+      "line": "Dug goes rigid like a pointer dog and \"points\" to the left.",
+      "wordCount": 12
+    },
+    {
+      "id": 413,
+      "index": 413,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Oh, look! There he is.",
+      "wordCount": 5
+    },
+    {
+      "id": 414,
+      "index": 414,
+      "character": "POINT!",
+      "gender": "NA",
+      "line": "The bird has gathered a pile of food on Carl's roof.",
+      "wordCount": 11
+    },
+    {
+      "id": 415,
+      "index": 415,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Hey, that's my food! Get off my roof!",
+      "wordCount": 8
+    },
+    {
+      "id": 416,
+      "index": 416,
+      "character": "DUG",
+      "gender": "Male",
+      "line": "Yeah, get off of his <>!",
+      "wordCount": 6
+    },
+    {
+      "id": 417,
+      "index": 417,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "What is it doing?",
+      "wordCount": 4
+    },
+    {
+      "id": 418,
+      "index": 418,
+      "character": "DUG",
+      "gender": "Male",
+      "line": "The bird is calling to her babies.",
+      "wordCount": 7
+    },
+    {
+      "id": 419,
+      "index": 419,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Her babies! Kevin's a girl? The bird gobbles the food and jumps off the roof.",
+      "wordCount": 15
+    },
+    {
+      "id": 420,
+      "index": 420,
+      "character": "DUG",
+      "gender": "Male",
+      "line": "Her house is over there in those twisty rocks. Miles off is a huge grouping of rocks; the LABYRINTH. The baby birds call from somewhere inside.",
+      "wordCount": 26
+    },
+    {
+      "id": 421,
+      "index": 421,
+      "character": "DUG",
+      "gender": "Male",
+      "line": "She has been gathering food for her babies and must get back to them.",
+      "wordCount": 14
+    },
+    {
+      "id": 422,
+      "index": 422,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Wait, Kevin's just leaving? But you promised to protect her!",
+      "wordCount": 10
+    },
+    {
+      "id": 423,
+      "index": 423,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Her babies need her, we gotta make sure they're together.",
+      "wordCount": 10
+    },
+    {
+      "id": 424,
+      "index": 424,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Sorry Russell. We've lost enough time already.",
+      "wordCount": 7
+    },
+    {
+      "id": 425,
+      "index": 425,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Yeah...",
+      "wordCount": 1
+    },
+    {
+      "id": 426,
+      "index": 426,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "This was her favorite chocolate. Because you sent her away, there's more for you. Carl rolls his eyes and SIGHS.",
+      "wordCount": 20
+    },
+    {
+      "id": 427,
+      "index": 427,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Huh?",
+      "wordCount": 1
+    },
+    {
+      "id": 428,
+      "index": 428,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Kevin?",
+      "wordCount": 1
+    },
+    {
+      "id": 429,
+      "index": 429,
+      "character": "ALPHA",
+      "gender": "NA",
+      "line": "Where's the bird? You said you had the bird.",
+      "wordCount": 9
+    },
+    {
+      "id": 430,
+      "index": 430,
+      "character": "DUG",
+      "gender": "Male",
+      "line": "Oh, yes. Oh, yes. Since I have said that, I can see how you would think that.",
+      "wordCount": 17
+    },
+    {
+      "id": 431,
+      "index": 431,
+      "character": "ALPHA",
+      "gender": "NA",
+      "line": "Where is it?",
+      "wordCount": 3
+    },
+    {
+      "id": 432,
+      "index": 432,
+      "character": "DUG",
+      "gender": "Male",
+      "line": "Uh, tomorrow. Come back tomorrow and then I will again have the bird. Yes.",
+      "wordCount": 14
+    },
+    {
+      "id": 433,
+      "index": 433,
+      "character": "ALPHA",
+      "gender": "NA",
+      "line": "You lost it. Why do I not have a surprised feeling? Well, at least you now have lead us to the small mailman and The One Who Smells of Prunes.",
+      "wordCount": 30
+    },
+    {
+      "id": 434,
+      "index": 434,
+      "character": "ALPHA",
+      "gender": "NA",
+      "line": "Master will be most pleased we have found them, and will ask of them many questions. Come!",
+      "wordCount": 17
+    },
+    {
+      "id": 435,
+      "index": 435,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Wait, we're not going with you. We're going to the falls! Gamma and Beta BARK fiercely at Carl.",
+      "wordCount": 18
+    },
+    {
+      "id": 436,
+      "index": 436,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Get away from me! Get down!",
+      "wordCount": 6
+    },
+    {
+      "id": 437,
+      "index": 437,
+      "character": "VOICE",
+      "gender": "NA",
+      "line": "Stay!",
+      "wordCount": 1
+    },
+    {
+      "id": 438,
+      "index": 438,
+      "character": "VOICE",
+      "gender": "NA",
+      "line": "You came here in that?",
+      "wordCount": 5
+    },
+    {
+      "id": 439,
+      "index": 439,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Uh... yeah.",
+      "wordCount": 2
+    },
+    {
+      "id": 440,
+      "index": 440,
+      "character": "VOICE",
+      "gender": "NA",
+      "line": "In a house? A floating house? The man laughs. Carl and Russell laugh along nervously.",
+      "wordCount": 15
+    },
+    {
+      "id": 441,
+      "index": 441,
+      "character": "VOICE",
+      "gender": "NA",
+      "line": "That is the darndest thing I've ever seen! You're not after my bird, are you? But if you need to borrow a cup of sugar, I'd be happy to oblige! The dogs LAUGH uproariously at the man's joke.",
+      "wordCount": 38
+    },
+    {
+      "id": 442,
+      "index": 442,
+      "character": "VOICE",
+      "gender": "NA",
+      "line": "Well, this is all a misunderstanding. My dogs made a mistake.",
+      "wordCount": 11
+    },
+    {
+      "id": 443,
+      "index": 443,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Wait, are you Charles Muntz?!",
+      "wordCount": 5
+    },
+    {
+      "id": 444,
+      "index": 444,
+      "character": "MUNTZ",
+      "gender": "Male",
+      "line": "Well... Yes.",
+      "wordCount": 2
+    },
+    {
+      "id": 445,
+      "index": 445,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "The Charles Muntz?",
+      "wordCount": 3
+    },
+    {
+      "id": 446,
+      "index": 446,
+      "character": "MUNTZ",
+      "gender": "Male",
+      "line": "\"Adventure is out there!\"",
+      "wordCount": 4
+    },
+    {
+      "id": 447,
+      "index": 447,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "It's really him! That's Charles Muntz!",
+      "wordCount": 6
+    },
+    {
+      "id": 448,
+      "index": 448,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Him!",
+      "wordCount": 1
+    },
+    {
+      "id": 449,
+      "index": 449,
+      "character": "DOG WALLA",
+      "gender": "NA",
+      "line": "Yes! It is him! He is!",
+      "wordCount": 6
+    },
+    {
+      "id": 450,
+      "index": 450,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "I'm Carl Fredricksen. My wife and I, we were your biggest fans!",
+      "wordCount": 12
+    },
+    {
+      "id": 451,
+      "index": 451,
+      "character": "MUNTZ",
+      "gender": "Male",
+      "line": "Well, you're a man of good taste!",
+      "wordCount": 7
+    },
+    {
+      "id": 452,
+      "index": 452,
+      "character": "MUNTZ",
+      "gender": "Male",
+      "line": "You must be tired. Hungry?",
+      "wordCount": 5
+    },
+    {
+      "id": 453,
+      "index": 453,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Uh-huh.",
+      "wordCount": 1
+    },
+    {
+      "id": 454,
+      "index": 454,
+      "character": "MUNTZ",
+      "gender": "Male",
+      "line": "Attention everyone! These people are no longer intruders. They are our guests.",
+      "wordCount": 12
+    },
+    {
+      "id": 455,
+      "index": 455,
+      "character": "DOG WALLA",
+      "gender": "NA",
+      "line": "Follow me! I like you temporarily. You do smell like prunes. I will not bite you.",
+      "wordCount": 16
+    },
+    {
+      "id": 456,
+      "index": 456,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Wow.",
+      "wordCount": 1
+    },
+    {
+      "id": 457,
+      "index": 457,
+      "character": "MUNTZ",
+      "gender": "Male",
+      "line": "I'm sorry about the dogs -- hope they weren't too rough on you.",
+      "wordCount": 13
+    },
+    {
+      "id": 458,
+      "index": 458,
+      "character": "GAMMA",
+      "gender": "Male",
+      "line": "We weren't!",
+      "wordCount": 2
+    },
+    {
+      "id": 459,
+      "index": 459,
+      "character": "MUNTZ",
+      "gender": "Male",
+      "line": "Go ahead and moor your airship right next to mine.",
+      "wordCount": 10
+    },
+    {
+      "id": 460,
+      "index": 460,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "We're not actually going inside the \"Spirit of Adventure\" itself?!",
+      "wordCount": 10
+    },
+    {
+      "id": 461,
+      "index": 461,
+      "character": "MUNTZ",
+      "gender": "Male",
+      "line": "Oh. Would you like to?",
+      "wordCount": 5
+    },
+    {
+      "id": 462,
+      "index": 462,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Would I?!?!",
+      "wordCount": 2
+    },
+    {
+      "id": 463,
+      "index": 463,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Wait up, Mr. Muntz!",
+      "wordCount": 4
+    },
+    {
+      "id": 464,
+      "index": 464,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Jiminy Cricket.",
+      "wordCount": 2
+    },
+    {
+      "id": 465,
+      "index": 465,
+      "character": "BETA",
+      "gender": "Male",
+      "line": "Not you.",
+      "wordCount": 2
+    },
+    {
+      "id": 466,
+      "index": 466,
+      "character": "GAMMA",
+      "gender": "Male",
+      "line": "What do we do with Dug?",
+      "wordCount": 6
+    },
+    {
+      "id": 467,
+      "index": 467,
+      "character": "ALPHA",
+      "gender": "NA",
+      "line": "He has lost the bird. Put him in the Cone of Shame.",
+      "wordCount": 12
+    },
+    {
+      "id": 468,
+      "index": 468,
+      "character": "DUG",
+      "gender": "Male",
+      "line": "I do not like the Cone of Shame.",
+      "wordCount": 8
+    },
+    {
+      "id": 469,
+      "index": 469,
+      "character": "MUNTZ",
+      "gender": "Male",
+      "line": "Most of the collection is housed in the world's top museums: New York, Munich, London... `Course I kept the best for myself.",
+      "wordCount": 22
+    },
+    {
+      "id": 470,
+      "index": 470,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Did you ever! Will you look at that?",
+      "wordCount": 8
+    },
+    {
+      "id": 471,
+      "index": 471,
+      "character": "MUNTZ",
+      "gender": "Male",
+      "line": "Oh yes, the Arsinoitherium. Beast charged while I was brushing my teeth. Used my shaving kit to bring him down. A dog approaches carrying a menu. Muntz waves it off.",
+      "wordCount": 30
+    },
+    {
+      "id": 472,
+      "index": 472,
+      "character": "MUNTZ",
+      "gender": "Male",
+      "line": "Oh, surprise me. Only way to get it out of Ethiopia at the time was to have it declared as \"dental equipment!\" Muntz LAUGHS. Behind him, a dog can't resist gnawing at one of the bones.",
+      "wordCount": 36
+    },
+    {
+      "id": 473,
+      "index": 473,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Oh my gosh, the Giant Somalian Leopard Tortoise!",
+      "wordCount": 8
+    },
+    {
+      "id": 474,
+      "index": 474,
+      "character": "MUNTZ",
+      "gender": "Male",
+      "line": "Oh, you recognize it? I'm impressed! That's an interesting story there...",
+      "wordCount": 11
+    },
+    {
+      "id": 475,
+      "index": 475,
+      "character": "MUNTZ",
+      "gender": "Male",
+      "line": "Hm, excellent choice. I found it on safari with Roosevelt. Two dogs work together to remove the cork from the bottle. POP! They sloppily pour two glasses.",
+      "wordCount": 27
+    },
+    {
+      "id": 476,
+      "index": 476,
+      "character": "MUNTZ",
+      "gender": "Male",
+      "line": "He and I fell into a habit of playing gin rummy in the evenings. And did he cheat? Oh, he was horrible!",
+      "wordCount": 22
+    },
+    {
+      "id": 477,
+      "index": 477,
+      "character": "ALPHA",
+      "gender": "NA",
+      "line": "Master, dinner is ready.",
+      "wordCount": 4
+    },
+    {
+      "id": 478,
+      "index": 478,
+      "character": "MUNTZ",
+      "gender": "Male",
+      "line": "Oh dear, broken translator. It's that loose wire again. There you go big fella.",
+      "wordCount": 14
+    },
+    {
+      "id": 479,
+      "index": 479,
+      "character": "ALPHA",
+      "gender": "NA",
+      "line": "Thank you Master. Russell reacts.",
+      "wordCount": 5
+    },
+    {
+      "id": 480,
+      "index": 480,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "I liked his other voice. Muntz LAUGHS.",
+      "wordCount": 7
+    },
+    {
+      "id": 481,
+      "index": 481,
+      "character": "MUNTZ",
+      "gender": "Male",
+      "line": "Well, dinner is served! Right this way.",
+      "wordCount": 7
+    },
+    {
+      "id": 482,
+      "index": 482,
+      "character": "MUNTZ",
+      "gender": "Male",
+      "line": "So how are things stateside? Almost tempted to go back a few times, but I have unfinished work here... Please. Dogs pull back chairs for them. They sit. Dog waiters place napkins on their laps.",
+      "wordCount": 35
+    },
+    {
+      "id": 483,
+      "index": 483,
+      "character": "MUNTZ",
+      "gender": "Male",
+      "line": "I hope you're hungry because Epsilon is the finest chef I've ever had. Dogs bring out covered plates, look at each other, and remove the silver plate covers at the same time. The meals look delicious.",
+      "wordCount": 36
+    },
+    {
+      "id": 484,
+      "index": 484,
+      "character": "MUNTZ",
+      "gender": "Male",
+      "line": "Oh, Epsilon, you've done it again!",
+      "wordCount": 6
+    },
+    {
+      "id": 485,
+      "index": 485,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Yes!! Russell is served a hot dog. His waiter can't resist and eats a bite.",
+      "wordCount": 15
+    },
+    {
+      "id": 486,
+      "index": 486,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Hey!",
+      "wordCount": 1
+    },
+    {
+      "id": 487,
+      "index": 487,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Hey!",
+      "wordCount": 1
+    },
+    {
+      "id": 488,
+      "index": 488,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Oh my Ellie would have loved all this. You know, it's because of you she had this dream to come down here and live by Paradise Falls.",
+      "wordCount": 27
+    },
+    {
+      "id": 489,
+      "index": 489,
+      "character": "MUNTZ",
+      "gender": "Male",
+      "line": "I'm honored. And now you've made it!",
+      "wordCount": 7
+    },
+    {
+      "id": 490,
+      "index": 490,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "You're sure we're not a bother? I'd hate to impose.",
+      "wordCount": 10
+    },
+    {
+      "id": 491,
+      "index": 491,
+      "character": "MUNTZ",
+      "gender": "Male",
+      "line": "No no! It's a pleasure to have guests -- a real treat.",
+      "wordCount": 12
+    },
+    {
+      "id": 492,
+      "index": 492,
+      "character": "DOG WALLA",
+      "gender": "NA",
+      "line": "Treat?! Treat! I want a treat!",
+      "wordCount": 6
+    },
+    {
+      "id": 493,
+      "index": 493,
+      "character": "MUNTZ",
+      "gender": "Male",
+      "line": "No no, quiet! Calm down. Calm down... In the excitement a dog swipes the rest of Russell's hot dog.",
+      "wordCount": 19
+    },
+    {
+      "id": 494,
+      "index": 494,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Hey!",
+      "wordCount": 1
+    },
+    {
+      "id": 495,
+      "index": 495,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "No!",
+      "wordCount": 1
+    },
+    {
+      "id": 496,
+      "index": 496,
+      "character": "MUNTZ",
+      "gender": "Male",
+      "line": "They called me a fraud, those... dah! But once I bring back this creature, my name will be cleared. The lantern illuminates photographs, drawings, samples, feathers. Hundreds of them... all of THE BIRD. Kevin.",
+      "wordCount": 34
+    },
+    {
+      "id": 497,
+      "index": 497,
+      "character": "MUNTZ",
+      "gender": "Male",
+      "line": "Beautiful, isn't it? I've spent a lifetime tracking it. Sometimes years go by between sightings...",
+      "wordCount": 15
+    },
+    {
+      "id": 498,
+      "index": 498,
+      "character": "MUNTZ",
+      "gender": "Male",
+      "line": "And here they come, these bandits, and think the bird is theirs to take! But they soon find that this mountain is a very dangerous place.",
+      "wordCount": 26
+    },
+    {
+      "id": 499,
+      "index": 499,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Hey, that looks like Kevin!",
+      "wordCount": 5
+    },
+    {
+      "id": 500,
+      "index": 500,
+      "character": "MUNTZ",
+      "gender": "Male",
+      "line": "\"Kevin?\"",
+      "wordCount": 1
+    },
+    {
+      "id": 501,
+      "index": 501,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Yeah! That's my new giant bird pet. I trained it to follow us.",
+      "wordCount": 13
+    },
+    {
+      "id": 502,
+      "index": 502,
+      "character": "MUNTZ",
+      "gender": "Male",
+      "line": "Follow you? Impossible. How?",
+      "wordCount": 4
+    },
+    {
+      "id": 503,
+      "index": 503,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "She likes chocolate.",
+      "wordCount": 3
+    },
+    {
+      "id": 504,
+      "index": 504,
+      "character": "MUNTZ",
+      "gender": "Male",
+      "line": "Chocolate?",
+      "wordCount": 1
+    },
+    {
+      "id": 505,
+      "index": 505,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Yeah, I gave her some of my chocolate. She goes ga-ga for it.",
+      "wordCount": 13
+    },
+    {
+      "id": 506,
+      "index": 506,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "But it ran off! It's gone now.",
+      "wordCount": 7
+    },
+    {
+      "id": 507,
+      "index": 507,
+      "character": "MUNTZ",
+      "gender": "Male",
+      "line": "You know, Carl. These people who pass through here, they all tell pretty good stories. A \"Surveyor\" making a map. Using his cane, Muntz topples a helmet from the table. It rolls across the floor.",
+      "wordCount": 35
+    },
+    {
+      "id": 508,
+      "index": 508,
+      "character": "MUNTZ",
+      "gender": "Male",
+      "line": "A \"Botanist\" cataloguing plants.",
+      "wordCount": 4
+    },
+    {
+      "id": 509,
+      "index": 509,
+      "character": "MUNTZ",
+      "gender": "Male",
+      "line": "An old man taking his house to Paradise Falls.",
+      "wordCount": 9
+    },
+    {
+      "id": 510,
+      "index": 510,
+      "character": "MUNTZ",
+      "gender": "Male",
+      "line": "That's the best one yet. I can't wait to hear how it ends. Carl glances around nervously.",
+      "wordCount": 17
+    },
+    {
+      "id": 511,
+      "index": 511,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Well! It's been a wonderful evening, but we'd better be going.",
+      "wordCount": 11
+    },
+    {
+      "id": 512,
+      "index": 512,
+      "character": "MUNTZ",
+      "gender": "Male",
+      "line": "Oh, you're not leaving?",
+      "wordCount": 4
+    },
+    {
+      "id": 513,
+      "index": 513,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "We don't want to take advantage of your hospitality. Come on Russell.",
+      "wordCount": 12
+    },
+    {
+      "id": 514,
+      "index": 514,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "But we haven't even had dessert yet.",
+      "wordCount": 7
+    },
+    {
+      "id": 515,
+      "index": 515,
+      "character": "MUNTZ",
+      "gender": "Male",
+      "line": "No, the boy's right. You haven't had dessert. Epsilon here makes a delicious Cherries Jubilee.",
+      "wordCount": 15
+    },
+    {
+      "id": 516,
+      "index": 516,
+      "character": "MUNTZ",
+      "gender": "Male",
+      "line": "Oh, you really must stay. I insist! We have so much more to talk about!",
+      "wordCount": 15
+    },
+    {
+      "id": 517,
+      "index": 517,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Kevin? Muntz walks to the window and looks out. Atop the roof he sees THE BIRD.",
+      "wordCount": 16
+    },
+    {
+      "id": 518,
+      "index": 518,
+      "character": "MUNTZ",
+      "gender": "Male",
+      "line": "It's here. He turns back to Carl... but they're gone.",
+      "wordCount": 10
+    },
+    {
+      "id": 519,
+      "index": 519,
+      "character": "MUNTZ",
+      "gender": "Male",
+      "line": "Get them!",
+      "wordCount": 2
+    },
+    {
+      "id": 520,
+      "index": 520,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Hurry!",
+      "wordCount": 1
+    },
+    {
+      "id": 521,
+      "index": 521,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "I am hurrying!",
+      "wordCount": 3
+    },
+    {
+      "id": 522,
+      "index": 522,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "They're coming!",
+      "wordCount": 2
+    },
+    {
+      "id": 523,
+      "index": 523,
+      "character": "DUG",
+      "gender": "Male",
+      "line": "Master, over here!",
+      "wordCount": 3
+    },
+    {
+      "id": 524,
+      "index": 524,
+      "character": "DUG",
+      "gender": "Male",
+      "line": "Go toward the light, master! Dogs climb down the rocks, closing in on Carl and Russell.",
+      "wordCount": 16
+    },
+    {
+      "id": 525,
+      "index": 525,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Russell!",
+      "wordCount": 1
+    },
+    {
+      "id": 526,
+      "index": 526,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Get back!! Alpha is about to bite when an avalanche of boulders rains down! The dogs stop short.",
+      "wordCount": 18
+    },
+    {
+      "id": 527,
+      "index": 527,
+      "character": "DUG",
+      "gender": "Male",
+      "line": "Go on Master! I will stop the dogs! Dug jumps down to block the path of the approaching dogs.",
+      "wordCount": 19
+    },
+    {
+      "id": 528,
+      "index": 528,
+      "character": "DUG",
+      "gender": "Male",
+      "line": "Stop you dogs!!",
+      "wordCount": 3
+    },
+    {
+      "id": 529,
+      "index": 529,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Help! Help!",
+      "wordCount": 2
+    },
+    {
+      "id": 530,
+      "index": 530,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Gimme your hand! Carl holds out his cane so that Russell can GRAB it and Carl PULLS him back onto the bird. Meanwhile Dug manages to rejoin his friends, but just in time to reach the end of the line -- A CLIFF EDGE. A river winds 100 feet below.",
+      "wordCount": 50
+    },
+    {
+      "id": 531,
+      "index": 531,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Hang on to Kevin!",
+      "wordCount": 4
+    },
+    {
+      "id": 532,
+      "index": 532,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Kevin!",
+      "wordCount": 1
+    },
+    {
+      "id": 533,
+      "index": 533,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "No no no! Kevin! Stay down. She's hurt real bad. Can't we help her get home?",
+      "wordCount": 16
+    },
+    {
+      "id": 534,
+      "index": 534,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Alright. But we've got to hurry.",
+      "wordCount": 6
+    },
+    {
+      "id": 535,
+      "index": 535,
+      "character": "MUNTZ",
+      "gender": "Male",
+      "line": "You lost them?",
+      "wordCount": 3
+    },
+    {
+      "id": 536,
+      "index": 536,
+      "character": "BETA",
+      "gender": "Male",
+      "line": "Uh, it was Dug.",
+      "wordCount": 4
+    },
+    {
+      "id": 537,
+      "index": 537,
+      "character": "GAMMA",
+      "gender": "Male",
+      "line": "Yeah, he's with them. He helped them escape!",
+      "wordCount": 8
+    },
+    {
+      "id": 538,
+      "index": 538,
+      "character": "MUNTZ",
+      "gender": "Male",
+      "line": "Wait. Wait a minute. Dug...",
+      "wordCount": 5
+    },
+    {
+      "id": 539,
+      "index": 539,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "See anything?",
+      "wordCount": 2
+    },
+    {
+      "id": 540,
+      "index": 540,
+      "character": "DUG",
+      "gender": "Male",
+      "line": "No, my pack is not following us! Boy they are dumb. Dug scampers back to Carl and Russell, who pull the house from behind a tree canopy.",
+      "wordCount": 27
+    },
+    {
+      "id": 541,
+      "index": 541,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "This is crazy. I finally meet my childhood hero and he's trying to kill us! What a joke.",
+      "wordCount": 18
+    },
+    {
+      "id": 542,
+      "index": 542,
+      "character": "DUG",
+      "gender": "Male",
+      "line": "Hey, I know a joke. A squirrel walks up to a tree and says I forgot to store acorns for winter and now I am dead. Ha! It is funny because the squirrel gets dead. They pull the house, keeping it hidden behind the trees.",
+      "wordCount": 45
+    },
+    {
+      "id": 543,
+      "index": 543,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Careful Russell. The house bumps into a tree, jostling the injured BIRD on the porch.",
+      "wordCount": 15
+    },
+    {
+      "id": 544,
+      "index": 544,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "You okay, Kevin? Kevin goes back to sleep. Russell looks at her BANDAGED LEG.",
+      "wordCount": 14
+    },
+    {
+      "id": 545,
+      "index": 545,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "You know what, Mr. Fredricksen? The wilderness isn't quite what I expected.",
+      "wordCount": 12
+    },
+    {
+      "id": 546,
+      "index": 546,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Yeah? How so?",
+      "wordCount": 3
+    },
+    {
+      "id": 547,
+      "index": 547,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "It's kinda... wild. I mean, it's not how they made it sound in my book.",
+      "wordCount": 15
+    },
+    {
+      "id": 548,
+      "index": 548,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Hmm, get used to that, kid.",
+      "wordCount": 6
+    },
+    {
+      "id": 549,
+      "index": 549,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "My dad made it sound so easy. He's really good at camping, and how to make fire from rocks and stuff. He used to come to all my Sweatlodge meetings.",
+      "wordCount": 30
+    },
+    {
+      "id": 550,
+      "index": 550,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "And afterwards we'd go get ice cream at Fentons. I always get chocolate and he gets butter- brickle. Then we'd sit on this one curb, right outside, and I'll count all the blue cars and he counts all the red ones, and whoever gets the most, wins. I like that curb. He looks up at Carl.",
+      "wordCount": 56
+    },
+    {
+      "id": 551,
+      "index": 551,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "That might sound boring, but I think the boring stuff is the stuff I remember the most. They walk in silence. Carl understands.",
+      "wordCount": 23
+    },
+    {
+      "id": 552,
+      "index": 552,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Look, there it is!",
+      "wordCount": 4
+    },
+    {
+      "id": 553,
+      "index": 553,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Hold on Russell, stand still!",
+      "wordCount": 5
+    },
+    {
+      "id": 554,
+      "index": 554,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Look at that bird go!",
+      "wordCount": 5
+    },
+    {
+      "id": 555,
+      "index": 555,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Wait up, you overgrown chicken!",
+      "wordCount": 5
+    },
+    {
+      "id": 556,
+      "index": 556,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "That's it, go Kevin! Go find your babies!",
+      "wordCount": 8
+    },
+    {
+      "id": 557,
+      "index": 557,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Run Kevin! Run!",
+      "wordCount": 3
+    },
+    {
+      "id": 558,
+      "index": 558,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Oh no!",
+      "wordCount": 2
+    },
+    {
+      "id": 559,
+      "index": 559,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Russell, give me your knife!",
+      "wordCount": 5
+    },
+    {
+      "id": 560,
+      "index": 560,
+      "character": "MUNTZ",
+      "gender": "Male",
+      "line": "Get away from my bird!",
+      "wordCount": 5
+    },
+    {
+      "id": 561,
+      "index": 561,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "No!",
+      "wordCount": 1
+    },
+    {
+      "id": 562,
+      "index": 562,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "No! Carl pulls his house away from the flames.",
+      "wordCount": 9
+    },
+    {
+      "id": 563,
+      "index": 563,
+      "character": "MUNTZ",
+      "gender": "Male",
+      "line": "Careful. We want her in good shape for my return.",
+      "wordCount": 10
+    },
+    {
+      "id": 564,
+      "index": 564,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Let her go! Stop!",
+      "wordCount": 4
+    },
+    {
+      "id": 565,
+      "index": 565,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Kevin! Carl beats out the flames with his jacket. He extinguishes the flames.",
+      "wordCount": 13
+    },
+    {
+      "id": 566,
+      "index": 566,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "You gave away Kevin. You just gave her away.",
+      "wordCount": 9
+    },
+    {
+      "id": 567,
+      "index": 567,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "This is none of my concern. I didn't ask for any of this!",
+      "wordCount": 13
+    },
+    {
+      "id": 568,
+      "index": 568,
+      "character": "DUG",
+      "gender": "Male",
+      "line": "Master. It's alright.",
+      "wordCount": 3
+    },
+    {
+      "id": 569,
+      "index": 569,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "I am not your master! And if you hadn't a shown up, none of this would have happened! Bad dog! Bad dog!",
+      "wordCount": 22
+    },
+    {
+      "id": 570,
+      "index": 570,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Now, whether you assist me or not, I am going to Paradise Falls if it kills me.",
+      "wordCount": 17
+    },
+    {
+      "id": 571,
+      "index": 571,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Here. Behind him, Russell throws his sash on the ground.",
+      "wordCount": 10
+    },
+    {
+      "id": 572,
+      "index": 572,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "I don't want this anymore. Russell walks away. He sits on a rock, alone.",
+      "wordCount": 14
+    },
+    {
+      "id": 573,
+      "index": 573,
+      "character": "LOVE, ELLIE.\"",
+      "gender": "NA",
+      "line": "Carl smiles.",
+      "wordCount": 2
+    },
+    {
+      "id": 574,
+      "index": 574,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Russell?",
+      "wordCount": 1
+    },
+    {
+      "id": 575,
+      "index": 575,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Russell!",
+      "wordCount": 1
+    },
+    {
+      "id": 576,
+      "index": 576,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "I'm gonna help Kevin even if you won't!",
+      "wordCount": 8
+    },
+    {
+      "id": 577,
+      "index": 577,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "No, Russell! No! Carl runs back to his house and tries in desperation to lift it. He struggles, but the house doesn't budge. The balloons have lost too much helium.",
+      "wordCount": 30
+    },
+    {
+      "id": 578,
+      "index": 578,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Wahhoo!",
+      "wordCount": 1
+    },
+    {
+      "id": 579,
+      "index": 579,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Russell?",
+      "wordCount": 1
+    },
+    {
+      "id": 580,
+      "index": 580,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Dug!",
+      "wordCount": 1
+    },
+    {
+      "id": 581,
+      "index": 581,
+      "character": "DUG",
+      "gender": "Male",
+      "line": "I was hiding under your porch because I love you. Can I stay?",
+      "wordCount": 13
+    },
+    {
+      "id": 582,
+      "index": 582,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Can you stay? Well, you're my dog aren't you? And I'm your master!",
+      "wordCount": 13
+    },
+    {
+      "id": 583,
+      "index": 583,
+      "character": "DUG",
+      "gender": "Male",
+      "line": "You are my master?! Dug lunges forward and overwhelms Carl with dog kisses.",
+      "wordCount": 13
+    },
+    {
+      "id": 584,
+      "index": 584,
+      "character": "DUG",
+      "gender": "Male",
+      "line": "Oh boy. Oh boy!",
+      "wordCount": 4
+    },
+    {
+      "id": 585,
+      "index": 585,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Good boy, Dug. You're a good boy!",
+      "wordCount": 7
+    },
+    {
+      "id": 586,
+      "index": 586,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Ooph!",
+      "wordCount": 1
+    },
+    {
+      "id": 587,
+      "index": 587,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Yes! Don't worry Kevin! I'll save - Growling dogs move toward him.",
+      "wordCount": 12
+    },
+    {
+      "id": 588,
+      "index": 588,
+      "character": "MUNTZ",
+      "gender": "Male",
+      "line": "And they wouldn't believe me. Just wait till they get a look at you.",
+      "wordCount": 14
+    },
+    {
+      "id": 589,
+      "index": 589,
+      "character": "ALPHA",
+      "gender": "NA",
+      "line": "Master! The small mailman has returned.",
+      "wordCount": 6
+    },
+    {
+      "id": 590,
+      "index": 590,
+      "character": "MUNTZ",
+      "gender": "Male",
+      "line": "What?",
+      "wordCount": 1
+    },
+    {
+      "id": 591,
+      "index": 591,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Let me go!",
+      "wordCount": 3
+    },
+    {
+      "id": 592,
+      "index": 592,
+      "character": "MUNTZ",
+      "gender": "Male",
+      "line": "Where's your elderly friend?",
+      "wordCount": 4
+    },
+    {
+      "id": 593,
+      "index": 593,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "He's not my friend anymore.",
+      "wordCount": 5
+    },
+    {
+      "id": 594,
+      "index": 594,
+      "character": "MUNTZ",
+      "gender": "Male",
+      "line": "Well, if you're here, Fredricksen can't be far behind.",
+      "wordCount": 9
+    },
+    {
+      "id": 595,
+      "index": 595,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Where are you keeping Kevin!?",
+      "wordCount": 5
+    },
+    {
+      "id": 596,
+      "index": 596,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Let me go!",
+      "wordCount": 3
+    },
+    {
+      "id": 597,
+      "index": 597,
+      "character": "BETA",
+      "gender": "Male",
+      "line": "Scream all you want, small mailman.",
+      "wordCount": 6
+    },
+    {
+      "id": 598,
+      "index": 598,
+      "character": "GAMMA",
+      "gender": "Male",
+      "line": "None of your mailman friends can hear you.",
+      "wordCount": 8
+    },
+    {
+      "id": 599,
+      "index": 599,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "I'll unleash all my Wilderness Explorer training!",
+      "wordCount": 7
+    },
+    {
+      "id": 600,
+      "index": 600,
+      "character": "MUNTZ",
+      "gender": "Male",
+      "line": "Alpha! Fredricksen's coming back. Guard that bird. If you see the old man, you know what to do.",
+      "wordCount": 18
+    },
+    {
+      "id": 601,
+      "index": 601,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Hey, where are you going? I'm not finished with you!",
+      "wordCount": 10
+    },
+    {
+      "id": 602,
+      "index": 602,
+      "character": "MUNTZ",
+      "gender": "Male",
+      "line": "Nice talking with you.",
+      "wordCount": 4
+    },
+    {
+      "id": 603,
+      "index": 603,
+      "character": "MUNTZ",
+      "gender": "Male",
+      "line": "Where are you, Fredricksen?",
+      "wordCount": 4
+    },
+    {
+      "id": 604,
+      "index": 604,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Russell! Carl steers his house to the dirigible.",
+      "wordCount": 8
+    },
+    {
+      "id": 605,
+      "index": 605,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Mr. Fredricksen!",
+      "wordCount": 2
+    },
+    {
+      "id": 606,
+      "index": 606,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Dug! Bring `er over! Dug winches in the hose caddy, pulling the house closer to the dirigible ramp.",
+      "wordCount": 18
+    },
+    {
+      "id": 607,
+      "index": 607,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "You came back for Kevin! Let's go get her.",
+      "wordCount": 9
+    },
+    {
+      "id": 608,
+      "index": 608,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "I'm getting Kevin. You stay here!",
+      "wordCount": 6
+    },
+    {
+      "id": 609,
+      "index": 609,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "But I want to help!",
+      "wordCount": 5
+    },
+    {
+      "id": 610,
+      "index": 610,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "I don't want your help. I want you safe! Carl leaps back into the dirigible. Dug follows.",
+      "wordCount": 17
+    },
+    {
+      "id": 611,
+      "index": 611,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "How do we get past these dogs?",
+      "wordCount": 7
+    },
+    {
+      "id": 612,
+      "index": 612,
+      "character": "DUG",
+      "gender": "Male",
+      "line": "Uh... POINT! Dug points to a grate in the wall.",
+      "wordCount": 10
+    },
+    {
+      "id": 613,
+      "index": 613,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Kevin!",
+      "wordCount": 1
+    },
+    {
+      "id": 614,
+      "index": 614,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Don't worry Kevin, we're on our way! Alpha enters, leading a group of dogs. Carl and Dug duck into the shadows and watch unnoticed from above.",
+      "wordCount": 26
+    },
+    {
+      "id": 615,
+      "index": 615,
+      "character": "ALPHA",
+      "gender": "NA",
+      "line": "Allow no one to be entering through these doors. Guard well that bird, my minions.",
+      "wordCount": 15
+    },
+    {
+      "id": 616,
+      "index": 616,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Who wants the ball?",
+      "wordCount": 4
+    },
+    {
+      "id": 617,
+      "index": 617,
+      "character": "DOGS",
+      "gender": "NA",
+      "line": "Me! I do! I want the ball!",
+      "wordCount": 7
+    },
+    {
+      "id": 618,
+      "index": 618,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Then go get it! Carl throws the ball. The dogs scramble after it.",
+      "wordCount": 13
+    },
+    {
+      "id": 619,
+      "index": 619,
+      "character": "DOGS",
+      "gender": "NA",
+      "line": "I'm gonna get there first! Oh gonna get the ball! I'm gonna get it!",
+      "wordCount": 14
+    },
+    {
+      "id": 620,
+      "index": 620,
+      "character": "GAMMA",
+      "gender": "Male",
+      "line": "I got it!!",
+      "wordCount": 3
+    },
+    {
+      "id": 621,
+      "index": 621,
+      "character": "GAMMA",
+      "gender": "Male",
+      "line": "Uh-oh.",
+      "wordCount": 1
+    },
+    {
+      "id": 622,
+      "index": 622,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "I'm sorry Kevin. Let's get you out of here.",
+      "wordCount": 9
+    },
+    {
+      "id": 623,
+      "index": 623,
+      "character": "DOG WALLA",
+      "gender": "NA",
+      "line": "Master! He's gone! The old man! He's here! He's got the bird! The bird's gone!",
+      "wordCount": 15
+    },
+    {
+      "id": 624,
+      "index": 624,
+      "character": "MUNTZ",
+      "gender": "Male",
+      "line": "What? Calm down! One at a time!",
+      "wordCount": 7
+    },
+    {
+      "id": 625,
+      "index": 625,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "I want to help! He manages to get his arms free.",
+      "wordCount": 11
+    },
+    {
+      "id": 626,
+      "index": 626,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Ha ha!",
+      "wordCount": 2
+    },
+    {
+      "id": 627,
+      "index": 627,
+      "character": "DOG WALLA",
+      "gender": "NA",
+      "line": "He's in Hall D! He's in Hall B! It's the old man!",
+      "wordCount": 12
+    },
+    {
+      "id": 628,
+      "index": 628,
+      "character": "MUNTZ",
+      "gender": "Male",
+      "line": "Does anyone know where they are?!?!",
+      "wordCount": 6
+    },
+    {
+      "id": 629,
+      "index": 629,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Whoooaaah!",
+      "wordCount": 1
+    },
+    {
+      "id": 630,
+      "index": 630,
+      "character": "MUNTZ",
+      "gender": "Male",
+      "line": "Grey leader! Take down the house!",
+      "wordCount": 6
+    },
+    {
+      "id": 631,
+      "index": 631,
+      "character": "BETA",
+      "gender": "Male",
+      "line": "Grey leader, checking in.",
+      "wordCount": 4
+    },
+    {
+      "id": 632,
+      "index": 632,
+      "character": "GAMMA",
+      "gender": "Male",
+      "line": "Grey 2, checking in.",
+      "wordCount": 4
+    },
+    {
+      "id": 633,
+      "index": 633,
+      "character": "OMEGA",
+      "gender": "Male",
+      "line": "Grey 3, checking in. The planes fall into formation and fly toward the house.",
+      "wordCount": 14
+    },
+    {
+      "id": 634,
+      "index": 634,
+      "character": "BETA",
+      "gender": "Male",
+      "line": "Target sighted. The Dog Squadron Leader bites down on a squeaky bone chew toy that fires poison darts.",
+      "wordCount": 18
+    },
+    {
+      "id": 635,
+      "index": 635,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Come on, Kevin.",
+      "wordCount": 3
+    },
+    {
+      "id": 636,
+      "index": 636,
+      "character": "DUG",
+      "gender": "Male",
+      "line": "Hi.",
+      "wordCount": 1
+    },
+    {
+      "id": 637,
+      "index": 637,
+      "character": "OLD MAN SWORD FIGHT!",
+      "gender": "NA",
+      "line": "Muntz smashes his trophy collection as he swings for Carl. His sword gets stuck in a mounted skeleton. Carl swings his cane and hits Muntz on the head. The tennis balls bounce the cane off Muntz and smack Carl in the face.",
+      "wordCount": 42
+    },
+    {
+      "id": 638,
+      "index": 638,
+      "character": "MUNTZ",
+      "gender": "Male",
+      "line": "Any last words, Fredricksen? Come on, spit it out! Carl spits his FALSE TEETH at Muntz. He falls backwards.",
+      "wordCount": 19
+    },
+    {
+      "id": 639,
+      "index": 639,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Come on!",
+      "wordCount": 2
+    },
+    {
+      "id": 640,
+      "index": 640,
+      "character": "MUNTZ",
+      "gender": "Male",
+      "line": "Enough! I'm taking that bird back with me alive or dead! Carl trips and falls to the floor. Muntz is about to deal the final blow.",
+      "wordCount": 26
+    },
+    {
+      "id": 641,
+      "index": 641,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Come on, Kevin!",
+      "wordCount": 3
+    },
+    {
+      "id": 642,
+      "index": 642,
+      "character": "ALPHA",
+      "gender": "NA",
+      "line": "I will have many enjoyments for what I am about to do, Dug.",
+      "wordCount": 13
+    },
+    {
+      "id": 643,
+      "index": 643,
+      "character": "MISC DOG",
+      "gender": "NA",
+      "line": "He wears the Cone of Shame!",
+      "wordCount": 6
+    },
+    {
+      "id": 644,
+      "index": 644,
+      "character": "ALPHA",
+      "gender": "NA",
+      "line": "What? Do not just continue sitting! Attack!",
+      "wordCount": 7
+    },
+    {
+      "id": 645,
+      "index": 645,
+      "character": "ALPHA",
+      "gender": "NA",
+      "line": "No! No! Stop your laughing! Get this off of me!",
+      "wordCount": 10
+    },
+    {
+      "id": 646,
+      "index": 646,
+      "character": "DUG",
+      "gender": "Male",
+      "line": "Listen you dog! Sit! Surprised at Dug's moxy, Alpha sits. All other dogs sit too.",
+      "wordCount": 15
+    },
+    {
+      "id": 647,
+      "index": 647,
+      "character": "DOG WALLA",
+      "gender": "NA",
+      "line": "Yes, Alpha.",
+      "wordCount": 2
+    },
+    {
+      "id": 648,
+      "index": 648,
+      "character": "DUG",
+      "gender": "Male",
+      "line": "Alpha? I am not Alpha, he is-",
+      "wordCount": 7
+    },
+    {
+      "id": 649,
+      "index": 649,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "I can't do it!",
+      "wordCount": 4
+    },
+    {
+      "id": 650,
+      "index": 650,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Russell!",
+      "wordCount": 1
+    },
+    {
+      "id": 651,
+      "index": 651,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Huh?",
+      "wordCount": 1
+    },
+    {
+      "id": 652,
+      "index": 652,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "You leave Mr. Fredricksen alone!",
+      "wordCount": 5
+    },
+    {
+      "id": 653,
+      "index": 653,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Hey! Squirrel!",
+      "wordCount": 2
+    },
+    {
+      "id": 654,
+      "index": 654,
+      "character": "GAMMA",
+      "gender": "Male",
+      "line": "Squirrel?",
+      "wordCount": 1
+    },
+    {
+      "id": 655,
+      "index": 655,
+      "character": "OMEGA",
+      "gender": "Male",
+      "line": "Where's the squirrel?!",
+      "wordCount": 3
+    },
+    {
+      "id": 656,
+      "index": 656,
+      "character": "GAMMA",
+      "gender": "Male",
+      "line": "I hate squirrels.",
+      "wordCount": 3
+    },
+    {
+      "id": 657,
+      "index": 657,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Dug! Dug jumps up on Carl, licking his face.",
+      "wordCount": 9
+    },
+    {
+      "id": 658,
+      "index": 658,
+      "character": "DUG",
+      "gender": "Male",
+      "line": "Master! The house bears down on them. They run to meet it.",
+      "wordCount": 12
+    },
+    {
+      "id": 659,
+      "index": 659,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Russell!! Over here!! Let's go!",
+      "wordCount": 5
+    },
+    {
+      "id": 660,
+      "index": 660,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Mr. Fredricksen!",
+      "wordCount": 2
+    },
+    {
+      "id": 661,
+      "index": 661,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Come on, Kevin! Carl helps Dug onto the porch. He climbs up himself...",
+      "wordCount": 13
+    },
+    {
+      "id": 662,
+      "index": 662,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "No!",
+      "wordCount": 1
+    },
+    {
+      "id": 663,
+      "index": 663,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Russell! Get out of there! Russell, Dug and Kevin run toward the front porch.",
+      "wordCount": 14
+    },
+    {
+      "id": 664,
+      "index": 664,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "No! Leave them alone!",
+      "wordCount": 4
+    },
+    {
+      "id": 665,
+      "index": 665,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Russell! Hang on to Kevin! Don't let go of her!",
+      "wordCount": 10
+    },
+    {
+      "id": 666,
+      "index": 666,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Kevin! Chocolate!",
+      "wordCount": 2
+    },
+    {
+      "id": 667,
+      "index": 667,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "That was cool! Russell and Dug dangle from it, sitting on Kevin. The bird holds on to the hose with her beak. Carl LAUGHS, relieved.",
+      "wordCount": 25
+    },
+    {
+      "id": 668,
+      "index": 668,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Don't jerk around so much, kid! Russell climbs up, followed by the bird and Dug.",
+      "wordCount": 15
+    },
+    {
+      "id": 669,
+      "index": 669,
+      "character": "DUG",
+      "gender": "Male",
+      "line": "Oh I am ready to not be up high. Carl LAUGHS heartily as Dug jumps on him and licks his face. Carl looks into the distance. His house, now empty, floats softly down into the clouds, and disappears.",
+      "wordCount": 38
+    },
+    {
+      "id": 670,
+      "index": 670,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Sorry about your house, Mr. Fredricksen.",
+      "wordCount": 6
+    },
+    {
+      "id": 671,
+      "index": 671,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "You know, it's just a house. Carl, Russell, Dug and Kevin stand on the tail of the airship floating off over the clouds.",
+      "wordCount": 23
+    },
+    {
+      "id": 672,
+      "index": 672,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Ow! Ow! Ow!",
+      "wordCount": 3
+    },
+    {
+      "id": 673,
+      "index": 673,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Look at you. You're so soft.",
+      "wordCount": 6
+    },
+    {
+      "id": 674,
+      "index": 674,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "I wish I could keep one.",
+      "wordCount": 6
+    },
+    {
+      "id": 675,
+      "index": 675,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Huh, where's my cane? I just had it here... Kevin starts HACKING. She COUGHS up the cane.",
+      "wordCount": 17
+    },
+    {
+      "id": 676,
+      "index": 676,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "You know what? Keep `em. A little gift from me to you. The bird family enters the labyrinth. Carl and Russell wave.",
+      "wordCount": 22
+    },
+    {
+      "id": 677,
+      "index": 677,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Bye Kevin! The bird looks back toward Carl and Russell and CALLS OUT one last time before disappearing into the mist.",
+      "wordCount": 21
+    },
+    {
+      "id": 678,
+      "index": 678,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Ready? Carl gives a thumbs up.",
+      "wordCount": 6
+    },
+    {
+      "id": 679,
+      "index": 679,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Ready!",
+      "wordCount": 1
+    },
+    {
+      "id": 680,
+      "index": 680,
+      "character": "CAMP MASTER STRAUCH",
+      "gender": "NA",
+      "line": "...and by receiving their badges, the following Explorers will graduate to Senior Explorers.",
+      "wordCount": 13
+    },
+    {
+      "id": 681,
+      "index": 681,
+      "character": "CAMP MASTER STRAUCH",
+      "gender": "NA",
+      "line": "For Extreme Mountaineering Lore... Congratulations, Jimmy. For Wild Animal Defensive Arts... Congratulations, Brandon. For Assisting the Elderly... Russell is tanned and dirty. And alone.",
+      "wordCount": 24
+    },
+    {
+      "id": 682,
+      "index": 682,
+      "character": "CAMP MASTER STRAUCH",
+      "gender": "NA",
+      "line": "Uh, Russell? Is there... someone that... uh...",
+      "wordCount": 7
+    },
+    {
+      "id": 683,
+      "index": 683,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Excuse me. Pardon me. Old man coming through. Carl takes his place next to Russell.",
+      "wordCount": 15
+    },
+    {
+      "id": 684,
+      "index": 684,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "I'm here for him.",
+      "wordCount": 4
+    },
+    {
+      "id": 685,
+      "index": 685,
+      "character": "CAMP MASTER STRAUCH",
+      "gender": "NA",
+      "line": "Congratulations, Russell. Sir...",
+      "wordCount": 3
+    },
+    {
+      "id": 686,
+      "index": 686,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Russell, for assisting the elderly, and for performing above and beyond the call of duty, I would like to award you the highest honor I can bestow: The Ellie Badge.",
+      "wordCount": 30
+    },
+    {
+      "id": 687,
+      "index": 687,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Wow.",
+      "wordCount": 1
+    },
+    {
+      "id": 688,
+      "index": 688,
+      "character": "CAMP MASTER STRAUCH",
+      "gender": "NA",
+      "line": "Alright, I think that covers everybody... So let's give a big Explorer Call to our brand new Senior Wilderness Explorers! Ready everybody? The Camp Master leads the audience in the WILDERNESS EXPLORER",
+      "wordCount": 32
+    },
+    {
+      "id": 689,
+      "index": 689,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Blue one.",
+      "wordCount": 2
+    },
+    {
+      "id": 690,
+      "index": 690,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Red one.",
+      "wordCount": 2
+    },
+    {
+      "id": 691,
+      "index": 691,
+      "character": "DUG",
+      "gender": "Male",
+      "line": "Grey one.",
+      "wordCount": 2
+    },
+    {
+      "id": 692,
+      "index": 692,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Red one.",
+      "wordCount": 2
+    },
+    {
+      "id": 693,
+      "index": 693,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "That's a bike!",
+      "wordCount": 3
+    },
+    {
+      "id": 694,
+      "index": 694,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "It's red, isn't it?",
+      "wordCount": 4
+    },
+    {
+      "id": 695,
+      "index": 695,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "Mr. Fredricksen, you're cheating.",
+      "wordCount": 4
+    },
+    {
+      "id": 696,
+      "index": 696,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "No, I'm not. Red one.",
+      "wordCount": 5
+    },
+    {
+      "id": 697,
+      "index": 697,
+      "character": "RUSSELL",
+      "gender": "Male",
+      "line": "That's a fire hydrant.",
+      "wordCount": 4
+    },
+    {
+      "id": 698,
+      "index": 698,
+      "character": "CARL",
+      "gender": "Male",
+      "line": "Maybe I need new glasses.",
+      "wordCount": 5
+    },
+    {
+      "id": 699,
+      "index": 699,
+      "character": "",
+      "gender": "Male"
+    }
+  ]
+}
