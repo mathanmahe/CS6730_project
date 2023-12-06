@@ -24,7 +24,11 @@ export const prepareStackedArea = ({
     .stack()
     .keys(bechdelDomain)
     .value((d, key) => {
-      return d[1].filter((item) => item.BechdelRating === key).length;
+      const total = d[1].length;
+      const bechdelLen = d[1].filter(
+        (item) => item.BechdelRating === key
+      ).length;
+      return (bechdelLen / total) * 100;
     })(decadeGroupSorted);
 
   const areaTransitionStart = d3
@@ -33,14 +37,14 @@ export const prepareStackedArea = ({
     .x((d) => xDecade(d.data[0]) + xDecade.bandwidth() / 2)
     .y0((d, i) => yCount(0))
     .y1((d, i) => yCount(0))
-    .curve(d3.curveBumpX);
+    .curve(d3.curveBasis);
 
   const areaTransitionEnd = d3
     .area()
     .x((d) => xDecade(d.data[0]) + xDecade.bandwidth() / 2)
     .y0((d) => yCount(d[0]))
     .y1((d) => yCount(d[1]))
-    .curve(d3.curveBumpX);
+    .curve(d3.curveBasis);
 
   const areasGroup = svg.select("g.stacks");
   const stacked = areasGroup
@@ -53,7 +57,9 @@ export const prepareStackedArea = ({
     .attr("d", areaTransitionStart);
 
   const resetStackedArea = (duration: number = 600) => {
-    stacked.transition().duration(duration).attr("opacity", 0);
+    stacked
+      // .transition().duration(duration)
+      .attr("opacity", 0);
   };
 
   return {

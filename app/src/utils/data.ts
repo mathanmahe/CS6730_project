@@ -1,28 +1,6 @@
 import rawData from "../assets/movies_data.json";
 
-const process = (data) => {
-  return data.map((d) => {
-    let decade;
-    let decadeNum;
-    const year = parseInt(d.year);
-    if (year < 1960) {
-      decade = "Before the 1960s";
-      decadeNum = 1950;
-    } else {
-      decadeNum = Math.floor(year / 10) * 10;
-      decade = `${decadeNum}s`;
-    }
-    return {
-      ...d,
-      decade,
-      decadeNum,
-      worldGross: parseInt(
-        d.boxOffice.cumulativeWorldwideGross.replace("$", "").replace(/,/g, "")
-      ),
-    };
-  });
-};
-export const data = process(rawData);
+export const data = rawData;
 export const allGenreData = data
   .map((d) =>
     d.genreList.map((genre) => ({
@@ -32,9 +10,10 @@ export const allGenreData = data
     }))
   )
   .flat();
-export const bechdelDomain = [0, 1, 2, 3];
+export const bechdelDomain = ["NA", 0, 1, 2, 3];
 export const decadesDomain = [
-  "Before the 1960s",
+  "Before the 1950s",
+  "1950s",
   "1960s",
   "1970s",
   "1980s",

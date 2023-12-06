@@ -50,16 +50,21 @@ export const getBeeswarmData = ({
   sizeAttribute,
   xStrength = 0.1,
   yStrength = 0.1,
+  sizeRange,
 }) => {
   const sizeScale = d3
     .scaleLinear()
-    .domain(d3.extent(data.map((d) => d[sizeAttribute])))
-    .range([6, 24]);
+    .domain(d3.extent(data.map((d) => Number(d[sizeAttribute]))))
+    .range(sizeRange);
 
   const beeswarm = beeswarmForce()
     .x(x)
     .y(y)
-    .r((d) => sizeScale(d[sizeAttribute]))
+    .r((d) =>
+      typeof sizeAttribute === "number"
+        ? sizeAttribute
+        : sizeScale(d[sizeAttribute])
+    )
     .xStrength(xStrength)
     .yStrength(yStrength);
 
