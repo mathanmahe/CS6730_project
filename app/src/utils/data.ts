@@ -1,6 +1,7 @@
-import data from "../assets/movies_data.json";
+import source from "../assets/movies_data_fff.json";
 import * as d3 from "d3";
 
+export const data = source;
 export const colorGenderMap = {
   female: "#E35E6D",
   male: "#0087A7",

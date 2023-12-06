@@ -3,8 +3,8 @@ import * as d3 from "d3";
 import { useResponsiveChart } from "./hooks/useResponsiveChart";
 import "./Plot.scss";
 import { getAxis } from "./utils/axis";
-import data from "./assets/movies_data.json";
 import {
+  data,
   bechdelDomain,
   decadesDomain,
   filteredGenreDomain,
@@ -527,7 +527,7 @@ const Plot = ({
             .transition()
             .duration(500)
             .attr("width", compareSize)
-            .attr("height", compareSize * 1.4)
+            .attr("height", compareSize)
             .attr(
               "x",
               (d, i) => leftMargin + compareSize * i + (compareSize / 2) * i
@@ -563,8 +563,8 @@ const Plot = ({
         });
     };
 
-    const scriptBoxWidth = width / 5;
-    const scriptBoxGap = scriptBoxWidth / 3;
+    const scriptBoxWidth = width * 0.15;
+    const scriptBoxGap = scriptBoxWidth;
 
     const showScript = () => {
       samplePosterGroup
@@ -594,7 +594,7 @@ const Plot = ({
         .selectAll(`.dialogue`)
         .style("transform", `translateX(${leftMargin}px)`)
         .style("width", scriptBoxWidth + "px")
-        .style("font-size", 1 + "vw");
+        .style("font-size", 0.7 + "vmax");
       dialogueContainer.transition().duration(600).style("opacity", 1);
     };
 
@@ -611,10 +611,10 @@ const Plot = ({
 
       dialogueContainer
         .selectAll(`.dialogue`)
-        .style("font-size", 1 + "vw")
+        .style("font-size", 0.7 + "vmax")
         .transition()
         .duration(800)
-        .style("font-size", 0.15 + "vw")
+        .style("font-size", 0.1 + "vmax")
         .on("end", (_, idx, nodes) => {
           dialogueContainer
             .selectAll("p.female")
