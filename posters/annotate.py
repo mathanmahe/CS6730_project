@@ -175,7 +175,7 @@ class Mouse_Click_Correspondence(object):
             points1.append((x, y))
         
         v = {}
-        filename = '126_250.json' #Put 1_125.json here
+        filename = '1_125.json' #Put 1_125.json here
         with open(filename, 'r') as fp:
             v = json.load(fp)
         v[imgname.split('_')[1]] = {'points': points1, 'genders': genders}
@@ -185,11 +185,11 @@ class Mouse_Click_Correspondence(object):
         return points1, genders
 
 # run `echo {} > 1_125.json` before running your script
-start = 126
-for i in sorted(os.listdir('.')):
+start = 1
+for i in sorted(os.listdir('.'), key = lambda x: int(x.split('_')[0]) if x[0] in list('1234567890') else 99999999):
         if i[-3:] == 'jpg':
             rank = i.split('_')[0]
-            if int(rank) < 126 or int(rank) < start: # You can make it >125
+            if int(rank) > 125 or int(rank) < start: # You can make it >125
                 continue
             print(int(i.split('_')[0]))
             image = cv2.imread(i)
