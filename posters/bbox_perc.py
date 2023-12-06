@@ -14,7 +14,7 @@ def bbox_area(top_left, bottom_right):
     area = width * height
     return area
 
-with open('126_250.json', 'r') as fp:
+with open('1_125.json', 'r') as fp:
     u = json.load(fp)
     for key in u.keys():
         if not u[key]['genders']:
@@ -53,6 +53,6 @@ with open('126_250.json', 'r') as fp:
                 'posterMProportion': round(male_area/total, 3),
             }
 
-with open('126_250_f.json', 'w+') as fpp:
+with open('1_125_f.json', 'w+') as fpp:
     fpp.write(json.dumps(uu, indent=2))
 

@@ -3,10 +3,10 @@ import json
 u = {}
 uu = {}
 
-with open('126_250_f.json', 'r') as fp:
+with open('1_125_f.json', 'r') as fp:
     u = json.load(fp)
 
-with open('../database/movies_data.json', 'r') as fp:
+with open('movies_data_f.json', 'r') as fp:
     uu = json.load(fp)
 
 f = []
