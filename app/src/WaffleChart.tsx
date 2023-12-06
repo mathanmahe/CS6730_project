@@ -18,7 +18,6 @@ export const WaffleChart = ({
 
   useEffect(() => {
     if (!width || !height || !data) return;
-    console.log("waffle", isActive);
     isInitialized.current = false;
 
     const chunk = splitArray(data, chunkSize);

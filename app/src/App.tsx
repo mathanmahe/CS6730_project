@@ -21,7 +21,6 @@ function App() {
 
   const dashboard = useStepsObserver(
     (el, [entry]) => {
-      console.log("dashboard", entry.isIntersecting, entry);
       setDashboardActive(entry);
     },
     { threshold: [0, 0.5] }
