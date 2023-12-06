@@ -1,12 +1,8 @@
 import React, { useEffect, useRef } from "react";
 import * as d3 from "d3";
 import { useResponsiveChart } from "./hooks/useResponsiveChart";
+import { colorGenderMap } from "./utils/data";
 
-const colorMap = {
-  female: "#e35e6d",
-  male: "#27a7c1",
-  na: "#444",
-};
 const emotionDomain = ["love", "joy", "surprise", "fear", "anger", "sadness"];
 export const SentimentVis = ({ item, activeGender }) => {
   const {
@@ -63,7 +59,7 @@ export const SentimentVis = ({ item, activeGender }) => {
         return xScale(d.wordCount);
       })
       .attr("height", yScale.bandwidth())
-      .attr("fill", (d) => colorMap[d.gender.toLowerCase()])
+      .attr("fill", (d) => colorGenderMap[d.gender.toLowerCase()])
       .on("mouseover", (e, d) => {
         tooltip
           .style("visibility", "visible")

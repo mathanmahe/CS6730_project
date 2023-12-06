@@ -3,25 +3,55 @@
   height: 100%;
   padding: 10%;
 }
-
-//step1
-.bechdel-legend {
+.dialogue-plots-group {
+  text {
+    fill: white;
+  }
+}
+.story-legend {
   display: flex;
-  justify-content: end;
-  align-items: center;
-  gap: 1vw;
-  margin-top: -3%;
-  > span {
+  flex-direction: column;
+  align-items: end;
+  margin-top: -6%;
+  gap: 1.2vw;
+}
+//step1
+.bechdel-legend,
+.size-legend {
+  display: flex;
+  flex-direction: column;
+  align-items: end;
+
+  * {
     font-size: 0.9em;
+  }
+  .key {
+    margin-bottom: 6px;
+  }
+  .val {
+    display: flex;
+    align-items: center;
+    gap: 0.8vw;
   }
   .legend-item {
     display: flex;
+    align-items: center;
     gap: 6px;
   }
   .chip {
     width: 1vw;
     height: 1vw;
-    background-color: #fff;
+    background-color: rgb(93, 102, 111);
+  }
+}
+.size-legend {
+  .chip {
+    width: 0.8vw;
+    height: 0.8vw;
+  }
+  .chip.big {
+    width: 1.5vw;
+    height: 1.5vw;
   }
 }
 
@@ -39,6 +69,7 @@
   .dialogue {
     height: fit-content;
     font-size: 1vw;
+    border: 1px solid #999;
     p {
       display: inline;
       font-size: inherit;
@@ -61,7 +92,8 @@
   top: 100px;
   pointer-events: none;
 
-  .unit-poster {
+  .unit-poster,
+  .sample-poster {
     position: absolute;
     background-repeat: no-repeat;
     background-size: cover;

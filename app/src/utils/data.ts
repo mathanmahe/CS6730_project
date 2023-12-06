@@ -1,6 +1,32 @@
-import rawData from "../assets/movies_data.json";
+import data from "../assets/movies_data.json";
+import * as d3 from "d3";
 
-export const data = rawData;
+export const colorGenderMap = {
+  female: "#E35E6D",
+  male: "#0087A7",
+  na: "#5D666F",
+};
+export const colorBechelMap = {
+  NA: "#5D666F",
+  0: "#0087A7",
+  1: "#3DBCD3",
+  2: "#98D8DD",
+  3: "#E35E6D",
+};
+
+// budget has diffeent currency - invalid
+export const budgetExtent = d3.extent(data.map((d) => Number(d["budget"])));
+export const grossExtent = d3.extent(data.map((d) => Number(d["worldGross"])));
+export const voteExtent = d3.extent(
+  data.map((d) => Number(d["imDbRatingVotes"]))
+);
+
+export const sizeExtentMap = {
+  budget: budgetExtent,
+  worldGross: grossExtent,
+  imDbRatingVotes: voteExtent,
+};
+
 export const allGenreData = data
   .map((d) =>
     d.genreList.map((genre) => ({
@@ -11,6 +37,7 @@ export const allGenreData = data
   )
   .flat();
 export const bechdelDomain = ["NA", 0, 1, 2, 3];
+
 export const decadesDomain = [
   "Before the 1950s",
   "1950s",

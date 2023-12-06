@@ -3,13 +3,16 @@ import * as d3 from "d3";
 import { useResponsiveChart } from "./hooks/useResponsiveChart";
 import "./Plot.scss";
 import { getAxis } from "./utils/axis";
+import data from "./assets/movies_data.json";
 import {
-  data,
   bechdelDomain,
   decadesDomain,
   filteredGenreDomain,
   filteredGenreData,
   directorsDomain,
+  colorBechelMap,
+  colorGenderMap,
+  sizeExtentMap,
 } from "./utils/data";
 import { prepareStackedArea } from "./utils/stackedArea";
 import { prepareGenreUnits, prepareUnits } from "./utils/unitVis";
@@ -98,19 +101,21 @@ const Plot = ({
     const bechdelColorScale = d3
       .scaleOrdinal()
       .domain(bechdelDomain)
-      .range(["#666", "#27A7C1", "#B4DFED", "#F9CBD4", "#E35E6D"]);
+      .range(bechdelDomain.map((d) => colorBechelMap[d]));
 
     // Scatter plot marks
     const { marksGroup, marks, resetMarks } = prepareUnits({
       svg,
       data,
       bechdelColorScale,
+      containerDiv,
     });
     // Scatter plot marks of all genre flattend
     const { genreMarksGroup, genreMarks, resetGenreMarks } = prepareGenreUnits({
       svg,
       data: filteredGenreData,
       bechdelColorScale,
+      containerDiv,
     });
     // bechdel over time stacked area
     const {
@@ -127,6 +132,7 @@ const Plot = ({
       xDecade,
       yCount,
       bechdelColorScale,
+      containerDiv,
     });
 
     // 2 movies comparison bins
@@ -134,6 +140,7 @@ const Plot = ({
       prepareDialoguePlot({
         data: chunkedSampleDataset,
         svg,
+        containerDiv,
       });
 
     const tooltip = d3.select(tooltipRef.current);
@@ -232,24 +239,16 @@ const Plot = ({
         })
         .attr("height", squareSizeH)
         .attr("opacity", 0);
-      // .on("interrupt", () => {
-      //   console.log("unit interrupt");
-      // })
-      // .on("end", () => {
-      //   console.log("unit end");
-      // })
-      // .on("cancel", () => {
-      //   console.log("unit canceled");
-      // });
     };
+
     // Step1: timeline unit
-    const showStep1 = () => {
+    const showTimeline = () => {
       resetDialoguePlot(0);
       resetMarks(0, false);
       resetGenreMarks(0, false);
       resetAxis(0, { xDecade: false });
       resetStackedArea(0);
-      showLegend();
+      hideLegend();
 
       xDecadeAxisGroup.selectAll(".tick line").attr("opacity", 0);
 
@@ -265,7 +264,7 @@ const Plot = ({
 
       posters
         .transition()
-        .duration(600)
+        .duration(1000)
         .delay((d, i) => {
           return 3 * i;
         })
@@ -280,8 +279,9 @@ const Plot = ({
         });
 
       marks
+        .attr("fill", bechdelColorScale("NA"))
         .transition()
-        .duration(600)
+        .duration(1000)
         .delay((d, i) => {
           return 3 * i;
         })
@@ -296,10 +296,28 @@ const Plot = ({
           return offset + yearIdx * (sizeH + marginTop) * -1;
         })
         .attr("opacity", 1);
+      // .attr("fill", (d) => bechdelColorScale(d.BechdelRating) as string);
     };
 
-    // Step2: bechdel + time alluvial
-    const showStep2 = () => {
+    // Step2: timeline unit w/ color
+    const showTimelineBechdelColor = () => {
+      resetDialoguePlot(0);
+      resetGenreMarks(0, false);
+      resetAxis(0, { xDecade: false });
+      resetStackedArea(0);
+      showLegend();
+
+      marks
+        .transition()
+        .duration(600)
+        .delay((d, i) => {
+          return 3 * i;
+        })
+        .attr("fill", (d) => bechdelColorScale(d.BechdelRating) as string);
+    };
+
+    // Step3: bechdel time stack area
+    const showBechdelTimelineArea = () => {
       showLegend();
       resetDialoguePlot(0);
       resetGenreMarks(0, false);
@@ -349,12 +367,13 @@ const Plot = ({
         .attr("d", areaTransitionEnd);
     };
 
+    // step4: beeswarm
     const beeswarmSizeRange = [
       xDecade.bandwidth() * 0.1,
       xDecade.bandwidth() * 0.4,
     ];
-    // step3: beeswarm gere + time
-    const genreDecadeGrossBeeswarmData = getBeeswarmData({
+
+    const genreDecadeBeeswarmData = getBeeswarmData({
       data: filteredGenreData,
       x: (d) => xDecade(d.decade) + xDecade.bandwidth() / 2,
       y: (d) => yGenre(d.genre) + yGenre.bandwidth() / 2,
@@ -363,20 +382,11 @@ const Plot = ({
       sizeRange: beeswarmSizeRange,
     });
 
-    const showStep3 = () => {
+    const showBeeswarmChart = () => {
       showLegend();
       resetDialoguePlot(0);
       resetAxis(600, { yGenre: false, xDecade: false });
       resetMarks(0, false);
-
-      yGenreAxisGroup.transition().duration(600).attr("opacity", 1);
-      xDecadeAxisGroup
-        .transition()
-        .duration(600)
-        .attr("opacity", 1)
-        .style("transform", `translateY(${scatterYRange[0]}px)`);
-      yGenreAxisGroup.selectAll(".tick line").remove();
-      yGenreAxisGroup.selectAll(".tick text").attr("dx", -10);
 
       // hide stacked
       stacked
@@ -387,20 +397,34 @@ const Plot = ({
         })
         .attr("d", areaTransitionStart);
 
+      xDecadeAxisGroup
+        .transition()
+        .duration(600)
+        .attr("opacity", 1)
+        .style("transform", `translateY(${scatterYRange[0]}px)`);
+      xDecadeAxisGroup.selectAll(".tick line").attr("opacity", 0);
+
+      yGenreAxisGroup.transition().duration(600).attr("opacity", 1);
+      yGenreAxisGroup.selectAll(".tick text").attr("dx", -10);
+      yGenreAxisGroup
+        .selectAll(".tick line")
+        .attr("opacity", 0.2)
+        .attr("x1", width - leftMargin - xDecade.bandwidth());
+
       // show unit
       genreMarks
         .attr("x", (d) => xDecade(d.decade))
         .attr("y", scatterYRange[0] - 20)
-        .attr("width", (d, i) => genreDecadeGrossBeeswarmData[i].r)
-        .attr("height", (d, i) => genreDecadeGrossBeeswarmData[i].r)
+        .attr("width", (d, i) => genreDecadeBeeswarmData[i].r)
+        .attr("height", (d, i) => genreDecadeBeeswarmData[i].r)
         .attr("opacity", 1)
         .transition()
         .duration(600)
         .delay((d, i) => {
           return 300 + 2 * i;
         })
-        .attr("x", (d, i) => genreDecadeGrossBeeswarmData[i].x)
-        .attr("y", (d, i) => genreDecadeGrossBeeswarmData[i].y);
+        .attr("x", (d, i) => genreDecadeBeeswarmData[i].x)
+        .attr("y", (d, i) => genreDecadeBeeswarmData[i].y);
 
       setSizeFactor("none");
     };
@@ -428,7 +452,7 @@ const Plot = ({
         .attr("y", (d, i) => beeswarmData[i].y);
     };
 
-    // step4: director gender + genre
+    // step5: director gender beeswarm
     const genreDirectorGrossBeeswarmData = getBeeswarmData({
       data: filteredGenreData,
       x: (d) =>
@@ -444,7 +468,7 @@ const Plot = ({
       sizeRange: beeswarmSizeRange,
     });
 
-    const showStep4 = () => {
+    const showDirectorBeeswarm = () => {
       showLegend();
       resetAxis(600, {
         yGenre: false,
@@ -453,7 +477,6 @@ const Plot = ({
       resetMarks(0, false);
       resetStackedArea(0);
       resetDialoguePlot(0);
-      containerDiv.selectAll(".unit-poster.compare").style("opacity", 0);
 
       yGenreAxisGroup.transition().duration(600).attr("opacity", 1);
 
@@ -477,17 +500,18 @@ const Plot = ({
         .attr("y", (d, i) => genreDirectorGrossBeeswarmData[i].y);
     };
 
-    // Step5: Select 2 movies.
-    const showStep5 = () => {
+    // Step6: Script analysis
+    const compareSize = width * 0.2;
+    const compareMarks = svg.selectAll(".genre-mark.compare");
+    const showSelectMovie = () => {
       hideLegend();
       resetDialoguePlot(0);
       resetAxis(0);
       resetMarks(0, false);
       resetStackedArea(0);
 
-      const compareSize = width * 0.2;
-
       genreMarks
+        .attr("opacity", 1)
         .transition()
         .duration(300)
         .delay((d, i) => {
@@ -499,53 +523,66 @@ const Plot = ({
           else return 0;
         })
         .on("end", () => {
-          svg
-            .selectAll(".genre-mark.compare")
+          compareMarks
             .transition()
             .duration(500)
             .attr("width", compareSize)
-            .attr("height", compareSize * 1.5)
+            .attr("height", compareSize * 1.4)
             .attr(
               "x",
               (d, i) => leftMargin + compareSize * i + (compareSize / 2) * i
             )
             .attr("y", height / 2 - compareSize)
             .on("end", () => {
-              showNext();
+              showSmaplePosters();
             });
-          // .attr("fill", "#000");
-
-          // containerDiv
-          //   .selectAll("div.sample-posters .poster")
-          //   .style("border", "1px solid #fff")
-          //   .style("width", compareSize + "px")
-          //   .style("height", compareSize * 1.5 + "px")
-          //   .style(
-          //     "left",
-          //     (d, i) =>
-          //       leftMargin + compareSize * i + (compareSize / 2) * i + "px"
-          //   )
-          //   .style("top", height / 2 - compareSize * 0.5 + "px")
-
-          // containerDiv
-          //   .selec("div.sample-posters")
-          //   .transition()
-          //   .duration(500)
-          //   .delay(500)
-          //   .style("opacity", 1);
         });
     };
 
-    // Step6: Explain dialog analysis.
+    const samplePosterGroup = containerDiv.select("div.sample-posters");
+
+    const showSmaplePosters = () => {
+      samplePosterGroup
+        .selectAll(".sample-poster")
+        .style("border", "1px solid #fff")
+        .style("width", compareSize + "px")
+        .style("height", compareSize * 1.5 + "px")
+        .style(
+          "left",
+          (d, i) => leftMargin + compareSize * i + (compareSize / 2) * i + "px"
+        )
+        .style("top", height / 2 - compareSize + "px");
+
+      samplePosterGroup
+        .transition()
+        .duration(500)
+        .style("opacity", 1)
+        .on("end", () => {
+          compareMarks.attr("opacity", 0);
+          showScript();
+        });
+    };
+
     const scriptBoxWidth = width / 5;
     const scriptBoxGap = scriptBoxWidth / 3;
 
-    const showNext = () => {
-      hideLegend();
-      resetMarks(0, false);
-      resetAxis(0);
-      resetStackedArea(0);
-      // resetDialoguePlot();
+    const showScript = () => {
+      samplePosterGroup
+        .selectAll(".sample-poster")
+        .transition()
+        .duration(500)
+        .style("width", compareSize / 3 + "px")
+        .style("height", (compareSize / 3) * 1.5 + "px")
+        .style(
+          "left",
+          (d, i) =>
+            leftMargin +
+            i * scriptBoxWidth +
+            i * scriptBoxGap -
+            compareSize / 2.5 +
+            "px"
+        )
+        .style("top", 0 + "px");
 
       dialogueContainer
         .selectAll("p")
@@ -558,33 +595,11 @@ const Plot = ({
         .style("transform", `translateX(${leftMargin}px)`)
         .style("width", scriptBoxWidth + "px")
         .style("font-size", 1 + "vw");
-
-      svg
-        .selectAll(".genre-mark.compare")
-        .transition()
-        .duration(1000)
-        .attr("x", (d, i) => leftMargin + i * scriptBoxWidth + i * scriptBoxGap)
-        .attr("y", 0)
-        .attr("width", scriptBoxWidth)
-        .transition()
-        .duration(1000)
-        .attr(
-          "height",
-          (d, i) =>
-            dialogueContainer.select(`.dialogue.movie-${i}`)?.node()
-              ?.clientHeight
-        )
-        .attr("opacity", 1)
-        .on("end", () => {
-          dialogueContainer.transition().duration(400).style("opacity", 1);
-        })
-        .transition()
-        .duration(600)
-        .attr("opacity", 0);
+      dialogueContainer.transition().duration(600).style("opacity", 1);
     };
 
     // Step7: Explain dialog analysis.
-    const showStep7 = () => {
+    const showFemaleDialog = () => {
       resetDialoguePlot(0, true);
       resetMarks(0, false);
       resetGenreMarks(0, false);
@@ -598,35 +613,35 @@ const Plot = ({
         .selectAll(`.dialogue`)
         .style("font-size", 1 + "vw")
         .transition()
-        .duration(1000)
+        .duration(800)
         .style("font-size", 0.15 + "vw")
         .on("end", (_, idx, nodes) => {
           dialogueContainer
             .selectAll("p.female")
             .transition()
-            .delay(600)
+            .delay(300)
             .duration(1000)
-            .style("color", "#E35E6D")
-            .style("background-color", "#E35E6D");
+            .style("color", colorGenderMap.female)
+            .style("background-color", colorGenderMap.female);
 
           dialogueContainer
             .selectAll("p.non-female")
             .transition()
-            .delay(600)
+            .delay(300)
             .duration(1000)
             .style("color", "#000");
-          dialogueContainer
-            .selectAll(`.dialogue`)
-            .style("border", "1px solid #666");
         });
     };
 
-    // Step8: Explain dialog analysis.
-    const showStep8 = () => {
+    // Step8: Segmentation
+
+    const showSegmentDiagram = () => {
       resetMarks(0, false);
       resetGenreMarks(0, false);
       resetAxis(0);
       resetStackedArea(0);
+
+      samplePosterGroup.transition().duration(600).style("opacity", 0);
 
       dialogueContainer
         .transition()
@@ -651,6 +666,7 @@ const Plot = ({
         const marginTop = (height - binSize * 10) / 2 - 30;
 
         const pad = 0;
+
         dialoguePlot
           .selectAll("rect")
           .attr(
@@ -663,17 +679,17 @@ const Plot = ({
           .attr("stroke", "#fff")
           .attr("stroke-width", 0.2)
           .attr("fill-opacity", 0)
-          .attr("fill", "#E35E6D")
+          .attr("fill", colorGenderMap.female)
           .transition()
-          .duration(1000)
+          .duration(600)
           .attr("width", scriptBoxWidth + pad * 2)
           .transition()
-          .duration(1000)
+          .duration(600)
           .attr("fill-opacity", (d) => d.femalePercentage.toFixed(2))
           .transition()
-          .duration(1000)
+          .duration(600)
           .delay((d, i) => {
-            return 10 * i;
+            return 5 * i;
           })
           .attr("width", binSize)
           .attr("height", binSize)
@@ -684,16 +700,27 @@ const Plot = ({
           .attr("y", (d, i) => {
             const row = Math.floor(i / numPerRow);
             return marginTop + row * (binSize + binPad);
+          })
+          .on("end", () => {
+            dialoguePlot
+              .selectAll("text")
+              .attr("x", (d, i) => {
+                const col = Math.floor(i % numPerRow);
+                return leftMargin + col * (binSize + binPad) + boxPosX;
+              })
+              .attr("y", (d, i) => {
+                const row = Math.floor(i / numPerRow);
+                return marginTop + row * (binSize + binPad);
+              })
+              .attr("dy", -10)
+              .transition()
+              .duration(600)
+              .attr("opacity", 1);
           });
       });
     };
 
-    const showStep10 = () => {
-      resetAxis(0);
-      resetMarks(0, false);
-      resetGenreMarks(0, false);
-      resetStackedArea(0);
-      // resetDialoguePlot(600);
+    const showSentimentChart = () => {
       dialoguePlotGroup
         .selectAll("rect")
         .transition()
@@ -705,20 +732,36 @@ const Plot = ({
         .attr("height", 0);
     };
 
+    const hideEverything = () => {
+      resetAxis(0);
+      resetMarks(0, false);
+      resetGenreMarks(0, false);
+      resetStackedArea(0);
+      resetDialoguePlot(0);
+      // dialoguePlotGroup
+      //   .selectAll("rect")
+      //   .transition()
+      //   .duration(1000)
+      //   .delay((d, i) => {
+      //     return 2 * i;
+      //   })
+      //   .attr("width", 0)
+      //   .attr("height", 0);
+    };
+
     setFunctionMap({
       "0": showTitle,
-      "1": showStep1,
-      "2": showStep2,
-      "3": showStep3,
-      "4": showStep4,
+      "1": showTimeline,
+      "2": showTimelineBechdelColor,
+      "3": showBechdelTimelineArea,
+      "4": showBeeswarmChart,
+      "5": showDirectorBeeswarm,
       // script alanysis
-      "5": showStep5,
-      "6": showStep7,
-      "7": showStep8,
-      "8": () => {
-        //sentiment
-      },
-      "9": showStep10,
+      "6": showSelectMovie,
+      "7": showFemaleDialog,
+      "8": showSegmentDiagram,
+      "9": showSentimentChart,
+      "10": hideEverything,
       updateBeeswarm,
     });
   }, [width, height, data]);
@@ -733,11 +776,11 @@ const Plot = ({
   }, [sizeFactor]);
 
   useEffect(() => {
-    const chart = d3.select("div.chart");
+    const containerDiv = d3.select(containerRef.current);
     if (dashboardActive.isIntersecting) {
-      chart.style("visibility", "hidden");
+      containerDiv.style("visibility", "hidden");
     } else {
-      chart.style("visibility", "visible");
+      containerDiv.style("visibility", "visible");
     }
   }, [dashboardActive.isIntersecting]);
 
@@ -794,15 +837,45 @@ const Plot = ({
           ></div>
         ))}
       </div>
-
-      <div className="bechdel-legend">
-        <span>Bechdel Score</span>
-        {bechdelDomain.map((d) => (
-          <div key={d} className="legend-item">
-            <span>{d}</span>
-            <div className="chip" data-id={d}></div>
-          </div>
+      <div className="sample-posters">
+        {dialogueSampleData.map((d) => (
+          <div
+            key={d.id + "sample"}
+            className={classNames("sample-poster")}
+            style={{
+              backgroundImage: `url("./posters/${d.data.rank}_${d.data.id}.jpg")`,
+            }}
+          ></div>
         ))}
+      </div>
+      <div className="story-legend">
+        <div className="bechdel-legend">
+          <div className="key">Bechdel Score</div>
+          <div className="val">
+            {bechdelDomain.map((d) => (
+              <div key={d} className="legend-item">
+                <div className="chip" data-id={d}></div>
+                <span>{d === "NA" ? "Unknown" : d}</span>
+              </div>
+            ))}
+          </div>
+        </div>
+        {!!sizeFactor && sizeFactor !== "none" && (
+          <div className="size-legend">
+            <div className="key">{sizeFactor}</div>
+            <div className="val">
+              {sizeExtentMap[sizeFactor].map((d, i) => (
+                <div key={d} className="legend-item">
+                  <div
+                    className={classNames("chip", { big: i === 1 })}
+                    data-id={d}
+                  ></div>
+                  <span>{d.toLocaleString()}</span>
+                </div>
+              ))}
+            </div>
+          </div>
+        )}
       </div>
     </div>
   );

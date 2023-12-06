@@ -3,7 +3,12 @@ import dialogueSampleData from "../assets/dialogue-sample.json";
 
 const sampleTitles = dialogueSampleData.map((d) => d.title);
 
-export const prepareUnits = ({ svg, data, bechdelColorScale }) => {
+export const prepareUnits = ({
+  svg,
+  data,
+  containerDiv,
+  bechdelColorScale,
+}) => {
   const marksGroup = svg.select("g.marks");
   const marks = marksGroup
     .selectAll("rect.mark")
@@ -16,16 +21,12 @@ export const prepareUnits = ({ svg, data, bechdelColorScale }) => {
         return "mark compare movie2";
       else return "mark";
     })
-    .attr("fill", (d) => bechdelColorScale(d.BechdelRating) as string)
     .attr("opacity", 0);
 
   const resetMarks = (duration: number = 600, show: boolean) => {
-    marks
-      // .transition()
-      // .duration(duration)
-      .interrupt()
-      .attr("opacity", show ? 1 : 0);
-    d3.selectAll("div.poster").interrupt().attr("opacity", 0);
+    marks.attr("opacity", show ? 1 : 0);
+    const posters = containerDiv.selectAll("div.unit-poster");
+    posters.style("opacity", 0);
   };
 
   // const defs = svg.select("defs");

@@ -2,6 +2,7 @@ import React, { useEffect, useRef } from "react";
 import { useResponsiveChart } from "./hooks/useResponsiveChart";
 import { getFemalePercentage, splitArray } from "./utils/script";
 import * as d3 from "d3";
+import { colorGenderMap } from "./utils/data";
 
 export const WaffleChart = ({
   data,
@@ -54,7 +55,7 @@ export const WaffleChart = ({
       .attr("height", 0)
       .attr("stroke", "#fff")
       .attr("stroke-width", 0.2)
-      .attr("fill", "#E35E6D")
+      .attr("fill", colorGenderMap.female)
       .attr("fill-opacity", (d) => d.femalePercentage.toFixed(2));
 
     if (!transition) {

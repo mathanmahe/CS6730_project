@@ -1,4 +1,5 @@
 import * as d3 from "d3";
+import { sizeExtentMap } from "./data";
 
 export const beeswarmForce = function () {
   let x = (d) => d[0];
@@ -54,7 +55,7 @@ export const getBeeswarmData = ({
 }) => {
   const sizeScale = d3
     .scaleLinear()
-    .domain(d3.extent(data.map((d) => Number(d[sizeAttribute]))))
+    .domain(sizeExtentMap[sizeAttribute] || [])
     .range(sizeRange);
 
   const beeswarm = beeswarmForce()

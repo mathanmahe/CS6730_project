@@ -39,5 +39,15 @@
     .desc {
       line-height: 1.6;
     }
+    .buttons {
+      margin-top: 20px;
+      .title {
+        font-size: 1em;
+      }
+      .desc {
+        margin-top: 20px;
+        font-size: 0.8em;
+      }
+    }
   }
 }

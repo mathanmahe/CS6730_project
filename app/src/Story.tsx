@@ -47,7 +47,11 @@ export const Story = ({ stepsRef, activeStep, dashboardActive }) => {
             </div>
           </div>
         </div>
-        <div className="step step1-1">
+        <div
+          className="step step2"
+          ref={(r) => (stepsRef.current[2] = r)}
+          data-idx={2}
+        >
           <div className="content">
             <div className="title">
               How to Assess the Representation of Women? - Bechdel Score
@@ -70,9 +74,9 @@ export const Story = ({ stepsRef, activeStep, dashboardActive }) => {
           </div>
         </div>
         <div
-          className="step step2"
-          ref={(r) => (stepsRef.current[2] = r)}
-          data-idx={2}
+          className="step step3"
+          ref={(r) => (stepsRef.current[3] = r)}
+          data-idx={3}
         >
           <div className="content">
             <div className="title">Change in Bechdel Scores Over Time </div>
@@ -87,9 +91,9 @@ export const Story = ({ stepsRef, activeStep, dashboardActive }) => {
           </div>
         </div>
         <div
-          className="step step3"
-          ref={(r) => (stepsRef.current[3] = r)}
-          data-idx={3}
+          className="step step4"
+          ref={(r) => (stepsRef.current[4] = r)}
+          data-idx={4}
         >
           <div className="content">
             <div className="title">Genre-wise Bechdel Score Distribution</div>
@@ -103,33 +107,32 @@ export const Story = ({ stepsRef, activeStep, dashboardActive }) => {
               times.
             </div>
             <div className="buttons">
+              <div className="title">Change unit size by</div>
               <Radio.Group
                 defaultValue="a"
                 buttonStyle={"solid"}
                 onChange={onChangeSelect}
                 value={sizeFactor}
               >
-                <Radio.Button value="imDbRatingVotes">Budget</Radio.Button>
-                {/* <Radio.Button value="posterFProportion">Poster</Radio.Button> */}
+                <Radio.Button value="imDbRatingVotes">Popularity</Radio.Button>
                 <Radio.Button value="worldGross">Gross</Radio.Button>
                 <Radio.Button value="none">None</Radio.Button>
               </Radio.Group>
               <div className="desc">
-                We also examined whether films with better representation of
-                women received more funding or earned higher revenues by mapping
-                size of unit. Interestingly, while no clear pattern emerged
-                regarding budget, high-grossing action and adventure films in
-                recent years predominantly passed the Bechdel Test. This trend
-                might indicate a growing audience preference for films with
-                well-represented female characters.
+                So, do movies with better representation of women get more
+                popularity and revenue? We mapped unit size to IMDB votes and
+                revenue. While votes don't seem to have much to do with whether
+                or not a movie passes the backtest, we can see that recent big
+                grossing movies in the action and adventure genres all passed
+                the Bechdel test.
               </div>
             </div>
           </div>
         </div>
         <div
-          className="step step4"
-          ref={(r) => (stepsRef.current[4] = r)}
-          data-idx={4}
+          className="step step5"
+          ref={(r) => (stepsRef.current[5] = r)}
+          data-idx={5}
         >
           <div className="content">
             <div className="title">Beyond the Bechdel Test</div>
@@ -145,12 +148,12 @@ export const Story = ({ stepsRef, activeStep, dashboardActive }) => {
           </div>
         </div>
         <div
-          className="step step5"
-          ref={(r) => (stepsRef.current[5] = r)}
-          data-idx={5}
+          className="step step6"
+          ref={(r) => (stepsRef.current[6] = r)}
+          data-idx={6}
         >
           <div className="content">
-            <div className="title">Beyond the Bechdel Test</div>
+            <div className="title">Let's See the Script</div>
             <div className="desc">
               Script Analysis: A comprehensive analysis of women's
               representation requires a deeper dive into the content. For
@@ -161,9 +164,9 @@ export const Story = ({ stepsRef, activeStep, dashboardActive }) => {
           </div>
         </div>
         <div
-          className="step step6"
-          ref={(r) => (stepsRef.current[6] = r)}
-          data-idx={6}
+          className="step step7"
+          ref={(r) => (stepsRef.current[7] = r)}
+          data-idx={7}
         >
           <div className="content">
             <div className="title">Highlighting Female Dialogue in Scripts</div>
@@ -176,9 +179,9 @@ export const Story = ({ stepsRef, activeStep, dashboardActive }) => {
           </div>
         </div>
         <div
-          className="step step7"
-          ref={(r) => (stepsRef.current[7] = r)}
-          data-idx={7}
+          className="step step8"
+          ref={(r) => (stepsRef.current[8] = r)}
+          data-idx={8}
         >
           <div className="content">
             <div className="title">
@@ -194,9 +197,9 @@ export const Story = ({ stepsRef, activeStep, dashboardActive }) => {
           </div>
         </div>
         <div
-          className="step step8"
-          ref={(r) => (stepsRef.current[8] = r)}
-          data-idx={8}
+          className="step step9"
+          ref={(r) => (stepsRef.current[9] = r)}
+          data-idx={9}
         >
           <div className="content">
             <div className="title"> TODO: Emotional Analysis of Dialogues</div>
@@ -208,9 +211,9 @@ export const Story = ({ stepsRef, activeStep, dashboardActive }) => {
           </div>
         </div>
         <div
-          className="step step9"
-          ref={(r) => (stepsRef.current[9] = r)}
-          data-idx={9}
+          className="step step10"
+          ref={(r) => (stepsRef.current[10] = r)}
+          data-idx={10}
         >
           <div className="content">
             <div className="desc">
@@ -219,13 +222,6 @@ export const Story = ({ stepsRef, activeStep, dashboardActive }) => {
             </div>
           </div>
         </div>
-        {/* <div
-          className="step step10"
-          ref={(r) => (stepsRef.current[10] = r)}
-          data-idx={10}
-        >
-          <div className="content">step10: remove </div>
-        </div> */}
       </div>
     </div>
   );

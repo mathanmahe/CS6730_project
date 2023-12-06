@@ -6,11 +6,7 @@ import classNames from "classnames";
 import { SentimentVis } from "./SentimentVis";
 import { WaffleChart } from "./WaffleChart";
 import { Tooltip } from "antd";
-const colorMap = {
-  female: "#e35e6d",
-  male: "#27a7c1",
-  na: "#444",
-};
+import { colorGenderMap } from "./utils/data";
 
 export const DashboardDetail = ({ item }) => {
   const {
@@ -120,7 +116,7 @@ export const DashboardDetail = ({ item }) => {
                   data-gender={key}
                   style={{
                     width: `${val * 100}%`,
-                    background: colorMap[key],
+                    background: colorGenderMap[key],
                   }}
                   onMouseOver={onHoverGenderButton}
                 ></div>
