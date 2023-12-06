@@ -1,6 +1,8 @@
 import * as d3 from "d3";
 
 export const getAxis = ({
+  plotHeight,
+  leftMargin,
   svg,
   data,
   height,
@@ -12,12 +14,10 @@ export const getAxis = ({
 }) => {
   // Axis
   // Scatter plot axis
-  const plotHeight = height - 100;
-  const leftMargin = width * 0.35;
-
+  const offset = plotHeight * 0.05;
   const scatterYRange = [
-    height / 2 + plotHeight / 2,
-    height / 2 - plotHeight / 2,
+    height / 2 + plotHeight / 2 - offset,
+    height / 2 - plotHeight / 2 - offset,
   ];
 
   // x axis - year
@@ -39,8 +39,11 @@ export const getAxis = ({
     .scaleBand()
     .domain(decadesDomain)
     .range([leftMargin, width])
-    .padding(0.5);
-  const xDecadeAxis = d3.axisBottom(xDecade);
+    .padding(0.2);
+  const xDecadeAxis = d3.axisBottom(xDecade).tickFormat((d, i) => {
+    if (i === 0) return "~1950s";
+    else return d;
+  });
   const xDecadeAxisGroup = svg
     .select("g.x-axis-decade")
     .style("transform", `translateY(${scatterYRange[0]}px)`)
@@ -54,13 +57,29 @@ export const getAxis = ({
     .domain(directorsDomain)
     .range([leftMargin, width])
     .padding(0.5);
-  const xDirectorAxis = d3.axisBottom(xDirector);
+  const xDirectorAxis = d3
+    .axisBottom(xDirector)
+    .tickFormat((d) => `${d} Director`);
   const xDirectorAxisGroup = svg
     .select("g.x-axis-director")
     .style("transform", `translateY(${scatterYRange[0]}px)`)
     .call(xDirectorAxis);
 
   xDirectorAxisGroup.attr("opacity", 0);
+
+  // x axis - decade
+  const xBechdel = d3
+    .scaleBand()
+    .domain(bechdelDomain)
+    .range([leftMargin, width])
+    .padding(0.5);
+  const xBechdelAxis = d3.axisBottom(xBechdel);
+  const xBechdelAxisGroup = svg
+    .select("g.x-axis-bechdel")
+    .style("transform", `translateY(${scatterYRange[0]}px)`)
+    .call(xBechdelAxis);
+
+  xBechdelAxisGroup.attr("opacity", 0);
 
   // y axis = bechdel
   const yBechdel = d3.scaleBand().domain(bechdelDomain).range(scatterYRange);
@@ -73,17 +92,33 @@ export const getAxis = ({
   yBechdelAxisGroup.attr("opacity", 0);
 
   // y axis count
-  const yCount = d3.scaleLinear().domain([0, 50]).range(scatterYRange);
-  const yCountAxis = d3.axisLeft(yCount).tickFormat((d) => `${d}`);
+  const yCount = d3.scaleLinear().domain([0, 100]).range(scatterYRange);
+  const yCountAxis = d3
+    .axisLeft(yCount)
+    .tickFormat((d) => `${d}%`)
+    .ticks(4);
   const yCountAxisGroup = svg
     .select("g.y-axis-count")
     .style(
       "transform",
-      `translateX(${leftMargin + xDecade.bandwidth() * 1.5 - 5}px)`
+      `translateX(${leftMargin + xDecade.bandwidth() / 2 + 10}px)`
     )
     .call(yCountAxis);
 
   yCountAxisGroup.attr("opacity", 0);
+
+  // y axis count
+  const yPoster = d3.scaleLinear().domain([0, 100]).range(scatterYRange);
+  const yPosterAxis = d3
+    .axisLeft(yPoster)
+    .tickFormat((d) => `${d}%`)
+    .ticks(4);
+  const yPosterAxisGroup = svg
+    .select("g.y-axis-poster")
+    .style("transform", `translateX(${leftMargin}px)`)
+    .call(yPosterAxis);
+
+  yPosterAxisGroup.attr("opacity", 0);
 
   // y axis = genre
   // const genrePlotHeight = height - 30;
@@ -109,6 +144,8 @@ export const getAxis = ({
       yCount?: boolean;
       xDecade?: boolean;
       xDirector?: boolean;
+      yPoster?: boolean;
+      xBechdel?: boolean;
     }
   ) => {
     const opt = {
@@ -118,20 +155,42 @@ export const getAxis = ({
       yCount: true,
       xDecade: true,
       xDirector: true,
+      yPoster: true,
+      xBechdel: true,
       ...option,
     };
     opt.yBechdel &&
-      yBechdelAxisGroup.transition().duration(duration).attr("opacity", 0);
+      yBechdelAxisGroup
+        // .transition().duration(duration)
+        .attr("opacity", 0);
     opt.yGenre &&
-      yGenreAxisGroup.transition().duration(duration).attr("opacity", 0);
+      yGenreAxisGroup
+        // .transition().duration(duration)
+        .attr("opacity", 0);
     opt.yCount &&
-      yCountAxisGroup.transition().duration(duration).attr("opacity", 0);
+      yCountAxisGroup
+        // .transition().duration(duration)
+        .attr("opacity", 0);
     opt.xYear &&
-      xYearAxisGroup.transition().duration(duration).attr("opacity", 0);
+      xYearAxisGroup
+        // .transition().duration(duration)
+        .attr("opacity", 0);
     opt.xDecade &&
-      xDecadeAxisGroup.transition().duration(duration).attr("opacity", 0);
+      xDecadeAxisGroup
+        // .transition().duration(duration)
+        .attr("opacity", 0);
     opt.xDirector &&
-      xDirectorAxisGroup.transition().duration(duration).attr("opacity", 0);
+      xDirectorAxisGroup
+        // .transition().duration(duration)
+        .attr("opacity", 0);
+    opt.yPoster &&
+      yPosterAxisGroup
+        // .transition().duration(duration)
+        .attr("opacity", 0);
+    opt.xBechdel &&
+      xBechdelAxisGroup
+        // .transition().duration(duration)
+        .attr("opacity", 0);
   };
 
   return {
@@ -141,22 +200,20 @@ export const getAxis = ({
     scatterYRange,
     // genreYRange,
     xYear,
-    xYearAxis,
     xYearAxisGroup,
     xDecade,
-    xDecadeAxis,
     xDecadeAxisGroup,
     yBechdel,
-    yBechdelAxis,
     yBechdelAxisGroup,
     yCount,
-    yCountAxis,
     yCountAxisGroup,
     yGenre,
-    yGenreAxis,
     yGenreAxisGroup,
     xDirector,
-    xDirectorAxis,
     xDirectorAxisGroup,
+    yPoster,
+    yPosterAxisGroup,
+    xBechdel,
+    xBechdelAxisGroup,
   };
 };

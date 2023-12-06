@@ -1,5 +1,7 @@
-import { beeswarmForce } from "./beeswarmForce";
 import * as d3 from "d3";
+import dialogueSampleData from "../assets/dialogue-sample.json";
+
+const sampleTitles = dialogueSampleData.map((d) => d.title);
 
 export const prepareUnits = ({ svg, data, bechdelColorScale }) => {
   const marksGroup = svg.select("g.marks");
@@ -8,9 +10,10 @@ export const prepareUnits = ({ svg, data, bechdelColorScale }) => {
     .data(data)
     .join("rect")
     .attr("class", (d, i) => {
-      //TODO use movie id
-      if (i === 0) return "mark compare movie1";
-      else if (i === 1) return "mark compare movie2";
+      if (sampleTitles[0] === d.title && d.genre === "Adventure")
+        return "mark compare movie1";
+      else if (sampleTitles[1] === d.title && d.genre === "Adventure")
+        return "mark compare movie2";
       else return "mark";
     })
     .attr("fill", (d) => bechdelColorScale(d.BechdelRating) as string)
@@ -18,10 +21,24 @@ export const prepareUnits = ({ svg, data, bechdelColorScale }) => {
 
   const resetMarks = (duration: number = 600, show: boolean) => {
     marks
-      .transition()
-      .duration(duration)
+      // .transition()
+      // .duration(duration)
+      .interrupt()
       .attr("opacity", show ? 1 : 0);
+    d3.selectAll("div.poster").interrupt().attr("opacity", 0);
   };
+
+  // const defs = svg.select("defs");
+  // defs
+  //   .selectAll("pattern")
+  //   .data(data)
+  //   .join("pattern")
+  //   .attr("id", (d) => d.id)
+  //   .selectAll("image")
+  //   .data((d) => [d])
+  //   .join("image")
+  //   // .attr("xlink:href", (d) => d.image);
+
   return {
     marksGroup,
     marks,
@@ -37,8 +54,10 @@ export const prepareGenreUnits = ({ svg, data, bechdelColorScale }) => {
     .join("rect")
     .attr("class", (d, i) => {
       //TODO use movie id
-      if (i === 0) return "genre-mark compare movie1";
-      else if (i === 1) return "genre-mark compare movie2";
+      if (sampleTitles[0] === d.title && d.genre === "Adventure")
+        return "genre-mark compare movie1";
+      else if (sampleTitles[1] === d.title && d.genre === "Adventure")
+        return "genre-mark compare movie2";
       else return "genre-mark";
     })
     .attr("fill", (d) => bechdelColorScale(d.BechdelRating) as string)
@@ -46,8 +65,8 @@ export const prepareGenreUnits = ({ svg, data, bechdelColorScale }) => {
 
   const resetGenreMarks = (duration: number = 600, show: boolean) => {
     genreMarks
-      .transition()
-      .duration(duration)
+      // .transition()
+      // .duration(duration)
       .attr("opacity", show ? 1 : 0);
   };
   return {

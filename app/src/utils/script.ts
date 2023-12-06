@@ -37,7 +37,7 @@ export const splitArray = (arr: any[], size: number) => {
 
 export const getFemalePercentage = (data: Dialogue[]) => {
   const totalCount = data.length;
-  const femaleCount = data.filter((item) => item.gender === "F").length;
+  const femaleCount = data.filter((item) => item.gender === "Female").length;
 
   return femaleCount / totalCount;
 };

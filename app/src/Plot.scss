@@ -1,10 +1,27 @@
-.axis {
-  path,
-  line {
-    stroke: #cbcbcb;
+.chart {
+  width: 100%;
+  height: 100%;
+  padding: 10%;
+}
+
+//step1
+.bechdel-legend {
+  display: flex;
+  justify-content: end;
+  align-items: center;
+  gap: 1vw;
+  margin-top: -3%;
+  > span {
+    font-size: 0.9em;
   }
-  text {
-    fill: #cecdcd;
+  .legend-item {
+    display: flex;
+    gap: 6px;
+  }
+  .chip {
+    width: 1vw;
+    height: 1vw;
+    background-color: #fff;
   }
 }
 
@@ -21,8 +38,10 @@
 
   .dialogue {
     height: fit-content;
+    font-size: 1vw;
     p {
       display: inline;
+      font-size: inherit;
     }
   }
 }
@@ -32,4 +51,25 @@
   // pointer-events: none;
   background: white;
   color: black;
+}
+
+.unit-posters,
+.sample-posters {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 100px;
+  pointer-events: none;
+
+  .unit-poster {
+    position: absolute;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+}
+.sample-posters {
+  opacity: 0;
+  > div {
+    opacity: 1;
+  }
 }

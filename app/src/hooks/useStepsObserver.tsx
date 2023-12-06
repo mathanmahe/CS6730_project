@@ -1,7 +1,7 @@
 import { useRef, useMemo, useEffect } from "react";
 
 export const useStepsObserver = (
-  callback?: (target: Element | undefined) => void,
+  callback?: (target: Element | undefined, entries: any) => void,
   options?: IntersectionObserverInit
 ) => {
   const steps = useRef<(HTMLDivElement | null)[]>([]);
@@ -10,11 +10,10 @@ export const useStepsObserver = (
       new IntersectionObserver(
         (entries) => {
           const { target } = entries.find((el) => el.isIntersecting) || {};
-          callback?.(target);
+          callback?.(target, entries);
         },
         {
           root: null,
-          rootMargin: "0px",
           threshold: 0.5,
           ...options,
         }
@@ -24,6 +23,9 @@ export const useStepsObserver = (
 
   useEffect(() => {
     steps.current?.forEach((el) => scrollObserver.observe(el));
+    return () => {
+      steps.current?.forEach((el) => scrollObserver.unobserve(el));
+    };
   }, [steps, scrollObserver]);
 
   return steps;
