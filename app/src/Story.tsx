@@ -37,13 +37,8 @@ export const Story = ({ stepsRef, activeStep, dashboardActive }) => {
           <div className="content">
             <div className="title">IMDb Top 250 Movies Timeline </div>
             <div className="desc">
-              From the 1950s through the 2020s, the IMDb Top 250 movies
-              represent a range of decades. These critically acclaimed and
-              popular films reflect the zeitgeist of their times. But how do
-              they represent women? Are they portraying complex and independent
-              female characters? By examining the representation of women in
-              these films, we can glean insights into how society's perception
-              of women has evolved.
+              What do the highest rated movies of a time say about the people who watch them? 
+              From the 1950s to the 2020s, the IMDb top 250 movies represent the changing mindsets of audiences and directors. The way we represent women in films speaks volumes about the societal mindset towards them. We aim to explore the question- how do the top films represent women and how has that changed over time?
             </div>
           </div>
         </div>
@@ -59,7 +54,7 @@ export const Story = ({ stepsRef, activeStep, dashboardActive }) => {
             <div className="desc">
               To evaluate women's representation in these films, we utilized the
               Bechdel Test as a primary metric. This test examines if a film
-              features at least two women who talk to each other about something
+              features at least two named women who talk to each other about something
               other than a man.
               <br />
               score 0:
@@ -82,11 +77,8 @@ export const Story = ({ stepsRef, activeStep, dashboardActive }) => {
             <div className="title">Change in Bechdel Scores Over Time </div>
             <div className="desc">
               We analyzed the Bechdel scores of these movies by decade,
-              presented through a stacked area chart. This visualization
-              highlights a gradual increase in films passing the Bechdel Test,
-              especially noticeable in the 2010s. The 1980s might be seen as a
-              dark period for the representation of women, with a marked
-              improvement in the following decades.
+              presented through a stacked area chart. A gradual increase is observed in films passing the Bechdel Test,
+              especially noticeable in the 2010s. The 1980s have the lowest number of movies that pass the Bechdel test.
             </div>
           </div>
         </div>
@@ -98,13 +90,7 @@ export const Story = ({ stepsRef, activeStep, dashboardActive }) => {
           <div className="content">
             <div className="title">Genre-wise Bechdel Score Distribution</div>
             <div className="desc">
-              Exploring the possibility of genre influencing women's
-              representation, we plotted the Bechdel scores of top 250 movies
-              across different genres using a beeswarm chart. Notably, genres
-              like crime, action, and adventure, which were once almost
-              exclusively male-centric, have shown a significant shift, with
-              most films in these categories passing the Bechdel Test in recent
-              times.
+              Since women's representation various greatly across genres, we plotted the Bechdel scores of the top 250 movies using a beeswam chart. We can see that genres like crime, action, and adventure were almost entirely male-centric, are doing better in recent years. 
             </div>
             <div className="buttons">
               <div className="title">Change unit size by</div>
@@ -122,7 +108,7 @@ export const Story = ({ stepsRef, activeStep, dashboardActive }) => {
                 So, do movies with better representation of women get more
                 popularity and revenue? We mapped unit size to IMDB votes and
                 revenue. While votes don't seem to have much to do with whether
-                or not a movie passes the backtest, we can see that recent big
+                or not a movie passes the test, we can see that recent big
                 grossing movies in the action and adventure genres all passed
                 the Bechdel test.
               </div>
@@ -142,8 +128,8 @@ export const Story = ({ stepsRef, activeStep, dashboardActive }) => {
               Director's Gender: Considering the significant male dominance in
               film direction, we explored how many top 250 films were directed
               by women. Unfortunately, only a handful of these films had female
-              directors, highlighting the need for more gender diversity in this
-              role.
+              directors.
+              
             </div>
           </div>
         </div>
