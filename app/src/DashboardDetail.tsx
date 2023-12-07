@@ -35,6 +35,8 @@ export const DashboardDetail = ({ item }) => {
     setPosterProp({ female: posterFProportion, male: posterMProportion });
   }, [item]);
 
+  const binSize = Math.max(18, window.innerWidth * 0.01);
+
   return (
     <div className="dashboard-modal">
       <div className="left">
@@ -46,10 +48,13 @@ export const DashboardDetail = ({ item }) => {
               backgroundImage: `url("https://github.com/aereeeee/CS6730_project/blob/main/posters/annotated/${data.id}.jpg?raw=true")`,
             }}
           ></div>
-          <div className="waffle" style={{ width: "150px", height: "150px" }}>
+          <div
+            className="waffle"
+            style={{ width: binSize * 10 + "px", height: binSize * 10 + "px" }}
+          >
             <WaffleChart
               data={lines}
-              binSize={15}
+              binSize={binSize}
               chunkSize={100}
               index={0}
               transition={false}

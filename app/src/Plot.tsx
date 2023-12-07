@@ -943,7 +943,7 @@ const Plot = ({
   }, []);
 
   useEffect(() => {
-    console.log("activeStep", activeStep, prevStep.current);
+    // console.log("activeStep", activeStep, prevStep.current);
 
     const isBackward = prevStep.current > activeStep;
     functionMap.current?.[activeStep]?.({ isBackward });

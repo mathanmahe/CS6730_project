@@ -4,6 +4,20 @@
   background: #000;
   align-items: start;
 
+  .searched {
+    padding: 1rem 0 2rem 0;
+    border-bottom: 1px solid #333;
+    > .title {
+      font-size: 1.2rem;
+      padding: 1rem;
+    }
+    .content {
+      padding: 0 4rem;
+      justify-content: start;
+      gap: 2rem;
+      margin-top: 1rem;
+    }
+  }
   .dashboard-inner {
     width: 100%;
     padding: 0 3rem;
@@ -83,11 +97,6 @@
       white-space: nowrap;
       margin-bottom: 1rem;
     }
-  }
-
-  .waffle-chart {
-    // width: 150px;
-    // height: 150px;
   }
 }
 .dashboard-popover {

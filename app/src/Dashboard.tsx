@@ -1,30 +1,77 @@
 import { WaffleChart } from "./WaffleChart";
 import "./Dashboard.scss";
 import { Select, Popover, Modal, Spin } from "antd";
-import { useEffect, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import { DashboardDetail } from "./DashboardDetail";
 
+const sortAttributes = [
+  {
+    value: "rank",
+    label: "IMDb Rank",
+  },
+  {
+    value: "BechdelRating",
+    label: "Bechdel Score",
+  },
+  {
+    value: "releaseDate",
+    label: "Release Date",
+  },
+  {
+    value: "worldGross",
+    label: "Worldwide Gross",
+  },
+
+  {
+    value: "imDbRatingVotes",
+    label: "IMDb Votes",
+  },
+];
 export const Dashboard = ({ dashboardRef, dashboardActive, activeStep }) => {
   const [dialogueData, setData] = useState(null);
   const [loading, setLoading] = useState(false);
+
+  const sortData = (data, key) => {
+    return [...data].sort((a, b) => {
+      if (key === "releaseDate") {
+        return new Date(a.data[key]).getTime() > new Date(b.data[key]).getTime()
+          ? 1
+          : -1;
+      } else {
+        return Number(a.data[key]) > Number(b.data[key]) ? 1 : -1;
+      }
+    });
+  };
 
   useEffect(() => {
     if (!dashboardActive.isIntersecting || !!dialogueData || loading) return;
     const importData = async () => {
       setLoading(true);
       const module = await import("./assets/dialogue.json");
-      setData(module.default);
+      setData(sortData(module.default, "rank"));
       setLoading(false);
     };
 
     importData();
   }, [dashboardActive]);
 
+  const [sortValue, setSortValue] = useState("rank");
+  useEffect(() => {
+    if (!dialogueData) return;
+    const sorted = sortData(dialogueData, sortValue);
+    setData(sorted);
+  }, [sortValue]);
+
   const [searchValue, setValue] = useState([]);
+
+  const searchedData = useMemo(() => {
+    return dialogueData?.filter((d) => searchValue.includes(d.title));
+  }, [searchValue]);
+
   const chunkSize = 100;
   // const [chunkSize, setChunkSize] = useState(100);
 
-  const binSize = 18;
+  const binSize = Math.max(18, window.innerWidth * 0.01);
   const numPerRow = Math.sqrt(chunkSize);
 
   const onChange = (newValue: string[]) => {
@@ -94,18 +141,56 @@ export const Dashboard = ({ dashboardRef, dashboardActive, activeStep }) => {
                 <div>Sort by</div>
                 <div className="sort-item">
                   <Select
-                    defaultValue=""
+                    defaultValue="rank"
                     style={{ width: "100%" }}
                     onChange={(value: string) => {
-                      console.log(`selected ${value}`);
+                      setSortValue(value);
                     }}
-                    options={[]}
+                    options={sortAttributes}
                   />
                 </div>
               </div>
             </div>
           </div>
         </div>
+        {!!searchedData?.length && (
+          <div className="searched">
+            <div className="title">Searched Movies</div>
+            <div className="content">
+              {searchedData.map((d, i) => (
+                <Popover
+                  key={d.id}
+                  content={<TooltipContent data={d.data} />}
+                  placement="right"
+                  arrow={{ pointAtCenter: true }}
+                >
+                  <div
+                    className="item-box"
+                    style={{ width: numPerRow * binSize + "px" }}
+                    onClick={() => {
+                      setOpen(true);
+                      setSlected(d);
+                    }}
+                  >
+                    <div className="title">
+                      #{d.data.rank} {d.title}
+                    </div>
+                    <WaffleChart
+                      key={d.fileName}
+                      title={d.title}
+                      data={d.lines}
+                      isActive={true} //just signal
+                      index={i}
+                      chunkSize={chunkSize}
+                      binSize={binSize}
+                      transition={false}
+                    />
+                  </div>
+                </Popover>
+              ))}
+            </div>
+          </div>
+        )}
         <div className="content">
           {dialogueData &&
             dialogueData.map((d, i) => (
@@ -130,7 +215,7 @@ export const Dashboard = ({ dashboardRef, dashboardActive, activeStep }) => {
                     key={d.fileName}
                     title={d.title}
                     data={d.lines}
-                    isActive={dashboardActive}
+                    isActive={dashboardActive} //just signal
                     index={i}
                     chunkSize={chunkSize}
                     binSize={binSize}
