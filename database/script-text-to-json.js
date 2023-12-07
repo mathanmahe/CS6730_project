@@ -55,7 +55,12 @@ async function createJsonFromTextFiles(directory) {
         const title = file.replace("_dialogue.txt", "").split("-").join(" ");
         const item = top250.find((d) => d.title === title);
         if (item) {
-          json.push({ fileName: file, title, data: parseDialogue(data, item) });
+          json.push({
+            fileName: file,
+            title,
+            data: parseDialogue(data, item),
+            item,
+          });
         }
       }
     }
@@ -107,7 +112,7 @@ async function createJsonFilesFromText(directory) {
 }
 
 // Replace 'your_directory_path' with the path to your directory containing text files
-// createJsonFromTextFiles("script-analysis/scripts/parsed/dialogue");
+createJsonFromTextFiles("script-analysis/scripts/parsed/dialogue");
 
 // createJsonFilesFromText("script-analysis/scripts/parsed/dialogue");
 
@@ -132,4 +137,4 @@ async function saveTextFileNamesAsJsArray(directory) {
 }
 
 // Replace 'your_directory_path' with the path to your directory containing text files
-saveTextFileNamesAsJsArray("script-analysis/scripts/parsed/dialogue");
+// saveTextFileNamesAsJsArray("script-analysis/scripts/parsed/dialogue");
