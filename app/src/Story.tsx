@@ -67,6 +67,9 @@ export const Story = ({ stepsRef, activeStep, dashboardActive }) => {
               <br /> <br />
               Each criterion met earns one point, resulting in a score range of
               0 to 3
+              (Here the movies are sorted based on their rank, with the highest ranked at the bottom)
+              
+                
             </div>
           </div>
         </div>
