@@ -93,7 +93,7 @@ export const Dashboard = ({ dashboardRef, dashboardActive, activeStep }) => {
               <div className="sort">
                 <div>Sort by</div>
                 <Select
-                  defaultValue="lucy"
+                  defaultValue=""
                   style={{ width: 120 }}
                   onChange={(value: string) => {
                     console.log(`selected ${value}`);

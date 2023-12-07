@@ -23,6 +23,7 @@ import dialogueSampleData from "./assets/dialogue-sample.json";
 import { getFemalePercentage, splitArray } from "./utils/script";
 import { SentimentVis } from "./SentimentVis";
 import { TooltipContent } from "./Dashboard";
+import { isInViewport } from "./utils/tooltip";
 
 const chunkSize = 100;
 export const chunkedSampleDataset = dialogueSampleData.map(
@@ -147,28 +148,43 @@ const Plot = ({
 
     const tooltip = d3.select(tooltipRef.current);
 
-    marks
-      .on("mouseover", (e, d) => {
-        setTooltipData(d);
+    const showTooltip = (e) => {
+      const rect = tooltipRef.current.getBoundingClientRect();
+      const windowW = window.innerWidth || document.documentElement.clientWidth;
+      const left = e.clientX + 20;
+      const isOut = left + rect.width > windowW;
+
+      if (isOut) {
+        tooltip
+          .style("right", 20 + "px")
+          .style("left", "unset")
+          .style("top", e.clientY + 20 + "px")
+          .style("visibility", "visible");
+      } else {
         tooltip
           .style("left", e.clientX + 20 + "px")
+          .style("right", "unset")
           .style("top", e.clientY + 20 + "px")
-          .style("opacity", 1);
+          .style("visibility", "visible");
+      }
+    };
+
+    marks
+      .on("mouseenter", (e, d) => {
+        setTooltipData(d);
+        showTooltip(e);
       })
-      .on("mouseout", (d) => {
-        tooltip.style("opacity", 0);
+      .on("mouseleave", (d) => {
+        tooltip.style("visibility", "hidden");
       });
 
     genreMarks
-      .on("mouseover", (e, d) => {
+      .on("mouseenter", (e, d) => {
         setTooltipData(d);
-        tooltip
-          .style("left", e.clientX + 20 + "px")
-          .style("top", e.clientY + 20 + "px")
-          .style("opacity", 1);
+        showTooltip(e);
       })
-      .on("mouseout", (d) => {
-        tooltip.style("opacity", 0);
+      .on("mouseleave", (d) => {
+        tooltip.style("visibility", "hidden");
       });
 
     //legend
@@ -851,10 +867,6 @@ const Plot = ({
 
       <div className="tooltip" ref={tooltipRef}>
         <TooltipContent data={tooltipData} />
-        {/* <div className="title">{tooltipData?.title}</div>
-        <div className="title">{tooltipData?.title}</div>
-        <div className="date">{tooltipData?.releaseDate}</div>
-        <div className="rating">{tooltipData?.imDbRating}</div> */}
       </div>
       <div className="unit-posters">
         {data.slice(0, 100).map((d) => (
@@ -929,6 +941,7 @@ const Plot = ({
             data-gender="female"
           >
             Female
+            <div className="chip"></div>
           </div>
           <div className={classNames("legend-item male")} data-gender="male">
             Male
