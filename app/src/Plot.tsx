@@ -49,10 +49,10 @@ const Plot = ({
   activeStep: string;
 }) => {
   const { width, height, svgRef, getContainerSize } = useResponsiveChart();
-  const [functionMap, setFunctionMap] = useState<Record<string, () => void>>(
-    {}
-  );
-
+  // const [functionMap, setFunctionMap] = useState<Record<string, () => void>>(
+  //   {}
+  // );
+  const functionMap = useRef({});
   const prevStep = useRef(activeStep);
   const tooltipRef = useRef();
   const [tooltipData, setTooltipData] = useState();
@@ -200,10 +200,32 @@ const Plot = ({
       return bechdelColorScale(bechdelDomain[i]);
     });
 
+    //size - legend
+    const sizeLegendGroup = containerDiv
+      .select("div.size-legend")
+      .style("visibility", "hidden")
+      .style("opacity", 0);
+
+    const showSizeLegend = () => {
+      sizeLegendGroup
+        .style("visibility", "visible")
+        .transition()
+        .duration(600)
+        .style("opacity", 1);
+    };
+    const hideSizeLegend = () => {
+      sizeLegendGroup
+        .transition()
+        .duration(600)
+        .style("opacity", 0)
+        .style("visibility", "hidden");
+    };
+
     const showLegend = () => {
       legendGroup.transition().duration(600).style("opacity", 1);
     };
     const hideLegend = () => {
+      hideSizeLegend();
       legendGroup.transition().duration(600).style("opacity", 0);
     };
 
@@ -346,6 +368,7 @@ const Plot = ({
       resetSentimentChart();
 
       showLegend();
+      hideSizeLegend();
       if (isBackward) {
         const sizeH = plotHeight / 50 - 3;
         const marginTop = 3;
@@ -380,6 +403,7 @@ const Plot = ({
       resetSentimentChart();
 
       showLegend();
+      hideSizeLegend();
 
       xDecadeAxisGroup
         .selectAll(".tick line")
@@ -440,7 +464,7 @@ const Plot = ({
       sizeRange: beeswarmSizeRange,
     });
 
-    const showBeeswarmChart = () => {
+    const showBeeswarmChart = (beeswarmData) => () => {
       // from wherever, show genre mark and xaxis
       resetDialoguePlot();
       resetMarks();
@@ -449,6 +473,7 @@ const Plot = ({
       resetSentimentChart();
 
       showLegend();
+      showSizeLegend();
 
       stacked
         .transition()
@@ -474,24 +499,40 @@ const Plot = ({
         .attr("pointer-events", "all")
         .attr("x", (d) => xDecade(d.decade))
         .attr("y", scatterYRange[0] - 20)
-        .attr("width", (d, i) => genreDecadeBeeswarmData[i].r)
-        .attr("height", (d, i) => genreDecadeBeeswarmData[i].r)
+        .attr("width", (d, i) => beeswarmData[i].r)
+        .attr("height", (d, i) => beeswarmData[i].r)
         .attr("opacity", 1)
         .transition()
         .duration(600)
         .delay((d, i) => {
           return 300 + 2 * i;
         })
-        .attr("x", (d, i) => genreDecadeBeeswarmData[i].x)
-        .attr("y", (d, i) => genreDecadeBeeswarmData[i].y);
+        .attr("x", (d, i) => beeswarmData[i].x)
+        .attr("y", (d, i) => beeswarmData[i].y);
 
-      setSizeFactor("none");
+      // setSizeFactor("none");
     };
 
     const updateBeeswarm = (sizeFactor) => {
       const beeswarmData = getBeeswarmData({
         data: filteredGenreData,
         x: (d) => xDecade(d.decade) + xDecade.bandwidth() / 2,
+        y: (d) => yGenre(d.genre) + yGenre.bandwidth() / 2,
+        sizeAttribute:
+          sizeFactor === "none" ? xDecade.bandwidth() * 0.1 : sizeFactor,
+        yStrength: 10,
+        sizeRange: beeswarmSizeRange,
+      });
+
+      const genreDirectorBeeswarmData = getBeeswarmData({
+        data: filteredGenreData,
+        x: (d) =>
+          xDirector(
+            d.directorList.every((director) => director.gender === "Male")
+              ? "Male"
+              : "Female"
+          ) +
+          xDirector.bandwidth() / 2,
         y: (d) => yGenre(d.genre) + yGenre.bandwidth() / 2,
         sizeAttribute:
           sizeFactor === "none" ? xDecade.bandwidth() * 0.1 : sizeFactor,
@@ -509,6 +550,13 @@ const Plot = ({
         .attr("height", (d, i) => beeswarmData[i].r)
         .attr("x", (d, i) => beeswarmData[i].x)
         .attr("y", (d, i) => beeswarmData[i].y);
+
+      //update story function
+      functionMap.current = {
+        ...functionMap.current,
+        "4": showBeeswarmChart(beeswarmData),
+        "5": showDirectorBeeswarm(genreDirectorBeeswarmData),
+      };
     };
 
     // step5: director gender beeswarm
@@ -527,7 +575,7 @@ const Plot = ({
       sizeRange: beeswarmSizeRange,
     });
 
-    const showDirectorBeeswarm = () => {
+    const showDirectorBeeswarm = (beeswarmData) => () => {
       // from wherever, show mark and xaxis
       resetAxis({
         yGenre: false,
@@ -540,6 +588,7 @@ const Plot = ({
       resetSentimentChart();
 
       showLegend();
+      showSizeLegend();
 
       yGenreAxisGroup.transition().duration(600).attr("opacity", 1);
 
@@ -551,16 +600,16 @@ const Plot = ({
 
       // show unit
       genreMarks
-        .attr("width", (d, i) => genreDirectorGrossBeeswarmData[i].r)
-        .attr("height", (d, i) => genreDirectorGrossBeeswarmData[i].r)
+        .attr("width", (d, i) => beeswarmData[i].r)
+        .attr("height", (d, i) => beeswarmData[i].r)
         .attr("opacity", 1)
         .transition()
         .duration(600)
         .delay((d, i) => {
           return 300 + 2 * i;
         })
-        .attr("x", (d, i) => genreDirectorGrossBeeswarmData[i].x)
-        .attr("y", (d, i) => genreDirectorGrossBeeswarmData[i].y);
+        .attr("x", (d, i) => beeswarmData[i].x)
+        .attr("y", (d, i) => beeswarmData[i].y);
     };
 
     // Step6: Script analysis
@@ -869,13 +918,13 @@ const Plot = ({
       hideLegend();
     };
 
-    setFunctionMap({
+    functionMap.current = {
       "0": showTitle,
       "1": showTimeline,
       "2": showTimelineBechdelColor,
       "3": showBechdelTimelineArea,
-      "4": showBeeswarmChart,
-      "5": showDirectorBeeswarm,
+      "4": showBeeswarmChart(genreDecadeBeeswarmData),
+      "5": showDirectorBeeswarm(genreDirectorGrossBeeswarmData),
       // script alanysis
       "6": showSelectMovie,
       "7": showFemaleDialog,
@@ -883,20 +932,27 @@ const Plot = ({
       "9": showSentimentChart,
       "10": hideEverything,
       updateBeeswarm,
-    });
+    };
+    // functionMap.current[activeStep]();
   }, [width, height, data]);
+
+  useEffect(() => {
+    setTimeout(() => {
+      functionMap.current?.[0]?.();
+    }, 0);
+  }, []);
 
   useEffect(() => {
     console.log("activeStep", activeStep, prevStep.current);
 
     const isBackward = prevStep.current > activeStep;
-    functionMap?.[activeStep]?.({ isBackward });
+    functionMap.current?.[activeStep]?.({ isBackward });
 
     prevStep.current = activeStep;
-  }, [activeStep, functionMap]);
+  }, [activeStep]);
 
   useEffect(() => {
-    functionMap?.["updateBeeswarm"]?.(sizeFactor);
+    functionMap.current?.["updateBeeswarm"]?.(sizeFactor);
   }, [sizeFactor]);
 
   useEffect(() => {
@@ -971,6 +1027,20 @@ const Plot = ({
         ))}
       </div>
       <div className="story-legend">
+        <div className="size-legend">
+          <div className="key">{sizeFactor === "none" ? "" : sizeFactor}</div>
+          <div className="val">
+            {sizeExtentMap[sizeFactor]?.map((d, i) => (
+              <div key={d} className="legend-item">
+                <div
+                  className={classNames("chip", { big: i === 1 })}
+                  data-id={d}
+                ></div>
+                <span>{d.toLocaleString()}</span>
+              </div>
+            ))}
+          </div>
+        </div>
         <div className="bechdel-legend">
           <div className="key">Bechdel Score</div>
           <div className="val">
@@ -982,22 +1052,6 @@ const Plot = ({
             ))}
           </div>
         </div>
-        {!!sizeFactor && sizeFactor !== "none" && (
-          <div className="size-legend">
-            <div className="key">{sizeFactor}</div>
-            <div className="val">
-              {sizeExtentMap[sizeFactor].map((d, i) => (
-                <div key={d} className="legend-item">
-                  <div
-                    className={classNames("chip", { big: i === 1 })}
-                    data-id={d}
-                  ></div>
-                  <span>{d.toLocaleString()}</span>
-                </div>
-              ))}
-            </div>
-          </div>
-        )}
       </div>
       <div className="sentiment-sample">
         {dialogueSampleData.map((d, i) => (
