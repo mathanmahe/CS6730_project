@@ -923,6 +923,20 @@ const Plot = ({
             ></SentimentVis>
           </div>
         ))}
+        <div className="legend">
+          <div
+            className={classNames("legend-item female")}
+            data-gender="female"
+          >
+            Female
+          </div>
+          <div className={classNames("legend-item male")} data-gender="male">
+            Male
+          </div>
+          <div className={classNames("legend-item na")} data-gender="na">
+            Unknown
+          </div>
+        </div>
       </div>
     </div>
   );

@@ -7,6 +7,7 @@ import { SentimentVis } from "./SentimentVis";
 import { WaffleChart } from "./WaffleChart";
 import { Tooltip } from "antd";
 import { colorGenderMap } from "./utils/data";
+import { data as data250 } from "./utils/data";
 
 export const DashboardDetail = ({ item }) => {
   const {
@@ -21,10 +22,18 @@ export const DashboardDetail = ({ item }) => {
 
   const { posterFProportion, posterMProportion } = data;
   const [selectedGender, setGender] = useState();
+  const [posterProp, setPosterProp] = useState();
 
   const onHoverGenderButton = (e) => {
     setGender(e.target.getAttribute("data-gender"));
   };
+
+  useEffect(() => {
+    const { posterFProportion, posterMProportion } = data250.find(
+      (d) => d.id === id
+    );
+    setPosterProp({ female: posterFProportion, male: posterMProportion });
+  }, [item]);
 
   return (
     <div className="dashboard-modal">
@@ -48,7 +57,14 @@ export const DashboardDetail = ({ item }) => {
           </div>
         </div>
         <div>
-          <div className="item">{data.plot}</div>
+          <div className="item">
+            <div className="title">Keywords</div>
+            <p>{data.keywords}</p>
+          </div>
+          {/* <div className="item">
+            <div className="title">Plot</div>
+            <p>{data.plot}</p>
+          </div> */}
         </div>
       </div>
       <div className="right">
@@ -104,10 +120,7 @@ export const DashboardDetail = ({ item }) => {
               }}
             >
               <span>0%</span>
-              {Object.entries({
-                female: posterFProportion,
-                male: posterMProportion,
-              }).map(([key, val]) => (
+              {Object.entries(posterProp || {}).map(([key, val]) => (
                 <Tooltip
                   placement="bottom"
                   title={(val * 100).toFixed(2) + "%"}
