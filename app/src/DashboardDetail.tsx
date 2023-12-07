@@ -98,11 +98,10 @@ export const DashboardDetail = ({ item }) => {
             })}
           >
             {data.actorList?.slice(0, 10).map((d) => {
-              console.log("wtf", d.gender.toLowerCase(), selectedGender);
               return (
                 <div
                   className={classNames("actor-item", {
-                    active: d.gender.toLowerCase() === selectedGender,
+                    active: d.gender?.toLowerCase() === selectedGender,
                   })}
                   key={d.id}
                 >
