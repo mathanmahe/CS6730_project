@@ -153,50 +153,52 @@ export const Dashboard = ({ dashboardRef, dashboardActive, activeStep }) => {
 
 export const TooltipContent = ({ data }) => {
   return (
-    <div className="dashboard-popover">
-      <div className="title">{data.title}</div>
-      <div className="dashboard-popover-content">
-        <div className="left">
-          <div
-            className="poster"
-            style={{
-              backgroundImage: `url("./posters/${data.rank}_${data.id}.jpg")`,
-            }}
-          ></div>
-        </div>
-        <div className="right">
-          <div className="item">
-            <span className="key">Rank</span>
-            <span className="value"># {data.rank}</span>
+    data && (
+      <div className="dashboard-popover">
+        <div className="title">{data.title}</div>
+        <div className="dashboard-popover-content">
+          <div className="left">
+            <div
+              className="poster"
+              style={{
+                backgroundImage: `url("./posters/${data.rank}_${data.id}.jpg")`,
+              }}
+            ></div>
           </div>
-          <div className="item">
-            <span className="key">Released at</span>
-            <span className="value">{data.releaseDate}</span>
-          </div>
-          <div className="item">
-            <span className="key">Genres</span>
-            <span className="value">{data.genres}</span>
-          </div>
-          <div className="item">
-            <span className="key">Director</span>
-            <span className="value">{data.directors}</span>
-          </div>
-          <div className="item">
-            <span className="key">Bechdel Score</span>
-            <span className="value">{data.BechdelRating}</span>
-          </div>
-          <div className="item">
-            <span className="key">IMDb Rating</span>
-            <span className="value">{data.imDbRating}</span>
-          </div>
-          <div className="item">
-            <span className="key">IMDb Votes</span>
-            <span className="value">
-              {Number(data.imDbRatingVotes).toLocaleString()}
-            </span>
+          <div className="right">
+            <div className="item">
+              <span className="key">Rank</span>
+              <span className="value"># {data.rank}</span>
+            </div>
+            <div className="item">
+              <span className="key">Released at</span>
+              <span className="value">{data.releaseDate}</span>
+            </div>
+            <div className="item">
+              <span className="key">Genres</span>
+              <span className="value">{data.genres}</span>
+            </div>
+            <div className="item">
+              <span className="key">Director</span>
+              <span className="value">{data.directors}</span>
+            </div>
+            <div className="item">
+              <span className="key">Bechdel Score</span>
+              <span className="value">{data.BechdelRating}</span>
+            </div>
+            <div className="item">
+              <span className="key">IMDb Rating</span>
+              <span className="value">{data.imDbRating}</span>
+            </div>
+            <div className="item">
+              <span className="key">IMDb Votes</span>
+              <span className="value">
+                {Number(data.imDbRatingVotes).toLocaleString()}
+              </span>
+            </div>
           </div>
         </div>
       </div>
-    </div>
+    )
   );
 };

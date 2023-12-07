@@ -37,8 +37,13 @@ export const Story = ({ stepsRef, activeStep, dashboardActive }) => {
           <div className="content">
             <div className="title">IMDb Top 250 Movies Timeline </div>
             <div className="desc">
-              What do the highest rated movies of a time say about the people who watch them? 
-              From the 1950s to the 2020s, the IMDb top 250 movies represent the changing mindsets of audiences and directors. The way we represent women in films speaks volumes about the societal mindset towards them. We aim to explore the question- how do the top films represent women and how has that changed over time?
+              What do the highest rated movies of a time say about the people
+              who watch them? From the 1950s to the 2020s, the IMDb top 250
+              movies represent the changing mindsets of audiences and directors.
+              The way we represent women in films speaks volumes about the
+              societal mindset towards them. We aim to explore the question- how
+              do the top films represent women and how has that changed over
+              time?
             </div>
           </div>
         </div>
@@ -53,18 +58,15 @@ export const Story = ({ stepsRef, activeStep, dashboardActive }) => {
             </div>
             <div className="desc">
               To evaluate women's representation in these films, we utilized the
-              Bechdel Test as a primary metric. This test examines if a film
-              features at least two named women who talk to each other about something
-              other than a man.
+              Bechdel Test as a primary metric. Points are based on three
+              criteria: <br />
               <br />
-              score 0:
-              <br />
-              score 1:
-              <br />
-              score 2:
-              <br />
-              score 3:
-              <br />
+              1. The movie must feature at least two women. <br />
+              2. These women have to talk to each other. <br />
+              3. Their conversation should be about something other than a man.
+              <br /> <br />
+              Each criterion met earns one point, resulting in a score range of
+              0 to 3
             </div>
           </div>
         </div>
@@ -77,8 +79,10 @@ export const Story = ({ stepsRef, activeStep, dashboardActive }) => {
             <div className="title">Change in Bechdel Scores Over Time </div>
             <div className="desc">
               We analyzed the Bechdel scores of these movies by decade,
-              presented through a stacked area chart. A gradual increase is observed in films passing the Bechdel Test,
-              especially noticeable in the 2010s. The 1980s have the lowest number of movies that pass the Bechdel test.
+              presented through a stacked area chart. A gradual increase is
+              observed in films passing the Bechdel Test, especially noticeable
+              in the 2010s. The 1980s have the lowest number of movies that pass
+              the Bechdel test.
             </div>
           </div>
         </div>
@@ -90,7 +94,11 @@ export const Story = ({ stepsRef, activeStep, dashboardActive }) => {
           <div className="content">
             <div className="title">Genre-wise Bechdel Score Distribution</div>
             <div className="desc">
-              Since women's representation various greatly across genres, we plotted the Bechdel scores of the top 250 movies using a beeswam chart. We can see that genres like crime, action, and adventure were almost entirely male-centric, are doing better in recent years. 
+              Since women's representation various greatly across genres, we
+              plotted the Bechdel scores of the top 250 movies using a beeswam
+              chart. We can see that genres like crime, action, and adventure
+              were almost entirely male-centric, are doing better in recent
+              years.
             </div>
             <div className="buttons">
               <div className="title">Change unit size by</div>
@@ -129,7 +137,6 @@ export const Story = ({ stepsRef, activeStep, dashboardActive }) => {
               film direction, we explored how many top 250 films were directed
               by women. Unfortunately, only a handful of these films had female
               directors.
-              
             </div>
           </div>
         </div>
