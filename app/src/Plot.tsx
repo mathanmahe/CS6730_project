@@ -22,6 +22,7 @@ import { prepareDialoguePlot } from "./utils/dialogue";
 import dialogueSampleData from "./assets/dialogue-sample.json";
 import { getFemalePercentage, splitArray } from "./utils/script";
 import { SentimentVis } from "./SentimentVis";
+import { TooltipContent } from "./Dashboard";
 
 const chunkSize = 100;
 export const chunkedSampleDataset = dialogueSampleData.map(
@@ -288,6 +289,7 @@ const Plot = ({
         });
 
       marks
+        .attr("pointer-events", "all")
         .attr("fill", bechdelColorScale("NA"))
         .transition()
         .duration(1000)
@@ -423,6 +425,7 @@ const Plot = ({
 
       // show unit
       genreMarks
+        .attr("pointer-events", "all")
         .attr("x", (d) => xDecade(d.decade))
         .attr("y", scatterYRange[0] - 20)
         .attr("width", (d, i) => genreDecadeBeeswarmData[i].r)
@@ -521,6 +524,7 @@ const Plot = ({
       resetStackedArea(0);
       resetSentimentChart();
       genreMarks
+        .attr("pointer-events", "none")
         .attr("opacity", 1)
         .transition()
         .duration(300)
@@ -846,9 +850,11 @@ const Plot = ({
       </div>
 
       <div className="tooltip" ref={tooltipRef}>
+        <TooltipContent data={tooltipData} />
+        {/* <div className="title">{tooltipData?.title}</div>
         <div className="title">{tooltipData?.title}</div>
         <div className="date">{tooltipData?.releaseDate}</div>
-        <div className="rating">{tooltipData?.imDbRating}</div>
+        <div className="rating">{tooltipData?.imDbRating}</div> */}
       </div>
       <div className="unit-posters">
         {data.slice(0, 100).map((d) => (

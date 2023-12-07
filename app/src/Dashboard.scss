@@ -76,9 +76,15 @@
     // height: 150px;
   }
 }
-.dashboard-popover-content {
-  display: flex;
-  gap: 10px;
+.dashboard-popover {
+  .dashboard-popover-content {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+  }
+  * {
+    font-size: 0.95em;
+  }
 
   .poster {
     width: 100px;
@@ -86,11 +92,21 @@
     background-repeat: no-repeat;
     background-size: cover;
   }
+  .title {
+    font-weight: 600;
+    margin-bottom: 0.5em;
+  }
   .right {
+    display: flex;
+    flex-direction: column;
+
     .item {
       display: flex;
       justify-content: space-between;
-      gap: 10px;
+      gap: 20px;
+      .key {
+        opacity: 0.5;
+      }
 
       .value {
         max-width: 200px;

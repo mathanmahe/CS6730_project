@@ -24,7 +24,7 @@ export const prepareUnits = ({
     .attr("opacity", 0);
 
   const resetMarks = (duration: number = 600, show: boolean) => {
-    marks.attr("opacity", show ? 1 : 0);
+    marks.attr("opacity", show ? 1 : 0).attr("pointer-events", "none");
     const posters = containerDiv.selectAll("div.unit-poster");
     posters.style("opacity", 0);
   };
@@ -68,7 +68,8 @@ export const prepareGenreUnits = ({ svg, data, bechdelColorScale }) => {
     genreMarks
       // .transition()
       // .duration(duration)
-      .attr("opacity", show ? 1 : 0);
+      .attr("opacity", show ? 1 : 0)
+      .attr("pointer-events", "none");
   };
   return {
     genreMarksGroup,
