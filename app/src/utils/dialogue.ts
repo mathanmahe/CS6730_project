@@ -24,23 +24,26 @@ export const prepareDialoguePlot = ({ svg, data, containerDiv }) => {
     .text((d) => d.title)
     .attr("opacity", 0);
 
-  const resetDialoguePlot = (duration: number = 600, onlyPlot = false) => {
-    if (!onlyPlot) {
-      dialogueContainer
-        // .transition().duration(duration)
-        .style("opacity", 0);
+  const resetDialoguePlot = (option?) => {
+    const { onlyPlot = false, onlyDiv = false } = option || {};
 
+    if (!onlyPlot) {
+      dialogueContainer.interrupt();
+      samplePosterGroup.interrupt();
+      dialogueContainer.style("opacity", 0);
       samplePosterGroup.style("opacity", 0);
     }
-    dialoguePlotGroup
-      .selectAll("rect")
-      // .transition()
-      // .duration(duration)
-      .attr("width", 0)
-      .attr("height", 0.5)
-      .attr("stroke", "none");
-
-    dialoguePlotGroup.selectAll("text").attr("opacity", 0);
+    if (!onlyDiv) {
+      dialoguePlotGroup.interrupt().selectAll("*").interrupt();
+      dialoguePlotGroup
+        .selectAll("rect")
+        // .transition()
+        // .duration(duration)
+        .attr("width", 0)
+        .attr("height", 0.5)
+        .attr("stroke", "none");
+      dialoguePlotGroup.selectAll("text").attr("opacity", 0);
+    }
   };
 
   return {

@@ -71,7 +71,7 @@ export const SentimentVis = ({
         if (tooltipActive) {
           tooltip
             .style("visibility", "visible")
-            .style("top", e.clientY - 200 + "px")
+            .style("top", e.clientY - window.innerHeight / 4 + "px")
             .style("left", e.clientX + "px")
             .text(`${d.imdbCharacter}: "${d.line}"`);
         }

@@ -135,19 +135,16 @@ export const getAxis = ({
     .call(yGenreAxis);
   yGenreAxisGroup.attr("opacity", 0);
 
-  const resetAxis = (
-    duration: number = 600,
-    option?: {
-      yBechdel?: boolean;
-      yGenre?: boolean;
-      xYear?: boolean;
-      yCount?: boolean;
-      xDecade?: boolean;
-      xDirector?: boolean;
-      yPoster?: boolean;
-      xBechdel?: boolean;
-    }
-  ) => {
+  const resetAxis = (option?: {
+    yBechdel?: boolean;
+    yGenre?: boolean;
+    xYear?: boolean;
+    yCount?: boolean;
+    xDecade?: boolean;
+    xDirector?: boolean;
+    yPoster?: boolean;
+    xBechdel?: boolean;
+  }) => {
     const opt = {
       yBechdel: true,
       yGenre: true,
@@ -161,34 +158,42 @@ export const getAxis = ({
     };
     opt.yBechdel &&
       yBechdelAxisGroup
+        .interrupt()
         // .transition().duration(duration)
         .attr("opacity", 0);
     opt.yGenre &&
       yGenreAxisGroup
+        .interrupt()
         // .transition().duration(duration)
         .attr("opacity", 0);
     opt.yCount &&
       yCountAxisGroup
+        .interrupt()
         // .transition().duration(duration)
         .attr("opacity", 0);
     opt.xYear &&
       xYearAxisGroup
+        .interrupt()
         // .transition().duration(duration)
         .attr("opacity", 0);
     opt.xDecade &&
       xDecadeAxisGroup
+        .interrupt()
         // .transition().duration(duration)
         .attr("opacity", 0);
     opt.xDirector &&
       xDirectorAxisGroup
+        .interrupt()
         // .transition().duration(duration)
         .attr("opacity", 0);
     opt.yPoster &&
       yPosterAxisGroup
+        .interrupt()
         // .transition().duration(duration)
         .attr("opacity", 0);
     opt.xBechdel &&
       xBechdelAxisGroup
+        .interrupt()
         // .transition().duration(duration)
         .attr("opacity", 0);
   };

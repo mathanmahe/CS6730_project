@@ -61,8 +61,8 @@ export const Dashboard = ({ dashboardRef, dashboardActive, activeStep }) => {
           <div className="utils">
             <div className="utils-left">
               <Select
-                style={{ width: 300 }}
                 placeholder="Search a movie"
+                style={{ width: "100%" }}
                 onChange={onChange}
                 value={searchValue}
                 mode={"multiple"}
@@ -92,14 +92,16 @@ export const Dashboard = ({ dashboardRef, dashboardActive, activeStep }) => {
               </div>
               <div className="sort">
                 <div>Sort by</div>
-                <Select
-                  defaultValue=""
-                  style={{ width: 120 }}
-                  onChange={(value: string) => {
-                    console.log(`selected ${value}`);
-                  }}
-                  options={[]}
-                />
+                <div className="sort-item">
+                  <Select
+                    defaultValue=""
+                    style={{ width: "100%" }}
+                    onChange={(value: string) => {
+                      console.log(`selected ${value}`);
+                    }}
+                    options={[]}
+                  />
+                </div>
               </div>
             </div>
           </div>

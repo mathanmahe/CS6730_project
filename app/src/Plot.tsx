@@ -23,7 +23,6 @@ import dialogueSampleData from "./assets/dialogue-sample.json";
 import { getFemalePercentage, splitArray } from "./utils/script";
 import { SentimentVis } from "./SentimentVis";
 import { TooltipContent } from "./Dashboard";
-import { isInViewport } from "./utils/tooltip";
 
 const chunkSize = 100;
 export const chunkedSampleDataset = dialogueSampleData.map(
@@ -54,6 +53,7 @@ const Plot = ({
     {}
   );
 
+  const prevStep = useRef(activeStep);
   const tooltipRef = useRef();
   const [tooltipData, setTooltipData] = useState();
 
@@ -62,7 +62,12 @@ const Plot = ({
   useEffect(() => {
     if (!width || !height) return;
     const plotHeight = height * 0.8;
-    const leftMargin = width * 0.5;
+
+    const windowW = window.innerWidth || document.documentElement.clientWidth;
+    const viewportPaddingforAbsolutePosition =
+      document.documentElement.clientWidth * 0.1;
+    const leftMargin =
+      document.documentElement.clientWidth > 700 ? width * 0.5 : width * 0.1;
 
     // Selection
     const containerDiv = d3.select(containerRef.current);
@@ -150,7 +155,6 @@ const Plot = ({
 
     const showTooltip = (e) => {
       const rect = tooltipRef.current.getBoundingClientRect();
-      const windowW = window.innerWidth || document.documentElement.clientWidth;
       const left = e.clientX + 20;
       const isOut = left + rect.width > windowW;
 
@@ -206,7 +210,10 @@ const Plot = ({
     const sentimentChart = containerDiv.select(".sentiment-sample");
 
     const resetSentimentChart = () => {
-      sentimentChart.style("visibility", "hidden").style("opacity", 0);
+      sentimentChart
+        .interrupt()
+        .style("visibility", "hidden")
+        .style("opacity", 0);
     };
 
     // axis styling
@@ -220,19 +227,21 @@ const Plot = ({
     const numPerRow = Math.ceil(width / (squareSizeW + squarePad)) + 2;
 
     const totalW = numPerRow * squareSizeW + (numPerRow - 1) * squarePad;
-    const leftOffset = (totalW - width) / 2;
-    const topOffset = -50;
+    const leftOffset = (windowW - totalW) / 2;
+    const topOffset = height * 0.05;
 
     const posters = containerDiv.selectAll("div.unit-poster");
+
     // Step0: title
     const showTitle = () => {
-      resetDialoguePlot(0);
-      resetMarks(0, false);
-      resetGenreMarks(0, false);
-      resetAxis(0);
-      resetStackedArea(0);
-      hideLegend();
+      //from whereever start again.
+      resetDialoguePlot();
+      resetMarks();
+      resetGenreMarks();
+      resetAxis();
+      resetStackedArea();
       resetSentimentChart();
+      hideLegend();
 
       posters
         .style("opacity", 1)
@@ -248,7 +257,7 @@ const Plot = ({
         })
         .style("left", (d, i) => {
           const col = Math.floor(i % numPerRow);
-          return col * (squareSizeW + squarePad) - leftOffset + "px";
+          return col * (squareSizeW + squarePad) + leftOffset + "px";
         })
         .style("height", squareSizeH + "px");
 
@@ -260,19 +269,20 @@ const Plot = ({
         })
         .attr("x", (d, i) => {
           const col = Math.floor(i % numPerRow);
-          return col * (squareSizeW + squarePad) - leftOffset;
+          return col * (squareSizeW + squarePad) + leftOffset;
         })
         .attr("height", squareSizeH)
         .attr("opacity", 0);
     };
 
     // Step1: timeline unit
-    const showTimeline = () => {
-      resetDialoguePlot(0);
-      // resetMarks(0, false);
-      resetGenreMarks(0, false);
-      resetAxis(0, { xDecade: false });
-      resetStackedArea(0);
+    const showTimeline = ({ isBackward }) => {
+      // from wherever, show mark and xaxis
+      resetDialoguePlot();
+      // resetMarks({ onlyPoster: true });
+      resetGenreMarks();
+      resetAxis({ xDecade: false });
+      resetStackedArea();
       hideLegend();
       resetSentimentChart();
 
@@ -306,7 +316,6 @@ const Plot = ({
 
       marks
         .attr("pointer-events", "all")
-        .attr("fill", bechdelColorScale("NA"))
         .transition()
         .duration(1000)
         .delay((d, i) => {
@@ -322,19 +331,37 @@ const Plot = ({
             .findIndex((groupItem) => groupItem.id === d.id);
           return offset + yearIdx * (sizeH + marginTop) * -1;
         })
-        .attr("opacity", 1);
-      // .attr("fill", (d) => bechdelColorScale(d.BechdelRating) as string);
+        .attr("opacity", 1)
+        .attr("fill", bechdelColorScale("NA"));
     };
 
     // Step2: timeline unit w/ color
-    const showTimelineBechdelColor = () => {
-      resetDialoguePlot(0);
-      resetGenreMarks(0, false);
-      resetAxis(0, { xDecade: false });
-      resetStackedArea(0);
-      showLegend();
+    const showTimelineBechdelColor = ({ isBackward }) => {
+      // from wherever, show mark and xaxis
+      resetDialoguePlot();
+      resetMarks({ onlyPoster: true });
+      resetGenreMarks();
+      resetAxis({ xDecade: false });
+      resetStackedArea();
       resetSentimentChart();
+
+      showLegend();
+      if (isBackward) {
+        const sizeH = plotHeight / 50 - 3;
+        const marginTop = 3;
+        marks
+          .attr("x", (d) => xDecade(d.decade))
+          .attr("y", (d) => {
+            const offset = scatterYRange[0] - sizeH - 5;
+            const yearIdx = decadeGroup
+              .get(d.decade)
+              .findIndex((groupItem) => groupItem.id === d.id);
+            return offset + yearIdx * (sizeH + marginTop) * -1;
+          });
+      }
+
       marks
+        .attr("opacity", 1)
         .transition()
         .duration(600)
         .delay((d, i) => {
@@ -345,11 +372,14 @@ const Plot = ({
 
     // Step3: bechdel time stack area
     const showBechdelTimelineArea = () => {
-      showLegend();
-      resetDialoguePlot(0);
-      resetGenreMarks(0, false);
-      resetAxis(600, { xDecade: false, yCount: false });
+      // from wherever, show stack and xaxis
+      resetDialoguePlot();
+      resetMarks({ onlyPoster: true });
+      resetGenreMarks();
+      resetAxis({ xDecade: false, yCount: false });
       resetSentimentChart();
+
+      showLegend();
 
       xDecadeAxisGroup
         .selectAll(".tick line")
@@ -411,12 +441,15 @@ const Plot = ({
     });
 
     const showBeeswarmChart = () => {
-      showLegend();
-      resetDialoguePlot(0);
-      resetAxis(600, { yGenre: false, xDecade: false });
-      resetMarks(0, false);
+      // from wherever, show genre mark and xaxis
+      resetDialoguePlot();
+      resetMarks();
+      resetAxis({ xDecade: false, yGenre: false });
+      resetStackedArea();
       resetSentimentChart();
-      // hide stacked
+
+      showLegend();
+
       stacked
         .transition()
         .duration(600)
@@ -425,11 +458,8 @@ const Plot = ({
         })
         .attr("d", areaTransitionStart);
 
-      xDecadeAxisGroup
-        .transition()
-        .duration(600)
-        .attr("opacity", 1)
-        .style("transform", `translateY(${scatterYRange[0]}px)`);
+      xDecadeAxisGroup.transition().duration(600).attr("opacity", 1);
+
       xDecadeAxisGroup.selectAll(".tick line").attr("opacity", 0);
 
       yGenreAxisGroup.transition().duration(600).attr("opacity", 1);
@@ -498,15 +528,19 @@ const Plot = ({
     });
 
     const showDirectorBeeswarm = () => {
-      showLegend();
-      resetAxis(600, {
+      // from wherever, show mark and xaxis
+      resetAxis({
         yGenre: false,
         xDirector: false,
       });
-      resetMarks(0, false);
-      resetStackedArea(0);
-      resetDialoguePlot(0);
+      resetDialoguePlot();
+      resetMarks();
+      resetGenreMarks();
+      resetStackedArea();
       resetSentimentChart();
+
+      showLegend();
+
       yGenreAxisGroup.transition().duration(600).attr("opacity", 1);
 
       xDirectorAxisGroup
@@ -532,14 +566,21 @@ const Plot = ({
     // Step6: Script analysis
     const compareSize = width * 0.2;
     const compareMarks = svg.selectAll(".genre-mark.compare");
-    const showSelectMovie = () => {
-      hideLegend();
-      resetDialoguePlot(0);
-      resetAxis(0);
-      resetMarks(0, false);
-      resetStackedArea(0);
+
+    const showSelectMovie = ({ isBackward }) => {
+      // from wherever, show 2 selected mark, sample poster, dialogue div
+      resetDialoguePlot({ onlyPlot: isBackward ? false : true });
+      resetMarks();
+      // resetGenreMarks();
+      resetAxis();
+      resetStackedArea();
       resetSentimentChart();
+
+      hideLegend();
+
       genreMarks
+        .attr("width", (d, i) => genreDirectorGrossBeeswarmData[i].r)
+        .attr("height", (d, i) => genreDirectorGrossBeeswarmData[i].r)
         .attr("pointer-events", "none")
         .attr("opacity", 1)
         .transition()
@@ -557,12 +598,14 @@ const Plot = ({
             .transition()
             .duration(500)
             .attr("width", compareSize)
-            .attr("height", compareSize)
-            .attr(
-              "x",
-              (d, i) => leftMargin + compareSize * i + (compareSize / 2) * i
-            )
-            .attr("y", height / 2 - compareSize)
+            .attr("height", compareSize * 1.5)
+            .attr("x", (d, i) => {
+              const center = leftMargin + (width - leftMargin) / 2;
+              const gap = compareSize * 0.2;
+              if (i === 0) return center - compareSize - gap;
+              if (i === 1) return center + gap;
+            })
+            .attr("y", height / 2 - (compareSize * 1.5) / 2)
             .on("end", () => {
               showSmaplePosters();
             });
@@ -577,11 +620,22 @@ const Plot = ({
         .style("border", "1px solid #fff")
         .style("width", compareSize + "px")
         .style("height", compareSize * 1.5 + "px")
+        .style("left", (d, i) => {
+          const center =
+            viewportPaddingforAbsolutePosition +
+            leftMargin +
+            (width - leftMargin) / 2;
+          const gap = compareSize * 0.2;
+          if (i === 0) return center - compareSize - gap + "px";
+          if (i === 1) return center + gap + "px";
+        })
         .style(
-          "left",
-          (d, i) => leftMargin + compareSize * i + (compareSize / 2) * i + "px"
-        )
-        .style("top", height / 2 - compareSize + "px");
+          "top",
+          viewportPaddingforAbsolutePosition +
+            height / 2 -
+            (compareSize * 1.5) / 2 +
+            "px"
+        );
 
       samplePosterGroup
         .transition()
@@ -593,58 +647,78 @@ const Plot = ({
         });
     };
 
-    const scriptBoxWidth = width * 0.15;
-    const scriptBoxGap = scriptBoxWidth;
+    const scriptBoxWidth = width * 0.2;
+    // const scriptBoxGap = scriptBoxWidth;
 
-    const showScript = () => {
-      samplePosterGroup
-        .selectAll(".sample-poster")
-        .transition()
-        .duration(500)
-        .style("width", compareSize / 3 + "px")
-        .style("height", (compareSize / 3) * 1.5 + "px")
-        .style(
-          "left",
-          (d, i) =>
-            leftMargin +
-            i * scriptBoxWidth +
-            i * scriptBoxGap -
-            compareSize / 2.5 +
-            "px"
-        )
-        .style("top", 0 + "px");
-
+    const dialogueContainerInitial = () => {
       dialogueContainer
         .selectAll("p")
         .style("background-color", "transparent")
         .style("color", "#fff");
 
-      dialogueContainer.style("gap", scriptBoxGap + "px");
       dialogueContainer
-        .selectAll(`.dialogue`)
-        .style("transform", `translateX(${leftMargin}px)`)
+        .selectAll(".dialogue")
+        .style("opacity", 1)
+        .style("left", (d, i) => {
+          const center =
+            viewportPaddingforAbsolutePosition +
+            leftMargin +
+            (width - leftMargin) / 2;
+          const gap = scriptBoxWidth * 0.2;
+          if (i === 0) return center - scriptBoxWidth - gap + "px";
+          if (i === 1) return center + gap + "px";
+        })
+        .style("top", viewportPaddingforAbsolutePosition + "px")
         .style("width", scriptBoxWidth + "px")
-        .style("font-size", 0.7 + "vmax");
+        .style("font-size", 0.7 + "rem");
+    };
+    dialogueContainerInitial();
+
+    const showScript = () => {
+      const sampleSize = compareSize / 3;
+      samplePosterGroup
+        .selectAll(".sample-poster")
+        .transition()
+        .duration(500)
+        .style("width", sampleSize + "px")
+        .style("height", sampleSize * 1.5 + "px")
+        .style("left", (d, i) => {
+          const center =
+            viewportPaddingforAbsolutePosition +
+            leftMargin +
+            (width - leftMargin) / 2 -
+            sampleSize * 1.1;
+          const gap = scriptBoxWidth * 0.2;
+          if (i === 0) return center - scriptBoxWidth - gap + "px";
+          if (i === 1) return center + gap + "px";
+        })
+        .style("top", viewportPaddingforAbsolutePosition + "px");
+
+      dialogueContainerInitial();
+
       dialogueContainer.transition().duration(600).style("opacity", 1);
     };
 
     // Step7: Explain dialog analysis.
     const showFemaleDialog = () => {
-      resetDialoguePlot(0, true);
-      resetMarks(0, false);
-      resetGenreMarks(0, false);
-      resetAxis(0);
-      resetStackedArea(0);
+      //from whereever show dialogue
+      resetDialoguePlot({ onlyPlot: true });
+      resetMarks();
+      resetGenreMarks();
+      resetAxis();
+      resetStackedArea();
       resetSentimentChart();
+      hideLegend();
+
       dialogueContainer.transition().duration(200).style("opacity", 1);
       svg.selectAll(".genre-mark.compare").attr("opacity", 0);
 
       dialogueContainer
         .selectAll(`.dialogue`)
-        .style("font-size", 0.7 + "vmax")
+        .style("font-size", 0.7 + "rem")
         .transition()
         .duration(800)
-        .style("font-size", 0.1 + "vmax")
+        .style("font-size", 0.12 + "rem")
         .on("end", (_, idx, nodes) => {
           dialogueContainer
             .selectAll("p.female")
@@ -664,13 +738,16 @@ const Plot = ({
     };
 
     // Step8: Segmentation
-
     const showSegmentDiagram = () => {
-      resetMarks(0, false);
-      resetGenreMarks(0, false);
-      resetAxis(0);
-      resetStackedArea(0);
+      //from whereever show dialogue plot
+      // resetDialoguePlot({ onlyDiv: true });
+      resetMarks();
+      resetGenreMarks();
+      resetAxis();
+      resetStackedArea();
       resetSentimentChart();
+      hideLegend();
+
       samplePosterGroup.transition().duration(600).style("opacity", 0);
 
       dialogueContainer
@@ -691,7 +768,7 @@ const Plot = ({
         const binSize = (width * 0.4) / (2 * 10);
         const binPad = 0;
         const numPerRow = Math.sqrt(chunkSize);
-        const boxPosX = idx * scriptBoxWidth + idx * scriptBoxGap;
+        const boxPosX = idx * scriptBoxWidth + idx * scriptBoxWidth * 0.4;
 
         const marginTop = (height - binSize * 10) / 2 - 30;
 
@@ -699,10 +776,12 @@ const Plot = ({
 
         dialoguePlot
           .selectAll("rect")
-          .attr(
-            "x",
-            leftMargin + idx * scriptBoxWidth + idx * scriptBoxGap - pad
-          )
+          .attr("x", () => {
+            const center = leftMargin + (width - leftMargin) / 2;
+            const gap = scriptBoxWidth * 0.2;
+            if (idx === 0) return center - scriptBoxWidth - gap;
+            if (idx === 1) return center + gap;
+          })
           .attr("y", (d, i) => i * chunkHeight)
           .attr("width", 0)
           .attr("height", chunkHeight)
@@ -751,16 +830,20 @@ const Plot = ({
     };
 
     const showSentimentChart = () => {
-      resetAxis(0);
-      resetMarks(0, false);
-      resetGenreMarks(0, false);
-      resetStackedArea(0);
+      //from whereever show sentiment
+      resetDialoguePlot({ onlyDiv: true });
+      resetMarks();
+      resetGenreMarks();
+      resetAxis();
+      resetStackedArea();
+      // resetSentimentChart();
+      hideLegend();
 
       dialoguePlotGroup.selectAll("text").attr("opacity", 0);
       dialoguePlotGroup
         .selectAll("rect")
         .transition()
-        .duration(500)
+        .duration(400)
         .delay((d, i) => {
           return 2 * i;
         })
@@ -771,27 +854,19 @@ const Plot = ({
             .select(".sentiment-sample")
             .style("visibility", "visible")
             .transition()
-            .duration(500)
+            .duration(300)
             .style("opacity", 1);
         });
     };
 
     const hideEverything = () => {
-      resetAxis(0);
-      resetMarks(0, false);
-      resetGenreMarks(0, false);
-      resetStackedArea(0);
-      resetDialoguePlot(0);
+      resetDialoguePlot();
+      resetMarks();
+      resetGenreMarks();
+      resetAxis();
+      resetStackedArea();
       resetSentimentChart();
-      // dialoguePlotGroup
-      //   .selectAll("rect")
-      //   .transition()
-      //   .duration(1000)
-      //   .delay((d, i) => {
-      //     return 2 * i;
-      //   })
-      //   .attr("width", 0)
-      //   .attr("height", 0);
+      hideLegend();
     };
 
     setFunctionMap({
@@ -812,8 +887,12 @@ const Plot = ({
   }, [width, height, data]);
 
   useEffect(() => {
-    console.log("activeStep", activeStep);
-    functionMap?.[activeStep]?.();
+    console.log("activeStep", activeStep, prevStep.current);
+
+    const isBackward = prevStep.current > activeStep;
+    functionMap?.[activeStep]?.({ isBackward });
+
+    prevStep.current = activeStep;
   }, [activeStep, functionMap]);
 
   useEffect(() => {

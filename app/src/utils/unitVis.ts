@@ -22,23 +22,22 @@ export const prepareUnits = ({
       else return "mark";
     })
     .attr("opacity", 0);
+  const posters = containerDiv.selectAll("div.unit-poster");
 
-  const resetMarks = (duration: number = 600, show: boolean) => {
-    marks.attr("opacity", show ? 1 : 0).attr("pointer-events", "none");
-    const posters = containerDiv.selectAll("div.unit-poster");
+  const resetMarks = (option?: any) => {
+    const { onlyPoster = false } = option || {};
+
+    if (onlyPoster) {
+      posters.interrupt();
+      posters.style("opacity", 0);
+      return;
+    }
+    marks.interrupt();
+    posters.interrupt();
+
+    marks.attr("opacity", 0).attr("pointer-events", "none");
     posters.style("opacity", 0);
   };
-
-  // const defs = svg.select("defs");
-  // defs
-  //   .selectAll("pattern")
-  //   .data(data)
-  //   .join("pattern")
-  //   .attr("id", (d) => d.id)
-  //   .selectAll("image")
-  //   .data((d) => [d])
-  //   .join("image")
-  //   // .attr("xlink:href", (d) => d.image);
 
   return {
     marksGroup,
@@ -64,12 +63,10 @@ export const prepareGenreUnits = ({ svg, data, bechdelColorScale }) => {
     .attr("fill", (d) => bechdelColorScale(d.BechdelRating) as string)
     .attr("opacity", 0);
 
-  const resetGenreMarks = (duration: number = 600, show: boolean) => {
-    genreMarks
-      // .transition()
-      // .duration(duration)
-      .attr("opacity", show ? 1 : 0)
-      .attr("pointer-events", "none");
+  const resetGenreMarks = () => {
+    genreMarks.interrupt();
+
+    genreMarks.attr("opacity", 0).attr("pointer-events", "none");
   };
   return {
     genreMarksGroup,

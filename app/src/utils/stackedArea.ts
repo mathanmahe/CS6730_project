@@ -56,8 +56,9 @@ export const prepareStackedArea = ({
     .attr("opacity", 0)
     .attr("d", areaTransitionStart);
 
-  const resetStackedArea = (duration: number = 0) => {
-    stacked.transition().duration(duration).attr("opacity", 0);
+  const resetStackedArea = () => {
+    stacked.interrupt();
+    stacked.attr("opacity", 0);
   };
 
   return {

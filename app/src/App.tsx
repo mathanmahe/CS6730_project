@@ -36,7 +36,7 @@ function App() {
         },
       }}
     >
-      <div>
+      <div className="app">
         <Story
           stepsRef={steps}
           activeStep={activeStep}
