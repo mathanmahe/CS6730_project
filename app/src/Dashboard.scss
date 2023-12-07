@@ -187,6 +187,7 @@
       display: flex;
       gap: 20px;
       // align-items: center;
+      margin-bottom: 30px;
     }
   }
   .right {
@@ -221,4 +222,15 @@
   left: 50%;
   display: flex;
   gap: 10px;
+}
+.sentiment-tooltip {
+  position: absolute;
+  visibility: hidden;
+  max-width: 300px;
+  max-height: 250px;
+  background-color: #333;
+  color: white;
+  padding: 10px;
+  border-radius: 3px;
+  overflow: scroll;
 }

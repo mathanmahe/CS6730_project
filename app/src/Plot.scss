@@ -10,21 +10,22 @@
 }
 .story-legend {
   display: flex;
-  flex-direction: column;
-  align-items: end;
+  justify-content: end;
+  // flex-direction: column;
+  align-items: center;
   // margin-top: 1vh;
-  gap: 1.2vw;
+  * {
+    font-size: 0.9em;
+  }
+  gap: 2.5em;
 }
 //step1
 .bechdel-legend,
 .size-legend {
   display: flex;
   flex-direction: column;
-  align-items: end;
+  // align-items: end;
 
-  * {
-    font-size: 0.9em;
-  }
   .key {
     margin-bottom: 6px;
   }
@@ -68,7 +69,7 @@
 
   .dialogue {
     height: fit-content;
-    font-size: 0.8vmax;
+    font-size: 0.7vmax;
     border: 1px solid #333;
     p {
       display: inline;
@@ -104,5 +105,31 @@
   opacity: 0;
   > div {
     opacity: 1;
+  }
+}
+.sentiment-sample {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 50%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 5em;
+  visibility: hidden;
+  opacity: 0;
+
+  .sentiment-sample-box {
+    width: 100%;
+    padding-right: 10%;
+  }
+
+  * {
+    font-size: 0.95em;
+  }
+  .title {
+    font-size: 1.2em;
+    margin-bottom: 20px;
   }
 }

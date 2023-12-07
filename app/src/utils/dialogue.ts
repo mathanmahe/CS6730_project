@@ -21,7 +21,8 @@ export const prepareDialoguePlot = ({ svg, data, containerDiv }) => {
     .data((d) => [d])
     .join("text")
     .attr("class", "label")
-    .text((d) => d.title);
+    .text((d) => d.title)
+    .attr("opacity", 0);
 
   const resetDialoguePlot = (duration: number = 600, onlyPlot = false) => {
     if (!onlyPlot) {

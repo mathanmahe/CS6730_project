@@ -19,6 +19,7 @@ export const DashboardDetail = ({ item }) => {
     genderWordPercent,
   } = item;
 
+  const { posterFProportion, posterMProportion } = data;
   const [selectedGender, setGender] = useState();
 
   const onHoverGenderButton = (e) => {
@@ -33,7 +34,7 @@ export const DashboardDetail = ({ item }) => {
           <div
             className="poster"
             style={{
-              backgroundImage: `url("${data.image}")`,
+              backgroundImage: `url("https://github.com/aereeeee/CS6730_project/blob/main/posters/annotated/${data.id}.jpg?raw=true")`,
             }}
           ></div>
           <div className="waffle" style={{ width: "150px", height: "150px" }}>
@@ -87,42 +88,84 @@ export const DashboardDetail = ({ item }) => {
             Unknown
           </div>
         </div>
-        <div className="section script-proportion">
-          <div className="title">Gender Dialogue Amount Ratio</div>
-          {/* <div className="description">
+        <div className="top-section">
+          <div className="section poster-proportion">
+            <div className="title">Gender Dominance in Movie Poster </div>
+            {/* <div className="description">
             The dialogue amount for each gender is calculated based on the
             number of words spoken by each character.
           </div> */}
-          <div
-            className={classNames("vis-section proportion-vis", {
-              active: !!selectedGender,
-            })}
-            onMouseLeave={() => {
-              setGender(null);
-            }}
-          >
-            <span>0%</span>
-            {Object.entries(genderWordPercent).map(([key, val]) => (
-              <Tooltip
-                placement="bottom"
-                title={(val * 100).toFixed(2) + "%"}
-                key={key}
-              >
-                <div
+            <div
+              className={classNames("vis-section proportion-vis", {
+                active: !!selectedGender,
+              })}
+              onMouseLeave={() => {
+                setGender(null);
+              }}
+            >
+              <span>0%</span>
+              {Object.entries({
+                female: posterFProportion,
+                male: posterMProportion,
+              }).map(([key, val]) => (
+                <Tooltip
+                  placement="bottom"
+                  title={(val * 100).toFixed(2) + "%"}
+                  key={key + "poster"}
+                >
+                  <div
+                    className={classNames("bar", key, {
+                      active: selectedGender === key,
+                    })}
+                    data-gender={key}
+                    style={{
+                      width: `${val * 100}%`,
+                      background: colorGenderMap[key],
+                    }}
+                    onMouseOver={onHoverGenderButton}
+                  ></div>
+                </Tooltip>
+              ))}
+              <span>100%</span>
+            </div>
+          </div>
+          <div className="section script-proportion">
+            <div className="title">Gender Dialogue Amount Ratio</div>
+            {/* <div className="description">
+            The dialogue amount for each gender is calculated based on the
+            number of words spoken by each character.
+          </div> */}
+            <div
+              className={classNames("vis-section proportion-vis", {
+                active: !!selectedGender,
+              })}
+              onMouseLeave={() => {
+                setGender(null);
+              }}
+            >
+              <span>0%</span>
+              {Object.entries(genderWordPercent).map(([key, val]) => (
+                <Tooltip
+                  placement="bottom"
+                  title={(val * 100).toFixed(2) + "%"}
                   key={key}
-                  className={classNames("bar", key, {
-                    active: selectedGender === key,
-                  })}
-                  data-gender={key}
-                  style={{
-                    width: `${val * 100}%`,
-                    background: colorGenderMap[key],
-                  }}
-                  onMouseOver={onHoverGenderButton}
-                ></div>
-              </Tooltip>
-            ))}
-            <span>100%</span>
+                >
+                  <div
+                    key={key}
+                    className={classNames("bar", key, {
+                      active: selectedGender === key,
+                    })}
+                    data-gender={key}
+                    style={{
+                      width: `${val * 100}%`,
+                      background: colorGenderMap[key],
+                    }}
+                    onMouseOver={onHoverGenderButton}
+                  ></div>
+                </Tooltip>
+              ))}
+              <span>100%</span>
+            </div>
           </div>
         </div>
         <div className="section script-sentiment">

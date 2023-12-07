@@ -21,6 +21,7 @@ import classNames from "classnames";
 import { prepareDialoguePlot } from "./utils/dialogue";
 import dialogueSampleData from "./assets/dialogue-sample.json";
 import { getFemalePercentage, splitArray } from "./utils/script";
+import { SentimentVis } from "./SentimentVis";
 
 const chunkSize = 100;
 export const chunkedSampleDataset = dialogueSampleData.map(
@@ -145,29 +146,29 @@ const Plot = ({
 
     const tooltip = d3.select(tooltipRef.current);
 
-    // marks
-    //   .on("mouseover", (e, d) => {
-    //     setTooltipData(d);
-    //     tooltip
-    //       .style("left", e.clientX + 20 + "px")
-    //       .style("top", e.clientY + 20 + "px")
-    //       .style("opacity", 1);
-    //   })
-    //   .on("mouseout", (d) => {
-    //     tooltip.style("opacity", 0);
-    //   });
+    marks
+      .on("mouseover", (e, d) => {
+        setTooltipData(d);
+        tooltip
+          .style("left", e.clientX + 20 + "px")
+          .style("top", e.clientY + 20 + "px")
+          .style("opacity", 1);
+      })
+      .on("mouseout", (d) => {
+        tooltip.style("opacity", 0);
+      });
 
-    // genreMarks
-    //   .on("mouseover", (e, d) => {
-    //     setTooltipData(d);
-    //     tooltip
-    //       .style("left", e.clientX + 20 + "px")
-    //       .style("top", e.clientY + 20 + "px")
-    //       .style("opacity", 1);
-    //   })
-    //   .on("mouseout", (d) => {
-    //     tooltip.style("opacity", 0);
-    //   });
+    genreMarks
+      .on("mouseover", (e, d) => {
+        setTooltipData(d);
+        tooltip
+          .style("left", e.clientX + 20 + "px")
+          .style("top", e.clientY + 20 + "px")
+          .style("opacity", 1);
+      })
+      .on("mouseout", (d) => {
+        tooltip.style("opacity", 0);
+      });
 
     //legend
     const legendGroup = containerDiv
@@ -183,6 +184,12 @@ const Plot = ({
     };
     const hideLegend = () => {
       legendGroup.transition().duration(600).style("opacity", 0);
+    };
+
+    const sentimentChart = containerDiv.select(".sentiment-sample");
+
+    const resetSentimentChart = () => {
+      sentimentChart.style("visibility", "hidden").style("opacity", 0);
     };
 
     // axis styling
@@ -208,6 +215,7 @@ const Plot = ({
       resetAxis(0);
       resetStackedArea(0);
       hideLegend();
+      resetSentimentChart();
 
       posters
         .style("opacity", 1)
@@ -217,7 +225,7 @@ const Plot = ({
           return row * (squareSizeH + squarePad) + topOffset + "px";
         })
         .transition()
-        .duration(600)
+        .duration(1000)
         .delay((d, i) => {
           return 5 * i;
         })
@@ -244,11 +252,12 @@ const Plot = ({
     // Step1: timeline unit
     const showTimeline = () => {
       resetDialoguePlot(0);
-      resetMarks(0, false);
+      // resetMarks(0, false);
       resetGenreMarks(0, false);
       resetAxis(0, { xDecade: false });
       resetStackedArea(0);
       hideLegend();
+      resetSentimentChart();
 
       xDecadeAxisGroup.selectAll(".tick line").attr("opacity", 0);
 
@@ -266,7 +275,7 @@ const Plot = ({
         .transition()
         .duration(1000)
         .delay((d, i) => {
-          return 3 * i;
+          return 5 * i;
         })
         .style("opacity", 0)
         .style("width", sizeW + "px")
@@ -306,7 +315,7 @@ const Plot = ({
       resetAxis(0, { xDecade: false });
       resetStackedArea(0);
       showLegend();
-
+      resetSentimentChart();
       marks
         .transition()
         .duration(600)
@@ -322,6 +331,7 @@ const Plot = ({
       resetDialoguePlot(0);
       resetGenreMarks(0, false);
       resetAxis(600, { xDecade: false, yCount: false });
+      resetSentimentChart();
 
       xDecadeAxisGroup
         .selectAll(".tick line")
@@ -387,7 +397,7 @@ const Plot = ({
       resetDialoguePlot(0);
       resetAxis(600, { yGenre: false, xDecade: false });
       resetMarks(0, false);
-
+      resetSentimentChart();
       // hide stacked
       stacked
         .transition()
@@ -477,7 +487,7 @@ const Plot = ({
       resetMarks(0, false);
       resetStackedArea(0);
       resetDialoguePlot(0);
-
+      resetSentimentChart();
       yGenreAxisGroup.transition().duration(600).attr("opacity", 1);
 
       xDirectorAxisGroup
@@ -509,7 +519,7 @@ const Plot = ({
       resetAxis(0);
       resetMarks(0, false);
       resetStackedArea(0);
-
+      resetSentimentChart();
       genreMarks
         .attr("opacity", 1)
         .transition()
@@ -605,7 +615,7 @@ const Plot = ({
       resetGenreMarks(0, false);
       resetAxis(0);
       resetStackedArea(0);
-
+      resetSentimentChart();
       dialogueContainer.transition().duration(200).style("opacity", 1);
       svg.selectAll(".genre-mark.compare").attr("opacity", 0);
 
@@ -640,7 +650,7 @@ const Plot = ({
       resetGenreMarks(0, false);
       resetAxis(0);
       resetStackedArea(0);
-
+      resetSentimentChart();
       samplePosterGroup.transition().duration(600).style("opacity", 0);
 
       dialogueContainer
@@ -721,15 +731,29 @@ const Plot = ({
     };
 
     const showSentimentChart = () => {
+      resetAxis(0);
+      resetMarks(0, false);
+      resetGenreMarks(0, false);
+      resetStackedArea(0);
+
+      dialoguePlotGroup.selectAll("text").attr("opacity", 0);
       dialoguePlotGroup
         .selectAll("rect")
         .transition()
-        .duration(1000)
+        .duration(500)
         .delay((d, i) => {
           return 2 * i;
         })
         .attr("width", 0)
-        .attr("height", 0);
+        .attr("height", 0)
+        .on("end", () => {
+          containerDiv
+            .select(".sentiment-sample")
+            .style("visibility", "visible")
+            .transition()
+            .duration(500)
+            .style("opacity", 1);
+        });
     };
 
     const hideEverything = () => {
@@ -738,6 +762,7 @@ const Plot = ({
       resetGenreMarks(0, false);
       resetStackedArea(0);
       resetDialoguePlot(0);
+      resetSentimentChart();
       // dialoguePlotGroup
       //   .selectAll("rect")
       //   .transition()
@@ -876,6 +901,22 @@ const Plot = ({
             </div>
           </div>
         )}
+      </div>
+      <div className="sentiment-sample">
+        {dialogueSampleData.map((d, i) => (
+          <div
+            className={classNames("sentiment-sample-box", `movie-${i}`)}
+            key={d.id}
+          >
+            <div className="title">{d.title}</div>
+            <SentimentVis
+              item={d}
+              activeGender={null}
+              chartHeight={height * 0.2}
+              tooltipActive={false}
+            ></SentimentVis>
+          </div>
+        ))}
       </div>
     </div>
   );

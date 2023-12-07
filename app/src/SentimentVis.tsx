@@ -4,7 +4,12 @@ import { useResponsiveChart } from "./hooks/useResponsiveChart";
 import { colorGenderMap } from "./utils/data";
 
 const emotionDomain = ["love", "joy", "surprise", "fear", "anger", "sadness"];
-export const SentimentVis = ({ item, activeGender }) => {
+export const SentimentVis = ({
+  item,
+  activeGender,
+  chartHeight = 250,
+  tooltipActive = true,
+}) => {
   const {
     id,
     title,
@@ -17,13 +22,13 @@ export const SentimentVis = ({ item, activeGender }) => {
   const { width, height, svgRef, getContainerSize } = useResponsiveChart();
   const tooltipRef = useRef();
 
-  const chartHeight = 250;
   const leftMargin = 50;
 
   useEffect(() => {
     if (!width || !height || !item) return;
     const svg = d3.select(svgRef.current).attr("height", chartHeight);
     const tooltip = d3.select(tooltipRef.current);
+
     const yScale = d3.scaleBand().domain(emotionDomain).range([0, chartHeight]);
 
     const xScale = d3
@@ -43,9 +48,11 @@ export const SentimentVis = ({ item, activeGender }) => {
       .style("transform", `translateX(${leftMargin}px)`)
       .call(yAxis);
 
-    d3.select(containerRef.current).on("mouseleave", (e, d) => {
-      tooltip.style("visibility", "hidden");
-    });
+    if (tooltipActive) {
+      d3.select(containerRef.current).on("mouseleave", (e, d) => {
+        tooltip.style("visibility", "hidden");
+      });
+    }
 
     svg
       .select("g.bars")
@@ -61,11 +68,13 @@ export const SentimentVis = ({ item, activeGender }) => {
       .attr("height", yScale.bandwidth())
       .attr("fill", (d) => colorGenderMap[d.gender.toLowerCase()])
       .on("mouseover", (e, d) => {
-        tooltip
-          .style("visibility", "visible")
-          .style("top", e.clientY - 200 + "px")
-          .style("left", e.clientX + "px")
-          .text(`${d.imdbCharacter}: "${d.line}"`);
+        if (tooltipActive) {
+          tooltip
+            .style("visibility", "visible")
+            .style("top", e.clientY - 200 + "px")
+            .style("left", e.clientX + "px")
+            .text(`${d.imdbCharacter}: "${d.line}"`);
+        }
       });
 
     const guidePath = [
