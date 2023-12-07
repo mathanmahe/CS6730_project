@@ -97,7 +97,7 @@ export const Dashboard = ({ dashboardRef, dashboardActive, activeStep }) => {
         open={open}
         onOk={() => setOpen(false)}
         onCancel={() => setOpen(false)}
-        width={"95%"}
+        width={"90%"}
         footer={[]}
       >
         <DashboardDetail item={selected} />

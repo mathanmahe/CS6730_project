@@ -24,6 +24,7 @@ export const DashboardDetail = ({ item }) => {
   const [selectedGender, setGender] = useState();
   const [posterProp, setPosterProp] = useState();
 
+  console.log(selectedGender);
   const onHoverGenderButton = (e) => {
     setGender(e.target.getAttribute("data-gender"));
   };
@@ -40,7 +41,9 @@ export const DashboardDetail = ({ item }) => {
   return (
     <div className="dashboard-modal">
       <div className="left">
-        <div className="head-title">{data.title}</div>
+        <div className="head-title">
+          <span>{data.title}</span> <div className="desc">#{data.rank}</div>
+        </div>
         <div className="main-info">
           <div
             className="poster"
@@ -62,17 +65,58 @@ export const DashboardDetail = ({ item }) => {
           </div>
         </div>
         <div>
+          <div className="combine">
+            <div className="item">
+              <div className="title">Date</div>
+              <p>{data.releaseDate}</p>
+            </div>
+            <div className="item">
+              <div className="title">Directors</div>
+              <p>{data.directors}</p>
+            </div>
+            <div className="item">
+              <div className="title">Bechdel</div>
+              <p className="r-align">{data.BechdelRating}</p>
+            </div>
+          </div>
           <div className="item">
             <div className="title">Keywords</div>
             <p>{data.keywords}</p>
           </div>
-          {/* <div className="item">
+          <div className="item">
             <div className="title">Plot</div>
             <p>{data.plot}</p>
-          </div> */}
+          </div>
         </div>
       </div>
       <div className="right">
+        <div className="section actors">
+          <div className="title">Main Characters</div>
+          <div
+            className={classNames("actors-list", {
+              active: !!selectedGender,
+            })}
+          >
+            {data.actorList?.slice(0, 10).map((d) => {
+              console.log("wtf", d.gender.toLowerCase(), selectedGender);
+              return (
+                <div
+                  className={classNames("actor-item", {
+                    active: d.gender.toLowerCase() === selectedGender,
+                  })}
+                  key={d.id}
+                >
+                  <div
+                    className="img"
+                    style={{ backgroundImage: `url(${d.image})` }}
+                  ></div>
+                  <div className="name">{d.name}</div>
+                  <div className="character">{d.asCharacter}</div>
+                </div>
+              );
+            })}
+          </div>
+        </div>
         <div
           className={classNames("legend", {
             active: !!selectedGender,

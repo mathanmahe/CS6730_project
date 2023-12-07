@@ -143,7 +143,7 @@
 
 //detail
 .dashboard-modal {
-  padding: 2.5rem;
+  padding: 2rem;
   display: flex;
   gap: 6rem;
 
@@ -219,8 +219,20 @@
     min-width: 380px;
     width: 30%;
 
+    .combine {
+      display: flex;
+      gap: 1rem;
+    }
     .title {
       opacity: 0.5;
+    }
+    .item {
+      p {
+        margin: 0.5rem 0;
+        &.r-align {
+          text-align: right;
+        }
+      }
     }
   }
   .right {
@@ -229,29 +241,39 @@
 
   .left {
     .head-title {
-      font-size: 1.3em;
-      font-weight: 600;
-      line-height: 1;
-      margin-bottom: 2rem;
+      > span {
+        font-size: 1.5rem;
+        font-weight: 600;
+        line-height: 1;
+      }
+      margin-bottom: 1rem;
+      display: flex;
+      align-items: center;
+      gap: 0.3rem;
+      .desc {
+        font-size: 0.8rem;
+        opacity: 0.8;
+        font-weight: normal;
+      }
     }
     .main-info {
       display: flex;
       gap: 1.2rem;
       // align-items: center;
-      margin-bottom: 2rem;
+      margin-bottom: 1.2rem;
     }
   }
   .right {
     .title {
-      font-size: 1em;
+      font-size: 0.9rem;
       font-weight: 600;
-      margin-bottom: 1.2rem;
+      margin-bottom: 0.8rem;
     }
     .description {
       visibility: hidden;
     }
     .section {
-      margin-top: 2rem;
+      margin-top: 1.5rem;
     }
   }
   .vis-section > * {
@@ -278,4 +300,49 @@
   padding: 0.8rem;
   border-radius: 0.2rem;
   overflow: scroll;
+}
+.actors-list {
+  margin-bottom: 2rem;
+  display: flex;
+  gap: 0.5rem;
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: center;
+
+  .actor-item {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    .img {
+      width: 2rem;
+      height: 2rem;
+      border-radius: 100%;
+      border: 1px solid white;
+      background-repeat: no-repeat;
+      background-size: cover;
+      margin-bottom: 0.3rem;
+    }
+    .name,
+    .character {
+      font-size: 0.7rem;
+      text-overflow: ellipsis;
+      overflow: hidden;
+      white-space: nowrap;
+
+      max-width: 5rem;
+    }
+    .name {
+      opacity: 0.6;
+    }
+  }
+  &.active {
+    .actor-item {
+      opacity: 0.3;
+      &.active {
+        opacity: 1;
+      }
+    }
+  }
 }
