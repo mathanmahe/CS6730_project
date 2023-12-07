@@ -98,16 +98,7 @@ export const Dashboard = ({ dashboardRef, dashboardActive, activeStep }) => {
                   onChange={(value: string) => {
                     console.log(`selected ${value}`);
                   }}
-                  options={[
-                    { value: "jack", label: "Jack" },
-                    { value: "lucy", label: "Lucy" },
-                    { value: "Yiminghe", label: "yiminghe" },
-                    {
-                      value: "disabled",
-                      label: "Disabled",
-                      disabled: true,
-                    },
-                  ]}
+                  options={[]}
                 />
               </div>
             </div>

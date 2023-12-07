@@ -195,7 +195,7 @@ export const Story = ({ stepsRef, activeStep, dashboardActive }) => {
           data-idx={9}
         >
           <div className="content">
-            <div className="title"> TODO: Emotional Analysis of Dialogues</div>
+            <div className="title"> Emotional Analysis of Dialogues</div>
             <div className="desc">
               'Jaws' showed female dialogues focused mainly on anger and joy. In
               contrast, 'Jurassic Park' presented a wider range of emotions in

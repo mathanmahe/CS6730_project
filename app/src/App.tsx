@@ -23,7 +23,7 @@ function App() {
     (el, [entry]) => {
       setDashboardActive(entry);
     },
-    { threshold: [0, 0.5] }
+    { threshold: [0, 0.1] }
   );
 
   return (
