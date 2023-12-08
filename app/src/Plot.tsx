@@ -177,18 +177,27 @@ const Plot = ({
       .on("mouseenter", (e, d) => {
         setTooltipData(d);
         showTooltip(e);
+        d3.select(e.target).attr("stroke-width", 1).attr("stroke", "#fff");
       })
-      .on("mouseleave", (d) => {
+      .on("mouseleave", (e, d) => {
         tooltip.style("visibility", "hidden");
+        d3.select(e.target).attr("stroke-width", 0);
       });
 
+    let sameMovies;
     genreMarks
       .on("mouseenter", (e, d) => {
         setTooltipData(d);
         showTooltip(e);
+        sameMovies = svg.selectAll(`rect.genre-mark.${d.id}`);
+        sameMovies
+          .attr("stroke-width", 6)
+          .attr("stroke-location", "outside")
+          .attr("stroke", "#fff");
       })
-      .on("mouseleave", (d) => {
+      .on("mouseleave", (e, d) => {
         tooltip.style("visibility", "hidden");
+        sameMovies.attr("stroke-width", 0);
       });
 
     //legend
@@ -583,7 +592,6 @@ const Plot = ({
       });
       resetDialoguePlot();
       resetMarks();
-      resetGenreMarks();
       resetStackedArea();
       resetSentimentChart();
 

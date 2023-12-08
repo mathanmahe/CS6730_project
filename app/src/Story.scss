@@ -25,6 +25,49 @@
   display: flex;
   align-items: center;
 
+  a {
+    color: white;
+    text-decoration: underline;
+  }
+  .sub {
+    margin-top: 0.5rem;
+    opacity: 0.7;
+    font-size: 0.8rem;
+  }
+  .sub-title {
+    margin: 1.2rem 0 0.3rem 0;
+    font-weight: 600;
+  }
+  .list {
+    margin: 1.2rem 0;
+    display: flex;
+    flex-direction: column;
+    gap: 0.2rem;
+
+    > div {
+      display: flex;
+      gap: 0.5rem;
+    }
+
+    .chip {
+      flex-shrink: 0;
+      width: 1rem;
+      height: 1rem;
+      margin-top: 0.3rem;
+      &.zero {
+        background-color: #0087a7;
+      }
+      &.one {
+        background-color: #3dbcd3;
+      }
+      &.two {
+        background-color: #98d8dd;
+      }
+      &.three {
+        background-color: #e35e6d;
+      }
+    }
+  }
   &.title {
     width: 100vw;
     display: flex;

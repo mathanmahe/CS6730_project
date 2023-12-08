@@ -54,20 +54,41 @@ export const Story = ({ stepsRef, activeStep, dashboardActive }) => {
         >
           <div className="content">
             <div className="title">
-              How to Assess the Representation of Women? - Bechdel Score
+              Bechdel Test: How to Assess the Representation of Women?
             </div>
             <div className="desc">
-              To evaluate women's representation in these films, we utilized the
-              Bechdel Test as a primary metric. Points are based on three
-              criteria: <br />
-              <br />
-              1. The movie must feature at least two women. <br />
-              2. These women have to talk to each other. <br />
-              3. Their conversation should be about something other than a man.
-              <br /> <br />
-              Each criterion met earns one point, resulting in a score range of
-              0 to 3 (Here the movies are sorted based on their rank, with the
-              highest ranked at the bottom)
+              In our analysis of women's representation in film, the{" "}
+              <a href="https://en.wikipedia.org/wiki/Bechdel_test">
+                Bechdel Test
+              </a>{" "}
+              serves as a crucial benchmark. This test, named after cartoonist
+              Alison Bechdel, offers a simple way to gauge the presence and
+              significance of female characters in movies. To pass the test, a
+              film must meet three key criteria:
+              <div className="list">
+                <div>
+                  <span className="chip zero"></span>None of the below criteria
+                  apply.
+                </div>
+                <div>
+                  <span className="chip one"></span>The presence of at least two
+                  named female characters.
+                </div>
+                <div>
+                  <span className="chip two"></span>These characters engage in a
+                  conversation with each other.
+                </div>
+                <div>
+                  <span className="chip three"></span>The topic of their
+                  conversation is about something other than a man. (Test Pass!)
+                </div>
+              </div>
+              Each criterion met earns the film one point, creating a scoring
+              system that ranges from 0 to 3.
+              <div className="sub">
+                * In the chart on the left, movies are sorted based on their
+                rank, with the highest ranked at the bottom.
+              </div>
             </div>
           </div>
         </div>
@@ -79,11 +100,11 @@ export const Story = ({ stepsRef, activeStep, dashboardActive }) => {
           <div className="content">
             <div className="title">Change in Bechdel Scores Over Time </div>
             <div className="desc">
-              We analyzed the Bechdel scores of these movies by decade,
-              presented through a stacked area chart. A gradual increase is
-              observed in films passing the Bechdel Test, especially noticeable
-              in the 2010s. The 1980s have the lowest number of movies that pass
-              the Bechdel test.
+              We analyzed the proportion of top 250 movies by decade that pass
+              the Bechdel Test, presented through a 100% stacked area chart. A
+              gradual increase in films passing the Bechdel Test is observed,
+              especially noticeable in the 2010s. The 1980s have the lowest
+              number of movies that pass the Bechdel Test.
             </div>
           </div>
         </div>
@@ -116,10 +137,9 @@ export const Story = ({ stepsRef, activeStep, dashboardActive }) => {
               <div className="desc">
                 So, do movies with better representation of women get more
                 popularity and revenue? We mapped unit size to IMDB votes and
-                revenue. While votes don't seem to have much to do with whether
-                or not a movie passes the test, we can see that recent big
-                grossing movies in the action and adventure genres all passed
-                the Bechdel test.
+                worldwide gross. While votes don't seem to have much to do with
+                whether or not a movie passes the test, we can see that recent
+                big grossing movies all passed the Bechdel test.
               </div>
             </div>
           </div>
@@ -134,10 +154,10 @@ export const Story = ({ stepsRef, activeStep, dashboardActive }) => {
             <div className="desc">
               Besides the Bechdel Score, we looked at other indicators of
               women's representation: <br />
-              Director's Gender: Considering the significant male dominance in
-              film direction, we explored how many top 250 films were directed
-              by women. Unfortunately, only a handful of these films had female
-              directors.
+              <div className="sub-title">Director's Gender</div>
+              Considering the significant male dominance in film direction, we
+              explored how many top 250 films were directed by women.
+              Unfortunately, only a handful of these films had female directors.
             </div>
           </div>
         </div>
@@ -147,13 +167,16 @@ export const Story = ({ stepsRef, activeStep, dashboardActive }) => {
           data-idx={6}
         >
           <div className="content">
-            <div className="title">Let's See the Script</div>
+            <div className="title">Beyond the Bechdel Test</div>
             <div className="desc">
-              Script Analysis: A comprehensive analysis of women's
-              representation requires a deeper dive into the content. For
-              instance, examining the scripts of 'Jaws' and 'Jurassic Park'
-              (both are adventure and passing the Bechdel Test) revealed
-              significant differences in the portrayal of female characters.
+              <div className="sub-title">Script Insights</div>
+              The Bechdel Test is an initial gauge of female representation in
+              films, highlighting the presence of women. However, it doesn't
+              assess the depth or complexity of female characters and
+              narratives. A deeper script analysis can reveal more, as seen in
+              movies like 'Jaws' and 'Jurassic Park'. Both pass the Bechdel Test
+              and fall under the adventure genre, yet they show notable
+              differences in how female characters are portrayed.
             </div>
           </div>
         </div>
@@ -165,10 +188,13 @@ export const Story = ({ stepsRef, activeStep, dashboardActive }) => {
           <div className="content">
             <div className="title">Highlighting Female Dialogue in Scripts</div>
             <div className="desc">
-              We highlighed Female charactor's diague only. In 'Jurassic Park,'
-              female dialogue was nearly 50% of the script, evenly distributed
-              throughout the movie, unlike the other film with less prominent
-              female dialogue.
+              To assess the frequency and prominence of female dialogue in film
+              scripts, we highlighted dialogues of female characters in the
+              scripts. In 'Jurassic Park,' female dialogue comprised nearly half
+              of the script and was evenly distributed across the film. This is
+              in contrast to 'Jaws,' where female dialogue is primarily confined
+              to specific scenes only, highlighting the differences in how
+              female characters are given a voice in these movies.
             </div>
           </div>
         </div>
@@ -179,14 +205,16 @@ export const Story = ({ stepsRef, activeStep, dashboardActive }) => {
         >
           <div className="content">
             <div className="title">
-              A Segment-Based Female Dialogue Proportion: Dialogue Waffle
-              Diagram
+              A Segment-Based Female Dialogue Proportion
             </div>
             <div className="desc">
-              By segmenting each movie script into 100 equal parts and analyzing
-              the proportion of women's dialogues, we can better understand and
-              easily compare the nuances of how women are represented in these
-              films.
+              To facilitate a clear comparison of where and how much women speak
+              from the beginning to the end of a movie, we created a waffle
+              chart visualization. By segmenting each movie script into 100
+              equal parts, the chart fills in colors based on the proportion of
+              women's dialogues in each segment. This method provides an
+              at-a-glance view, enabling an easy comparison of female dialogue
+              distribution throughout the films.
             </div>
           </div>
         </div>
@@ -198,9 +226,14 @@ export const Story = ({ stepsRef, activeStep, dashboardActive }) => {
           <div className="content">
             <div className="title"> Emotional Analysis of Dialogues</div>
             <div className="desc">
-              'Jaws' showed female dialogues focused mainly on anger and joy. In
-              contrast, 'Jurassic Park' presented a wider range of emotions in
-              female dialogues, suggesting a richer representation of women.
+              Additionally, we visualized the diversity of emotions expressed by
+              women in comparison to men in films through sentiment analysis of
+              movie dialogues. This approach helps us determine how
+              multidimensionally women are portrayed. For instance, in 'Jaws,'
+              female dialogues predominantly revolved around anger and joy. In
+              contrast, 'Jurassic Park' showcased a broader spectrum of emotions
+              in female dialogues, indicating a more nuanced and richer
+              representation of women.
             </div>
           </div>
         </div>
@@ -211,8 +244,9 @@ export const Story = ({ stepsRef, activeStep, dashboardActive }) => {
         >
           <div className="content">
             <div className="desc">
-              Now, let's explore Dialogue Waffle Diagrams and Script Analyses
-              for the Remaining Films!
+              Now, let's dive into the portrayal of women in top 250 movie
+              scripts. Click on the waffle chart to see script sentiment
+              analysis and gender representation in movie posters.
             </div>
           </div>
         </div>

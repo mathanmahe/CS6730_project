@@ -55,10 +55,10 @@ export const prepareGenreUnits = ({ svg, data, bechdelColorScale }) => {
     .attr("class", (d, i) => {
       //TODO use movie id
       if (sampleTitles[0] === d.title && d.genre === "Adventure")
-        return "genre-mark compare movie1";
+        return `genre-mark compare movie1 ${d.id}`;
       else if (sampleTitles[1] === d.title && d.genre === "Adventure")
-        return "genre-mark compare movie2";
-      else return "genre-mark";
+        return `genre-mark compare movie2 ${d.id}`;
+      else return `genre-mark ${d.id}`;
     })
     .attr("fill", (d) => bechdelColorScale(d.BechdelRating) as string)
     .attr("opacity", 0);
