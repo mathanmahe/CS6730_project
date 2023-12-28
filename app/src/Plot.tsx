@@ -880,7 +880,7 @@ const Plot = ({
               })
               .attr("dy", -10)
               .transition()
-              .duration(600)
+              .duration(200)
               .attr("opacity", 1);
           });
       });
@@ -896,7 +896,6 @@ const Plot = ({
       // resetSentimentChart();
       hideLegend();
 
-      dialoguePlotGroup.selectAll("text").attr("opacity", 0);
       dialoguePlotGroup
         .selectAll("rect")
         .transition()
@@ -913,6 +912,8 @@ const Plot = ({
             .transition()
             .duration(300)
             .style("opacity", 1);
+
+          dialoguePlotGroup.selectAll("text").attr("opacity", 0);
         });
     };
 
